@@ -377,11 +377,11 @@ Japanese	Japanese
 570427210	Important Objects
 1536012121	Move your cursor over important objects to see their function.
 656570826	Guarda <hotkey>{0}</hotkey> and move the cursor over interactable objects to see their function.
-545151036	Camera Rotation
-68323806	Guarda <hotkey>{0}</hotkey> and move the mouse to freely rotate the camera.
-573759884	Guarda <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to freely rotate the camera.
-141599116	Camera Reset
-1856158476	Press <hotkey>{0}</hotkey> to center the camera on your selected character and reset the camera rotation to default.
+545151036	Girar a câmera
+68323806	Segure <hotkey>{0}</hotkey> e mova o mouse para girar livremente a câmera.
+573759884	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para girar livremente a câmera.
+141599116	Redefinir a câmera
+1856158476	Pressione <hotkey>{0}</hotkey> para centralizar a câmera no personagem selecionado e redefinir o giro da câmera para o padrão.
 490202928	Viewcone Diving
 751421264	Don't be afraid to dive through an enemy's viewcone if necessary. As long as you can get back out fast enough, you will stay undetected.
 1535817616	Viewcone Surfing
