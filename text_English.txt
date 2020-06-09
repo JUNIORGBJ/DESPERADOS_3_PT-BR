@@ -774,16 +774,16 @@ Japanese	Japanese
 121027725	Não mate Casacos Longos.
 1666736140	Mate todos os casacos longos.
 1895505204	Não use um disfarce.
-1511084033	Don't use Isabelle's connect ability.
-333914070	Make the deaths of {0} targets look like accidents.
-1609551893	Listen in on {0} private conversations.
-1261745902	Bury Josh.
-1871889850	Kill {0} mission targets at the same time.
-915982424	Don't kill or knock out anyone in the train track area.
-967883884	Take a photo of the dead groom.
-98710076	With Cooper, enter the building through the main balcony door.
-707714733	Kill {0} guards with the Gatling gun.
-1258018290	Finish the mission without using a torch.
+1511084033	Não use a capacidade de conexão de Isabelle.
+333914070	Faça com que a morte de {0} alvos pareça acidentes.
+1609551893	Ouça {0} conversas particulares.
+1261745902	Enterre Josh.
+1871889850	Mate {0} alvos da missão ao mesmo tempo.
+915982424	Não mate ou nocauteie ninguém na área dos trilhos de trem.
+967883884	Tire uma foto do noivo morto.
+98710076	Com Cooper, entre no prédio pela porta principal da varanda.
+707714733	Mate {0} guardas com a metralhadora.
+1258018290	Termine a missão sem usar uma tocha.
 808979380	Win the bet with McCoy.
 1715221562	Win the bet with Hector.
 844798888	Burn {0} guards in oil puddles.
