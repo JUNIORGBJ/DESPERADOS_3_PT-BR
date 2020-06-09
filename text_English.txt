@@ -181,17 +181,17 @@ Japanese	Japanese
 876312009	DEV
 486633304	Lembrete de jogo salvo
 367072283	Ativa o lembrete de jogo salvo na borda superior da tela./n Ajuste também o tempo para que o lembrete reapareça após seu último jogo salvo.
-904565450	NPC Subtitles
-1016841846	Enables subtitles for NPCs in the game world.
-1140205606	Toggle Highlighter
-612494481	Text Language
-357458454	Voice Language
-1830301241	Determines how long the Highlighter will stay active:/nOff: Stays active for a few seconds./nOn: Stays active until deactivated.
-1442293416	Adjust the gamma slider so that you can distinguish between all the steps of the gradient texture and barely see the gun on the left anymore.
+904565450	Legendas dos NPC
+1016841846	Habilita legendas para NPCs no mundo do jogo.
+1140205606	Alterna Marca-Texto
+612494481	Idioma do texto
+357458454	Idioma da voz
+1830301241	Determina quanto tempo o Marcador permanecerá active:/nOff: Permanece ativo por alguns segundos./nOn: Permanece ativo até ser desativado.
+1442293416	Ajuste o controle deslizante de gama para que você possa distinguir entre todas as etapas da textura degradê, você mal deve ver a arma à esquerda.
 1093446963	REINICIAR JOGO
 604412219	Isso reiniciará seu jogo. Você perderá todo o progresso da missão, jogos salvos e distintivos desbloqueados. Suas configurações de vídeo, áudio, configurações de jogo e layouts de entrada personalizados NÃO serão redefinidos. Você deseja continuar?
-215104258	Keyboard
-1327985646	Camera Speed
+215104258	Teclado
+1327985646	Velocidade da câmera.
 405449256	Controller Aim Speed
 1606175245	Controller Axis Threshold
 600213007	Adjusts the threshold for controller stick movement recognition.
