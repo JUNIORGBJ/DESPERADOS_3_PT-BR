@@ -306,54 +306,54 @@ Japanese	Japanese
 289232529	Ir para Xbox Store
 1024096936	Ir para PlayStation®Store
 1609842196	Ocorreu um erro ao carregar.
-1893923580	Sorry. Something went wrong.
+1893923580	Desculpa. Algo deu errado.
 339664616	Desperado
-2136073159	Desperado difficulty requires perfect planning and execution. Enemies have lightning reflexes. Characters have almost no health or ammo./n/nNOTE: NOT RECOMMENDED FOR A FIRST PLAYTHROUGH, regardless of player skill.
-1627962200	Active Controller
-1637947761	Select which controller you want to use for input.
-752466123	Enables controller vibration.
-1419415249	Signed Out
-1458532162	{0} has signed out. Returning to main menu now.
-1575082279	User Switched
-306408042	Switched to profile {0}. Returning to main menu now.
-1429086435	(+{0} more)
-1409730632	Press any key to start
-648045773	Waiting for PlayStation®Store
-442800743	Waiting for Xbox Store
-128141297	A network error occurred.
-681487417	Video Settings
-1052460126	Gameplay Settings
-2087751746	Audio Settings
-25224588	Bootup Data
-1739078801	Input Layout
-442535890	Savegame is corrupt. Mission will be restarted.
-830724165	Eye Tracking Settings
-75518517	Not enough space available. Please free up more space to save the game.
-1883515290	For a full overview of all bindable actions, head to Options and open the Controls menu
-1865076062	Briefing Subtitles
-1993831770	Conversation Subtitles
-181097058	Change
-2120229012	Press {0} to load last quicksave
-1659245168	Press to load
-529741173	Chapter I
-213395621	Chapter II
-1849150576	Chapter III
-396044400	Global stats
+2136073159	A dificuldade Desperado requer planejamento e execução perfeitos. Os inimigos têm reflexos de raios. Os personagens quase não têm saúde ou munição./n/nNOTE: NÃO RECOMENDADO PARA A PRIMEIRA REPRODUÇÃO, independentemente da habilidade do jogador.
+1627962200	Controlador ativo
+1637947761	Selecione qual controlador você deseja usar para entrada.
+752466123	Ativa a vibração do controlador.
+1419415249	Sair
+1458532162	{0} saiu da seção. Retornando ao menu principal agora.
+1575082279	Usuário trocado
+306408042	Mudou para o perfil {0}. Voltando ao menu principal agora.
+1429086435	(+{0} mais)
+1409730632	Pressione qualquer tecla para iniciar
+648045773	Esperando por PlayStation®Store
+442800743	Esperando por Xbox Store
+128141297	Ocorreu um erro de rede.
+681487417	Configurações de vídeo
+1052460126	Configurações de jogabilidade
+2087751746	Configurações de áudio
+25224588	Dados de inicialização
+1739078801	Layout de entrada
+442535890	O Savegame está corrompido. A missão será reiniciada.
+830724165	Configurações de rastreamento do movimento ocular
+75518517	Espaço insuficiente disponível. Libere mais espaço para salvar o jogo.
+1883515290	Para uma visão geral completa de todas as ações vinculáveis, vá para Opções e abra o menu Controles
+1865076062	Legendas de instruções
+1993831770	Legendas de conversas
+181097058	Mudar
+2120229012	Pressione {0} para carregar o último salvamento rápido
+1659245168	Pressione para carregar
+529741173	Capítulo I
+213395621	Capítulo II
+1849150576	Capítulo III
+396044400	Estatísticas globais
 42023172	Replay browser
-1655725184	Tutorials
-943246456	Save replay
-1893463442	Guard house
-1469139790	Camera Follow Mode
-259250595	Standard: No auto follow, only via manual action./nAlways: Keeps camera centered on leader.
-2096575592	Standard
-652460590	Intelligent
-1820430346	Always
-1459237052	Cutscene Subtitles
-1076145211	Player Subtitles
-310268606	Subtitles
-348832845	LOADINGTIP
-1514049626	Tooltips
-163742262	All skills and characters have tooltips. They can help you discover new strategies.
+1655725184	Tutoriais
+943246456	Salvar repetição
+1893463442	Casa dos guardas
+1469139790	Câmera em Modo de Acompanhamento
+259250595	Padrão: sem acompanhamento automático, apenas por ação manual. / Sempre: Mantém a câmera centralizada no líder.
+2096575592	Padrão
+652460590	Inteligente
+1820430346	Sempre
+1459237052	Legendas de Cutscene
+1076145211	Legendas do jogador
+310268606	Legendas
+348832845	DICAS DE CARREGAMENTO
+1514049626	Dicas de ferramentas
+163742262	Todas as habilidades e personagens têm dicas de ferramentas. Eles podem ajudá-lo a descobrir novas estratégias.
 605453809	Nonlethal Melee Attacks
 482668800	All melee attacks have a nonlethal option. Press <hotkey>{0}</hotkey> to switch to nonlethal, or use the modifier in your skill bar.
 1798452257	All melee attacks have a nonlethal option. Hold <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
