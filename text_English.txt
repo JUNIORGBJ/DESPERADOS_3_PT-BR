@@ -178,7 +178,6 @@ Japanese	Japanese
 435550555	CONTROLES
 1956330395	CRÉDITOS
 876312009	DEV
-486633304	Save Reminder
 486633304	Lembrete de jogo salvo
 367072283	Ativa o lembrete de jogo salvo na borda superior da tela./n Ajuste também o tempo para que o lembrete reapareça após seu último jogo salvo.
 904565450	Legendas NPC
@@ -232,7 +231,7 @@ Japanese	Japanese
 1332767595	Dificuldade normal. Os inimigos reagem rapidamente e seus personagens têm uma quantidade moderada de pontos de vida./n/nNOTA: Recomendado para jogadores familiarizados com o gênero RTS.
 84533367	Dificuldade difícil é destinada àqueles com um profundo conhecimento da mecânica tática em tempo real. Os inimigos reagem quase instantaneamente e são mais agressivos. Seus personagens têm menos saúde./n/nNOTA: Recomendado para veteranos do gênero RTS.
 995994767	Sincronização vertical
-1700288794	Sincronização vertical Desligado
+1700288794	Desligar
 169915306	Taxa de atualização completa
 1506251381	Taxa de Atualização media
 74011557	Filtragem anisotrópica
