@@ -203,6 +203,7 @@ Japanese	Japanese
 738261692	Arquivo de salvado obsoleto!
 753130424	NOVO JOGO
 1238399001	CONFIRMAR
+1616262428	Restabelecer configurações
 1063145121	COMEÇAR UM NOVO JOGO?
 1171586678	DELETAR
 620746292	Deletar jogo salvo? {0}
