@@ -9,13 +9,13 @@ Korean	Korean
 Polish	Polish
 Japanese	Japanese
 
-1089572441	Selecionar personagen
-326908463	Cancelar seleção de personagen
+1089572441	Selecionar personagem
+326908463	Cancelar seleção de personagem
 1593035469	Selecionar todos os personagens
 720952508	Cancelar seleção de todos os personagens
 8814543	Usar
 1707401394	Correr
-1228448906	Esconder cadável
+1228448906	Esconder cadáver
 974031510	Pulo baixo
 1570316501	Pulo
 1281200264	Equipamento que falta
@@ -28,7 +28,7 @@ Japanese	Japanese
 14277674	Alternar visual do cone
 1007288526	Alternar ação
 760226682	Executar plano
-623490031	Registro de misões
+623490031	Registro de missões
 1137813917	Pausar
 341979071	Continuar
 1020053951	Salvar rápido
@@ -48,9 +48,9 @@ Japanese	Japanese
 454694763	Reiniciar a missão? Todo o progresso não salvo será perdido.
 1410384205	Sair da missão? Todo o progresso não salvo será perdido.
 426906539	Carregar jogo salvo selecionado
-1455108595	Crear no jogo salvo
+1455108595	Criar no jogo salvo
 537819092	Tempo de conclusão:
-1033428211	Número de Saves:
+1033428211	Número de jogo salvo:
 1389622243	Número de carregamentos:
 876575705	Inimigos mortos:
 663721942	Inimigos perdoados:
@@ -64,7 +64,7 @@ Japanese	Japanese
 221506391	{0}:{1}:{2}
 1223194325	{0}:{1}
 1238875375	{0}s
-1003502670	ESTATISTICAS
+1003502670	ESTATÍSTICAS
 1350143852	PERSONAGENS
 1519278145	Execuções:
 1771961771	Tempo:
@@ -74,9 +74,9 @@ Japanese	Japanese
 553774258	Pular {0}
 763728597	Pular
 1607540763	FIM DE JOGO
-134572073	OBJETIVOS DA MISSÃO
+134572073	OBJETIVOS
 684574630	DICAS
-15174608	REGISTRO DE CONVERSAS
+15174608	CONVERSAS
 1690935143	DISTINTIVOS
 534458022	Girar
 1172304687	Zoom
@@ -85,7 +85,7 @@ Japanese	Japanese
 1552845124	Objetivos
 2129578386	Visão
 45086762	Entrar
-650614824	Empurar
+650614824	Empurrar
 1006693641	Sair
 1012474485	Roubar
 824126935	Cortar
@@ -94,10 +94,10 @@ Japanese	Japanese
 2009903160	Derrubar
 404800528	Bloqueado
 98960900	Distintivos inacabados não são mostrados na primeira vez que uma missão é jogada.
-143561912	{0} (Guarda)
+143561912	{0} (Segure)
 1031727861	Vista central
 1317422898	Alterar saída
-1574346156	Estatisticas
+1574346156	Estatísticas
 268313053	Distintivos
 1677804019	Nova dica! {0}
 47952872	Objetivos atualizados! {0}
@@ -127,7 +127,7 @@ Japanese	Japanese
 1770561895	SIM
 2074094913	NÃO
 1895473994	ATENÇÃO!
-1616262428	Reiniciar tudo
+1616262428	Restaurar padrões
 1751646158	Pressione {0} para iniciar
 1417345817	CONTINUAR
 540295136	CARREGAR
@@ -173,69 +173,69 @@ Japanese	Japanese
 1261996133	REINICIAR
 1680915354	Deseja realmente sair para o Desktop?
 1228739812	Carregamento rápido
-194751495	VIDEO
-742750455	GAMEPLAY
-427002912	AUDIO
+194751495	VÍDEO
+742750455	JOGABILIDADE
+427002912	ÁUDIO
 435550555	CONTROLES
-1956330395	CREDITOS
+1956330395	CRÉDITOS
 876312009	DEV
 486633304	Lembrete de jogo salvo
 367072283	Ativa o lembrete de jogo salvo na borda superior da tela./n Ajuste também o tempo para que o lembrete reapareça após seu último jogo salvo.
-904565450	Legendas dos NPC
+904565450	Legendas NPC
 1016841846	Habilita legendas para NPCs no mundo do jogo.
-1140205606	Alterna Marca-Texto
+1140205606	Alternar marca-texto
 612494481	Idioma do texto
 357458454	Idioma da voz
-1830301241	Determina quanto tempo o Marcador permanecerá active:/nOff: Permanece ativo por alguns segundos./nOn: Permanece ativo até ser desativado.
-1442293416	Ajuste o controle deslizante de gama para que você possa distinguir entre todas as etapas da textura degradê, você mal deve ver a arma à esquerda.
+1830301241	Determina quanto tempo o Marcador permanecerá ativo:/nDesligado: permanece ativo por alguns segundos./nLigado: permanece ativo até ser desativado.
+1442293416	Ajuste a barra de gama até distinguir todas as etapas do gradiente de textura e visualizar a arma à esquerda.
 1093446963	REINICIAR JOGO
 604412219	Isso reiniciará seu jogo. Você perderá todo o progresso da missão, jogos salvos e distintivos desbloqueados. Suas configurações de vídeo, áudio, configurações de jogo e layouts de entrada personalizados NÃO serão redefinidos. Você deseja continuar?
 215104258	Teclado
-1327985646	Velocidade da câmera.
-405449256	Controller Aim Speed
-1606175245	Controller Axis Threshold
-600213007	Adjusts the threshold for controller stick movement recognition.
-824998259	Camera Border Scrolling
-666387157	Toggle Fast Forward
-1162764950	CUTSCENE
-1225642196	Do you want to watch the cutscene again?
+1327985646	Velocidade da câmera
+405449256	Velocidade do controlador de alvo
+1606175245	Velocidade do controlador de eixo
+600213007	Ajusta a velocidade de movimento do cursor para apontar habilidades.
+824998259	Rolagem da borda da câmera
+666387157	Alternar avanço rápido
+1162764950	CINEMÁTICA
+1225642196	Deseja assistir à cena novamente?
 1718054198	Salvado rápido
 234100204	Salvado normal
 738261692	Arquivo de salvado obsoleto!
 753130424	NOVO JOGO
 1238399001	CONFIRMAR
-1063145121	COMECAR UM NOVO JOGO?
+1063145121	COMEÇAR UM NOVO JOGO?
 1171586678	DELETAR
 620746292	Deletar jogo salvo? {0}
 66585026	OK
-1382966912	Auto-Standup
-2021839866	Determines whether characters stand up automatically on double click.
+1382966912	Levantar automaticamente
+2021839866	Determina se os personagens levantam automaticamente ao clicar duas vezes.
 102014301	Próximo
 48274808	Fechar
 1637075804	INFO
 871894210	VOLTAR
 299223502	Missão fracassada
 534861306	Selecione um arquivo para carregar
-1290710887	Resolution
-592999434	Shadow Distance
+1290710887	Resolução
+592999434	Distância da Sombra
 30989482	Baixo
 897119853	Médio
 1371281051	Alto
-102567943	Water Reflection
-1877893628	Auto-Dialogue
-2009175530	Full
-429141927	Half
-876302356	Quarter
-9527696	Eighth
-1609646037	Load Savegame?
-915383769	Beginner difficulty requires a thoughtful approach, but has some margin for error. Enemies react slower and are less aggressive. Your characters have more health./n/nNOTE: Strongly recommended for those who are new or recently returning to the Real-Time Tactics genre.
-1332767595	Balanced difficulty. Enemies react quickly. Your characters have a moderate amount of health./n/nNOTE: Recommended for players familiar to the Real-Time Tactics genre.
-84533367	Hard difficulty is suited for those with good in depth knowledge of RTT mechanics. Enemies react almost instantly and are more aggressive. Your characters have less health./n/nNOTE: Recommended for veterans of the Real-Time Tactics genre.
-995994767	V-Sync
-1700288794	Don't sync
-169915306	Full Refresh Rate
-1506251381	Half Refresh Rate
-74011557	Anisotropic Filtering
+102567943	Reflexo da água
+1877893628	Diálogo automático
+2009175530	Completo
+429141927	Metade
+876302356	Um quarto
+9527696	Oito
+1609646037	Carregar jogo salvo?
+915383769	Dificuldade principiante requer alguns cuidados, mas deixa margem para erro. Os inimigos reagem mais devagar e são menos agressivos. Seus personagens têm mais saúde./n/nNOTA: Altamente recomendado para aqueles que não têm experiência com o gênero RTS.
+1332767595	Dificuldade normal. Os inimigos reagem rapidamente e seus personagens têm uma quantidade moderada de pontos de vida./n/nNOTA: Recomendado para jogadores familiarizados com o gênero RTS.
+84533367	Dificuldade difícil é destinada àqueles com um profundo conhecimento da mecânica tática em tempo real. Os inimigos reagem quase instantaneamente e são mais agressivos. Seus personagens têm menos saúde./n/nNOTA: Recomendado para veteranos do gênero RTS.
+995994767	Sincronização vertical
+1700288794	Desligado
+169915306	Taxa de atualização completa
+1506251381	Taxa de Atualização media
+74011557	Filtragem anisotrópica
 1269150780	Tela Cheia
 926514941	Qualidade
 658779970	Baixo
@@ -244,58 +244,58 @@ Japanese	Japanese
 904257921	Customizada
 1374150836	Oclusão do Ambiente
 8811852	Anti-Aliasing
-1848427170	Colorblind Mode
-431050512	Save Error
-1338371785	Something went wrong while saving.
+1848427170	Modo daltônico
+431050512	Falha ao salvar
+1338371785	Algo deu errado ao salvar.
 50685828	Carregando
 462364397	Salvando
-1753630574	More games
-1920816122	Previous
-312686700	Enables colorblind mode.
-175092334	Determines whether dialogue is advanced automatically during briefings.
-2119128132	Adjusts the strength of outlines for characters and interactive objects.
-1770522976	Outline Strength
-903136842	Weak
-214647730	Medium
-1939756145	Strong
-475868445	Gamma Correction
-1552857310	Adjusts the visibility of enemy viewcones.
-1320655516	Viewcone
-1362801099	This savegame is deprecated. Loading it will not be possible on the latest version of the game. We apologize for the inconvenience.
-595402552	Choose Dialogue Language
-1894310156	Please select your preferred language for spoken dialogue. You can always change this setting later in the options menu.
-1031410729	Apply
-1175167657	Settings have been changed. Apply changes?
-1937172350	This savegame was created in another level. Loading it will exit the current level. All unsaved progress will be lost! Continue?
-692943060	Speaker Mode
-1727566288	Select which Speaker Mode you want to use. This option is only available in the main menu.
-2012998024	Camera Rotation
-1154410071	Camera Zoom
-1062301022	Camera X-Axis
-122559663	Camera Y-Axis
-444678528	Drag Camera X-Axis
-1512099547	Drag Camera Y-Axis
-724136998	Aiming X-Axis
-1114573338	Aiming Y-Axis
-415969457	Inverted
+1753630574	Mais jogos
+1920816122	Anterior
+312686700	Ativa o modo daltônico.
+175092334	Selecione seu idioma preferido para conversas faladas. No menu de opções, você pode alterar essa configuração a qualquer momento.
+2119128132	Ajusta os contornos de personagens e objetos interativos.
+1770522976	Intensidade do contorno
+903136842	Fraco
+214647730	Médio
+1939756145	Forte
+475868445	Correção de gama
+1552857310	Ajusta a visibilidade dos cones inimigos.
+1320655516	Cones
+1362801099	Este jogo salvo está obsoleto. Carregá-lo não será possível na versão mais recente do jogo.
+595402552	Escolha o idioma da voz
+1894310156	Por favor, selecione seu idioma preferido para o diálogo falado. Você sempre pode alterar essa configuração posteriormente no menu de opções.
+1031410729	Aplicar
+1175167657	As configurações foram alteradas. Aplicar mudanças?
+1937172350	Este jogo salvo foi criado em outro nível. Carregá-lo sairá do nível atual. Todo o progresso não salvo será perdido! Continuar?
+692943060	Modo Alto-falante
+1727566288	Selecione o modo de alto-falante que você deseja usar. Esta opção está disponível apenas no menu principal.
+2012998024	Rotação da câmera
+1154410071	Zoom da câmera
+1062301022	Eixo X da câmera
+122559663	Eixo Y da câmera
+444678528	Arrastar eixo X da câmera
+1512099547	Arrastar eixo Y da câmera
+724136998	Visão eixo X
+1114573338	Visão eixo Y
+415969457	Invertido
 888640053	Normal
-469052433	Controller Disconnected
-1024292908	Reconnect your controller or press {0} on another connected controller.
-1072918770	Vibration
-510496150	Enables wireless controller vibration.
-1726656013	Loading User Savedata
-604825608	Savegame corrupt
-1072627118	The file you tried to load was corrupted and will be overwritten with the default settings.
-2074534947	USER DATA
-495479490	Wireless Controller Disconnected
-1564185545	Not enough disk space. Please free up more space to save the game.
-208516596	corrupted
-1080011117	SWITCHING USER
+469052433	Controle desconectado
+1024292908	Reconecte seu controle ou pressione {0} em outro controle conectado.
+1072918770	Vibração
+510496150	Permite vibração do Controle sem fio.
+1726656013	Carregando dados salvos do usuário
+604825608	Jogo salvo corrompido
+1072627118	O arquivo que você tentou carregar estava corrompido e será substituído pelas configurações padrão.
+2074534947	DADOS DO USUÁRIO
+495479490	Controle sem fio desconectado
+1564185545	Sem espaço suficiente no disco. Libere mais espaço para salvar o jogo.
+208516596	corrompido
+1080011117	USANDO SWITCHING
 1615693186	Please do not turn off your PlayStation®4 system while this symbol is displayed.
 653665833	Please do not close the game, suspend the game or turn off your Xbox One console while this symbol is displayed.
 1801035418	Please do not close the game while this symbol is displayed.
 1308428726	Failed to initialize storage. In order to play, you need a connected storage space.
-1459825798	Try Again
+1459825798	Tente novamente
 1825071464	Your latest savegame is deprecated or corrupt. Do you wish to restart the current mission instead?
 906613780	You have reached the maximum number of savegames. Please delete or overwrite an existing savegame. Note: Quicksaves do not count toward this limit.
 2114202035	Reconnect your wireless controller or use another connected wireless controller and switch to the user who started the application.
@@ -305,65 +305,65 @@ Japanese	Japanese
 488026919	Visit our store page if you want to purchase {0}
 289232529	Go to Xbox Store
 1024096936	Go to PlayStation®Store
-1609842196	Something went wrong while loading.
-1893923580	Sorry. Something went wrong.
+1609842196	Ocorreu um erro ao carregar.
+1893923580	Desculpa. Algo deu errado.
 339664616	Desperado
-2136073159	Desperado difficulty requires perfect planning and execution. Enemies have lightning reflexes. Characters have almost no health or ammo./n/nNOTE: NOT RECOMMENDED FOR A FIRST PLAYTHROUGH, regardless of player skill.
-1627962200	Active Controller
-1637947761	Select which controller you want to use for input.
-752466123	Enables controller vibration.
-1419415249	Signed Out
-1458532162	{0} has signed out. Returning to main menu now.
-1575082279	User Switched
-306408042	Switched to profile {0}. Returning to main menu now.
+2136073159	Dificuldade desesperado requer planejamento e execução perfeitos. Os inimigos têm reflexos como raios. Os personagens quase não têm vida ou munição./n/nNOTA: NÃO RECOMENDADO PARA PRIMEIRA PARTIDA, independentemente da habilidade do jogador.
+1627962200	Controle ativo
+1637947761	Selecione qual controle você deseja usar na entrada.
+752466123	Ativa a vibração do controle.
+1419415249	Encerrar sessão
+1458532162	{0} você desconectou. Retornando ao menu principal.
+1575082279	Usuário trocado
+306408042	Usuário trocado {0}. Voltando ao menu principal agora.
 1429086435	(+{0} mais)
 1409730632	Pressione qualquer tecla
 648045773	Aguardando a PlayStation®Store
 442800743	Aguardando a Xbox Store
-128141297	A network error occurred.
-681487417	Video Settings
-1052460126	Gameplay Settings
-2087751746	Audio Settings
-25224588	Bootup Data
-1739078801	Input Layout
-442535890	Savegame is corrupt. Mission will be restarted.
-830724165	Eye Tracking Settings
-75518517	Not enough space available. Please free up more space to save the game.
-1883515290	For a full overview of all bindable actions, head to Options and open the Controls menu
-1865076062	Legendas do briefing
+128141297	Ocorreu um erro de rede.
+681487417	Configurações de vídeo
+1052460126	Configurações de jogabilidade
+2087751746	Configurações de áudio
+25224588	Dados de inicialização
+1739078801	Layout de entrada
+442535890	O jogo salvo está corrompido. A missão será reiniciada.
+830724165	Configurações de rastreamento ocular
+75518517	Espaço insuficiente disponível. Libere mais espaço para salvar seu jogo.
+1883515290	Para ver uma visão geral de todas as ações vinculáveis, vá para Opções e abra o menu Controles.
+1865076062	Legendas das Instruções
 1993831770	Legendas da conversa
 181097058	Alterar
-2120229012	Pressione {0} to load last quicksave
+2120229012	Pressione {0} para carregar o último jogo salvo
 1659245168	Clique para carregar
 529741173	Capítulo I
 213395621	Capítulo II
 1849150576	Capítulo III
 396044400	Estatísticas globais
-42023172	Replay navegador
+42023172	Ver gravações
 1655725184	Tutoriais
-943246456	Replay salvo
+943246456	Gravação salva
 1893463442	Casa de guarda
 1469139790	Modo de acompanhamento da câmera
 259250595	Padrão: Nenhum acompanhamento automático, apenas por ação manual./nSempre: Mantém a câmera centralizada no líder.
 2096575592	Padrão
 652460590	Inteligente
 1820430346	Sempre
-1459237052	Legendas Cutscene
+1459237052	Legendas da cinemática
 1076145211	Legendas do jogador
 310268606	Legendas
 348832845	CARREGAR DICAS
-1514049626	Dicas de ferramentas
-163742262	All skills and characters have tooltips. They can help you discover new strategies.
+1514049626	Dicas das ferramentas
+163742262	Todos os personagens e habilidades têm notas pop-up que ajudam a descobrir novas estratégias.
 605453809	Nonlethal Melee Attacks
 482668800	All melee attacks have a nonlethal option. Press <hotkey>{0}</hotkey> to switch to nonlethal, or use the modifier in your skill bar.
-1798452257	All melee attacks have a nonlethal option. Hold <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
-1907007791	Nonlethal Jump Attacks
-124657665	When your melee attack is switched to nonlethal, jumping down on guards will knock them out instead of killing them.
+1798452257	All melee attacks have a nonlethal option. Guarda <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
+1907007791	Nonlethal Pular Attacks
+124657665	When your melee attack is switched to nonlethal, Pularing down on guards will knock them out instead of killing them.
 949271593	Moving Dead Bodies
 1671046303	Characters move dead bodies differently. Some focus on speed; others keep close to the ground to avoid detection.
 1628782004	Kill & Carry
-1344684890	Hold <hotkey>{0}</hotkey> when ordering a melee kill to pick up the body automatically.
-1476567941	Hold <hotkey>{0}</hotkey> during a melee kill to pick up the body automatically.
+1344684890	Guarda <hotkey>{0}</hotkey> when ordering a melee kill to pick up the body automatically.
+1476567941	Guarda <hotkey>{0}</hotkey> during a melee kill to pick up the body automatically.
 520060613	Viewcone Marker
 3333633	Take your time when testing a spot with the Viewcone Marker. Some guards have long patrol routes.
 822402292	Highlighter
@@ -373,15 +373,15 @@ Japanese	Japanese
 1981927858	If a guard is killed by a falling object, their death will look like an accident, so no one will raise the alarm.
 1066015511	Enemy Types
 1716596328	Move your cursor over guards to see their enemy type.
-739816734	Hold <hotkey>{0}</hotkey> and move your cursor over guards to see their enemy type.
+739816734	Guarda <hotkey>{0}</hotkey> and move your cursor over guards to see their enemy type.
 570427210	Important Objects
 1536012121	Move your cursor over important objects to see their function.
-656570826	Hold <hotkey>{0}</hotkey> and move the cursor over interactable objects to see their function.
-545151036	Camera Rotation
-68323806	Hold <hotkey>{0}</hotkey> and move the mouse to freely rotate the camera.
-573759884	Hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to freely rotate the camera.
-141599116	Camera Reset
-1856158476	Press <hotkey>{0}</hotkey> to center the camera on your selected character and reset the camera rotation to default.
+656570826	Guarda <hotkey>{0}</hotkey> and move the cursor over interactable objects to see their function.
+545151036	Girar a câmera
+68323806	Segure <hotkey>{0}</hotkey> e mova o mouse para girar livremente a câmera.
+573759884	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para girar livremente a câmera.
+141599116	Redefinir a câmera
+1856158476	Pressione <hotkey>{0}</hotkey> para centralizar a câmera no personagem selecionado e redefinir o giro da câmera para o padrão.
 490202928	Viewcone Diving
 751421264	Don't be afraid to dive through an enemy's viewcone if necessary. As long as you can get back out fast enough, you will stay undetected.
 1535817616	Viewcone Surfing
@@ -403,7 +403,7 @@ Japanese	Japanese
 858462126	Moving Bodies (Quickdrop)
 1778643117	When carrying a dead body, press <hotkey>{0}</hotkey> to crouch and drop it immediately.
 1824651014	Instant Skill Use
-2122441486	Hold down <hotkey>{0}</hotkey> to quickly execute skills that don't require aiming (like Hector's trap).
+2122441486	Guarda down <hotkey>{0}</hotkey> to quickly execute skills that don't require aiming (like Hector's trap).
 1607957211	UI Customization
 2063046262	You can customize the UI in the options menu and switch off elements like the Save Reminder.
 243581491	Ammo Crates
@@ -429,7 +429,7 @@ Japanese	Japanese
 778842893	Occupied Buildings
 1438210843	Your characters can't enter buildings with enemies inside.
 470739778	Running Away
-1020868379	Enemies can't climb vines or jump over gaps. Use these advantages when trying to escape.
+1020868379	Enemies can't climb vines or Pular over gaps. Use these advantages when trying to escape.
 1108269139	Corner of the Eye
 1137613639	Enemies can detect you from the corners of their eyes if you stand next to them for too long.
 1338931543	Lamps as Lures
@@ -447,7 +447,7 @@ Japanese	Japanese
 269943082	Golden Bullet
 410699328	McCoy will always save an extra bullet for mission objectives. Don't worry about failing a mission because you ran out of bullets.
 1568979145	Taking off the Disguise
-471953919	Hold <hotkey>{0}</hotkey> to manually take off Kate's disguise.
+471953919	Guarda <hotkey>{0}</hotkey> to manually take off Kate's disguise.
 1773294443	Unlocking Badges
 1758401545	Unlock badges by performing certain feats or playing missions under certain conditions.
 2100745183	Badges and Difficulty
@@ -461,20 +461,20 @@ Japanese	Japanese
 31059294	Customizing Controls
 1048689626	You can customize the control scheme and various gameplay settings in the options menu.
 1220564156	Character Multiselect
-1610317847	Hold <hotkey>{0}</hotkey> and drag a box over all characters you want to select. Alternatively, hold <hotkey>{1}</hotkey> and click <hotkey>{2}</hotkey> their portraits.
-42793480	While holding <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> to select more than one character, or <hotkey>{2}</hotkey> to select all available characters. You will control the first character you selected. The others will follow them.
+1610317847	Guarda <hotkey>{0}</hotkey> and drag a box over all characters you want to select. Alternatively, Guarda <hotkey>{1}</hotkey> and click <hotkey>{2}</hotkey> their portraits.
+42793480	While Guardaing <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> to select more than one character, or <hotkey>{2}</hotkey> to select all available characters. You will control the first character you selected. The others will follow them.
 1356113339	Multiple Waypoints
-1387195571	Hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to set multiple waypoints for characters.
+1387195571	Guarda <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to set multiple waypoints for characters.
 2070609971	Vision Mode
-878634208	Hold <hotkey>{0}</hotkey> to enter Vision Mode and select enemy viewcones. While in Vision Mode, you can also set a Viewcone Marker, display Alarm Zones or use Fast Forward to shorten your waiting time.
+878634208	Guarda <hotkey>{0}</hotkey> to enter Vision Mode and select enemy viewcones. While in Vision Mode, you can also set a Viewcone Marker, display Alarm Zones or use Fast Forward to shorten your waiting time.
 765451162	Fast Forward
-1546069925	Hold <hotkey>{0}</hotkey> to fast forward gameplay.
-255324182	Hold <hotkey>{0}</hotkey> and <hotkey>{1}</hotkey> to fast forward gameplay.
+1546069925	Guarda <hotkey>{0}</hotkey> to fast forward gameplay.
+255324182	Guarda <hotkey>{0}</hotkey> and <hotkey>{1}</hotkey> to fast forward gameplay.
 1188458775	Alarm Zones
 2056027763	Use <hotkey>{0}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
-260850587	Hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
+260850587	Guarda <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
 1830410793	Talking Guards and Distractions
-886347188	If two guards are talking and one of them is immune to certain distractions, both are immune. For instance, if you try to lure away a Thug who's talking to a Poncho, the Poncho will hold him back.
+886347188	If two guards are talking and one of them is immune to certain distractions, both are immune. For instance, if you try to lure away a Thug who's talking to a Poncho, the Poncho will Guarda him back.
 66646900	Healing Skills
 1806946441	Healing Skills like McCoy's bandages have unlimited ammo, but take some time to apply. It's best to use them when the coast is clear.
 1379027361	Distractions in Civil Zones
@@ -490,71 +490,71 @@ Japanese	Japanese
 94599441	Follow Cam Modes
 753717552	You can switch Follow Cam modes in the options menu. "Standard" allows for the most player control.
 907376899	Camera Dragging
-2027724162	Hold <hotkey>{0}</hotkey> to drag the camera.
-876399661	Knife
-1749163056	Takes down an enemy at close range.
-1589031175	Punch
-1638963563	Knocks out an enemy at close range.
-1031684057	The Old 51
-567933229	Shoot an enemy with the Colt 1851 Navy. Can be paired with the New Model Army.
-943917545	The New Model Army
-834457639	Shoot an enemy with the Remington New Model Army. Can be paired with the Colt 1851 Navy.
-1646673140	Fake Coin
-63345104	Throw a fake coin to create noise. Enemies in range will look towards the noise.
-1584617927	Throw Knife
-1371261109	Throw the knife to take down an enemy at long range. Needs to be picked up again.
-1858999661	Throw Knife
-1109372431	Throw the knife to take down an enemy at long range. Needs to be picked up again.
-1881764354	The Axe
-1636874639	Take down an enemy at close range. Can kill Long Coats.
-1879142254	Hammer Fist
-771797553	Knock out an enemy at close range. Can knock out Long Coats.
+2027724162	Guarda <hotkey>{0}</hotkey> to drag the camera.
+876399661	Faca
+1749163056	Derruba um inimigo à queima-roupa.
+1589031175	Soco
+1638963563	Nocauteia um inimigo à queima-roupa.
+1031684057	Velha 51
+567933229	Atire em um inimigo com a Colt 1851 Navy. Pode ser emparelhado com a modelo de 63.
+943917545	Modelo de 63
+834457639	Atire em um inimigo com a modelo de 63. Pode ser emparelhado com a Colt 1851 Navy.
+1646673140	Moeda Falsa
+63345104	Jogue uma moeda falsa para criar ruído. Os inimigos ao alcance olharão para o barulho.
+1584617927	Faca de arremesso
+1371261109	Jogue a faca para derrubar um inimigo a longa distância. Precisa ser recuperada novamente.
+1858999661	Faca de arremesso
+1109372431	Jogue a faca para derrubar um inimigo a longa distância. Precisa ser recuperada novamente.
+1881764354	O machado
+1636874639	Derrube um inimigo à queima-roupa. Pode matar casacos longos.
+1879142254	Martelo primeiro
+771797553	Derrube um inimigo à queima-roupa. Pode nocautear casacos longos.
 1245144391	Bianca
-1307582697	Place Bianca (bear trap). Kills the first enemy who steps on her. Needs to be picked up again.
-1246149011	Whistle
-823392386	Whistle to create noise. Enemies in range will move to Hector's location.
+1307582697	Coloque Bianca (armadilha para urso). Mata o primeiro inimigo que pisar nela. Precisa ser recuperado novamente.
+1246149011	Apito
+823392386	Apito para criar ruído. Os inimigos ao alcance se moverão para o local de Hector.
 1909121017	The Good Stuff
-473693194	Take a sip to heal Hector. Too strong for everyone else.
-2029916213	Sawed-off Shotgun
-930899656	Shoot enemies with the sawed-off. Hits all targets within the damage cone.
-2030315960	Swamp Gas Vial
-1935924802	Throw a vial of swamp gas. Knocks out all enemies within range. Long Coats are immune.
-2008559261	Syringe
-439476221	Take down an enemy at close range.
-577578858	Chloroform
-1468800898	Knock out an enemy at close range.
-652519200	Colt Buntline Special
-944782434	Snipe an enemy with the Colt Buntline Special. Long range, fairly quiet.
-1992836515	The Doctor's Bag
-1392794492	Place the doctor's bag. First enemy to spot it will come for it. If opened, briefly blinds the target.
-308968697	Bandages
-596884874	Heal yourself or an ally.
-2090032874	Disguise
-1951322218	Put on a disguise to fool enemies. Being seen during suspicious actions will remove it automatically.
-581063006	Lure
-1332211106	Lure an enemy away from their position.
-706585068	Flirt
-73015201	Flirt with an enemy to keep their eyes focused on you.
-1107428992	Kick
-1155721602	Knock out an enemy at close range.
+473693194	Tome um gole para curar Hector. Forte demais para todo mundo.
+2029916213	Espingarda Serrada
+930899656	Atire nos inimigos com a serrada. Atinge todos os alvos dentro do cone de dano.
+2030315960	Frasco de gás do pântano
+1935924802	Jogue um frasco de gás do pântano. Nocauteia todos os inimigos dentro do alcance. Casacos longos são imunes.
+2008559261	Seringa
+439476221	Derrube um inimigo à queima-roupa.
+577578858	Clorofórmio
+1468800898	Derrube um inimigo à queima-roupa.
+652519200	Rifle de longo alcance
+944782434	Atire em um inimigo com o Rifle de longo alcance, sem fazer barulho.
+1992836515	A bolsa do médico
+1392794492	Coloque a bolsa do médico. O primeiro inimigo a encontrá-lo virá para ele. Se aberto, cega brevemente o alvo.
+308968697	Ataduras
+596884874	Cure você ou um aliado.
+2090032874	Disfarce
+1951322218	Coloque um disfarce para enganar os inimigos. Ser visto durante ações suspeitas o removerá automaticamente.
+581063006	Atrair
+1332211106	Atrair um inimigo para longe de sua posição.
+706585068	Flerte
+73015201	Flerte com um inimigo para manter os olhos focados em você.
+1107428992	Pontapé
+1155721602	Derrube um inimigo à queima-roupa.
 1810692848	Derringer
-750399255	Shoot an enemy with your Derringer. Medium-range, almost silent.
-1222475897	Perfume Vial
-342608998	Throw a vial of perfume. Make enemies sneeze, briefly blinding them.
-1986695873	Sickle
-1125828588	Take down an enemy at close range.
-1431956252	Punch
-1300156090	Knock out an enemy at close range.
-1770076751	Connect
-465512209	Connect two living targets. What happens to one, happens to the other.
-2145567661	Mind Control
-321059560	Sacrifice one HP to take control of a target. Using a skill or moving the target out of range will end mind control.
+750399255	Atire em um inimigo com seu Derringer. Médio alcance, quase silencioso.
+1222475897	Frasco De Perfume
+342608998	Jogue um frasco de perfume. Faça os inimigos espirrarem, cegando-os brevemente.
+1986695873	Foice
+1125828588	Derrube um inimigo à queima-roupa.
+1431956252	Soco
+1300156090	Derrube um inimigo à queima-roupa.
+1770076751	Conectar
+465512209	Conecte dois alvos vivos. O que acontece com um, acontece com o outro.
+2145567661	Controle mental
+321059560	Sacrifique um HP para assumir o controle de um alvo. Usar uma habilidade ou mover o alvo para fora do alcance acabará com o controle da mente.
 1491564257	Stella
-279559842	Send out Stella to distract an enemy for a short amount of time.
-611738972	Jimson Weed
-968396522	Heal yourself or an ally.
-1533369021	End Mind Control
-751024683	Relinquish control over the target. Human targets will be knocked out.
+279559842	Envie Stella para distrair um inimigo por um curto período de tempo.
+611738972	Estramônio
+968396522	Cure você ou um aliado.
+1533369021	Finalizar o Controle mental
+751024683	Abandona o controle sobre o alvo. Alvos humanos serão nocauteados.
 1424974583	Mind Control Gunshot
 1599288725	Command an enemy to shoot one target. Doesn't raise the alarm. If action is detected, enemy will be killed.
 478202770	Mind Control Attack
@@ -570,21 +570,21 @@ Japanese	Japanese
 1712320263	Mind Control Scream
 1316379827	Command a civilian to cry for help. Enemies in range will move to the civilian's location.
 1136665942	Throw the object you are carrying.
-31843472	Range: 4.
-47662936	Knock out an enemy at close range.
-1953083019	You are carrying something. Drop it to perform further actions.
-1178284261	Use Mode
-237652163	Allows you to interact with objects in the environment.
-1177887152	Movement Stance
-393061807	Toggle between standing and crouching.
-1023909297	Showdown Mode
-1779079610	Plan one action per character. Pauses the game while active.
-1057175114	Execute Showdown Mode
-1365900095	Execute all saved actions. Unpauses the game.
-1493216623	Execute single action.
-1420882900	Execute only this action.
-426824287	Reset Showdown Mode
-1929244517	Reset all saved actions.
+31843472	Intervalo: 4.
+47662936	Derrube um inimigo à queima-roupa.
+1953083019	Você está carregando alguma coisa. Solte-o para executar outras ações.
+1178284261	Modo de uso
+237652163	Permite que você interaja com objetos no ambiente.
+1177887152	Posição do movimento
+393061807	Alterne entre ficar de pé e agachado.
+1023909297	Modo Duelo
+1779079610	Planeje uma ação por personagem. Pausa o jogo enquanto ativo.
+1057175114	Executar modo duelo
+1365900095	Execute todas as ações salvas. Interrompe o jogo.
+1493216623	Execute uma única ação.
+1420882900	Execute apenas esta ação.
+426824287	Redefinir o modo duelo
+1929244517	Redefina todas as ações salvas.
 910575029	Registro
 999285904	Encontre: objetivos da missão, dicas, registro de conversas e distintivos.
 1333667769	Destaque
@@ -599,7 +599,7 @@ Japanese	Japanese
 600743980	Centralize a câmera no personagem atualmente selecionado e reposicione-o na rotação recomendada.
 1848674402	Gire no sentido anti-horário
 1807927786	Mantenha o botão pressionado para girar a câmera no sentido anti-horário.
-73412201	Gire na direção normal
+73412201	Gire na sentido horário
 2017613828	Mantenha o botão pressionado para girar a câmera no sentido horário
 196521541	Ampliar
 1614643182	Amplia a câmera.
@@ -618,242 +618,242 @@ Japanese	Japanese
 658508894	Duração da morte
 693330154	Cura
 1788577267	Habilidades passivas
-594543312	Can climb <passiveAbilityName>ladders</passiveAbilityName>, <passiveAbilityName>ivies</passiveAbilityName> and <passiveAbilityName>ropes.</passiveAbilityName>
-1263588832	Can climb <passiveAbilityName>ladders.</passiveAbilityName>
-764039211	Can <passiveAbilityName>carry</passiveAbilityName> a single body (standing, normal).
-1826755276	Can <passiveAbilityName>carry</passiveAbilityName> two bodies (standing, fast).
-30354001	Can <passiveAbilityName>drag</passiveAbilityName> a single body (crouching, slow).
-1634612996	Can <passiveAbilityCannot>not</passiveAbilityCannot> <passiveAbilityName>carry</passiveAbilityName> bodies.
-2052156763	Can <passiveAbilityName>swim.</passiveAbilityName>
-597313321	<passiveAbilityCannot>Can't swim.</passiveAbilityCannot>
+594543312	Pode escalar <passiveAbilityName>escadas</passiveAbilityName>, <passiveAbilityName>trepadeiras</passiveAbilityName> e <passiveAbilityName>cordas.</passiveAbilityName>
+1263588832	Pode escalar <passiveAbilityName>escadas.</passiveAbilityName>
+764039211	Pode <passiveAbilityName>levar</passiveAbilityName> um único corpo (de pé, normal).
+1826755276	Pode <passiveAbilityName>levar</passiveAbilityName> dois corpos (de pé, rápido).
+30354001	Pode <passiveAbilityName>arrastar</passiveAbilityName> um único corpo (agachado, lento).
+1634612996	Não <passiveAbilityCannot>pode</passiveAbilityCannot> <passiveAbilityName>levar</passiveAbilityName> corpos.
+2052156763	Pode <passiveAbilityName>nadar.</passiveAbilityName>
+597313321	<passiveAbilityCannot>Não sabe nadar.</passiveAbilityCannot>
 825544575	Classico RTS
 1269477099	Desperados III
-1358490674	Here you can customize and create new control schemes. Changes are applied automatically. You can switch between control schemes by selecting the toggle next to the button./n/nActive: {0}
-971883982	Optimized for playing Desperados III and for fans of the real time tactics genre.
-2057998057	Optimized for RTS players. Moving and selecting are swapped. Skills are on QWERT.
-1602189665	Your custom layout.
-1524376688	Player
+1358490674	Aqui você pode personalizar e criar novos layouts de controle. As alterações são aplicadas automaticamente. Você pode alternar entre os layouts selecionando o botão ao lado./n/nLayout Ativo: {0}
+971883982	Otimizado para jogar Desperados III e para fãs do gênero de táticas em tempo real.
+2057998057	Otimizado para jogadores RTS. Mover e selecionar são trocados. As habilidades estão no QWERT.
+1602189665	Seu layout personalizado.
+1524376688	Jogador
 1873916024	Cam
 766903264	Menu
-960651577	UIWheel
-1421349032	Cutscene
-1080899783	General
-613153956	Viewcone
-555507018	GeneralNoCutscene
-1866829885	CONFLICT!
-1008156003	Another action is already using this button. Assign anyway? {0}
-1660462859	REASSIGN
-1058572889	Press any button to rebind this action.
-178427384	Actions:
-774853068	Unbind
-584715733	Right Stick
-1284445229	Left Stick
+960651577	RodaUI
+1421349032	Cinemática
+1080899783	Geral
+613153956	Cone
+555507018	Geral Não Cinemática
+1866829885	CONFLITO!
+1008156003	Outra ação já está usando esse botão. Atribuir assim mesmo? {0}
+1660462859	REASIGNAR
+1058572889	Pressione qualquer botão para reativar esta ação.
+178427384	Ações:
+774853068	Desvincular
+584715733	Stick direito
+1284445229	Stick esquerdo
 1561855749	---
-116814068	Create a new layout to change Input Actions
-1362329991	Custom {0}
-1190198233	Create
-1068196803	SELECT
-1445520163	PLAYER
-580614165	Edit player controls
-657216753	CAMERA
-598043235	Edit camera controls
-745724744	GENERAL
-485190448	Edit general controls
+116814068	Crie um novo layout para alterar as ações de entrada
+1362329991	Personalizado {0}
+1190198233	Criar
+1068196803	SELECIONAR
+1445520163	JOGADOR
+580614165	Editar controles do player
+657216753	CÂMERA
+598043235	Editar controles da câmera
+745724744	GERAL
+485190448	Editar controles gerais
 101526216	{0}
 127821282	---
-1812509848	RESET
-1366477586	Reset all Input Actions to default values?
-1706772755	Here you can customize and create new control schemes. Changes are applied automatically. To switch to a different control scheme, select it and press {0} to apply./n/nActive: {1}
-152282435	Right Stick
-957749598	Left Stick
-573536425	Camera Zoom
-960958096	Camera Rotate Right
-583071028	Camera Rotate Left
-1170656858	Select Character
-1200479920	Character Wheel
-1593199432	Move
-1603400940	Move
-1551263779	Run
-1436388833	Crouch
-422031039	Context Action
-565815288	Drop
-1466895198	Context Action Kill
-490857043	Select Skill 1 (active)
-509373635	Select Skill 2
-2050968303	Select Skill 3
-92430955	Select Skill 4
-771827029	Select Skill 5
-582026003	Aiming
-1290681060	Do Skill
-1833998590	Do Skill Advanced Exec
-2038493822	Vision Mode
-958235635	Continue Dialogue
-644524852	Toggle Context Action
-1803048083	Select Isabelle
-463150884	Select Hector
-1778733118	Select Cooper
-2041969087	Select McCoy
-1943500125	Select Kate
-657133353	Select Other
-1531102395	Highlight All
-1187336011	Activate Showdown Mode
-1076844111	Save Waypoints
-1242391234	Execute Showdown Mode
-1784416254	Reset Showdown Mode All
-1997124204	Reset Showdown Mode Cooper
-2122390231	Reset Showdown Mode McCoy
-2075995503	Reset Showdown Mode Hector
-164389443	Reset Showdown Mode Kate
-889853637	Reset Showdown Mode Isabelle
-1889610530	Camera Rotate Free
-2020784017	Viewcone Marker
-1412335462	Quicksave
-1246022481	Quickload
-2102361814	Skip Cutscene
-885289735	Reset Camera
-1274816296	Remove Viewcone Marker
-934400398	Mission Log
-93003420	Switch Context Skill
-1209272936	Skill Wheel
-592088716	Execute Showdown Mode Cooper
-194697378	Execute Showdown Mode McCoy
-593481215	Execute Showdown Mode Hector
-72661506	Execute Showdown Mode Kate
-1480016166	Execute Showdown Mode Isabelle
-1434391743	Center View
-463301716	Activate Viewcone
-2134400581	Select Skill 1 (inactive)
-471100928	Minimap
-2045277445	Move Camera to Mouse Cursor
-823722350	Hint Log
-1727065249	Toggle Alarm Zones
-546844236	Fast Forward
-1683292453	Showdown Mode Single Execute (1)
-1319146528	Showdown Mode Single Execute (2)
-1754234124	Select All
-873052496	Use-Mode
-683158720	Camera Move Left
-1076162680	Camera Move Right
-197477233	Camera Move Down
-850968016	Camera Move Up
-661448433	Aiming
-1487160716	Move
-1327285847	Rotate/Zoom
-1412174204	Viewcone Cursor
-195564649	Cancel Action
-1744548455	Drag Camera
-1676920717	Multiselect
-156619757	No Quicksave
-1124342950	No Alarm
-1832680931	No Casualties
-1474987982	Unseen
-1705478780	Finish the mission without saving.
-460965416	Finish the mission without triggering any alarm.
-1031575441	Finish the mission without killing anyone (except mission targets).
-866674594	Finish the mission without being detected.
-1055206746	Don't use firearms.
-938248495	Don't save during the mission.
-1221439810	Don't trigger any alarm.
-627762489	Don't kill anyone (except mission targets).
-2049843189	Don't be seen by anyone.
-1081723203	Kill everyone.
-1406208931	Speedrun: Complete the mission in under {0} minutes.
-14063527	Don't kill anyone, and don't trigger any alarm.
-1148110388	Hide all bodies in bushes, wells, houses, etc.
-1428790442	Don't extinguish any lights, including lamps carried by guards.
-650066362	Don't touch water.
-82324557	Don't kill any civilians.
-256810044	Don't step on loud surfaces.
-888490653	Kill all guards that carry lamps.
-950140396	Extinguish all light sources, including lamps carried by guards.
-1295376244	Make a guard follow your footprints for {0} meters.
-1061741433	Don't touch any bushes or haystacks.
-413325399	Complete the mission on Hard difficulty.
-477910365	Kill everyone except for civilians.
-1889045333	Don't jump, and don't use any ladders, ropes or ivies.
-121027725	Don't kill any Long Coats.
-1666736140	Kill all Long Coats.
-1895505204	Don't use a disguise.
-1511084033	Don't use Isabelle's connect ability.
-333914070	Make the deaths of {0} targets look like accidents.
-1609551893	Listen in on {0} private conversations.
-1261745902	Bury Josh.
-1871889850	Kill {0} mission targets at the same time.
-915982424	Don't kill or knock out anyone in the train track area.
-967883884	Take a photo of the dead groom.
-98710076	With Cooper, enter the building through the main balcony door.
-707714733	Kill {0} guards with the Gatling gun.
-1258018290	Finish the mission without using a torch.
-808979380	Win the bet with McCoy.
-1715221562	Win the bet with Hector.
-844798888	Burn {0} guards in oil puddles.
-618964374	Don't use the Gatling gun.
-678675062	Get the dynamite from the shooting range.
-1582186343	Get the dynamite from the quarry.
-803215006	Kill {0} guards with rolling logs.
-722051751	Kill {0} guards at the same time in a quarry explosion.
-838084772	Kill {0} guards when destroying the bridge.
-318564945	Free Kate or Hector first.
-1156310251	Kill {0} guards at the same time.
-1858403590	Kill {0} guards with an environment kill.
-2025392807	Finish the mission without crossing the train tracks.
-2133820715	Finish the mission without dropping Isabelle.
-178577080	Use the wagon to block the train tracks.
-1571886098	Use the cattle to block the train tracks.
-244143939	Kill {0} guards with the train.
-1481679492	Save all groups of civilians.
-1404372168	Kill {0} bandits at the same time.
-1091331607	Kill bandits using dynamite.
-1720218840	Distract {0} bandits at the same time using Cooper's coin.
-1383672889	Gather the codenames and locations for all possible suspects.
-455186100	Kill all suspects.
-1825898325	Don't kill any suspects.
-2098414280	No knockouts or melee kills except for Isabelle's.
-2137533299	Don't snipe anyone with McCoy.
-634442317	Open all cages.
-891213051	Choose the path on the left.
-91772538	Choose the path on the right.
-663038595	Don't use any of Cooper's skills.
-1612499977	Kill guards using dogs.
-142821827	Kill {0} guards using the steamer wheel.
-1673149031	Don't use both distractions.
-1024782232	Use mind control on Devitt.
-438004702	Kill {0} guards with a statue.
-690968489	Don't use any of Kate's or Cooper's skills.
-668594279	Traverse the mine on the left side.
-367879890	Traverse the mine on the right side.
-961420766	Don't pick up dynamite.
-1919873499	Kill {0} people with dynamite.
-146886998	Only pick up McCoy's gear.
-775058415	Only select Cooper.
-1775990128	Kill guards with falling rocks.
-273940849	Don't switch sides with any character.
-497682000	Reach the chapel via the left entrance.
-347856056	Reach the chapel via the right entrance.
-32670292	Don't select {0}.
-1663542660	No survivors.
-1223921571	Devil's Canyon/n(Chapter I)
+1812509848	REDEFINIR
+1366477586	Redefinir todas as ações de entrada para os valores padrão?
+1706772755	Aqui você pode personalizar e criar novos layouts de controle. As alterações são aplicadas automaticamente. Para mudar de layout, selecione-o e pressione {0} para aplicar ./n/nLayout ativo: {1}
+152282435	Stick direito
+957749598	Stick esquedo
+573536425	Zoom da câmera
+960958096	Gira a câmera para direita
+583071028	Gira a câmera para esquerda
+1170656858	Selecionar personagem
+1200479920	Roda do personagem
+1593199432	Mover
+1603400940	Mover
+1551263779	Corre
+1436388833	Agachar-se
+422031039	Ação contextual
+565815288	Solta
+1466895198	Morte por ação contextual
+490857043	Selecionar Habilidade 1 (ativa)
+509373635	Selecionar Habilidade 2
+2050968303	Selecionar Habilidade 3
+92430955	Selecionar Habilidade 4
+771827029	Selecionar Habilidade 5
+582026003	Apontar
+1290681060	Habilidade
+1833998590	Execução avançada de habilidades
+2038493822	Modo de visão
+958235635	Continuar a Conversa
+644524852	Alterar ação contextual
+1803048083	Selecionar Isabelle
+463150884	Selecionar Hector
+1778733118	Selecionar Cooper
+2041969087	Selecionar McCoy
+1943500125	Selecionar Kate
+657133353	Selecionar Other
+1531102395	Destacar tudo
+1187336011	Ativar o modo de duelo
+1076844111	Salvar pontos intermediários
+1242391234	Executar o modo de duelo
+1784416254	Redefinir o modo Duelo de todos
+1997124204	Redefinir o modo Duelo de Cooper
+2122390231	Redefinir o modo Duelo de McCoy
+2075995503	Redefinir o modo Duelo de Hector
+164389443	Redefinir o modo Duelo de Kate
+889853637	Redefinir o modo Duelo de Isabelle
+1889610530	Giro livre da câmera
+2020784017	Marcador de cone
+1412335462	Salvar jogo
+1246022481	Carregamento rápido
+2102361814	Pular cinemática
+885289735	Redefinir câmera
+1274816296	Remover o marcador de cone
+934400398	Registro da Missão
+93003420	Alterar habilidade contextual
+1209272936	Roda de Habilidade
+592088716	Executar o modo de duelo de Cooper
+194697378	Executar o modo de duelo de McCoy
+593481215	Executar o modo de duelo de Hector
+72661506	Executar o modo de duelo de Kate
+1480016166	Executar o modo de duelo de Isabelle
+1434391743	Vista central
+463301716	Ativar cone
+2134400581	Selecionar Habilidade 1 (inativa)
+471100928	Minimapa
+2045277445	Mover a câmera com o cursor do mouse
+823722350	Registro de pistas
+1727065249	Alternar zonas de alarme
+546844236	Avanço rápido
+1683292453	Execução individual no modo duelo (1)
+1319146528	Execução individual no modo duelo (2)
+1754234124	Selecionar todos
+873052496	Modo de uso
+683158720	Mover câmera para a esquerda
+1076162680	Mover a câmera para a direita
+197477233	Mover a câmera para baixo
+850968016	Mover a câmera para baixo
+661448433	Mirar
+1487160716	Mover
+1327285847	Girar / Zoom
+1412174204	Cursor do cone
+195564649	Cancelar ação
+1744548455	Arrastar a câmera
+1676920717	Seleção múltipla
+156619757	Sem jogo salvo
+1124342950	Sem alarme
+1832680931	Sem vítimas
+1474987982	Invisível
+1705478780	Terminar a missão sem salvar.
+460965416	Terminar a missão sem disparar nenhum alarme.
+1031575441	Terminar a missão sem matar ninguém (exceto os alvos da missão).
+866674594	Terminar a missão sem ser descoberto.
+1055206746	Não use armas de fogo.
+938248495	Não use jogo salvo durante a missão.
+1221439810	Não acione nenhum alarme.
+627762489	Não mate ninguém (exceto alvos de missão).
+2049843189	Não seja visto por ninguém.
+1081723203	Mate todos.
+1406208931	Super Veloz: Complete a missão em menos de {0} minutos.
+14063527	Não mate ninguém e não acione nenhum alarme.
+1148110388	Esconda todos os corpos em arbustos, poços, casas, etc.
+1428790442	Não apague nenhuma luz, incluindo lâmpadas transportadas por guardas.
+650066362	Não toque na água.
+82324557	Não mate civis.
+256810044	Não pise em superfícies barulhentas.
+888490653	Mate todos os guardas que carregam lâmpadas.
+950140396	Apague todas as fontes de luz, incluindo lâmpadas transportadas por guardas.
+1295376244	Faça um guarda seguir suas pegadas por {0} metros.
+1061741433	Não toque em arbustos ou palheiros.
+413325399	Complete a missão na dificuldade Dificil.
+477910365	Mate todos, exceto os civis.
+1889045333	Não pule e não use escadas, cordas ou trepadeiras.
+121027725	Não mate Casacos Longos.
+1666736140	Mate todos os casacos longos.
+1895505204	Não use um disfarce.
+1511084033	Não use a capacidade de conexão de Isabelle.
+333914070	Faça com que a morte de {0} alvos pareça acidentes.
+1609551893	Ouça {0} conversas particulares.
+1261745902	Enterre Josh.
+1871889850	Mate {0} alvos da missão ao mesmo tempo.
+915982424	Não mate ou nocauteie ninguém na área dos trilhos de trem.
+967883884	Tire uma foto do noivo morto.
+98710076	Com Cooper, entre no prédio pela porta principal da varanda.
+707714733	Mate {0} guardas com a metralhadora.
+1258018290	Termine a missão sem usar uma tocha.
+808979380	Ganhe a aposta com McCoy.
+1715221562	Ganhe a aposta com Hector.
+844798888	Queime {0} guardas em poças de óleo.
+618964374	Não use a Metralhadora.
+678675062	Obtenha a dinamite do campo de tiro.
+1582186343	Obtenha a dinamite da pedreira.
+803215006	Mate {0} guardas com toras rolantes.
+722051751	Mate {0} guardas ao mesmo tempo em uma explosão da pedreira.
+838084772	Mate {0} guardas ao destruir a ponte.
+318564945	Liberte Kate ou Hector primeiro.
+1156310251	Mate {0} guardas ao mesmo tempo.
+1858403590	Mate {0} guardas com uma morte por ambiente.
+2025392807	Termine a missão sem cruzar os trilhos do trem.
+2133820715	Termine a missão sem largar Isabelle.
+178577080	Use a carroça para bloquear os trilhos do trem.
+1571886098	Use o gado para bloquear os trilhos do trem.
+244143939	Mate {0} guardas com o trem.
+1481679492	Salve todos os grupos de civis.
+1404372168	Mate {0} bandidos ao mesmo tempo.
+1091331607	Mate bandidos usando dinamite.
+1720218840	Distraia {0} bandidos ao mesmo tempo usando a moeda de Cooper.
+1383672889	Reúna os nomes de código e os locais de todos os possíveis suspeitos.
+455186100	Mate todos os suspeitos.
+1825898325	Não mate nenhum suspeito.
+2098414280	Nenhum nocaute ou morte corpo a corpo, exceto no caso de Isabelle.
+2137533299	Não mate ninguém com McCoy.
+634442317	Abra todas as gaiolas.
+891213051	Escolha o caminho à esquerda.
+91772538	Escolha o caminho à direita.
+663038595	Não use nenhuma das habilidades de Cooper.
+1612499977	Mate os guardas usando cães.
+142821827	Mate {0} guardas usando a roda a vapor.
+1673149031	Não use as duas distrações.
+1024782232	Use o controle da mente em Devitt.
+438004702	Mate {0} guardas com uma estátua.
+690968489	Não use nenhuma das habilidades de Kate ou Cooper.
+668594279	Atravesse a mina pelo lado esquerdo.
+367879890	Atravesse a mina pelo lado direito.
+961420766	Não pegue dinamite.
+1919873499	Mate {0} pessoas com dinamite.
+146886998	Pegue apenas o equipamento de McCoy.
+775058415	Selecione apenas Cooper.
+1775990128	Mate os guardas com queda de pedras.
+273940849	Não mude de lado com nenhum personagem.
+497682000	Chegue à capela pela entrada da esquerda.
+347856056	Chegue à capela pela entrada da direita.
+32670292	Não selecione {0}.
+1663542660	Sem sobreviventes.
+1223921571	Cânion do Diabo/n(Capítulo I)
 961120359	Era Uma Vez
-266826627	Somewhere in the desert of Mexico, two riders approach the hideout of an infamous outlaw.
-1864224566	A few miles past the Mexican border, the ruins of an old village fringe the cliffs of Devil's Canyon./n/nRumor has it that an infamous outlaw has his hideout here, a man who only goes by the name of Frank./n/nToday, two riders approach from the desert, bounty hunters who've made it their mission to bring Frank in, dead or alive./n/nWill they succeed where others failed, or will they end up as food for the vultures?
-773201330	Seasoned bounty hunter James Cooper and his son John arrive at Devil's Canyon. Their goal: Sneak past the many bandits guarding the area and take out the infamous outlaw Frank./n/nJames goes on ahead, telling John to follow and keep his head down.
+266826627	Em algum lugar no deserto do México, dois cavaleiros se aproximam do esconderijo de um infame fora-da-lei.
+1864224566	A alguns quilômetros da fronteira com o México, nas ruínas de uma antiga vila às margens dos penhascos do Cânion do Diabo./n/nHá rumores que um infame fora-da-lei se esconde aqui, um homem que só atende pelo nome de Frank./n/Hoje, dois cavaleiros do deserto estão se aproximando, caçadores de recompensas empenhados em entregar Frank, vivo ou morto.
+773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam ao Cânion do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
 681032158	Byers Pass
-2097221155	Running Late on Payday
-1657883687	A train owned by the influential DeVitt Company is on its way to the town of Flagstone. At Byers Pass, it runs into an unexpected roadblock.
-801719185	Running on freshly laid tracks, a heavily loaded train snakes along the Rocky Mountain landscape./n/nIts wagons—bearing the sign of the DeVitt Company—have been freshly loaded in Denver and now carry people and goods towards the small mountain town of Flagstone./n/nAs the train enters Byers Pass, mood among the passengers grows uneasy. Bandits are roaming these parts, and the company has lost more than one train in recent months./n/nMaybe the mercenaries hired to escort the train will be enough to deter any attackers this time.
-1457201141	John Cooper is sitting on the train to Flagstone, when suddenly, at Byers Pass, his ride is ambushed by bandits. He remains undetected, but the task ahead is clear./n/nIf Cooper wants to keep his appointment in Flagstone, he'll have to take care of the bandit problem first.
+2097221155	Atrasado no dia de pagamento
+1657883687	Um trem de propriedade da influente compãnia DeVitt está a caminho da cidade de Flagstone. Em Byers Pass, ele encontra um obstáculo inesperado.
+801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo da paisagem das Montanhas Rochosas./n/nSeus vagões - com o sinal da Compãnia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entra em Byers Pass, o humor entre os passageiros fica inquieto. Bandidos estão perambulando por essas partes, e a compãnia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
+1457201141	John Cooper está sentado no trem indo para Flagstone, quando de repente, no Byers Pass, seu passeio é emboscado por bandidos. Ele permanece sem ser detectado, mas a tarefa que está pela frente é clara./n/nSe Cooper quiser manter seu compromisso em Flagstone, ele terá que cuidar primeiro dos bandidos.
 1181215471	Flagstone
-1786599235	Troublemakers in Flagstone
-111549301	John Cooper has come to Flagstone to meet an old friend. It doesn't take long for trouble to arrive.
-180909580	Nestled between the peaks of the Colorado Rockies lies the small town of Flagstone. Storeowners, farmers, blacksmiths and barkeeps all go about their daily business./n/nWorkers of the DeVitt Company mingle with the locals as they continue to build the new railroad through town./n/nAs Cooper arrives in Flagstone, he heads straight for the saloon, which is empty except for a few regulars./n/nThe barmaid pours him a glass of whiskey, and he nurses it while he waits for an old friend to arrive.
-1776442636	In a saloon in Flagstone, Cooper meets up with his old friend Hector./n/nThe two get into trouble immediately when they rough up a few workers from the DeVitt Company who were terrorizing the townsfolk. It doesn't take long for more to arrive./n/nCooper and Hector sneak out through the backdoor and decide to teach the DeVitt workers a lesson...by taking out their leaders. 
-842780950	Higgins' Estate
-1899333205	Until Death Do Us Part
-1739483129	The man they call Frank is at the estate of Mayor Higgins. John Cooper heads over, not knowing that a certain someone is getting ready for her wedding there.
-807976695	A half hour ride up the mountain from Flagstone lies the newly built estate of Mayor Higgins./n/nHaving come to considerable wealth after certain deals with the DeVitt Company, Higgins has spared no expense to outfit his humble abode with the latest comforts and luxuries./n/nRecently, the entire estate has been busy with wedding preparations. Mayor Higgins, after years of rebuke, has finally convinced the love of his life to tie the knot./n/nUnbeknownst to him, however, the bride has her own plans for the big day.
-1283415255	Kate O'Hara has fooled Mayor Higgins into believing she would marry him. Her real objective is gaining entrance to his office, where she wants to retrieve something of great value./n/nAll she needs is a key and an opportunity./n/nMeanwhile, Cooper and Hector are headed for the mayor's estate as well. Cooper sneaks inside in search for the man they call Frank. He decides to head for the mayor's office./n/nIf things go sideways, he will have to make a swift exit.
-2019794291	O'Hara Ranch
-290492088	The Magnificent Five
+1786599235	Encrenqueiros em Flagstone
+111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meter em encrencas.
+180909580	Aninhada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. A taberna que está vazia, exceto por alguns clientes regulares./n/n A garçonete serve um copo de uísque para ele e ele bebe enquanto espera que um velho amigo chegue.
+1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da compãnia DeVitt, que estavam aterrorizando os habitantes da cidade. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
+842780950	Propriedade de Higgins
+1899333205	Até que a morte nos separe
+1739483129	O homem que eles chamam de Frank está na propriedade do prefeito Higgins. John Cooper encabeça, sem saber que alguém está se preparando para o casamento dela lá.
+807976695	A meia hora de viagem até a montanha, a partir de Flagstone, fica a recém-construída propriedade do prefeito Higgins./n/nTendo chegado a uma riqueza considerável após certos acordos com a compãnia DeVitt, Higgins não poupou custos para equipar sua humilde morada com os mais modernos confortos e luxos./n/nRecentemente, toda a propriedade está ocupada com os preparativos do casamento. O prefeito Higgins, depois de anos de repreensão, finalmente convenceu o amor de sua vida a dar o nó./n/n Sem o conhecimento dele, no entanto, a noiva tem seus próprios planos para o grande dia.
+1283415255	Kate O'Hara enganou o prefeito Higgins, acreditando que ela se casaria com ele. Seu objetivo real é ganhar acesso ao escritório dele, onde ela quer recuperar algo de grande valor./n/nTudo o que ela precisa é uma chave e uma oportunidade./n/nEnquanto isso, Cooper e Hector também estão indo para a propriedade do prefeito. Cooper entra sorrateiramente em busca do homem que eles chamam de Frank. Ele decide ir para o gabinete do prefeito./n/nSe as coisas derem errado, ele terá que fazer uma saída rápida.
+2019794291	Rancho O'Hara
+290492088	Os Cinco Magníficos
 85886816	DeVitt Company raiders will attack O'Hara Ranch come nightfall. Cooper has promised Kate to help her defend it.
 1643626384	In a rocky valley west of Flagstone lies O'Hara Ranch, a sizeable homestead featuring various kinds of crops and livestock./n/nThe ranch is run by Ian O'Hara, Kate's uncle, as well as several farmhands. It is Uncle Ian's pride and joy, and has been Kate's home since she was nine years old./n/nNow this home is in danger. Come nightfall, men sent by the DeVitt Company will come to take over the ranch. But Kate and her uncle won't go down without a fight./n/nWhile Cooper is riding for Flagstone to get help, Hector helps them prepare for the coming attack.
 386862158	The DeVitt Company is determined to drive Kate and her uncle off their ranch./n/nNot willing to give up, Kate enlists the help of John Cooper, promising him information about Frank in return./n/nWhile Cooper, Kate and her uncle fortify themselves in the main farmhouse, McCoy and Hector stay outside./n/n Their goal: Pick off the attackers one by one.
@@ -912,98 +912,98 @@ Japanese	Japanese
 1671544744	Doc has returned and DeVitt is out of the picture. That leaves only one more thing to take care of.
 1827622766	Having delivered DeVitt to the Marshal, the gang heads south across the border. The journey is long, and the desert sun burns down mercilessly on our riders. /n/nStill, the gang is undeterred. Cooper leads the way, Hector tells wild tales while Kate listens on, and Doc and Isabelle bicker as usual./n/nTogether they cross the border to Mexico and head into the rocky desert, towards Devil's Canyon.
 1141398023	The gang crosses the Mexican border and rides for Devil's Canyon. /n/nFrank's old hideout is bustling with activity. Cooper has a feeling that Frank will be waiting for them at the chapel. /n/nThe plan is simple: Meet at the graveyard gate, then draw out Frank for a final confrontation.
-2017302914	Coin
-1323949238	Cooper can throw a <skill>coin</skill> to distract enemies within the blue radius./nPress {0}, then press {1} to throw it.
-1838518536	Cooper can throw a <skill>coin</skill> to distract enemies within the blue radius./nHold {2} to aim and press {3} to throw the <skill>coin</skill>.
-1476362018	Knife / Knockout
-875975871	You can take down enemies up close using your <skill>knife</skill>, or knock them out./nPress {0} to select the <skill>knife</skill>, then {1} to attack./nFor a <skill>knock out</skill> either swap out the skill in the skillbar, or use {2}.
-923056148	You can take down enemies up close using your <skill>knife</skill>, or knock them out./nWalk close to an enemy and press {0} to attack them./nFor a <skill>knock out</skill> press {1} to open the character wheel, then press {2} to switch to non-lethal.
-1412381580	Throwing Knife
-337253238	Cooper can throw his <skill>knife</skill> to take down enemies from afar. He needs to <skill>retrieve it</skill> afterwards./nPress {0} to select the <skill>throwing knife</skill>, then press {1} to throw it.
-14027067	Cooper can throw his <skill>knife</skill> to take down enemies from afar. He needs to <skill>retrieve it</skill> afterwards./nHold {0}, then use {1} to select the <skill>throwing knife</skill>./nThen aim and throw it.
-1515858005	Dual Shot
-1657051985	Cooper can fire <skill>both guns</skill> at the <skill>same time</skill>./n Press {0} to enter Showdown Mode. /nYou can now choose <skill>two targets</skill> for Cooper's guns.
-891655333	Cooper can fire <skill>both guns</skill> at the <skill>same time</skill>./n Press {0} to enter Showdown Mode. /nYou can now choose <skill>two targets</skill> for Cooper's guns.
-604280480	Revolvers
-580056692	Cooper can use his <skill>revolvers</skill> to take down guards. Guns are <skill>loud</skill> and will alarm guards that hear them./nPress {0} to select one of the <skill>guns</skill>, then shoot it.
-876546541	Cooper can use his <skill>revolvers</skill> to take down guards. Guns are <skill>loud</skill> and will alarm guards that hear them./nHold {0}, then use {1} to select the <skill>guns</skill>./nThen aim and shoot.
-735975592	Hiding Bodies
-1422147188	You can <skill>hide bodies</skill> in bushes, houses and other places./nHold {0}, then press {1} to pick up a body./nWhen carrying a body, hold {2} and press {3} to drop it at the chosen location./n
-70988820	You can <skill>hide bodies</skill> in bushes, houses and other places./nStep close to pick them up. If an enemy is unconscious you will have to tie them up first./nWhen carrying a body, press {0} to drop it.
-685610135	The Doctor's Bag
-1817172584	McCoy can throw his <skill>bag</skill> to lure guards. He has to <skill>retrieve it</skill> again./nA gas-trap <skill>blinds</skill> enemies who open the bag, which causes them to <skill>investigate</skill> afterwards./n
-1700272806	McCoy can throw his <skill>bag</skill> to lure guards. He has to <skill>retrieve it</skill> again./nA gas-trap <skill>blinds</skill> enemies who open the bag, which causes them to <skill>investigate</skill> afterwards./n
-1804620665	Swamp Gas Vial
-178798020	McCoy can throw a <skill>Swamp Gas Vial</skill> that <skill>knocks out</skill> all guards in its radius./nLong Coats are <skill>protected</skill> by their bandana and will only be stunned temporarily.
-1524919872	Buntline
-676320687	McCoy can use his <skill>Buntline</skill> to take down enemies from a <skill>long distance</skill>./nIf he needs this skill for a mission objective, he will carry a final "Golden Bullet"./n
-898711201	McCoy can use his <skill>Buntline</skill> to take down enemies from a <skill>long distance</skill>./nIf he needs this skill for a mission objective, he will carry a final "Golden Bullet"./n
-767565801	Sawed-off Shotgun
-771062537	Hector can use his <skill>sawed-off</skill> to take out <skill>multiple enemies</skill> at once with a loud ranged attack./nAll enemies within the red cone will get hit.
-1340305495	Hector can use his <skill>sawed-off</skill> to take out <skill>multiple enemies</skill> at once with a loud ranged attack./nAll enemies within the red cone will get hit.
-477902702	Whistle
-2015070561	Hector <skill>lures</skill> enemies in range towards his current location./nThey will <skill>investigate</skill> the area after arriving.
-1955477487	Hector <skill>lures</skill> enemies in range towards his current location./nThey will <skill>investigate</skill> the area after arriving.
+2017302914	Moeda
+1323949238	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nPressione {0}, e então aperte {1} para jogá-la.
+1838518536	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nSegure {2} aponte e pressione {3} para jogar a <skill>moeda</skill>.
+1476362018	Faca / Nocaute
+875975871	Você pode derrubar inimigos de perto usando sua <skill>faca</skill> ou nocauteá-los./nPressione {0} para selecionar a <skill>faca</skill>, e então {1} para atacar./nPara <skill>Nocautear</skill> troque a habilidade na barra de habilidades ou use {2}.
+923056148	Você pode derrubar inimigos de perto usando sua <skill>faca</skill> ou nocauteá-los./nAnde perto de um inimigo e pressione {0} para atacá-lo./nPara <skill>Nocautear</skill> pressione {1} para abrir a roda do personagem, e pressione {2} para mudar para não-letal.
+1412381580	Faca de Arremesso
+337253238	Cooper pode jogar sua <skill>faca</skill> para derrubar inimigos de longe. Ele precisa <skill>recuperá-la</skill> depois./nPressione {0} para selecionar a <skill>faca de arremesso</skill>, e então pressione {1} para jogá-la.
+14027067	Cooper pode jogar sua <skill>faca</skill> para derrubar inimigos de longe. Ele precisa <skill>recuperá-la</skill> depois./nSegure {0}, e então use {1} para selecionar a <skill>faca de arremesso</skill>./ne então aponte e jogue.
+1515858005	Tiro duplo
+1657051985	Cooper pode disparar <skill>ambas as armas</skill> <skill>ao mesmo tempo</skill>./n Pressione {0} para entrar no modo duelo. /nVocê agora pode escolher <skill>dois alvos</skill> para as armas de Cooper.
+891655333	Cooper pode disparar <skill>ambas as armas</skill> <skill>ao mesmo tempo</skill>./n Pressione {0} para entrar no modo duelo. /nVocê agora pode escolher <skill>dois alvos</skill> para as armas de Cooper.
+604280480	Revólveres
+580056692	Cooper pode usar seus <skill>revólveres</skill> para derrubar guardas. Armas fazem muito <skill>barulho</skill> e alertará os guardas que as ouvirem./nPressione {0} para selecionar uma das <skill>armas</skill>, e então atire.
+876546541	Cooper pode usar seus <skill>revólveres</skill> para derrubar guardas. Armas fazem muito <skill>barulho</skill> e alertará os guardas que as ouvirem./nSegure {0}, e então use {1} para selecionar as <skill>armas</skill>./nEntão aponte e atire.
+735975592	Ocultar corpos
+1422147188	Você pode <skill>esconder corpos</skill> em arbustos, casas e outros lugares./nSegure {0}, e então aperte {1} pegar um corpo./nAo carregar um corpo, Segure {2} e pressione {3} para largá-lo no local escolhido./n
+70988820	Você pode <skill>esconder corpos</skill> em arbustos, casas e outros lugares./nAproxime-se para pega-los. Se um inimigo estiver inconsciente, você terá que amarrá-lo primeiro./nAo transportar um corpo, pressione {0} para largá-lo.
+685610135	A bolsa do médico
+1817172584	McCoy pode jogar sua <skill>bolsa</skill> para atrair guardas. Ele tem que <skill>recuperá-la</skill> novamente ./nUma armadilha de gás <skill>cega</skill> inimigos que abrem a sacola, o que os leva a <skill>investigar</skill> somente mais tarde./n
+1700272806	McCoy pode jogar sua <skill>bolsa</skill> para atrair guardas. Ele tem que <skill>recuperá-la</skill> novamente ./nUma armadilha de gás <skill>cega</skill> inimigos que abrem a sacola, o que os leva a <skill>investigar</skill> somente mais tarde./n
+1804620665	Frasco de gás do pântano
+178798020	McCoy pode lançar um <skill>Frasco de Gás</skill> que <skill>nocauteia</skill> todos os guardas em seu raio./nCasaco longo são <skill>protegidos</skill> pela bandana e só ficam atordoados temporariamente.
+1524919872	Rifle
+676320687	McCoy pode usar seu <skill>Rifle</skill> para derrubar inimigos de <skill>longa distância</skill>./nSe ele precisar dessa habilidade para um objetivo da missão, ele levará uma "Bala de Ouro" final./n
+898711201	McCoy pode usar seu <skill>Rifle</skill> para derrubar inimigos de <skill>longa distância</skill>./nSe ele precisar dessa habilidade para um objetivo da missão, ele levará uma "Bala de Ouro" final./n
+767565801	Espingarda Serrada
+771062537	Hector pode usar sua <skill>espingarda</skill> para derrotar <skill>múltiplos inimigos</skill> de uma só vez com um ataque de longo alcance./nTodos os inimigos dentro do cone vermelho serão atingidos.
+1340305495	Hector pode usar sua <skill>espingarda</skill> para derrotar <skill>múltiplos inimigos</skill> de uma só vez com um ataque de longo alcance./nTodos os inimigos dentro do cone vermelho serão atingidos.
+477902702	Apito
+2015070561	Hector <skill>atrai</skill> inimigos para sua localização atual./nEles vão <skill>investigar</skill> a área e depois voltar ao seu posto.
+1955477487	Hector <skill>atrai</skill> inimigos para sua localização atual./nEles vão <skill>investigar</skill> a área e depois voltar ao seu posto.
 919833113	Bianca
-1245739698	Hector can use <skill>"Bianca"</skill>, a giant but somehow stealthy bear trap./nEnemies that step into it will die.
-533551378	Hector can use <skill>"Bianca"</skill>, a giant but somehow stealthy bear trap./nEnemies that step into it will die.
-1104078969	Trap & Whistle
-980520670	Hector can <skill>whistle</skill> to lure guards towards his <skill>current location</skill>./nHector can also place <skill>"Bianca"</skill>, a giant, but surprisingly stealthy bear trap./nHector is smart, so Hector likes to combine his skills.
-1809198382	Hector can <skill>whistle</skill> to lure guards towards his <skill>current location</skill>./nHector can also place <skill>"Bianca"</skill>, a giant, but surprisingly stealthy bear trap./nHector is smart, so Hector likes to combine his skills.
-842507766	Showdown Mode (Advanced)
-1673237879	Showdown Mode pauses the game and lets you plan <skill>one action per character</skill>./nPress {1} to <skill>instantly</skill> execute all planned actions./nPress {0} if you want to execute planned actions <skill>later</skill>./n(Note: On Desperado difficulty, Showdown Mode does not pause the game.)
-1769152909	Showdown Mode pauses the game and lets you plan <skill>one action per character</skill>./nPress {1} to <skill>instantly</skill> execute all planned actions./nPress {0} if you want to execute planned actions <skill>later</skill>./n(Note: On Desperado difficulty, Showdown Mode does not pause the game.)
-1404765654	Showdown Mode (Basics)
-1526524616	Showdown Mode pauses the game and lets you <skill>plan</skill> one action per character./nYou can <skill>execute</skill> actions right away, or save them for a later time./nPress {0} to enter Showdown Mode./n(Note: On Desperado difficulty, Showdown Mode does not pause the game.)
-736490867	Showdown Mode pauses the game and lets you <skill>plan</skill> one action per character./nYou can <skill>execute</skill> actions right away, or save them for a later time./nPress {0} to enter Showdown Mode./n(Note: On Desperado difficulty, Showdown Mode does not pause the game.)
-1145539499	Viewcone 1
-408743155	If an enemy sees you, their <skill>viewcone</skill> fills with yellow./nIf the yellow reaches you, the enemy <skill>detects you</skill>, starts attacking and sounds the alarm./nSelect an enemy with {0} to display their <skill>viewcone</skill>.
-1731445198	If an enemy sees you, their <skill>viewcone</skill> fills with yellow./nIf the yellow reaches you, the enemy <skill>detects you</skill>, starts attacking and sounds the alarm./nHold {0} and hover over an enemy to display their <skill>viewcone</skill>.
-242639902	Viewcone 2
-1242129070	While crouched ({0}), you can safely move through the <skill>dark and striped</skill> area of an enemy's viewcone./nWhile crouched on a <skill>roof</skill> you are always hidden to guards below.
-2024541266	While crouched ({0}), you can safely move through the <skill>dark and striped</skill> area of an enemy's viewcone./nWhile crouched on a <skill>roof</skill> you are always hidden to guards below.
-645631705	Alarm
-1315509806	Certain actions will cause guards to sound the <skill>alarm</skill>./nThis makes guards spawn from dedicated<skill> guard-houses</skill>, marked with an icon./nAfter the alarm dies down, surviving enemies will <skill>patrol the area</skill> permanently.
-1683052577	Using Dynamite
+1245739698	Hector pode usar <skill>"Bianca"</skill>, uma armadilha de urso gigante, mas curiosamente silenciosa./nInimigos que entrarem nela morrerão.
+533551378	Hector pode usar <skill>"Bianca"</skill>, uma armadilha de urso gigante, mas curiosamente silenciosa./nInimigos que entrarem nela morrerão.
+1104078969	Armadilha e apito
+980520670	Hector pode <skill>assobiar</skill> para atrair guardas para sua <skill>localização atual</skill>./nHector também pode colocar <skill> "Bianca" </skill>, uma armadilha de urso gigante, mas surpreendentemente./nHector é inteligente e gosta de combinar suas habilidades.
+1809198382	Hector pode <skill>assobiar</skill> para atrair guardas para sua <skill>localização atual</skill>./nHector também pode colocar <skill> "Bianca" </skill>, uma armadilha de urso gigante, mas surpreendentemente./nHector é inteligente e gosta de combinar suas habilidades.
+842507766	Modo Duelo (Avançado)
+1673237879	Modo Duelo pausa o jogo e permite planejar <skill>uma ação por personagem</skill>./nPressione {1} para <skill>imediatamente</skill> executar todas as ações planejadas./nPressione {0} se você deseja executar as ações planejadas <skill>mais tarde</skill>./n(Nota: Na dificuldade Desperado, o Modo Duelo não pausa o jogo.)
+1769152909	Modo Duelo pausa o jogo e permite planejar <skill>uma ação por personagem</skill>./nPressione {1} para <skill>imediatamente</skill> executar todas as ações planejadas./nPressione {0} se você deseja executar as ações planejadas <skill>mais tarde</skill>./n(Nota: Na dificuldade Desperado, o Modo Duelo não pausa o jogo.)
+1404765654	Modo Duelo (Fundamentos)
+1526524616	Modo Duelo pausa o jogo e permite <skill>planejar</skill> uma ação por personagem./nVocê pode <skill>executar</skill> ações imediatamente ou salve-as para mais tarde./nPressione {0} para entrar no modo duelo./n(Nota: Na dificuldade Desperado, o Modo Duelo não pausa o jogo.)
+736490867	Modo Duelo pausa o jogo e permite <skill>planejar</skill> uma ação por personagem./nVocê pode <skill>executar</skill> ações imediatamente ou salve-as para mais tarde./nPressione {0} para entrar no modo duelo./n(Nota: Na dificuldade Desperado, o Modo Duelo não pausa o jogo.)
+1145539499	Cone 1
+408743155	Se um inimigo te vê, o seu <skill>cone</skill> enche com amarelo./nSe o amarelo chegar até você, o inimigo <skill>te detecta</skill>, começa a atacar e soa o alarme./nSelecione um inimigo com {0} para exibir seu <skill>cone</skill>.
+1731445198	Se um inimigo te vê, o seu <skill>cone</skill> enche com amarelo./nSe o amarelo chegar até você, o inimigo <skill>te detecta</skill>, começa a atacar e soa o alarme./nPressione {0} e passe o mouse sobre um inimigo para exibir seu <skill>cone</skill>.
+242639902	Cone 2
+1242129070	Enquanto agachado ({0}), você pode mover-se com segurança pela área <skill>escura e listrada</skill> da visão de um inimigo./nEnquanto agachado em um <skill>telhado</skill>, você sempre ficara escondido para os guardas.
+2024541266	Enquanto agachado ({0}), você pode mover-se com segurança pela área <skill>escura e listrada</skill> da visão de um inimigo./nEnquanto agachado em um <skill>telhado</skill>, você sempre ficara escondido para os guardas.
+645631705	Alarme
+1315509806	Certas ações farão com que os guardas toquem o <skill>alarme</skill>./nIsso faz com que os guardas saiam das <skill>casas de guarda</skill> e ficam marcados com um ícone./nDepois que o alarme disparar, os inimigos sobreviventes <skill>patrulhão a área</skill> permanentemente.
+1683052577	Usando Dynamite
 1385269576	You can pick up <skill>dynamite</skill> from the barrel and throw it./nAim with {2} and throw the dynamite using {3}./nBe careful: It will explode in your hand if you wait too long.
 1505140734	You can pick up <skill>dynamite</skill> from the barrel and throw it./nAim with {1} and throw the dynamite using {2}./nBe careful: It will explode in your hand if you wait too long.
-986016286	Pickpocketing
-1040402450	In certain missions, Kate can <skill>pickpocket</skill> enemies./nBut be careful! If you are <skill>spotted</skill> doing so, it will sound the alarm./nHold {0} and select a target with {1}.
-1965673562	In certain missions, Kate can <skill>pickpocket</skill> enemies./nBut be careful! If you are <skill>spotted</skill> doing so, it will sound the alarm./nStep close to the target and use {0} to pickpocket.
-1036264098	Throw coin at horse.
-357399918	Leave Showdown Mode {0}.
-881960063	Execute action {0}.
-59907472	Throw coin at horse.
-1014902990	Leave Showdown Mode {0}.
-1015377738	Execute action {0}.
-1567781377	Selecting Multiple Characters
-469629017	You can select <skill>multiple characters</skill> by holding {0} and dragging a rectangle around them.
-1484251413	You can select <skill>multiple characters</skill> at the same time./nPress {0} to open the <skill>skillwheel</skill>./nThen use {1} to select characters./nAdd characters to your selection by pressing {2}.
-8510378	Civil Zones
-2042750386	Characters can move through <skill>civil zones</skill> undetected, as long as they don't act suspicious./nThe <skill>red maker</skill> will indicate when you are about to leave or enter a <skill>civil zone</skill>.
-1920588610	Long Coats
-1160028354	<skill>Long Coats</skill> are the most dangerous enemies./nHector is the only one that can take them down by himself with his <skill>trusty axe</skill> or his <skill>bare fists</skill>.
-1182687730	Connecting Long Coats
-891957788	You can connect a Long Coat with another, lower ranking guard. If you then take out the other guard, the Long Coat will become vulnerable and safe to attack.
+986016286	Roubar
+1040402450	Em certas missões, Kate pode <skill>roubar carteiras</skill> de inimigos./nTenha cuidado! Se ela for <skill>avistada</skill>, o alarme soará./nSegure {0} e selecione um alvo com {1}.
+1965673562	Em certas missões, Kate pode <skill>roubar carteiras</skill> de inimigos./nTenha cuidado! Se ela for <skill>avistada</skill>, o alarme soará./nAproxime-se do alvo e use {0} para roubar.
+1036264098	Jogue moedas no cavalo.
+357399918	Sair do modo duelo {0}.
+881960063	Executar ação {0}.
+59907472	Jogue moedas no cavalo.
+1014902990	Sair do modo duelo {0}.
+1015377738	Executar ação {0}.
+1567781377	Selecione vários personagens
+469629017	Você pode selecionar <skill>vários personagens</skill> segurando {0} e arrastando um retângulo ao redor deles.
+1484251413	Você pode selecionar <skill>vários personagens</skill> ao mesmo tempo./nPressione {0} para abrir o <skill>Circulo de habilidade</skill>./nEntão use {1} para selecionar personagens./nAdicione personagens à sua seleção segurando {2}.
+8510378	Zonas civis
+2042750386	Os personagens podem se mover através das <skill>zonas civis</skill> sem serem detectados, desde que não sejam suspeitos./nO <skill>marcador vermelho</skill> indicará quando você está prestes a sair ou entrar em uma <skill>zona civil</skill>.
+1920588610	Casacos Longos
+1160028354	<skill>Casacos Longos</skill> são os inimigos mais perigosos./nHector é o único que pode derrubá-los sozinho com seu <skill>fiel machado</skill> ou com seus <skill>punhos</skill>.
+1182687730	Conexão de casacos longos
+891957788	Você pode conectar um casaco longo a outro guarda inferior. Se você tirar o outro guarda, o Casaco Longo se tornará vulnerável você poderá atacá-lo com segurança.
 1063170881	Ponchos
-1729102775	Guards wearing <skill>Ponchos</skill> don't get fooled easily. They <skill>don't leave their posts</skill> and distractions last a lot shorter.
-1077739942	Stunning Long Coats
-1023966315	Without Hector, <skill>Long Coats</skill> are a tough nut to crack./nTo take them out you need to <skill>stun</skill> them by <skill>shooting them</skill> and then sneak up from behind./nThey will also <skill>see through Kate's disguise</skill> and are hard to distract.
-495832922	Viewcone Marker
-1558125949	The <skill>Viewcone Marker</skill> shows if a spot is watched by guards./nHold {0} to place it at a <skill>location</skill> or on a <skill>guard</skill>./n
-1351644456	The <skill>Viewcone Marker</skill> shows if a spot is watched by guards./nHold {0}, then use the cursor and press {1} to place it at a <skill>location</skill> or on a <skill>guard</skill>./n
-474395380	Highlight Objects
-205196585	You can <skill>highlight</skill> all interactable objects and enemies by pressing {0}.
-1238248782	You can <skill>highlight</skill> all interactable objects and enemies by pressing {0}.
+1729102775	Guardas vestindo <skill>Ponchos</skill> não se deixe enganar facilmente. Eles <skill>não deixam seus postos</skill> e as distrações duram muito pouco tempo.
+1077739942	Casacos longos impressionantes
+1023966315	Sem Hector, os <skill>Casacos Longos</skill> são um osso duro de roer./nPara pegalos, você precisa <skill>atordoar</skill> eles <skill> com um tiro </skill>e depois pega-los por trás./nAlém disso<skill> eles veem através do disfarce de Kate </skill>e são difíceis de distrai-los.
+495832922	Marcador de cone
+1558125949	O <skill>Marcador de cone</skill> mostra se um local é vigiado pelos guardas./nSegure {0} para colocá-lo em um <skill>local</skill> ou em um <skill>guarda</skill>./n
+1351644456	O <skill>Marcador de cone</skill> mostra se um local é vigiado pelos guardas./nSegure {0}, e depois use o cursor e pressione {1} para colocá-lo em um <skill>local</skill> ou em um <skill>guarda</skill>./n
+474395380	Realçar objetos
+205196585	Você pode <skill>destacar</skill> todos os objetos e inimigos interativos pressionando {0}.
+1238248782	Você pode <skill>destacar</skill> todos os objetos e inimigos interativos pressionando {0}.
 1490757284	Follow
 1320541830	Kate can bait <skill>guards</skill> into following her for a short period of time./nWomen, Ponchos and Long Coats are immune to her charms.
 1314573438	Kate can bait <skill>guards</skill> into following her for a short period of time./nFlirt with them, then press {0} again to make them follow her./nWomen, Ponchos and Long Coats are immune to her charms.
 955787236	Minecart
 1847265587	The <skill>Minecart</skill> can be <skill>moved</skill> along the tracks. <skill>Track switches</skill> can be operated via levers next to them./nYou can <skill>release</skill> the cart by pressing {0}/nBe careful! If the cart is hit by any bullet, it will explode.
 340709910	The <skill>Minecart</skill> can be <skill>moved</skill> along the tracks. <skill>Track switches</skill> can be operated via levers next to them./nYou can <skill>release</skill> the cart by pressing {0}/nBe careful! If the cart is hit by any bullet, it will explode.
-122918593	Quicksave and Quickload
-162479796	You can save the game at any time by pressing {0}./nQuickload your last save by pressing {1}./nUse it <skill>often</skill>! Failing and retrying is <skill>intended</skill> and part of the game.
-274179946	You can save the game at any time by pressing {0}./nQuickload your last save by pressing {1} and selecting the savegame you want to load./nUse it <skill>often</skill>! Failing and retrying is <skill>intended</skill> and part of the game.
+122918593	Salvar rápido e Carregar rápido
+162479796	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1}./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
+274179946	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1} e selecionando o jogo que você deseja carregar./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
 1897236503	Perfume Vials
 488427544	Kate has an unlimited supply of <skill>Perfume Vials</skill>. One vial temporarily blinds all <skill>guards</skill> in range./nThis is one of the few abilities that has its full effect on all guard types, including <skill>Long Coats</skill> and <skill>Ponchos</skill>.
 896736163	Knockout
@@ -1039,73 +1039,73 @@ Japanese	Japanese
 970518927	You will leave footprints in wet mud or sand. Guards will follow your tracks, so be careful.
 1446458937	Shallow Water
 97485671	Moving through shallow water will create noise, so be careful./nRunning creates more noise than crouching or walking.
-1057120260	Move Camera /n {0}
-1268121818	Move Camera/n {0}
-1997712746	Move /n {0}
-2011726767	Move /n {0}
-2015399734	Run /n <hotkey>2 x</hotkey> {0}
-1130591802	Run {0}
-1352061002	Crouch/n {0}
-451565714	Crouch/n {0}
-818918724	Display Viewcone /n {0}
-1803911677	Display Viewcone /nHold {0}
-1329201872	Viewcone /n {0}
-546518967	Viewcone /nHold {0}
-1734509107	Display Viewcone /n Hold {0}/n Select{1}
-1468795448	Quicksave /n {0}
-805677071	Quicksave/n {0}
+1057120260	Mover câmera /n {0}
+1268121818	Mover câmera/n {0}
+1997712746	Mover /n {0}
+2011726767	Mover /n {0}
+2015399734	Correr /n <hotkey>2 x</hotkey> {0}
+1130591802	Correr {0}
+1352061002	Agachar-se/n {0}
+451565714	Agachar-se/n {0}
+818918724	Exibir cone /n {0}
+1803911677	Exibir cone /nSegure {0}
+1329201872	Cone /n {0}
+546518967	Cone /nSegure {0}
+1734509107	Exibir cone /n Segure {0}/n Selecione{1}
+1468795448	Salvar rápido /n {0}
+805677071	Salvar rápido/n {0}
 30740186	Zoom /n {0}
-991590334	Zoom/n Hold {0}
-1218799266	Rotate Camera/n Hold {0}
-126308928	Rotate Camera/n Hold {0}, Rotate {1}
-869364089	Reset Camera /n{0}
-32296457	Reset Camera/n {0}
-1976065184	Pick Up Body/n {0}
-1076383443	Drop Body/n Hold {0}, Drop-Position {1}
-1617048422	Drop Body/n {0}
-631295312	Tie Up/n {0}
-1168533264	Tie Up
-210459605	Use/n {0}
-1831549009	Use
-1308652990	Select Character /n Hold {0}, Select {1}
-520147263	Select Character/n {0}
-741847450	Showdown Mode /n {0}
-1638392578	Showdown Mode/n {0}
-100908021	Jump/nAcross
-2083201227	Jump/nAcross
-2001093994	Pick Up Knife /n WALK <hotkey>CLOSE</hotkey>
-2113789918	Pick Up Knife /n <hotkey>WALK CLOSE</hotkey>
-436268579	Highlight/n {0}
-1301298816	Highlight/n {0}
-1681608670	Gunman
+991590334	Zoom/n Segure {0}
+1218799266	Girar câmera/n Segure {0}
+126308928	Girar câmera/n Segure {0}, Girar {1}
+869364089	Redefinir câmera /n{0}
+32296457	Redefinir câmera/n {0}
+1976065184	Pegar corpo/n {0}
+1076383443	Soltar Corpo/n Segure {0}, Posição para Soltar {1}
+1617048422	Soltar Corpo/n {0}
+631295312	Arremesso/n {0}
+1168533264	Arremesso
+210459605	Usar/n {0}
+1831549009	Usar
+1308652990	Selecionar personagem /n Segure {0}, Selecione {1}
+520147263	Selecionar personagem/n {0}
+741847450	Modo Duelo /n {0}
+1638392578	Modo Duelo/n {0}
+100908021	Pular/nPule aqui
+2083201227	Pular/nPule aqui
+2001093994	Recolher faca /n Caminhe até o <hotkey>CADÁVER</hotkey>
+2113789918	Recolher faca /n <hotkey>Caminhe até o CADÁVER</hotkey>
+436268579	Realçar/n {0}
+1301298816	Realçar/n {0}
+1681608670	Pistolero
 1107477338	Cooper
 1455806789	Hector
 115484959	McCoy
 1657907318	Kate
 780032065	Isabelle
 1683601941	Stella
-1482129	Civilian
-2140714460	Long Coat
+1482129	Civil
+2140714460	Casaco Longo
 1413190058	Frank
 890092290	DeVitt
 1731691163	Wayne
 1234380554	Poncho
-366782154	Thug
+366782154	Valentão
 2056968755	James Cooper
 663666488	Cooper
-421750801	Long Coat
+421750801	Casaco Longo
 639273516	Jarvis
 1745974188	Wild Marge
-1598571356	The Duke
+1598571356	O duque
 844354073	McBane
-614728443	Uncle O'Hara
-1070272398	Guard Dog
-569349177	Gunwoman
+614728443	Tio O'Hara
+1070272398	Cão de guarda
+569349177	Pistolera
 402270059	Poncho
 1520900021	Judge McGain
 31931305	O´Neill
-137554682	Mr. Irving
-2100952380	Bilya the Kid
+137554682	Sr. Irving
+2100952380	Bily the Kid
 1038617784	Mazen "Longshot" Bilto
 159344247	Bertie Hill
 998679126	Bum Spencer
@@ -1113,27 +1113,27 @@ Japanese	Japanese
 568378835	Dolores
 1661613942	Sly Wingman
 1246909675	Three Finger Jane
-963694914	Mayor Higgins
+963694914	Prefeito Higgins
 61180315	Rosie
-941977273	Enemy Setups
-2116092462	This determines the number of enemies and the frequency of tougher enemy types./n/nHINT: Change this to make enemy setups less or more challenging.
-233722491	Detection Speed
-1913750713	This determines the speed at wich an enemy viewcone fills with yellow when they see you./n/nHINT: Change this to decrease or increase the demand on your reflexes.
-450233968	Player Health
-677898624	This determines the maximum number of health points your characters can have./n/nHINT: Change this to decrease or increase your margin for error.
-1826741812	Player Ammo
-114054378	This determines how much ammo your characters have at the start of a mission, as well as the amount of ammo found in crates./n/nHINT: Change this to allow for more or less gunplay in your playthrough.
-1202346510	Custom
-528226213	Amount of Saves
-511045945	This determines the number of times you can save.
-2001766354	Pause During Showdown Mode
-1193209278	This determines whether the Showdown Mode pauses the game upon activation./n/nHINT: When playing on "Desperado" this will always be off.
-1412281320	Show Details
-483977082	Unlimited
-1258607113	None
-1937357559	Denied
-1962654553	You have no more saves left!
-174418242	Hide Details
+941977273	Configurações inimigas
+2116092462	Isso determina o número de inimigos e a frequência de tipos de inimigos mais difíceis./n/nDICA: Altere isso para tornar as configurações do inimigo menos ou mais desafiadoras.
+233722491	Velocidade de detecção
+1913750713	Isso determina a velocidade na qual o cone de um inimigo fica amarelo quando o vê./n/nDICA: Altere isso para diminuir ou aumentar a demanda de seus reflexos.
+450233968	Saúde do jogador
+677898624	Isso determina o número máximo de pontos de vida que seus personagens podem ter./n/nDICA: Altere para diminuir ou aumentar sua margem de erro.
+1826741812	Munição do Jogador
+114054378	Isso determina quanta munição seus personagens têm no início de uma missão, bem como a quantidade de munição encontrada em caixotes./n/nDICA: Altere isso para permitir mais ou menos disparos em sua jogada.
+1202346510	Customizado
+528226213	Quantidade de gravações
+511045945	Isso determina o número de vezes que você pode salvar.
+2001766354	Pausar durante o modo duelo
+1193209278	Isso determina se o Modo duelo interrompe o jogo após a ativação./n/nDICA: Ao jogar no "Desperado", ele sempre estará desativado.
+1412281320	Mostrar detalhes
+483977082	Ilimitado
+1258607113	Nenhum
+1937357559	Negado
+1962654553	Você não tem mais salvamentos restantes!
+174418242	Detalhes ocultos
 1677114193	ENEMY SETUPS – EASY/n/n{0} Fewer Enemies/n{0} Fewer Ponchos and Long Coats
 1469220682	ENEMY SETUPS – MEDIUM/n/n{0} Standard Enemy Setups
 1243964351	ENEMY SETUPS – HARD/n/n{0} Additional Enemies/n{0} More Ponchos and Long Coats
@@ -1149,39 +1149,39 @@ Japanese	Japanese
 1428667906	PLAYER AMMO – MEDIUM/n/n{0} Start – 8, Crate – 6 (Cooper)/n{0} Start – 4, Crate – 3 (McCoy)/n{0} Start – 3, Crate – 2 (Hector)/n{0} Start – 4, Crate – 3 (Kate)/n{0} Start – 3, Crate – 2 (Isabelle)
 1315085301	PLAYER AMMO – HARD/n/n{0} Start – 6, Crate – 4 (Cooper)/n{0} Start – 3, Crate – 3 (McCoy)/n{0} Start – 2, Crate – 2 (Hector)/n{0} Start – 3, Crate – 2 (Kate)/n{0} Start – 3, Crate – 2 (Isabelle)
 1262354350	PLAYER AMMO – DESPERADO/n/n{0} Start – 4, Crate – 2 (Cooper)/n{0} Start – 2, Crate – 2 (McCoy)/n{0} Start – 2, Crate – 1 (Hector)/n{0} Start – 2, Crate – 2 (Kate)/n{0} Start – 3, Crate – 2 (Isabelle)
-1285047320	CHEATS
-910742298	Invisibility
-841991396	Invincibility
-1213027042	Kill Command
-2057061249	Teleport Character
-1980515834	Spawn Hector
-28104649	Spawn Cooper
-2044508211	Spawn McCoy
-38551962	Spawn Isabelle
-1217814824	Spawn Kate
-980330027	You cannot change this during gameplay.
-212732831	Make all selected characters invisible.
-898633805	Make all selected characters invincible.
-1525480422	Kill your target with the press of a button.
-1233503992	Teleport all selected characters to the target location.
-475449635	Spawn Hector at the target location.
-1246881435	Spawn Cooper at the target location.
-236663614	Spawn McCoy at the target location.
-1389313657	Spawn Isabelle at the target location.
-785635210	Spawn Kate at the target location.
-537635851	Cheater!
-1338935816	Badges cannot be unlocked while cheating.
-1985192607	Demo
-883308870	Demo
-1856232954	Demo end:
-2023026588	MISSION FEEDBACK
-1291298655	Well done. Help us deliver the best version of this level when the game launches. "Continue" will open the survey website. Take your time. We really appreciate it!
-18246755	Did you leave your feedback? Thank you!
-212435601	REOPEN LINK
-790517870	I AM DONE
-554712321	GAME FEEDBACK
-2072507729	Well done. Help us deliver the best version of this level when the game launches. "Continue" will open the survey website. Take your time. We really appreciate it!
-1245446765	End user agreement
+1285047320	TRAPAÇA
+910742298	Invisibilidade
+841991396	Invencibilidade
+1213027042	Comando de Matança
+2057061249	Personagem de Teleporte
+1980515834	Gera Hector
+28104649	Gera Cooper
+2044508211	Gera McCoy
+38551962	Gera Isabelle
+1217814824	Gera Kate
+980330027	Você não pode mudar isso durante o jogo.
+212732831	Torne todos os personagens selecionados invisíveis.
+898633805	Torne todos os personagens selecionados invencíveis.
+1525480422	Mate seu alvo com o pressionar de um botão.
+1233503992	Teleporte todos os personagens selecionados para o local de destino.
+475449635	Gera Hector no local alvo.
+1246881435	Gera Cooper no local de destino.
+236663614	Gera McCoy no local de destino.
+1389313657	Gera Isabelle no local de destino.
+785635210	Gera Kate no local de destino.
+537635851	Trapaceiro!
+1338935816	Os distintivos não podem ser desbloqueados durante a trapaça.
+1985192607	Demomstração
+883308870	Demomstração
+1856232954	Fim da Demomstração:
+2023026588	FEEDBACK DA MISSÃO
+1291298655	Muito bem. Ajude-nos a oferecer a melhor versão para quando o jogo for lançado. "Continuar" abrirá o site da pesquisa. Não tenha pressa. Nós realmente apreciamos disso!
+18246755	Você deixou seu feedback? Obrigado!
+212435601	ABRIR LINK
+790517870	TERMINEI
+554712321	FEEDBACK DO JOGO
+2072507729	Muito bem. Ajude-nos a oferecer a melhor versão para quando o jogo for lançado. "Continuar" abrirá o site da pesquisa. Não tenha pressa. Nós realmente apreciamos disso!
+1245446765	Contrato de usuário final
 774155896	[Empty]
 1615115792	$USER_NAME_OR_ID unlocked a badge in $TITLE_NAME.
 835984463	$USER_NAME_OR_ID unlocked $STORY_COUNT badges in $TITLE_NAME.
@@ -1203,23 +1203,23 @@ Japanese	Japanese
 1558010130	$USER_NAME_OR_ID completed $STORY_COUNT missions on {1} difficulty in $TITLE_NAME.
 151706036	$USER_NAME_OR_ID unlocked all badges of {0} in $TITLE_NAME.
 2734629	$USER_NAME_OR_ID unlocked all badges of $STORY_COUNT missions in $TITLE_NAME.
-1780758815	Render Scale
-905456972	Difficulty Mode
-90161797	Easy
-772446225	Medium
-1323360165	Hard
-773723552	Challenges
-231357304	Barmaid
-423656608	Poker Player 1
-1117150295	Poker Player 2
-169451094	Poker Player 3
-215441153	Company Brute
-889456816	Company Guard
+1780758815	Escala de renderização
+905456972	Modo de dificuldade
+90161797	Fácil
+772446225	Medio
+1323360165	Difício
+773723552	Desafios
+231357304	Garçonete
+423656608	Jogador de Poker 1
+1117150295	Jogador de Poker 2
+169451094	Jogador de Poker 3
+215441153	Bruto da compãnia
+889456816	Guarda da compãnia
 1603078355	Welcome in the QA testlevel! In this testlevel you can perform clean testing of characters, NPCs usables and more. Some features might be missing, but will be added in future iterations of this level.
 663543378	This is the playerroom. When you enter the QA testlevel you will always start here with all characters in front. On the top, you find a small parkour for player navigation testing.
 574096615	North of the playerroom is the cheatslist.
 789341352	Right of the playerroom you will find the testroom. It's the primary testroom, with every guard and with most of the features, which will be needed for testing.
-1091142676	In the north of the testroom you will find the control panel. The control panel works as followed: First you choose a guard type, then you choose the position where the guard type should be spawned. This way you can spawn all enemy types in all kind of different setups.
+1091142676	In the north of the testroom you will find the control panel. The control panel works as followed: First you choose a guard type, then you choose the position where the guard type should be Geraed. This way you can Gera all enemy types in all kind of different setups.
 1135000294	On the far right we find the parkour. This room is designed for enemy navigation testing, but also for door testing. The enemies can be activated with the control panel in the north of this room. After activation they will follow their route through the parkour.
 1873777461	If you want to navigate quickly through the testlevel, take a look into the hint log. I hope this short tutorial answered all questions. For further questions please ask Toby. That's it for now: Happy testing and god bless my friend! *Bob Ross quote end*
 941720566	Tutorial
@@ -1242,121 +1242,121 @@ Japanese	Japanese
 995441901	Move to Kate.
 715430043	Isabelle
 530774733	Move to Isabelle.
-1678000250	Johnnie. Você está ficando para trás! Vamos lá.
-220997359	Estou atrás você, Pai.
+1678000250	Johnnie. Você está ficando para trás! Anda logo.
+220997359	Estou atrás de você, Pai.
 469298229	Eu vou em frente. Me siga discretamente.
 1426237520	Sim, senhor.
 1299558651	VO TRACK
 1006428758	VO TRACK
 1472201416	VO TRACK
-1184634196	There's the first guard. I need to be sneaky about this.
-1345089562	Come on! Open up, you tenacious heap o' mule's shit!
-52315649	Open! Damn it, I'm dying of thirst out here.
-1708575428	Not fair. I can smell the whiskey from here.
-1722395276	Shit. Who lost the fucking key anyway?
-799306384	I'll come back later with an axe.
-200422027	Still won't budge. Damn it.
-960289221	Why won't you open, you piece of shit.
-1143306891	There's whiskey in there. I know it.
-967692626	Why do I have to be out here?
-677920504	Shit, I could really use a shot right about now.
-444229462	Fuck... This thirst is killing me.
-1273054320	Who's gonna come by here anyway.
-678736588	What the hell happened?!
-1561295358	Sorry... I slipped up.
+1184634196	Há o primeiro guarda. Eu preciso ser calteloso.
+1345089562	Vamos! Abra, seu monte de merda!
+52315649	Abrar! Droga, estou morrendo de sede aqui.
+1708575428	Não é justo. Eu posso sentir o cheiro do uísque daqui.
+1722395276	Merda. Quem perdeu a porra da chave, afinal?
+799306384	Volto mais tarde com um machado.
+200422027	Ainda não vai ceder. Droga.
+960289221	Por que você não abre, seu pedaço de merda.
+1143306891	Tem uísque lá dentro. Eu sei disso.
+967692626	Por que eu tenho que ficar aqui fora?
+677920504	Merda, eu realmente poderia dar um tiro agora.
+444229462	Foda-se ... Essa sede está me matando.
+1273054320	Quem vai passar por aqui de qualquer maneira?
+678736588	O que diabos aconteceu?!
+1561295358	Desculpe ... eu escorreguei.
 1989147937	John!
-1619913815	Johnny, no!
-52069976	God, No!
-1737853021	That's my boy. Now stay close.
-673464788	There's another up ahead.
-1939658397	We need to get his attention elsewhere.
-1566035860	Sure. I'll throw one of my coins.
-971260786	Good idea. Get him to turn his head. I'll do the rest.
-1816478218	Get him to turn his head.
-1903341140	He has to look away.
-284741563	Make him look away.
-2142470101	You've done it before.
-521173166	He didn't hear the coin.
-1346330984	Throw the coin closer.
-1304306774	Remember—think slow, act fast.
-1510475130	We always hide the body.
-186921039	You been payin' attention.
-434305833	Follow me. Keep your head down.
-982212394	Christ, I hate horses. Stupid beasts.
-80618972	"You do the horses, Sal." Haha, very funny.
-683117499	That's right. Just stand there and eat.
-1511957846	You! You're the worst of 'em!
-2065162587	Don't you dare kick out at me, you got it?
-1035198870	Damn devil. I got my eye on you.
-1094668953	She wants to kick me. I know it.
-1860765847	Don't you try anything funny, ya hear me?
-1347961325	You kick me, I'm gonna shoot you in the ass.
-29525659	I hate horses, Billy.
-947759493	Don't come to me. I'm just standing here.
-395352510	Come on, let's switch places.
-1095449348	We all got our jobs to do, Sal.
-1258460792	Why can't you do the horses?
-1580432621	Cause it's funnier when you do it.
-140547430	That'll do just fine.
-969963853	Hey, Pa? 
-2105600160	Yeah?
-1347077792	How many men does Frank have?
-1767201949	Doesn't matter, boy. One on one, you always got a chance. You just gotta thin out the pack. 
-1708426917	Locked. No surprise there.
-961203488	Blocked. No surprises there.
-2121242683	All right, son. Time for a challenge.
-1608020280	See that ladder up there? I need you to throw it down for me.
-1217893076	Good job! That's my boy!
-669315966	It was easy!
-1808677364	Keep your head down. There's more of 'em.
-1654110603	You gotta find a way to sneak through.
-1661663094	You hear about Lindberg? She went and gulped down Old Hutch's last bottle.
-1165105379	That explains why the old bastard has it in for her. 
-1479050419	Wha' dah you reckon he'll do? Call her out...for a duel?
-683057496	You know Old Hutch... His only friend is his bottle.
-679665959	My money'd be on Hutch. He's as mean as they come. Quick, too.
-2061201113	Yeah! And he's also drunk as a skunk. And he's got those shakes.
-2010416411	I'm good for five dollars on Hutch! Whatcha say?
-710375432	It's a bet. Lindberg's one nasty piece o' work.
-1586398938	Lindberg! Come out, you whiskey-stealin' piss-gulpin' sow!
-1872026001	I'm right here, you worthless drunk. Let's settle this.
-1298793123	You hear that? It's about to go down! Come on!
-1577121988	It's time you paid for stealin' what's rightfully mine!
-208492544	You don't scare me, you halfwit inebriate!
-113944635	That bottle was MY bottle!
-1288348702	You gonna draw, or kill me with your foul wretched breath.
-1500668642	Ha! Too slow you thieving bitch. Got what you deserved.
-58060641	Yep... Take that to your grave, you drunken worthless fool.
-1278130353	Eyes ahead, kid! That duel doesn't concern us.
-1500641619	See the one in the back, near the cliff?
-867275810	Find a way to distract him with your coin, then I can take them both out.
-173700865	The other one, John.
-788470849	He's still breathing.  Tie him up and quick, before he comes to.
-610402371	Watch out!
-1693227310	S-sorry.
-270329634	It's not a day to lose your head, son. Just go and hide the body.
-6254567	Good job. Now hide 'em in the bushes.
-814465367	Atta boy. Let's go.
-1249224831	We gotta get moving.
-2009387216	You coming, son?
-1269776983	What's keeping ya?
-436041377	Where'd they all come from?
-768305125	Don't matter. See that crane up there?
-199740460	Yeah.
-1397304671	How 'bout you go over there and make a delivery.
-369857519	Comin' right up, sir.
-616012734	I did it!
-1056472202	Nice job, son. Now stay right there. I'll come to you.
-1632996207	Good job, boy.
-1189061753	You know the drill. You wait 'til I'm back.
-1717160180	Thought I was ready this time.
-1181643869	Next time, I bet.
-1437875326	You said the same thing last time. Why can't I come with you? Just give me a gun!
-352432993	A gun, huh?
-503611392	I wanna see you hit that tree from fifteen paces.
-205456903	I wanna see you hit that tree from ten paces.
-1632727931	When you pull that off, you're ready for a gun.
-975014210	See you later, Johnnie.
+1619913815	Johnny, não!
+52069976	Deus não!
+1737853021	Esse é o meu garoto. Agora fique perto.
+673464788	Há outro à frente.
+1939658397	Precisamos chamar a atenção dele para outro lugar.
+1566035860	Certo. Vou jogar uma das minhas moedas.
+971260786	Boa ideia. Faça com que ele vire a cabeça. Eu farei o resto.
+1816478218	Faça com que ele vire a cabeça.
+1903341140	Ele tem que desviar o olhar.
+284741563	Faça-o desviar o olhar.
+2142470101	Você já fez isso antes.
+521173166	Ele não ouviu a moeda.
+1346330984	Jogue a moeda mais perto.
+1304306774	Lembre-se - pense devagar, aja rápido.
+1510475130	Nós sempre escondemos o corpo.
+186921039	Você está prestando atenção.
+434305833	Me siga. Mantenha sua cabeça baixa.
+982212394	Cristo, eu odeio cavalos. Bestas estúpidas.
+80618972	"Você faz os cavalos, Sal." Ahah muito engraçado.
+683117499	Está certo. Apenas fique ai e coma.
+1511957846	Você! Você é o pior deles!
+2065162587	Não se atreva a me chutar, entendeu?
+1035198870	Diabo maldito. Estou de olho em você.
+1094668953	Ele quer me chutar. Eu sei isso.
+1860765847	Não Tente nada engraçado, está me ouvindo?
+1347961325	Se você me chutar, eu vou dar um tiro em seu traseiro.
+29525659	Eu odeio cavalos, Billy.
+947759493	Deixe-me, estou aqui.
+395352510	Vamos lá, vamos mudar de lugar.
+1095449348	Cada um faz a sua parte, Sal.
+1258460792	Por que você não pode fazer os cavalos?
+1580432621	Porque é mais engraçado quando você faz isso.
+140547430	Isso vai dar certo.
+969963853	Ei, pai? 
+2105600160	Sim?
+1347077792	Quantos homens Frank tem?
+1767201949	Não importa, garoto. Um a um, você sempre tem uma chance. Você só precisa diminuir o grupo. 
+1708426917	Bloqueado. Nenhuma surpresa lá.
+961203488	Bloqueado. Não há surpresas lá.
+2121242683	Tudo bem, filho. Hora de um desafio.
+1608020280	Vê aquela escada lá em cima? Eu preciso que você jogue para mim.
+1217893076	Bom trabalho! Esse é o meu garoto!
+669315966	Foi fácil!
+1808677364	Mantenha sua cabeça baixa. Há mais deles.
+1654110603	Você tem que encontrar uma maneira de se esconder.
+1661663094	Você ouviu falar de Lindberg? Foi ele que engoliu a última garrafa de Old Hutch.
+1165105379	Isso explica por que o velho bastardo dá tudo para ele.
+1479050419	O que você acha que ele fará? Chamá-lo para sair... para um duelo?
+683057496	Você conhece o velho Hutch... O único amigo dele é a garrafa dele.
+679665959	Meu dinheiro estaria em Hutch. Ele é tão mau quanto eles vêm. Rápido também.
+2061201113	sim! E ele também está bêbado como um gambá. E ele tem esses shakes.
+2010416411	Cinco dólares por Hutch! O que me diz?
+710375432	É uma aposta. Uma peça desagradável de Lindberg para o trabalho.
+1586398938	Lindberg! Saia, seu ladrão de uísque!
+1872026001	Estou bem aqui, seu bêbado until. Vamos resolver isso.
+1298793123	Você ouviu isso? Está prestes a cair! Vamos!
+1577121988	Está na hora de você pagar por roubar o que é meu por direito!
+208492544	Você não me assusta, seu imbecil!
+113944635	Aquela garrafa era a MINHA garrafa!
+1288348702	Você vai me matar com seu hálito horrível.
+1500668642	Ha! Muito devagar, sua vadia ladra. Tem o que você mereceu.
+58060641	Sim .. Leve isso para o seu túmulo, seu bêbado inutel.
+1278130353	Olhos à frente, garoto! Esse duelo não nos diz respeito.
+1500641619	Vê aquele ali no fundo, perto do penhasco?
+867275810	Encontre uma maneira de distraí-lo com sua moeda, para que eu possa pega-los.
+173700865	O outro, John.
+788470849	Ele ainda está respirando. Amarre-o rapidamente e antes que ele acorde.
+610402371	Cuidado!
+1693227310	Desculpe.
+270329634	Não é um dia para perder a cabeça, filho. Apenas vá e esconda o corpo.
+6254567	Bom trabalho. Agora esconda-os nos arbustos.
+814465367	Aí garoto. Vamos lá.
+1249224831	Temos que nos mexer.
+2009387216	Você vem filho?
+1269776983	O que você está esperando?
+436041377	De onde eles vieram?
+768305125	Não importa. Vê aquele guindaste lá em cima?
+199740460	Sim.
+1397304671	Que tal você ir até lá e fazer uma entrega.
+369857519	Chegando logo, senhor.
+616012734	Eu fiz isso!
+1056472202	Bom trabalho, filho. Agora fique aí. Eu irei até você.
+1632996207	Bom trabalho, garoto.
+1189061753	Você sabe o que fazer. Você espera até eu voltar.
+1717160180	Pensei que estava pronto desta vez.
+1181643869	Da próxima vez, quem sabe.
+1437875326	Você disse a mesma coisa da última vez. Por que não posso ir com você? Apenas me dê uma arma!
+352432993	Uma arma, hein?
+503611392	Eu quero ver você espetar naquela árvore a quinze passos.
+205456903	Eu quero ver você espetar naquela árvore a dez passos.
+1632727931	Quando você fizer isso, estará pronto para uma arma.
+975014210	Até mais, Johnnie.
 1900598656	VO TRACK
 1896881836	VO TRACK
 110101962	VO TRACK
@@ -1376,113 +1376,113 @@ Japanese	Japanese
 1667462755	Amarre o guarda nocauteado e esconda-o no mato.
 8818489	Use o guindaste
 154743950	Suba no guindaste e solte a carga nos três guardas abaixo.
-460377644	Meet up With Your Father
-1343983716	Your father is waiting at the statue. Go meet up with him. 
-1692289367	Pick her clean, boys! Take everything that shines and anything what could drink a man blind.
-1929783850	Ha! Another notch for Big Ann!
-1205750566	Come on, let's show them who's boss!
-767721975	Shit! Take cover! 
-1475498398	Come this way. Let's flank him.
-960148853	Damn! He saw us.
-1019127878	He's up there! Get him!
-1051935092	Don't let him get away!
-663715900	Shoot 'em dead, boys!
-2103050132	Hey, leave some for me!
-1560468735	Wonder what's in here...
+460377644	Encontre seu pai
+1343983716	Seu pai está esperando na estátua. Vá se encontrar com ele. 
+1692289367	limpe tudo, meninos! Pegue tudo que brilhar e qualquer coisa que um homen possa beber.
+1929783850	Ha! Outro ponto para Big Ann!
+1205750566	Vamos lá, vamos mostrar quem é que manda!
+767721975	Merda! Proteja-se! 
+1475498398	Vem por aqui. Vamos flanquear ele.
+960148853	Droga! Ele nos viu.
+1019127878	Ele está lá em cima! Pegue ele!
+1051935092	Não o deixe fugir!
+663715900	Atire neles, rapazes!
+2103050132	Ei, deixe um pouco para mim!
+1560468735	Pergunto, oque esta acontecendo aqui ...
 484933547	...!
-1907256786	Something tells me you ain't here punchin' tickets.
-1373445296	Seems like we made an unplanned stop. I'd better go find out what's holding us up.
+1907256786	Algo me diz que você não veio para acertar contas.
+1373445296	Parece que fizemos uma parada não planejada. É melhor eu descobrir o que está nos aguardando.
 1643412661	VO TRACK
-951221264	Gonna have to sneak my way up to the front of the train.
-713753643	Gotta take him out from here. Better throw the knife.
-1003845454	Ropelifts, wheelbarrows. Man, these folks sure came prepared.
-1162303225	Shit! Damn it!
-796419796	Better get up top.
-1971672858	Hey, look over here! We missed one!
-1896120580	Come out, come out! I know where you are!
-1211612051	You keep hiding, I keep shooting.
-50222681	We're gonna take your life AND your money.
-941059724	Jesus, you scared me.
-1697471239	Can you help us?
-1639671670	Let's see who's the fastest draw.
-1450283622	Here he comes.
-1623085575	Next time I better thin down the pack before I get loud.
-1337360436	Thank you, stranger.
-1527554887	Find a place to hide.
-2130853820	Don't you move, buddy.
-1423049218	Let's not do anything we might regret.
-1281610380	I gotta take 'em both down at the same time.
-1105102517	I'd say you owe me one.
-1365400822	Hey now! Are you kidding me?
+951221264	Vou ter que chegar até a frente do trem.
+713753643	Tenho que tirá-lo daqui. Melhor jogar a faca.
+1003845454	Teleféricos, carrinhos de mão. Cara, essas pessoas com certeza vieram preparadas.
+1162303225	Merda! Droga!
+796419796	Melhor chegar ao topo.
+1971672858	Ei, olhe aqui! Perdemos um!
+1896120580	Saia, saia! Eu sei onde você está!
+1211612051	Você continua se escondendo, eu continuo atirando.
+50222681	Nós vamos tirar sua vida E seu dinheiro.
+941059724	Jesus, você me assustou.
+1697471239	Você pode nos ajudar?
+1639671670	Vamos ver quem é o mais rápido.
+1450283622	Aqui vem ele.
+1623085575	Da próxima vez, é melhor diminuir o grupo antes de fazer barulho.
+1337360436	Obrigado, estranho.
+1527554887	Encontre um lugar para se esconder.
+2130853820	Não se mexa, amigo.
+1423049218	Não vamos fazer nada que possamos nos arrepender.
+1281610380	Eu preciso derrubá-los ao mesmo tempo.
+1105102517	Eu diria que você me deve uma.
+1365400822	Ei agora! Você está brincando comigo?
 2077883062	...!
-1757142276	I'd say we're even now.
-2060438311	Now I suggest you return to your wagon. I'll handle things from here.
-1826446833	Like you handled those two?
-1643408715	Listen, Mr....
+1757142276	Eu diria que estamos em paz.
+2060438311	Agora sugiro que você retorne ao seu vagão. Eu vou lidar com as coisas daqui.
+1826446833	Como você lidou com esses dois?
+1643408715	Escute, Sr.....
 402003712	Cooper.
-3876306	Mr. Cooper. I've been hired to make sure this train gets to Flagstone.
-1529002408	I'd appreciate it if you don't get in my way.
-1820710576	Well now, Mr....
+3876306	Mr. Cooper. Fui contratado para garantir que este trem chegue a Flagstone.
+1529002408	Eu apreciaria se você não estivesse no meu caminho.
+1820710576	Bem, agora Sr.....
 998996917	McCoy. Doctor McCoy.
-2140966376	Right. Doctor McCoy. The way I see it, there's only one way forward.
-1640528482	And I gotta get to Flagstone too.
-34942661	Suit yourself. But don't say I didn't warn you.
+2140966376	Correto. Doctor McCoy. A meu ver, só há um caminho a seguir.
+1640528482	E eu tenho que ir para Flagstone também.
+34942661	Como quiser. Mas não diga que eu não avisei.
 475419878	VO TRACK
-1975231165	So looks like the bandits blocked the tunnel.
-478252477	Why'd you think the train's stopped?
-369403123	It's gonna take some work to clear those rocks.
-1072109390	Good thing they have a stash of dynamite up on that plateau.
-644898868	Grab it and clear the tunnel. Not such a bad plan.
-376265597	I don't do bad plans.
-1407100741	Fair enough. Let's get to it then.
-89265579	Sure thing.
-1694409325	Well well. A real doctor after all.
-1751704381	Don't sound so surprised.
-1898403668	Any ideas on this one?
-1554018004	I'm gonna use my bag as bait. You just hide and learn something.
-639337317	Gas trap, huh? Not bad. How do you open that thing safely?
-272489015	You don't, Mr. Cooper, unless you're me.
-1869689713	Big Ann has done it again.
-801957529	Another train for us, he he.
-1085623643	Screw the Devitt Company.
-67595800	We're gonna strip this baby clean.
-226511189	The boys are having fun looting.
-561111430	It's a goddamned shame I gotta stand guard here.
-1256294145	Who the hell comes through here anyways?
-1198044642	Fucking orders.
-2056535846	Let's cross over.
-1294728632	There's a lookout, up on the cliff.
-1530678151	I'll take him from here.
-1457731169	That I wanna see.
-2021481338	Not sure where that went, but it wasn't your target.
-1212423052	You fail to impress so far, Mr. McCoy.
-1122724759	Come on, McCoy. We ain't got all day.
-251747283	Well, I'll be damned.
-1669130534	Colt Buntline Special. Custom stock, custom rounds.
-1272865861	Hope you don't mind, Mr. McCoy.
-1105231492	Fine. Saves me a bullet.
-1236950567	Up we go.
-520419993	My climbing days are behind me, Mr. Cooper.
-1671694831	Well, we'll figure something out.
-1511114845	I'm still waiting down here, Mr. Cooper!
-1661976841	I better get him up before I move on!
-486887981	Hope you can manage this rope ladder, Mr. McCoy.
-1030677372	I prefer Doctor McCoy.
-916815113	I'm sure you do.
-758812215	Eyes peeled. His friend's gonna be looking for him.
-2027247329	Careful. His friend'll figure out he's not at his post.
-425004179	What's with that guy wearing the poncho?
-1659968206	See the one with the poncho?
-906565404	He ain't gonna move if it ain't necessary.
-1155934742	And you know that because...
-2126919349	Trust me. I know the type.
-1317692460	Still nothing. What's taking them so long?
-1680411418	Bastard's probably hiding somewhere. Don't worry, they'll find him.
+1975231165	Parece que os bandidos bloquearam o túnel.
+478252477	Por que você achou que o trem parou?
+369403123	Vai dar trabalho para limpar essas pedras.
+1072109390	Ainda bem que eles têm um estoque de dinamite naquele platô.
+644898868	Pegue-o e limpe o túnel. Não é um plano tão ruim.
+376265597	Eu não faço planos ruins.
+1407100741	Justo. Vamos chegar lá então.
+89265579	Certo.
+1694409325	Bem bem. Um médico de verdade, afinal.
+1751704381	Não pareça tão surpreso.
+1898403668	Alguma ideia sobre este?
+1554018004	Vou usar minha bolsa como isca. Você apenas se esconde e aprende algo.
+639337317	Armadilha de gás, hein? Não é ruim. Como você abre essa coisa com segurança?
+272489015	Você não, Sr. Cooper, a menos que você seja eu.
+1869689713	Big Ann fez isso de novo.
+801957529	Outro trem para nós, heh heh.
+1085623643	Dane-se a Compãnia Devitt.
+67595800	Nós vamos deixar tudo muito limpo.
+226511189	Como os meninos gostam de saquear.
+561111430	É uma pena que eu tenha que ficar de guarda aqui.
+1256294145	Como se alguém passasse por aqui.
+1198044642	Ordens do caralho.
+2056535846	Vamos atravessar.
+1294728632	Há uma vigia, no penhasco.
+1530678151	Vou levá-lo daqui.
+1457731169	Que eu quero ver.
+2021481338	Não sei para onde foi, mas não era seu alvo.
+1212423052	Você não impressionou até agora, Sr. McCoy.
+1122724759	Vamos lá, McCoy. Não temos o dia todo.
+251747283	Bem, eu vou ser amaldiçoado.
+1669130534	Rifle de longo alcance. Estoque personalizado, rodadas personalizadas.
+1272865861	Espero que não se importe, Sr. McCoy.
+1105231492	Bem. Eu salvo uma bala.
+1236950567	Vamos la.
+520419993	Meus dias de escalada estão atras de mim, Sr. Cooper.
+1671694831	Bem, vamos descobrir algo.
+1511114845	Eu ainda estou esperando aqui, Sr. Cooper!
+1661976841	É melhor levantá-lo antes de seguir em frente!
+486887981	Espero que você possa escalar essa escada de corda, Sr. McCoy.
+1030677372	Eu prefiro o doutor McCoy.
+916815113	Tenho certeza que sim.
+758812215	Fique de olho. O amigo dele vai procurá-lo.
+2027247329	Cuidado. O amigo dele vai descobrir que ele não está no posto dele.
+425004179	O que há com aquele cara de poncho?
+1659968206	Vê aquele com o poncho?
+906565404	Ele não vai se mexer se não for necessário.
+1155934742	E você sabe disso porque...
+2126919349	Confie em mim. Eu sei o tipo.
+1317692460	Nada ainda. Por que está demorando tanto?
+1680411418	O bastardo provavelmente está escondido em algum lugar. Não se preocupe, eles o encontrarão.
 1699565207	Shouldn't they be back now?
 268746474	Nah, I bet they're taking their time with him. Bastard deserves it.
 143066108	What if he killed them... Maybe I'm next.
 1916520478	Heh, relax. Guy like him ain't gonna waste a bullet on you.
-1529165791	I love it when a plan works.
+1529165791	Adoro quando um plano funciona.
 863068086	Yeah, Big Ann knows what she's doing.
 2048397418	She sure does.
 1004650523	How long you think we have?
@@ -1490,9 +1490,9 @@ Japanese	Japanese
 565392077	Heh, nice.
 1891347620	Something bothering you?
 1435572714	Yeah, you tell me what a fucking boat is doing here?
-817174129	Uh, don't know, don't care.
-56340574	Let's go about this quiet. I take one, you take the other.
-1076432959	Come on, I know he's got it.
+817174129	Não sei, não me importo.
+56340574	Vamos fazer isso quieto. Eu pego um, você pega o outro.
+1076432959	Vamos lá, eu sei que ele conseguiu.
 1432156816	Search him real good, ya hear?
 1322432559	You taking your time or what?
 1410962525	We need that key for the safe.
@@ -1504,21 +1504,21 @@ Japanese	Japanese
 155411799	Golly, I hate fancy folk like you. Especially you.
 55708919	That's what you get for riding on a DeVitt Company train.
 1876589766	I'd rather stay out of this.
-782751206	The passengers sure could use our help.
-271645073	Why waste time? Let's keep going. 
-1374310770	There. No time wasted.
-131212092	You're a cold bastard, Mr. McCoy.
-357527990	To each his own, Mr. Cooper.
-766710338	Whoever you are, thank you.
-75578718	Nothing to it. Now stay put.
-688884155	I'll send you the check.
-1658760377	That was a waste of time.
-628972340	See? I knew you had a heart in there somewhere.
-1808600642	Anatomically maybe.
-179315794	There's the engine.
-31474280	Front of the train. Looks like we made it.
-1036869811	We still need the dynamite to clear the tunnel.
-143433601	That's easy. Let's make our way up.
+782751206	Os passageiros certamente poderiam usar nossa ajuda.
+271645073	Por que perder tempo? Vamos continuar. 
+1374310770	Vai? Sem perder tempo.
+131212092	Você é um bastardo frio, Sr. McCoy.
+357527990	Cada um na sua, Sr. Cooper.
+766710338	Seja você quem for, obrigado.
+75578718	Nada disso. Agora fique parado.
+688884155	Eu te mando o cheque.
+1658760377	Isso foi uma perda de tempo.
+628972340	Vê isso? Eu sabia que ele tinha seu pequeno coração.
+1808600642	Anatomicamente, talvez.
+179315794	Aí está a locomotiva.
+31474280	Frente do trem. Parece que conseguimos.
+1036869811	Ainda precisamos da dinamite para limpar o túnel.
+143433601	Isso é fácil. Vamos subir.
 1962487386	That big rock there's looking like it wants to fall.
 1047035443	Sword of Damocles. That there rock is begging to be pushed.
 1665137781	Hey, boneless. You gonna let them boxes keep piling up down here?
@@ -1539,21 +1539,21 @@ Japanese	Japanese
 300333351	Find me those goddamn safes, you imbeciles!
 857711144	The money is on that train! I want it, so you better find it!
 762266956	Hurry up you idiots, before the marshals get wind of us!
-1660905154	Whoever first lays eyes upon those safes gets a hefty bonus!
-925116337	If you don't unload that train faster it's the last one you'll ever see!
-117746040	Come on you shits! I want everything loaded up tight in an hour.
-242250607	Keep your heads down and stay out of my way.
-2140777347	Keep your heads down. We'll take care of the bandits.
-1638609231	Thank you, thank you so much!
-1589117487	I've lit the fuse. Better throw it fast.
-1643089788	I've lit the fuse. Better throw it fast.
-1568822276	What the hell?! Take' em, you goddamned good-for-nothing scumbags!
-434476931	What the hell?! Take' em, you goddamned good-for-nothing scumbags!
-132910932	Good thing we got more dynamite.
-981381405	Good thing we got more dynamite.
-1975216237	Think that's enough. Let's find a safe spot to meet up.
-1141150704	All right. Let's find a safe spot to meet up.
-2003325372	Fine with me.
+1660905154	Quem vê primeiro os cofres recebe um grande bônus!
+925116337	Se você não descarregar esse trem mais rápido, é o último que você verá!
+117746040	Vamos lá, merda! Quero tudo carregado em uma hora.
+242250607	Mantenha a cabeça baixa e fique fora do meu caminho.
+2140777347	Mantenha a cabeça baixa. Nós cuidaremos dos bandidos.
+1638609231	Obrigado, muito obrigado!
+1589117487	Eu acendi o fusível. Melhor jogá-lo rápido.
+1643089788	Eu acendi o fusível. Melhor jogá-lo rápido.
+1568822276	Que diabos?! Pegue-os, seus malditos idiotas inúteis!
+434476931	Que diabos?! Pegue-os, seus malditos idiotas inúteis!
+132910932	Ainda bem que temos mais dinamite.
+981381405	Ainda bem que temos mais dinamite.
+1975216237	Acho que é o suficiente. Vamos encontrar um local seguro para nos encontrarmos.
+1141150704	Tudo certo. Vamos encontrar um local seguro para nos encontrarmos.
+2003325372	Por mim tudo bem.
 1576105220	Hmm...looks like a picnic. Nothing else. I should get back to the train.
 990742861	Someone had a little picnic here! That's it, though. I better head back up.
 84273769	On second thought, why don't we take a break.
@@ -1567,234 +1567,234 @@ Japanese	Japanese
 268397488	Suit yourself.
 1808341550	Hmm... Triple buttercream frosting. A note of macadamia and anise. Finished off by a perfectly balanced strawberry jelly filling.
 1498412873	Damn, a regular cupcake connoisseur. Fine, give me one.
-1366813644	I'm afraid this was my only sample. You had your chance.
+1366813644	Receio que esta tenha sido minha única amostra. Você teve sua chance.
 1392707135	Hrm...
-1092787853	Now, back to the task at hand.
-766046273	Sure. Whatever you say.
-366179940	All right. Let's deal with the rest on 'em.
-817921335	My thoughts exactly.
-1836596718	Guess you made the DeVitt Company happy today.
-793788117	How much do you get for a job like this?
-851137006	Hope you're not expecting a cut.
-1837965531	Relax. I got what I need.
-491675002	You're changing rides?
-1841729439	Gotta make good on time. Like I said...
-724091013	...I got an appointment I'd like to keep.
-1683520205	Suit yourself.
-1183665302	Wasn't half bad working with you, McCoy.
-1137118737	Sure. If you need a professional, you know who to send for.
-869904866	Good day, Mr. Cooper.
+1092787853	Agora, de volta à tarefa em questão.
+766046273	Certo. Qualquer coisa que você diga.
+366179940	Tudo certo. Vamos lidar com o resto deles.
+817921335	Meus pensamentos exatamente.
+1836596718	Acho que você fez a compãnia DeVitt feliz hoje.
+793788117	Quanto você ganha por um emprego como este?
+851137006	Espero que você não esteja esperando um corte.
+1837965531	Relaxa. Eu tenho o que eu preciso.
+491675002	Você está mudando de carona?
+1841729439	Preciso ser pontual. Como eu disse...
+724091013	...Eu tenho um compromisso que eu gostaria de manter.
+1683520205	Adapte-se.
+1183665302	Não foi tão ruim trabalhar com você, McCoy.
+1137118737	Certo. Se você precisa de um profissional, sabe a quem pedir.
+869904866	Bom dia, Sr. Cooper.
 1296821262	VO TRACK
-1076983379	Advance Along the Train
-447712959	Bandits are holding up the train. Make your way to the front.
-2094535640	Get the Dynamite
-362613368	Grab a stick of dynamite from the barrel up on the plateau.
-1139826278	Clear the Tunnel
-308496222	The bandits have blocked the tunnel. Use the dynamite to clear it.
-1613884632	Meet up at the Meeting Spot
-1487124933	Get Cooper and McCoy to the meeting spot so they can finish the job.
-661094834	Loose Rock
-1717845166	This rock looks loose. A shame if it would fall on someone.
-220005127	They tore down Old William's house the other day.
-327290212	Now why'd they have to do that? Can't they lay their tracks between our homes?
-468907971	Stick to the game, will ya?
-434325556	Just saying, if they ever come to my house, I'll show these railroad thugs who's boss.
-1240800355	Shit...
-873549268	W-what can I do for you, gentlemen?
-492613005	Oh, we'll get to you in a minute.
-344462297	You know the drill! Everybody out!
-483700298	Y-yessir!
-1996050564	Look at them run!
-1927673309	Something in your ears?
-1784449216	Just finishing my drink.
-2055948310	Listen asshole, we own this town now. So when he says out, you better...
-442865048	We don't like troublemakers around here.
-437383994	Ha! Who do we have here?!
-941942434	Well, you got double trouble now.
-2023323252	Hector! Little help here?
-1330553353	What the hell?! You again?!
-739784153	Hahaa! They're running away like dogs!
-1095568786	I can't blame 'em. Poor guys had to look at your ugly mug.
-1282782173	Aw, you're welcome! You need a drink. So do I.
-521211476	Hector, yours is on the house.
-892411820	Gracias, senorita. They come back, you just call me.
-1488340076	Heh, thank you. They come back, you just call me.
-462607319	You really shouldn't. They'll kill you next time.
-1261667122	They can try.
-1646631313	Guess you been here a while—spent your time pissing off the wrong people, huh?
-1439920483	I'm the one they pissed off. But as you're here, maybe we can work together.
-1968501055	Oh no, you're not dragging me into this. I'm here for Frank.
-418117848	Surround the place! Don't let them get away!
-556288454	Amigo, you're already in it. And besides, you owe me one.
-1217092235	All right, let's get out of here.
-265115482	Come on, out the back!
+1076983379	Avance ao longo do trem
+447712959	Bandidos estão vigiando o trem. Vá para a frente.
+2094535640	Obtenha uma Dynamite
+362613368	Pegue um pedaço de dinamite do barril no platô.
+1139826278	Limpe o túnel
+308496222	Os bandidos bloquearam o túnel. Use a dinamite para limpá-lo.
+1613884632	Encontre-se no ponto de encontro
+1487124933	Leve Cooper e McCoy para o local da reunião para que eles possam terminar o trabalho.
+661094834	Pedra solta
+1717845166	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
+220005127	Eles derrubaram a casa do velho William outro dia.
+327290212	Era necessário? Eles não podem colocar os trilhos entre nossas casas?
+468907971	Atenha-se ao jogo, sim?
+434325556	Só estou dizendo que, se eles vierem a minha casa, mostrarei a esses bandidos da ferrovia quem é o chefe.
+1240800355	Merda...
+873549268	O que posso fazer por vocês, senhores?
+492613005	Oh, chegamos a você em um minuto.
+344462297	Você sabe o que fazer! Todo mundo fora!
+483700298	Sim, Senhor!
+1996050564	Olhe como eles correrem!
+1927673309	Tem algo em seus ouvidos?
+1784449216	Apenas terminando minha bebida.
+2055948310	Ouça idiota, agora a cidade é nossa. Então, quando ele diz, é melhor você...
+442865048	Não gostamos de encrenqueiros por aqui.
+437383994	Ha! Quem nós temos aqui ?!
+941942434	Bem, você tem problemas em dobro agora.
+2023323252	Hector! Uma pequena ajuda aqui?
+1330553353	Que diabos?! Você novamente?!
+739784153	Hahaa! Eles estão fugindo como cães!
+1095568786	Eu não os culpo. Os pobres tiveram que olhar para o seu rosto feio.
+1282782173	Ah, de nada! Você precisa de uma bebida. Eu também.
+521211476	Hector, você esta em casa.
+892411820	Gracias, senorita. Se eles voltarem, me ligue.
+1488340076	Heh, obrigada. Se eles voltarem, você só me liga.
+462607319	Você realmente não deveria. Eles vão te matar da próxima vez.
+1261667122	Eles podem tentar.
+1646631313	Acho que você está aqui há um tempo - gastou seu tempo irritando as pessoas erradas, hein?
+1439920483	Eu sou o que eles irritaram. Mas como você está aqui, talvez possamos trabalhar juntos.
+1968501055	Oh não, você não está me arrastando para isso. Estou aqui pelo Frank.
+418117848	Cercar o lugar! Não os deixe fugir!
+556288454	Amigo, você já está nisso. E além disso, você me deve uma.
+1217092235	Tudo bem, vamos sair daqui.
+265115482	Vamos lá para fora!
 1753812082	VO TRACK
-718420870	Quick, over here!
-282643245	They're here somewhere, and we got all the time in the world.
-1164791611	These guys are out for blood. Who the hell are they?
-625254008	Part of the DeVitt Company. I've scores to settle with a few of them.
-1298661064	All right, fine! But I hope you've got a plan.
-1710621721	Uh, sure!
-1710522083	Let's head for the street. Nobody will bother us if we stay among the townsfolk, so we got room to breathe.
-1090916079	So far so good. But whose heads are we "bashing in"?
-743641397	First we got Jarvis here. Real tough guy. Right now he's in that backyard trying to ride the town bull.
-465329894	Next is Wild Marge. She's on the first floor of the Flagstone brothel, drinking whiskey and watching the girls dance.
-174165267	Then there's "The Duke." He's making rounds with his bootlickers, up and down Church Street. 
-1314266132	And last is the foreman, McBane. He's a real asshole. Had his men tear down half the town so that he doesn't have to plan round it. 
-1883399229	So, we get rid of them, head back to the saloon and finish our drinks.
-354756553	That ain't much of a plan Hector.
-1477743624	Why do you think I waited for you?
-1977264724	All right. Let's get it over with.
-1859777443	You sure they're here, Murdock?
-655992159	They couldn't have slipped through.
-50795188	What happens when they turn up?
-535869234	We shoot them, and then go to the saloon.
-969948446	Hell, I'm getting thirsty, Murdock.
-964505631	They can't hide forever, Sam. Now get your shit together. 
-1606933793	I say it's time to use Bianca.
-1381111512	You still carrying that thing around?
-961267106	I have a reputation to keep.
-1164823537	All right, my beauty. Let's lure someone into your embrace.
-2073897713	Would hate to be that guy.
-139277608	See? The old girl hasn't let me down yet.
-967180754	Good throw. I knew I was right to bring you along.
-936538598	Sure glad I'm meeting your expectations.
-1487837025	Are you done showing off?
-1398203994	Someone needs to get things done around here.
-641296365	Think I heard a few bones creak.
-840216268	You wish, amigo! I'm as fit as if I was twenty!
-1872296638	Remember, leave the big guy to me. He got you once already.
-1981178347	He's all yours.
-568409435	Should have let me finish my drink.
-1932523298	Hah! Not your lucky day, is it?
-1028846366	That's one. On to the next. You having fun yet?
-210201627	Loads.
-1920493164	One down, three to go. The things you drag me into...
-1025778135	We've been through worse.
-1768942864	We're out. Relax.
-450923163	No need to hide now.
-1511639709	So who's next on your list?
-429389325	So who's first on your list?
-99315968	How about we just kill them in the order we like.
-1852126838	Great plan you have there.
-385726871	Too many guards for some backyard corral.
-2129972192	Jarvis and his men hang around here. Bet he's having a go at the bull again.
-1962085150	Then we better keep our heads down once we're in.
-1251247827	Hah! He really thinks he can ride that bull!
-1012726449	So you two got in a fight and now he wants you dead?
-868584661	Looks like Jarvis here has been working that bull all day.
-444350566	You know how it is. Some guys just can't let things rest. Like that one time in El Paso.
-864913954	Heh, if that bull gets angry, we're in for a show. Like that one time in El Paso.
-1863617101	More like every time in El Paso.
-392132413	You show that bull who's boss, boss!
-954104016	Oh, I'll break that fucker, just you wait.
-1743065594	Don't let him get you, boss!
-484357500	I'm just getting warm, you hear me! Next time I'll have him, you watch.
-2119554904	That bull ain't got nothing on you, boss.
-135762165	You're damn right about that. I'm the best!
-1296674087	Looks like Jarvis wasn't such a big shot after all.
-1934746503	That takes care of Jarvis. I told him he should let it rest.
-1399763221	All right, that's two down.
-653569855	That's number two. Tell me you don't enjoy this.
-247807550	Well at least we're halfway done.
-926318647	Looks like the place is closed.
-968863431	The whorehouse. Townsfolk can't go in since Wild Marge took over.
-1016228655	Not the front door then. All right, keep it low. Let's find another way in.
-773411105	Down here.
-171969419	Hey, Cooper. Down here.
-1804048600	We can get in the brothel from here. Better keep low.
-907428322	Check out this whorehouse. Largest building in town.
-687956115	This place reminds me of the one in Deadwood.
-660765928	There's lots of whorehouses in Deadwood.
-304923026	You know, the one where they kicked me out.
-1197440159	That doesn't narrow it.
-785732256	All right, we're in. Nice place.
-1122523221	It'll be tight getting to Marge. She's on the top floor.
-456580536	There's always a way.
-646414453	Hey service! More whiskey!
-1685343001	I-I'll go get it.
-287534887	More whiskey! Get a move on!
-1492091083	Yes ma'am!
-726987380	Stop it. Go fetch the whiskey.
-1120377451	O-of course. I-I'm sorry. I'll go get it.
-687649935	Whaddaya want?
-1652250045	What do you think? Whiskey for the lady.
-449459114	All right. Go upstairs.
-978446912	State your business.
-1332490340	Really? She wants more whiskey.
-118126660	Fine. You can go up.
-2042492765	Your whiskey, madam.
-1886486558	Fuck it, might as well...
-993296811	Ahh...good stuff.
-1640929120	Hrm...just a sip.
-1147999977	Mhh...oh yeah.
-472276261	Hmm...maybe we could put something in the whiskey?
-1938203517	Hey, amigo. Think we could do something to the whiskey?
-40499276	Heh, I could put my whiskey in there.
-1989642541	We'll need stronger stuff if we want to kill her.
-1690003240	Here's a bottle of...
-1357892389	Hey, amigo. What's it say on this bottle?
-1726962301	Laudanum! Take too much of that and it's as good as poison. Let's hold on to that.
-533733250	Bah! If you say so.
-518116007	Cheers.
-785736607	Shame about the whiskey.
-1823097407	I don't know, amigo. You kill a man, you look him in the eye.
-1681482582	Like when you use that giant bear trap of yours?
-1806652712	Hey, leave Bianca out of this!
-1586455645	Wha... Somethin's...
-964256332	H-hey! What's wrong? Help!
-408677718	What the hell!
-1892649360	Shit! She's dead! Maybe it was the whiskey...
-1721722381	I gotta warn the others!
-433108508	So long, Wild Marge.
-772149685	That's it for Marge.
-711013061	That's three down.
-243224828	That makes three. 
-1462366558	How come you pick a fight with every big-shot asshole in town?
-957382233	Maybe I can't stand the big-shot assholes.
-400273429	What's going on in there?
-579796830	This is where they're laying the tracks. McBane's the foreman and doesn't let anyone on site.
-1604301042	Then let's keep it quiet when we head in.
-1458208472	So this is why the train had to stop out of town.
-1550994567	You'd think the railroad would be good for the folks here. But then they tore half the place down. Whoever ordered this wants these people gone.
-1441992625	You mean Vincent DeVitt, the railroad boss.
-2083311056	If you say so. Men like him are the reason everything's going to shit.
-308963957	Sure, because he has men like us who do his dirty work. 
-253997050	You're killing the mood, amigo.
-1327133639	Oh fuck, we need some real workers, goddamnit.
-290619400	Those idiots. We'll never finish in time.
-1290020865	What do I do? DeVitt won't like this.
-635295399	You think this is funny?! Look at this wall! Totally wrong! 
-493464044	Which of you imbeciles built this? DeVitt will be furious!
-790174616	Did you even look at the plans? Whoever did this, you're fired!
-494269375	Shift's over, McBane.
-457395387	Sheriff's not here this time, McBane.
-1246625244	That's it. All done.
-229843799	There goes the last one.
-180798282	Satisfied now? You'll be able to sleep at night?
-1309747097	I'm fine, Cooper. Let's head back to the saloon. Our drinks are still waiting.
-533890864	Gentlemen!
-1478476489	I saved you whiskey for you.
-720073865	Gracias, senorita! Don't worry about those men anymore. We took care of them.
-510662556	Heh, thank you! Don't worry about those men anymore. We took care of them.
-34839288	Oh, that's kind of you, Hector. We sure could use a little more quiet around here.
-332701184	Well fellas, I have to step out. Would you mind keepin' an eye on the place?
-1030933173	Leave it to us!
-610893039	Help yourselves. I'll be back in a few.
-1485738270	So, how long have you been here?
-1946867206	Couple of days. Why are you asking?
-77927463	Did you find him? You know where he is?
-571840546	You have to bring this up now?
-963763010	What the hell, Hector?
-617268813	Just saying. We just had a good time, so why ruin it, eh?
-1148053107	Hey, look, I'm not here to play the good Samaritan. We both know he's working for DeVitt. So, just tell me where he is.
-303088882	Easy, amigo... Last I heard he's at the mayor's house. It's just a short ride up the mountain.
-177756232	No reason to waste any more time then.
-1480880844	You sure this is a good idea? It's getting late.
-1468771553	I put this off long enough.
-1143410397	What difference is one more day? Way I know Frank, he'll still be there tomorrow.
-1612691898	...All right. Tomorrow then.
-288677953	That's right, amigo. Now, tell me what you've been up to.
+718420870	Rápido, por aqui!
+282643245	Eles estão aqui em algum lugar, e temos todo tempo do mundo.
+1164791611	Esses caras vão matá-lo. Quem diabos são eles?
+625254008	Parte da compãnia DeVitt. Eu tenho contas para resolver com alguns deles.
+1298661064	Tudo bem, tudo bem! Mas espero que você tenha um plano.
+1710621721	Uh, claro!
+1710522083	Vamos para a rua. Ninguém nos incomodará se ficarmos entre os habitantes da cidade, com isso teremos espaço para respirar.
+1090916079	Por enquanto, tudo bem. Mas quem nós temos que "carregar"?
+743641397	Jarvis é o primeiro. Um cara bastante duro. Agora ele está naquele quintal tentando montar o touro na cidade.
+465329894	Depois, há Wild Marge. Ele está no primeiro andar do bordel de Flagstone, bebendo uísque e assistindo as garotas dançarem.
+174165267	Depois, há "o duque". Rodando com seus capangas, indo e vindo pelas ruas da igreja.
+1314266132	E o último é o capataz, McBane. Ele é um verdadeiro idiota. Seus homens derrubaram metade da cidade para que ele não precisassem se desviar. 
+1883399229	Então nos livramos deles, voltamos para a taberna e terminamos nossas bebidas.
+354756553	Como plano, é uma loucura, Hector.
+1477743624	Por que você acha que eu esperei por você?
+1977264724	Tudo certo. Vamos acabar logo com isso.
+1859777443	Tem certeza de que eles estão aqui, Murdock?
+655992159	Eles não poderiam ter escapado.
+50795188	O que acontece quando eles aparecem?
+535869234	Nós atiramos neles e depois vamos a taberna.
+969948446	Inferno, estou ficando com sede, Murdock.
+964505631	Eles não podem se esconder para sempre, Sam. Agora junte suas coisas. 
+1606933793	Eu digo que é hora de usar Bianca.
+1381111512	Você ainda está carregando essa coisa?
+961267106	Eu tenho uma reputação para manter.
+1164823537	Tudo bem, minha beleza. Vamos atrair alguém para o seu abraço.
+2073897713	Odiaria ser esse cara.
+139277608	Entende? Aquela garota nunca me decepciona.
+967180754	Boa jogada. Eu sabia que estava certo em trazê-lo junto.
+936538598	Claro que estou feliz por atender às suas expectativas.
+1487837025	Você terminou de se exibir?
+1398203994	Alguém precisa fazer as coisas por aqui.
+641296365	Acho que ouvi alguns ossos rangerem.
+840216268	Você deseja amigo! Estou tão em forma como se tivesse vinte anos!
+1872296638	Lembre-se, deixe o grandalhão comigo. Ele já te pegou uma vez.
+1981178347	Ele é todo seu.
+568409435	Deveria ter me deixado terminar minha bebida.
+1932523298	Hah! Não é seu dia de sorte, não é?
+1028846366	Essa é uma. Para a próxima. Você está se divertindo ainda?
+210201627	Um monte.
+1920493164	Um a menos, restam três. Você me colocou em toda bagunça...
+1025778135	Passamos por coisas piores.
+1768942864	Nós estamos fora. relaxar.
+450923163	Não há necessidade de se esconder agora.
+1511639709	Então, quem é o próximo na sua lista?
+429389325	Então, quem é o primeiro da sua lista?
+99315968	Que tal matá-los na ordem que gostamos.
+1852126838	Ótimo plano que você tem lá.
+385726871	Guardas demais para um quintal.
+2129972192	Jarvis e seus homens estão por aqui. Certamente ele estará com o touro novamente.
+1962085150	Então é melhor manter a cabeça baixa quando estivermos dentro
+1251247827	Hah! Ele realmente acha que pode montar esse touro!
+1012726449	Então vocês dois brigaram e agora ele quer você morto?
+868584661	Parece que Jarvis está mechendo com esse touro o dia todo.
+444350566	Você sabe como é. Alguns caras simplesmente não podem deixar as coisas descansarem. Como aquela vez em El Paso.
+864913954	Heh, se esse touro ficar bravo, nós vamos fazer um show. Como aquela vez em El Paso.
+1863617101	Mais como sempre em El Paso.
+392132413	Você mostra aquele touro que é o chefe, chefe!
+954104016	Oh, eu vou quebrar esse filho da puta, só espere.
+1743065594	Não deixe que ele te pegue, chefe!
+484357500	Estou apenas me aquecendo, ok ?! Da próxima vez será minha, com certeza.
+2119554904	Aquele touro não tem nada para fazer, chefe.
+135762165	Você está certo sobre isso. Eu sou o melhor!
+1296674087	Parece que Jarvis não era um figurão, afinal.
+1934746503	Isso cuida de Jarvis. Eu disse a ele que ele deveria descansar.
+1399763221	Tudo bem, faltam dois.
+653569855	Esse é o número dois. Diga-me que você não gosta disso.
+247807550	Bem, pelo menos estamos no meio do caminho.
+926318647	Parece que o local está fechado.
+968863431	O prostíbulo. Os habitantes da cidade não podem entrar desde que Wild Marge assumiu.
+1016228655	Não é a porta da frente então. Tudo bem, mantenha-o baixo. Vamos encontrar outra maneira de entrar.
+773411105	Aqui embaixo.
+171969419	Ei, Cooper. Aqui embaixo.
+1804048600	Podemos entrar no bordel daqui. Melhor ficar abaixado.
+907428322	Olha este prostíbulo. Maior edifício da cidade.
+687956115	Este lugar me lembra aquele em Deadwood.
+660765928	Há muitos prostíbulos em Deadwood.
+304923026	Você sabe, aquele onde eles me expulsaram.
+1197440159	Isso não ajuda.
+785732256	Tudo bem, estamos dentro. Lugar legal.
+1122523221	Será difícil chegar a Marge. Ela está no último andar.
+456580536	Sempre tem um jeito.
+646414453	Menina! Mais uísque!
+1685343001	Eu vou buscá-lo.
+287534887	Mais uísque! Vá em frente!
+1492091083	Sim, senhora!
+726987380	Pare com isso. Vá buscar o uísque.
+1120377451	O-claro. Me desculpe. Eu vou buscá-lo.
+687649935	O que você quer?
+1652250045	O que você acha? Uísque para a dama.
+449459114	Tudo certo. Suba as escadas.
+978446912	Enuncie seu negocio.
+1332490340	Mesmo? Ela quer mais uísque.
+118126660	Bem. Você pode subir.
+2042492765	Seu uísque, senhora.
+1886486558	Foda-se, pode também...
+993296811	Ahh... coisas boas.
+1640929120	Hum... só um gole.
+1147999977	Mhh... oh sim.
+472276261	Hmm... talvez possamos colocar alguma coisa no uísque?
+1938203517	Ei amigo. Acha que poderíamos fazer algo com o uísque?
+40499276	Heh, eu poderia colocar meu uísque lá.
+1989642541	Precisamos de coisas mais fortes se quisermos matá-la.
+1690003240	Aqui está uma garrafa de...
+1357892389	Ei amigo. O que diz nesta garrafa?
+1726962301	Láudano! Tome muito disso e é tão bom quanto veneno. Vamos pegar.
+533733250	Bah! Se você diz.
+518116007	Felicidades.
+785736607	Vergonha pelo uísque.
+1823097407	Eu não sei amigo. Você mata um homem, olha nos olhos dele.
+1681482582	Como quando você usa sua armadilha gigante de urso?
+1806652712	Ei, deixe Bianca fora disso!
+1586455645	O que ... Algo de...
+964256332	H-ei! O que está errado? Socorro!
+408677718	Que diabos!
+1892649360	Merda! Ela está morta! Talvez fosse o uísque...
+1721722381	Eu tenho que avisar os outros!
+433108508	Até mais, Wild Marge.
+772149685	É isso para Marge.
+711013061	São três a menos.
+243224828	Com isso são três. 
+1462366558	Como é que você luta com todos os imbecis da cidade?
+957382233	Talvez eu não consiga suportar os idiotas bundões.
+400273429	O que está acontecendo lá?
+579796830	É aqui que eles estão colocando os trilhos. McBane é o capataz e não deixa ninguém no local.
+1604301042	Então vamos ficar calados quando entrarmos.
+1458208472	Por isso, o trem teve que parar fora da cidade.
+1550994567	Você pensava que a ferrovia seria boa para as pessoas daqui. Mas metade do local foi destruido. Quem ordenou isso quer que essas pessoas saiam.
+1441992625	Você quer dizer Vincent DeVitt, o chefe da ferrovia.
+2083311056	Se você diz. Homens como ele são a razão pela qual tudo vai cagar.
+308963957	Claro, porque ele tem homens como nós que fazem seu trabalho sujo. 
+253997050	Você está matando o clima, amigo.
+1327133639	Oh merda, precisamos de alguns trabalhadores de verdade, porra.
+290619400	Aqueles idiotas. Nós nunca terminaremos a tempo.
+1290020865	O que eu faço? DeVitt não vai gostar disso.
+635295399	Você acha isso engraçado ?! Olhe para esta parede! Totalmente errado! 
+493464044	Qual de vocês imbecis construiu isso? DeVitt ficará furioso!
+790174616	Você olhou para os planos? Quem fez isso, você está demitido!
+494269375	A mudança acabou, McBane.
+457395387	O xerife não está aqui desta vez, McBane.
+1246625244	É isso aí. Tudo feito.
+229843799	Lá se vai o último.
+180798282	Satisfeito agora? Você será capaz de dormir à noite?
+1309747097	Estou bem, Cooper. Vamos voltar para a taberna. Nossas bebidas ainda estão esperando.
+533890864	Cavalheiros!
+1478476489	Guardei uísque para você.
+720073865	Gracias, senorita! Não se preocupe mais com esses homens. Nós cuidaremos deles.
+510662556	Heh, obrigada! Não se preocupe mais com esses homens. Nós cuidaremos deles.
+34839288	Oh, isso é gentil da sua parte, Hector. Com certeza poderíamos usar um pouco mais de calma por aqui.
+332701184	Bem, pessoal, eu tenho que sair. Você se importaria de ficar de olho no lugar?
+1030933173	Deixe isso conosco!
+610893039	Sirva-se. Volto em seguida.
+1485738270	Então, há quanto tempo você está aqui?
+1946867206	Alguns dias. Porque perguntas?
+77927463	Você o encontrou? Você sabe onde ele está?
+571840546	Você tem que trazer isso à tona agora?
+963763010	Que diabos, Hector?
+617268813	Vai cara. Nós apenas nos divertimos, então por que estragar tudo, hein?
+1148053107	Ei, olha, eu não estou aqui para jogar o bom samaritano. Nós dois sabemos que ele está trabalhando para DeVitt. Então, apenas me diga onde ele está.
+303088882	Calma, amigo... A última vez que ouvi ele estava na casa do prefeito. É apenas uma curta viagem até a montanha.
+177756232	Não há razão para perder mais tempo então.
+1480880844	Tem certeza de que é uma boa ideia? Está ficando tarde.
+1468771553	Eu adiei isso por tempo suficiente.
+1143410397	Que diferença faz mais um dia? Eu conheço Frank, e ele ainda estará lá amanhã.
+1612691898	...Tudo certo. Amanhã então.
+288677953	Está certo, amigo. Agora, me diga o que você tem feito.
 2129741644	VO TRACK
 444461650	We've assembled here because our good friend Bill has passed away, crushed by a wall that some idiot didn't put up properly.
 409318720	It wasn't me!
@@ -1892,35 +1892,35 @@ Japanese	Japanese
 1910319475	What the fuck?
 66447633	Guess you made it.
 239742081	I'm just browsing.
-1454583597	See you later...or not.
-1549815304	Excuse me?
-1861490142	Do we have business?
-593728846	I'm trying to listen.
-904743217	Kill 4 DeVitt Company Thugs
-912253181	Hector has a list of people he wants dead. Get rid of them any way you like.
+1454583597	Vejo você mais tarde... ou não.
+1549815304	Com licença?
+1861490142	Nós temos negócios?
+593728846	Eu estou tentando ouvir.
+904743217	Mate 4 bandidos da compãnia DeVitt
+912253181	Hector tem uma lista de pessoas que ele quer ver mortos. Livre-se deles como quiser.
 1842506151	Jarvis
-874828944	Jarvis is trying to ride the bull at the stables. 
+874828944	Jarvis está tentando montar o touro nos estábulos. 
 1933258732	McBane
-714422562	McBane is the foreman at the construction site.
+714422562	McBane é o capataz no canteiro de obras.
 1691779768	Wild Marge
-1513187451	Wild Marge is at the brothel on the upper floor.
-1881451099	The Duke
-677991508	The Duke is patrolling the streets with his minions.
-919104746	Return to Saloon
-1033282544	Your work here is done. Drinks are waiting for you at the saloon.
-795688174	Laudanum
-2027941112	A bottle of Laudanum in the brothel. Very lethal in high doses.
-1277718823	Ox
-816766480	Angering the ox will be very unhealthy for anyone nearby.
-1235638969	Unstable Wall
-232533797	A not-so-gifted worker put up this wall. It's only held in place by a piece of rope.
-115814410	Unstable Sign
-1101779295	A not-so-gifted worker built this sign. It's only held in place by a thin piece of wood.
-902105076	Whiskey
-183908969	Wild Marge drinks a lot of whiskey. The maid fetches it from this barrel.
-541866882	Bell
-832290859	The church bell fell down recently. Would be a shame if it happened again.
-1017964628	Ah Flagstone. A place like many others. Life is quiet here until trouble comes knocking. Today won't be a quiet day.
+1513187451	Wild Marge fica no bordel no andar superior.
+1881451099	O duque
+677991508	O duque está patrulhando as ruas com seus capangas.
+919104746	Voltar a taberna
+1033282544	Seu trabalho aqui está feito. Bebidas estão esperando por você na taberna.
+795688174	Láudano
+2027941112	Uma garrafa de láudano no bordel. Muito letal em altas doses.
+1277718823	Boi
+816766480	A raiva do boi será muito prejudicial para quem estiver por perto.
+1235638969	Parede instável
+232533797	Um trabalhador não tão talentoso ergueu esse muro. Só é mantido no lugar por um pedaço de corda.
+115814410	Sinal instável
+1101779295	Um trabalhador não tão talentoso construiu esse letreiro. Só é mantido no lugar por um pedaço fino de madeira.
+902105076	Uísque
+183908969	Wild Marge bebe muito uísque. A donzela traz para ele deste barril.
+541866882	Sino
+832290859	O sino da igreja caiu recentemente. Seria uma pena se isso acontecesse novamente.
+1017964628	Ah, laje. Um lugar como muitos outros. A vida fica quieta aqui até que problemas surjam. Hoje não será um dia calmo.
 1031286426	The man you see here is Chester Goodwill: a man of little value, and a perfect victim for our challenge today.
 522016773	My clients want you to remove Mr. Goodwill and deliver his body to the church. Shame really that half the town is watching him right now. 
 869608647	Maybe a visit to the Flagstone brothel would be in order. I'm sure Miss O'Hara would appreciate the extra options.
@@ -1932,7 +1932,7 @@ Japanese	Japanese
 196637280	Drag Mr. Goodwill's body to the churchyard and throw it in the coffin.
 1473554651	Disguise
 202354555	Kate can get a disguise from a prostitute in the Flagstone brothel.
-979423799	Everyone hold still, please.
+979423799	Everyone Guarda still, please.
 1359697944	Magnificent!
 1559499210	And another.
 389220884	I think this side is much more stately.
@@ -1958,7 +1958,7 @@ Japanese	Japanese
 452495515	As soon as I get it, I'll sneak in through the library door.
 877447584	The upper floor is off limits. I'll have to avoid the guards until I reach the office. 
 332350569	I'll turn the place upside-down until I find what I'm here for.
-898990293	The rest is simple: Jump down the front balcony, steal a horse and make a break for it.
+898990293	The rest is simple: Pular down the front balcony, steal a horse and make a break for it.
 1371716073	All right then. I need to get out of here before the groom decides to check in on his bride.
 1322652543	I really should turn around and get that key.
 1028129373	I have to give him one thing—the dress is beautiful.
@@ -2799,7 +2799,7 @@ Japanese	Japanese
 296559256	You did fine. I should have stayed with him.
 76027002	Then we'd bury two bodies today.
 44546673	Kate!
-615451680	How are you holding up?
+615451680	How are you Guardaing up?
 733306503	I still can't believe he's gone.
 819823984	I know. I just wanna kill the bastards all over again.
 1010048128	Thank you, Hector.
@@ -2955,7 +2955,7 @@ Japanese	Japanese
 767817700	Thinking about causing an accident yourself?
 305308674	It sure looks mighty sharp.
 1514308810	All right, saw's out.
-315219794	Let's put this on hold.
+315219794	Let's put this on Guarda.
 1286456959	The saw's stopped.
 210008120	Now what?
 188197869	What's wrong with this thing!
@@ -3357,8 +3357,8 @@ Japanese	Japanese
 610440517	Lord have mercy.
 1364331509	This town is cursed.
 1743208315	The day has come! Mark my words!
-1990997190	What we hold dear, it shall be lost.
-877579202	What we hold sacred, it shall be defiled.
+1990997190	What we Guarda dear, it shall be lost.
+877579202	What we Guarda sacred, it shall be defiled.
 1006373769	What gives us strength shall turn to ash.
 552648979	For the enemy has risen! Lord have mercy!
 1392107080	Three days ago, in Baton Rouge, he revealed himself.
@@ -3380,7 +3380,7 @@ Japanese	Japanese
 1479984106	Well...  Guess we should leave this where it belongs.
 1356569465	Hmm... Let's leave this here for safe keeping.
 1009113621	It's a pity, but this isn't ours for the keepin'.
-1567772064	If I was Doc, where would I be holdin' up?
+1567772064	If I was Doc, where would I be Guardain' up?
 1577477175	Hey, Doc. You in here?
 2129400880	Where are you, McCoy?
 1554146086	Doc! You need to wake up!
@@ -3577,7 +3577,7 @@ Japanese	Japanese
 1547392648	Nah ah. You're gonna make it up to me right now.
 1799290202	Made it. Now let's get the lay of the land.
 853332837	So, let's see what's happening over there. Looks like they caught themselves a little steamboat.
-1708763328	That cowboy there is holding his own for now. He's gonna run out of luck eventually.
+1708763328	That cowboy there is Guardaing his own for now. He's gonna run out of luck eventually.
 180287954	Now was he alone? Or did he have a crew?
 1775302398	They're looking for someone at that house. I bet someone's hiding out there.
 1521339902	Now, that big guy looks freshly caught. Wasn't easy I bet. He has eyes on him from all angles.
@@ -3605,7 +3605,7 @@ Japanese	Japanese
 1034632180	There's Cooper. Looks like they got him pinned down.
 194195716	Look! There's Cooper. Those bastards have him pinned.
 618721931	There! Cooper! They're still firing at him.
-655586820	He's holding out for now. Let's give him some breathing room.
+655586820	He's Guardaing out for now. Let's give him some breathing room.
 1124333373	Think I saw Doc head in this direction.
 2099540363	Hey, where's Doc? Wasn't he with us?
 1045115534	Think we lost McCoy here somewhere.
@@ -4003,7 +4003,7 @@ Japanese	Japanese
 34392205	Well... 
 1211196005	So what's going on here?
 1137491574	We're looking for Isabelle's friend. Wanna join?
-173864141	I won't hold it against you if you decline.
+173864141	I won't Guarda it against you if you decline.
 2056450478	Like I said before, I don't enjoy owing favors.
 397429678	To be clear: We find your Wayne, that makes us even.
 830699354	Try to lighten up, Sunshine. 
@@ -5616,7 +5616,7 @@ Japanese	Japanese
 376738704	Did you see that?
 341484076	Breathtaking!
 633775725	Good heavens!
-1482743495	Quite something to behold, isn't it?
+1482743495	Quite something to beGuarda, isn't it?
 1627518804	And the evening has so much more to offer.
 1669693489	Yes, just a slight change in schedule.
 1187095878	I thought the guests could use some entertainment.
@@ -6061,7 +6061,7 @@ Japanese	Japanese
 230370717	We're making progress.
 1081780746	Halfway to the chapel.
 1513828514	We still got a ways to go.
-2128859310	How's everyone holding up?
+2128859310	How's everyone Guardaing up?
 710950701	I'm ready.
 4403149	Same here.
 1677025007	Don't tell me you had any doubts.
@@ -6495,7 +6495,7 @@ Japanese	Japanese
 1031059096	Don't mind me.
 927424575	Now you stay put.
 977093193	Don't you move, you got it?
-701922350	This better hold.
+701922350	This better Guarda.
 1348029465	This one through there... Okay.
 669292182	Stay put.
 1632304374	Don't move.
@@ -6677,7 +6677,7 @@ Japanese	Japanese
 1964856913	Instead, he went around getting on everyone's nerves.
 1531033611	BAM, just like that... Finger was gone.
 432826438	Food for thought I'd say.
-1344111692	Hey now. Hold yer horses.
+1344111692	Hey now. Guarda yer horses.
 745634994	Think the headache's getting worse.
 942041567	What? Who did that?
 1226787952	Okay, keep it together, Cooper.
@@ -6933,7 +6933,7 @@ Japanese	Japanese
 1598955218	I'll make you good and cozy.
 1550452129	Heh, sleep tight.
 625375198	Don't move, friend.
-2092017950	Yeah... That'll hold...
+2092017950	Yeah... That'll Guarda...
 788238649	Hrm, keep still...
 933667148	...!
 780681512	...!
@@ -6972,7 +6972,7 @@ Japanese	Japanese
 974800483	Let's lure someone in.
 891984629	Time to make some noise.
 721056351	I'll use my singing voice.
-251168187	Hold your ears.
+251168187	Guarda your ears.
 110265755	Hrm, dry lips.
 1803648594	...Hombre!
 379582184	...Over here!
@@ -7034,7 +7034,7 @@ Japanese	Japanese
 1446488602	Hrm, where'd you go?
 210440527	Uh... Lost the rake.
 1076543859	Heh, found it.
-1254045471	Better keep hold of you.
+1254045471	Better keep Guarda of you.
 1214689864	You're mine.
 866566272	Hrm, found you.
 826916199	Still need you.
@@ -7350,7 +7350,7 @@ Japanese	Japanese
 420955164	Handle with care.
 653451977	I don't have many of these.
 460494900	It's all or nothing.
-792650785	Hold your breaths.
+792650785	Guarda your breaths.
 1712864396	Careful...
 2011469625	I got a few tricks in here.
 1000381761	Primed and ready.
@@ -7412,7 +7412,7 @@ Japanese	Japanese
 862239024	Better take cover.
 2094870572	Brace yourselves.
 427448288	You can never have enough.
-171414401	Let me keep hold of that.
+171414401	Let me keep Guarda of that.
 400939964	Straight to the bank.
 675306451	Waste not.
 1249911229	Different lure, same prey.
@@ -7519,10 +7519,10 @@ Japanese	Japanese
 507827922	We'll finish this together.
 61986203	This place has a certain charm.
 1045937198	Yes, where to?
-1786105161	Not gonna hold this all day.
+1786105161	Not gonna Guarda this all day.
 917967702	Where do you want 'em?
 2104279513	Uh huh... Where to?
-771759895	Can't hold this all day.
+771759895	Can't Guarda this all day.
 182913030	Come now... Where to?
 735059417	Quickly... My head's spinning.
 1652511642	Ugh... Think I'm gonna be sick.
@@ -7791,10 +7791,10 @@ Japanese	Japanese
 420660211	Phew... Glad that's over...
 828947015	...!
 1317680175	There...
-449063833	Hold still now.
+449063833	Guarda still now.
 1433016217	You better stay quiet.
 1174254397	Nice and tight.
-1885291362	Let's hope this holds...
+1885291362	Let's hope this Guardas...
 165933546	Be glad you can lie down...
 1443058351	Stay there.
 717847113	On to the next.
@@ -8157,7 +8157,7 @@ Japanese	Japanese
 2079034413	Let me show you around.
 189971941	Just gotta follow the clues.
 338123914	The trail ain't cold yet.
-94465682	Hold tight, Wayne. I'm coming.
+94465682	Guarda tight, Wayne. I'm coming.
 1143146030	Let's burn this place to the ground.
 620887894	Can't get tired now...
 1249330717	Gotta keep it together.
@@ -9357,7 +9357,7 @@ Japanese	Japanese
 260125397	She's up on the plateau.
 1070234556	Townsfolk make any trouble?
 1180957643	Ha, you kidding me!
-991808565	You holdin' up?
+991808565	You Guardain' up?
 197932068	Another day in this shithole.
 915920059	How's it going?
 1987711002	All's ready for the wedding.
@@ -10224,7 +10224,7 @@ Japanese	Japanese
 2104919964	She's on the plateau.
 815716627	Townsfolk make any trouble?
 1766370551	Ha, you kidding me!
-494514657	You holdin' up?
+494514657	You Guardain' up?
 953372556	Another day in this shithole.
 1870370654	How's it going?
 390910119	All's ready for the wedding.
@@ -10525,7 +10525,7 @@ Japanese	Japanese
 797504096	Found you, punk!
 1802059020	Frank was right!
 1423127020	Hands up!
-341052416	Hold on! You bandit!
+341052416	Guarda on! You bandit!
 1950647588	I saw you, o-outlaw!
 962229844	Huh?! How did you get out?!
 90172133	We got ourselves a runaway!
@@ -10568,7 +10568,7 @@ Japanese	Japanese
 1446291070	Stop where you are, kid!
 1997286731	Darn! The marshal!
 1736924114	The marshal?! Weren't you locked up?!
-447181357	Hold on...who's behind me?
+447181357	Guarda on...who's behind me?
 1744777944	Wait...is someone behind me?
 629612310	Somebody's nearby. I can sense it...
 2081350342	You touch me, I shoot you!
@@ -10864,7 +10864,7 @@ Japanese	Japanese
 771675597	Aww... Hello cutie...
 155901563	Hello there... Stray one, aren't ya?
 1691873690	Hello there, kitty. Where'd you come from?
-1323032519	Oh! ...You gave me a jump, you know!
+1323032519	Oh! ...You gave me a Pular, you know!
 420290617	And off he goes...
 422054155	Aw... Stay a little longer, will ya?
 21919508	Good luck! Don't let the dogs get ya.
@@ -11071,7 +11071,7 @@ Japanese	Japanese
 1763918194	She's up on the plateau.
 800888082	Townsfolk make any trouble?
 1366707733	Ha, you kidding me!
-2117806888	You holdin' up?
+2117806888	You Guardain' up?
 468040288	Another day in this shithole.
 1178720293	How's it going?
 1582073398	All's ready for the wedding.
@@ -11955,7 +11955,7 @@ Japanese	Japanese
 1130350609	She's on the plateau.
 16843546	Townsfolk make any trouble?
 556107838	You gotta be kidding me!
-1736303003	How you holdin' up?
+1736303003	How you Guardain' up?
 1120145463	Another day in this shithole.
 879679491	How's it going?
 1730222479	All's ready for the wedding.
@@ -12258,7 +12258,7 @@ Japanese	Japanese
 624782864	Found you, punk!
 420409102	Frank was right!
 137336679	Hands up!
-630887659	Hold on! Bandit!
+630887659	Guarda on! Bandit!
 422368342	I saw you, o-outlaw!
 924509837	Huh?! How did you get out?!
 870085394	We got a runner!
@@ -12301,7 +12301,7 @@ Japanese	Japanese
 983666950	Stop where you are, kid!
 1336641929	Darn! The marshal!
 348504339	The marshal?! Weren't you locked up?!
-1122248226	Hold on...who's behind me?
+1122248226	Guarda on...who's behind me?
 509959543	Wait...is someone behind me?
 952557106	Somebody's nearby. I can sense it...
 58814030	You touch me, I shoot you!
@@ -12345,7 +12345,7 @@ Japanese	Japanese
 1535057941	Damn. Hogtied like a rabbit.
 937053065	Somebody tied him up!
 302882288	Dirty bastards. Tied up one of us!
-1251081698	Hold on there... I'll untie you.
+1251081698	Guarda on there... I'll untie you.
 1656196937	You, go take a look!
 726262055	Someone head on over there!
 1138987085	You better go there!
@@ -12821,7 +12821,7 @@ Japanese	Japanese
 1136829938	She's out on the plateau.
 178549419	Townsfolk make any trouble?
 450555212	You gotta be kidding me!
-1019404277	How you holdin' up?
+1019404277	How you Guardain' up?
 785665126	What do you think in this shithole.
 158136934	How's it going?
 643318950	All ready for the wedding.
@@ -13718,7 +13718,7 @@ Japanese	Japanese
 1761211768	She's on the plateau.
 1522177412	Townsfolk make any trouble?
 488031809	Ha, you kidding me!
-1760741556	You holdin' up?
+1760741556	You Guardain' up?
 663712441	Another day in this shithole.
 1298932535	How's it going?
 1164789691	All's ready for the wedding.
@@ -13945,7 +13945,7 @@ Japanese	Japanese
 1925932487	It's the witch!
 1748947354	I know you're here Isabelle!
 1796053590	Idiot! You're under her spell!
-84751004	You! She took hold of you!
+84751004	You! She took Guarda of you!
 333217423	Stop that! Resist her!
 251303684	Intruder!
 143097900	How dare you!
@@ -14586,7 +14586,7 @@ Japanese	Japanese
 386837316	It's all right.
 745996483	Howdy.
 2015670863	Howdy.
-929047574	How are you holding up?
+929047574	How are you Guardaing up?
 1850282191	I'm fine.
 733864984	Anything wrong?
 1420908823	It's nothing.
@@ -15066,7 +15066,7 @@ Japanese	Japanese
 647686182	It's all right.
 1237125489	Hey.
 1583263944	Howdy.
-695468909	How are you holding up?
+695468909	How are you Guardaing up?
 143632231	I'm fine.
 2043360240	Anything wrong?
 1569125277	It's nothing.
@@ -16151,20 +16151,20 @@ Japanese	Japanese
 1390038058	...
 1909370950	...
 328384749	...
-1542444838	You used up all your venom darts.
-1214121497	Installing additional content: {0}%
-1657622959	Mission is not installed yet
-638049166	The Baron
-1740889031	Demo concluded
-1118532829	Thank you for playing the demo!
-895665882	End demo
-1303355286	Devitt has to stay alive and tied up.
-972756208	Load Replay
-1453684936	Delete replay? {0}
-1850594441	Maximum number of replays reached!
-1788790745	Replay corrupt
-1497734632	Please wait
-791830996	Loading your replay…
+1542444838	Você usou todos os seus dardos de veneno.
+1214121497	Instalando conteúdo adicional: {0}%
+1657622959	A missão ainda não está instalada
+638049166	O Barão
+1740889031	Demonstração concluída
+1118532829	Obrigado por jogar a demonstração!
+895665882	Fim da demonstração
+1303355286	Devitt tem que permanecer vivo e amarrado.
+972756208	Carregar gravação
+1453684936	Apagar a gravação? {0}
+1850594441	Número máximo de gravações atingido!
+1788790745	Gravação corrompida
+1497734632	Por favor, espere
+791830996	Carregando sua gravação…
 1998694387	Big Ann
 1420130176	???
 1809394359	Don't kill anyone.
@@ -16185,7 +16185,7 @@ Japanese	Japanese
 321945412	In Showdown Mode, you can set a single waypoint for each character.
 1843019443	Reinforcement Info
 72136199	Press <hotkey>{0}</hotkey> or mouse over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
-1133491710	Hold <hotkey>{0}</hotkey> and press <hotkey>{1}</hotkey> or move the cursor over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
+1133491710	Guarda <hotkey>{0}</hotkey> and press <hotkey>{1}</hotkey> or move the cursor over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
 1806446353	Reinforcement Limits
 2073461372	With each new alarm, dead or tied up reinforcement guards will be replaced from the limited reserves in the Guard House. If a Guard House is empty, no more reinforcements will come.
 1306284367	Barking Dogs
@@ -16253,68 +16253,68 @@ Japanese	Japanese
 1710572236	Terence "Timebomb" McSpencer
 1986271992	Danny the Eye
 2012704045	Leo "See No Evil" Longley
-653181388	Cage Key (Isabelle)
-512238242	This key unlocks Isabelle's cage.
-1848671995	Cage Key (Kate & Hector)
-929034836	This key unlocks Kate's and Hector's cages.
-892470627	Lockpicking
-1781485589	Doc can pick any lock.
-1239789683	All targets must die at the same time.
-1820626305	"Heh, you think you're clever huh? Well joke's on you!" – Isabelle
-318843873	No thanks
-1063675042	Adjust
-921142510	Did you know you can set up your own custom difficulty mode? Would you like to try it now?
-1717928042	Your gang got separated.
-765367932	No thanks
-157714625	Customize
-1895933195	Dynamite
-555230222	You can pick up and throw dynamite from the dynamite barrel.
-1749127563	THQ NORDIC PRESENTS
-688311701	A MIMIMI GAME
-196965312	ROCKY MOUNTAINS – BYERS PASS, COLORADO
-2035300658	Some years later...
-678734013	Later that day – Flagstone Saloon, Colorado
-1104443749	A few days later
-1382634260	CHAPTER I – THE DOCTOR & THE BRIDE
-24572610	The next morning – Mayor Higgins' Estate, Colorado
-1815180464	The morning of his big day.
-13709330	O´HARA RANCH
-116573738	Later the same day
-2035569198	O´HARA RANCH
-1539239657	The next morning
-1835862470	Some time later – Rocky Mountains, Colorado
-1348386178	A few hours later
-1767019463	Master Key
-740760431	This servant carries a master key. Kate can pickpocket her to obtain it.
-834792124	CHAPTER II – THE MARSHAL & THE WITCH
-984401475	NOT FAR FROM NEW ORLEANS – MISSISSIPPI RIVER
-740638988	A few days later
-400429742	CHAPTER III – THE TRAPPER & THE KID
+653181388	Chave da gaiola (Isabelle)
+512238242	Essa chave abre a gaiola de Isabelle.
+1848671995	Chave da gaiola (Kate & Hector)
+929034836	Essa chave abre as gaiolas de Kate e Hector.
+892470627	Forçar fechadura
+1781485589	Doc pode forçar qualquer fechadura.
+1239789683	Todos os alvos devem morrer ao mesmo tempo.
+1820626305	"Heh, você se acha inteligente, hein? Bem, brincadeira com você!" - Isabelle
+318843873	Não, obrigado
+1063675042	Ajustar
+921142510	Você sabia que pode configurar seu próprio modo de dificuldade personalizado? Deseja experimentar agora?
+1717928042	Sua gangue se separou.
+765367932	Não, obrigado
+157714625	Customizar
+1895933195	Dinamite
+555230222	Você pode pegar e soltar a dinamite do barril de dinamite.
+1749127563	THQ NORDIC APRESENTA
+688311701	UM JOGO DA MIMIMI
+196965312	MONTANHAS ROCHOSAS – BYERS PASS, COLORADO
+2035300658	Alguns anos depois...
+678734013	Mais tarde naquele dia – Flagstone Saloon, Colorado
+1104443749	Alguns dias depois
+1382634260	CAPÍTULO I – O MÉDICO E A NOIVA
+24572610	A manhã seguinte – Prefeito Higgins' Estate, Colorado
+1815180464	A manhã do seu grande dia.
+13709330	RANCHO DE O'HARA
+116573738	Mais tarde no mesmo dia
+2035569198	RANCHO DE O'HARA
+1539239657	A manhã seguinte
+1835862470	Algum tempo depois – Montanhas Rochosas, Colorado
+1348386178	Algumas horas depois
+1767019463	Chave mestra
+740760431	Esta empregada carrega uma chave mestra nela. Kate pode cortá-la.
+834792124	CAPÍTULO II - O OFICIAL E A BRUXA
+984401475	NÃO LONGE DE NEW ORLEANS - RIO MISSISSIPPI
+740638988	Alguns dias depois
+400429742	CAPÍTULO III - A ARMADILHA E O MENINO
 681903459	Desperados III
 543996593	Buffalo Jesse Holiday
-1717825884	Sorry, but wrong guy.
-545451160	Close, but no prize.
-165804064	You brought the wrong guy, friend.
-1737744677	That's one.
-1335369679	Two down.
-1971389462	That makes three.
-1677621127	Deliver All 3 Targets
-744373092	Find the correct targets and deliver their bodies to the coffins in the bank.
-1360068588	First
-414084974	Find the first target and throw their body into a coffin.
-431760137	Second
-200398471	Find the second target and throw their body into a coffin.
-652586781	Third
-1212740393	Find the third target and throw their body into a coffin.
-1193747041	Doppelganger
-963873748	All 3 targets look exactly like this person.
-860271519	He's right.
-1395653376	Adjusting Difficulty
-117815360	Do you feel the game is too hard or too easy? Would you like to adjust the difficulty settings?
-248132106	Press {0} to view video tutorial
-1280511646	Video Tutorials
-1247566776	Tips
-939486293	View
+1717825884	Desculpe, mas cara errado.
+545451160	Quase mas não.
+165804064	Você trouxe o cara errado, amigo.
+1737744677	Um.
+1335369679	Dois a menos.
+1971389462	Com isso há três.
+1677621127	Entregue todas as 3 metas
+744373092	Encontre os alvos corretos e entregue seus corpos aos caixões do banco.
+1360068588	Primeiro
+414084974	Encontre o primeiro alvo e jogue seu corpo em um caixão.
+431760137	Segundo
+200398471	Encontre o segundo alvo e jogue seu corpo em um caixão.
+652586781	Terceiro
+1212740393	Encontre o terceiro alvo e jogue seu corpo em um caixão.
+1193747041	Sósia
+963873748	Todos os três alvos se parecem exatamente com essa pessoa.
+860271519	Ele tem razão.
+1395653376	Alteração da Dificuldade
+117815360	Você sentindo que o jogo está muito difícil ou muito fácil? Deseja ajustar as configurações de dificuldade?
+248132106	Pressione {0} para ver o tutorial em vídeo
+1280511646	Tutoriais em vídeo
+1247566776	Dicas
+939486293	Visão
 1859485599	VO TRACK
 764979700	VO TRACK
 883782544	VO TRACK
@@ -16456,18 +16456,18 @@ Japanese	Japanese
 1143681278	Chester Goodwill
 1201834348	Louis the Hand
 33790966	Billy "Beer Hatin‘ Rugface" Ben 
-859114774	The Baron's Challenges
-1049284093	Whispers in the Dark
-502931271	The Baron waits in the shadows. He will contact you when the time is right.
-2141318135	The Baron Takes Notice
-1197034691	You are contacted by a mysterious man who makes himself known to you as the Baron. Your actions have attracted the interest of his clients, and he offers you the chance to participate in exclusive challenges for the benefit of their entertainment./n/nRevisit old locations to complete unique challenges with brand new mission objectives. The Baron will put your skill at the game to the test, and sometimes tweak established mechanics in unsuspected ways.
-1313161225	New Challenge
-35945019	The Baron has a new challenge for you.
+859114774	Os desafios do barão
+1049284093	Sussurros no escuro
+502931271	O Barão espera nas sombras. Ele entrará em contato com você quando for a hora certa.
+2141318135	O Barão Toma Nota
+1197034691	Você é contatado por um homem misterioso que se faz conhecido por você como o Barão. Suas ações atraíram o interesse de seus clientes e ele oferece a você a chance de participar de desafios exclusivos para o benefício do entretenimento deles. O Barão colocará à prova sua habilidade no jogo e, às vezes, ajustará a mecânica estabelecida de maneiras inesperadas.
+1313161225	Novo desafio
+35945019	O Barão tem um novo desafio para você.
 659216221	Vanishing Act
 309882009	A sealed letter is pushed under the door to your room at the saloon. You pick it up, recognizing the Baron's seal on the wax./n/n"How long has it been since Flagstone, friend? You'd be surprised how little has changed. Why don't you come visit? A new challenge awaits."/n/nYou ask around who delivered the letter, but nobody saw anyone.
 370901028	The Baron has beckoned you to Flagstone to tackle his latest challenge. He has tasked you with eliminating a certain snakeoil salesman, who is peddling his wares at the heart of town, and delivering his body to the open grave at the church.
 1447220327	Hazards of the Trade
-1794102132	A courier wordlessly passes you by, quickly putting a slightly crumpled note into your hands, penned in the Baron's handwriting./n/n"I hear your last visit to O'Hara Ranch was quite spectacular. A new challenge awaits you there, if you're interested."/n/nYou turn around to grab hold of the courier, but the man has already vanished in the crowd.
+1794102132	A courier wordlessly passes you by, quickly putting a slightly crumpled note into your hands, penned in the Baron's handwriting./n/n"I hear your last visit to O'Hara Ranch was quite spectacular. A new challenge awaits you there, if you're interested."/n/nYou turn around to grab Guarda of the courier, but the man has already vanished in the crowd.
 1275070322	You have returned to O'Hara Ranch for the Baron's latest challenge. Your task is to kill all targets without using any of your weapons. Instead, you must use the environment to dispose of them.
 1120194126	Three Men With No Name
 2002330802	A coach window opens next to you. A gloved hand emerges and gives you a postcard. It is signed by the Baron./n/n "Greetings from Baton Rouge, friend! The locals here tell me all kinds of things about you. Why don't you join me here for a drink? I've already come up with a new challenge."/n/nBefore you can ask any questions, the window closes and the coach drives off, soon disappearing around the next corner.
@@ -16521,32 +16521,32 @@ Japanese	Japanese
 1919598581	Target Behavior
 1107586089	Your target won't fall for lures and is resistant to distractions.
 1242910510	Good day. I'm the Bergdoktor.
-455511559	Cancel: {0}
-294017721	Execute: {0}
-2031709440	Baron's Challenge
-1867437729	Adjusts the cursor movement speed for aiming skills.
-1779818369	Determines how Fast Forward is used:/nOff: Hold down button to accelerate time, release button to stop./nOn: Press button to toggle Fast Forward on and off.
-471601378	Adjusts the scroll speed of your camera.
-558622535	Enables camera scrolling by moving the cursor to the edge of the screen.
-34778467	Enables subtitles for player characters in the game world.
-1609466858	Enables subtitles for cutscenes.
-89601639	Enables subtitles for briefings.
-1423012840	Enables subtitles for conversations during gameplay.
-193233307	Select the language of written text.
-1544447732	Select the keyboard layout.
-776918688	Select the language of spoken text.
-406098029	Stereo
+455511559	Cancelar: {0}
+294017721	Executar: {0}
+2031709440	Desafio do Barão
+1867437729	Ajusta a velocidade de movimento do cursor para apontar habilidades.
+1779818369	Determina como o Avanço rápido é usado: / nDesativado: Mantenha pressionado para acelerar o tempo, solte o botão para parar./nLigado: Pressione o botão para ativar e desativar o Avanço rápido.
+471601378	Ajusta a velocidade de rolagem da sua câmera.
+558622535	Permite a rolagem da câmera movendo o cursor para a borda da tela.
+34778467	Habilita legendas para personagens de jogadores no mundo do jogo.
+1609466858	Ativa legendas para cinemática.
+89601639	Ativa legendas para instruções.
+1423012840	Ativa legendas para conversas durante o jogo.
+193233307	Selecione o idioma do texto escrito.
+1544447732	Selecione o layout do teclado.
+776918688	Selecione o idioma do texto falado.
+406098029	Estéreo
 354244378	Surround 5.1
 1693017002	Surround 7.1
-1487879630	For an optimal experience, please set your V-Sync rate as high as possible, according to your highest consistent frame rate. This also depends on the refresh rate of your monitor.
-2074961100	This is the classic RTT control scheme.  {0} to select Characters, {1} to move, {2}, {3}, {4}, {5}, {6} for player skills.
-1635060042	This control scheme is used in most traditional RTS and MOBAs. {0} to select Characters, {1} to move, {2}, {3}, {4}, {5}, {6} for player skills.
-1097308533	WASD Camera Movement
-1871084952	This is based on the Desperados III control scheme regarding movement and character selection. It has been changed to allow Camera Movement with the WASD keys instead of arrow keys.
-16149401	Cancel Aiming
-831023586	Eagles Nest Shortname
-713446544	Eagles Nest Fullname
-106877485	Eagles Nest Description
+1487879630	Para uma experiência ideal, defina a taxa de Sincronização o mais alta possível, de acordo com a taxa de quadros mais alta e consistente. Isso também depende da taxa de atualização do seu monitor.
+2074961100	Este é o esquema de controle RTT clássico. {0} para selecionar Personagens, {1} para mover, {2}, {3}, {4}, {5}, {6} para as habilidades dos jogadores.
+1635060042	Esse esquema de controle é usado na maioria dos RTS e MOBAs tradicionais. {0} para selecionar Personagens, {1} para mover, {2}, {3}, {4}, {5}, {6} para as habilidades dos jogadores.
+1097308533	Movimento da câmera WASD
+1871084952	Esse é baseado no esquema de controle Desperados III em relação à seleção de movimento e personagem. Foi alterado para permitir o movimento da câmera com as teclas WASD em vez das teclas de seta.
+16149401	Cancelar Objetivo
+831023586	Eagles Nest Nome abreviado
+713446544	Eagles Nest Nome completo
+106877485	Eagles Nest Descrição
 1221080576	Plantation Shortname
 392609880	Plantation Fullname
 1438007870	Plantation Description
@@ -16555,9 +16555,9 @@ Japanese	Japanese
 265455246	Hacienda Daylight Description
 621937644	DLC
 439942642	Wireless Controller Aim Speed
-2027151249	Wireless Controller Axis Threshold
-626213254	Adjusts the threshold for wireless controller stick movement recognition.
-1475577154	Cycle Character
+2027151249	Wireless Controller Axis ThresGuarda
+626213254	Adjusts the thresGuarda for wireless controller stick movement recognition.
+1475577154	Mudar personagem
 1109017931	Restless Ann
 879765268	Really?
 465571489	Active Wireless Controller
@@ -16567,10 +16567,10 @@ Japanese	Japanese
 1489351884	Kate can get a disguise here.
 1839200631	Environment Kill
 1427780181	This object can be used to create an accident.
-1236964701	Save/Load Sounds
-750239754	Enables sound effects for saving and loading the game.
-1544087171	Crate Content Highlighter
-622041107	Determines whether ammo crate contents are visible when the highlighter function is active.
+1236964701	Salvar/Carregar sons
+750239754	Ativa efeitos sonoros para salvar e carregar o jogo.
+1544087171	Conteúdo da caixa (Marca-texto)
+622041107	Determina se o conteúdo da caixa de munição é visível quando a função marca-texto está ativa.
 896927936	Throw Body
 17267270	Throw the body/bodies you are carrying.
 821428773	Throw Torch
@@ -16581,23 +16581,23 @@ Japanese	Japanese
 1236382342	Kill {0} guards.
 1821780181	Not-Bianca
 620431163	Place Not-Bianca (rake). Knocks out the first enemy who steps on it. Needs to be picked up again.
-1139064368	Activate Subtitles?
+1139064368	Ativar legendas?
 430465293	Would you like to activate subtitles? You can adjust the subtitle settings in more detail in the options menu.
-1880366148	Completed
-2094026160	New!
-1180352869	Viewcone Quality
-539396311	Increase or decrease the visual quality of viewcones. Mostly concerns viewcone visuals on complicated geometry. Can improve performance. Gameplay functionality remains unaffected. 
-1434484342	Escape
-1300292726	Meet up at the exit and escape together.
-473075316	Throw
-2099011192	Sergeant Cluckers
-1065511466	Agent Floofs
-538080267	Get the Key
-909577338	Get the cage key from the guard.
-1113321471	Free the Grumpy Man
-1778748410	They put the grumpy man in a cage. Get him out of here.
-837906021	Get to a Horse
-297038480	Help the grumpy man to get on one of the horses so he can escape.
+1880366148	Concluído
+2094026160	Novo!
+1180352869	Qualidade do cone
+539396311	Aumente ou diminua a qualidade visual dos cones. Afeta principalmente os efeitos de cones visuais de geometrias complexas. Pode melhorar o desempenho. A funcionalidade do jogo permanece inalterada. 
+1434484342	Escapar
+1300292726	Encontre-se na saída e escape juntos.
+473075316	Lançar
+2099011192	Sargento Cluckers
+1065511466	Agente Floofs
+538080267	Pegue a chave
+909577338	Pegue a chave da jaula do guarda.
+1113321471	Liberte o homem rabugento
+1778748410	Eles colocaram o homem rabugento em uma gaiola. Tire-o lá.
+837906021	Chegue a um cavalo
+297038480	Ajude o homem rabugento a montar em um dos cavalos para que ele possa escapar.
 857259210	You see, in this world, there's two kinds of people, my friend –  those with loaded guns, and those who dig. Someone told me that, a long time ago. His name always slips my mind.
 1826507205	No matter. Today, you will put those words to the test. I have taken away all your weapons, except for your guns.
 1568115959	Your must kill every single guard in this place. Things are about to get wild. Keep an eye on your ammunition and look for crates to restock.
@@ -16773,9 +16773,9 @@ Japanese	Japanese
 2075901764	Use the dog to scare Higgins and help Kate.
 61752883	Mind Control Darts
 1539062903	If you are out of darts, you can refill them here.
-1482292128	Difficulty:
-1857979904	Deselect Skill
-373187324	The Dog
+1482292128	Dificuldade:
+1857979904	Cancelar seleção de habilidade
+373187324	O cachorro
 1497618588	Hectors trusty Trapper Dog has been captured by the Gang. You can free him if you want.
 92931021	One good shot is all it takes. Will this be the one? Let's find out together. Rest assured: I'll be watching.
 632606750	One of your mission targets died.
@@ -16897,8 +16897,8 @@ Japanese	Japanese
 503736148	This was the Headhunter
 2003745405	Regroup at the main gate
 631053090	Make your way to the main gate and escape.
-1681926345	Character Silhouettes
-554268524	Enables silhouettes for characters hidden behind geometry./nNOTE: Even if turned off, characters hidden behind geometry can still be selected.
+1681926345	Silhuetas de personagens
+554268524	Ativa silhuetas para personagens ocultos atrás da geometria./nNOTA: Mesmo se desativado, os personagens ocultos atrás da geometria ainda podem ser selecionados.
 1772227058	Replay files are partially corrupted. Visual errors may occur during replay.
 736970267	Replay files are fully corrupted. Replay cannot be displayed.
 558911311	On the Hunt
@@ -16962,6 +16962,6 @@ Japanese	Japanese
 1154049762	Sorry honey, I can't right now.
 238564817	Let's do this later, okay?
 1029811449	Sorry honey, I can't right now.
-529306080	Thank you for playing the Desperados III Demo!
-641702397	Pick up the adventure in the game where you left off!/nGo to the options menu and type <b><hotkey>"lonerider"</hotkey></b> to activate the cheat, or use the Controller D-Pad: <b><hotkey>"RIGHT RIGHT RIGHT UP DOWN"</hotkey></b>
-1247312339	Get the full version of Desperados III now!
+529306080	Obrigado por jogar o Desperados III Demomstração!
+641702397	Siga sua aventura no jogo de onde você parou!/nVá para o menu de opções e digite <b><hotkey>"lonerider"</hotkey></b> para ativar a trapaça, ou use o D-Pad: <b><hotkey> "DIREITA, DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
+1247312339	Obtenha a versão completa do Desperados III agora!
