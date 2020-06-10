@@ -290,21 +290,21 @@ Japanese	Japanese
 495479490	Controle sem fio desconectado
 1564185545	Sem espaço suficiente no disco. Libere mais espaço para salvar o jogo.
 208516596	corrompido
-1080011117	USANDO SWITCHING
-1615693186	Please do not turn off your PlayStation®4 system while this symbol is displayed.
-653665833	Please do not close the game, suspend the game or turn off your Xbox One console while this symbol is displayed.
-1801035418	Please do not close the game while this symbol is displayed.
-1308428726	Failed to initialize storage. In order to play, you need a connected storage space.
-1459825798	Tente novamente
-1825071464	Your latest savegame is deprecated or corrupt. Do you wish to restart the current mission instead?
-906613780	You have reached the maximum number of savegames. Please delete or overwrite an existing savegame. Note: Quicksaves do not count toward this limit.
-2114202035	Reconnect your wireless controller or use another connected wireless controller and switch to the user who started the application.
-962072658	Saving: Please do not close the game, suspend the game or turn off your Xbox One console while this symbol is displayed.
-1499250081	Saving: Please do not turn off your PlayStation®4 system while this symbol is displayed.
-352385758	Saving: Please do not close the game while this symbol is displayed.
-488026919	Visit our store page if you want to purchase {0}
-289232529	Go to Xbox Store
-1024096936	Go to PlayStation®Store
+1080011117	MUDAR USUÁRIO
+1615693186	Por favor, não desligue o seu sistema PlayStation®4 enquanto este símbolo estiver sendo exibido.
+653665833	Por favor, não feche o jogo, suspenda o jogo ou desligue o console Xbox One enquanto este símbolo estiver sendo exibido.
+1801035418	Por favor, não feche o jogo enquanto este símbolo estiver sendo exibido.
+1308428726	Falha ao inicializar o armazenamento. Para jogar, você precisa de um espaço de armazenamento conectado.
+1459825798	Tentar Novamente
+1825071464	O seu último jogo salvo está obsoleto ou corrompido. Deseja reiniciar a missão atual?
+906613780	Você atingiu o número máximo de jogo salvo. Exclua ou substitua um savegame existente. Nota: Salvamento rápido não contam para esse limite
+2114202035	Reconecte seu controlador sem fio ou use outro controlador sem fio conectado e alterne para o usuário que iniciou o aplicativo.
+962072658	Salvando: não feche o jogo, suspenda o jogo ou desligue o console Xbox One enquanto este símbolo estiver sendo exibido
+1499250081	Salvando: não desligue seu PlayStation®4 enquanto este símbolo estiver sendo exibido.
+352385758	Salvando: Por favor, não feche o jogo enquanto este símbolo estiver sendo exibido.
+488026919	Visite nossa página da loja se você deseja comprar {0}
+289232529	Ir para Xbox Store
+1024096936	Ir para PlayStation®Store
 1609842196	Ocorreu um erro ao carregar.
 1893923580	Desculpa. Algo deu errado.
 339664616	Desperado
@@ -356,14 +356,14 @@ Japanese	Japanese
 163742262	Todos os personagens e habilidades têm notas pop-up que ajudam a descobrir novas estratégias.
 605453809	Nonlethal Melee Attacks
 482668800	All melee attacks have a nonlethal option. Press <hotkey>{0}</hotkey> to switch to nonlethal, or use the modifier in your skill bar.
-1798452257	All melee attacks have a nonlethal option. Guarda <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
+1798452257	All melee attacks have a nonlethal option. hold <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
 1907007791	Nonlethal Pular Attacks
 124657665	When your melee attack is switched to nonlethal, Pularing down on guards will knock them out instead of killing them.
 949271593	Moving Dead Bodies
 1671046303	Characters move dead bodies differently. Some focus on speed; others keep close to the ground to avoid detection.
 1628782004	Kill & Carry
-1344684890	Guarda <hotkey>{0}</hotkey> when ordering a melee kill to pick up the body automatically.
-1476567941	Guarda <hotkey>{0}</hotkey> during a melee kill to pick up the body automatically.
+1344684890	hold <hotkey>{0}</hotkey> when ordering a melee kill to pick up the body automatically.
+1476567941	hold <hotkey>{0}</hotkey> during a melee kill to pick up the body automatically.
 520060613	Viewcone Marker
 3333633	Take your time when testing a spot with the Viewcone Marker. Some guards have long patrol routes.
 822402292	Highlighter
@@ -373,10 +373,10 @@ Japanese	Japanese
 1981927858	If a guard is killed by a falling object, their death will look like an accident, so no one will raise the alarm.
 1066015511	Enemy Types
 1716596328	Move your cursor over guards to see their enemy type.
-739816734	Guarda <hotkey>{0}</hotkey> and move your cursor over guards to see their enemy type.
+739816734	hold <hotkey>{0}</hotkey> and move your cursor over guards to see their enemy type.
 570427210	Important Objects
 1536012121	Move your cursor over important objects to see their function.
-656570826	Guarda <hotkey>{0}</hotkey> and move the cursor over interactable objects to see their function.
+656570826	hold <hotkey>{0}</hotkey> and move the cursor over interactable objects to see their function.
 545151036	Girar a câmera
 68323806	Segure <hotkey>{0}</hotkey> e mova o mouse para girar livremente a câmera.
 573759884	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para girar livremente a câmera.
@@ -403,7 +403,7 @@ Japanese	Japanese
 858462126	Moving Bodies (Quickdrop)
 1778643117	When carrying a dead body, press <hotkey>{0}</hotkey> to crouch and drop it immediately.
 1824651014	Instant Skill Use
-2122441486	Guarda down <hotkey>{0}</hotkey> to quickly execute skills that don't require aiming (like Hector's trap).
+2122441486	hold down <hotkey>{0}</hotkey> to quickly execute skills that don't require aiming (like Hector's trap).
 1607957211	UI Customization
 2063046262	You can customize the UI in the options menu and switch off elements like the Save Reminder.
 243581491	Ammo Crates
@@ -447,7 +447,7 @@ Japanese	Japanese
 269943082	Golden Bullet
 410699328	McCoy will always save an extra bullet for mission objectives. Don't worry about failing a mission because you ran out of bullets.
 1568979145	Taking off the Disguise
-471953919	Guarda <hotkey>{0}</hotkey> to manually take off Kate's disguise.
+471953919	hold <hotkey>{0}</hotkey> to manually take off Kate's disguise.
 1773294443	Unlocking Badges
 1758401545	Unlock badges by performing certain feats or playing missions under certain conditions.
 2100745183	Badges and Difficulty
@@ -461,20 +461,20 @@ Japanese	Japanese
 31059294	Customizing Controls
 1048689626	You can customize the control scheme and various gameplay settings in the options menu.
 1220564156	Character Multiselect
-1610317847	Guarda <hotkey>{0}</hotkey> and drag a box over all characters you want to select. Alternatively, Guarda <hotkey>{1}</hotkey> and click <hotkey>{2}</hotkey> their portraits.
-42793480	While Guardaing <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> to select more than one character, or <hotkey>{2}</hotkey> to select all available characters. You will control the first character you selected. The others will follow them.
+1610317847	hold <hotkey>{0}</hotkey> and drag a box over all characters you want to select. Alternatively, hold <hotkey>{1}</hotkey> and click <hotkey>{2}</hotkey> their portraits.
+42793480	While holding <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> to select more than one character, or <hotkey>{2}</hotkey> to select all available characters. You will control the first character you selected. The others will follow them.
 1356113339	Multiple Waypoints
-1387195571	Guarda <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to set multiple waypoints for characters.
+1387195571	hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to set multiple waypoints for characters.
 2070609971	Vision Mode
-878634208	Guarda <hotkey>{0}</hotkey> to enter Vision Mode and select enemy viewcones. While in Vision Mode, you can also set a Viewcone Marker, display Alarm Zones or use Fast Forward to shorten your waiting time.
+878634208	hold <hotkey>{0}</hotkey> to enter Vision Mode and select enemy viewcones. While in Vision Mode, you can also set a Viewcone Marker, display Alarm Zones or use Fast Forward to shorten your waiting time.
 765451162	Fast Forward
-1546069925	Guarda <hotkey>{0}</hotkey> to fast forward gameplay.
-255324182	Guarda <hotkey>{0}</hotkey> and <hotkey>{1}</hotkey> to fast forward gameplay.
+1546069925	hold <hotkey>{0}</hotkey> to fast forward gameplay.
+255324182	hold <hotkey>{0}</hotkey> and <hotkey>{1}</hotkey> to fast forward gameplay.
 1188458775	Alarm Zones
 2056027763	Use <hotkey>{0}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
-260850587	Guarda <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
+260850587	hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
 1830410793	Talking Guards and Distractions
-886347188	If two guards are talking and one of them is immune to certain distractions, both are immune. For instance, if you try to lure away a Thug who's talking to a Poncho, the Poncho will Guarda him back.
+886347188	If two guards are talking and one of them is immune to certain distractions, both are immune. For instance, if you try to lure away a Thug who's talking to a Poncho, the Poncho will hold him back.
 66646900	Healing Skills
 1806946441	Healing Skills like McCoy's bandages have unlimited ammo, but take some time to apply. It's best to use them when the coast is clear.
 1379027361	Distractions in Civil Zones
@@ -490,7 +490,7 @@ Japanese	Japanese
 94599441	Follow Cam Modes
 753717552	You can switch Follow Cam modes in the options menu. "Standard" allows for the most player control.
 907376899	Camera Dragging
-2027724162	Guarda <hotkey>{0}</hotkey> to drag the camera.
+2027724162	hold <hotkey>{0}</hotkey> to drag the camera.
 876399661	Faca
 1749163056	Derruba um inimigo à queima-roupa.
 1589031175	Soco
@@ -1677,7 +1677,7 @@ Japanese	Japanese
 429389325	Então, quem é o primeiro da sua lista?
 99315968	Que tal matá-los na ordem que gostamos.
 1852126838	Ótimo plano que você tem lá.
-385726871	Guardas demais para um quintal.
+385726871	guardas demais para um quintal.
 2129972192	Jarvis e seus homens estão por aqui. Certamente ele estará com o touro novamente.
 1962085150	Então é melhor manter a cabeça baixa quando estivermos dentro
 1251247827	Hah! Ele realmente acha que pode montar esse touro!
@@ -1932,7 +1932,7 @@ Japanese	Japanese
 196637280	Drag Mr. Goodwill's body to the churchyard and throw it in the coffin.
 1473554651	Disguise
 202354555	Kate can get a disguise from a prostitute in the Flagstone brothel.
-979423799	Everyone Guarda still, please.
+979423799	Everyone hold still, please.
 1359697944	Magnificent!
 1559499210	And another.
 389220884	I think this side is much more stately.
@@ -2799,7 +2799,7 @@ Japanese	Japanese
 296559256	You did fine. I should have stayed with him.
 76027002	Then we'd bury two bodies today.
 44546673	Kate!
-615451680	How are you Guardaing up?
+615451680	How are you holding up?
 733306503	I still can't believe he's gone.
 819823984	I know. I just wanna kill the bastards all over again.
 1010048128	Thank you, Hector.
@@ -2955,7 +2955,7 @@ Japanese	Japanese
 767817700	Thinking about causing an accident yourself?
 305308674	It sure looks mighty sharp.
 1514308810	All right, saw's out.
-315219794	Let's put this on Guarda.
+315219794	Let's put this on hold.
 1286456959	The saw's stopped.
 210008120	Now what?
 188197869	What's wrong with this thing!
@@ -3357,8 +3357,8 @@ Japanese	Japanese
 610440517	Lord have mercy.
 1364331509	This town is cursed.
 1743208315	The day has come! Mark my words!
-1990997190	What we Guarda dear, it shall be lost.
-877579202	What we Guarda sacred, it shall be defiled.
+1990997190	What we hold dear, it shall be lost.
+877579202	What we hold sacred, it shall be defiled.
 1006373769	What gives us strength shall turn to ash.
 552648979	For the enemy has risen! Lord have mercy!
 1392107080	Three days ago, in Baton Rouge, he revealed himself.
@@ -3380,7 +3380,7 @@ Japanese	Japanese
 1479984106	Well...  Guess we should leave this where it belongs.
 1356569465	Hmm... Let's leave this here for safe keeping.
 1009113621	It's a pity, but this isn't ours for the keepin'.
-1567772064	If I was Doc, where would I be Guardain' up?
+1567772064	If I was Doc, where would I be holdin' up?
 1577477175	Hey, Doc. You in here?
 2129400880	Where are you, McCoy?
 1554146086	Doc! You need to wake up!
@@ -3577,7 +3577,7 @@ Japanese	Japanese
 1547392648	Nah ah. You're gonna make it up to me right now.
 1799290202	Made it. Now let's get the lay of the land.
 853332837	So, let's see what's happening over there. Looks like they caught themselves a little steamboat.
-1708763328	That cowboy there is Guardaing his own for now. He's gonna run out of luck eventually.
+1708763328	That cowboy there is holding his own for now. He's gonna run out of luck eventually.
 180287954	Now was he alone? Or did he have a crew?
 1775302398	They're looking for someone at that house. I bet someone's hiding out there.
 1521339902	Now, that big guy looks freshly caught. Wasn't easy I bet. He has eyes on him from all angles.
@@ -3605,7 +3605,7 @@ Japanese	Japanese
 1034632180	There's Cooper. Looks like they got him pinned down.
 194195716	Look! There's Cooper. Those bastards have him pinned.
 618721931	There! Cooper! They're still firing at him.
-655586820	He's Guardaing out for now. Let's give him some breathing room.
+655586820	He's holding out for now. Let's give him some breathing room.
 1124333373	Think I saw Doc head in this direction.
 2099540363	Hey, where's Doc? Wasn't he with us?
 1045115534	Think we lost McCoy here somewhere.
@@ -4003,7 +4003,7 @@ Japanese	Japanese
 34392205	Well... 
 1211196005	So what's going on here?
 1137491574	We're looking for Isabelle's friend. Wanna join?
-173864141	I won't Guarda it against you if you decline.
+173864141	I won't hold it against you if you decline.
 2056450478	Like I said before, I don't enjoy owing favors.
 397429678	To be clear: We find your Wayne, that makes us even.
 830699354	Try to lighten up, Sunshine. 
@@ -5616,7 +5616,7 @@ Japanese	Japanese
 376738704	Did you see that?
 341484076	Breathtaking!
 633775725	Good heavens!
-1482743495	Quite something to beGuarda, isn't it?
+1482743495	Quite something to behold, isn't it?
 1627518804	And the evening has so much more to offer.
 1669693489	Yes, just a slight change in schedule.
 1187095878	I thought the guests could use some entertainment.
@@ -6061,7 +6061,7 @@ Japanese	Japanese
 230370717	We're making progress.
 1081780746	Halfway to the chapel.
 1513828514	We still got a ways to go.
-2128859310	How's everyone Guardaing up?
+2128859310	How's everyone holding up?
 710950701	I'm ready.
 4403149	Same here.
 1677025007	Don't tell me you had any doubts.
@@ -6495,7 +6495,7 @@ Japanese	Japanese
 1031059096	Don't mind me.
 927424575	Now you stay put.
 977093193	Don't you move, you got it?
-701922350	This better Guarda.
+701922350	This better hold.
 1348029465	This one through there... Okay.
 669292182	Stay put.
 1632304374	Don't move.
@@ -6677,7 +6677,7 @@ Japanese	Japanese
 1964856913	Instead, he went around getting on everyone's nerves.
 1531033611	BAM, just like that... Finger was gone.
 432826438	Food for thought I'd say.
-1344111692	Hey now. Guarda yer horses.
+1344111692	Hey now. hold yer horses.
 745634994	Think the headache's getting worse.
 942041567	What? Who did that?
 1226787952	Okay, keep it together, Cooper.
@@ -6933,7 +6933,7 @@ Japanese	Japanese
 1598955218	I'll make you good and cozy.
 1550452129	Heh, sleep tight.
 625375198	Don't move, friend.
-2092017950	Yeah... That'll Guarda...
+2092017950	Yeah... That'll hold...
 788238649	Hrm, keep still...
 933667148	...!
 780681512	...!
@@ -6972,7 +6972,7 @@ Japanese	Japanese
 974800483	Let's lure someone in.
 891984629	Time to make some noise.
 721056351	I'll use my singing voice.
-251168187	Guarda your ears.
+251168187	hold your ears.
 110265755	Hrm, dry lips.
 1803648594	...Hombre!
 379582184	...Over here!
@@ -7034,7 +7034,7 @@ Japanese	Japanese
 1446488602	Hrm, where'd you go?
 210440527	Uh... Lost the rake.
 1076543859	Heh, found it.
-1254045471	Better keep Guarda of you.
+1254045471	Better keep hold of you.
 1214689864	You're mine.
 866566272	Hrm, found you.
 826916199	Still need you.
@@ -7350,7 +7350,7 @@ Japanese	Japanese
 420955164	Handle with care.
 653451977	I don't have many of these.
 460494900	It's all or nothing.
-792650785	Guarda your breaths.
+792650785	hold your breaths.
 1712864396	Careful...
 2011469625	I got a few tricks in here.
 1000381761	Primed and ready.
@@ -7412,7 +7412,7 @@ Japanese	Japanese
 862239024	Better take cover.
 2094870572	Brace yourselves.
 427448288	You can never have enough.
-171414401	Let me keep Guarda of that.
+171414401	Let me keep hold of that.
 400939964	Straight to the bank.
 675306451	Waste not.
 1249911229	Different lure, same prey.
@@ -7519,10 +7519,10 @@ Japanese	Japanese
 507827922	We'll finish this together.
 61986203	This place has a certain charm.
 1045937198	Yes, where to?
-1786105161	Not gonna Guarda this all day.
+1786105161	Not gonna hold this all day.
 917967702	Where do you want 'em?
 2104279513	Uh huh... Where to?
-771759895	Can't Guarda this all day.
+771759895	Can't hold this all day.
 182913030	Come now... Where to?
 735059417	Quickly... My head's spinning.
 1652511642	Ugh... Think I'm gonna be sick.
@@ -7791,10 +7791,10 @@ Japanese	Japanese
 420660211	Phew... Glad that's over...
 828947015	...!
 1317680175	There...
-449063833	Guarda still now.
+449063833	hold still now.
 1433016217	You better stay quiet.
 1174254397	Nice and tight.
-1885291362	Let's hope this Guardas...
+1885291362	Let's hope this holds...
 165933546	Be glad you can lie down...
 1443058351	Stay there.
 717847113	On to the next.
@@ -8157,7 +8157,7 @@ Japanese	Japanese
 2079034413	Let me show you around.
 189971941	Just gotta follow the clues.
 338123914	The trail ain't cold yet.
-94465682	Guarda tight, Wayne. I'm coming.
+94465682	hold tight, Wayne. I'm coming.
 1143146030	Let's burn this place to the ground.
 620887894	Can't get tired now...
 1249330717	Gotta keep it together.
@@ -9357,7 +9357,7 @@ Japanese	Japanese
 260125397	She's up on the plateau.
 1070234556	Townsfolk make any trouble?
 1180957643	Ha, you kidding me!
-991808565	You Guardain' up?
+991808565	You holdin' up?
 197932068	Another day in this shithole.
 915920059	How's it going?
 1987711002	All's ready for the wedding.
@@ -10224,7 +10224,7 @@ Japanese	Japanese
 2104919964	She's on the plateau.
 815716627	Townsfolk make any trouble?
 1766370551	Ha, you kidding me!
-494514657	You Guardain' up?
+494514657	You holdin' up?
 953372556	Another day in this shithole.
 1870370654	How's it going?
 390910119	All's ready for the wedding.
@@ -10525,7 +10525,7 @@ Japanese	Japanese
 797504096	Found you, punk!
 1802059020	Frank was right!
 1423127020	Hands up!
-341052416	Guarda on! You bandit!
+341052416	hold on! You bandit!
 1950647588	I saw you, o-outlaw!
 962229844	Huh?! How did you get out?!
 90172133	We got ourselves a runaway!
@@ -10568,7 +10568,7 @@ Japanese	Japanese
 1446291070	Stop where you are, kid!
 1997286731	Darn! The marshal!
 1736924114	The marshal?! Weren't you locked up?!
-447181357	Guarda on...who's behind me?
+447181357	hold on...who's behind me?
 1744777944	Wait...is someone behind me?
 629612310	Somebody's nearby. I can sense it...
 2081350342	You touch me, I shoot you!
@@ -11071,7 +11071,7 @@ Japanese	Japanese
 1763918194	She's up on the plateau.
 800888082	Townsfolk make any trouble?
 1366707733	Ha, you kidding me!
-2117806888	You Guardain' up?
+2117806888	You holdin' up?
 468040288	Another day in this shithole.
 1178720293	How's it going?
 1582073398	All's ready for the wedding.
@@ -11955,7 +11955,7 @@ Japanese	Japanese
 1130350609	She's on the plateau.
 16843546	Townsfolk make any trouble?
 556107838	You gotta be kidding me!
-1736303003	How you Guardain' up?
+1736303003	How you holdin' up?
 1120145463	Another day in this shithole.
 879679491	How's it going?
 1730222479	All's ready for the wedding.
@@ -12258,7 +12258,7 @@ Japanese	Japanese
 624782864	Found you, punk!
 420409102	Frank was right!
 137336679	Hands up!
-630887659	Guarda on! Bandit!
+630887659	hold on! Bandit!
 422368342	I saw you, o-outlaw!
 924509837	Huh?! How did you get out?!
 870085394	We got a runner!
@@ -12301,7 +12301,7 @@ Japanese	Japanese
 983666950	Stop where you are, kid!
 1336641929	Darn! The marshal!
 348504339	The marshal?! Weren't you locked up?!
-1122248226	Guarda on...who's behind me?
+1122248226	hold on...who's behind me?
 509959543	Wait...is someone behind me?
 952557106	Somebody's nearby. I can sense it...
 58814030	You touch me, I shoot you!
@@ -12345,7 +12345,7 @@ Japanese	Japanese
 1535057941	Damn. Hogtied like a rabbit.
 937053065	Somebody tied him up!
 302882288	Dirty bastards. Tied up one of us!
-1251081698	Guarda on there... I'll untie you.
+1251081698	hold on there... I'll untie you.
 1656196937	You, go take a look!
 726262055	Someone head on over there!
 1138987085	You better go there!
@@ -12821,7 +12821,7 @@ Japanese	Japanese
 1136829938	She's out on the plateau.
 178549419	Townsfolk make any trouble?
 450555212	You gotta be kidding me!
-1019404277	How you Guardain' up?
+1019404277	How you holdin' up?
 785665126	What do you think in this shithole.
 158136934	How's it going?
 643318950	All ready for the wedding.
@@ -13718,7 +13718,7 @@ Japanese	Japanese
 1761211768	She's on the plateau.
 1522177412	Townsfolk make any trouble?
 488031809	Ha, you kidding me!
-1760741556	You Guardain' up?
+1760741556	You holdin' up?
 663712441	Another day in this shithole.
 1298932535	How's it going?
 1164789691	All's ready for the wedding.
@@ -13945,7 +13945,7 @@ Japanese	Japanese
 1925932487	It's the witch!
 1748947354	I know you're here Isabelle!
 1796053590	Idiot! You're under her spell!
-84751004	You! She took Guarda of you!
+84751004	You! She took hold of you!
 333217423	Stop that! Resist her!
 251303684	Intruder!
 143097900	How dare you!
@@ -14586,7 +14586,7 @@ Japanese	Japanese
 386837316	It's all right.
 745996483	Howdy.
 2015670863	Howdy.
-929047574	How are you Guardaing up?
+929047574	How are you holding up?
 1850282191	I'm fine.
 733864984	Anything wrong?
 1420908823	It's nothing.
@@ -15066,7 +15066,7 @@ Japanese	Japanese
 647686182	It's all right.
 1237125489	Hey.
 1583263944	Howdy.
-695468909	How are you Guardaing up?
+695468909	How are you holding up?
 143632231	I'm fine.
 2043360240	Anything wrong?
 1569125277	It's nothing.
@@ -16185,7 +16185,7 @@ Japanese	Japanese
 321945412	In Showdown Mode, you can set a single waypoint for each character.
 1843019443	Reinforcement Info
 72136199	Press <hotkey>{0}</hotkey> or mouse over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
-1133491710	Guarda <hotkey>{0}</hotkey> and press <hotkey>{1}</hotkey> or move the cursor over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
+1133491710	hold <hotkey>{0}</hotkey> and press <hotkey>{1}</hotkey> or move the cursor over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
 1806446353	Reinforcement Limits
 2073461372	With each new alarm, dead or tied up reinforcement guards will be replaced from the limited reserves in the Guard House. If a Guard House is empty, no more reinforcements will come.
 1306284367	Barking Dogs
@@ -16467,7 +16467,7 @@ Japanese	Japanese
 309882009	A sealed letter is pushed under the door to your room at the saloon. You pick it up, recognizing the Baron's seal on the wax./n/n"How long has it been since Flagstone, friend? You'd be surprised how little has changed. Why don't you come visit? A new challenge awaits."/n/nYou ask around who delivered the letter, but nobody saw anyone.
 370901028	The Baron has beckoned you to Flagstone to tackle his latest challenge. He has tasked you with eliminating a certain snakeoil salesman, who is peddling his wares at the heart of town, and delivering his body to the open grave at the church.
 1447220327	Hazards of the Trade
-1794102132	A courier wordlessly passes you by, quickly putting a slightly crumpled note into your hands, penned in the Baron's handwriting./n/n"I hear your last visit to O'Hara Ranch was quite spectacular. A new challenge awaits you there, if you're interested."/n/nYou turn around to grab Guarda of the courier, but the man has already vanished in the crowd.
+1794102132	A courier wordlessly passes you by, quickly putting a slightly crumpled note into your hands, penned in the Baron's handwriting./n/n"I hear your last visit to O'Hara Ranch was quite spectacular. A new challenge awaits you there, if you're interested."/n/nYou turn around to grab hold of the courier, but the man has already vanished in the crowd.
 1275070322	You have returned to O'Hara Ranch for the Baron's latest challenge. Your task is to kill all targets without using any of your weapons. Instead, you must use the environment to dispose of them.
 1120194126	Three Men With No Name
 2002330802	A coach window opens next to you. A gloved hand emerges and gives you a postcard. It is signed by the Baron./n/n "Greetings from Baton Rouge, friend! The locals here tell me all kinds of things about you. Why don't you join me here for a drink? I've already come up with a new challenge."/n/nBefore you can ask any questions, the window closes and the coach drives off, soon disappearing around the next corner.
@@ -16555,8 +16555,8 @@ Japanese	Japanese
 265455246	Hacienda Daylight Description
 621937644	DLC
 439942642	Wireless Controller Aim Speed
-2027151249	Wireless Controller Axis ThresGuarda
-626213254	Adjusts the thresGuarda for wireless controller stick movement recognition.
+2027151249	Wireless Controller Axis Threshold
+626213254	Adjusts the threshold for wireless controller stick movement recognition.
 1475577154	Mudar personagem
 1109017931	Restless Ann
 879765268	Really?
@@ -16582,7 +16582,7 @@ Japanese	Japanese
 1821780181	Not-Bianca
 620431163	Place Not-Bianca (rake). Knocks out the first enemy who steps on it. Needs to be picked up again.
 1139064368	Ativar legendas?
-430465293	Would you like to activate subtitles? You can adjust the subtitle settings in more detail in the options menu.
+430465293	Deseja ativar as legendas? Você pode ajustar as configurações das legendas com mais detalhes no menu de opções.
 1880366148	Concluído
 2094026160	Novo!
 1180352869	Qualidade do cone
