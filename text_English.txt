@@ -784,63 +784,63 @@ Japanese	Japanese
 98710076	Com Cooper, entre no prédio pela porta principal da varanda.
 707714733	Mate {0} guardas com a metralhadora.
 1258018290	Termine a missão sem usar uma tocha.
-808979380	Win the bet with McCoy.
-1715221562	Win the bet with Hector.
-844798888	Burn {0} guards in oil puddles.
-618964374	Don't use the Gatling gun.
-678675062	Get the dynamite from the shooting range.
-1582186343	Get the dynamite from the quarry.
-803215006	Kill {0} guards with rolling logs.
-722051751	Kill {0} guards at the same time in a quarry explosion.
-838084772	Kill {0} guards when destroying the bridge.
-318564945	Free Kate or Hector first.
-1156310251	Kill {0} guards at the same time.
-1858403590	Kill {0} guards with an environment kill.
-2025392807	Finish the mission without crossing the train tracks.
-2133820715	Finish the mission without dropping Isabelle.
-178577080	Use the wagon to block the train tracks.
-1571886098	Use the cattle to block the train tracks.
+808979380	Ganhe a aposta com McCoy.
+1715221562	Ganhe a aposta com Hector.
+844798888	Queime {0} guardas em poças de óleo.
+618964374	Não use a Metralhadora.
+678675062	Obtenha a dinamite do campo de tiro.
+1582186343	Obtenha a dinamite da pedreira.
+803215006	Mate {0} guardas com toras rolantes.
+722051751	Mate {0} guardas ao mesmo tempo em uma explosão da pedreira.
+838084772	Mate {0} guardas ao destruir a ponte.
+318564945	Liberte Kate ou Hector primeiro.
+1156310251	Mate {0} guardas ao mesmo tempo.
+1858403590	Mate {0} guardas com uma morte por ambiente.
+2025392807	Termine a missão sem cruzar os trilhos do trem.
+2133820715	Termine a missão sem largar Isabelle.
+178577080	Use a carroça para bloquear os trilhos do trem.
+1571886098	Use o gado para bloquear os trilhos do trem.
 244143939	Mate {0} guardas com o trem.
 1481679492	Salve todos os grupos de civis.
 1404372168	Mate {0} bandidos ao mesmo tempo.
 1091331607	Mate bandidos usando dinamite.
 1720218840	Distraia {0} bandidos ao mesmo tempo usando a moeda de Cooper.
-1383672889	Gather the codenames and locations for all possible suspects.
+1383672889	Reúna os nomes de código e os locais de todos os possíveis suspeitos.
 455186100	Mate todos os suspeitos.
-1825898325	Don't kill any suspects.
-2098414280	No knockouts or melee kills except for Isabelle's.
-2137533299	Don't snipe anyone with McCoy.
-634442317	Open all cages.
-891213051	Choose the path on the left.
-91772538	Choose the path on the right.
-663038595	Don't use any of Cooper's skills.
-1612499977	Kill guards using dogs.
-142821827	Kill {0} guards using the steamer wheel.
-1673149031	Don't use both distractions.
-1024782232	Use mind control on Devitt.
-438004702	Kill {0} guards with a statue.
-690968489	Don't use any of Kate's or Cooper's skills.
-668594279	Traverse the mine on the left side.
-367879890	Traverse the mine on the right side.
-961420766	Don't pick up dynamite.
-1919873499	Kill {0} people with dynamite.
-146886998	Only pick up McCoy's gear.
-775058415	Only select Cooper.
-1775990128	Kill guards with falling rocks.
-273940849	Don't switch sides with any character.
-497682000	Reach the chapel via the left entrance.
-347856056	Reach the chapel via the right entrance.
-32670292	Don't select {0}.
-1663542660	No survivors.
-1223921571	Devil's Canyon/n(Chapter I)
+1825898325	Não mate nenhum suspeito.
+2098414280	Nenhum nocaute ou morte corpo a corpo, exceto no caso de Isabelle.
+2137533299	Não mate ninguém com McCoy.
+634442317	Abra todas as gaiolas.
+891213051	Escolha o caminho à esquerda.
+91772538	Escolha o caminho à direita.
+663038595	Não use nenhuma das habilidades de Cooper.
+1612499977	Mate os guardas usando cães.
+142821827	Mate {0} guardas usando a roda a vapor.
+1673149031	Não use as duas distrações.
+1024782232	Use o controle da mente em Devitt.
+438004702	Mate {0} guardas com uma estátua.
+690968489	Não use nenhuma das habilidades de Kate ou Cooper.
+668594279	Atravesse a mina pelo lado esquerdo.
+367879890	Atravesse a mina pelo lado direito.
+961420766	Não pegue dinamite.
+1919873499	Mate {0} pessoas com dinamite.
+146886998	Pegue apenas o equipamento de McCoy.
+775058415	Selecione apenas Cooper.
+1775990128	Mate os guardas com queda de pedras.
+273940849	Não mude de lado com nenhum personagem.
+497682000	Chegue à capela pela entrada da esquerda.
+347856056	Chegue à capela pela entrada da direita.
+32670292	Não selecione {0}.
+1663542660	Sem sobreviventes.
+1223921571	Cânion do Diabo/n(Capítulo I)
 961120359	Era Uma Vez
-266826627	Somewhere in the desert of Mexico, two riders approach the hideout of an infamous outlaw.
-1864224566	A few miles past the Mexican border, the ruins of an old village fringe the cliffs of Devil's Canyon./n/nRumor has it that an infamous outlaw has his hideout here, a man who only goes by the name of Frank./n/nToday, two riders approach from the desert, bounty hunters who've made it their mission to bring Frank in, dead or alive./n/nWill they succeed where others failed, or will they end up as food for the vultures?
-773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam ao Devil's Canyon. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
+266826627	Em algum lugar no deserto do México, dois cavaleiros se aproximam do esconderijo de um infame fora-da-lei.
+1864224566	A alguns quilômetros da fronteira com o México, nas ruínas de uma antiga vila às margens dos penhascos do Cânion do Diabo./n/nHá rumores que um infame fora-da-lei se esconde aqui, um homem que só atende pelo nome de Frank./n/Hoje, dois cavaleiros do deserto estão se aproximando, caçadores de recompensas empenhados em entregar Frank, vivo ou morto.
+773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam ao Cânion do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
 681032158	Byers Pass
 2097221155	Atrasado no dia de pagamento
-1657883687	A train owned by the influential DeVitt Company is on its way to the town of Flagstone. At Byers Pass, it runs into an unexpected roadblock.
-801719185	Running on freshly laid tracks, a heavily loaded train snakes along the Rocky Mountain landscape./n/nIts wagons—bearing the sign of the DeVitt Company—have been freshly loaded in Denver and now carry people and goods towards the small mountain town of Flagstone./n/nAs the train enters Byers Pass, mood among the passengers grows uneasy. Bandits are roaming these parts, and the company has lost more than one train in recent months./n/nMaybe the mercenaries hired to escort the train will be enough to deter any attackers this time.
+1657883687	Um trem de propriedade da influente compãnia DeVitt está a caminho da cidade de Flagstone. Em Byers Pass, ele encontra um obstáculo inesperado.
+801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo da paisagem das Montanhas Rochosas./n/nSeus vagões - com o sinal da Compãnia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entra em Byers Pass, o humor entre os passageiros fica inquieto. Bandidos estão perambulando por essas partes, e a compãnia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
 1457201141	John Cooper está sentado no trem indo para Flagstone, quando de repente, no Byers Pass, seu passeio é emboscado por bandidos. Ele permanece sem ser detectado, mas a tarefa que está pela frente é clara./n/nSe Cooper quiser manter seu compromisso em Flagstone, ele terá que cuidar primeiro dos bandidos.
 1181215471	Flagstone
 1786599235	Encrenqueiros em Flagstone
