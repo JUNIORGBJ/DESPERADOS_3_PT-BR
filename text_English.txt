@@ -450,21 +450,21 @@ Japanese	Japanese
 471953919	hold <hotkey>{0}</hotkey> to manually take off Kate's disguise.
 1773294443	Unlocking Badges
 1758401545	Unlock badges by performing certain feats or playing missions under certain conditions.
-2100745183	Badges and Difficulty
-1881388511	Badges can be unlocked when playing on Normal difficulty or higher.
-1816057841	Badge Types
-2112292041	Small badges are skill tests, like completion time or number of casualties in a level. Large badges will require you to play levels in ways you did not expect.
-824582774	Dev Gang
-1561875126	Some enemies are named after developers. Can you find them all?
-1154773630	Changing Difficulty
-512149738	You cannot change difficulty while playing a mission.
-31059294	Customizing Controls
-1048689626	You can customize the control scheme and various gameplay settings in the options menu.
-1220564156	Character Multiselect
-1610317847	hold <hotkey>{0}</hotkey> and drag a box over all characters you want to select. Alternatively, hold <hotkey>{1}</hotkey> and click <hotkey>{2}</hotkey> their portraits.
-42793480	While holding <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> to select more than one character, or <hotkey>{2}</hotkey> to select all available characters. You will control the first character you selected. The others will follow them.
-1356113339	Multiple Waypoints
-1387195571	hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to set multiple waypoints for characters.
+2100745183	Distintivos e Dificuldade
+1881388511	Os distintivos podem ser desbloqueados ao jogar em dificuldade Normal ou superior.
+1816057841	Tipos de Distintivos
+2112292041	Distintivos pequenos são testes de habilidade, como o tempo que leva ou o número de vítimas em um nível. Distintivos grandes exigirão que você jogue níveis da maneira que você não esperava.
+824582774	Gangue do desenvolvedor
+1561875126	Alguns inimigos tem o nome de desenvolvedores. Você vai conseguir encontrar todos eles?
+1154773630	Alterar dificuldade
+512149738	Você não pode mudar de dificuldade enquanto estiver jogando uma missão.
+31059294	Personalizando controles
+1048689626	Você pode personalizar o esquema de controle e várias configurações de jogo no menu de opções.
+1220564156	Seleção múltipla de personagens
+1610317847	Segure <hotkey>{0}</hotkey> e arraste uma caixa sobre todos os personagens que você deseja selecionar. Ou então, segure <hotkey>{1}</hotkey> e clique em <hotkey>{2}</hotkey> em seus respectivos retratos.
+42793480	Enquanto segura <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> para selecionar mais de um personagem ou <hotkey>{2}</hotkey> para selecionar todos os caracteres disponíveis. Você controlará o primeiro personagem que selecionou e os outros o seguirão.
+1356113339	Vários pontos intermediários
+1387195571	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para definir vários pontos intermediários para os personagens.
 2070609971	Modo visão
 878634208	Segure <hotkey>{0}</hotkey> para entrar no Modo Visão e selecione cones inimigos. Enquanto estiver no modo visão, você também pode definir um marcador de cone, exibir zonas de alarme ou usar o avanço rápido para reduzir o tempo de espera.
 765451162	Avanço rápido
