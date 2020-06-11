@@ -354,8 +354,8 @@ Japanese	Japanese
 348832845	DICAS DE CARREGAMENTO
 1514049626	Dicas de ferramentas
 163742262	Todas as habilidades e personagens têm dicas de ferramentas. Eles podem ajudá-lo a descobrir novas estratégias.
-605453809	Nonlethal Melee Attacks
-482668800	All melee attacks have a nonlethal option. Press <hotkey>{0}</hotkey> to switch to nonlethal, or use the modifier in your skill bar.
+605453809	Ataques corpo a corpo não-letais
+482668800	Todos os ataques corpo a corpo têm uma opção não-letal. pressione <hotkey>{0}</hotkey> para mudar para não-letal ou use o modificador na barra de habilidades.
 1798452257	All melee attacks have a nonlethal option. Hold <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
 1907007791	Nonlethal Jump Attacks
 124657665	When your melee attack is switched to nonlethal, jumping down on guards will knock them out instead of killing them.
