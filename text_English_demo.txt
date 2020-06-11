@@ -1519,26 +1519,26 @@ Japanese	Japanese
 31474280	Frente do trem. Parece que conseguimos.
 1036869811	Ainda precisamos da dinamite para limpar o túnel.
 143433601	Isso é fácil. Vamos subir.
-1962487386	That big rock there's looking like it wants to fall.
-1047035443	Sword of Damocles. That there rock is begging to be pushed.
-1665137781	Hey, boneless. You gonna let them boxes keep piling up down here?
-852574330	Hurry up. We need to be movin' on.
-1951044472	Make sure these folks stay where they are.
-841434891	They try anything, shoot 'em all!
-2055157191	You little company shit. Tell me where they put the safes.
-1159849560	I-I-I don't know, miss. I swear.
-1782893817	I know the DeVitt Company has that money on this train. Where is it?
-1514072165	How would I know? They don't tell me nothing.
-993876529	Ain't no use in hiding it from me, honey. My men will find it.
-1144006518	I'm not hiding anything, miss.
-1116280026	The safes. Which wagon? Tell me or I will shoot you in the face.
-382088829	I haven't the slightest idea what you are talking about.
-33456719	I'm losing my patience.
-667736715	Please! Don't!
-439455722	Useless...
-300333351	Find me those goddamn safes, you imbeciles!
-857711144	The money is on that train! I want it, so you better find it!
-762266956	Hurry up you idiots, before the marshals get wind of us!
+1962487386	Aquela pedra grande parece que quer cair.
+1047035443	Espada de Dâmocles. Que a rocha está implorando para ser empurrada.
+1665137781	Ei, sem ossos. Você vai deixar as caixas se acumularem aqui embaixo?
+852574330	Se apresse. Precisamos seguir em frente.
+1951044472	Certifique-se de que essas pessoas não saiam daqui.
+841434891	Eles tentarão de tudo, atiram neles!
+2055157191	Você verme da empresa. Diga-me onde estão os cofres.
+1159849560	Eu-eu-eu não sei, senhorita. Eu juro.
+1782893817	Eu sei que a compãnia DeVitt tem esse dinheiro neste trem. Cadê?
+1514072165	Como eu iria saber? Eles não me dizem nada.
+993876529	Não adianta esconder isso de mim, querido. Meus homens vão encontrar.
+1144006518	Não estou escondendo nada, senhorita.
+1116280026	Os cofres. Qual vagão? Diga-me ou eu vou atirar em você na cara.
+382088829	Eu não tenho a menor idéia do que você está falando.
+33456719	Estou perdendo minha paciência.
+667736715	Por favor! Não!
+439455722	Inútil...
+300333351	Encontre aqueles malditos cofres, seus imbecis!
+857711144	O dinheiro está nesse trem! Então é melhor você encontrá-lo!
+762266956	Apresse-se, seus idiotas, antes que os oficiais descubram!
 1660905154	Quem vê primeiro os cofres recebe um grande bônus!
 925116337	Se você não descarregar esse trem mais rápido, é o último que você verá!
 117746040	Vamos lá, merda! Quero tudo carregado em uma hora.
