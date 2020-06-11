@@ -481,16 +481,16 @@ Japanese	Japanese
 219606787	If you use a distraction in a civil zone and someone witnesses it, that person becomes immune to the distraction.
 800642416	Off Screen Noise Icon
 1716797887	If anyone off screen is in the noise radius of your actions, they will appear as an icon on screen.
-1509223741	Targeting Line
-768965028	If the path of a ranged skill is blocked, the targeting line will become partially red. Skills will only hit their mark if the line is fully green.
-710558629	Character Hotkeys
-1124360782	You can select your characters via hotkeys, which are displayed next to their portraits. Press a hotkey to select a character. Press it again to center the camera on that character.
-461437642	Using Follow Cam
-808795684	Use <hotkey>{0}</hotkey> to make the camera follow your character until you move the camera manually.
-94599441	Follow Cam Modes
-753717552	You can switch Follow Cam modes in the options menu. "Standard" allows for the most player control.
-907376899	Camera Dragging
-2027724162	hold <hotkey>{0}</hotkey> to drag the camera.
+1509223741	Linha da mira
+768965028	Se o caminho de uma habilidade de longo alcance for bloqueado, a linha da mira ficará parcialmente vermelha. As habilidades só atingirão seu objetivo se a linha estiver completamente verde.
+710558629	Teclas de atalho do personagem
+1124360782	Você pode selecionar seus personagens usando os atalhos exibidos ao lado de seus retratos. Pressione uma tecla de atalho para selecionar um personagem. Pressione novamente para focar a câmera nesse personagem.
+461437642	Usando a câmera de rastreio
+808795684	Use <hotkey>{0}</hotkey> para fazer a câmera seguir seu personagem até que você a mova manualmente.
+94599441	Modos câmera de rastreio
+753717552	Você pode alterar o modo da câmera de rastreio no menu de opções. "Padrão" é o que dá ao jogador mais controle.
+907376899	Arrastar câmera
+2027724162	Segure <hotkey>{0}</hotkey> para arrastar a câmera.
 876399661	Faca
 1749163056	Derruba um inimigo à queima-roupa.
 1589031175	Soco
@@ -599,7 +599,7 @@ Japanese	Japanese
 600743980	Centralize a câmera no personagem atualmente selecionado e reposicione-o na rotação recomendada.
 1848674402	Gire no sentido anti-horário
 1807927786	Mantenha o botão pressionado para girar a câmera no sentido anti-horário.
-73412201	Gire na sentido horário
+73412201	Gire no sentido horário
 2017613828	Mantenha o botão pressionado para girar a câmera no sentido horário
 196521541	Ampliar
 1614643182	Amplia a câmera.
