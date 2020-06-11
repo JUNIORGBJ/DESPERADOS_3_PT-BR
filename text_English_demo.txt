@@ -1554,19 +1554,19 @@ Japanese	Japanese
 1975216237	Acho que é o suficiente. Vamos encontrar um local seguro para nos encontrarmos.
 1141150704	Tudo certo. Vamos encontrar um local seguro para nos encontrarmos.
 2003325372	Por mim tudo bem.
-1576105220	Hmm...looks like a picnic. Nothing else. I should get back to the train.
-990742861	Someone had a little picnic here! That's it, though. I better head back up.
-84273769	On second thought, why don't we take a break.
-1698751564	What now? What about the train?
-619299078	All in good time, Mr. Cooper. Now, why don't you try this?
-1840322319	A...cupcake? You serious?
-2006229049	My latest recipe. I'm looking for...volunteers to try it.
-618195600	Uh huh. How many volunteers have survived this recipe of yours.
-1843640598	It's brand new, Mr. Cooper. You'll be the first to try.
-1956162352	Well, no offense, but I think I'll stick to my own rations.
-268397488	Suit yourself.
-1808341550	Hmm... Triple buttercream frosting. A note of macadamia and anise. Finished off by a perfectly balanced strawberry jelly filling.
-1498412873	Damn, a regular cupcake connoisseur. Fine, give me one.
+1576105220	Hmm... parece um piquenique. Nada mais. Eu deveria voltar para o trem.
+990742861	Alguém fez um pequeno piquenique aqui! É isso aí, no entanto. É melhor eu voltar.
+84273769	Pensando bem, por que não fazemos uma pausa.
+1698751564	E agora? E o trem?
+619299078	Tudo a seu tempo, Sr. Cooper. Agora, por que você não tenta isso?
+1840322319	Um cupcake? Está falando sério?
+2006229049	Minha receita mais recente. Estou procurando... voluntários para experimentar.
+618195600	Uh huh. Quantos voluntários sobreviveram a esta receita sua?
+1843640598	É nova, Sr. Cooper. Você é o primeiro.
+1956162352	Bem, não se ofenda, mas acho que prefiro minhas porções.
+268397488	Como quiser.
+1808341550	Hum... Banho de creme de manteiga triplo. Um toque de macadâmia e anis. Coberto com um recheio de geléia de morango perfeitamente equilibrado.
+1498412873	Puxa, uma especialista no assunto. Ok, me dê um.
 1366813644	Receio que esta tenha sido minha única amostra. Você teve sua chance.
 1392707135	Hrm...
 1092787853	Agora, de volta à tarefa em questão.
