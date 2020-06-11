@@ -199,9 +199,9 @@ Japanese	Japonês
 666387157	Alternar avanço rápido
 1162764950	CINEMÁTICA
 1225642196	Deseja assistir à cena novamente?
-1718054198	Salvado rápido
-234100204	Salvado normal
-738261692	Arquivo de salvado obsoleto!
+1718054198	Jogo salvo (Rápido)
+234100204	Jogo salvo (Normal)
+738261692	Arquivo obsoleto!
 753130424	NOVO JOGO
 1238399001	CONFIRMAR
 1063145121	COMEÇAR UM NOVO JOGO?
@@ -358,49 +358,49 @@ Japanese	Japonês
 482668800	Todos os ataques corpo a corpo têm uma opção não-letal. Pressione <hotkey>{0}</hotkey> para mudar para não-letal ou use o modificador na barra de habilidades.
 1798452257	Todos os ataques corpo a corpo têm uma opção não-letal. aguarde <hotkey>{0}</hotkey> para abrir sua roda de personagem e pressione <hotkey>{1}</hotkey> para alternar entre os modos.
 1907007791	Ataques não letais de pulo
-124657665	Quando seu ataque corpo a corpo é mudado para não-letal, Pular para baixo dos guardas os nocauteia em vez de matá-los.
+124657665	Quando seu ataque corpo a corpo é mudado para não-letal, o ataque contra seus guardas o derrubará em vez de matá-los.
 949271593	Movendo corpos mortos
 1671046303	Os personagens movem os corpos de maneira diferente. Alguns focam na velocidade; outros ficam perto do chão para evitar a detecção.
 1628782004	Matar e Carregar
-1344684890	segure <hotkey>{0}</hotkey> ao pedir uma morte corpo a corpo para pegar o corpo automaticamente.
-1476567941	hold <hotkey>{0}</hotkey> during a melee kill to pick up the body automatically.
-520060613	Viewcone Marker
-3333633	Take your time when testing a spot with the Viewcone Marker. Some guards have long patrol routes.
-822402292	Highlighter
-890170653	Press <hotkey>{0}</hotkey> to highlight enemies and interactable objects in the environment.
-63047757	Press <hotkey>{0}</hotkey> to highlight enemies and interactable objects in the environment.
-137001150	Environment Kills
-1981927858	If a guard is killed by a falling object, their death will look like an accident, so no one will raise the alarm.
-1066015511	Enemy Types
-1716596328	Move your cursor over guards to see their enemy type.
-739816734	hold <hotkey>{0}</hotkey> and move your cursor over guards to see their enemy type.
-570427210	Important Objects
-1536012121	Move your cursor over important objects to see their function.
-656570826	hold <hotkey>{0}</hotkey> and move the cursor over interactable objects to see their function.
+1344684890	Segure <hotkey>{0}</hotkey> ao solicitar uma morte corpo a corpo para carregar o corpo automaticamente.
+1476567941	Segure <hotkey>{0}</hotkey> durante uma morte corpo a corpo para carregar o corpo automaticamente.
+520060613	Marcador de cone
+3333633	Não se apresse ao verificar um local com o marcador de cone. Alguns guardas têm longas rotas de patrulha.
+822402292	Marcador
+890170653	Pressione <hotkey>{0}</hotkey> para destacar inimigos e objetos interativos no ambiente.
+63047757	Pressione <hotkey>{0}</hotkey> para destacar inimigos e objetos interativos no ambiente.
+137001150	Mortes pela natureza
+1981927858	Se um guarda for morto pela queda de um objeto, sua morte aparecerá como um acidente e ninguém soará o alarme.
+1066015511	Tipos de inimigos
+1716596328	Passe o mouse sobre os guardas para ver que tipo de inimigo eles são.
+739816734	Segure <hotkey>{0}</hotkey> e passe o mouse sobre os guardas para ver que tipo de inimigo eles são.
+570427210	Objetos importantes
+1536012121	Mova o cursor sobre objetos importantes para ver sua função.
+656570826	Segure <hotkey>{0}</hotkey> e mova o cursor sobre objetos importantes para ver sua função.
 545151036	Girar a câmera
 68323806	Segure <hotkey>{0}</hotkey> e mova o mouse para girar livremente a câmera.
 573759884	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para girar livremente a câmera.
 141599116	Redefinir a câmera
 1856158476	Pressione <hotkey>{0}</hotkey> para centralizar a câmera no personagem selecionado e redefinir o giro da câmera para o padrão.
-490202928	Viewcone Diving
-751421264	Don't be afraid to dive through an enemy's viewcone if necessary. As long as you can get back out fast enough, you will stay undetected.
-1535817616	Viewcone Surfing
-1992853863	Try surfing on an enemy's viewcone to slip by undetected. Follow it as it moves away from you, then quickly get into cover.
-549877002	Hiding Bodies
-1937082586	Hide bodies in bushes, wells or deep water to get rid of them forever.
-1636080378	Toggling Actions
-1155856873	Press <hotkey>{0}</hotkey> to toggle between multiple actions available from your position.
+490202928	Entrar no cone
+751421264	Não tenha medo de entrar no cone de um inimigo se necessário. Contanto que você possa voltar rápido o suficiente e não ser despercebido.
+1535817616	Passar pelo cone
+1992853863	Tente passar pelo cone de um inimigo e não ser percebido. Siga-o à medida que ele se afasta de você e entre rapidamente na cobertura.
+549877002	Corpos Escondidos
+1937082586	Esconda os corpos em arbustos, poços ou águas profundas para se livrar deles para sempre.
+1636080378	Alternando ações
+1155856873	Pressione <hotkey>{0}</hotkey> para alternar entre várias ações disponíveis em sua posição.
 1245857298	Cancelando ações
 890799486	Pressione <hotkey>{0}</hotkey> para que os personagens selecionados parem todas as ações atuais.
 1007969175	Armas de fogo
 1834588216	As armas são muito poderosas, então não tenha medo de usá-las. Mantenha os olhos abertos e encontre caixas de munição.
-1763635777	Shooting Guns
-1226007028	Using firearms skills other than Snipe will make you briefly visible, even while crouching.
+1763635777	Pistolas de tiro
+1226007028	O uso de habilidades de armas de fogo que não sejam o Rifle fará com que você fique rapidamente visível, mesmo agachado.
 1714326839	Seleção rápida
 187751512	Você pode percorrer rapidamente as habilidades pressionando <hotkey>{0}</hotkey>. O mesmo funciona com <hotkey>{1}</hotkey> para personagem.
 264685370	Mover corpos (Hector)
 76879622	Hector pode carregar dois cadáveres ao mesmo tempo, mesmo enquanto corre.
-858462126	Mover corpos (liberação rápida)
+858462126	Mover corpos (Liberar rápida)
 1778643117	Ao carregar um corpo morto, pressione <hotkey>{0}</hotkey> para agachar e soltar imediatamente.
 1824651014	Uso instantâneo de habilidades
 2122441486	Segure <hotkey>{0}</hotkey> para executar rapidamente habilidades que não exigem mira (como a armadilha de Hector).
@@ -1026,19 +1026,19 @@ Japanese	Japonês
 774016983	Mind Control
 111091774	Isabelle can <skill>mind control</skill> enemies./nThey can be ordered to <skill>attack</skill> others and <skill>interact</skill> with objects./nActions of mind controlled guards <skill>never cause alarm</skill>, but should someone see them act <skill>suspiciously</skill>, they will attack.
 1381139210	Isabelle can <skill>mind control</skill> enemies./nThey can be ordered to <skill>attack</skill> others and <skill>interact</skill> with objects./nActions of mind controlled guards <skill>never cause alarm</skill>, but should someone see them act <skill>suspiciously</skill>, they will attack.
-145657864	Jimson Weed
-561717325	Isabelle can use <skill>Jimson Weed</skill> to <skill>heal</skill> herself by pressing {0}.
-637479073	Isabelle can use <skill>Jimson Weed</skill> to <skill>heal</skill> herself by selecting it in the skill wheel and pressing {0}.
-648873026	Connect
-104247868	Isabelle can <skill>connect</skill> any two characters together. What happens to one, happens to the other./nThis opens up many ways to solve a problem, so try experimenting!/n(Note: To break the link, use the skill on someone who is already connected.)
-2127908959	Isabelle can <skill>connect</skill> any two characters together. What happens to one, happens to the other./nThis opens up many ways to solve a problem, so try experimenting!/n(Note: To break the link, use the skill on someone who is already connected.)
+145657864	Estramônio
+561717325	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma pressionando {0}.
+637479073	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma selecionando-a na roda de habilidades e pressionando {0}.
+648873026	Conectar
+104247868	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar o conecção, use a habilidade de alguém que já esteja conectado).
+2127908959	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar o conecção, use a habilidade de alguém que já esteja conectado).
 1527846203	Stella
-369625641	Isabelle can send her cat <skill>Stella</skill> to distract an enemy for a few seconds.
-403734131	Isabelle can send her cat <skill>Stella</skill> to distract an enemy for a few seconds.
-389584167	Footprints
-970518927	You will leave footprints in wet mud or sand. Guards will follow your tracks, so be careful.
-1446458937	Shallow Water
-97485671	Moving through shallow water will create noise, so be careful./nRunning creates more noise than crouching or walking.
+369625641	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
+403734131	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
+389584167	Pegadas
+970518927	Você deixará pegadas na lama ou na areia molhada. Os guardas seguirão seus rastros, por isso tome cuidado.
+1446458937	Águas rasas
+97485671	Mover-se em águas rasas criará ruído, portanto tenha cuidado./nCorrer cria mais ruído do que agachar-se ou caminhar.
 1057120260	Mover câmera /n {0}
 1268121818	Mover câmera/n {0}
 1997712746	Mover /n {0}
@@ -16484,9 +16484,9 @@ Japanese	Japonês
 196638402	Patch {0}
 1461177830	Patch {0} is now in effect. Any old mid-mission savegames are now deprecated. Overall game progress remains unaffected. We apologize for the inconvenience.
 1323449760	Patch {0} is now in effect. Any old mid-mission savegames are now deprecated. To convert a deprecated savegame to the latest patch, load it from the save menu and follow the instructions. Overall game progress remains unaffected.
-2094963165	Savegame Conversion
-1806897290	This savegame is deprecated. Loading it will convert it to the latest version. Your mission progress will be reconstructed as closely as possible. The folling things will happen:/n{0} Mission progress, meaning mission objectives that have been unlocked or completed, will be restored./n{0} All NPCs that were killed or tied-up will be removed from the level, except mission targets./n{0} Player characters will be moved to positions where they are safely hidden.
-940139063	This savegame is deprecated. Loading it will convert it to the latest version. Please follow the instructions after loading is complete.
+2094963165	Conversão de Jogo salvo
+1806897290	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Seu progresso na missão será reconstruído o mais fielmente possível. O seguinte acontecerá: /n{0} O progresso da missão, ou seja os objetivos da missão que foram desbloqueados ou concluídos, serão redefinidos. /n{0} Todos os NPCs mortos ou amarrados serão removidos do nível, exceto os objetivos da missão /n{0} Os personagens do jogador passarão para as posições em que estão ocultos e seguros.
+940139063	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Siga as instruções após a conclusão do carregamento.
 1332558385	Savegame Reconstruction
 1535299939	Your savegame will now be reconstructed as closely as possible. Press the button and the following things will happen:/n{0} Mission progress, meaning mission objectives that have been unlocked or completed, will be restored./n{0} All NPCs that were killed or tied-up will be removed from the level, except mission targets./n{0} Player characters will be moved to positions where they are safely hidden./nEnjoy the show!
 580926496	Hey partner! Looks like the old patch hammer has hit this savegame of yours pretty hard. Guess it falls to us to put the poor thing back together. So why don't we have a little fun with that?
