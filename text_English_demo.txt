@@ -465,22 +465,22 @@ Japanese	Japanese
 42793480	While holding <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> to select more than one character, or <hotkey>{2}</hotkey> to select all available characters. You will control the first character you selected. The others will follow them.
 1356113339	Multiple Waypoints
 1387195571	hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to set multiple waypoints for characters.
-2070609971	Vision Mode
-878634208	hold <hotkey>{0}</hotkey> to enter Vision Mode and select enemy viewcones. While in Vision Mode, you can also set a Viewcone Marker, display Alarm Zones or use Fast Forward to shorten your waiting time.
-765451162	Fast Forward
-1546069925	hold <hotkey>{0}</hotkey> to fast forward gameplay.
-255324182	hold <hotkey>{0}</hotkey> and <hotkey>{1}</hotkey> to fast forward gameplay.
-1188458775	Alarm Zones
-2056027763	Use <hotkey>{0}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
-260850587	hold <hotkey>{0}</hotkey> and use <hotkey>{1}</hotkey> to display Alarm Zones and highlight Guard Houses. If there is a Guard House in a zone, reinforcements will come from there during an alarm. If there is no Guard House, the zone is colored gray.
-1830410793	Talking Guards and Distractions
-886347188	If two guards are talking and one of them is immune to certain distractions, both are immune. For instance, if you try to lure away a Thug who's talking to a Poncho, the Poncho will hold him back.
-66646900	Healing Skills
-1806946441	Healing Skills like McCoy's bandages have unlimited ammo, but take some time to apply. It's best to use them when the coast is clear.
-1379027361	Distractions in Civil Zones
-219606787	If you use a distraction in a civil zone and someone witnesses it, that person becomes immune to the distraction.
-800642416	Off Screen Noise Icon
-1716797887	If anyone off screen is in the noise radius of your actions, they will appear as an icon on screen.
+2070609971	Modo visão
+878634208	Segure <hotkey>{0}</hotkey> para entrar no Modo Visão e selecione cones inimigos. Enquanto estiver no modo visão, você também pode definir um marcador de cone, exibir zonas de alarme ou usar o avanço rápido para reduzir o tempo de espera.
+765451162	Avanço rápido
+1546069925	Segure <hotkey>{0}</hotkey> para avançar rapidamente o jogo.
+255324182	segure <hotkey>{0}</hotkey> e <hotkey>{1}</hotkey> para avançar rapidamente o jogo.
+1188458775	Zonas de alarme
+2056027763	Use <hotkey>{0}</hotkey> para exibir as zonas de alarme e realçar Casas de guarda. Se houver uma casa de guarda em uma zona, reforços virão de lá durante um alarme. Se não houver Guarda, a zona será cinza.
+260850587	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para exibir Zonas de alarme e realçar Casas de Guarda. Se houver uma casa de guarda em uma zona, reforços virão de lá durante um alarme. Se não houver Guarda, a zona será cinza.
+1830410793	Guardas falantes e distrações
+886347188	Se dois guardas estiver conversando e um deles é imune a certas distrações, ambos são imunes. Por exemplo, se você tentar atrair um bandido que esteja conversando com um poncho, o poncho o segurará.
+66646900	Habilidades de Cura
+1806946441	Habilidades de cura como as bandagens de McCoy têm munição ilimitada, mas levam tempo para serem aplicadas. É melhor usá-los quando não estiver em ataque.
+1379027361	Distrações em zonas civis
+219606787	Se você usar uma distração em uma zona civil e alguém a testemunhar, essa pessoa fica imune à distração.
+800642416	Ícone de ruído fora da tela
+1716797887	Se alguém fora da tela estiver dentro do raio de ruído de suas ações, elas aparecerão como um ícone na tela.
 1509223741	Linha da mira
 768965028	Se o caminho de uma habilidade de longo alcance for bloqueado, a linha da mira ficará parcialmente vermelha. As habilidades só atingirão seu objetivo se a linha estiver completamente verde.
 710558629	Teclas de atalho do personagem
