@@ -396,34 +396,34 @@ Japanese	Japanese
 1834588216	Guns are very powerful, so don't be afraid to use them. Keep your eyes out for ammo crates.
 1763635777	Shooting Guns
 1226007028	Using firearms skills other than Snipe will make you briefly visible, even while crouching.
-1714326839	Quickselect
-187751512	You can quickly cycle through skills by pressing <hotkey>{0}</hotkey>. The same works with <hotkey>{1}</hotkey> for characters.
-264685370	Moving Bodies (Hector)
-76879622	Hector can carry two dead bodies at once, even while running.
-858462126	Moving Bodies (Quickdrop)
-1778643117	When carrying a dead body, press <hotkey>{0}</hotkey> to crouch and drop it immediately.
-1824651014	Instant Skill Use
-2122441486	hold down <hotkey>{0}</hotkey> to quickly execute skills that don't require aiming (like Hector's trap).
-1607957211	UI Customization
-2063046262	You can customize the UI in the options menu and switch off elements like the Save Reminder.
-243581491	Ammo Crates
-1372447036	If you need bullets or other forms of ammo, look for supply crates in the environment.
-1971425251	Long Coats
-821076907	Long Coats are immune to certain attacks, like Cooper's knife, McCoy's KO gas and Hector's bear trap.
-1119380193	Long Coats' Health
-988394871	Long Coats have three points of health. If push comes to shove, you can burst them down with gunfire.
-1235072996	Footprints as Lures
-734938354	When walking through mud, you can use your footprints to lure enemies into traps or ambushes.
-822878847	Footprints and Escape
-1971769156	If a guard follows your footprints, you can climb ladders or go through buildings to cut off your tracks.
-1050777356	Putting out Lights
-63767177	You can put out small light sources like lamps and torches. Guards will relight them when they see them. 
-1615453610	Bodies as Lures
-126865505	You can use a dead body to lure another guard to their doom. Just make sure you take them out before they raise the alarm.
-1685026057	Arcing Flight Paths
-1810398782	Some skills travel in an arc, which means they can be used from cover and pass over obstacles.
-863688220	Straight Flight Paths
-638419450	Some skills travel in a straight line. If the target is blocked from view, your character will search for a better spot to use the skill.
+1714326839	Seleção rápida
+187751512	Você pode percorrer rapidamente as habilidades pressionando <hotkey>{0}</hotkey>. O mesmo funciona com <hotkey>{1}</hotkey> para personagem.
+264685370	Mover corpos (Hector)
+76879622	Hector pode carregar dois cadáveres ao mesmo tempo, mesmo enquanto corre.
+858462126	Mover corpos (liberação rápida)
+1778643117	Ao carregar um corpo morto, pressione <hotkey>{0}</hotkey> para agachar e soltar imediatamente.
+1824651014	Uso instantâneo de habilidades
+2122441486	Segure <hotkey>{0}</hotkey> para executar rapidamente habilidades que não exigem mira (como a armadilha de Hector).
+1607957211	Personalização da interface do usuário
+2063046262	Você pode personalizar a interface do usuário no menu de opções e desativar elementos como o lembrete para salvar.
+243581491	Caixas de munição
+1372447036	Se você precisar de balas ou outras formas de munição, procure caixas de suprimentos no jogo.
+1971425251	Casacos Longos
+821076907	Os casacos longos são imunes a certos ataques, como a faca de Cooper, o gás KO de McCoy e a armadilha de urso de Hector.
+1119380193	Saúde dos Casacos Longos
+988394871	Casacos Longos tem três pontos de saúde. Se houver um empurrão, você pode derrubá-los com tiros.
+1235072996	Pegadas como iscas
+734938354	Ao andar na lama, você pode usar suas pegadas para atrair inimigos para armadilhas ou emboscadas.
+822878847	Pegadas e Fuga
+1971769156	Se um guarda seguir suas pegadas, você pode subir escadas ou atravessar edifícios para cortar suas pegadas.
+1050777356	Apagando luzes
+63767177	Você pode colocar pequenas fontes de luz, como lâmpadas e tochas. Os guardas os reacenderão quando os virem. 
+1615453610	Corpos como iscas
+126865505	Você pode usar um cadáver para atrair outro guarda para a desgraça. Apenas certifique-se de tirá-los antes que eles disparem o alarme.
+1685026057	Trajetos em arco
+1810398782	Algumas habilidades viajam em um arco, o que significa que podem ser usadas sob cobertura e passar por obstáculos.
+863688220	Trajetos direto
+638419450	Algumas habilidades têm um Trajeto reto. Se você não conseguir ver bem o alvo, seu personagem encontrará um lugar melhor para usar a habilidade.
 298907312	Detecção de isca
 1903469107	O primeiro guarda que detectar uma isca (como a mala de McCoy) deixará o posto para recolhê-la, mesmo que outros possam vê-la. Patrulhas sempre andam juntas.
 778842893	Edifícios ocupados
