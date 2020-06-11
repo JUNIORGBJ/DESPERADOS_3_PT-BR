@@ -1,13 +1,13 @@
-English	English
-German	German
-Chinese	Chinese
-French	French
-Italian	Italian
-Spanish	Spanish
-Russian	Russian
-Korean	Korean
-Polish	Polish
-Japanese	Japanese
+English	Inglês
+German	Alemão
+Chinese	Chinês
+French	Francês
+Italian	Italiano
+Spanish	Espanhol
+Russian	Russo
+Korean	Coreano
+Polish	Polonês
+Japanese	Japonês
 
 1089572441	Selecionar personagem
 326908463	Cancelar seleção de personagem
@@ -354,15 +354,15 @@ Japanese	Japanese
 348832845	CARREGAR DICAS
 1514049626	Dicas das ferramentas
 163742262	Todos os personagens e habilidades têm dicas que ajudam a descobrir novas estratégias.
-605453809	Nonlethal Melee Attacks
-482668800	All melee attacks have a nonlethal option. Press <hotkey>{0}</hotkey> to switch to nonlethal, or use the modifier in your skill bar.
-1798452257	All melee attacks have a nonlethal option. hold <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
-1907007791	Nonlethal Pular Attacks
-124657665	When your melee attack is switched to nonlethal, Pularing down on guards will knock them out instead of killing them.
-949271593	Moving Dead Bodies
-1671046303	Characters move dead bodies differently. Some focus on speed; others keep close to the ground to avoid detection.
-1628782004	Kill & Carry
-1344684890	hold <hotkey>{0}</hotkey> when ordering a melee kill to pick up the body automatically.
+605453809	Ataques corpo a corpo não-letais
+482668800	Todos os ataques corpo a corpo têm uma opção não-letal. Pressione <hotkey>{0}</hotkey> para mudar para não-letal ou use o modificador na barra de habilidades.
+1798452257	Todos os ataques corpo a corpo têm uma opção não-letal. aguarde <hotkey>{0}</hotkey> para abrir sua roda de personagem e pressione <hotkey>{1}</hotkey> para alternar entre os modos.
+1907007791	Ataques não letais de pulo
+124657665	Quando seu ataque corpo a corpo é mudado para não-letal, Pular para baixo dos guardas os nocauteia em vez de matá-los.
+949271593	Movendo corpos mortos
+1671046303	Os personagens movem os corpos de maneira diferente. Alguns focam na velocidade; outros ficam perto do chão para evitar a detecção.
+1628782004	Matar e Carregar
+1344684890	segure <hotkey>{0}</hotkey> ao pedir uma morte corpo a corpo para pegar o corpo automaticamente.
 1476567941	hold <hotkey>{0}</hotkey> during a melee kill to pick up the body automatically.
 520060613	Viewcone Marker
 3333633	Take your time when testing a spot with the Viewcone Marker. Some guards have long patrol routes.
