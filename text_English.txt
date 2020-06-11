@@ -102,7 +102,7 @@ Japanese	Japanese
 1677804019	Nova dica! {0}
 47952872	Objetivos atualizados! {0}
 171506482	Distrair
-1117636783	Atrair
+1117636783	Isca
 525698574	Modo de dificuldade:
 2001539196	Avanço rápido
 2074698804	Execução individual
@@ -424,32 +424,32 @@ Japanese	Japanese
 1810398782	Some skills travel in an arc, which means they can be used from cover and pass over obstacles.
 863688220	Straight Flight Paths
 638419450	Some skills travel in a straight line. If the target is blocked from view, your character will search for a better spot to use the skill.
-298907312	Lure Detection
-1903469107	The first guard that spots a lure (like McCoy's suitcase) will leave their post to collect it, even if others can see it as well. Patrols always move together.
-778842893	Occupied Buildings
-1438210843	Your characters can't enter buildings with enemies inside.
-470739778	Running Away
-1020868379	Enemies can't climb vines or Pular over gaps. Use these advantages when trying to escape.
-1108269139	Corner of the Eye
-1137613639	Enemies can detect you from the corners of their eyes if you stand next to them for too long.
-1338931543	Lamps as Lures
-509385294	You can use extinguished lamps to lure enemies into traps or ambushes.
-158140971	Guards With Lamps
-1255254891	If you take out a guard with a ranged attack, the lamp they carry won't go out. Move close to the lamp to extinguish it.
-2070314948	Civilians
-210762969	Hostile civilians won't attack you, but if they see you break the law, they will run away and fetch the nearest guard.
-2142535667	Showdown Mode
-2088413710	Showdown Mode is a powerful tool for setting up simultaneous actions. Try it out if you're stuck on a challenge.
-934714147	Showdown Mode Snipe
-312206160	When using Showdown Mode, don't forget McCoy. His Snipe requires little setup and can take out enemies from a safe distance.
-2119107841	Showdown Mode Cat
-1433267486	When using Showdown Mode, Isabelle's cat will wait next to its target so the action can be executed without delay.
-269943082	Golden Bullet
-410699328	McCoy will always save an extra bullet for mission objectives. Don't worry about failing a mission because you ran out of bullets.
-1568979145	Taking off the Disguise
-471953919	hold <hotkey>{0}</hotkey> to manually take off Kate's disguise.
-1773294443	Unlocking Badges
-1758401545	Unlock badges by performing certain feats or playing missions under certain conditions.
+298907312	Detecção de isca
+1903469107	O primeiro guarda que detectar uma isca (como a mala de McCoy) deixará o posto para recolhê-la, mesmo que outros possam vê-la. Patrulhas sempre andam juntas.
+778842893	Edifícios ocupados
+1438210843	Seus personagens não podem entrar em edifícios com inimigos dentro.
+470739778	Fugindo
+1020868379	Os inimigos não podem escalar trepadeiras ou saltar buracos. Use essas vantagens ao tentar fugir.
+1108269139	Canto dos olhos
+1137613639	Os inimigos podem detectá-lo pelos cantos dos olhos, se você ficar ao lado deles por muito tempo.
+1338931543	Lâmpadas como iscas
+509385294	Você pode usar lâmpadas extintas para atrair inimigos para armadilhas ou emboscadas.
+158140971	Guardas com lâmpadas
+1255254891	Se você matar um guarda com um ataque à distância, a lâmpada que ele carrega não se apagará. Aproxime-se da lâmpada para apagá-la.
+2070314948	Civis
+210762969	Os civis hostis não o atacarão, mas se o virem infringir a lei, eles fugirão e buscarão o guarda mais próximo.
+2142535667	Modo Duelo
+2088413710	O modo duelo é uma ferramenta poderosa para executar ações simultâneas. Experimente se você estiver preso a um desafio.
+934714147	Rifle no Modo Duelo
+312206160	Ao usar o Modo duelo, não se esqueça de McCoy. Seu Rifle requer pouca configuração e pode derrotar os inimigos a uma distância segura.
+2119107841	Gato do Modo Duelo
+1433267486	Ao usar o Modo Duelo, o gato de Isabelle esperará próximo ao seu alvo para que a ação possa ser executada sem demora.
+269943082	Bala dourada
+410699328	McCoy sempre salva uma bala extra para os objetivos da missão. Não se preocupe em falhar em uma missão porque você ficou sem balas.
+1568979145	Tirar o disfarce
+471953919	Segure <hotkey>{0}</hotkey> para tirar manualmente o disfarce de Kate.
+1773294443	Desbloquear distintivos
+1758401545	Desbloqueie distintivos executando certos feitos ou jogando missões sob certas condições.
 2100745183	Distintivos e Dificuldade
 1881388511	Os distintivos podem ser desbloqueados ao jogar em dificuldade Normal ou superior.
 1816057841	Tipos de Distintivos
