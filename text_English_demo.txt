@@ -171,7 +171,7 @@ Japanese	Japanese
 919197944	CARREGAR
 1273710227	SAIR DO JOGO
 1261996133	REINICIAR
-1680915354	Deseja realmente sair para o Desktop?
+1680915354	Deseja realmente sair para a Área de trabalho?
 1228739812	Carregamento rápido
 194751495	VÍDEO
 742750455	JOGABILIDADE
@@ -353,7 +353,7 @@ Japanese	Japanese
 310268606	Legendas
 348832845	CARREGAR DICAS
 1514049626	Dicas das ferramentas
-163742262	Todos os personagens e habilidades têm notas pop-up que ajudam a descobrir novas estratégias.
+163742262	Todos os personagens e habilidades têm dicas que ajudam a descobrir novas estratégias.
 605453809	Nonlethal Melee Attacks
 482668800	All melee attacks have a nonlethal option. Press <hotkey>{0}</hotkey> to switch to nonlethal, or use the modifier in your skill bar.
 1798452257	All melee attacks have a nonlethal option. hold <hotkey>{0}</hotkey> to open your character wheel and press <hotkey>{1}</hotkey> to switch between modes.
