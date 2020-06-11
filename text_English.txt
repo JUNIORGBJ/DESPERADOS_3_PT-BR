@@ -400,7 +400,7 @@ Japanese	Japonês
 187751512	Você pode percorrer rapidamente as habilidades pressionando <hotkey>{0}</hotkey>. O mesmo funciona com <hotkey>{1}</hotkey> para personagem.
 264685370	Mover corpos (Hector)
 76879622	Hector pode carregar dois cadáveres ao mesmo tempo, mesmo enquanto corre.
-858462126	Mover corpos (Liberar rápida)
+858462126	Mover corpos (Liberar rápido)
 1778643117	Ao carregar um corpo morto, pressione <hotkey>{0}</hotkey> para agachar e soltar imediatamente.
 1824651014	Uso instantâneo de habilidades
 2122441486	Segure <hotkey>{0}</hotkey> para executar rapidamente habilidades que não exigem mira (como a armadilha de Hector).
@@ -1008,24 +1008,24 @@ Japanese	Japonês
 488427544	Kate has an unlimited supply of <skill>Perfume Vials</skill>. One vial temporarily blinds all <skill>guards</skill> in range./nThis is one of the few abilities that has its full effect on all guard types, including <skill>Long Coats</skill> and <skill>Ponchos</skill>.
 896736163	Knockout
 1968621861	Kate only knocks out guards and has <skill>no lethal</skill> takedown./nShe also doesn't carry any rope to tie them up, so be careful: They will wake up again.
-1385813891	Flirt
-1705470805	Kate can <skill>flirt</skill> with <skill>guards</skill> to distract them./nFlirting with a guard will make them turn in Kate's direction for as long as she wishes./nUse {0} to select the skill, then select your target.
-1629591389	Kate can <skill>flirt</skill> with <skill>guards</skill> to distract them./nFlirting with a guard will make them turn in Kate's direction for as long as she wishes./nStep close to a guard and press {0} to start flirting.
-137511216	Light Sources
-758335557	Some <skill>light sources</skill> can be <skill>snuffed out</skill>. If guards see extinguished lights, they will go relight them.
-630348001	Oil Traps
-966811184	<skill>Oil traps</skill> can be set on fire, which kills everyone in range without raising the alarm./n Grab a <skill>torch</skill> from one of the large bonfires and throw it into the oil./nCareful: Carrying a torch makes you visible, and entering bushes snuffs out the torch.
-229242698	<skill>Oil traps</skill> can be set on fire, which kills everyone in range without raising the alarm./n Grab a <skill>torch</skill> from one of the large bonfires and throw it into the oil./nCareful: Carrying a torch makes you visible, and entering bushes snuffs out the torch.
-39295875	Kate's Disguise
-508374419	Once Kate has picked up a <skill>disguise</skill>, she can put it on by pressing {0}./nWhile disguised, she can traverse enemy territory almost <skill>undetected</skill>./n<skill>Long Coats</skill> and <skill>dogs</skill> will see through the disguise.
-966230627	Once Kate has picked up a <skill>disguise</skill>, she can put it on by selecting it in the skill wheel and pressing {0}.While disguised, she can traverse enemy territory almost <skill>undetected</skill>./n<skill>Long Coats</skill> and <skill>dogs</skill> will see through the disguise.
-1247916034	Dogs
-384432610	<skill>Dogs</skill> can sniff out characters even when they are hiding in bushes or behind cover./nOnce they detect a character, they will attack and start <skill>barking</skill>, which attracts other guards./n<skill>Dogs</skill> also detect Kate, even if she is wearing a disguise.
-1542545570	Derringer
-589642151	Kate can use her derringer to shoot guards./nThe range is very low, but so is the noise…
-774016983	Mind Control
-111091774	Isabelle can <skill>mind control</skill> enemies./nThey can be ordered to <skill>attack</skill> others and <skill>interact</skill> with objects./nActions of mind controlled guards <skill>never cause alarm</skill>, but should someone see them act <skill>suspiciously</skill>, they will attack.
-1381139210	Isabelle can <skill>mind control</skill> enemies./nThey can be ordered to <skill>attack</skill> others and <skill>interact</skill> with objects./nActions of mind controlled guards <skill>never cause alarm</skill>, but should someone see them act <skill>suspiciously</skill>, they will attack.
+1385813891	Flerte
+1705470805	Kate pode <skill>flertar</skill> com <skill>guardas</skill> para distraí-los./nFlertar com um guarda fará com que eles se voltem na direção de Kate pelo tempo que desejar./nUse {0} para selecionar a habilidade e selecione seu alvo.
+1629591389	Kate pode <skill>flertar</skill> com <skill>guardas</skill> para distraí-los./nFlertar com um guarda fará com que eles se voltem na direção de Kate pelo tempo que desejar./nAproxime-se de um guarda e pressione {0} para começar a flertar.
+137511216	Fontes de luz
+758335557	Algumas <skill>fontes de luz</skill> podem ser <skill>eliminadas</skill>. Se os guardas virem luzes apagadas, eles irão reacendê-las.
+630348001	Armadilhas de óleo
+966811184	As <skill>armadilhas de óleo</skill> podem ser incendiadas, o que mata todos ao alcance sem disparar o alarme./n Pegue uma <skill>tocha</skill> de uma das grandes fogueiras e jogue-a no óleo. /nCuidado: Carregar uma tocha o torna visível e ao entrar em arbustos a tocha é se apaga.
+229242698	As <skill>armadilhas de óleo</skill> podem ser incendiadas, o que mata todos ao alcance sem disparar o alarme./n Pegue uma <skill>tocha</skill> de uma das grandes fogueiras e jogue-a no óleo. /nCuidado: Carregar uma tocha o torna visível e ao entrar em arbustos a tocha é se apaga.
+39295875	Disfarce de Kate
+508374419	Depois que Kate pegar um <skill>disfarce</skill>, ela poderá colocá-lo pressionando {0}./nEnquanto disfarçada, ela pode atravessar o território inimigo quase <skill>não detectada</skill>./n<skill>Casacos Longos</skill> e <skill>cães</skill> verão o disfarce.
+966230627	Depois que Kate pegar um <skill>disfarce</skill>, ela pode vesti-lo selecionando-a na roda de habilidades e pressionando {0}.Enquanto disfarçada, ela pode atravessar o território inimigo quase <skill>não detectada</skill>./n<skill>Casacos longos</skill> e <skill>cães</skill> verão através do disfarce.
+1247916034	Cães
+384432610	Os <skill>Cães</skill> podem farejar personagens, mesmo quando estão escondidos em arbustos ou esconderijos./nUma vez que detectam um personagem, eles atacam e começam a <skill>latir</skill>, o que atrai outros guardas./n <skill>Cães</skill> também detectam Kate, mesmo que ela esteja usando um disfarce.
+1542545570	Espingarda
+589642151	Kate pode usar a espingarda para atirar nos guardas./nO alcance é muito baixo, mas o barulho também…
+774016983	Controle mental
+111091774	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e </skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
+1381139210	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e </skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
 145657864	Estramônio
 561717325	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma pressionando {0}.
 637479073	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma selecionando-a na roda de habilidades e pressionando {0}.
