@@ -390,10 +390,10 @@ Japanese	Japanese
 1937082586	Hide bodies in bushes, wells or deep water to get rid of them forever.
 1636080378	Toggling Actions
 1155856873	Press <hotkey>{0}</hotkey> to toggle between multiple actions available from your position.
-1245857298	Canceling Actions
-890799486	Press <hotkey>{0}</hotkey> to have your selected character(s) stop all current actions.
-1007969175	Guns and Ammo
-1834588216	Guns are very powerful, so don't be afraid to use them. Keep your eyes out for ammo crates.
+1245857298	Cancelando ações
+890799486	Pressione <hotkey>{0}</hotkey> para que os personagens selecionados parem todas as ações atuais.
+1007969175	Armas de fogo
+1834588216	As armas são muito poderosas, então não tenha medo de usá-las. Mantenha os olhos abertos e encontre caixas de munição.
 1763635777	Shooting Guns
 1226007028	Using firearms skills other than Snipe will make you briefly visible, even while crouching.
 1714326839	Seleção rápida
