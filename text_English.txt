@@ -6388,20 +6388,20 @@ Japanese	Japonês
 1088558381	Yeah, easy.
 812437	Looks good.
 1972930152	Finished.
-2033983444	Done.
-163097087	Okay, done.
+2033983444	Feito.
+163097087	Ok, Feito.
 645853118	Looks good.
 1075145662	There we go.
 1528963876	One less to worry about.
 1028732958	Don't take it personal.
 375455705	See you later.
 328017432	Scratch one.
-563001922	It's done.
+563001922	Está feito.
 1346151110	Whoops. Didn't want that.
 1422626252	Oh... Guess I slipped up.
 779073806	Sorry. Didn't mean that.
 1626437522	Scratch one.
-1984845537	It's done.
+1984845537	Está feito.
 1616063596	See you.
 1960974127	Sleep tight.
 1268855220	Sorry about that...
@@ -6506,19 +6506,19 @@ Japanese	Japonês
 1081206873	...!
 710425053	...!
 644774491	...!
-1983471431	...! Whoa!
+1983471431	...! Uau!
 1574642676	...
 1970645401	...
 263552902	...
 264699258	...!
 788265076	...!
-660055	Come on...!
-1876989918	Let's make it quick.
-2019227577	Knife will do.
-823057789	Huh... Needs sharpening.
-1534900751	I'll make it quick.
-1987268729	It's simple.
-375491663	Kept it sharp.
+660055	Vamos...!
+1876989918	Vamos fazer rápido.
+2019227577	A faca vai servir.
+823057789	Humm... Preciso afiar.
+1534900751	Eu vou fazer rápido.
+1987268729	É simples.
+375491663	Mantenho afiado.
 1815836624	...!
 256976524	...!
 1179149669	...!
@@ -6616,11 +6616,11 @@ Japanese	Japonês
 1532062464	...! Stop that.
 727765430	...! Oh fuck!
 1762145650	...! Come on!
-1304299945	All right, thanks.
-102752461	Works better than I thought.
-1616576476	Where'd you get these?
-664640296	Thanks.
-937545552	Thank you.
+1304299945	Tudo bem, obrigado.
+102752461	Funciona melhor do que eu pensava.
+1616576476	Onde você conseguiu isso?
+664640296	Obrigado.
+937545552	Obrigado.
 684673124	Fuse is lit!
 1391455837	Lit up.
 696313527	Gotta get rid of it fast.
@@ -6679,74 +6679,74 @@ Japanese	Japonês
 432826438	Food for thought I'd say.
 1344111692	Hey now. hold yer horses.
 745634994	Think the headache's getting worse.
-942041567	What? Who did that?
-1226787952	Okay, keep it together, Cooper.
-559462246	This ain't no joke.
-1099326977	You better focus.
+942041567	O que? Quem fez isso?
+1226787952	Ok, mantenha-se junto, Cooper.
+559462246	Isso não é brincadeira.
+1099326977	É melhor se concentrar.
 2057283385	I ain't got time for this.
-336239423	I'm gonna ignore you.
-300773328	Really? Now?
-1718684240	Come on, this ain't funny.
-425280255	Can we do this later?
-1842192593	Jackass.
-480409856	I'm here, amigo.
-1097837558	Yes, I'm ready!
+336239423	Eu vou te ignorar.
+300773328	Sério? Agora?
+1718684240	Vamos lá, isso não é engraçado.
+425280255	Podemos fazer isso mais tarde?
+1842192593	Burro.
+480409856	Eu estou aqui, amigo.
+1097837558	Sim, estou pronto!
 250669976	Huh?
-1948394836	What's the plan?
-1812682509	Let's get moving, amigo.
-1649365626	Just getting started.
-827492020	Hector's here.
-1640008382	Let's punch it.
+1948394836	Qual o plano?
+1812682509	Vamos nos mexer, amigo.
+1649365626	Apenas começando.
+827492020	Hector aqui.
+1640008382	Vamos dar socos. 
 1042687607	Heh heh.
-672809010	Time to go.
-126408856	Relax, amigo.
-640186093	No danger here.
-947911949	Where's the action?
-2082370856	Let's get back to the action.
-1528949067	Nothing to see here.
-440642314	What? I'm calm.
-103917801	I'm just getting started.
-110527718	This town's going to shit.
-649910531	I hate these guys.
-363673124	Who's next?
-24755886	Good to see you, amigo.
-1663725028	Just like old times, eh amigo?
-1473976259	Heh, just what I need.
-494176017	You ready, amigo?
-1571304132	Come on, it'll be fun.
-753589059	You enjoying yourself yet, Cooper?
-1475684903	They won't see us coming.
-261285234	We're not done yet, amigo.
-235193763	Nobody messes with Hector.
-1913867920	Heh, let's go hunting.
-2028406679	Leave the big guys to me.
+672809010	Hora de ir.
+126408856	Relaxa, amigo.
+640186093	Não há perigo aqui.
+947911949	Onde está a ação?
+2082370856	Vamos voltar à ação.
+1528949067	Nada para ver aqui.
+440642314	O que? Estou calmo.
+103917801	Estou apenas começando.
+110527718	Esta cidade está ficando uma merda.
+649910531	Eu odeio esses caras.
+363673124	Quem é o próximo?
+24755886	Bom te ver, amigo.
+1663725028	Assim como nos velhos tempos, eh amigo?
+1473976259	Sim, exatamento o que eu preciso.
+494176017	Você está pronto, amigo?
+1571304132	Vamos lá, vai ser divertido.
+753589059	Você está se divertindo ainda, Cooper?
+1475684903	Eles não vão nos ver chegando.
+261285234	Ainda não terminamos, amigo.
+235193763	Ninguém mexe com Hector.
+1913867920	Sim,  vamos caçar.
+2028406679	Deixe os grandões comigo.
 1085046995	These company jerks are getting on my nerves.
-1578894012	Heh, they got no idea.
-1433057037	Bianca is hungry.
+1578894012	Sim, eles não fazem ideia.
+1433057037	Bianca está com fome.
 580042502	Bwah. Wet beard.
-333168304	Good weather for a hunt.
-1651356698	Nobody screws with my friends.
-1673905838	I'm gonna win this bet.
-809902952	Uh, how many?
-1573782110	Shit, lost my count.
-101827146	Hah, just in time.
-840900471	Let's clear a way.
-614258468	Shit, this place is huge.
-327565094	Yeah... Ready.
-1375981047	Ouh... Hector's ready.
-584563007	Not so loud.
-121229745	Okay... I'm lost.
-217950412	What? Uh, yeah.
-423220322	Keep it together, hombre.
-1410043925	Bianca needs me.
+333168304	Bom tempo para uma caçada.
+1651356698	Ninguém brinca com meus amigos.
+1673905838	Vou ganhar esta aposta.
+809902952	Uh, Quantos?
+1573782110	Merda, perdi as contas.
+101827146	Hah, Bem a tempo.
+840900471	Vamos abrir um caminho.
+614258468	Merda, esse lugar é enorme.
+327565094	Sim... Pronto.
+1375981047	Ouh... Hector está pronto.
+584563007	Não tão alto.
+121229745	Ok... Estou perdido.
+217950412	O que? Sim.
+423220322	Mantenha-se junto, hombre.
+1410043925	Bianca precisa de mim.
 2610475	Bastards shot up our boat.
 1990159601	I'm gonna rip these assholes a new one.
-1105635547	Bianca wants revenge.
-1584913950	Nobody puts Hector in a cage.
-309149042	Any idea where we are?
-284337048	Bianca doesn't like swimming.
-40588927	Heh heh, it's payback time.
-38007557	I'm gonna trash this place.
+1105635547	Bianca quer vingança.
+1584913950	Ninguém coloca Hector em uma cela.
+309149042	Alguma idéia de onde estamos?
+284337048	Bianca não gosta de nadar.
+40588927	Heh heh, é hora da vingança.
+38007557	Eu vou estragar este lugar.
 469394834	Pfuah... Swamp fly.
 2020555894	Any reptiles around here?
 631054508	Reminds me of some place.
@@ -6845,13 +6845,13 @@ Japanese	Japonês
 1711975334	That's it.
 3450358	Uh, now what?
 878608500	That's it, I think.
-369453272	Easy.
-1519662815	It's done.
-198083130	All done.
+369453272	Fácil.
+1519662815	Está feito.
+198083130	Tudo feito.
 230799163	No problem.
 452328337	Okay, what now?
 2057854222	Heh, that was easy.
-310162947	Done? Done.
+310162947	Feito? Feito.
 667426076	Okay...
 1935779871	Okay, they're down.
 1852058158	I live for this.
@@ -6947,9 +6947,9 @@ Japanese	Japonês
 1303449574	...
 743995481	...
 2097049521	...
-1159855655	Who needs a haircut?
-466784557	Time for the axe.
-2134918377	I'm in the mood for some chopping.
+1159855655	Quem precisa de um corte de cabelo?
+466784557	Hora do machado.
+2134918377	Estou com vontade de cortar.
 558071487	...!
 1230163587	...!
 782585676	...!
@@ -6983,32 +6983,32 @@ Japanese	Japonês
 530325714	The more the merrier.
 1508511952	Here they come.
 834403941	Getting a bit crowded here.
-1895958332	Huh? More than one.
-977078008	Sure... The more the better.
-1702610447	Time to use Bianca.
-837498010	Looks like a job for Bianca.
-265050657	Bianca is ready.
-33696007	...Almost ready...
-2052049174	...Just a second...
+1895958332	Hã? Mais de um.
+977078008	Claro... Quanto mais melhor.
+1702610447	Hora de usar Bianca.
+837498010	Parece um trabalho para Bianca.
+265050657	Bianca está pronta.
+33696007	...Quase pronta...
+2052049174	...Só um segundo...
 1748235772	... 
-612422343	There.
-437100548	All set.
-1596136557	She's ready.
-1234721860	Good girl.
-156554737	Always trust in Bianca.
+612422343	Lá.
+437100548	Tudo pronto.
+1596136557	Ela está pronta.
+1234721860	Boa gorota.
+156554737	Confie sempre na Bianca.
 130483807	She's still got it.
-989985357	Shit, where's Bianca?
-55254118	Bianca is waiting for me.
-843497225	I need to pick up Bianca!
-994616390	There she is!
-2031935518	She looks ready for more.
-1408150042	Bianca returns to me.
+989985357	Merda, onde está Bianca?
+55254118	Bianca está me esperando.
+843497225	Eu preciso pegar a Bianca!
+994616390	Lá está ela!
+2031935518	Ela parece pronta para mais.
+1408150042	Bianca voltou para mim.
 1189195007	Time for the rake.
 1442502761	Rake ready.
 90334172	Hah, right. This thing.
 294087789	Time for...this thing.
-460272333	You're not Bianca.
-621188342	Hmm... Maybe...
+460272333	Você não é a Bianca.
+621188342	Hmmm... Talvez...
 1312734082	Like this... Yeah.
 813342031	Hmm... Good spot.
 254897708	This could work...
