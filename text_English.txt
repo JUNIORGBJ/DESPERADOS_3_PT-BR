@@ -6229,17 +6229,17 @@ Japanese	Japonês
 17341483	Let's do it.
 1457233154	Ain't far now.
 939553804	Pier 9.
-1160144569	This is it.
-1849250951	I'll follow.
-1084314963	Go ahead.
-38890875	I'm with ya.
-646380282	Still here.
-814187223	Hrgn... Shit.
-2097128479	We're done here.
-945881814	Let's get out of this hellhole.
+1160144569	É isso.
+1849250951	Eu vou seguir.
+1084314963	Continue.
+38890875	Estou com você.
+646380282	Ainda aqui.
+814187223	Hrgn... Merda.
+2097128479	Nós terminamos aqui.
+945881814	Vamos sair desse buraco do inferno.
 1308614410	Got a train to catch.
 1395768645	Wound's healed enough.
-94463975	Not sure I know this dance.
+94463975	Não tenho certeza se conheço essa dança.
 927997024	Mansion in the desert. Figures.
 1207572231	How big is this place.
 1012801585	Fancy party.
@@ -6248,118 +6248,118 @@ Japanese	Japonês
 1679434983	After you, miss.
 1245111996	Let's finish it.
 660598120	Takes you back.
-79087461	Remember the plan.
-819050101	We got this.
+79087461	Lembre-se do plano.
+819050101	Está no papo.
 2082524293	This bounty's long overdue.
-1201075925	Still here.
-1007641158	Getting heavy here.
-1398205759	Where to?
-1084713273	Whew... Getting heavy.
-366416837	Getting dizzy here.
-961612964	Where to?
-1716606398	Still here.
-46796772	Not a problem.
-348080409	Let's get going.
-1463433715	Hmm...
-1947234583	Shall we?
-359168339	Sure thing.
-1970577313	On my way.
-210468291	Well now, let's see...
-757603325	All right.
-1397053866	Come on.
-1628140975	Here goes.
-236156250	Okay then.
-534957763	It's now or never.
-820981711	Hurry up.
-453091592	Okay, let's go.
-865856085	Nice and easy.
-1001736202	I'm on my way.
-1675502821	Nothing to it.
-1646528506	Oh, sure.
-302820134	Won't take long.
-1336117382	Meet you there.
-1028665284	Steady...
-809797818	Yeah... On my way.
-100993454	Sure, sure...
-950427914	Yup... Meet you there.
-1910269486	Whew... Okay then.
-1505125651	Sure.
+1201075925	Para onde?
+1007641158	Está ficando pesado aqui.
+1398205759	Para onde?
+1084713273	Ufa ... ficando pesado.
+366416837	Ficando tonto aqui.
+961612964	Para onde?
+1716606398	Ainda aqui.
+46796772	Não é um problema.
+348080409	Vamos indo.
+1463433715	Hmmm...
+1947234583	Devemos?
+359168339	Coisa certa.
+1970577313	No meu caminho.
+210468291	Bem, agora vamos ver...
+757603325	Tudo certo.
+1397053866	Vamos.
+1628140975	Aqui vai.
+236156250	ok, tudo bem.
+534957763	É agora ou nunca.
+820981711	Se apresse.
+453091592	Ok, vamos lá.
+865856085	Legal e fácil.
+1001736202	Estou a caminho.
+1675502821	Nada disso.
+1646528506	Ah, com certeza.
+302820134	Não vai demorar.
+1336117382	Te encontro lá.
+1028665284	Firme ...
+809797818	Sim ... No meu caminho.
+100993454	Claro, claro...
+950427914	Sim ... Encontro você lá.
+1910269486	Ufa ... Ok então.
+1505125651	Claro.
 1347635512	On it.
-1804177769	Done.
-416747010	Here goes.
+1804177769	Feito.
+416747010	Aqui vai.
 1574564980	Uh huh.
-621720614	Okay then.
-2111796213	Okay.
-1898671880	I'll be there.
-261146506	Yeah, sure.
-664999495	On my way.
+621720614	Ok então.
+2111796213	Ok.
+1898671880	Eu estarei lá.
+261146506	Sim, claro.
+664999495	No meu caminho.
 323985734	Going for it.
-1362306772	No problem.
-612305708	Here goes.
-1256591016	Okay.
-830503360	On my way.
-841264473	Let's go.
-26643327	...No problem.
-690976930	Sure... Here goes.
-1500806084	Yeah... Okay.
+1362306772	Sem problemas.
+612305708	Aqui vai.
+1256591016	Ok.
+830503360	No meu caminho.
+841264473	Vamos lá.
+26643327	...Sem problemas.
+690976930	Claro ... Aqui vai.
+1500806084	Sim... Ok.
 415349483	Nothing...to it.
-1218396589	Whew... On my way.
-1684779458	...Going.
+1218396589	Ufa ... No meu caminho.
+1684779458	...Indo.
 878301274	...Over there?
-922675365	...On my way.
-1646207786	...Let's go.
-1327747076	...Yeah.
-1193489465	...All right.
+922675365	...No meu caminho.
+1646207786	...Vamos lá.
+1327747076	...Sim.
+1193489465	...Tudo certo.
 283904925	Not sure I can take the big guy.
 578978790	Sure could use an edge here.
 1443281338	I don't like the odds here.
-1784029869	Not sure I can take him.
+1784029869	Não tenho certeza se posso levá-lo.
 132051168	I could sure use an edge.
-2103062647	This is gonna hurt.
-679004122	Bad idea.
+2103062647	Isto vai doer.
+679004122	Péssima ideia.
 2118672222	I need an edge.
-654609927	It's gonna hurt.
-193124918	That's a problem.
-1951951475	Not gonna happen.
-1040542484	Can't do it.
-1212670789	Not a chance.
-815786097	Forget it.
-597644029	No can do.
+654609927	Vai doer.
+193124918	Isso é um problema.
+1951951475	Não vai acontecer.
+1040542484	Não pode fazer isso.
+1212670789	Sem chance.
+815786097	Esqueça.
+597644029	Não pode fazer.
 1121747942	Nope...not happening.
-1759580039	No chance.
+1759580039	Sem chance.
 1474564838	Nuh uh.
-1193315723	No.
-20813606	I won't.
-1700970087	Not gonna happen.
-1088388479	Can't do that.
-467533225	Not like this.
+1193315723	Não.
+20813606	Não vou.
+1700970087	Não vai acontecer.
+1088388479	Não pode fazer isso.
+467533225	Assim não.
 475580370	Would if I could.
-974636322	There's gotta be another way.
-53913246	Not this way.
-2046820839	Gotta find another way.
-1416110515	Gotta figure something out.
-1914418523	You see a way? Yeah, me neither.
-1703474809	Find another way.
-635750800	Gotta find the way.
+974636322	Tem que haver outra maneira.
+53913246	Por aqui não.
+2046820839	Tenho que encontrar outro caminho.
+1416110515	Tenho que descobrir alguma coisa.
+1914418523	Você vê um caminho? Sim, eu não.
+1703474809	Encontre outro caminho.
+635750800	Preciso encontrar o caminho..
 463103813	Figure something out.
-2027039691	Not this way.
-1910746496	Can't get there.
+2027039691	Por aqui não.
+1910746496	Não consigo chegar lá.
 280999993	Figure something out.
-876138614	Can't do it that way.
-1093061697	Not with this leg.
-1066237585	No can do.
-402493269	That's a bad idea.
-1802966524	There's trouble inside.
-1659756891	I wouldn't risk it.
-63281099	Uh uh. Bad idea.
-500667948	There's trouble inside.
-71468931	Can't risk it.
-323623352	Dumb idea.
-1883920775	There's trouble inside.
+876138614	Não pode fazer assim.
+1093061697	Não com esta perna.
+1066237585	Não pode fazer.
+402493269	Essa é uma péssima ideia.
+1802966524	Há problemas por dentro.
+1659756891	Eu não arriscaria.
+63281099	Uh uh. Péssima ideia.
+500667948	Há problemas por dentro.
+71468931	Não posso arriscar.
+323623352	Idéia idiota.
+1883920775	Há problemas por dentro.
 817346445	Not risking it.
-881566038	That's a bad idea.
-604523048	There's trouble inside.
-1792437484	Shouldn't risk it.
+881566038	Essa é uma péssima ideia.
+604523048	Há problemas por dentro.
+1792437484	Não deveria arriscar.
 2116837790	Locked.
 1837487067	It's locked.
 2015071187	Won't budge.
