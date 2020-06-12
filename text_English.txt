@@ -965,8 +965,8 @@ Japanese	Japonês
 645631705	Alarme
 1315509806	Certas ações farão com que os guardas toquem o <skill>alarme</skill>./nIsso faz com que os guardas saiam das <skill>casas de guarda</skill> e ficam marcados com um ícone./nDepois que o alarme disparar, os inimigos sobreviventes <skill>patrulhão a área</skill> permanentemente.
 1683052577	Usando Dynamite
-1385269576	You can pick up <skill>dynamite</skill> from the barrel and throw it./nAim with {2} and throw the dynamite using {3}./nBe careful: It will explode in your hand if you wait too long.
-1505140734	You can pick up <skill>dynamite</skill> from the barrel and throw it./nAim with {1} and throw the dynamite using {2}./nBe careful: It will explode in your hand if you wait too long.
+1385269576	Você pode pegar a <skill>dynamite</skill> do barril e jogá-la./nMire com {2} e jogue a dinamite usando {3}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
+1505140734	Você pode pegar a <skill>dynamite</skill> do barril e jogá-la./nMire com {1} e jogue a dinamite usando {2}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
 986016286	Roubar
 1040402450	Em certas missões, Kate pode <skill>roubar carteiras</skill> de inimigos./nTenha cuidado! Se ela for <skill>avistada</skill>, o alarme soará./nSegure {0} e selecione um alvo com {1}.
 1965673562	Em certas missões, Kate pode <skill>roubar carteiras</skill> de inimigos./nTenha cuidado! Se ela for <skill>avistada</skill>, o alarme soará./nAproxime-se do alvo e use {0} para roubar.
@@ -995,19 +995,19 @@ Japanese	Japonês
 474395380	Realçar objetos
 205196585	Você pode <skill>destacar</skill> todos os objetos e inimigos interativos pressionando {0}.
 1238248782	Você pode <skill>destacar</skill> todos os objetos e inimigos interativos pressionando {0}.
-1490757284	Follow
-1320541830	Kate can bait <skill>guards</skill> into following her for a short period of time./nWomen, Ponchos and Long Coats are immune to her charms.
-1314573438	Kate can bait <skill>guards</skill> into following her for a short period of time./nFlirt with them, then press {0} again to make them follow her./nWomen, Ponchos and Long Coats are immune to her charms.
-955787236	Minecart
-1847265587	The <skill>Minecart</skill> can be <skill>moved</skill> along the tracks. <skill>Track switches</skill> can be operated via levers next to them./nYou can <skill>release</skill> the cart by pressing {0}/nBe careful! If the cart is hit by any bullet, it will explode.
-340709910	The <skill>Minecart</skill> can be <skill>moved</skill> along the tracks. <skill>Track switches</skill> can be operated via levers next to them./nYou can <skill>release</skill> the cart by pressing {0}/nBe careful! If the cart is hit by any bullet, it will explode.
+1490757284	Seguir
+1320541830	Kate pode atrair <skill>guardas</skill> para segui-la por um curto período de tempo./nAs mulheres, Ponchos e Casacos Longos são imunes a seus encantos.
+1314573438	Kate pode atrair <skill>guardas</skill> para segui-la por um curto período de tempo./nFlerte com eles e pressione {0} novamente para fazê-los segui-la./nMulheres, Ponchos e Casacos Longos são imunes a seus encantos.
+955787236	Mine vagão
+1847265587	O <skill>Mine vagão</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
+340709910	O <skill>Mine vagão</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
 122918593	Salvar rápido e Carregar rápido
 162479796	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1}./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
 274179946	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1} e selecionando o jogo que você deseja carregar./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
-1897236503	Perfume Vials
-488427544	Kate has an unlimited supply of <skill>Perfume Vials</skill>. One vial temporarily blinds all <skill>guards</skill> in range./nThis is one of the few abilities that has its full effect on all guard types, including <skill>Long Coats</skill> and <skill>Ponchos</skill>.
-896736163	Knockout
-1968621861	Kate only knocks out guards and has <skill>no lethal</skill> takedown./nShe also doesn't carry any rope to tie them up, so be careful: They will wake up again.
+1897236503	Frascos de perfume
+488427544	Kate tem um suprimento ilimitado de <skill>Frascos de perfume</skill>. Um frasco cega temporariamente todos os <skill>guardas</skill> ao alcance./nEsta é uma das poucas habilidades que tem efeito total em todos os tipos de guardas, incluindo <skill>Casacos Longos</skill> e <skill>Ponchos</skill>.
+896736163	Nocaute
+1968621861	Kate apenas nocauteia os guardas e não sendo <skill>letal</skill>./nEla também não carrega nenhuma corda para amarrá-los, por isso tome cuidado: eles acordarão novamente.
 1385813891	Flerte
 1705470805	Kate pode <skill>flertar</skill> com <skill>guardas</skill> para distraí-los./nFlertar com um guarda fará com que eles se voltem na direção de Kate pelo tempo que desejar./nUse {0} para selecionar a habilidade e selecione seu alvo.
 1629591389	Kate pode <skill>flertar</skill> com <skill>guardas</skill> para distraí-los./nFlertar com um guarda fará com que eles se voltem na direção de Kate pelo tempo que desejar./nAproxime-se de um guarda e pressione {0} para começar a flertar.
