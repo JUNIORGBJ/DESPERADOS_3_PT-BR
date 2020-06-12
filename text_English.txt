@@ -1223,15 +1223,15 @@ Japanese	Japonês
 1135000294	On the far right we find the parkour. This room is designed for enemy navigation testing, but also for door testing. The enemies can be activated with the control panel in the north of this room. After activation they will follow their route through the parkour.
 1873777461	If you want to navigate quickly through the testlevel, take a look into the hint log. I hope this short tutorial answered all questions. For further questions please ask Toby. That's it for now: Happy testing and god bless my friend! *Bob Ross quote end*
 941720566	Tutorial
-1934154351	The following cutscene will give you a short introduction into the QA Testlevel.On further questions please ask Toby!
-2029272716	Objective Header
-1576341048	Objectiver Description
-1421448555	R1 - Testroom
-69348585	All Enemies,Formations,Neutral Zones.
-2010793256	R2 - Playerroom
-1006924099	Player Navigation,Level Controls.
+1934154351	A cena a seguir apresentará uma breve introdução ao nível de teste do controle de qualidade. Em outras perguntas, pergunte a Toby!
+2029272716	Cabeçalho do objetivo
+1576341048	Descrição do Objectiver
+1421448555	R1 - Sala de teste
+69348585	Todos os inimigos, formações, zonas neutras.
+2010793256	R2 - Sala de jogadores
+1006924099	Navegação do jogador, controles de nível.
 1080858096	R3 - Parkour
-1994417064	Enemy Navigation,Door Usage.
+1994417064	Navegação inimiga, uso da porta.
 1864776957	Cooper
 476223141	Move to Cooper.
 755438217	McCoy
@@ -6956,16 +6956,16 @@ Japanese	Japonês
 642190508	...!
 467719832	...!
 715726070	...!
-2145536981	Oh, I'm itching for a fight.
-1072026535	So, who wants to be first?
-399853762	Leave them to me.
-1306910682	Ever brushed your teeth with a sledgehammer?
-1124824514	Heh, come to Hector.
-400530881	Who wants to try?
-1684965429	Here comes the hammer.
-969538124	I can still take 'em...
-1382310737	Hrm... Leave them to me.
-1901170403	Bah, come to Hector.
+2145536981	Oh, estou ansioso por uma briga.
+1072026535	Então, quem quer ser o primeiro?
+399853762	Deixe-os para mim.
+1306910682	Já escovou os dentes com uma marreta?
+1124824514	Heh, venha para Hector.
+400530881	Quem quer tentar?
+1684965429	Aí vem o martelo.
+969538124	Ainda posso levá-los ...
+1382310737	Hum ... Deixe-os para mim.
+1901170403	Bah, venha para Hector.
 1969492152	...!
 1747988784	...!
 1381216359	...!
@@ -6975,14 +6975,14 @@ Japanese	Japonês
 251168187	Tape seus ouvidos.
 110265755	Hmmm, lábios secos.
 1803648594	...Hombre!
-379582184	...Over here!
+379582184	...Por aqui!
 256125331	...Yoohoo.
-920161108	...! Ah, shit.
+920161108	...! Ah, merda.
 1459691392	...! Hrm, hombre!
-124316011	...! ...My head.
-530325714	The more the merrier.
-1508511952	Here they come.
-834403941	Getting a bit crowded here.
+124316011	...! ...Minha cabeça.
+530325714	Quanto mais melhor.
+1508511952	Lá vem eles.
+834403941	Está ficando um pouco cheio aqui.
 1895958332	Hã? Mais de um.
 977078008	Claro... Quanto mais melhor.
 1702610447	Hora de usar Bianca.
@@ -6996,40 +6996,40 @@ Japanese	Japonês
 1596136557	Ela está pronta.
 1234721860	Boa gorota.
 156554737	Confie sempre na Bianca.
-130483807	She's still got it.
+130483807	Ela ainda conseguiu.
 989985357	Merda, onde está Bianca?
 55254118	Bianca está me esperando.
 843497225	Eu preciso pegar a Bianca!
 994616390	Lá está ela!
 2031935518	Ela parece pronta para mais.
 1408150042	Bianca voltou para mim.
-1189195007	Time for the rake.
-1442502761	Rake ready.
-90334172	Hah, right. This thing.
-294087789	Time for...this thing.
+1189195007	Hora do ancinho.
+1442502761	Ancinho pronto.
+90334172	Hah, certo. Essa coisa.
+294087789	Hora de ... essa coisa.
 460272333	Você não é a Bianca.
 621188342	Hmmm... Talvez...
-1312734082	Like this... Yeah.
-813342031	Hmm... Good spot.
-254897708	This could work...
-957960066	Hmm, like this?
-2037676659	This could work...
-1507768051	Right here... Hmm.
-1701562827	Ready.
-519616382	All set.
-1207039928	Knock 'em out.
-1023349715	Ready, I think.
-348270276	Knock 'em out.
-614102221	Uh, all set.
+1312734082	Como isso... Yeah.
+813342031	Hmm... Bom lugar.
+254897708	Isso poderia funcionar ...
+957960066	Hmm, como isso?
+2037676659	Isso poderia funcionar ...
+1507768051	Bem aqui... Hmm.
+1701562827	Pronto.
+519616382	Tudo pronto.
+1207039928	Bata neles.
+1023349715	Pronto, eu acho.
+348270276	Bata neles.
+614102221	Uh, Tudo pronto.
 1020944915	Hah! Bang!
-1552470216	Heh, good night!
-982298988	Oh, that's gotta hurt.
-181417726	Heh, not bad.
-1333394758	Hmm, that's gotta hurt.
-1884611526	Makes your head hurt.
-2122541859	Hey, where's the rake.
-2119985986	Hey, where'd you go?
-610307250	Don't have the rake.
+1552470216	Heh, boa noite!
+982298988	Oh, isso deve doer.
+181417726	Heh, nada mal.
+1333394758	Hmm, isso deve doer.
+1884611526	Faz sua cabeça doer.
+2122541859	Ei, onde está o ancinho?
+2119985986	Ei, onde você foi?
+610307250	Não tem o ancinho.
 1009892254	Uh... Where's the rake.
 1446488602	Hrm, where'd you go?
 210440527	Uh... Lost the rake.
