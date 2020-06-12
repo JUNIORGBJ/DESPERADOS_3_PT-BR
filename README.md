@@ -5,6 +5,22 @@
 </figure></h1>
 
 
-<h1 align="center">Tradução PT-BR</h1>
-<h1 align="center">Versão Demo 100% traduzido</h1>
-<h1 align="center">Versão Final em andamento</h1>
+## Sobre a Tradução
+
+O objetivo do projeto é:
+
+_ "Traduzir 100% do jogo com a melhor qualidade possível" _
+
+## Por quê?
+
+Este projeto irá ajudar muitas pessoas a entender melhor a historia do jogo, portanto ficarei feliz se você puder ajudar de algum forma o projeto, tradução, erros ortográficos e revisão em jogo!
+
+## Instalação
+
+Se você desejar testar a tradução em jogo, será preciso colar os arquivos ```text_English.txt``` e ```keyboard_English.txt``` no caminho especificado abaixo:
+
+```Desperados III_Data\StreamingAssets\loca\text_English.txt```
+
+```Desperados III_Data\StreamingAssets\keyboard\keyboard_English.tx```
+
+Assim que a tradução for finalizada criaremos um instalador para automatizar a instalação.
