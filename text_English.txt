@@ -1134,17 +1134,17 @@ Japanese	Japonês
 1937357559	Negado
 1962654553	Você não tem mais salvamentos restantes!
 174418242	Detalhes ocultos
-1677114193	CONFIGURAÇÕES DE INIMIGO – FÁCIL/n/n{0} Menos inimigos/n{0} Menos Ponchos e Casacos Longos
-1469220682	CONFIGURAÇÕES DE INIMIGO – MÉDIO/n/n{0} Configurações padrão do inimigo
-1243964351	CONFIGURAÇÕES DE INIMIGO – DIFÍCIL/n/n{0} Inimigos adicionais/n{0} Mais Ponchos e Casacos Longos
+1677114193	CONFIG. DE INIMIGO – FÁCIL/n/n{0} Menos inimigos/n{0} Menos Ponchos e Casacos Longos
+1469220682	CONFIG. DE INIMIGO – MÉDIO/n/n{0} Configurações padrão do inimigo
+1243964351	CONFIG. DE INIMIGO – DIFÍCIL/n/n{0} Inimigos adicionais/n{0} Mais Ponchos e Casacos Longos
 968757024	VELOCIDADE DE DETECÇÃO – FÁCIL/n/n{0} 0.7 – Detecção padrão/n{0} 0.9 – Detecção de violência
 1684567525	VELOCIDADE DE DETECÇÃO – MÉDIO/n/n{0} 1.0 – Detecção padrão/n{0} 1.4 – Detecção de violência
 1663669697	VELOCIDADE DE DETECÇÃO – DIFÍCIL/n/n{0} 2.8 – Detecção padrão/n{0} 3.5 – Detecção de violência
 153038737	VELOCIDADE DE DETECÇÃO – DESPERADO/n/n{0} 10 – Detecção padrão/n{0} 10 – Detecção de violência
 1231246955	SAÚDE DO JOGADOR – FÁCIL/n/n{0} 4 HP – Cooper/n{0} 4 HP – McCoy/n{0} 6 HP – Hector/n{0} 4 HP – Kate/n{0} 4 HP – Isabelle
 1054089054	SAÚDE DO JOGADOR – MÉDIO/n/n{0} 3 HP – Cooper/n{0} 3 HP – McCoy/n{0} 5 HP – Hector/n{0} 3 HP – Kate/n{0} 3 HP – Isabelle
-1741956856	SAÚDE DO JOGADOR – DIFÍCIL/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} Fewer recovery frames
-1267650903	SAÚDE DO JOGADOR – DESPERADO/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} No recovery frames
+1741956856	SAÚDE DO JOGADOR – DIFÍCIL/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} Menas caixas de recuperação
+1267650903	SAÚDE DO JOGADOR – DESPERADO/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} Sem caixas de recuperação
 1650756374	MUNIÇÃO DO JOGADOR – FÁCIL/n/n{0} No início – 8, Em caixas – 6 (Cooper)/n{0} No início – 5, Em caixas – 4 (McCoy)/n{0} No início – 4, Em caixas – 4 (Hector)/n{0} No início – 5, Em caixas – 4 (Kate)/n{0} No início – 4, Em caixas – 2 (Isabelle)
 1428667906	MUNIÇÃO DO JOGADOR – MÉDIO/n/n{0} No início – 8, Em caixas – 6 (Cooper)/n{0} No início – 4, Em caixas – 3 (McCoy)/n{0} No início – 3, Em caixas – 2 (Hector)/n{0} No início – 4, Em caixas – 3 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
 1315085301	MUNIÇÃO DO JOGADOR – DIFÍCIL/n/n{0} No início – 6, Em caixas – 4 (Cooper)/n{0} No início – 3, Em caixas – 3 (McCoy)/n{0} No início – 2, Em caixas – 2 (Hector)/n{0} No início – 3, Em caixas – 2 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
