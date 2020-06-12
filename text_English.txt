@@ -4819,7 +4819,7 @@ Japanese	Japonês
 1461662265	Sure thing, amigo.
 1592874094	Here we are. Pier 9.
 1971851449	Open sesame, he he.
-251973098	What's the plan now?
+251973098	Qual o plano agora?
 471402247	I'm going in alone.
 1299927685	Like hell you are, Cooper.
 142722208	You know how it's gotta be.
@@ -5063,7 +5063,7 @@ Japanese	Japonês
 351677477	You bet.
 846142708	Hgn...damn.
 1826544707	I'm gonna have to take it slow.
-245698559	So what's the plan?
+245698559	Então, qual o plano?
 349376903	You shut up and let the wiser amongst us figure that out.
 1193466608	Yeah...I had that comin'. I'll keep up.
 526041900	Huh...
@@ -5898,11 +5898,11 @@ Japanese	Japonês
 842365619	God damn it!
 1449201902	You ain't gonna be ready at this rate.
 2070241680	Shut up. I'm gonna be ready.
-436719742	Shit shit shit!
+436719742	Merda merda merda!
 58061221	Forget the gun. Get close and personal.
 846733911	Hell no, Frank says Hector's with 'em. Jesus Christ!
-257146736	So, what's the plan?
-1785019522	What's the plan, amigo?
+257146736	Então, qual o plano?
+1785019522	Qual o plano, amigo?
 320418139	We follow the path and we get to Frank. Or we head down the canyon and get you that outfit.
 469766072	It's your show, Cooper.
 1419377760	Let's stick to cover.
@@ -6062,7 +6062,7 @@ Japanese	Japonês
 1081780746	Halfway to the chapel.
 1513828514	We still got a ways to go.
 2128859310	How's everyone holding up?
-710950701	I'm ready.
+710950701	Estou pronto.
 4403149	Same here.
 1677025007	Don't tell me you had any doubts.
 1427121985	Yeah. We doing this or what?
@@ -6153,18 +6153,18 @@ Japanese	Japonês
 437322338	Clear the area in front of the graveyard gate and gather everyone for the final confrontation.
 1648934017	Defeat Frank
 1433246038	Kill Frank and his gang in a single attack. If any of them realize something's up, Cooper will die.
-2102198443	Now's the time.
-698416794	I'm here.
-954946304	Eyes open.
-1340980068	Oh, I'm ready.
-2129288339	How's it going?
-1876443714	Keep it cool.
-601459450	What's up?
-588699637	Keep your head down.
-1705340705	Things are quiet.
-1151312318	No need to rush.
-441073854	Take it easy.
-283497359	Damn, that train's long.
+2102198443	Agora é a hora.
+698416794	Estou aqui.
+954946304	Olhos abertos.
+1340980068	Sim, Estou pronto.
+2129288339	Como está indo?
+1876443714	Mantenha a calma.
+601459450	E ai?
+588699637	Mantenha sua cabeça baixa.
+1705340705	As coisas estão quietas.
+1151312318	Não precisa correr.
+441073854	Se acalme.
+283497359	Droga, esse trem é longo.
 385802758	Big heist they got planned here.
 881770828	Looks like we're past Denver.
 932779879	...Still warming up.
@@ -6173,28 +6173,28 @@ Japanese	Japonês
 993005470	Needed a walk anyway.
 379630895	Let's see what's happening here.
 1544431828	I'm warming up.
-1274084592	This town's got it rough.
-516373232	Had to drag me into this.
-2037770180	Middle of nowhere.
-993530816	Can we get this over with?
-1124133034	Let's finish these guys.
-747776312	Come on, let's move it.
-1428504587	Haven't got all day.
-291071232	Get on with it.
-630512329	Hey, remind me why we're doing this?
-1177344540	What are we waiting for?
-467933390	What's the matter with these guys?
-1099076121	Busy place, this town.
-739796969	These company assholes are everywhere.
-2047148498	Gotta get in that house.
-789707676	Who's getting married here?
-635220013	Big house. Mayor's got money.
-704853240	Got an appointment to keep.
-1666980653	I'm coming, Frank. Just you wait.
-742499356	We gotta get out of here.
-985938258	Guess the wedding's canceled.
-1453580619	You sure stirred up the nest.
-329331270	Well this is a bust.
+1274084592	Está cidade ficou brutal.
+516373232	Tive que me arrastar para isso.
+2037770180	No meio do nada.
+993530816	Podemos acabar com isso?
+1124133034	Vamos terminar esses caras.
+747776312	Vamos lá, vamos se mover.
+1428504587	Não tenho o dia todo.
+291071232	Continue com isso.
+630512329	Ei, lembre-me porque estamos fazendo isso?
+1177344540	O que estamos esperando?
+467933390	Qual é o problema com esses caras?
+1099076121	Lugar movimentado, esta cidade.
+739796969	Esses idiotas da empresa estão por toda parte.
+2047148498	Tenho que entrar naquela casa.
+789707676	Quem vai se casar aqui?
+635220013	Casarão. Prefeito tem dinheiro.
+704853240	Tenho um compromisso para manter.
+1666980653	Estou indo, Frank. Apenas espere.
+742499356	Temos que sair daqui.
+985938258	Acho que o casamento foi cancelado.
+1453580619	Você com certeza agitou o ninho.
+329331270	Bem, isso é um fracasso.
 1858843361	What did I get myself into.
 641998699	Big operation they have here.
 243436559	Bridge won't fall over by itself.
