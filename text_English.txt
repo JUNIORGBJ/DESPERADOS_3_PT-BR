@@ -533,12 +533,12 @@ Japanese	Japonês
 1951322218	Coloque um disfarce para enganar os inimigos. Ser visto durante ações suspeitas o removerá automaticamente.
 581063006	Atrair
 1332211106	Atrair um inimigo para longe de sua posição.
-706585068	Flerte
-73015201	Flerte com um inimigo para manter os olhos focados em você.
+706585068	Flertar
+73015201	Flerte com um inimigo e ele manterá os olhos focados em você.
 1107428992	Pontapé
 1155721602	Derrube um inimigo à queima-roupa.
-1810692848	Derringer
-750399255	Atire em um inimigo com seu Derringer. Médio alcance, quase silencioso.
+1810692848	Espingarda
+750399255	Atire em um inimigo com sua espingarda. Médio alcance, quase silencioso.
 1222475897	Frasco De Perfume
 342608998	Jogue um frasco de perfume. Faça os inimigos espirrarem, cegando-os brevemente.
 1986695873	Foice
@@ -555,21 +555,21 @@ Japanese	Japonês
 968396522	Cure você ou um aliado.
 1533369021	Finalizar o Controle mental
 751024683	Abandona o controle sobre o alvo. Alvos humanos serão nocauteados.
-1424974583	Mind Control Gunshot
-1599288725	Command an enemy to shoot one target. Doesn't raise the alarm. If action is detected, enemy will be killed.
-478202770	Mind Control Attack
-2010965602	Command an enemy to attack one target. Doesn't raise the alarm. If action is detected, enemy will be killed.
-1483614186	Mind Control Dog Bark
-46529980	Command a dog to bark. Enemies in range will move to the dog's location.
-1607481843	Mind Control Bull Horns
-410027463	Command an ox to attack with its horns. Kills anyone in front of the ox. Doesn't raise the alarm.
-834805114	Mind Control Horse Kick
-641060966	Command a horse to kick backwards. Knocks out anyone standing behind the horse.
-1644388442	Mind Control Cluck
-714891915	Command a chicken to cluck. Enemies in range will investigate the disturbance.
-1712320263	Mind Control Scream
-1316379827	Command a civilian to cry for help. Enemies in range will move to the civilian's location.
-1136665942	Throw the object you are carrying.
+1424974583	Tiro por controle mental
+1599288725	controla um inimigo para ele atirar em um alvo. Não dispara o alarme. Se uma ação for detectada, o inimigo será morto.
+478202770	Ataque por controle mental
+2010965602	Controla um inimigo para ele atacar um alvo. Não dispara o alarme. Se uma ação for detectada, o inimigo será morto.
+1483614186	Cão latindo por controle mental
+46529980	Controla um cachorro para ele latir. Os inimigos ao alcance se moverão para o local do cão.
+1607481843	Ataque por controle mental
+410027463	Controle um boi para ele atacar com seus chifres. Mata qualquer um na frente do boi. Não dispara o alarme.
+834805114	Coice por controle mental
+641060966	Controle um cavalo para ele dar um coice. Nocauteia qualquer um que está atrás do cavalo.
+1644388442	Cacarejar por controle mental
+714891915	Controle uma galinha para ela cacarejar. Inimigos dentro do alcance investigarão a perturbação.
+1712320263	Grito por Controle mental
+1316379827	Controle um civil para que ele grite socorro. Os inimigos ao alcance se moverão para o local do civil.
+1136665942	Jogue o objeto que você está carregando.
 31843472	Intervalo: 4.
 47662936	Derrube um inimigo à queima-roupa.
 1953083019	Você está carregando alguma coisa. Solte-o para executar outras ações.
@@ -839,12 +839,12 @@ Japanese	Japonês
 773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam ao Cânion do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
 681032158	Byers Pass
 2097221155	Atrasado no dia de pagamento
-1657883687	Um trem de propriedade da influente compãnia DeVitt está a caminho da cidade de Flagstone. Em Byers Pass, ele encontra um obstáculo inesperado.
-801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo da paisagem das Montanhas Rochosas./n/nSeus vagões - com o sinal da Compãnia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entra em Byers Pass, o humor entre os passageiros fica inquieto. Bandidos estão perambulando por essas partes, e a compãnia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
-1457201141	John Cooper está sentado no trem indo para Flagstone, quando de repente, no Byers Pass, seu passeio é emboscado por bandidos. Ele permanece sem ser detectado, mas a tarefa que está pela frente é clara./n/nSe Cooper quiser manter seu compromisso em Flagstone, ele terá que cuidar primeiro dos bandidos.
+1657883687	Um trem de propriedade da influente compãnia DeVitt está a caminho da cidade de Flagstone. Passando por Byers Pass ele encontrou um obstáculo inesperado.
+801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo das paisagens das Montanhas Rochosas./n/nSeus vagões - com a marca da Compãnia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entrou em Byers Pass, os passageiros ficaram inquieto. Bandidos estão perambulando por essas partes, e a compãnia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
+1457201141	John Cooper está sentado no trem indo para Flagstone, até que em Byers Pass, seu passeio é emboscado por bandidos. Ele permanece sem ser detectado, mas a tarefa que está pela frente é clara./n/nSe Cooper quiser manter seu compromisso em Flagstone, ele terá que cuidar primeiro dos bandidos.
 1181215471	Flagstone
 1786599235	Encrenqueiros em Flagstone
-111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meter em encrencas.
+111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meterem em encrencas.
 180909580	Aninhada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. A taberna que está vazia, exceto por alguns clientes regulares./n/n A garçonete serve um copo de uísque para ele e ele bebe enquanto espera que um velho amigo chegue.
 1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da compãnia DeVitt, que estavam aterrorizando os habitantes da cidade. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
 842780950	Propriedade de Higgins
@@ -1134,21 +1134,21 @@ Japanese	Japonês
 1937357559	Negado
 1962654553	Você não tem mais salvamentos restantes!
 174418242	Detalhes ocultos
-1677114193	ENEMY SETUPS – EASY/n/n{0} Fewer Enemies/n{0} Fewer Ponchos and Long Coats
-1469220682	ENEMY SETUPS – MEDIUM/n/n{0} Standard Enemy Setups
-1243964351	ENEMY SETUPS – HARD/n/n{0} Additional Enemies/n{0} More Ponchos and Long Coats
-968757024	DETECTION SPEED – EASY/n/n{0} 0.7 – Standard detection/n{0} 0.9 – Violence detection
-1684567525	DETECTION SPEED – MEDIUM/n/n{0} 1.0 – Standard detection/n{0} 1.4 – Violence detection
-1663669697	DETECTION SPEED – HARD/n/n{0} 2.8 – Standard detection/n{0} 3.5 – Violence detection
-153038737	DETECTION SPEED – DESPERADO/n/n{0} 10 – Standard detection/n{0} 10 – Violence detection
-1231246955	PLAYER HEALTH – EASY/n/n{0} 4 HP – Cooper/n{0} 4 HP – McCoy/n{0} 6 HP – Hector/n{0} 4 HP – Kate/n{0} 4 HP – Isabelle
-1054089054	PLAYER HEALTH – MEDIUM/n/n{0} 3 HP – Cooper/n{0} 3 HP – McCoy/n{0} 5 HP – Hector/n{0} 3 HP – Kate/n{0} 3 HP – Isabelle
-1741956856	PLAYER HEALTH – HARD/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} Fewer recovery frames
-1267650903	PLAYER HEALTH – DESPERADO/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} No recovery frames
-1650756374	PLAYER AMMO – EASY/n/n{0} Start – 8, Crate – 6 (Cooper)/n{0} Start – 5, Crate – 4 (McCoy)/n{0} Start – 4, Crate – 4 (Hector)/n{0} Start – 5, Crate – 4 (Kate)/n{0} Start – 4, Crate – 2 (Isabelle)
-1428667906	PLAYER AMMO – MEDIUM/n/n{0} Start – 8, Crate – 6 (Cooper)/n{0} Start – 4, Crate – 3 (McCoy)/n{0} Start – 3, Crate – 2 (Hector)/n{0} Start – 4, Crate – 3 (Kate)/n{0} Start – 3, Crate – 2 (Isabelle)
-1315085301	PLAYER AMMO – HARD/n/n{0} Start – 6, Crate – 4 (Cooper)/n{0} Start – 3, Crate – 3 (McCoy)/n{0} Start – 2, Crate – 2 (Hector)/n{0} Start – 3, Crate – 2 (Kate)/n{0} Start – 3, Crate – 2 (Isabelle)
-1262354350	PLAYER AMMO – DESPERADO/n/n{0} Start – 4, Crate – 2 (Cooper)/n{0} Start – 2, Crate – 2 (McCoy)/n{0} Start – 2, Crate – 1 (Hector)/n{0} Start – 2, Crate – 2 (Kate)/n{0} Start – 3, Crate – 2 (Isabelle)
+1677114193	CONFIGURAÇÕES DE INIMIGO – FÁCIL/n/n{0} Menos inimigos/n{0} Menos Ponchos e Casacos Longos
+1469220682	CONFIGURAÇÕES DE INIMIGO – MÉDIO/n/n{0} Configurações padrão do inimigo
+1243964351	CONFIGURAÇÕES DE INIMIGO – DIFÍCIL/n/n{0} Inimigos adicionais/n{0} Mais Ponchos e Casacos Longos
+968757024	VELOCIDADE DE DETECÇÃO – FÁCIL/n/n{0} 0.7 – Detecção padrão/n{0} 0.9 – Detecção de violência
+1684567525	VELOCIDADE DE DETECÇÃO – MÉDIO/n/n{0} 1.0 – Detecção padrão/n{0} 1.4 – Detecção de violência
+1663669697	VELOCIDADE DE DETECÇÃO – DIFÍCIL/n/n{0} 2.8 – Detecção padrão/n{0} 3.5 – Detecção de violência
+153038737	VELOCIDADE DE DETECÇÃO – DESPERADO/n/n{0} 10 – Detecção padrão/n{0} 10 – Detecção de violência
+1231246955	SAÚDE DO JOGADOR – FÁCIL/n/n{0} 4 HP – Cooper/n{0} 4 HP – McCoy/n{0} 6 HP – Hector/n{0} 4 HP – Kate/n{0} 4 HP – Isabelle
+1054089054	SAÚDE DO JOGADOR – MÉDIO/n/n{0} 3 HP – Cooper/n{0} 3 HP – McCoy/n{0} 5 HP – Hector/n{0} 3 HP – Kate/n{0} 3 HP – Isabelle
+1741956856	SAÚDE DO JOGADOR – DIFÍCIL/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} Fewer recovery frames
+1267650903	SAÚDE DO JOGADOR – DESPERADO/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} No recovery frames
+1650756374	MUNIÇÃO DO JOGADOR – FÁCIL/n/n{0} No início – 8, Em caixas – 6 (Cooper)/n{0} No início – 5, Em caixas – 4 (McCoy)/n{0} No início – 4, Em caixas – 4 (Hector)/n{0} No início – 5, Em caixas – 4 (Kate)/n{0} No início – 4, Em caixas – 2 (Isabelle)
+1428667906	MUNIÇÃO DO JOGADOR – MÉDIO/n/n{0} No início – 8, Em caixas – 6 (Cooper)/n{0} No início – 4, Em caixas – 3 (McCoy)/n{0} No início – 3, Em caixas – 2 (Hector)/n{0} No início – 4, Em caixas – 3 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
+1315085301	MUNIÇÃO DO JOGADOR – DIFÍCIL/n/n{0} No início – 6, Em caixas – 4 (Cooper)/n{0} No início – 3, Em caixas – 3 (McCoy)/n{0} No início – 2, Em caixas – 2 (Hector)/n{0} No início – 3, Em caixas – 2 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
+1262354350	MUNIÇÃO DO JOGADOR – DESPERADO/n/n{0} No início – 4, Em caixas – 2 (Cooper)/n{0} No início – 2, Em caixas – 2 (McCoy)/n{0} No início – 2, Em caixas – 1 (Hector)/n{0} No início – 2, Em caixas – 2 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
 1285047320	TRAPAÇA
 910742298	Invisibilidade
 841991396	Invencibilidade
