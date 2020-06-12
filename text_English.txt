@@ -6969,11 +6969,11 @@ Japanese	Japonês
 1969492152	...!
 1747988784	...!
 1381216359	...!
-974800483	Let's lure someone in.
-891984629	Time to make some noise.
-721056351	I'll use my singing voice.
-251168187	hold your ears.
-110265755	Hrm, dry lips.
+974800483	Vamos atrair alguém.
+891984629	Hora de fazer barulho.
+721056351	Vou usar minha voz cantando.
+251168187	Tape seus ouvidos.
+110265755	Hmmm, lábios secos.
 1803648594	...Hombre!
 379582184	...Over here!
 256125331	...Yoohoo.
@@ -7252,7 +7252,7 @@ Japanese	Japonês
 53457678	I strongly object.
 1625832902	I refuse.
 1115160473	That's a bad idea.
-1911831811	No, not this way.
+1911831811	Não, por aqui não.
 1997734296	The path is blocked.
 1282408597	There's trouble inside.
 920220359	That would be stupid.
@@ -7504,7 +7504,7 @@ Japanese	Japonês
 343043161	This ain't a discussion.
 508980979	Can we get going?
 512540043	I'm in no mood for talking.
-1522725160	Middle of nowhere.
+1522725160	No meio do nada.
 1540876363	I miss Colorado.
 530657547	I just want to go home.
 332021568	I'd kill for a hot bath.
@@ -8081,7 +8081,7 @@ Japanese	Japonês
 808909640	Fetch me a pick-me-up and we can talk, all right?
 495658661	Guten Tag.
 714829710	Okay, let's move it.
-922483490	Oh, I'm ready for anything.
+922483490	Sim, estou pronto para qualquer coisa.
 1456299141	I could do this all day.
 619396800	I got friends on the other side.
 1280821733	You get scared easy?
@@ -8399,8 +8399,8 @@ Japanese	Japonês
 2036930682	Is it time?
 1475892683	Eyes open, Johnny.
 739688853	Tight as a bowstring.
-621171003	Sure. I'm ready.
-596974803	I'm ready this time.
+621171003	Certo. Estou pronto.
+596974803	Estou pronto dessa vez.
 1308312152	I gotta get to Pa.
 395666720	Pa needs me.
 575611466	Pa went to the chapel.
@@ -8584,28 +8584,28 @@ Japanese	Japonês
 1757940350	On my way.
 176549620	Sure thing, son.
 1008777889	I'll be there.
-102502032	Don't worry about me.
-788869383	Right...
-78774169	On my way...
-1147696802	It's done...
-15303821	Nothing to it...
-1446081837	Makes sense...
-121195731	No can do, son.
-820233215	Ain't goin' to do that.
-152324659	I'm not going to do it.
-1937627304	Out of the question, son.
-2113992172	There's no way.
-827374949	The path's blocked.
-648129397	I don't see how to get there.
-1732020754	That would be unwise.
-1919063967	There's trouble inside.
-926615924	Not goin' in there, son.
-962291400	It's locked.
-356274832	It won't open.
-12718668	Locked tight.
-290316635	Not bad for an old dog, huh?
+102502032	Não se preocupe comigo.
+788869383	Certo...
+78774169	No meu caminho...
+1147696802	Está feito...
+15303821	Nada disso ...
+1446081837	Faz sentido...
+121195731	Não pode fazer, filho.
+820233215	Não vou fazer isso.
+152324659	Eu não vou fazer isso.
+1937627304	Fora de questão, filho.
+2113992172	Não tem jeito.
+827374949	O caminho está bloqueado.
+648129397	Não vejo como chegar lá.
+1732020754	Isso seria imprudente.
+1919063967	Há problemas por dentro.
+926615924	Não vai lá, filho.
+962291400	Está trancado.
+356274832	Não abre.
+12718668	Muito bem fechado.
+290316635	Nada mal para um cachorro velho, não é?
 17692324	Mighty fine.
-1281519187	All done.
+1281519187	Tudo feito.
 525280163	Looks good if I may say so.
 1926162010	Worked out pretty well.
 747852420	Now it's right.
@@ -8915,20 +8915,20 @@ Japanese	Japonês
 1173205208	Show yourself!
 645325076	All right, I'm coming for you!
 800031298	Oh, you're in trouble now!
-836498997	I know where you are, asshole!
-477376984	What the hell was that?
-725489667	Am I going crazy?
+836498997	Eu sei onde você está, cusão
+477376984	Que diabos foi isso?
+725489667	Estou ficando louco?
 2079312076	Ah! Uh...what?
 477292955	What am I doing?
-1049005536	Never mind.
-169936907	This is stupid.
-1523781371	Don't think you can hide!
+1049005536	Deixa pra lá.
+169936907	Isso é estúpido.
+1523781371	Não pense que você pode se esconder!
 1677782556	Okay, let's get this over with!
 200240766	Let's have a look around.
 1196600760	Oh, I ain't fooled so easy.
 807861649	This is gonna be painful.
 413690976	All right, who was that?
-1355395483	Who the hell was that?
+1355395483	Que diabos foi isso?
 576987870	Okay, where's the joker who hit me?
 747216756	Oh, you're gonna pay for that.
 454064382	Not so brave now, huh?!
@@ -8939,23 +8939,23 @@ Japanese	Japonês
 1265322671	Better run off before I hurt you!
 1448740758	You're just making it worse!
 1983148373	He he, just you wait...
-1998060968	Motherfucker! Where are you!
-1651967252	You ain't fooling me!
-1648573205	Come out, come out!
-1618962374	Your ass is mine!
-2046446964	Quit hiding, you cowards!
-871541653	Come on! Show some balls!
-1467041725	Oh, I'm gonna have my fun with you!
+1998060968	Filho da puta! Onde você está!
+1651967252	Você não está me enganando!
+1648573205	Saia, saia!
+1618962374	Sua bunda é minha!
+2046446964	Pare de se esconder, seu covarde!
+871541653	Vamos! Me mostre que tem bolas!
+1467041725	Oh, eu vou me divertir com você!
 742385626	This is getting old.
 1703385108	Aww, you scared?
-1051130559	Here, kitty kitty kitty.
-1607285573	Not on my watch, asshole!
+1051130559	Aqui, gatinho gatinho gatinho.
+1607285573	Não no me turno, cusão!
 926075436	Fucking bounty hunters.
-1240390056	I'm gonna throw you in the canyon.
-847831940	Frank's gonna love this.
-56058455	You're out of your league, kid!
-592361169	Should have stayed in your wagon.
-235504557	This is our train now!
+1240390056	Eu vou te jogar no canyon.
+847831940	Frank's vai amar isso.
+56058455	Você está fora da sua liga, garoto!
+592361169	Deveria ter ficado no seu vagão.
+235504557	Este é o nosso trem agora!
 1099518600	Stay away from our loot!
 1324953860	We're Big Ann's gang! You better run!
 926895976	You picked a fight with a company man.
@@ -9322,7 +9322,7 @@ Japanese	Japonês
 2042360926	Something's going on.
 1530925514	Don't like the new ones.
 1998337660	The heat's killing me.
-184791831	Middle of nowhere.
+184791831	No meio do nada.
 1458548270	We're gonna get them.
 538629131	Shit, it's hot.
 1772219422	Double the pay, he he.
@@ -10189,7 +10189,7 @@ Japanese	Japonês
 255514242	Something's going on.
 1237389301	Don't like the new ones.
 65254281	The heat's killing me.
-930410374	Middle of nowhere.
+930410374	No meio do nada.
 1453006084	We're gonna get them.
 1923428619	Shit, it's hot.
 890210459	Double the pay, he he.
@@ -11920,7 +11920,7 @@ Japanese	Japonês
 1014269464	Something's going on.
 1134355921	Don't like the new ones.
 287324203	The heat's killing me.
-511062067	Middle of nowhere.
+511062067	No meio do nada.
 2112087483	We're gonna get them.
 581535554	Shit, it's hot.
 992654694	Double the pay, he he.
@@ -13682,8 +13682,8 @@ Japanese	Japonês
 1114313913	I'm fucking soaked.
 845408524	Something's going on.
 1474078324	Don't like the new ones.
-1311627488	Heat's killing me.
-1034401984	Middle of fucking nowhere.
+1311627488	O calor está me matando.
+1034401984	No meio da porra de lugar nenhum.
 1580138250	We're gonna get them.
 1067202663	Shit, it's hot.
 1363882809	Double pay, he he.
