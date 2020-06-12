@@ -16167,15 +16167,15 @@ Japanese	Japonês
 791830996	Carregando sua gravação…
 1998694387	Big Ann
 1420130176	???
-1809394359	Don't kill anyone.
-1318402913	That won't work.
-1479660222	That sounds like suicide.
-1680928210	Let's just keep our heads down. I'd like to avoid unnecessary trouble.
-1334023768	Careful now.
-860201247	Oh shut up McCoy.
-1810121494	User data file is corrupted. Data could be recovered.
-901336057	User data file is corrupted and cannot be recovered. Your user data will be reset to default.
-1649511477	Your custom input layout was corrupted. It will be overwritten with the default layout.
+1809394359	Não mate ninguém.
+1318402913	Isso não vai funcionar.
+1479660222	Isso parece suicídio.
+1680928210	Vamos tentar passar despercebidos. Prefiro evitar problemas desnecessários.
+1334023768	Cuidado agora.
+860201247	Oh, cale a boca McCoy.
+1810121494	O arquivo de dados do usuário está corrompido. Os dados podem ser recuperados.
+901336057	O arquivo de dados do usuário está corrompido e não pode ser recuperado. Os dados do usuário serão redefinidos para o padrão.
+1649511477	Suas configurações de entrada personalizadas foram corrompidas e serão substituídas pelas configurações padrão.
 617153358	Josh
 1063320780	Stopping Mid-Climb
 1755510902	Press <hotkey>{0}</hotkey> to stop mid-climb on ladders, vines and ropes.
