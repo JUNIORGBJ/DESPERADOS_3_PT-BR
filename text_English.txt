@@ -1249,7 +1249,7 @@ Japanese	Japonês
 1299558651	VO TRACK
 1006428758	VO TRACK
 1472201416	VO TRACK
-1184634196	Há o primeiro guarda. Eu preciso ser calteloso.
+1184634196	Há o primeiro guarda. Eu preciso ser cauteloso.
 1345089562	Vamos! Abra, seu monte de merda!
 52315649	Abrar! Droga, estou morrendo de sede aqui.
 1708575428	Não é justo. Eu posso sentir o cheiro do uísque daqui.
@@ -1278,7 +1278,7 @@ Japanese	Japonês
 2142470101	Você já fez isso antes.
 521173166	Ele não ouviu a moeda.
 1346330984	Jogue a moeda mais perto.
-1304306774	Lembre-se - pense devagar, aja rápido.
+1304306774	Lembre-se - pense devagar, haja rápido.
 1510475130	Nós sempre escondemos o corpo.
 186921039	Você está prestando atenção.
 434305833	Me siga. Mantenha sua cabeça baixa.
@@ -1950,16 +1950,16 @@ Japanese	Japonês
 2110419620	Eu preciso de mais tempo. Tente distrair Frank. Eu realmente preciso verificar os arranjos de flores.
 1015183357	Sim senhor.
 1297511042	VO TRACK
-855950524	Finally. I thought he'd never leave.
-820816475	Need to work fast. Get what I need and leave before I get dragged to the altar.
-98129895	First I need a key to the upper floor.
-1561478639	I think she carries a spare. Bet she won't mind if I borrow it for a spell.
-533676105	The guards won't bother me so long as I don't misbehave too much.
-452495515	As soon as I get it, I'll sneak in through the library door.
-877447584	The upper floor is off limits. I'll have to avoid the guards until I reach the office. 
-332350569	I'll turn the place upside-down until I find what I'm here for.
-898990293	The rest is simple: Pular down the front balcony, steal a horse and make a break for it.
-1371716073	All right then. I need to get out of here before the groom decides to check in on his bride.
+855950524	Finalmente. Eu pensei que ele nunca iria embora.
+820816475	Precisa trabalhar rápido. Pegue o que eu preciso e saia antes de ser arrastada para o altar.
+98129895	Primeiro eu preciso de uma chave para o andar superior.
+1561478639	Eu acho que ela carrega uma sobressalente. Aposto que ela não vai se importar se eu pedir emprestado por um feitiço.
+533676105	Os guardas não vão me incomodar desde que eu não me comporte mal.
+452495515	Assim que eu conseguir, eu vou esgueirar-me pela porta da biblioteca.
+877447584	O piso superior está fora dos limites. Vou ter que evitar os guardas até chegar ao escritório.
+332350569	Vou virar o lugar de cabeça para baixo até encontrar o que estou procurando.
+898990293	O resto é simples: pule pela varanda da frente, roube um cavalo e faça uma pausa.
+1371716073	Tudo bem então. Preciso sair daqui antes que o noivo decida verificar a noiva dele.
 1322652543	I really should turn around and get that key.
 1028129373	I have to give him one thing—the dress is beautiful.
 2133829287	Hmm...I doubt I could climb that.
