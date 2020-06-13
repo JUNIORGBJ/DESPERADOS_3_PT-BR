@@ -1990,11 +1990,11 @@ Japanese	Japonês
 1328032688	Just a little more... Yes... Very nice.
 1632605479	Hello Mary. I like your walk... No...no that doesn't sound right.
 798447257	Ha, well you look a little uneven there, don't you? Ahhh much better.
-1340264399	Mary...I have been watching you for a long time now... Oh, God, no, that sounds creepy.
-1034885475	Just some small touches... Yes... That's what Mayor Higgins would want.
-355457615	Hah...words fail me, and so I shall keep watching.
-1136573202	A little touching up... Yes... Now aren't you just gorgeous.
-120801768	Hah...Mary. You are the one.
+1340264399	Mary ... Estou observando você há muito tempo ... Oh, Deus, não, isso soa assustador.
+1034885475	Apenas alguns pequenos toques... Sim... Isso é o que o prefeito Higgins gostaria.
+355457615	Hah... as palavras me falham, e por isso vou continuar assistindo.
+1136573202	Um pouco de retoque... Sim... Agora você está simplesmente deslumbrante.
+120801768	Hah... Mary. Você é o única.
 1750395949	I'll lift the key from her. But the guy on the balcony seems a little too fixated on her.
 461350108	Let's blind him a little with this perfume.
 1306362270	Higgins must have been planning this wedding for years.
@@ -16193,23 +16193,23 @@ Japanese	Japonês
 1491777208	Estados atordoado
 1324369933	Se um guarda encontrar um outro atordoado, ele o acordará e não tocará o alarme. No entanto, se testemunharem o nocaute ou encontrarem a vítima amarrada, eles irão acionar o alarme.
 242717582	Isca casacos longos
-841587656	Os casacos longos são imunes às iscas, mas você ainda pode atraí-las com pegadas ou lâmpadas apagadas.
-230296262	Gunshots as Bait
-1005629954	If you're feeling bold, you can use the noise from your gunshots as bait. It will raise the alarm, but can draw large groups of enemies, including Long Coats, to a location of your choosing.
-2134260994	Mind Controlling Long Coats
-705025876	Long Coats are resistant to Isabelle's mind control. They can only be taken over while they're stunned.
-656581142	Mind Control Culprits
-1599654236	Performing a kill with a mind-controlled guard will mark them as a culprit. If other guards witness the murder, they will attack the culprit. If they find the unconscious culprit near the victim, they will tie them up.
-97437742	Culprits and Long Coats
-335053795	If a Long Coat gets stunned by a mind-controlled guard, he will remember the culprit's face and shoot them next time he sees them.
-1258883271	Mind Control Skills
-1486407837	Skills available during mind control depend on the victim. Guards can perform a kill with their respective weapon. Civilians can call for help to lure guards.
-1289329808	Connect and Distractions
-759975619	If two guards are connected and one of them hears a distracting noise (like Cooper's coin), both will look in the direction of the noise.
-2003290337	Connect and Lures
-241375047	If two guards are connected and one of them gets baited by a lure (like McCoy's bag), others will walk a few steps toward the lure as well, then think better of it and return to their post.
-1911833233	Connect and Damage Types
-477939682	Connect always transfers the same type of damage. Kill one guard, and their connected partner dies. Knock out one, and the other falls unconscious.
+841587656	Os casacos longos são imunes às iscas, mas você ainda pode atraí-los com pegadas ou lâmpadas apagadas.
+230296262	Tiros como isca
+1005629954	Se você se sente ousado, pode usar o ruído dos seus tiros como isca. Isso dispara o alarme, mas pode atrair grandes grupos de inimigos, incluindo Casacos Longos, para um local de sua escolha.
+2134260994	Mente que controla casacos longos
+705025876	Os casacos longos são resistentes ao controle mental de Isabelle. Eles só podem ser controlados enquanto estão atordoados.
+656581142	Mentes Controladas
+1599654236	Ao realizar uma matança com um guarda controlado pela mente, o marcará como um culpado. Se outros guardas testemunharem o assassinato, eles atacarão o culpado. Se eles encontrarem o culpado inconsciente perto da vítima, eles o amarrarão.
+97437742	Culpados e Casacos Longos
+335053795	Se um Casaco Longo for atordoado por um guarda controlado pela mente, ele lembrará do rosto do culpado e o matará na próxima vez que o vir.
+1258883271	Habilidade de Controle mental
+1486407837	As habilidades disponíveis durante o controle da mente dependem da vítima. Os guardas podem executar uma matança com suas respectivas armas. Os civis podem pedir ajuda para atrair guardas.
+1289329808	Conexão e distrações
+759975619	Se dois guardas estiverem conectados e um deles ouvir um ruído perturbador (como a moeda de Cooper), ambos olharão na direção do ruído.
+2003290337	Conexão e iscas
+241375047	Se dois guardas estiverem conectados e um deles for atraído por uma isca (como a bolsa de McCoy), outros também darão alguns passos em direção à isca e depois pensam melhor e retornam aos seus postos.
+1911833233	Conexão e tipos de danos
+477939682	A conexão sempre transfere o mesmo tipo de dano. Mate um guarda e seu colega conectado morrerá. Bata e o outro ficará inconsciente.
 400560812	Connect and Long Coats
 1973720970	Long Coats can be stunned with damage received from connected guards. The effect will always be a stun, even if the type of damage would normally kill them outright (like Hector's axe).
 696649581	Connect and Blind Skills
