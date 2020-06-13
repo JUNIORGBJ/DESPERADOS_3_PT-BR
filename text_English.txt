@@ -1102,17 +1102,17 @@ Japanese	Japonês
 1070272398	Cão de guarda
 569349177	Pistolera
 402270059	Poncho
-1520900021	Judge McGain
+1520900021	Juiz McGain
 31931305	O´Neill
 137554682	Sr. Irving
-2100952380	Bily the Kid
-1038617784	Mazen "Longshot" Bilto
+2100952380	Bily o garoto
+1038617784	Mazen "Tiro Longo" Bilto
 159344247	Bertie Hill
 998679126	Bum Spencer
-1321434840	Andy "Quickdraw" Hegyes
+1321434840	Andy "Desenho rápido" Hegyes
 568378835	Dolores
 1661613942	Sly Wingman
-1246909675	Three Finger Jane
+1246909675	Jane Três Dedos
 963694914	Prefeito Higgins
 61180315	Rosie
 941977273	Configurações inimigas
@@ -1183,26 +1183,26 @@ Japanese	Japonês
 2072507729	Muito bem. Ajude-nos a oferecer a melhor versão para quando o jogo for lançado. "Continuar" abrirá o site da pesquisa. Não tenha pressa. Nós realmente apreciamos disso!
 1245446765	Contrato de usuário final
 774155896	[Empty]
-1615115792	$USER_NAME_OR_ID unlocked a badge in $TITLE_NAME.
-835984463	$USER_NAME_OR_ID unlocked $STORY_COUNT badges in $TITLE_NAME.
-500124912	$USER_NAME_OR_ID completed {0} on {1} difficulty in $TITLE_NAME.
-354397091	$USER_NAME_OR_ID completed $STORY_COUNT missions on {0} difficulty in $TITLE_NAME.
-654425012	$USER_NAME_OR_ID killed {0} guards in $TITLE_NAME.
-1744584040	$USER_NAME_OR_ID killed a significant number of guards in $TITLE_NAME.
-1224139281	$USER_NAME_OR_ID killed {0} Long Coats in $TITLE_NAME.
-629521266	$USER_NAME_OR_ID killed a significant number of Long Coats in $TITLE_NAME.
-1477070416	$USER_NAME_OR_ID saved {0} times in $TITLE_NAME.
-739213705	$USER_NAME_OR_ID saved many times in $TITLE_NAME.
-577929473	$USER_NAME_OR_ID loaded {0} times in $TITLE_NAME.
-1210269984	$USER_NAME_OR_ID loaded many times in $TITLE_NAME.
-492106947	$USER_NAME_OR_ID executed Showdown Mode with {0} characters in $TITLE_NAME.
-1172617677	$USER_NAME_OR_ID executed Showdown Mode with multiple characters $STORY_COUNT times in $TITLE_NAME.
-859345761	$USER_NAME_OR_ID killed {0} enemies at the same time in $TITLE_NAME.
-1252998259	$USER_NAME_OR_ID completed {0} on {1} difficulty and unlocked {2} badges in $TITLE_NAME.
-925150016	$USER_NAME_OR_ID killed multiple enemies at the same time $STORY_COUNT times in $TITLE_NAME.
-1558010130	$USER_NAME_OR_ID completed $STORY_COUNT missions on {1} difficulty in $TITLE_NAME.
-151706036	$USER_NAME_OR_ID unlocked all badges of {0} in $TITLE_NAME.
-2734629	$USER_NAME_OR_ID unlocked all badges of $STORY_COUNT missions in $TITLE_NAME.
+1615115792	$USER_NAME_OR_ID desbloqueou um distintivo em $TITLE_NAME.
+835984463	$USER_NAME_OR_ID desbloqueado $STORY_COUNT distintivo em $TITLE_NAME.
+500124912	$USER_NAME_OR_ID completado {0} em {1} dificuldade em $TITLE_NAME.
+354397091	$USER_NAME_OR_ID completado $STORY_COUNT missões em {0} difficulty em $TITLE_NAME.
+654425012	$USER_NAME_OR_ID matou {0} guardas em $TITLE_NAME.
+1744584040	$USER_NAME_OR_ID matou um número significativo de guardas em $TITLE_NAME.
+1224139281	$USER_NAME_OR_ID matou {0} Casacos compridos em $TITLE_NAME.
+629521266	$USER_NAME_OR_ID matou um número significativo de casacos longos $TITLE_NAME.
+1477070416	$USER_NAME_OR_ID salvou {0} vezes em $TITLE_NAME.
+739213705	$USER_NAME_OR_ID salvou muitas vezes em $TITLE_NAME.
+577929473	$USER_NAME_OR_ID carregou {0} vezes em $TITLE_NAME.
+1210269984	$USER_NAME_OR_ID carregado muitas vezes em $TITLE_NAME.
+492106947	$USER_NAME_OR_ID Modo Confronto executado com {0} personagens em $TITLE_NAME.
+1172617677	$USER_NAME_OR_ID Modo Confronto executado com vários personagens $STORY_COUNT vezes em $TITLE_NAME.
+859345761	$USER_NAME_OR_ID killed {0} inimigos ao mesmo tempo em $TITLE_NAME.
+1252998259	$USER_NAME_OR_ID concluído {0} em {1} dificuldade e desbloqueado {2} distintivo em $TITLE_NAME.
+925150016	$USER_NAME_OR_ID matou vários inimigos ao mesmo tempo $STORY_COUNT vezes em $TITLE_NAME.
+1558010130	$USER_NAME_OR_ID concluído $STORY_COUNT mmissões em {1} dificuldade em $TITLE_NAME.
+151706036	$USER_NAME_OR_ID desbloqueou todos os distintivo de {0} no $TITLE_NAME.
+2734629	$USER_NAME_OR_ID desbloqueou todos os distintivo de $STORY_COUNT missões em $TITLE_NAME.
 1780758815	Escala de renderização
 905456972	Modo de dificuldade
 90161797	Fácil
@@ -1213,10 +1213,10 @@ Japanese	Japonês
 423656608	Jogador de Poker 1
 1117150295	Jogador de Poker 2
 169451094	Jogador de Poker 3
-215441153	Bruto da compãnia
-889456816	Guarda da compãnia
-1603078355	Welcome in the QA testlevel! In this testlevel you can perform clean testing of characters, NPCs usables and more. Some features might be missing, but will be added in future iterations of this level.
-663543378	This is the playerroom. When you enter the QA testlevel you will always start here with all characters in front. On the top, you find a small parkour for player navigation testing.
+215441153	Bruto da Compania
+889456816	Guarda da Compania
+1603078355	Bem-vindo ao nível de teste do controle de qualidade! Neste nível de teste, você pode executar testes limpos de caracteres, NPCs utilizáveis e muito mais. Alguns recursos podem estar ausentes, mas serão adicionados em futuras iterações deste nível.
+663543378	Esta é a sala de jogos. Ao entrar no nível de teste do controle de qualidade, você sempre começará aqui com todos os caracteres à frente. No topo, você encontra um pequeno parkour para teste de navegação do jogador.
 574096615	North of the playerroom is the cheatslist.
 789341352	Right of the playerroom you will find the testroom. It's the primary testroom, with every guard and with most of the features, which will be needed for testing.
 1091142676	In the north of the testroom you will find the control panel. The control panel works as followed: First you choose a guard type, then you choose the position where the guard type should be Geraed. This way you can Gera all enemy types in all kind of different setups.
