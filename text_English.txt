@@ -2520,7 +2520,7 @@ Japanese	Japonês
 771457816 	Oito.
 1603586861 	Nove.
 1964015665 	Dez.
-1095455461  Onze.
+1095455461	Onze.
 1934833708	Treze.
 1441084342	Você pulou doze.
 615032282	Você acha que eu não posso contar até treze ?!
