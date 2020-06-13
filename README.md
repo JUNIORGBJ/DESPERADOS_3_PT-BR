@@ -7,17 +7,17 @@
 </figure></h1>
 
 
-## Sobre a Tradução
+## ![Gatinho](https://img.icons8.com/color/30/000000/github--v1.png)Sobre a Tradução
 
 O objetivo do projeto é:
 
 _ "Traduzir 100% do jogo com a melhor qualidade possível" _
 
-## Por quê?
+## ![Gatinho](https://img.icons8.com/color/30/000000/github--v1.png)Por quê?
 
 Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, portanto ficarei feliz se você puder ajudar de alguma forma o projeto, tradução, erros ortográficos e revisão em jogo!
 
-## Instalação
+## ![Gatinho](https://img.icons8.com/color/30/000000/github--v1.png)Instalação
 
 Se você desejar testar a tradução em jogo, será preciso colar e substituir os arquivos ```text_English.txt``` e ```keyboard_English.txt``` no caminho especificado abaixo:
 
