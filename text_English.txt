@@ -6621,64 +6621,64 @@ Japanese	Japonês
 1616576476	Onde você conseguiu isso?
 664640296	Obrigado.
 937545552	Obrigado.
-684673124	Fuse is lit!
-1391455837	Lit up.
-696313527	Gotta get rid of it fast.
-1747968087	Fuse is lit!
-534057737	Lighting up.
-1841187674	Gotta get rid of it fast.
-1857871395	See you later!
-1054850633	Heads up!
-655306181	Coming up!
-735394820	See you later!
-1356631450	Heads up!
-1601183704	Coming up!
-277891919	What do we have here?
-1669593380	Don't mind if I do.
-670267666	Finders keepers.
-769039758	Might come in handy.
-1716686979	Pretty heavy.
-1037509372	Got the money.
-1852303705	Right... Mine.
-1301664456	Yeah. Might come in handy.
-1885282172	Might be useful.
-536580680	That's mine.
-441838535	Don't mind if I do.
-404465203	Might come in handy.
-1494139264	Heh... Just like fishing.
-1274886341	Look what I have.
-1971710575	See that?
-1653780251	Reminds me of Doc.
-1370676411	Yup. Like fishing.
-992292223	Bait's out.
-1683794939	We got fire.
-1324117856	Need a light?
-908144739	Catch!
-1766496773	There!
-1352448581	Lights out.
-1671337557	Gotta lose the torch here.
-788213518	Shit. Dropped it.
-592925315	Damn. Dropped it.
-173829260	Right, where were we?
-2089402234	So like I was saying...
-1268406319	Back to the point...
-1596160698	Hrm, where were we?
-1554290899	What was I saying...
-941672430	Like I was saying...
-1014431014	Back to the point...
-1151537806	So, uh, where were we?
-1705518745	Like you were saying...
-136592286	Well, this is getting weird.
-418997296	You sure you wanna keep doing that?
-1738455828	Just saying, I got better things to do.
-245262910	You ever heard the story about the kid who lost a finger?
-1425203375	Kinda reminds me of what you're doing right now.
-146625226	That kid, he should have minded his own business. 
-1964856913	Instead, he went around getting on everyone's nerves.
-1531033611	BAM, just like that... Finger was gone.
-432826438	Food for thought I'd say.
-1344111692	Hey now. hold yer horses.
-745634994	Think the headache's getting worse.
+684673124 	O fusível está aceso!
+1391455837 	Aceso.
+696313527 	Preciso me livrar dele rápido.
+1747968087 	O fusível está aceso!
+534057737 	Acendendo.
+1841187674 	Preciso me livrar dele rápido.
+1857871395 	Até mais!
+1054850633 	Atenção!
+655306181 	Chegando!
+735394820 	Até mais!
+1356631450	Atenção!
+1601183704 	Chegando!
+277891919 	O que temos aqui?
+1669593380 	Não se importe se eu fizer.
+670267666 	Achado não é roubado.
+769039758 	Pode ser útil.
+1716686979 	Muito pesado.
+1037509372 	Peguei o dinheiro.
+1852303705 	Certo ... Meu.
+1301664456 	Sim. Pode vir a calhar.
+1885282172 	Pode ser útil.
+536580680 	Isso é meu.
+441838535 	Não se importe se eu fizer.
+404465203 	Pode ser útil.
+1494139264 	Heh ... Assim como pescar.
+1274886341 	Olha o que eu tenho.
+1971710575 	Vê isso?
+1653780251 	Me lembra o Doc.
+1370676411 	Sim. Gosta de pescar.
+992292223 	A isca está fora.
+1683794939 	Temos fogo.
+1324117856 	Precisa de uma luz?
+908144739 	Peguei!
+1766496773 	Aqui!
+1352448581 	Luzes apagadas.
+1671337557 	Tenho que perder a tocha aqui.
+788213518 	Merda. Deixou-a cair.
+592925315 	Porra. Deixou-a cair.
+173829260 	Certo, onde estávamos?
+2089402234 	Então, como eu estava dizendo ...
+1268406319 	Voltando ao ponto....
+1596160698 	Hrm, onde estávamos?
+1554290899 	O que eu estava dizendo ...
+941672430 	Como eu estava dizendo ...
+1014431014	Voltando ao ponto...
+1151537806	Então, onde estávamos?
+1705518745	Como você estava dizendo ...
+136592286	Bem, isso está ficando estranho.
+418997296	Tem certeza de que quer continuar fazendo isso?
+1738455828	Apenas falando, eu tenho coisas melhores para fazer.
+245262910	Você já ouviu a história sobre o garoto que perdeu um dedo?
+1425203375	Meio que me lembra o que você está fazendo agora.
+146625226	Aquele garoto, ele deveria ter se importado com o seu próprio negócio.
+1964856913	Em vez disso, ele saiu por aí irritando todos.
+1531033611	BAM, assim mesmo ... O dedo se foi.
+432826438	Alimento para o pensamento, eu diria.
+1344111692	Ei agora. Segure seus cavalos.
+745634994	Acho que a dor de cabeça está piorando.
 942041567	O que? Quem fez isso?
 1226787952	Ok, mantenha-se junto, Cooper.
 559462246	Isso não é brincadeira.
@@ -6739,50 +6739,50 @@ Japanese	Japonês
 217950412	O que? Sim.
 423220322	Mantenha-se junto, hombre.
 1410043925	Bianca precisa de mim.
-2610475	Bastards shot up our boat.
-1990159601	I'm gonna rip these assholes a new one.
+2610475		Bastardos dispararam em nosso barco.
+1990159601	Eu vou fazer um novo buraco na sua bunda.
 1105635547	Bianca quer vingança.
 1584913950	Ninguém coloca Hector em uma cela.
 309149042	Alguma idéia de onde estamos?
 284337048	Bianca não gosta de nadar.
 40588927	Heh heh, é hora da vingança.
 38007557	Eu vou estragar este lugar.
-469394834	Pfuah... Swamp fly.
-2020555894	Any reptiles around here?
-631054508	Reminds me of some place.
-1848835559	This town used to be something.
-1333163562	Course they're here too.
-1822990084	I got enough of these guys.
-1228538066	Let's catch a ride.
-1872569763	Fancy place.
-1486643159	Let's catch the rich prick.
-1568345425	Bianca's a fine lady too.
-1199169416	Feels good to be back.
-1240295110	Heh, different times, same shithole.
-1213018281	Frank's waiting.
-2055647080	We got this.
-2030405779	No sweat.
-35439906	Got a package here.
-109023352	Where do you want this?
-570391497	Yeah... No sweat.
-112595052	...! ...! Yeah?
-239351998	...! Still got it.
-2090078223	Hrm... I hate cages.
-1754285984	Not much I can do.
-1013565478	Think, Hector, think.
-1178653186	Damn it, gotta get out.
-942971735	Let's go!
-1631900250	Oh, I see.
-408136858	Yeah, I got it.
-94261056	All right.
-871727664	Keep your eyes peeled.
-1246721726	Sure thing, amigo.
-1112289709	On my way.
-1007467624	Can do.
-127388188	Let's light this up!
-188191931	I like it!
-537737020	Making a move.
-687059772	Let's do this.
+469394834	Pfuah... Mosca do pântano.
+2020555894	Algum réptil por aqui?
+631054508	Lembra-me de algum lugar.
+1848835559	Esta cidade costumava ser alguma coisa.
+1333163562	Claro que eles estão aqui também.
+1822990084	Já cansei desses caras.
+1228538066	Vamos pegar uma carona.
+1872569763	Lugar chique.
+1486643159	Vamos pegar o rico.
+1568345425	Bianca também é uma bela dama.
+1199169416	É bom estar de volta.
+1240295110	Heh, tempos diferentes, mesma merda.
+1213018281	Frank está esperando.
+2055647080	Está no papo.
+2030405779	Sem suor.
+35439906	Tenho um pacote aqui.
+109023352	Onde você quer isso?
+570391497	Yeah... Sem suor.
+112595052	...! ...! Sim?
+239351998	...! Ainda o tenho.
+2090078223	Hrm... Eu odeio gaiolas.
+1754285984	Não posso fazer muito.
+1013565478	Pense, Hector, pense.
+1178653186	Porra, eu tenho que sair.
+942971735	Vamos lá!
+1631900250	Oh, Eu vejo.
+408136858	Sim, entendo.
+94261056	Muito bem.
+871727664	Mantenha seus olhos abertos.
+1246721726	Claro, amigo.
+1112289709	No meu caminho.
+1007467624	Pode fazer.
+127388188	Vamos iluminar isso!
+188191931	Eu gosto disso!
+537737020	Fazendo um movimento.
+687059772	Vamos fazer isso.
 1416768657	Come on, amigo.
 2115627036	This way, amigo.
 610283050	You got it, amigo.
