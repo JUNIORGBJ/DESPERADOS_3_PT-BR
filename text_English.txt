@@ -13,7 +13,7 @@ Japanese	Japonês
 326908463	Cancelar seleção de personagem
 1593035469	Selecionar todos os personagens
 720952508	Cancelar seleção de todos os personagens
-8814543	Usar
+8814543		Usar
 1707401394	Correr
 1228448906	Esconder cadáver
 974031510	Pulo baixo
@@ -178,7 +178,7 @@ Japanese	Japonês
 427002912	ÁUDIO
 435550555	CONTROLES
 1956330395	CRÉDITOS
-876312009	DEV
+876312009	DESENVOLVEDOR
 486633304	Lembrete de jogo salvo
 367072283	Ativa o lembrete de jogo salvo na borda superior da tela./n Ajuste também o tempo para que o lembrete reapareça após seu último jogo salvo.
 904565450	Legendas NPC
@@ -513,7 +513,7 @@ Japanese	Japonês
 1307582697	Coloque Bianca (armadilha para urso). Mata o primeiro inimigo que pisar nela. Precisa ser recuperado novamente.
 1246149011	Apito
 823392386	Apito para criar ruído. Os inimigos ao alcance se moverão para o local de Hector.
-1909121017	The Good Stuff
+1909121017	As coisas boas
 473693194	Tome um gole para curar Hector. Forte demais para todo mundo.
 2029916213	Espingarda Serrada
 930899656	Atire nos inimigos com a serrada. Atinge todos os alvos dentro do cone de dano.
@@ -1084,7 +1084,7 @@ Japanese	Japonês
 1657907318	Kate
 780032065	Isabelle
 1683601941	Stella
-1482129	Civil
+1482129		Civil
 2140714460	Casaco Longo
 1413190058	Frank
 890092290	DeVitt
@@ -1217,11 +1217,11 @@ Japanese	Japonês
 889456816	Guarda da Compania
 1603078355	Bem-vindo ao nível de teste do controle de qualidade! Neste nível de teste, você pode executar testes limpos de caracteres, NPCs utilizáveis e muito mais. Alguns recursos podem estar ausentes, mas serão adicionados em futuras iterações deste nível.
 663543378	Esta é a sala de jogos. Ao entrar no nível de teste do controle de qualidade, você sempre começará aqui com todos os caracteres à frente. No topo, você encontra um pequeno parkour para teste de navegação do jogador.
-574096615	North of the playerroom is the cheatslist.
-789341352	Right of the playerroom you will find the testroom. It's the primary testroom, with every guard and with most of the features, which will be needed for testing.
-1091142676	In the north of the testroom you will find the control panel. The control panel works as followed: First you choose a guard type, then you choose the position where the guard type should be Geraed. This way you can Gera all enemy types in all kind of different setups.
-1135000294	On the far right we find the parkour. This room is designed for enemy navigation testing, but also for door testing. The enemies can be activated with the control panel in the north of this room. After activation they will follow their route through the parkour.
-1873777461	If you want to navigate quickly through the testlevel, take a look into the hint log. I hope this short tutorial answered all questions. For further questions please ask Toby. That's it for now: Happy testing and god bless my friend! *Bob Ross quote end*
+574096615	A norte da sala de jogos está a lista de truques.
+789341352	À direita da sala de jogos, você encontrará a sala de testes. É a sala de teste principal, com todos os guardas e com a maioria dos recursos, que serão necessários para o teste.
+1091142676	No norte da sala de teste, você encontrará o painel de controle. O painel de controle funciona da seguinte maneira: Primeiro você escolhe um tipo de guarda e depois a posição em que o tipo de guarda deve ser gerado. Dessa forma, você pode gerar todos os tipos de inimigos em todos os tipos de configurações diferentes.
+1135000294	Na extrema direita, encontramos o parkour. Esta sala foi projetada para testes de navegação inimiga, mas também para testes de portas. Os inimigos podem ser ativados com o painel de controle no norte desta sala. Após a ativação, eles seguirão sua rota pelo parkour.
+1873777461	Se você deseja navegar rapidamente pelo nível de teste, dê uma olhada no log de dicas. Espero que este pequeno tutorial tenha respondido a todas as perguntas. Para mais perguntas, pergunte a Toby. É isso por agora: testes felizes e que Deus abençoe meu amigo! *Bob Ross quote end*
 941720566	Tutorial
 1934154351	A cena a seguir apresentará uma breve introdução ao nível de teste do controle de qualidade. Em outras perguntas, pergunte a Toby!
 2029272716	Cabeçalho do objetivo
@@ -1233,15 +1233,15 @@ Japanese	Japonês
 1080858096	R3 - Parkour
 1994417064	Navegação inimiga, uso da porta.
 1864776957	Cooper
-476223141	Move to Cooper.
+476223141	Mover para Cooper.
 755438217	McCoy
-364741177	Move to McCoy.
+364741177	Mover para McCoy.
 1634278010	Hector
-370963810	Move to Hector.
+370963810	Mover para Hector.
 2004505788	Kate
-995441901	Move to Kate.
+995441901	Mover para Kate.
 715430043	Isabelle
-530774733	Move to Isabelle.
+530774733	Mover para Isabelle.
 1678000250	Johnnie. Você está ficando para trás! Anda logo.
 220997359	Estou atrás de você, Pai.
 469298229	Eu vou em frente. Me siga discretamente.
@@ -1478,13 +1478,13 @@ Japanese	Japonês
 2126919349	Confie em mim. Eu sei o tipo.
 1317692460	Nada ainda. Por que está demorando tanto?
 1680411418	O bastardo provavelmente está escondido em algum lugar. Não se preocupe, eles o encontrarão.
-1699565207	Shouldn't they be back now?
-268746474	Nah, I bet they're taking their time with him. Bastard deserves it.
-143066108	What if he killed them... Maybe I'm next.
-1916520478	Heh, relax. Guy like him ain't gonna waste a bullet on you.
+1699565207	Eles não deveriam estar de volta agora?
+268746474	Não, eu aposto que eles estão demorando com ele. O bastardo merece isso.
+143066108	E se ele os matou...Talvez eu seja o próximo.
+1916520478	Heh, relaxa. Um cara como ele não vai desperdiçar uma bala em você.
 1529165791	Adoro quando um plano funciona.
-863068086	Yeah, Big Ann knows what she's doing.
-2048397418	She sure does.
+863068086	Sim, O Grande Ann sabe o que está fazendo.
+2048397418	Ela com certeza faz.
 1004650523	How long you think we have?
 533505294	Nobody got away, so we can take our time.
 565392077	Heh, nice.
