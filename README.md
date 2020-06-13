@@ -24,3 +24,5 @@ Se você desejar testar a tradução em jogo, será preciso colar e substituir o
 ```Desperados III_Data\StreamingAssets\keyboard\keyboard_English.tx```
 
 Assim que a tradução for finalizada criaremos um instalador para automatizar a instalação.
+
+Obrigado!:wave:
