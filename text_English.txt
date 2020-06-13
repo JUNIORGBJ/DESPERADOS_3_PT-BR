@@ -1796,7 +1796,7 @@ Japanese	Japonês
 1612691898	...Tudo certo. Amanhã então.
 288677953	Está certo, amigo. Agora, me diga o que você tem feito.
 2129741644	VO TRACK
-444461650	We've assembled here because our good friend Bill has passed away, crushed by a wall that some idiot didn't put up properly.
+444461650	Nós nos reunimos aqui porque nosso bom amigo Bill faleceu, esmagado por um muro que algum idiota não ergueu corretamente.
 409318720	It wasn't me!
 878016439	Shut your face, Josh.
 929043127	We're here to return his crushed remains to the earth, ashes to ashes, dust to dust and all that stuff.
@@ -2408,17 +2408,17 @@ Japanese	Japonês
 349225924	Whatever happened to staying quiet.
 329877195	Heh, doesn't matter if no one's left standing.
 1893103596	Heh, I got the first one.
-1625668423	Good for you.
-1462016211	First one goes to me.
-1444993407	Hrm, next one's mine.
-659797290	That's one.
-175665438	Two down.
-301673563	That makes three.
-1958539560	And now four.
-72423646	Number five.
-1377852766	Six.
-1372046456	Seven.
-1036354872	Eight.
+1625668423	Bom para você.
+1462016211	O primeiro vai para mim.
+1444993407	Hrm, o próximo é meu
+659797290	Essa é uma.
+175665438	Dois a menos.
+301673563	Isso faz três.
+1958539560	E agora quatro.
+72423646	Número cinco
+1377852766	Seis.
+1372046456	Sete.
+1036354872	Oito.
 389336902 	Esse é o número nove.
 439989574 	E faz para dez.
 1310290895 	Onze.
@@ -2460,7 +2460,7 @@ Japanese	Japonês
 1369808929 	Quarenta e sete.
 324457102 	Quarenta e oito.
 860867371 	Quarenta e nove.
-1452846779 	Fifty.
+1452846779 	Cinquenta.
 2128430469 	Cinqüenta e um.
 850997634 	Cinqüenta e dois.
 344070455 	Cinqüenta e três.
@@ -2514,14 +2514,14 @@ Japanese	Japonês
 670749358 	São dois.
 1130272799 	Três caídos.
 323147298 	Quatro.
-1057148287 	Five.
+1057148287 	Cinco.
 1221591999 	Seis.
-940611155 	Seven.
+940611155 	Sete.
 771457816 	Oito.
 1603586861 	Nove.
-1964015665 	Ten.
-1095455461  	Onze.
-1934833708  	Treze.
+1964015665 	Dez.
+1095455461  Onze.
+1934833708  Treze.
 1441084342	Você pulou doze.
 615032282	Você acha que eu não posso contar até treze ?!
 369939346	Não achei que você passaria de três.
@@ -2612,17 +2612,17 @@ Japanese	Japonês
 1464024531 	Noventa e sete.
 1932826005 	Noventa e oito.
 412296235 	Noventa e nove.
-1561130345	Looks like you're falling behind.
-1067616533	I'm just warming up.
-2071346198	What's the matter? You're falling behind!
-1386900202	I'm just taking my time.
-1847947834	Hah, I'm catching up!
-843642707	You're still trailin'.
-1779438194	Looks like I'm catching up, Mr. Hector.
-2127283402	Yeah yeah, keep talking.
-1780459215	Hah! One-hundred. How many you got, Doc?
-1376515276	I think we're done counting. You've made your point.
-1274673224	Come now, Doc. I'm always here for a rematch.
+1561130345	Parece que você está ficando para trás.
+1067616533	Estou apenas me aquecendo.
+2071346198	Qual é o problema? Você está ficando para trás!
+1386900202	Estou apenas tomando meu tempo.
+1847947834	Hah, eu estou alcançando!
+843642707	Você ainda está arrastando.
+1779438194	Parece que eu estou lhe alcançando, Sr. Hector.
+2127283402	Sim, sim, continue falando.
+1780459215	Hah! Cem. Quantos você tem, Doc?
+1376515276	Acho que terminamos de contar. Você fez o seu ponto.
+1274673224	Venha agora, Doc. Estou sempre aqui para uma revanche.
 1257414093	That makes a hundred. What's your tally?
 483252041	Uh...think I lost count. Let's say it's a draw.
 946595501	That sounds more like capitulating, Mr. Hector.
