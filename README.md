@@ -15,7 +15,7 @@ _ "Traduzir 100% do jogo com a melhor qualidade possível" _
 
 ## Por quê?
 
-Este projeto irá ajudar muitas pessoas a entender melhor a historia do jogo, portanto ficarei feliz se você puder ajudar de algum forma o projeto, tradução, erros ortográficos e revisão em jogo!
+Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, portanto ficarei feliz se você puder ajudar de alguma forma o projeto, tradução, erros ortográficos e revisão em jogo!
 
 ## Instalação
 
