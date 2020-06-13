@@ -16177,15 +16177,15 @@ Japanese	Japonês
 901336057	O arquivo de dados do usuário está corrompido e não pode ser recuperado. Os dados do usuário serão redefinidos para o padrão.
 1649511477	Suas configurações de entrada personalizadas foram corrompidas e serão substituídas pelas configurações padrão.
 617153358	Josh
-1063320780	Stopping Mid-Climb
-1755510902	Press <hotkey>{0}</hotkey> to stop mid-climb on ladders, vines and ropes.
-1836583362	Moving Bodies in Showdown Mode
-68164799	If you pick up a body in Showdown mode, you can save an additional action to move and drop it. This also works with Kill & Carry.
-240081232	Showdown Mode Waypoints
-321945412	In Showdown Mode, you can set a single waypoint for each character.
-1843019443	Reinforcement Info
-72136199	Press <hotkey>{0}</hotkey> or mouse over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
-1133491710	hold <hotkey>{0}</hotkey> and press <hotkey>{1}</hotkey> or move the cursor over a Guard House icon to see the number and type of reinforcements that will be deployed during an alarm, as well as the total number of reserves.
+1063320780	Parar no meio do caminho
+1755510902	Pressione <hotkey>{0}</hotkey> para parar no meio da escada, cordas e trepadeiras.
+1836583362	Movendo corpos no modo Duelo
+68164799	Se você pegar um corpo no modo Duelo, poderá reservar uma ação adicional para movê-lo e largá-lo. Isso também funciona ao Matar e Mover.
+240081232	Pontos intermediários no modo Duelo
+321945412	No modo Duelo, você pode traçar um único ponto para cada personagem.
+1843019443	Informações de Reforço
+72136199	Pressione <hotkey>{0}</hotkey> ou passe o mouse sobre o ícone de um quartel para ver o número e o tipo de reforços que serão implantados durante um alarme, bem como o número total de reservas.
+1133491710	Segure <hotkey>{1}</hotkey> e pressione <hotkey>{0}</hotkey> ou mova o cursor sobre o ícone de um quartel para ver o número e o tipo de reforços que serão implantados durante um alarme, bem como o número total de reservas.
 1806446353	Reinforcement Limits
 2073461372	With each new alarm, dead or tied up reinforcement guards will be replaced from the limited reserves in the Guard House. If a Guard House is empty, no more reinforcements will come.
 1306284367	Barking Dogs
