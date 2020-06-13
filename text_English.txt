@@ -2737,34 +2737,34 @@ Japanese	Japonês
 2079104040	Don't be stupid.
 125265372	It's not your fault... You got that, Katey?
 69624517	VO TRACK
-969888385	Find Hector
-186064563	Hector is still at the boathouse. Find out what's taking him so long.
-1249601770	Kill Long Coats ({0} of 5)
-1144541248	Kill 5 Long Coats to scare the raiders away. Take your pick.
-186837690	Fields
-796807187	Kill the Long Coat in the fields.
-2068426836	Horse Pen
-1967232135	Kill the Long Coat in the horse pen.
-785639623	Grain Silo
-268239813	Kill the Long Coat at the grain silo.
-2148324	Chicken Coop
-886660634	Kill the Long Coat at the chickens.
-756952832	Lumber Cabin
-813882251	Kill the Long Coat at the lumber cabin.
-973882311	Ranch Entrance
-1703534974	Kill the Long Coat at the ranch entrance.
-155034382	Cattle Pen
-1841005762	Kill the Long Coat at the cattle pen.
-885664251	Meet Up
-1103747779	McCoy wants to check on something. Meet up at the vantage point.
-1356586583	Put Fire Under Their Asses
-1182811597	Grab a torch from the bonfire and throw it into the oil puddle.
-1139956959	Torches and Oil
-1604157719	Torches can be used to light up oil puddles. You can grab a torch at bonfires. Lamps dropped by dead or knocked-out guards will also ignite the oil.
-1017498960	Loose Rock
-76768848	This rock looks loose. A shame if it would fall onto someone.
-1455844339	Broken Pipe
-1901536544	The pipe seems like it is barely hanging from the silo.
+969888385	Encontre Hector
+186064563	Hector ainda está na casa dos barcos. Descubra porque ele está demorando tanto.
+1249601770	Mortes de Casacos Longos ({0} de 5)
+1144541248	Mate 5 Casacos Longos para assustar os invasores. Você escolhe.
+186837690	Campos
+796807187	Mate o casaco longo nos campos.
+2068426836	Estábulo
+1967232135	Mate o casaco longo no estábulo.
+785639623	Silo de grãos
+268239813	Mate o Casaco Longo no silo de grãos.
+2148324	Galinheiro
+886660634	Mate o casaco longo no galinheiro.
+756952832	Cabana de madeira
+813882251	Mate o Casaco Longo na cabana de madeira.
+973882311	Entrada do Rancho
+1703534974	Mate o Casaco Longo na entrada da fazenda.
+155034382	Curral
+1841005762	Mate o Casaco Longo no curral.
+885664251	Encontro
+1103747779	McCoy quer checar alguma coisa. Encontre-se na posição.
+1356586583	Fogo no rabo
+1182811597	Pegue uma tocha na fogueira e jogue-a na poça de óleo.
+1139956959	Tochas e óleo
+1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lâmpadas derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
+1017498960	Pedra solta
+76768848	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
+1455844339	Cano quebrado
+1901536544	Parece que o cano está mal pendurado no silo.
 2103704041	A stormy night. A tragic memory. What better place to test one's resolve. Welcome back to the O'Hara Ranch.
 1862619689	Four victims await their inevitable end. However, not just any method of slaughter will do.
 1768873308	My clients want to see spectacle. Crushing boulders, blazing fires—your tools are limited, but extremely effective.
