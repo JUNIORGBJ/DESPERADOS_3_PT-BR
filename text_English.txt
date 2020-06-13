@@ -1797,25 +1797,25 @@ Japanese	Japonês
 288677953	Está certo, amigo. Agora, me diga o que você tem feito.
 2129741644	VO TRACK
 444461650	Nós nos reunimos aqui porque nosso bom amigo Bill faleceu, esmagado por um muro que algum idiota não ergueu corretamente.
-409318720	It wasn't me!
-878016439	Shut your face, Josh.
-929043127	We're here to return his crushed remains to the earth, ashes to ashes, dust to dust and all that stuff.
-1508246087	Guys, that's all I can remember. Any you suckers wanna say anything?
-903238742	Yeah, I got something. Bill...was a good man. Never hurt a fly. Beat his wife like there was no tomorrow, but who doesn't, eh? You rest in peace there, Bill.
-1293668422	I'll miss Bill. He was capable, yes he was. Could nobody put up a wall as fast and straight as Billy did. Especially not Josh, as we're all aware of now.
-34616657	I said, it wasn't me!
-1617731165	And I said shut the fuck up.
-955829136	Yeah, yeah, whatever. I think we've all said our piece. You two, start shoveling. I think I need a drink.
-1152530045	This is outrageous! You can't just tear down my house!
-241605746	Company orders. Tracks got to go through here.
-1069749397	To hell with your company!
-2061009579	She's making me crazy. Part of me just wants to pack up and leave.
-1612044536	I went through her drawer yesterday. Did you know she keeps laudanum there?
-1055833194	Don't tell me you got a taste for that stuff!
-247554796	Oh, of course not! I just wondered who we got this from.
-1839984841	You know Doc Harold? Sometimes, when he can't pay, he brings a bottle from his stash.
-848744463	No! Really?
-734518430	Shit, look at these walls. Josh is like a half-fucked fox in a forest fire—he couldn't hammer two boards together to save his life.
+409318720	Não fui eu!
+878016439	Cale a boca, Josh.
+929043127	Estamos aqui para devolver seus restos esmagados à terra, cinzas em cinzas, pó em pó e todas essas coisas.
+1508246087	Caras, isso é tudo que consigo me lembrar. Algum de vocês quer dizer alguma coisa?
+903238742	Sim, eu tenho uma coisa. Bill ... era um bom homem. Nunca machucou uma mosca, mas batia na esposa como se não houvesse amanhã, mas quem não, não é? Descanse em paz, Bill.
+1293668422	Vou sentir falta do Bill. Ele era capaz, sim, ele era. Ninguém poderia erguer um muro tão rápido e direto quanto Billy. Especialmente Josh, como todos sabemos agora.
+34616657	Eu disse, não fui eu!
+1617731165	E eu disse cala a maldita boca.
+955829136	Sim, sim, tanto faz. Acho que todos já falamos o bastante. Vocês dois, comecem a trabalhar com pá. Eu acho que preciso de uma bebida.
+1152530045	Isso é ultrajante! Você não pode simplesmente derrubar minha casa!
+241605746	Ordens da companhia. A ferrovia tem que passar por aqui.
+1069749397	Para o inferno com sua companhia!
+2061009579	Ela está me deixando louco. Parte de mim só quer fazer as malas e sair.
+1612044536	Eu fui até a gaveta dela ontem. Você sabia que ela mantém láudano lá?
+1055833194	Não me diga que você gosta dessas coisas!
+247554796	Ah, claro que não! Eu só me perguntei de quem tiramos isso.
+1839984841	Você conhece Doc Harold? Às vezes, quando ele não pode pagar, ele traz uma garrafa de seu estoque.
+848744463	Não! Sério?
+734518430	Merda, olhe para essas paredes. Josh é como uma raposa meio fodida em um incêndio na floresta - ele não podia martelar duas tábuas para salvar sua vida.
 958228402	Yeah. You just look at them and they fall over. That's what got Bill the other day.
 118267129	Shit, that's been going on all day.
 123783945	I'd say he's gonna torment the poor animal to death, unless he gets trampled first.
