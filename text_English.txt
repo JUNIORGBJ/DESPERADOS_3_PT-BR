@@ -1485,25 +1485,25 @@ Japanese	Japonês
 1529165791	Adoro quando um plano funciona.
 863068086	Sim, O Grande Ann sabe o que está fazendo.
 2048397418	Ela com certeza faz.
-1004650523	How long you think we have?
-533505294	Nobody got away, so we can take our time.
-565392077	Heh, nice.
-1891347620	Something bothering you?
-1435572714	Yeah, you tell me what a fucking boat is doing here?
+1004650523	Quanto tempo você acha que temos?
+533505294	Ninguém escapou, então podemos levar o nosso tempo.
+565392077	Heh, legal.
+1891347620	Algo está incomodando você?
+1435572714	Sim, você me diz o que a merda de um barco está fazendo aqui?
 817174129	Não sei, não me importo.
 56340574	Vamos fazer isso quieto. Eu pego um, você pega o outro.
 1076432959	Vamos lá, eu sei que ele conseguiu.
-1432156816	Search him real good, ya hear?
-1322432559	You taking your time or what?
-1410962525	We need that key for the safe.
-1085771153	I can smell it. That sweet sweet money.
-1638431021	That's right. Keep your head down, or I'm gonna blow it off.
-1540093329	Hah, and you thought you could fight back. Now look at you!
-2143608143	You better give us everything or we're gonna search your bodies later.
-1812276984	You gonna meet Big Ann soon. Aren't you excited.
-155411799	Golly, I hate fancy folk like you. Especially you.
-55708919	That's what you get for riding on a DeVitt Company train.
-1876589766	I'd rather stay out of this.
+1432156816	Procurá-lo muito bem, você ouviu?
+1322432559	Você está demorando ou o quê?
+1410962525	Precisamos dessa chave para o cofre.
+1085771153	Eu posso sentir o cheiro. Aquele, doce, doce dinheiro.
+1638431021	Está certo. Mantenha a cabeça baixa, ou eu vou explodi-lo..
+1540093329	Hah, e você pensou que poderia revidar. Agora olhe para você!
+2143608143	É melhor você nos dar tudo ou vamos procurar seus corpos mais tarde.
+1812276984	Você vai conhecer Big Ann em breve. Você não está animado?
+155411799	Golly, eu odeio gente chique como você. Especialmente você.
+55708919	É isso que você ganha ao andar no trem da Comapanhia DeVitt.
+1876589766	Prefiro ficar de fora disso.
 782751206	Os passageiros certamente poderiam usar nossa ajuda.
 271645073	Por que perder tempo? Vamos continuar. 
 1374310770	Vai? Sem perder tempo.
@@ -16228,31 +16228,31 @@ Japanese	Japonês
 2026724582	You can use dead bodies from environment kills as lures without causing alarm.
 1591065676	Throwing Bodies
 301069101	If you throw a body onto another guard, they will be knocked out. One throw can't knock out multiple guards.
-2123247603	Matthew "Sleepy" McElderly
-1427262324	Hambino, "Left Hand of the Devil"
-703449657	Jones "The Lame" McCodings
-224526852	Felicity, "Right Hand of the Devil"
+2123247603	Matthew "Sonolento" McElderry
+1427262324	Hambino, "Mão Esquerda do Diabo"
+703449657	Jones "O Coxo" McCodings
+224526852	Felicity, "Mão direita do diabo"
 356379514	Ann' McGull
-112931937	Detective Mo von Presswald
-459512988	John "Bastard Operator" McRoth
-405965771	Dom Lyn the Bass
+112931937	Detetive Mo von Presswald
+459512988	John "Operador bastardo" McRoth
+405965771	Dom Lyn o Baixo
 133398481	Florence Smolker
 1173975773	Ray Farewell
-1936699364	Toby "Leisurly" Dalton
-1322278176	Unfortunate Lucy
-1987592860	 Ramona the Dirty 
+1936699364	Toby "Vagaroso" Dalton
+1322278176	Infeliz Lucy
+1987592860	Ramona a Suja
 1125227931	Calamity Cem
 628363203	Maze Trapped Simon 
-475530897	Sheriff Dorian O'Really
-863655585	"Ocelot Eyes" Estela
-513846601	Mountain Phil
+475530897	Xerife Dorian O'Really
+863655585	"Olhos de jaguatirica" Estela
+513846601	Phil Montanha
 948506850	Ol' Horseshoe Phil 
-511230854	Guitar Slingin’ Peccoz Phil
-1999491406	Bugtrapper Frilke
+511230854	Violão Slingin 'Peccoz Phil
+1999491406	Frilke Caçador de insetos
 1022997599	Ramón Almodóvar
-1710572236	Terence "Timebomb" McSpencer
-1986271992	Danny the Eye
-2012704045	Leo "See No Evil" Longley
+1710572236	Terence "Bomba-relógio" McSpencer
+1986271992	Danny o Olho
+2012704045	Leo "Não vê o mal" Longley
 653181388	Chave da gaiola (Isabelle)
 512238242	Essa chave abre a gaiola de Isabelle.
 1848671995	Chave da gaiola (Kate & Hector)
@@ -16451,11 +16451,11 @@ Japanese	Japonês
 194996508	VO TRACK
 1458935711	VO TRACK
 510752416	VO TRACK
-1616150760	Use
+1616150760	Usar
 877914855	Gina LeBrush
 1143681278	Chester Goodwill
-1201834348	Louis the Hand
-33790966	Billy "Beer Hatin‘ Rugface" Ben 
+1201834348	Louis a Mão
+33790966	Billy "Cerveja Hatin ‘Rugface" Ben 
 859114774	Os desafios do barão
 1049284093	Sussurros no escuro
 502931271	O Barão espera nas sombras. Ele entrará em contato com você quando for a hora certa.
@@ -16463,7 +16463,7 @@ Japanese	Japonês
 1197034691	Você é contatado por um homem misterioso que se faz conhecido por você como o Barão. Suas ações atraíram o interesse de seus clientes e ele oferece a você a chance de participar de desafios exclusivos para o benefício do entretenimento deles. O Barão colocará à prova sua habilidade no jogo e, às vezes, ajustará a mecânica estabelecida de maneiras inesperadas.
 1313161225	Novo desafio
 35945019	O Barão tem um novo desafio para você.
-659216221	Vanishing Act
+659216221	Lei de Fuga
 309882009	A sealed letter is pushed under the door to your room at the saloon. You pick it up, recognizing the Baron's seal on the wax./n/n"How long has it been since Flagstone, friend? You'd be surprised how little has changed. Why don't you come visit? A new challenge awaits."/n/nYou ask around who delivered the letter, but nobody saw anyone.
 370901028	The Baron has beckoned you to Flagstone to tackle his latest challenge. He has tasked you with eliminating a certain snakeoil salesman, who is peddling his wares at the heart of town, and delivering his body to the open grave at the church.
 1447220327	Hazards of the Trade
