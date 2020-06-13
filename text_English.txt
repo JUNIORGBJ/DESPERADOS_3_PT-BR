@@ -837,7 +837,7 @@ Japanese	Japonês
 266826627	Em algum lugar no deserto do México, dois cavaleiros se aproximam do esconderijo de um infame fora-da-lei.
 1864224566	A alguns quilômetros da fronteira com o México, nas ruínas de uma antiga vila às margens dos penhascos da Garganta do Diabo./n/nHá rumores que um infame fora-da-lei se esconde aqui, um homem que só atende pelo nome de Frank./n/nHoje, dois cavaleiros do deserto estão se aproximando, caçadores de recompensas empenhados em entregar Frank, vivo ou morto.
 773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam a Garganta do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
-681032158	Byers Pass
+681032158	Passagem Byers
 2097221155	Atrasado no dia de pagamento
 1657883687	Um trem de propriedade da influente compãnia DeVitt está a caminho da cidade de Flagstone. Passando por Byers Pass ele encontrou um obstáculo inesperado.
 801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo das paisagens das Montanhas Rochosas./n/nSeus vagões - com a marca da Compãnia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entrou em Byers Pass, os passageiros ficaram inquieto. Bandidos estão perambulando por essas partes, e a compãnia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
@@ -1921,34 +1921,34 @@ Japanese	Japonês
 541866882	Sino
 832290859	O sino da igreja caiu recentemente. Seria uma pena se isso acontecesse novamente.
 1017964628	Ah, laje. Um lugar como muitos outros. A vida fica quieta aqui até que problemas surjam. Hoje não será um dia calmo.
-1031286426	The man you see here is Chester Goodwill: a man of little value, and a perfect victim for our challenge today.
-522016773	My clients want you to remove Mr. Goodwill and deliver his body to the church. Shame really that half the town is watching him right now. 
-869608647	Maybe a visit to the Flagstone brothel would be in order. I'm sure Miss O'Hara would appreciate the extra options.
-447558083	Whatever your approach, you can rest assured: My clients will be watching.
-515758989	Excellent. I'm sure Mr. Goodwill would appreciate the sentiment. Just as my clients appreciate your performance.
-267284509	Kill Chester Goodwill
-178223830	Take out the salesman peddling his wares in the middle of the street.
-1901558278	Bury the Body
-196637280	Drag Mr. Goodwill's body to the churchyard and throw it in the coffin.
-1473554651	Disguise
-202354555	Kate can get a disguise from a prostitute in the Flagstone brothel.
-979423799	Everyone hold still, please.
-1359697944	Magnificent!
-1559499210	And another.
-389220884	I think this side is much more stately.
-256272098	Right, I'll fetch another plate.
-2031706714	How do you like the new dress, sweet pea?
-21845656	It's lovely, darling.
-986374359	Excellent! I want everyone talking about this day for years to come.
-1065468858	Mayor Higgins!
-687118702	What now?
-1301008775	Frank says he's getting impatient.
-1758863038	Shht! Not now! Can't you see we're in the middle of something?
-1308103675	I'm sorry sweet pea. This is something I really have to take care of.
-1296826008	Don't you worry about me, darling.
-952763125	Stay right here. I'll be back in a jiffy.
-2110419620	I need more time. Try to distract Frank. I really need to check the flower arrangements.
-1015183357	Yes sir.
+1031286426	O homem que você vê aqui é Chester Goodwill: um homem de pouco valor e uma vítima perfeita para o nosso desafio hoje.
+522016773	Meus clientes querem que você remova o Sr. Goodwill e entregue seu corpo à igreja. Pena que metade da cidade o esteja observando agora.
+869608647	Talvez uma visita ao bordel de Flagstone estivesse em ordem. Tenho certeza de que a senhorita O'Hara apreciaria as opções extras.
+447558083	Seja qual for a sua abordagem, você pode ter certeza: meus clientes estarão assistindo.
+515758989	Excelente. Tenho certeza que o Sr. Goodwill apreciaria o sentimento. Assim como meus clientes apreciam seu desempenho.
+267284509	Mate Chester Goodwill
+178223830	Retire o vendedor vendendo suas mercadorias no meio da rua.
+1901558278	Enterrar o corpo
+196637280	Arraste o corpo do Sr. Goodwill para o cemitério e jogue-o no caixão.
+1473554651	Disfarce
+202354555	Kate pode se disfarçar de uma prostituta no bordel de Flagstone.
+979423799	Todo mundo fica parado, por favor.
+1359697944	Magnífico!
+1559499210	E outro.
+389220884	Eu acho que esse lado é muito mais imponente.
+256272098	Certo, vou buscar outro prato.
+2031706714	Como você gosta do vestido novo, docinho?
+21845656	É adorável, querida.
+986374359	Excelente! Quero que todos falem sobre esse dia nos próximos anos.
+1065468858	Prefeito Higgins!
+687118702	E agora?
+1301008775	Frank diz que está ficando impaciente.
+1758863038	Merda! Agora não! Você não vê que estamos no meio de alguma coisa?
+1308103675	Me desculpe, docinho. Isso é algo que eu realmente tenho que cuidar.
+1296826008	Não se preocupe comigo, querida.
+952763125	Fique aqui. Volto em um instante.
+2110419620	Eu preciso de mais tempo. Tente distrair Frank. Eu realmente preciso verificar os arranjos de flores.
+1015183357	Sim senhor.
 1297511042	VO TRACK
 855950524	Finally. I thought he'd never leave.
 820816475	Need to work fast. Get what I need and leave before I get dragged to the altar.
