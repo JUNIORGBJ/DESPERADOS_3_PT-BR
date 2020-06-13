@@ -1885,13 +1885,13 @@ Japanese	Japonês
 208098876	S-siga em frente senhor.
 1316482225	O quê?
 613580046	Siga em frente.
-2385115	        O que você está olhando?
+2385115	O que você está olhando?
 1774966609	Que porra é essa?
 670040870	Que diabos você quer?
 1861377146	Avance agora.
 1910319475	Que porra é essa?
-66447633        Acho que você conseguiu.
-239742081       Estou apenas navegando.
+66447633	Acho que você conseguiu.
+239742081	Estou apenas navegando.
 1454583597	Vejo você mais tarde... ou não.
 1549815304	Com licença?
 1861490142	Nós temos negócios?
@@ -2421,7 +2421,7 @@ Japanese	Japonês
 1036354872	Oito.
 389336902 	Esse é o número nove.
 439989574 	E faz para dez.
-1310290895 	Onze.
+1310290895	Onze.
 2084489457 	Uma dúzia.
 125828977 	Uma dúzia de padeiros.
 1298462800 	Quatorze.
@@ -2521,7 +2521,7 @@ Japanese	Japonês
 1603586861 	Nove.
 1964015665 	Dez.
 1095455461  Onze.
-1934833708  Treze.
+1934833708	Treze.
 1441084342	Você pulou doze.
 615032282	Você acha que eu não posso contar até treze ?!
 369939346	Não achei que você passaria de três.
