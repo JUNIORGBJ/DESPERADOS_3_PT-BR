@@ -3117,41 +3117,41 @@ Japanese	Japonês
 1283000525	Parece que esse carrinho de mina pode ser esvaziado na cabeça de alguém.
 853128941	Troncos soltos
 1657385379	Estes troncos soltos mal conseguem sustentar-se graças a uma prancha de madeira frágil.
-1138078354	Automated Saw
-627733433	The saw can be turned on and off using this vent. The possibilities are endless... 
-979219862	Dynamite Plunger
-1321641468	The workers at the quarry are using a plunger to detonate the dynamite. Let's hope nobody detonates it early...
-1648999959	You sure about this?
-1589189604	Absolutely. I'm not finished with DeVitt.
-626579769	I'd rather you stay with your ranch.
-1158182381	And I'd rather see what you got.
-1249377458	If you insist.
-676274750	Damn it! Not my lucky day it seems.
-780963820	Another round?
-1334665606	I think I'm good.
-1145524796	I warned you. He's a damn cheater.
-329291194	Like I'd have to cheat against you.
-978657549	Mhhh...finally!
-1761512886	Trust me, it's worth waiting for.
-615469602	So, what about the train?
-57342294	We'll ditch it. Don't need it to get to New Orleans.
-1468187789	What's in New Orleans?
-1559859946	Just an old bounty I wanna catch up on.
-271702602	Frank, huh? I know that face. Works for the Devitt Company now.
-352808776	Let me see it.
-1142906383	That's an old picture. How long has this hunt been going?
-1774780375	Long enough. I'll finish it in New Orleans.
-2014707239	Guess we all have our troubles...
-1863626746	Hector, it tastes amazing.
-241596674	Ahhh... I told you so!
-432917295	I think it's a bit salty.
-2144731839	No there's definitely some salt missing.
-1142770674	Well Kate, sounds like there's more left for the two of us.
-2113674128	I didn't say I don't want more.
-76782430	It's just not properly spiced.
+1138078354	Serra automática
+627733433	A serra pode ser ligada e desligada através deste conduíte. As possibilidades são infinitas... 
+979219862	Detonador de dinamite
+1321641468	Os trabalhadores da pedreira usam um detonador para explodir a dinamite. Espero que ninguém tenha detonado antes do tempo...
+1648999959	Você tem certeza disso?
+1589189604	Absolutamente. Eu não terminei com DeVitt.
+626579769	Prefiro que você fique no seu rancho.
+1158182381	E eu prefiro ver o que você tem.
+1249377458	Se você insiste.
+676274750	Droga! Não é o meu dia de sorte, parece.
+780963820	Outra partida?
+1334665606	Eu acho que estou bem.
+1145524796	Eu te avisei. Ele é um maldito trapaceiro.
+329291194	Como se eu tivesse que trair você.
+978657549	Uh oh... finalmente!
+1761512886	Confie em mim, vale a pena esperar.
+615469602	Então, e o trem?
+57342294	Descartado. Não precisamos ir a Nova Orleans.
+1468187789	O que há em Nova Orleans?
+1559859946	Apenas uma recompensa antiga que eu quero alcançar.
+271702602	Frank, não é? Eu conheço esse rosto. Trabalha para a Compãnia Devitt agora.
+352808776	Deixe-me ver.
+1142906383	É uma foto antiga. Quanto tempo durou essa caçada?
+1774780375	Longo o suficiente. Vou terminar em Nova Orleans.
+2014707239	Acho que todos temos nossos problemas...
+1863626746	Hector, tem um sabor incrível.
+241596674	Ahhh... eu te disse!
+432917295	Um pouco salgado, eu acho.
+2144731839	Não, definitivamente falta sal.
+1142770674	Bem, Kate, parece que ainda resta mais para nós dois.
+2113674128	Eu não disse que não quero mais.
+76782430	Apenas não é bem temperado.
 1956219847	VO TRACK
 236941690	...
-2061939657	Pa...
+2061939657	Papai...
 911979634	VO TRACK
 1398730384	I gotta get to Pa.
 1903729066	No way I can take them up close.
