@@ -832,11 +832,11 @@ Japanese	Japonês
 347856056	Chegue à capela pela entrada da direita.
 32670292	Não selecione {0}.
 1663542660	Sem sobreviventes.
-1223921571	Cânion do Diabo/n(Capítulo I)
+1223921571	Garganta do Diabo/n(Capítulo I)
 961120359	Era Uma Vez
 266826627	Em algum lugar no deserto do México, dois cavaleiros se aproximam do esconderijo de um infame fora-da-lei.
-1864224566	A alguns quilômetros da fronteira com o México, nas ruínas de uma antiga vila às margens dos penhascos do Cânion do Diabo./n/nHá rumores que um infame fora-da-lei se esconde aqui, um homem que só atende pelo nome de Frank./n/nHoje, dois cavaleiros do deserto estão se aproximando, caçadores de recompensas empenhados em entregar Frank, vivo ou morto.
-773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam ao Cânion do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
+1864224566	A alguns quilômetros da fronteira com o México, nas ruínas de uma antiga vila às margens dos penhascos da Garganta do Diabo./n/nHá rumores que um infame fora-da-lei se esconde aqui, um homem que só atende pelo nome de Frank./n/nHoje, dois cavaleiros do deserto estão se aproximando, caçadores de recompensas empenhados em entregar Frank, vivo ou morto.
+773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam a Garganta do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
 681032158	Byers Pass
 2097221155	Atrasado no dia de pagamento
 1657883687	Um trem de propriedade da influente compãnia DeVitt está a caminho da cidade de Flagstone. Passando por Byers Pass ele encontrou um obstáculo inesperado.
