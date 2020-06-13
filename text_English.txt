@@ -2419,199 +2419,199 @@ Japanese	Japonês
 1377852766	Six.
 1372046456	Seven.
 1036354872	Eight.
-389336902	That's number nine.
-439989574	And makes for ten.
-1310290895	Eleven.
-2084489457	A dozen.
-125828977	A baker's dozen.
-1298462800	Fourteen.
-2009573820	Fifteen.
-637383183	Sixteen.
-464791902	Seventeen.
-988899451	Eighteen.
-804261751	Nineteen.
-492666559	One score, an even twenty.
-175568877	Twenty-one. 
-1086416112	Twenty-two.
-1558704741	Twenty-three.
-1839139690	Twenty-four.
-116905987	Twenty-five.
-339271668	Twenty-six.
-89643992	Twenty-seven.
-704567552	Twenty-eight.
-1816160804	Twenty-nine.
-1887191649	Thirty.
-1845697394	Thirty-one.
-1974299695	Thirty-two.
-1137930864	Thirty-three.
-142971770	Thirty-four.
-190616318	Thirty-five.
-2141612030	Thirty-six.
-1922515145	Thirty-seven.
-1412517113	Thirty-eight.
-704530517	Thirty-nine.
-62845439	Forty.
-847955552	Forty-one.
-1755481889	Forty-two.
-596499267	Forty-three.
-1017385703	Forty-four.
-1628427805	Forty-five.
-1727840812	Forty-six.
-1369808929	Forty-seven.
-324457102	Forty-eight.
-860867371	Forty-nine.
-1452846779	Fifty.
-2128430469	Fifty-one.
-850997634	Fifty-two.
-344070455	Fifty-three.
-22923886	Fifty-four.
-1442181217	Fifty-five.
-1489563401	Fifty-six.
-491693069	Fifty-seven.
-1051955513	Fifty-eight.
-1224615247	Fifty-nine.
-2051083925	Sixty.
-1582584115	Sixty-one.
-1852812048	Sixty-two.
-193773231	Sixty-three.
-267903439	Sixty-four.
-1375645227	Sixty-five.
-1347194329	Sixty-six.
-1006652135	Sixty-seven.
-1937120270	Sixty-eight.
-1036738839	Sixty-nine.
-950325633	Seventy.
-517941010	Seventy-one.
-194666351	Seventy-two.
-245281451	Seventy-three.
-121734836	Seventy-four.
-1173247108	Seventy-five.
-1735322501	Seventy-six.
-1647282185	Seventy-seven.
-557261524	Seventy-eight.
-1227358004	Seventy-nine.
-1414747263	Eighty.
-2128039510	Eighty-one.
-955239376	Eighty-two.
-1762661705	Eighty-three.
-2034361529	Eighty-four.
-2099844040	Eighty-five.
-1132759264	Eighty-six.
-2074547180	Eighty-seven.
-65029356	Eighty-eight.
-568599257	Eighty-nine.
-106305298	Ninety.
-1361212536	Ninety-one.
-2067243342	Ninety-two.
-704090040	Ninety-three.
-1987249171	Ninety-four.
-1688055184	Ninety-five.
-1039972464	Ninety-six.
-2096519422	Ninety-seven.
-758750154	Ninety-eight.
-550458902	Ninety-nine.
-10454460	That's one.
-670749358	That's two.
-1130272799	Three down.
-323147298	Four.
-1057148287	Five.
-1221591999	Six.
-940611155	Seven.
-771457816	Eight.
-1603586861	Nine.
-1964015665	Ten. 
-1095455461	Eleven.
-1934833708	Thirteen.
-1441084342	You've skipped twelve.
-615032282	You think I can't count to thirteen?!
-369939346	I didn't think you'd get past three.
-563571499	All right, now it's thirteen.
-876337595	And fourteen.
-1006637175	Fifteen.
-1698614170	Sixteen.
-537026266	Seventeen.
-984603814	Eighteen.
-1216389532	Nineteen.
-564020677	Twenty.
-709692731	Twenty-one. That makes blackjack!
-589656482	Twenty-two.
-1243041379	Twenty-three.
-1126339019	Twenty-four.
-358160500	Twenty-five.
-210860315	Twenty-six.
-1650065866	Twenty-si...sev...er, twenty-seven.
-1824018816	Twenty-eight.
-1975487706	Twenty-nine.
-235618813	Thirty.
-472349408	Thirty-one.
-399199980	Thirty-two.
-1391160122	Thirty-three.
-1879806205	Thirty-four.
-1695070231	Thirty-five.
-1322499959	Thirty-six.
-1151561788	Thirty-seven.
-831601091	Thirty-eight.
-295348667	Thirty-nine.
-651254827	Forty.
-1463332423	Forty-one.
-1067372081	Forty-two.
-1261327377	Forty-three.
-615251596	Forty-four.
-1742652627	Forty-five.
-1860369213	Forty-six.
-294637249	Forty-seven.
-1233861147	Forty-eight.
-568351969	Forty-nine.
-1708645128	Fifty.
-236364191	Fifty-one.
-2103516679	Fifty-two.
-712367761	Fifty-three.
-1119499338	Fifty-four.
-325470599	Fifty-five.
-2119307620	Fifty-six.
-1097983866	Fifty-seven.
-2147402975	Fifty-eight.
-1193120629	Fifty-nine.
-2078717193	Sixty.
-1215297044	Sixty-one.
-771588594	Sixty-two.
-548352893	Sixty-three.
-1113736653	Sixty-four.
-1060998019	Sixty-five.
-1453027189	Sixty-six.
-1108510864	Sixty-seven.
-1401381718	Sixty-eight.
-1489995701	Sixty-nine.
-414326273	Seventy.
-1055772627	Seventy-one.
-982031485	Seventy-two.
-27566315	Seventy-three.
-324563996	Seventy-four.
-2023534094	Seventy-five.
-245069002	Seventy-six.
-1780368873	Seventy-seven.
-1685265908	Seventy-eight.
-1930291315	Seventy-nine.
-965144851	Eighty.
-969961490	Eighty-one.
-913508253	Eighty-two.
-836783876	Eighty-three.
-1224255063	Eighty-four.
-390791978	Eighty-five.
-2075346708	Eighty-six.
-1015571353	Eighty-seven.
-1957680821	That's eighty-eight.
-823746492	Eighty-nine.
-741673680	Ninety.
-233681250	Ninety-one.
-1600797181	Ninety-two.
-1059515523	Ninety-three.
-1654715169	Ninety-four.
-2113215409	Ninety-five.
-1349566509	Ninety-six.
-1464024531	Ninety-seven.
-1932826005	Ninety-eight.
-412296235	Ninety-nine.
+389336902 	Esse é o número nove.
+439989574 	E faz para dez.
+1310290895 	Onze.
+2084489457 	Uma dúzia.
+125828977 	Uma dúzia de padeiros.
+1298462800 	Quatorze.
+2009573820 	Quinze.
+637383183 	Dezesseis.
+464791902 	Dezessete.
+988899451 	Dezoito.
+804261751 	Dezenove.
+492666559 	Uma pontuação, e até vinte.
+175568877 	Vinte e um.
+1086416112 	Vinte e dois.
+1558704741 	Vinte e três.
+1839139690 	Vinte e quatro.
+116905987 	Vinte e cinco.
+339271668 	Vinte e seis.
+89643992 	Vinte e sete.
+704567552 	Vinte e oito.
+1816160804 	Vinte e nove.
+1887191649 	Trinta.
+1845697394 	Trinta e um.
+1974299695 	Trinta e dois.
+1137930864 	Trinta e três.
+142971770 	Trinta e quatro.
+190616318 	Trinta e cinco.
+2141612030	Trinta e seis.
+1922515145 	Trinta e sete.
+1412517113 	Trinta e oito.
+704530517	Trinta e nove.
+62845439 	Quarenta.
+847955552 	Quarenta e um.
+1755481889 	Quarenta e dois.
+596499267 	Quarenta e três.
+1017385703 	Quarenta e quatro.
+1628427805 	Quarenta e cinco.
+1727840812 	Quarenta e seis.
+1369808929 	Quarenta e sete.
+324457102 	Quarenta e oito.
+860867371 	Quarenta e nove.
+1452846779 	Fifty.
+2128430469 	Cinqüenta e um.
+850997634 	Cinqüenta e dois.
+344070455 	Cinqüenta e três.
+22923886 	Cinqüenta e quatro.
+1442181217 	Cinqüenta e cinco.
+1489563401 	Cinqüenta e seis.
+491693069 	Cinqüenta e sete.
+1051955513 	Cinqüenta e oito.
+1224615247 	Cinqüenta e nove.
+2051083925 	Sessenta.
+1582584115 	Sessenta e um.
+1852812048 	Sessenta e dois.
+193773231 	Sessenta e três.
+267903439 	Sessenta e quatro.
+1375645227 	sessenta e cinco.
+1347194329 	Sessenta e seis.
+1006652135 	Sessenta e sete.
+1937120270 	Sessenta e oito.
+1036738839 	Sessenta e nove.
+950325633 	Setenta.
+517941010 	Setenta e um.
+194666351 	Setenta e dois.
+245281451 	Setenta e três.
+121734836 	Setenta e quatro.
+1173247108 	Setenta e cinco.
+1735322501 	Setenta e seis.
+1647282185 	Setenta e sete.
+557261524 	Setenta e oito.
+1227358004 	Setenta e nove.
+1414747263 	Oitenta.
+2128039510 	Oitenta e um.
+955239376 	Oitenta e dois.
+1762661705 	Oitenta e três.
+2034361529 	oitenta e quatro.
+2099844040 	Oitenta e cinco.
+1132759264 	Oitenta e seis.
+2074547180 	Oitenta e sete.
+65029356 	oitenta e oito.
+568599257 	Oitenta e nove.
+106305298 	Noventa.
+1361212536 	Noventa e um.
+2067243342 	Noventa e dois.
+704090040 	Noventa e três.
+1987249171 	Noventa e quatro.
+1688055184 	Noventa e cinco.
+1039972464 	Noventa e seis.
+2096519422 	Noventa e sete.
+758750154 	Noventa e oito.
+550458902 	Noventa e nove.
+10454460 	Esse é um.
+670749358 	São dois.
+1130272799 	Três caídos.
+323147298 	Quatro.
+1057148287 	Five.
+1221591999 	Seis.
+940611155 	Seven.
+771457816 	Oito.
+1603586861 	Nove.
+1964015665 	Ten.
+1095455461  	Onze.
+1934833708  	Treze.
+1441084342	Você pulou doze.
+615032282	Você acha que eu não posso contar até treze ?!
+369939346	Não achei que você passaria de três.
+563571499	Tudo bem, agora são treze.
+876337595 	e catorze.
+1006637175 	Quinze.
+1698614170 	Dezesseis.
+537026266 	Dezessete.
+984603814 	Dezoito.
+1216389532 	Dezenove.
+564020677 	Vinte.
+709692731 	Vinte e um. Isso faz o blackjack!
+589656482 	Vinte e dois.
+1243041379 	Vinte e três.
+1126339019	Vinte e quatro.
+358160500 	Vinte e cinco.
+210860315 	Vinte e seis.
+1650065866 	Vinte e seis ... set ... vinte e sete.
+1824018816 	Vinte e oito.
+1975487706 	Vinte e nove.
+235618813 	Trinta.
+472349408 	Trinta e um.
+399199980 	Trinta e dois.
+1391160122 	Trinta e três.
+1879806205 	Trinta e quatro.
+1695070231 	Trinta e cinco.
+1322499959 	Trinta e seis.
+1151561788 	Trinta e sete.
+831601091 	Trinta e oito.
+295348667 	Trinta e nove.
+651254827 	Quarenta.
+1463332423 	Quarenta e um.
+1067372081 	Quarenta e dois.
+1261327377 	Quarenta e três.
+615251596 	Quarenta e quatro.
+1742652627 	Quarenta e cinco.
+1860369213 	Quarenta e seis.
+294637249 	Quarenta e sete.
+1233861147 	Quarenta e oito.
+568351969 	Quarenta e nove.
+1708645128 	Cinquenta.
+236364191 	Cinquenta e um.
+2103516679 	Cinquenta e dois.
+712367761 	Cinquenta e três.
+1119499338 	Cinquenta e quatro.
+325470599 	Cinquenta e cinco.
+2119307620 	Cinquenta e seis.
+1097983866 	Cinquenta e sete.
+2147402975 	Cinquenta e oito.
+1193120629 	Cinquenta e nove.
+2078717193 	Sessenta.
+1215297044 	Sessenta e um.
+771588594 	Sessenta e dois.
+548352893 	Sessenta e três.
+1113736653 	Sessenta e quatro.
+1060998019 	Sessenta e cinco.
+1453027189 	Sessenta e seis.
+1108510864 	Sessenta e sete.
+1401381718 	Sessenta e oito.
+1489995701 	Sessenta e nove.
+414326273 	Setenta.
+1055772627 	Setenta e um.
+982031485 	Setenta e dois.
+27566315 	Setenta e três.
+324563996 	Setenta e quatro.
+2023534094 	Setenta e cinco.
+245069002 	Setenta e seis.
+1780368873 	Setenta e sete.
+1685265908 	Setenta e oito.
+1930291315 	Setenta e nove.
+965144851 	Oitenta.
+969961490 	Oitenta e um.
+913508253 	Oitenta e dois.
+836783876 	Oitenta e três.
+1224255063 	oitenta e quatro.
+390791978 	Oitenta e cinco.
+2075346708 	Oitenta e seis.
+1015571353 	Oitenta e sete.
+1957680821 	Isso é oitenta e oito.
+823746492 	Oitenta e nove.
+741673680 	Noventa.
+233681250 	Noventa e um.
+1600797181 	Noventa e dois.
+1059515523 	Noventa e três.
+1654715169 	Noventa e quatro.
+2113215409 	Noventa e cinco.
+1349566509 	Noventa e seis.
+1464024531 	Noventa e sete.
+1932826005 	Noventa e oito.
+412296235 	Noventa e nove.
 1561130345	Looks like you're falling behind.
 1067616533	I'm just warming up.
 2071346198	What's the matter? You're falling behind!
