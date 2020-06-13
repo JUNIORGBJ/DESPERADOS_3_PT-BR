@@ -3101,22 +3101,22 @@ Japanese	Japonês
 1127203636	This won't happen on my watch.
 1115120634	Secure the goddam train!
 78326914	Fire up the engine!
-1276707754	Get the Dynamite
-1335003154	Find a box of dynamite and take what you need to blow up the bridge.
-704089349	Quarry
-1544104025	They're using dynamite in the quarry. It's being stored in a small hut.
-1016138534	Shooting Range
-502956785	There's a weapons shed at the shooting range. You can find dynamite in there.
-1896043261	Plant the Dynamite
-1943625003	McCoy has found a good spot for the dynamite. Head down to the base of the bridge and place it.
-171903277	Snipe the Dynamite
-291821293	Get everyone off the bridge, then have McCoy snipe the dynamite from afar.
-2036498134	Meet Up at the Train
-404539240	Hector waits for you at the train. Gather everyone there and escape.
-1529195657	Mine Cart
-1283000525	This mine cart looks like it could be emptied on someone's head.
-853128941	Loose Logs
-1657385379	These logs are barely held in place by a flimsy wooden board.
+1276707754	Pegue a Dynamite
+1335003154	Encontre uma caixa de dinamite e pegue o que você precisa para explodir a ponte.
+704089349	Pedreira
+1544104025	Eles estão usando dinamite na pedreira. Está sendo armazenado em uma pequena cabana.
+1016138534	Campo de tiro
+502956785	Há um galpão de armas na galeria de tiro. Lá você encontrará dinamite.
+1896043261	Plante a dinamite
+1943625003	McCoy encontrou um bom ponto para a dinamite. Vá até a base da ponte e coloque-a.
+171903277	Atire a dinamite
+291821293	Tire todos da ponte e faça McCoy atirar na dinamite de longe.
+2036498134	Encontre-se no trem
+404539240	Hector está esperando por você no trem. Reúna todos lá e fuja.
+1529195657	Mine vagão
+1283000525	Parece que esse carrinho de mina pode ser esvaziado na cabeça de alguém.
+853128941	Troncos soltos
+1657385379	Estes troncos soltos mal conseguem sustentar-se graças a uma prancha de madeira frágil.
 1138078354	Automated Saw
 627733433	The saw can be turned on and off using this vent. The possibilities are endless... 
 979219862	Dynamite Plunger
