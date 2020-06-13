@@ -16178,7 +16178,7 @@ Japanese	Japonês
 1649511477	Suas configurações de entrada personalizadas foram corrompidas e serão substituídas pelas configurações padrão.
 617153358	Josh
 1063320780	Parar no meio do caminho
-1755510902	Pressione <hotkey>{0}</hotkey> para parar no meio da escada, cordas e trepadeiras.
+1755510902	Pressione <hotkey>{0}</hotkey> para parar no meio de escadas, cordas e trepadeiras.
 1836583362	Movendo corpos no modo Duelo
 68164799	Se você pegar um corpo no modo Duelo, poderá reservar uma ação adicional para movê-lo e largá-lo. Isso também funciona ao Matar e Mover.
 240081232	Pontos intermediários no modo Duelo
@@ -16186,14 +16186,14 @@ Japanese	Japonês
 1843019443	Informações de Reforço
 72136199	Pressione <hotkey>{0}</hotkey> ou passe o mouse sobre o ícone de um quartel para ver o número e o tipo de reforços que serão implantados durante um alarme, bem como o número total de reservas.
 1133491710	Segure <hotkey>{1}</hotkey> e pressione <hotkey>{0}</hotkey> ou mova o cursor sobre o ícone de um quartel para ver o número e o tipo de reforços que serão implantados durante um alarme, bem como o número total de reservas.
-1806446353	Reinforcement Limits
-2073461372	With each new alarm, dead or tied up reinforcement guards will be replaced from the limited reserves in the Guard House. If a Guard House is empty, no more reinforcements will come.
-1306284367	Barking Dogs
-1729303052	A barking dog won't raise the alarm, but guards in earshot will come and investigate.
-1491777208	Knockout States
-1324369933	If a guard finds a knocked out guard, they will wake them up and not raise the alarm. However, if they witness the knockout or find the victim tied up, they WILL raise the alarm.
-242717582	Baiting Long Coats
-841587656	Long Coats are immune to lures, but you can still bait them with footprints or extinguished lamps.
+1806446353	Limites de reforço
+2073461372	A cada novo alarme, guardas mortos ou amarrados serão substituídos pelas reservas limitadas da Casa da Guarda. Se uma Casa da Guarda estiver vazia, não haverá mais reforços.
+1306284367	Cães latindo
+1729303052	Um cachorro latindo não dispara o alarme, mas os guardas que o ouvem virão investigar.
+1491777208	Estados atordoado
+1324369933	Se um guarda encontrar um outro atordoado, ele o acordará e não tocará o alarme. No entanto, se testemunharem o nocaute ou encontrarem a vítima amarrada, eles irão acionar o alarme.
+242717582	Isca casacos longos
+841587656	Os casacos longos são imunes às iscas, mas você ainda pode atraí-las com pegadas ou lâmpadas apagadas.
 230296262	Gunshots as Bait
 1005629954	If you're feeling bold, you can use the noise from your gunshots as bait. It will raise the alarm, but can draw large groups of enemies, including Long Coats, to a location of your choosing.
 2134260994	Mind Controlling Long Coats
