@@ -16464,11 +16464,11 @@ Japanese	Japonês
 1313161225	Novo desafio
 35945019	O Barão tem um novo desafio para você.
 659216221	Lei de Fuga
-309882009	A sealed letter is pushed under the door to your room at the saloon. You pick it up, recognizing the Baron's seal on the wax./n/n"How long has it been since Flagstone, friend? You'd be surprised how little has changed. Why don't you come visit? A new challenge awaits."/n/nYou ask around who delivered the letter, but nobody saw anyone.
-370901028	The Baron has beckoned you to Flagstone to tackle his latest challenge. He has tasked you with eliminating a certain snakeoil salesman, who is peddling his wares at the heart of town, and delivering his body to the open grave at the church.
-1447220327	Hazards of the Trade
-1794102132	A courier wordlessly passes you by, quickly putting a slightly crumpled note into your hands, penned in the Baron's handwriting./n/n"I hear your last visit to O'Hara Ranch was quite spectacular. A new challenge awaits you there, if you're interested."/n/nYou turn around to grab hold of the courier, but the man has already vanished in the crowd.
-1275070322	You have returned to O'Hara Ranch for the Baron's latest challenge. Your task is to kill all targets without using any of your weapons. Instead, you must use the environment to dispose of them.
+309882009	Alguém colocou uma carta debaixo da porta do seu quarto na taberna. Você reconhece o selo do Barão e o pega. Você ficaria surpreso ao ver que nada mudou. Vá visita-lo, um novo desafio espera por você.”/n/n Você pergunta quem trouxe a carta, mas não viram ninguém por ali.
+370901028	O Barão fez você vir a Flagstone para realizar seu último desafio. Ele te chamou para remover um certo fornecedor de óleo de cobra que oferece seu produto no centro da cidade e levar seu corpo para o túmulo aberto na igreja.
+1447220327	Ossos do ofício
+1794102132	Um mensageiro passa por você sem dizer uma palavra, rapidamente ele coloca uma nota um pouco amassada em sua mão, na caligrafia do Barão./n/n “Me disseram que sua recente visita ao rancho de O'Hara foi espetacular. Caso esteja interessado, um novo desafio o espera por lá.”/n/n Você se vira para pegar o mensageiro, mas ele já desapareceu na multidão.
+1275070322	Você voltou ao rancho O'Hara para o último desafio do barão. Sua tarefa é matar todos os alvos sem usar nenhuma de suas armas. Em vez disso, você deve usar sua criatividade descartá-los.
 1120194126	Three Men With No Name
 2002330802	A coach window opens next to you. A gloved hand emerges and gives you a postcard. It is signed by the Baron./n/n "Greetings from Baton Rouge, friend! The locals here tell me all kinds of things about you. Why don't you join me here for a drink? I've already come up with a new challenge."/n/nBefore you can ask any questions, the window closes and the coach drives off, soon disappearing around the next corner.
 251713547	You have taken a trip to Baton Rouge, where another of the Baron's challenges awaits you. He wants you to deliver the bodies of three targets to the coffins inside the bank. However, you don't know where they are, only that they look exactly like a certain someone.
