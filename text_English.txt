@@ -1990,7 +1990,7 @@ Japanese	Japonês
 1328032688	Just a little more... Yes... Very nice.
 1632605479	Hello Mary. I like your walk... No...no that doesn't sound right.
 798447257	Ha, well you look a little uneven there, don't you? Ahhh much better.
-1340264399	Mary ... Estou observando você há muito tempo ... Oh, Deus, não, isso soa assustador.
+1340264399	Mary... Estou observando você há muito tempo... Oh, Deus, não, isso soa assustador.
 1034885475	Apenas alguns pequenos toques... Sim... Isso é o que o prefeito Higgins gostaria.
 355457615	Hah... as palavras me falham, e por isso vou continuar assistindo.
 1136573202	Um pouco de retoque... Sim... Agora você está simplesmente deslumbrante.
