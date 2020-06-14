@@ -8440,36 +8440,36 @@ Japanese	Japonês
 2002224943	Locked.
 1815445650	It's locked.
 187308505	Won't budge.
-2002792298	Gimme some time.
-2014682765	Not right yet.
-655197554	Can't do it yet.
-1890405791	They're too big.
-500561845	Too big for me.
-446010654	A bit tall for me.
-63731527	What should I do now?
-258862932	Onward and upward.
-1553803775	What now?
-2094216020	All done.
-610975601	Heh, nothing to it.
-557457947	Looks good.
-93000985	Done. What's next?
-1085649194	That'll do it.
-1202917247	Done.
-1572771200	It's done.
-268953212	Okay, done.
-1369762905	It worked!
-1132278620	Ugh, nasty.
-1452927986	I'm coming, Pa.
-12405886	Sorry about that.
-1700567394	That's gotta hurt.
+2002792298	Me dê um tempo.
+2014682765	Ainda não consigo.
+655197554	Ainda não posso fazer isso.
+1890405791	Eles são muito grandes.
+500561845	Grande demais para mim.
+446010654	Um pouco alto para mim.
+63731527	O que eu deveria fazer agora?
+258862932	Para frente e para cima.
+1553803775	E agora?
+2094216020	Tudo feito.
+610975601	Heh, nada disso.
+557457947	Parece bom.
+93000985	Feito. Qual é o próximo?
+1085649194	Isso fará.
+1202917247	Feito.
+1572771200	Está feito.
+268953212	Ok, feito.
+1369762905	Funcionou!
+1132278620	Ugh, desagradável.
+1452927986	Estou indo, pai.
+12405886	Me desculpe por isso.
+1700567394	Isso deve doer.
 505409819	...!
-1699684799	...! N-no!
-456237591	...! Stop!
-1224516696	...Pa...
-346297442	...Help...
+1699684799	...! N-não!
+456237591	...! Pare!
+1224516696	...Pai...
+346297442	...Ajuda...
 357582577	...
-977728358	Got 'em...
-887995607	You're heavy...
+977728358	Peguei eles...
+887995607	Você é pesado...
 790619903	...!
 8060920	...! Whew.
 1743547639	...! Package delivered.
