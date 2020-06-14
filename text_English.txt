@@ -5931,7 +5931,7 @@ Japanese	Japonês
 2065545980	What's that supposed to mean?
 1961986198	There's the McCoy I know.
 1767359387	Hrm.
-648291760	What?
+648291760	O que?
 1488931636	I hate the desert. The sand gets fucking everywhere.
 1093594089	Who'd have thought. We got something in common.
 1397871176	Heard she was Frank's old flame.
@@ -6305,7 +6305,7 @@ Japanese	Japonês
 415349483	Nothing...to it.
 1218396589	Ufa ... No meu caminho.
 1684779458	...Indo.
-878301274	...Over there?
+878301274	...Lá?
 922675365	...No meu caminho.
 1646207786	...Vamos lá.
 1327747076	...Sim.
@@ -7187,7 +7187,7 @@ Japanese	Japonês
 106322557	My arm's getting tired.
 1713765855	Let's keep moving.
 654617766	I smell trouble.
-141907643	On my way.
+141907643	No meu caminho.
 1249216033	Hrm, okay then.
 2125029863	Understood.
 707508975	It'll cost you.
@@ -8396,32 +8396,32 @@ Japanese	Japonês
 860753893	Go to savegames.
 1327277550	Press delete all... Do it. Now.
 514413215	Oops... Look what you did, silly.
-2036930682	Is it time?
-1475892683	Eyes open, Johnny.
-739688853	Tight as a bowstring.
+2036930682	Está na hora?
+1475892683	Olhos abertos, Johnny.
+739688853	Apertado como uma corda de arco.
 621171003	Certo. Estou pronto.
 596974803	Estou pronto dessa vez.
 1308312152	I gotta get to Pa.
 395666720	Pa needs me.
 575611466	Pa went to the chapel.
-608468872	Where to?
+608468872	Para onde?
 2141638710	This is...really heavy.
-1699288412	Okay, uh, where to?
-394982435	Sure. No problem.
-2099790094	Leave it to me.
-1189081317	On my way.
-763245685	It's now or never.
-557704481	Sure. Let's go.
-1972136448	Right. On my way.
-862236337	Sure thing.
-1486685629	I got this.
+1699288412	Ok, para onde?
+394982435	Certo. Sem problemas.
+2099790094	Deixe para mim.
+1189081317	No meu caminho.
+763245685	É agora ou nunca.
+557704481	Certo. Vamos lá.
+1972136448	Correto. No meu caminho.
+862236337	Está certo..
+1486685629	Eu vou.
 1785287502	I'll get it done.
 2027953958	Please be okay.
 1785336322	I can do this...
 1106567418	Gotta move.
 1905492557	Now or never.
 1611616462	Come on...
-1193834096	On my way.
+1193834096	No meu caminho.
 862746886	Yup... Leave it to me.
 1703730525	Good spot.
 557766959	Be right there.
@@ -8482,30 +8482,30 @@ Japanese	Japonês
 1952873210	...
 267646758	...
 1872087459	...
-1782865882	Glad I picked up these.
-1197043391	One fake coin, coming up.
-591619537	Still got plenty left.
-1834219954	Heads or tails.
-1097207485	Need some change?
-2033273181	Come on, turn around.
-1446007145	All right... Eyes on target.
-247508946	Fifteen paces.
-793755707	Ten paces.
-1425440453	Sure... I can do it.
+1782865882	Ainda bem que peguei essas.
+1197043391	Uma moeda falsa, chegando.
+591619537	Ainda resta muitas.
+1834219954	Cara ou Corôa.
+1097207485	Precisa de troco?
+2033273181	Vamos, vire-se.
+1446007145	Tudo bem... Olhos no alvo.
+247508946	Quinze passos.
+793755707	Dez passos.
+1425440453	Claro ... eu consigo.
 316166839	...!
 2027989569	...!
 871118155	...!
-989369584	Where's the knife?
-1400774471	Did I lose it?
-1181622686	No! Where is it?
-1113413964	Got it.
-767065518	Got the knife.
-504503314	All right, got it.
-361090502	Right. We were talking about...
-1886634843	You were saying?
-59357748	What? You expect someone taller?
-105338269	I'm almost fifteen, you know.
-711243341	You think this is my first rodeo?
+989369584	Cadê a faca?
+1400774471	Eu perdi isso?
+1181622686	Não! Cadê?
+1113413964	Entendi.
+767065518	Peguei a faca.
+504503314	Tudo bem, entendi.
+361090502	Certo, Estávamos falando sobre ...
+1886634843	Você estava dizendo?
+59357748	O que? Você espera alguém mais alto?
+105338269	Eu tenho quase quinze anos, você sabe.
+711243341	Você acha que esse é meu primeiro rodeio?
 2094354320	Me and Pa, we've been places.
 908227676	El Paso, Rio Bravo, Tonto, Fort Grant...
 676818305	Agry Town, Lago, Durango, Sweetwater...
@@ -8581,7 +8581,7 @@ Japanese	Japonês
 1962825353	I suggest we leave this place.
 1694461279	Can't see no problem with that.
 460075395	Good thinking.
-1757940350	On my way.
+1757940350	No meu caminho.
 176549620	Sure thing, son.
 1008777889	I'll be there.
 102502032	Não se preocupe comigo.
@@ -8899,7 +8899,7 @@ Japanese	Japonês
 567975083	Who did this to you?!
 508605183	Who tied you up like this?!
 691815358	Huh?!
-1884296520	What's that?
+1884296520	O que é isso?
 1933498548	You hear that?
 1328323206	Who the fuck is doing this?!
 2129706324	This ain't funny!
@@ -9114,23 +9114,23 @@ Japanese	Japonês
 2021335812	...
 605137033	...
 892351826	...
-1573051122	Shit...
-631995966	Ugh, my head...
+1573051122	Merda...
+631995966	Ugh, minha cabeça...
 1018234473	Assholes...
-1834654638	Fuck...
+1834654638	Porra...
 1028810844	Ouch...
 1444969703	Uhm...
-1352834255	Wait a second...
-1153912441	What's that?
-1366761237	Something...
-975778183	What the...
-464823892	The hell?
-2033470861	Hey...
-393304772	Hey now...
-1893197974	Is that...?
-1254746512	What ...?
-548902491	Hmm...
-604969825	The fuck...
+1352834255	Espere um segundo...
+1153912441	O que é isso?
+1366761237	Alguma coisa...
+975778183	Que di...
+464823892	Que diabos?
+2033470861	Ei...
+393304772	Ei agora...
+1893197974	É aquele...?
+1254746512	O que ...?
+548902491	Hmmm...
+604969825	Que porra...
 560854789	Hey there, little mouser!
 1965921825	Ain't you a cute fella.
 219820202	Ho! Hey! Where'd you come from?
@@ -9980,23 +9980,23 @@ Japanese	Japonês
 1310223380	...
 1338644381	...
 371660986	...
-688195992	Shit...
-932781562	Ugh, my head...
+688195992	Merda...
+932781562	Ugh, minha cabeça...
 972218380	Assholes...
-1012093422	Fuck...
+1012093422	Porra...
 2118501084	Ouch...
 1280192471	Uhm...
-1058198236	Wait a second...
-948638488	What's that?
-228804694	Something...
-411415460	What the...
-1804890977	The hell?
-339207583	Hey...
-265332219	Hey now...
-762277086	Is that...?
-485877238	What...?
+1058198236	Espere um segundo...
+948638488	O que é isso?
+228804694	Alguma coisa...
+411415460	Que di...
+1804890977	Que diabos?
+339207583	Ei...
+265332219	Ei agora...
+762277086	É aquele...?
+485877238	O que...?
 293359311	Hmm...
-1977323497	The fuck...
+1977323497	Que porra...
 199002846	Hey there, little mouse catcher!
 1416300991	Ain't you a cute kitty cat.
 857912160	Ho! Hey! Where'd you come from?
@@ -10624,46 +10624,46 @@ Japanese	Japonês
 877599471	Okay, that's not creepy at all...
 2095817478	Hey, wake up, sleepyhead!
 2085200119	Got a good sleep? Get off your ass!
-1629890106	There you are! Lazy bastard!
-1541838480	There you go. 
-1587524749	You saw who tied you up?
-1512968475	There was something!
+1629890106	Aí está você! Bastardo preguiçoso!
+1541838480	Ai está.
+1587524749	Você viu quem te amarrou?
+1512968475	Havia algo!
 400357968	Huh?
-872496089	You hear that?
-1512246792	For fuck's sake! Who the hell did that?
-810210413	Playing tricks on a lady?
-2074638541	Ouch! That hurt!
-464896526	Gunshots! What's going on?
-46871952	Gunfire!
-1429347328	We are under attack!
-968083639	That was a mighty big bang!
-774498188	Dynamite? What's going on?
-428948956	They got dynamite! Careful!
-1923561638	Huh? Who's there?
-1716641214	I heard something!
-575083274	Show yourself!
-1674523929	I'm coming to get you!
-1334312422	You find that amusing, huh?
-151279783	Okay, that was it for you!
-1492793541	Huh? Something's up...
-1438946274	Strange noise...
-1358746264	Never heard that before...?
-683754922	What am I doing?
-1828598738	Never mind.
-1505163385	This is stupid.
-1006025375	Playing hide and seek?
-1164573094	Just wait. I'll get you...
-299558125	You gotta be somewhere...
-631035378	You're here. I know it.
-339452515	I won't go easy on you.
-1552986833	I passed out...? No, somebody was here!
-1517437695	Damn my head... I'll get you!
-1970926035	I'll show you...
-1601189182	When I get my hands on you...
-648970443	That's not how you treat a lady!
+872496089	Você ouviu isso?
+1512246792	Pelo amor de Deus! Quem diabos fez isso?
+810210413	Brincando com uma dama?
+2074638541	Ai! Isso dói!
+464896526	Tiros! O que está acontecendo?
+46871952	Tiros!
+1429347328	Estamos sob ataque!
+968083639	Isso foi um poderoso big bang!
+774498188	Dinamite? O que está acontecendo?
+428948956	Eles têm dinamite! Cuidado!
+1923561638	Hã? Quem está aí?
+1716641214	Eu ouvi alguma coisa!
+575083274	Mostre-se!
+1674523929	Estou indo te pegar!
+1334312422	Você acha isso divertido, não é?
+151279783	Ok, foi isso para você!
+1492793541	Hã? Algo está acontecendo...
+1438946274	Barulho estranho...
+1358746264	Nunca ouviu isso antes...?
+683754922	O que eu estou fazendo?
+1828598738	Deixa pra lá.
+1505163385	Isso é estúpido.
+1006025375	Brincando de esconde-esconde?
+1164573094	Apenas espere. Eu vou te pegar ...
+299558125	Você tem que estar em algum lugar ...
+631035378	Você está aqui. Eu sei isso.
+339452515	Não vou ser fácil com você.
+1552986833	Eu desmaiei...? Não, alguém estava aqui!
+1517437695	Droga, minha cabeça... Eu vou te pegar!
+1970926035	Eu vou te mostrar...
+1601189182	Quando eu colocar minhas mãos em você ...
+648970443	Não é assim que você trata uma dama!
 774025025	Can't hide forever.
-1537587768	Come out, you coward!
-2133963949	What're you tryin' to prove here?
+1537587768	Saia, seu covarde!
+2133963949	O que você está tentando provar aqui?
 4006806	Aren't we a little old for that?
 5573205	Come on, don't make this worse than it is.
 2121149188	Do me a favor and give up now.
@@ -10844,24 +10844,24 @@ Japanese	Japonês
 1080043453	...
 101166473	...
 512618479	...
-171745174	Ow... My head.
-1709249544	What happened?
+171745174	Ow... minha cabeça.
+1709249544	O que aconteceu?
 1748403925	Ouch...
 1288199806	That'll leave a bump...
 1342502809	Ouch...
 286211478	Huh?
-858553477	Over there...
-1486810442	What was that?
-269614348	Something...
-1906324819	Is there something...?
+858553477	Lá...
+1486810442	O que é que foi isso?
+269614348	Alguma coisa...
+1906324819	Existe algo ...?
 1973827583	Hmmm...
-1238418971	I could swear...
-716723162	What now?
-581258694	Wait, is that...?
-1980480352	Was there...?
+1238418971	Eu poderia jurar...
+716723162	E agora?
+581258694	Espera, é isso ...?
+1980480352	Estava lá...?
 612377850	Uh!
-1751084122	Are you kidding me?
-771675597	Aww... Hello cutie...
+1751084122	Você está brincando comigo?
+771675597	Aww... Olá gracinha...
 155901563	Hello there... Stray one, aren't ya?
 1691873690	Hello there, kitty. Where'd you come from?
 1323032519	Oh! ...You gave me a Pular, you know!
@@ -10869,9 +10869,9 @@ Japanese	Japonês
 422054155	Aw... Stay a little longer, will ya?
 21919508	Good luck! Don't let the dogs get ya.
 911945144	Bye, bye, kitten.
-2008514698	...Damn bastards!
-2070646966	...You'll regret that!
-1617750218	...What a lousy tactic, coward!
+2008514698	...Malditos bastardos!
+2070646966	...Você vai se arrepender!
+1617750218	...Que péssima tática, covarde!
 493708682	...
 1177863073	...
 193681836	...
@@ -11703,23 +11703,23 @@ Japanese	Japonês
 621390558	...
 309058784	...
 2021781467	...
-1999705884	Shit...
-120934213	Ugh, my head...
+1999705884	Merda...
+120934213	Ugh, minha cabeça...
 1330468320	Assholes...
-1069474946	Fuck...
+1069474946	Porra...
 2121608465	Ouch...
 55471064	Uhm...
-1420942157	What the fuck...
-1234479108	What's that?
-2039014486	Something...
-1182466502	What the...
-1820436637	The hell?
-1002731194	Hey...
-245077737	Hey now...
-858120676	Is that...?
-94414027	What...?
-867078957	Hmm...
-1307698634	The fuck...
+1420942157	Que porra é essa...
+1234479108	O que é isso?
+2039014486	Alguma coisa...
+1182466502	Que di...
+1820436637	Que diabos?
+1002731194	Ei...
+245077737	Ei agora...
+858120676	É aquele...?
+94414027	O que...?
+867078957	Hmmm...
+1307698634	Que porra...
 753576105	Hey cat...
 2054110262	Cat, huh...
 1715056827	Nuh uh...
@@ -12642,7 +12642,7 @@ Japanese	Japonês
 1137212406	Sure thing.
 2089919342	Uh huh.
 1746246746	All righty.
-680961605	On my way.
+680961605	No meu caminho.
 1424135957	If you say so.
 2031362514	On it.
 1777123938	Doin' it all right.
@@ -16469,37 +16469,37 @@ Japanese	Japonês
 1447220327	Ossos do ofício
 1794102132	Um mensageiro passa por você sem dizer uma palavra, rapidamente ele coloca uma nota um pouco amassada em sua mão, na caligrafia do Barão./n/n “Me disseram que sua recente visita ao rancho de O'Hara foi espetacular. Caso esteja interessado, um novo desafio o espera por lá.”/n/n Você se vira para pegar o mensageiro, mas ele já desapareceu na multidão.
 1275070322	Você voltou ao rancho O'Hara para o último desafio do barão. Sua tarefa é matar todos os alvos sem usar nenhuma de suas armas. Em vez disso, você deve usar sua criatividade descartá-los.
-1120194126	Três homens sem nome
-2002330802	Uma janela de uma carroagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
-251713547	Você fez uma viagem a Baton Rouge, onde outro dos desafios do Barão o aguarda. Ele quer que você carregue os cadáveres de três alvos para os caixões no banco. Mas você não sabe quem eles são, apenas que eles são idênticos a uma determinada pessoa.
-724854570	Trigêmeos com armadilha para ursos
-2094260086	Caminhando ao longo da costa, você encontra uma velha garrafa de uísque meio enterrada na areia. Dentro há um pedaço de papel molhado, marcado com o selo do Barão./n/n “Nas margens do Mississippi, você pode encontrar muitas coisas. Escravos, emboscadas, novos aliado... E se desta vez eu fizer um novo desafio para você?/n/n Você olha em sua volta procurando alguém que possa ter colocado a garrafa, mas não vê ninguém.
-1982537406	Mais uma vez, você se encontra no meio do nada, nas margens do Mississippi. Em seu último desafio, o Barão forneceu a Hector duas novas armadilhas de ursos e encarregou você de matar um grupo de alvos com elas.
-343104554	Servido a frio
-478081862	Você mal terminou sua refeição quando o garçom lhe traz a conta e sai. Ao abrir a pasta de couro, você descobre o selo do Barão gravado dentro dela, junto com uma carta./n/nEspero que você goste da culinária local. Nova Orleans tem muitos sabores para descobrir. Que tal um pequeno desafio depois de uma refeição saudável? Não se preocupe, convite da casa./n/nVocê espera muito tempo para o garçom voltar, mas ele não aparece novamente.
-1933087629	Sua tão esperada visita a Nova Orleans é interrompida quando o Barão chega com um novo desafio para você. Ele quer que você remova um ex-parceiro do lotado mercado e o leve, vivo ou morto, para o barco a vapor particular do Barão no Pier 9.
-530958809	Aviso de Atualização
-1025484101	Vamos lançar uma atualização em breve. Os jogos salvos no meio da missão antes do dia da atualização ficarão obsoletos. O progresso total do jogo não será afetado, por isso recomendamos que você termine a missão atual antes do dia da atualização.
-409216633	Vamos lançar uma atualização em breve. Os jogos salvos no meio da missão antes do dia da atualização ficarão obsoletos e deverão ser convertidos para a versão mais recente. O progresso total do jogo não será afetado, por isso recomendamos que você termine a missão atual antes do dia da atualização.
-196638402	Atualização {0}
-1461177830	A atualização {0} já foi aplicado. Os jogos salvos no meio da missão agora estão obsoletos. O progresso total do jogo não é afetado. Pedimos desculpas pelo inconveniente.
-1323449760	A atualização {0} já foi aplicado. Os jogos salvos no meio da missão agora estão obsoletos. Para converter um jogo salvo na atualização mais recente, carregue-o no menu Salvar e siga as instruções. O progresso total do jogo não é afetado.
+1120194126	Three Men With No Name
+2002330802	A coach window opens next to you. A gloved hand emerges and gives you a postcard. It is signed by the Baron./n/n "Greetings from Baton Rouge, friend! The locals here tell me all kinds of things about you. Why don't you join me here for a drink? I've already come up with a new challenge."/n/nBefore you can ask any questions, the window closes and the coach drives off, soon disappearing around the next corner.
+251713547	You have taken a trip to Baton Rouge, where another of the Baron's challenges awaits you. He wants you to deliver the bodies of three targets to the coffins inside the bank. However, you don't know where they are, only that they look exactly like a certain someone.
+724854570	Bear Trap Triplets
+2094260086	Walking along the river shore, you stumble over an old whiskey bottle half buried in the sand. Inside you find a wet piece of paper, marked with the Baron's seal./n/n "You can find many things on the banks of the Mississippi, friend. Slavers, ambushes, new allies... How about this time, I make it a new challenge for you?"/n/nYou look around for someone who could have planted the bottle, but there is no one in sight.
+1982537406	Once again, you find yourself in the wilderness along the banks of the Mississippi. In his latest challenge, the Baron has provided two additional bear traps for Hector, and tasked you to kill a group of targets with them.
+343104554	Best Served Cold
+478081862	You have barely finished your meal when the waiter brings you the check and leaves. You open the leather folder, only to discover the Baron's seal embossed on the inside, paired with a letter./n/n"I hope you enjoy the local cuisine, friend. New Orleans has many different flavors to discover. How about a little challenge after a hearty meal? Don't worry, the food is on the house."/n/nYou wait a long time for the waiter to return, but he never shows up again.
+1933087629	Your long awaited visit to New Orleans is interrupted when the Baron arrives with a new challenge for you. He wants you to extract an old associate of his from the busy market and deliver him, dead or alive, to the Baron's private steamboat at Pier 9.
+530958809	Patch Warning
+1025484101	We are going to patch the game soon. Mid-mission savegames made prior to patch day will become deprecated. Overall game progress will remain unaffected, so we recommend you finish your current mission before patch day.
+409216633	We are going to patch the game soon. Mid-mission savegames madeprior to patch day will become deprecated and must be converted to the latest version. Overall game progress will remain unaffected, so we recommend you finish your current mission before patch day.
+196638402	Patch {0}
+1461177830	Patch {0} is now in effect. Any old mid-mission savegames are now deprecated. Overall game progress remains unaffected. We apologize for the inconvenience.
+1323449760	Patch {0} is now in effect. Any old mid-mission savegames are now deprecated. To convert a deprecated savegame to the latest patch, load it from the save menu and follow the instructions. Overall game progress remains unaffected.
 2094963165	Conversão de Jogo salvo
-1806897290	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Seu progresso da missão será reconstruído o mais fiel possível. O seguinte acontecerá:/n{0} O progresso da missão, ou seja os objetivos da missão que foram desbloqueados ou concluídos, serão redefinidos./n{0} Todos os NPCs mortos ou amarrados serão removidos do nível, exceto os objetivos da missão./n{0} Os personagens do jogador passarão para as posições em que estão ocultos e seguros.
+1806897290	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Seu progresso na missão será reconstruído o mais fielmente possível. O seguinte acontecerá: /n{0} O progresso da missão, ou seja os objetivos da missão que foram desbloqueados ou concluídos, serão redefinidos. /n{0} Todos os NPCs mortos ou amarrados serão removidos do nível, exceto os objetivos da missão /n{0} Os personagens do jogador passarão para as posições em que estão ocultos e seguros.
 940139063	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Siga as instruções após a conclusão do carregamento.
-1332558385	Reconstrução de jogos salvos
-1535299939	Seu jogo salvo será reconstruído o mais fiel possível. Pressione o botão e o seguinte acontecerá:/n{0} O progresso da missão, ou seja os objetivos da missão que foram desbloqueados ou concluídos, serão redefinidos/n{0} Todos os NPCs mortos ou amarrados serão removidos do nível, exceto os objetivos da missão./n{0} Os personagens do jogador passarão para as posições em que estão ocultos e seguros.
-580926496	Ei, parceiro! Parece que a nova atualização esmagou seus jogos salvos. Acho que cabe a nós juntar o miserável novamente. Então, por que não nos divertimos um pouco com isso?
-1206716644	Vamos fazer isso!
-1579715971	Reconstruindo seu Jogo salvo
-641641696	Este é o acordo. Todo mundo que você matou ou amarrou em seu antigo Jogo salvo está novamente de volta. Não podemos deixar assim. É por isso que todos agora têm uma marca especial de morte. Assustador, certo?/nO que você pode fazer agora é clicar neles e deixar o fogo do inferno chover sobre suas cabeças. Parece divertido? Se você quiser vê-los bater as botas de uma só vez, basta selecionar "Ligue para o agente funerário!!", E nós faremos o resto./nOh, e não se preocupe com os objetivos da missão ou se sua gangue está segura. Nós já cuidamos disso.
-600060266	Ligue para o agente funerário!
-608942036	Dedo da morte
-36247045	Mate qualquer guarda marcado que seja usado.
-44692332	Quem é o próximo?
-809423569	Mostra o próximo guarda marcado.
-1596929820	Ligue para o agente funerário!
-963141611	Mate todos os guardas marcados restantes.
+1332558385	Savegame Reconstruction
+1535299939	Your savegame will now be reconstructed as closely as possible. Press the button and the following things will happen:/n{0} Mission progress, meaning mission objectives that have been unlocked or completed, will be restored./n{0} All NPCs that were killed or tied-up will be removed from the level, except mission targets./n{0} Player characters will be moved to positions where they are safely hidden./nEnjoy the show!
+580926496	Hey partner! Looks like the old patch hammer has hit this savegame of yours pretty hard. Guess it falls to us to put the poor thing back together. So why don't we have a little fun with that?
+1206716644	Let's do it!
+1579715971	Reconstructing Your Savegame
+641641696	Here's the deal. Everyone you killed or tied up in your old save is up and running again. We can't have that, can we? That's why they all now have a special mark of death. Spooky, right?/nSo what you can do now is click on them and let hellfire rain down on their heads. Sound fun? That's because it is! If you wanna see them bite the dust all at once, just select "Call the Undertaker!", and we're gonna do the rest./nOh, and don't worry about mission objectives or whether your gang is safe. We already took care of that stuff.
+600060266	Call the Undertaker!
+608942036	Deathfinger
+36247045	Kills any marked guard it is used on.
+44692332	Who's Next?
+809423569	Shows you the next marked guard.
+1596929820	Call the Undertaker!
+963141611	Kills all remaining marked guards.
 951966108	Doc Hook
 965678722	Tirolesa
 1425793910	A caixa em cima desta tirolesa parece solta.
