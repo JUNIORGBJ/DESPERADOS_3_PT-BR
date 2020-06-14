@@ -16469,7 +16469,7 @@ Japanese	Japonês
 1447220327	Ossos do ofício
 1794102132	Um mensageiro passa por você sem dizer uma palavra, rapidamente ele coloca uma nota um pouco amassada em sua mão, na caligrafia do Barão./n/n “Me disseram que sua recente visita ao rancho de O'Hara foi espetacular. Caso esteja interessado, um novo desafio o espera por lá.”/n/n Você se vira para pegar o mensageiro, mas ele já desapareceu na multidão.
 1275070322	Você voltou ao rancho O'Hara para o último desafio do barão. Sua tarefa é matar todos os alvos sem usar nenhuma de suas armas. Em vez disso, você deve usar sua criatividade descartá-los.
-1120194126  Três homens sem nome
+1120194126	Três homens sem nome
 2002330802	Uma janela de uma carroagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
 251713547	Você fez uma viagem a Baton Rouge, onde outro dos desafios do Barão o aguarda. Ele quer que você carregue os cadáveres de três alvos para os caixões no banco. Mas você não sabe quem eles são, apenas que eles são idênticos a uma determinada pessoa.
 724854570	Trigêmeos com armadilha para ursos
