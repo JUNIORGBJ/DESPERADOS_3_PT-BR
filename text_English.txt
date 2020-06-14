@@ -16947,12 +16947,12 @@ Japanese	Japonês
 130937372	Pickpocket
 1231495639	Transform
 417414224	Switch between Minecart-mode and Gatling-mode.
-2043069599	Graphics Mode
-979342887	Performance Mode
+2043069599	Modo de Gráficos
+979342887	Modo de DesempenhD
 1061026314	Prioritizes stable performance. Renders the game at 1080p resolution.
-251777897	Resolution Mode
-123492416	Prioritizes higher resolutions. Supersamples to your display resolution if your display does not support 4K.
-20238496	A civilian was killed.
+251777897	Modo de Resolução
+123492416	Prioriza resoluções mais altas. Substitui a sua resolução de tela se ela não suportar 4K.
+20238496	Um civil foi morto.
 1431837803	Exclusivo
 1552323699	Sem fronteiras
 2089642635	Conversa
