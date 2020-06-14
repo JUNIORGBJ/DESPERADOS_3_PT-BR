@@ -2067,7 +2067,7 @@ Japanese	Japonês
 1895276229	Bem aconchegante aqui. Parece que o prefeito está se saindo bem. 
 114689045	Something's going on in that room. Let's have a look.
 1932598923	Este é um dos presentes de casamento mais estranhos que já vi em toda a minha vida.
-636323351	Sim...quero dizer, é tudo muito caro, mas para uma dama?
+636323351	Sim... quero dizer, é tudo muito caro, mas para uma dama?
 1995670140	O que uma noiva faria com essa coisa? 
 1855027666	Você não pode pendurá-lo sobre a lareira, isso é certo.
 717136598	Queria ter visto o rosto dela quando ele contou a ela.
@@ -2075,7 +2075,7 @@ Japanese	Japonês
 1911861564	Heh, vamos dar uma volta neste presente de casamento. Esta pronto?
 589429187	Eu estou trabalhando nisso! Não me empurre!
 1594987651	Apresse-se, sim? Quem se importa agora se você fizer alguns arranhões?
-1034382140	Eu sei, eu sei. Ainda assim... é um lindo pedaço de aço.
+1034382140	Eu sei, eu sei. Ainda assim ... é um lindo pedaço de aço.
 617116496	Ainda não consigo acreditar que ele daria a ela uma metralhadora de todas as coisas. Você terminou?
 1055613052	Eu disse que estou trabalhando nisso!
 1474974179	Você não tem decência, está roubando uma desculpa bizarra para um homem.
@@ -16873,25 +16873,25 @@ Japanese	Japonês
 395418561	What If?
 603403823	A red coach halts next to you. The door swings open silently. Thick lamplight and cushioned seats await you inside. As you climb in, you are overcome with a profound sense of déjà vu./n/nThe Baron greets you with a pleasant smile. His clothes are expensive as usual, the colors outrageously bright against the darkness of his skin. His teeth are ivory. His eyes twinkling with... something entirely different./n/n"You have proven yourself a man of many talents, my friend. My clients are very pleased. In fact, you might have become their new favorite. But that is not why I'm here today."/n/n"Today, we will just talk. Call it... indulging my curiosity." He looks at you with those twinkling eyes, and you feel yourself slipping. He smiles. "Shall we begin?"
 1129809586	Another time, a different place. A young kid has come to settle the scores. Frank is waiting at the chapel. Is the kid ready this time? Let's find out?
-1159153718	Yes, hello. Get to the guy on the roof.
-1760209947	This is him, yes.
-1463379734	Ok thanks. Bye.
-854189751	There are 4 blue guards here.
-728994676	Kill them all.
-1607255470	Good job!
-432881984	Confront the plantation owner.
-1773011631	Get to the roof of the main building and question the owner of the plantation.
-1606501249	Kill the henchmen ({0} of 4)
-37035926	Kill all blue guards.
-1950596606	Target 1
-2000501154	The living quarters overseer.
-1108432962	Target 2
-1472917576	The warehouse supervisor.
-1254492707	Target 3
-447010899	The packing director.
-1763085498	Target 4
-782371726	The overseer at the fields.
-903657723	The key to the Gate
+1159153718	Sim Olá. Vá para o cara do telhado.
+1760209947	Este é ele, sim.
+1463379734	Ok obrigado. Tchau.
+854189751	Existem 4 guardas azuis aqui.
+728994676	Mate todos.
+1607255470	Bom trabalho!
+432881984	Confronte o proprietário da plantação.
+1773011631	Chegue ao telhado do edifício principal e questione o dono da plantação.
+1606501249	Mate os capangas ({0} de 4)
+37035926	Mate todos os guardas azuis.
+1950596606	Meta 1
+2000501154	O supervisor dos alojamentos.
+1108432962	Meta 2
+1472917576	O supervisor do armazém.
+1254492707	Meta 3
+447010899	O diretor do empacotamento.
+1763085498	Meta 4
+782371726	O superintendente nos campos.
+903657723	A chave do portão
 1557739138	The key to open the gate is held by the guard next to it.
 2019136603	This is the Headhunter
 503736148	This was the Headhunter
