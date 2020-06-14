@@ -297,7 +297,7 @@ Japanese	Japonês
 1308428726	Falha ao inicializar o armazenamento. Para jogar, você precisa de um espaço de armazenamento conectado.
 1459825798	Tentar Novamente
 1825071464	O seu último jogo salvo está obsoleto ou corrompido. Deseja reiniciar a missão atual?
-906613780	Você atingiu o número máximo de jogo salvo. Exclua ou substitua um savegame existente. Nota: Salvamento rápido não contam para esse limite
+906613780	Você atingiu o número máximo de jogo salvo. Exclua ou substitua um jogo salvo existente. Nota: Salvamento rápido não contam para esse limite
 2114202035	Reconecte seu controlador sem fio ou use outro controlador sem fio conectado e alterne para o usuário que iniciou o aplicativo.
 962072658	Salvando: não feche o jogo, suspenda o jogo ou desligue o console Xbox One enquanto este símbolo estiver sendo exibido
 1499250081	Salvando: não desligue seu PlayStation®4 enquanto este símbolo estiver sendo exibido.
@@ -431,7 +431,7 @@ Japanese	Japonês
 470739778	Fugindo
 1020868379	Os inimigos não podem escalar trepadeiras ou saltar buracos. Use essas vantagens ao tentar fugir.
 1108269139	Canto dos olhos
-1137613639	Os inimigos podem detectá-lo pelos cantos dos olhos, se você ficar ao lado deles por muito tempo.
+1137613639	Os inimigos podem detecta-lo pelos cantos dos olhos, se você ficar ao lado deles por muito tempo.
 1338931543	Lâmpadas como iscas
 509385294	Você pode usar lâmpadas extintas para atrair inimigos para armadilhas ou emboscadas.
 158140971	Guardas com lâmpadas
@@ -642,7 +642,7 @@ Japanese	Japonês
 555507018	Geral Não Cinemática
 1866829885	CONFLITO!
 1008156003	Outra ação já está usando esse botão. Atribuir assim mesmo? {0}
-1660462859	REASIGNAR
+1660462859	REATRIBUIR
 1058572889	Pressione qualquer botão para reativar esta ação.
 178427384	Ações:
 774853068	Desvincular
@@ -963,7 +963,7 @@ Japanese	Japonês
 1242129070	Enquanto agachado ({0}), você pode mover-se com segurança pela área <skill>escura e listrada</skill> da visão de um inimigo./nEnquanto agachado em um <skill>telhado</skill>, você sempre ficara escondido para os guardas.
 2024541266	Enquanto agachado ({0}), você pode mover-se com segurança pela área <skill>escura e listrada</skill> da visão de um inimigo./nEnquanto agachado em um <skill>telhado</skill>, você sempre ficara escondido para os guardas.
 645631705	Alarme
-1315509806	Certas ações farão com que os guardas toquem o <skill>alarme</skill>./nIsso faz com que os guardas saiam das <skill>casas de guarda</skill> e ficam marcados com um ícone./nDepois que o alarme disparar, os inimigos sobreviventes <skill>patrulhão a área</skill> permanentemente.
+1315509806	Certas ações farão com que os guardas toquem o <skill>alarme</skill>./nIsso faz com que os guardas saiam das <skill>casas de guarda</skill> e ficam marcados com um ícone./nDepois que o alarme disparar, os inimigos sobreviventes <skill>patrulharão a área</skill> permanentemente.
 1683052577	Usando Dynamite
 1385269576	Você pode pegar a <skill>dynamite</skill> do barril e jogá-la./nMire com {2} e jogue a dinamite usando {3}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
 1505140734	Você pode pegar a <skill>dynamite</skill> do barril e jogá-la./nMire com {1} e jogue a dinamite usando {2}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
@@ -1030,8 +1030,8 @@ Japanese	Japonês
 561717325	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma pressionando {0}.
 637479073	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma selecionando-a na roda de habilidades e pressionando {0}.
 648873026	Conectar
-104247868	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar o conecção, use a habilidade de alguém que já esteja conectado).
-2127908959	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar o conecção, use a habilidade de alguém que já esteja conectado).
+104247868	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar a conexão, use a habilidade de alguém que já esteja conectado).
+2127908959	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar o conexão, use a habilidade de alguém que já esteja conectado).
 1527846203	Stella
 369625641	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
 403734131	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
@@ -1100,7 +1100,7 @@ Japanese	Japonês
 844354073	McBane
 614728443	Tio O'Hara
 1070272398	Cão de guarda
-569349177	Pistolera
+569349177	Pistoleira
 402270059	Poncho
 1520900021	Juiz McGain
 31931305	O´Neill
@@ -1206,8 +1206,8 @@ Japanese	Japonês
 1780758815	Escala de renderização
 905456972	Modo de dificuldade
 90161797	Fácil
-772446225	Medio
-1323360165	Difício
+772446225	Médio
+1323360165	Difícil
 773723552	Desafios
 231357304	Garçonete
 423656608	Jogador de Poker 1
@@ -1225,7 +1225,7 @@ Japanese	Japonês
 941720566	Tutorial
 1934154351	A cena a seguir apresentará uma breve introdução ao nível de teste do controle de qualidade. Em outras perguntas, pergunte a Toby!
 2029272716	Cabeçalho do objetivo
-1576341048	Descrição do Objectiver
+1576341048	Descrição do objetivo
 1421448555	R1 - Sala de teste
 69348585	Todos os inimigos, formações, zonas neutras.
 2010793256	R2 - Sala de jogadores
@@ -1502,7 +1502,7 @@ Japanese	Japonês
 2143608143	É melhor você nos dar tudo ou vamos procurar seus corpos mais tarde.
 1812276984	Você vai conhecer Big Ann em breve. Você não está animado?
 155411799	Golly, eu odeio gente chique como você. Especialmente você.
-55708919	É isso que você ganha ao andar no trem da Comapanhia DeVitt.
+55708919	É isso que você ganha ao andar no trem da Compãnia DeVitt.
 1876589766	Prefiro ficar de fora disso.
 782751206	Os passageiros certamente poderiam usar nossa ajuda.
 271645073	Por que perder tempo? Vamos continuar. 
@@ -1682,7 +1682,7 @@ Japanese	Japonês
 1962085150	Então é melhor manter a cabeça baixa quando estivermos dentro
 1251247827	Hah! Ele realmente acha que pode montar esse touro!
 1012726449	Então vocês dois brigaram e agora ele quer você morto?
-868584661	Parece que Jarvis está mechendo com esse touro o dia todo.
+868584661	Parece que Jarvis está mexendo com esse touro o dia todo.
 444350566	Você sabe como é. Alguns caras simplesmente não podem deixar as coisas descansarem. Como aquela vez em El Paso.
 864913954	Heh, se esse touro ficar bravo, nós vamos fazer um show. Como aquela vez em El Paso.
 1863617101	Mais como sempre em El Paso.
@@ -1756,7 +1756,7 @@ Japanese	Japonês
 579796830	É aqui que eles estão colocando os trilhos. McBane é o capataz e não deixa ninguém no local.
 1604301042	Então vamos ficar calados quando entrarmos.
 1458208472	Por isso, o trem teve que parar fora da cidade.
-1550994567	Você pensava que a ferrovia seria boa para as pessoas daqui. Mas metade do local foi destruido. Quem ordenou isso quer que essas pessoas saiam.
+1550994567	Você pensava que a ferrovia seria boa para as pessoas daqui. Mas metade do local foi destruído. Quem ordenou isso quer que essas pessoas saiam.
 1441992625	Você quer dizer Vincent DeVitt, o chefe da ferrovia.
 2083311056	Se você diz. Homens como ele são a razão pela qual tudo vai cagar.
 308963957	Claro, porque ele tem homens como nós que fazem seu trabalho sujo. 
@@ -1943,7 +1943,7 @@ Japanese	Japonês
 1065468858	Prefeito Higgins!
 687118702	O que foi agora?
 1301008775	Frank diz que está ficando impaciente.
-1758863038	Meerda! Agora não! Você não vê que estamos ocupados?
+1758863038	Merda! Agora não! Você não vê que estamos ocupados?
 1308103675	Me desculpe, docinho. Isso é algo que eu realmente tenho que cuidar.
 1296826008	Não se preocupe comigo, querida.
 952763125	Fique aqui. Volto em um instante.
@@ -6711,7 +6711,7 @@ Japanese	Japonês
 363673124	Quem é o próximo?
 24755886	Bom te ver, amigo.
 1663725028	Assim como nos velhos tempos, eh amigo?
-1473976259	Sim, exatamento o que eu preciso.
+1473976259	Sim, exatamente o que eu preciso.
 494176017	Você está pronto, amigo?
 1571304132	Vamos lá, vai ser divertido.
 753589059	Você está se divertindo ainda, Cooper?
@@ -6994,7 +6994,7 @@ Japanese	Japonês
 612422343	Lá.
 437100548	Tudo pronto.
 1596136557	Ela está pronta.
-1234721860	Boa gorota.
+1234721860	Boa garota.
 156554737	Confie sempre na Bianca.
 130483807	Ela ainda conseguiu.
 989985357	Merda, onde está Bianca?
@@ -16962,6 +16962,6 @@ Japanese	Japonês
 1154049762	Sorry honey, I can't right now.
 238564817	Let's do this later, okay?
 1029811449	Sorry honey, I can't right now.
-529306080	Obrigado por jogar o Desperados III Demomstração!
+529306080	Obrigado por jogar o Desperados III Demostração!
 641702397	Siga sua aventura no jogo de onde você parou!/nVá para o menu de opções e digite <b><hotkey>"lonerider"</hotkey></b> para ativar a trapaça, ou use o D-Pad: <b><hotkey> "DIREITA, DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
 1247312339	Obtenha a versão completa do Desperados III agora!
