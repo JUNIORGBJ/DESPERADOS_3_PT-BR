@@ -2065,7 +2065,7 @@ Japanese	Japonês
 1540788717	Parece chique aqui. Quer saber quem vai se casar?
 737427389	Melhor manter minha cabeça baixa. Não quero quebrar nenhuma dessas coisas finas.
 1895276229	Bem aconchegante aqui. Parece que o prefeito está se saindo bem. 
-114689045	Something's going on in that room. Let's have a look.
+114689045	Algo está acontecendo naquele quarto. Vamos dar uma olhada.
 1932598923	Este é um dos presentes de casamento mais estranhos que já vi em toda a minha vida.
 636323351	Sim...quero dizer, é tudo muito caro, mas para uma dama?
 1995670140	O que uma noiva faria com essa coisa? 
@@ -2085,39 +2085,39 @@ Japanese	Japonês
 1217112426	Sim, menos a dignidade! Você realmente acha que eu me casaria com um charlatão conivente?
 388367484	Claro que você vai se casar comigo! Você só precisa se acalmar um pouco.
 72594872	Você não passa de uma merdinha gananciosa!
-1002971965	Please, Kate. This is neither the time nor place. 
-1864219994	What's going on out there?
-1881586802	Don't change the subject.
-566744481	It's done. Nothing I can do now.
-902581311	Call him back.
-1987853092	Kate, please. We have a wedding ahead of us. Now calm down, will you? Time's wasting.
-876491346	You really still think I was going to marry you?
-841686256	Enjoy your wedding.
-260721492	Not so fast.
-761492483	You have no idea how much I've invested in this.
-1407627867	You will marry me today. You're gonna play the good little wife.
-1648400702	I bet you'll forget all about your old life after you pop out a few children...
-2065119550	Tempting, but I must decline.
-934735454	What the hell are you doing, Kate.
-592964750	Just trying to be convincing.
-623250118	Yeah? Well I'm gonna show you your place in this world you stupid bitch!
-1993616946	I think I know my place.
-269045010	I reckon he deserved that.
-1780549025	Who the hell are you?
-2002065500	I could ask you the same.
-1505156800	I don't have time. Step aside.
-1095420173	You sure you wanna go this way?
-1587660357	To the office! Move it!
+1002971965	Por favor, Kate. Este não é a hora nem o lugar.
+1864219994	O que está acontecendo lá fora?
+1881586802	Não mude de assunto.
+566744481	Está feito. Não há nada que eu possa fazer agora.
+902581311	Faça ele voltar.
+1987853092	Kate, por favor. Temos um casamento pela frente. Agora acalme-se, sim? Estamos perdendo tempo.
+876491346	Você ainda acha que eu ia me casar com você?
+841686256	Aproveite o seu casamento.
+260721492	Não tão rápido.
+761492483	Você não tem idéia do quanto eu investi nisso.
+1407627867	Você vai se casar comigo hoje. Você vai interpretar a boa esposa.
+1648400702	Você vai se esquecer da sua vida anterior depois de dar à luz a algumas crianças...
+2065119550	Tentador, mas devo recusar.
+934735454	O que diabos você está fazendo, Kate.
+592964750	Apenas tentando ser convincente.
+623250118	Sim? Bem, eu vou te mostrar seu lugar neste mundo, sua puta estúpida!
+1993616946	Eu acho que sei o meu lugar.
+269045010	Eu acho que ele merecia isso.
+1780549025	Quem diabos é você
+2002065500	Eu poderia te perguntar o mesmo.
+1505156800	Eu não tenho tempo. Afaste-se.
+1095420173	Tem certeza de que quer ir por esse caminho?
+1587660357	Para o escritório! Se apresse!
 1158869171	Merda...
-1191932699	What the... Open the fucking door!
-1340907196	Here, take this.
-1094357658	Case closed.
-1933517287	Okay. What now?
-2060827302	Balcony door?
-1357973747	Works for me.
-1028424012	Wait...
-1353910226	After you...
-344475980	What are you doing?
+1191932699	Mas que... Abra a porra da porta!
+1340907196	Aqui, pegue isso.
+1094357658	Caso encerrado.
+1933517287	OK. E agora?
+2060827302	Porta da varanda?
+1357973747	Funciona para mim.
+1028424012	Espere...
+1353910226	Depois de você...
+344475980	O que você está fazendo?
 1635306417	He doesn't need that money anymore.
 27232758	Money, huh?
 1096591823	Heads down.
