@@ -10862,13 +10862,13 @@ Japanese	Japonês
 612377850	Uh!
 1751084122	Você está brincando comigo?
 771675597	Aww... Olá gracinha...
-155901563	Hello there... Stray one, aren't ya?
-1691873690	Hello there, kitty. Where'd you come from?
-1323032519	Oh! ...You gave me a Pular, you know!
-420290617	And off he goes...
-422054155	Aw... Stay a little longer, will ya?
-21919508	Good luck! Don't let the dogs get ya.
-911945144	Bye, bye, kitten.
+155901563	Olá... Perdido, não é?
+1691873690	Olá, gatinha. De onde você veio?
+1323032519	Ah ...! Que susto você me deu!
+420290617	E lá vai ele ...
+422054155	Aw ... Fica mais um pouco, sim?
+21919508	Boa sorte! Não deixe os cães pegarem você.
+911945144	Tchau, tchau, gatinha.
 2008514698	...Malditos bastardos!
 2070646966	...Você vai se arrepender!
 1617750218	...Que péssima tática, covarde!
@@ -10922,9 +10922,9 @@ Japanese	Japonês
 2015590945	...
 651977718	...
 1671377371	Hã? Acabei de desmaiar?
-721971	Oh, espere ... Como cheguei aqui?
+721971	Oh, espere... Como cheguei aqui?
 1096803553	Hum? O que eu estou fazendo aqui de novo?
-1146240195	Ah ... minha cabeça. O que aconteceu aqui?
+1146240195	Ah... minha cabeça. O que aconteceu aqui?
 1356407361	A caçada está iniciada.
 1402749410	Encontre-os antes que eles fuja!
 930510579	Eles não vão longe. Espalhar!
@@ -10949,13 +10949,13 @@ Japanese	Japonês
 316939228	Continuem assim! Quase os pegamos!
 1545641688	Esqueça isso. Vamos pegá-los outra hora.
 541047470	Pare de procurar. Eles estão longe agora.
-1977821627	Tss ... Não adianta. Vamos voltar.
-1111021564	Tarde demais ... Eles não estão mais aqui.
+1977821627	Tss... Não adianta. Vamos voltar.
+1111021564	Tarde demais... Eles não estão mais aqui.
 1074666368	Bom trabalho, pessoal... Nós os expulsamos.
-1782283089	Não consigo encontrá-los ... Vamos recuar por enquanto.
+1782283089	Não consigo encontrá-los... Vamos recuar por enquanto.
 621130926	Não estava perdendo mais tempo nisso. Vamos voltar, pessoal.
 1151332604	Isso está demorando muito! Temos trabalho a fazer!
-1478727885	Parece que eles se foram. Nós os expulsamos ...
+1478727885	Parece que eles se foram. Nós os expulsamos...
 319944193	Eles não vão voltar. Bom trabalho.
 440169159	Boa tentativa, querida. Mas você não é meu tipo.
 1319030304	Vá caçar em outro lugar!
@@ -10986,12 +10986,12 @@ Japanese	Japonês
 307941249	Deus, que idiota...
 1219650760	Ai. Malditas pragas.
 494481073	Maldita garota... Desperdiçando sua vida aqui.
-1313845231	Ahh ... Minha bota tem um buraco ...
-1448544098	A qualquer segundo... algo poderia acontecer... Nah ...
+1313845231	Ahh... Minha bota tem um buraco...
+1448544098	A qualquer segundo... algo poderia acontecer... Nah...
 1187644815	Mmmh... se eu conseguir um aumento de salário...?
 336705905	Uh ... ainda não é hora?
 76388864	Todos quietos...
-371610767	Hmmm ... eu me pergunto onde todos os caras legais trabalham.
+371610767	Hmmm... eu me pergunto onde todos os caras legais trabalham.
 244543861	Ai... Minha bunda dói...
 909080414	Vou tomar um bom banho quente depois do trabalho.
 536500147	...
