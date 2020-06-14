@@ -1985,42 +1985,42 @@ Japanese	Japonês
 1663330515	Ahhh... Ela realmente é alguma coisa.
 581988918	Ahhh, isso não está certo, está? Aqui vamos nós.
 8707816	Como ela é graciosa ... Eu gostaria que este fosse o nosso casamento.
-326374384	You seem a little crooked. Just let me... There! Perfect!
-1509212435	One day I will muster the courage... One day I will.
-1328032688	Just a little more... Yes... Very nice.
-1632605479	Hello Mary. I like your walk... No...no that doesn't sound right.
-798447257	Ha, well you look a little uneven there, don't you? Ahhh much better.
+326374384	Você parece um pouco torta. Apenas me deixe ... Pronto! Perfeito!
+1509212435	Um dia vou reunir coragem ... Um dia eu irei.
+1328032688	Só mais um pouco ... Sim ... Muito bom.
+1632605479	Olá Mary. Eu gosto do seu caminhar ... Não ... não, isso não parece certo.
+798447257	Ha, bem, você parece um pouco desigual, não é? Ahhh muito melhor.
 1340264399	Mary... Estou observando você há muito tempo... Oh, Deus, não, isso soa assustador.
 1034885475	Apenas alguns pequenos toques... Sim... Isso é o que o prefeito Higgins gostaria.
 355457615	Hah... as palavras me falham, e por isso vou continuar assistindo.
 1136573202	Um pouco de retoque... Sim... Agora você está simplesmente deslumbrante.
 120801768	Hah... Mary. Você é o única.
-1750395949	I'll lift the key from her. But the guy on the balcony seems a little too fixated on her.
-461350108	Let's blind him a little with this perfume.
-1306362270	Higgins must have been planning this wedding for years.
-251910601	Never could keep his eyes off o' me, the filthy old hound.
-922690438	Hm, time to make an impression!
-1187816162	Got it. Now, up the stairs and through the door to the library.
-743034490	Where did I put that dang key?
-1148693293	Must have dropped it somewhere... 
-1317241360	Did I put it somewhere? No...
-922549237	Better find that key.
-744683620	There's the door. I'll slip inside when no one's watching.
-407399074	There's the door. All I need is a key and an opportunity.
-479656838	Now for a little game of hide-and-seek.
-337509115	Almost there and now to find these papers.
-2105528876	It must be somewhere here...
-1764966549	Oh shit...
+1750395949	Eu levanto a chave para ela. Mas o cara na varanda parece um pouco fixado nela.
+461350108	Vamos cegá-lo um pouco com este perfume.
+1306362270	Higgins deve ter planejado este casamento há anos.
+251910601	Nunca conseguia tirar os olhos de mim, o velho cão imundo.
+922690438	Hm, hora de impressionar!
+1187816162	Entendi. Agora, suba as escadas e passe pela porta da biblioteca.
+743034490	Onde eu coloquei a droga dessa chave?
+1148693293	Devo ter deixado cair em algum lugar... 
+1317241360	Eu coloquei em algum lugar? Não...
+922549237	Melhor encontrar essa chave.
+744683620	Aqui está a porta. Vou entrar quando ninguém estiver observando.
+407399074	Aqui está a porta. Tudo o que preciso é de uma chave e uma oportunidade.
+479656838	Agora, para um pequeno jogo de esconde-esconde.
+337509115	Quase lá, e agora, preciso encontrar esses papéis.
+2105528876	Deve estar em algum lugar aqui...
+1764966549	Ah Merda...
 2078638868	...
-1971500671	Ah! Frank! I see you found my office.
-477042633	You sure keep your friends waiting, Higgins.
-1348339021	Sorry about that. The wedding, you understand.
-1857532016	Of course.
-901135896	There's the food, the decorations, the blasted relatives...
-1234949161	Let's get this done. I got a train to catch.
-1632570446	Of course. Just give me a moment.
-1559208350	Did I hear correctly that there was trouble in Flagstone yesterday?
-177296743	The usual.
+1971500671	Ah! Frank! Vejo que você encontrou meu escritório.
+477042633	Você com certeza mantém seus amigos esperando, Higgins.
+1348339021	Me desculpe por isso. O casamento, você entende.
+1857532016	Claro.
+901135896	Tem a comida, as decorações, os parentes malditos...
+1234949161	Vamos fazer isso. Eu tenho um trem para pegar.
+1632570446	Claro. Apenas me dê um momento.
+1559208350	Ouvi corretamente que ontem houve problemas em Flagstone?
+177296743	O de sempre.
 1268031842	I can imagine Mr. DeVitt isn't too happy about that.
 1403180857	DeVitt isn't here.
 1027159589	I wonder if he'd want you to leave things unfinished here.
@@ -16469,7 +16469,7 @@ Japanese	Japonês
 1447220327	Ossos do ofício
 1794102132	Um mensageiro passa por você sem dizer uma palavra, rapidamente ele coloca uma nota um pouco amassada em sua mão, na caligrafia do Barão./n/n “Me disseram que sua recente visita ao rancho de O'Hara foi espetacular. Caso esteja interessado, um novo desafio o espera por lá.”/n/n Você se vira para pegar o mensageiro, mas ele já desapareceu na multidão.
 1275070322	Você voltou ao rancho O'Hara para o último desafio do barão. Sua tarefa é matar todos os alvos sem usar nenhuma de suas armas. Em vez disso, você deve usar sua criatividade descartá-los.
-1120194126  Três homens sem nome
+Três homens sem nome
 2002330802	Uma janela de uma carroagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
 251713547	Você fez uma viagem a Baton Rouge, onde outro dos desafios do Barão o aguarda. Ele quer que você carregue os cadáveres de três alvos para os caixões no banco. Mas você não sabe quem eles são, apenas que eles são idênticos a uma determinada pessoa.
 724854570	Trigêmeos com armadilha para ursos
