@@ -16469,37 +16469,37 @@ Japanese	Japonês
 1447220327	Ossos do ofício
 1794102132	Um mensageiro passa por você sem dizer uma palavra, rapidamente ele coloca uma nota um pouco amassada em sua mão, na caligrafia do Barão./n/n “Me disseram que sua recente visita ao rancho de O'Hara foi espetacular. Caso esteja interessado, um novo desafio o espera por lá.”/n/n Você se vira para pegar o mensageiro, mas ele já desapareceu na multidão.
 1275070322	Você voltou ao rancho O'Hara para o último desafio do barão. Sua tarefa é matar todos os alvos sem usar nenhuma de suas armas. Em vez disso, você deve usar sua criatividade descartá-los.
-1120194126	Three Men With No Name
-2002330802	A coach window opens next to you. A gloved hand emerges and gives you a postcard. It is signed by the Baron./n/n "Greetings from Baton Rouge, friend! The locals here tell me all kinds of things about you. Why don't you join me here for a drink? I've already come up with a new challenge."/n/nBefore you can ask any questions, the window closes and the coach drives off, soon disappearing around the next corner.
-251713547	You have taken a trip to Baton Rouge, where another of the Baron's challenges awaits you. He wants you to deliver the bodies of three targets to the coffins inside the bank. However, you don't know where they are, only that they look exactly like a certain someone.
-724854570	Bear Trap Triplets
-2094260086	Walking along the river shore, you stumble over an old whiskey bottle half buried in the sand. Inside you find a wet piece of paper, marked with the Baron's seal./n/n "You can find many things on the banks of the Mississippi, friend. Slavers, ambushes, new allies... How about this time, I make it a new challenge for you?"/n/nYou look around for someone who could have planted the bottle, but there is no one in sight.
-1982537406	Once again, you find yourself in the wilderness along the banks of the Mississippi. In his latest challenge, the Baron has provided two additional bear traps for Hector, and tasked you to kill a group of targets with them.
-343104554	Best Served Cold
-478081862	You have barely finished your meal when the waiter brings you the check and leaves. You open the leather folder, only to discover the Baron's seal embossed on the inside, paired with a letter./n/n"I hope you enjoy the local cuisine, friend. New Orleans has many different flavors to discover. How about a little challenge after a hearty meal? Don't worry, the food is on the house."/n/nYou wait a long time for the waiter to return, but he never shows up again.
-1933087629	Your long awaited visit to New Orleans is interrupted when the Baron arrives with a new challenge for you. He wants you to extract an old associate of his from the busy market and deliver him, dead or alive, to the Baron's private steamboat at Pier 9.
-530958809	Patch Warning
-1025484101	We are going to patch the game soon. Mid-mission savegames made prior to patch day will become deprecated. Overall game progress will remain unaffected, so we recommend you finish your current mission before patch day.
-409216633	We are going to patch the game soon. Mid-mission savegames madeprior to patch day will become deprecated and must be converted to the latest version. Overall game progress will remain unaffected, so we recommend you finish your current mission before patch day.
-196638402	Patch {0}
-1461177830	Patch {0} is now in effect. Any old mid-mission savegames are now deprecated. Overall game progress remains unaffected. We apologize for the inconvenience.
-1323449760	Patch {0} is now in effect. Any old mid-mission savegames are now deprecated. To convert a deprecated savegame to the latest patch, load it from the save menu and follow the instructions. Overall game progress remains unaffected.
+Três homens sem nome
+2002330802	Uma janela de uma carroagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
+251713547	Você fez uma viagem a Baton Rouge, onde outro dos desafios do Barão o aguarda. Ele quer que você carregue os cadáveres de três alvos para os caixões no banco. Mas você não sabe quem eles são, apenas que eles são idênticos a uma determinada pessoa.
+724854570	Trigêmeos com armadilha para ursos
+2094260086	Caminhando ao longo da costa, você encontra uma velha garrafa de uísque meio enterrada na areia. Dentro há um pedaço de papel molhado, marcado com o selo do Barão./n/n “Nas margens do Mississippi, você pode encontrar muitas coisas. Escravos, emboscadas, novos aliado... E se desta vez eu fizer um novo desafio para você?/n/n Você olha em sua volta procurando alguém que possa ter colocado a garrafa, mas não vê ninguém.
+1982537406	Mais uma vez, você se encontra no meio do nada, nas margens do Mississippi. Em seu último desafio, o Barão forneceu a Hector duas novas armadilhas de ursos e encarregou você de matar um grupo de alvos com elas.
+343104554	Servido a frio
+478081862	Você mal terminou sua refeição quando o garçom lhe traz a conta e sai. Ao abrir a pasta de couro, você descobre o selo do Barão gravado dentro dela, junto com uma carta./n/nEspero que você goste da culinária local. Nova Orleans tem muitos sabores para descobrir. Que tal um pequeno desafio depois de uma refeição saudável? Não se preocupe, convite da casa./n/nVocê espera muito tempo para o garçom voltar, mas ele não aparece novamente.
+1933087629	Sua tão esperada visita a Nova Orleans é interrompida quando o Barão chega com um novo desafio para você. Ele quer que você remova um ex-parceiro do lotado mercado e o leve, vivo ou morto, para o barco a vapor particular do Barão no Pier 9.
+530958809	Aviso de Atualização
+1025484101	Vamos lançar uma atualização em breve. Os jogos salvos no meio da missão antes do dia da atualização ficarão obsoletos. O progresso total do jogo não será afetado, por isso recomendamos que você termine a missão atual antes do dia da atualização.
+409216633	Vamos lançar uma atualização em breve. Os jogos salvos no meio da missão antes do dia da atualização ficarão obsoletos e deverão ser convertidos para a versão mais recente. O progresso total do jogo não será afetado, por isso recomendamos que você termine a missão atual antes do dia da atualização.
+196638402	Atualização {0}
+1461177830	A atualização {0} já foi aplicado. Os jogos salvos no meio da missão agora estão obsoletos. O progresso total do jogo não é afetado. Pedimos desculpas pelo inconveniente.
+1323449760	A atualização {0} já foi aplicado. Os jogos salvos no meio da missão agora estão obsoletos. Para converter um jogo salvo na atualização mais recente, carregue-o no menu Salvar e siga as instruções. O progresso total do jogo não é afetado.
 2094963165	Conversão de Jogo salvo
-1806897290	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Seu progresso na missão será reconstruído o mais fielmente possível. O seguinte acontecerá: /n{0} O progresso da missão, ou seja os objetivos da missão que foram desbloqueados ou concluídos, serão redefinidos. /n{0} Todos os NPCs mortos ou amarrados serão removidos do nível, exceto os objetivos da missão /n{0} Os personagens do jogador passarão para as posições em que estão ocultos e seguros.
+1806897290	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Seu progresso da missão será reconstruído o mais fiel possível. O seguinte acontecerá:/n{0} O progresso da missão, ou seja os objetivos da missão que foram desbloqueados ou concluídos, serão redefinidos./n{0} Todos os NPCs mortos ou amarrados serão removidos do nível, exceto os objetivos da missão./n{0} Os personagens do jogador passarão para as posições em que estão ocultos e seguros.
 940139063	Este Jogo salvo está obsoleto. Carregá-lo irá convertê-lo para a versão mais recente. Siga as instruções após a conclusão do carregamento.
-1332558385	Savegame Reconstruction
-1535299939	Your savegame will now be reconstructed as closely as possible. Press the button and the following things will happen:/n{0} Mission progress, meaning mission objectives that have been unlocked or completed, will be restored./n{0} All NPCs that were killed or tied-up will be removed from the level, except mission targets./n{0} Player characters will be moved to positions where they are safely hidden./nEnjoy the show!
-580926496	Hey partner! Looks like the old patch hammer has hit this savegame of yours pretty hard. Guess it falls to us to put the poor thing back together. So why don't we have a little fun with that?
-1206716644	Let's do it!
-1579715971	Reconstructing Your Savegame
-641641696	Here's the deal. Everyone you killed or tied up in your old save is up and running again. We can't have that, can we? That's why they all now have a special mark of death. Spooky, right?/nSo what you can do now is click on them and let hellfire rain down on their heads. Sound fun? That's because it is! If you wanna see them bite the dust all at once, just select "Call the Undertaker!", and we're gonna do the rest./nOh, and don't worry about mission objectives or whether your gang is safe. We already took care of that stuff.
-600060266	Call the Undertaker!
-608942036	Deathfinger
-36247045	Kills any marked guard it is used on.
-44692332	Who's Next?
-809423569	Shows you the next marked guard.
-1596929820	Call the Undertaker!
-963141611	Kills all remaining marked guards.
+1332558385	Reconstrução de jogos salvos
+1535299939	Seu jogo salvo será reconstruído o mais fiel possível. Pressione o botão e o seguinte acontecerá:/n{0} O progresso da missão, ou seja os objetivos da missão que foram desbloqueados ou concluídos, serão redefinidos/n{0} Todos os NPCs mortos ou amarrados serão removidos do nível, exceto os objetivos da missão./n{0} Os personagens do jogador passarão para as posições em que estão ocultos e seguros.
+580926496	Ei, parceiro! Parece que a nova atualização esmagou seus jogos salvos. Acho que cabe a nós juntar o miserável novamente. Então, por que não nos divertimos um pouco com isso?
+1206716644	Vamos fazer isso!
+1579715971	Reconstruindo seu Jogo salvo
+641641696	Este é o acordo. Todo mundo que você matou ou amarrou em seu antigo Jogo salvo está novamente de volta. Não podemos deixar assim. É por isso que todos agora têm uma marca especial de morte. Assustador, certo?/nO que você pode fazer agora é clicar neles e deixar o fogo do inferno chover sobre suas cabeças. Parece divertido? Se você quiser vê-los bater as botas de uma só vez, basta selecionar "Ligue para o agente funerário!!", E nós faremos o resto./nOh, e não se preocupe com os objetivos da missão ou se sua gangue está segura. Nós já cuidamos disso.
+600060266	Ligue para o agente funerário!
+608942036	Dedo da morte
+36247045	Mate qualquer guarda marcado que seja usado.
+44692332	Quem é o próximo?
+809423569	Mostra o próximo guarda marcado.
+1596929820	Ligue para o agente funerário!
+963141611	Mate todos os guardas marcados restantes.
 951966108	Doc Hook
 965678722	Tirolesa
 1425793910	A caixa em cima desta tirolesa parece solta.
