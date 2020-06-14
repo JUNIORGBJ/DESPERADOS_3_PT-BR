@@ -2765,67 +2765,67 @@ Japanese	Japonês
 76768848	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
 1455844339	Cano quebrado
 1901536544	Parece que o cano está mal pendurado no silo.
-2103704041	A stormy night. A tragic memory. What better place to test one's resolve. Welcome back to the O'Hara Ranch.
-1862619689	Four victims await their inevitable end. However, not just any method of slaughter will do.
-1768873308	My clients want to see spectacle. Crushing boulders, blazing fires—your tools are limited, but extremely effective.
-389360937	No other means of violence are permitted. Distraction is key, as Mr. Cooper and his friends no doubt already know.
-1956659752	Make do with what you have. Send your targets to the other side. My clients are watching.
-262858736	Heh, well done, well done. I knew I could trust you to come up with something truly...spectacular.
-546778263	Kill All Targets
-260083393	Kill all designated targets.
-1896027246	Moe the Pro
-1938788065	He's the captain. Relieve him of his duties.
-46570838	Felicity Groans
-352977799	She's the comedian. Silence her terrible puns.
-888523127	Boris the Ham
-1766890871	He's been gone for a while. Retire him permanently.
+2103704041	Uma noite de tempestade. Uma lembrança trágica. Qual o melhor lugar para testar a sua determinação. Bem-vindo de volta ao rancho O'Hara.
+1862619689	Quatro vítimas aguardam seu fim inevitável. Espero que encontre um método para matá-los.
+1768873308	Meus clientes querem ver espetáculo. Pedras sendo esmagadas, fogos ardentes - suas ferramentas são limitadas, mas extremamente eficazes.
+389360937	Nenhum outro tipo de violência é permitido. Distração é fundamental, como o Sr. Cooper e seus amigos, sem dúvida já sabem.
+1956659752	Lide com o que você tem. Envie seus alvos para o outro lado. Meus clientes estão assistindo.
+262858736	Heh, muito bem, muito bem. Eu sabia que podia confiar em você para criar algo verdadeiramente... espetacular.
+546778263	Matar todos os alvos
+260083393	Mate todos os alvos designados.
+1896027246	Moe, o profissional
+1938788065	Ele é o capitão. Liberte-o de suas obrigações.
+46570838	Felicity Gemidos
+352977799	Ela é a comediante. Silencie seus trocadilhos ruins.
+888523127	Boris, o presunto
+1766890871	Foi retirado por algum tempo. Aposente-o permanentemente.
 1272242783	El Pollo Mateo
-212114340	The chicken is behind it all. Put an end to its schemes.
-1108060531	Environment Kills
-819876528	All direct means of violence are forbidden. Make use of the environment to kill your prey.
-1533858659	Horses
-1086409056	Horses kick out when hit by Cooper's coins. Use this to knock out guards.
-230713070	Lamp Guards
-1708127694	Guards drop their lamps when they get knocked out.
-230369068	Accident
-2137124214	Would be a shame if this one was blinded while working.
-915142163	Torches and Oil
-1389356972	You can pick up torches at bonfires and carry them around. Throw them to ignite areas covered in oil.
-1094818449	Alarm
-316293683	You can't set off the alarm.
-521411584	I hate funerals.
-1848347822	Who doesn't?
-612157698	This is bullshit. We were too slow.
-296559256	You did fine. I should have stayed with him.
-76027002	Then we'd bury two bodies today.
+212114340	A galinha está por trás de tudo. Ponha um fim em seus esquemas.
+1108060531	Morte natural
+819876528	Todos os meios diretos de violência são proibidos. Faça uso da natureza para matar sua presa.
+1533858659	Cavalos
+1086409056	Cavalos dão coices quando atingidos pelas moedas de Cooper. Use isso para nocautear os guardas.
+230713070	Guardas com lâmpada
+1708127694	Os guardas largam suas lâmpadas quando são nocauteados.
+230369068	Acidente
+2137124214	Seria uma pena ficar cego enquanto ele trabalha.
+915142163	Tochas e óleo
+1389356972	Você pode pegar tochas nas fogueiras e carregá-las. Jogue-as para inflamar áreas cobertas de óleo.
+1094818449	Alarme
+316293683	Você não pode acionar o alarme.
+521411584	Eu odeio funerais.
+1848347822	Quem não?
+612157698	ue porra é essa. Nós éramos muito lentos.
+296559256	Você fez bem. Eu deveria ter ficado com ele.
+76027002	Então enterramos dois corpos hoje.
 44546673	Kate!
-615451680	How are you holding up?
-733306503	I still can't believe he's gone.
-819823984	I know. I just wanna kill the bastards all over again.
-1010048128	Thank you, Hector.
-532568269	I hate to break it to you, but this is far from over.
-1164037571	What do you mean?
-1114307721	All the company has to do is send more men with the next train.
-1429595592	He's right. We can't win this. Maybe it's time we cut our losses.
-714421692	No.
-835385637	Then what?
-885227267	We blow up the bridge.
-1408309784	What bridge?
-2027617074	The bridge at Eagle Falls.
-1006380252	No bridge, no train, no more pain and misery for the people of Flagstone.
-1413203826	I'm going to Eagle Falls and blow their damn bridge to smithereens if it's the last thing I do.
-871378757	That's a tall order, miss.
-348563740	I'll do it alone if I have to.
-969953473	I've seen that place. It's massive, well guarded.
-1894985836	Gonna be a risky venture.
-221281587	Come on Doc. Kate needs us. You can't walk away from this now.
-1019647664	No, course not. You paid me. I'm yours.
-1382510156	That's what I want to hear.
-165942666	I'll ready my provisions.
-1659437782	I'll saddle the horses.
-1538176386	We can take care of the bridge, miss. You just stay here, all right?
-1440900464	No way, Mr. Cooper. This is my fight. I'm not gonna let you fight it for me.
-212712471	Suit yourself.
+615451680	Como você está indo?
+733306503	Ainda não acredito que ele se foi.
+819823984	Eu sei. Como eu gostaria de matar aqueles bastardos novamente.
+1010048128	Obrigado, Hector.
+532568269	Eu odeio dizer isso a você, mas isso está longe de terminar.
+1164037571	O que você quer dizer?
+1114307721	A compãnia só precisa enviar mais homens no próximo trem.
+1429595592	Ele tem razão. Nós não podemos ganhar isso. Talvez seja a hora de cortar nossas perdas.
+714421692	Não.
+835385637	Então o que?
+885227267	Vamos explodir a ponte.
+1408309784	Que ponte?
+2027617074	A ponte em Eagle Falls.
+1006380252	Sem uma ponte, não há trem, não há mais dor e miséria para o povo de Flagstone.
+1413203826	Vou a Eagle Falls e rasgarei sua maldita ponte, mesmo que seja a última coisa a fazer.
+871378757	Essa é uma tarefa difícil, senhorita.
+348563740	Farei sozinha se for preciso.
+969953473	Eu já vi esse lugar. É enorme, bem vigiado.
+1894985836	Vai ser um empreendimento arriscado.
+221281587	Vamos Doc. Kate precisa de nós. Você não pode se afastar agora.
+1019647664	Não, claro que não. Você me pagou. Sou todo seu.
+1382510156	É isso que eu quero ouvir.
+165942666	Vou preparar minhas provisões.
+1659437782	Vou selar os cavalos.
+1538176386	Podemos cuidar da ponte, senhorita. Você apenas fique aqui, está bem?
+1440900464	De jeito nenhum, Sr. Cooper. Esta é a minha luta. Eu não vou deixar você lutar por mim.
+212712471	Como quiser.
 1083969188	VO TRACK
 889048379	I've checked this place out. We just stroll through the camp and we're at the bridge.
 2078135170	Now that's a bridge. It'll take a wagon full of dynamite to bring her down.
