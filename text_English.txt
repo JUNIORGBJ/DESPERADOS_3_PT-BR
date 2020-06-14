@@ -16503,20 +16503,20 @@ Japanese	Japonês
 951966108	Doc Hook
 965678722	Tirolesa
 1425793910	A caixa em cima desta tirolesa parece solta.
-185053908	Murder Weapons
-641428549	Picking up a murder weapon (like Cooper's knife) in a civil zone counts as a hostile action.
-669781329	Lamps and Oil
-2095483471	If you kill a lamp carrier while they are standing in oil, the dropped lamp will ignite the oil.
-1607728182	Connect
-310446603	Connect is a very versatile skill. Try experimenting with different targets and effects.
-1845298713	Mind Control
-603912455	Mind Control can be used for many different goals. Try experimenting if you're in a pinch.
-739788697	Lures at Night
-591367716	At night, you can place lures like McCoy's bag in the light to make them visible from longer distances.
-825197218	Take Your Time
-217894750	You don't have to finish a mission in one go. You can save at any point, and return later with a fresh mind.
-1548642496	Customizing Difficulty
-309547960	Target Behavior
+185053908	Armas letais
+641428549	Pegar uma arma do crime (como a faca de Cooper) em uma área civil representa uma ação hostil.
+669781329	Tochas e óleo
+2095483471	Se você matar alguém que carrega uma lámpada enquanto estiver em uma poça de óleo, ela acenderá o óleo quando cair.
+1607728182	Conectar
+310446603	Conectar é uma habilidade muito versátil. Tente experimentar em diferentes alvos e efeitos.
+1845298713	Controle mental
+603912455	O controle da mente pode ser usado para muitos objetivos diferentes. Tente experimentar se você estiver em apuros.
+739788697	Iscas à noite
+591367716	À noite, você pode colocar iscas como a bolsa de McCoy na luz para torná-las visíveis a distâncias maiores.
+825197218	Não tenha pressa
+217894750	Você não precisa terminar uma missão na primeira jogada. Você pode salvar a qualquer momento e retornar mais tarde com uma mente renovada.
+1548642496	Personalizar dificuldade
+309547960	Comportamento Alvo
 1192375393	Your target won't fall for lures and is resistant to distractions.
 1919598581	Target Behavior
 1107586089	Your target won't fall for lures and is resistant to distractions.
