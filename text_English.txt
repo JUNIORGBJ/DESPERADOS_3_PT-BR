@@ -16005,7 +16005,7 @@ Japanese	Japonês
 261253294	I will write a formal complaint.
 280742776	I'm freezing! This is outrageous.
 1068511834	I will keep watch.
-22067887538	Frank is showing a temper.
+2067887538	Frank is showing a temper.
 410397557	Awful noise last night.
 1229775573	Those blasted strangers.
 1786729789	We're in luck. Third catch this month.
