@@ -16909,52 +16909,52 @@ Japanese	Japonês
 926597516	His plan didn't play out so well.
 1679224301	Get inside Eagle's Nest
 1546645602	Blowup the gate with the cannon.
-1150337893	Cannonball
-891108364	Load the cannon first.
-1349306174	Shoot Gate
-449057507	Shoot the gate once it is loaded.
-727267521	Get inside the tower
-681691823	The stash is hidden inside the tower.
-2042199357	Free Mccoy
-1413276380	He can lockpick the tower door.
-1080405733	Regroup
-370594320	Gather at the horses to ride into the sunset.
-647513640	Gatling Gun Defense
-1272242273	Use it to kill the bandits.
-1158841105	According to the girl the gold should be here.
-263699796	Apparently that statue has a hidden lever. Thats all we know for now.
-1827087218	Let's go
-1728706167	Interact with the statue
-2056762711	The statue has a hidden mechanism that does something.
-941098583	Get the gold from the fountain.
-786314742	The fountain just moved. See what is inside its hidden chamber.
-2057191596	Get one of the disguises
-2088523610	There are two disguises for Kate. One on each side.
-1338189044	Cut him free.
-517534915	Hector is tied up.
-1637125480	Regroup
-952742878	Get an overview of the situation.
-768062827	(Optional) Free the others
-1475641737	Kate and Isabelle got taken too. Help them.
-553591077	Free Isabelle.
-385299029	Isabelle got brought to the encampment.
-1406301094	Free Kate
-1098391272	Kate is held inside that small pueblo village.
-218715850	Hectors Gear
-1463117912	Get his gear.
-1896713945	Vibration
-1275925138	Your custom input layout was corrupted and can no longer be loaded. The file will be deleted.
-130937372	Pickpocket
-1231495639	Transform
-417414224	Switch between Minecart-mode and Gatling-mode.
+1150337893	Bala de canhão
+891108364	Carregue o canhão primeiro.
+1349306174	Tiro no portão
+449057507	Atire no portão assim que estiver carregado.
+727267521	Entre na torre
+681691823	O esconderijo está escondido dentro da torre.
+2042199357	Mccoy livre
+1413276380	Ele pode trancar a porta da torre.
+1080405733	Reagrupar
+370594320	Reunir os cavalos para montar no pôr do sol.
+647513640	Metralhadora
+1272242273	Use-o para matar os bandidos.
+1158841105	Segundo a garota, o ouro deveria estar aqui.
+263699796	Aparentemente, essa estátua tem uma alavanca oculta. É tudo o que sabemos por enquanto.
+1827087218	Vamos lá
+1728706167	Interaja com a estátua
+2056762711	A estátua tem um mecanismo oculto que faz alguma coisa.
+941098583	Pegue o ouro da fonte.
+786314742	A fonte acabou de se mover. Veja o que está dentro da câmara.
+2057191596	Pegue um dos disfarces
+2088523610	Existem dois disfarces para Kate. Um de cada lado.
+1338189044	Liberte-o.
+517534915	Hector está amarrado.
+1637125480	Reagrupar
+952742878	Obtenha uma visão geral da situação.
+768062827	(Opcional) Liberte os outros
+1475641737	Kate e Isabelle também foram levadas. Ajude-as.
+553591077	Isabelle livre.
+385299029	Isabelle foi levada para o acampamento.
+1406301094	Kate livre
+1098391272	Kate é mantida dentro daquela pequena vila de pueblo.
+218715850	Equipamento de Hectors
+1463117912	Pegue o equipamento dele.
+1896713945	Vibração
+1275925138	Suas configurações de entrada personalizadas foram corrompidas e não podem ser carregadas. O arquivo será excluído.
+130937372	Ladrão
+1231495639	Transformar
+417414224	Alterne entre os modos de mine vagão e metralhadora.
 2043069599	Modo de Gráficos
-979342887	Modo de DesempenhD
+979342887	Modo de Desempenho
 1061026314	Prioritizes stable performance. Renders the game at 1080p resolution.
 251777897	Modo de Resolução
 123492416	Prioriza resoluções mais altas. Substitui a sua resolução de tela se ela não suportar 4K.
 20238496	Um civil foi morto.
 1431837803	Exclusivo
-1552323699	Sem fronteiras
+1552323699	Sem bordas
 2089642635	Conversa
 1653596580	Converse com um inimigo para ele manter os olhos focados em você.
 560450859	Mover Câmera
