@@ -10921,79 +10921,79 @@ Japanese	Japonês
 1440215797	...
 2015590945	...
 651977718	...
-1671377371	Huh? Did I just pass out?
-721971	Oh, wait... How did I get here?
-1096803553	Hm? What was I doin' here again?
-1146240195	Ah...my head. What happened here?
-1356407361	The hunt is on.
-1402749410	Find 'em before they run off!
-930510579	They won't get far. Spread out!
+1671377371	Hã? Acabei de desmaiar?
+721971	Oh, espere ... Como cheguei aqui?
+1096803553	Hum? O que eu estou fazendo aqui de novo?
+1146240195	Ah ... minha cabeça. O que aconteceu aqui?
+1356407361	A caçada está iniciada.
+1402749410	Encontre-os antes que eles fuja!
+930510579	Eles não vão longe. Espalhar!
 636774531	All right, let's get 'em for good!
-1394194207	Corner them! Search everywhere!
-850030295	We're gonna find every last one of you!
-844741391	Okay, fellas! This time we get 'em!
-1190724277	They can't fool us. Hunt them down!
-622448319	They were here a second ago. Can't have gone far!
-275848141	Split up, everybody! Go get 'em!
-2128860172	Keep looking! We gotta find them!
-690966405	They can't hide forever. Go search everywhere!
-1954485090	We surrounded you. Come out!
-1757339498	Search every nook and cranny!
-324630781	You're outnumbered! Give up!
-1030965119	Give up, cowards! We have the upper hand!
-1811260869	They are here! I know it!
-2074334905	Can't have come far. Keep lookin'!
-584128661	Come on! We can't let them escape. 
-773253327	Keep your guns ready. They're here!
-591010557	I know they're here. Keep looking.
-316939228	Keep it up! We almost got 'em!
-1545641688	Forget about it. We'll get 'em another time.
-541047470	Stop searching. They're far away by now. 
-1977821627	Tss... It's no use. Let's go back.
-1111021564	Too late... They're not here anymore.
-1074666368	Good job, fellas... We drove 'em off.
-1782283089	Can't find 'em... Let's retreat for now.
-621130926	Not wastin' more time on this. Let's go back, fellas.
-1151332604	This is taking too long! We got work to do!
-1478727885	Seems like they're gone. We drove 'em off...
-319944193	They ain't coming back. Good job.
-440169159	Nice try, sweetie. But you're not my type.
-1319030304	Go and hunt somewhere else!
-1704614934	You really that desperate?
-1981616206	Come on, you can do better.
-306702713	Gotta stay at my post, darlin', ya know...
-2087661599	Sorry, girl. Grow a beard—then we might talk again.
-503081441	Not today, darling.
-103687019	Sorry, I'm not in the mood.
-936252275	You lucky bastard.
-1493741192	She's too good for ya!
-1569485127	Yeah, yeah, you go have fun...
-937947480	Oh, darlin'. He's not worth the trouble, believe you me.
-543237631	Oh no you don't.
-379951664	She's just playing with ya.
-1502583674	Don't let her fool you.
-1736294830	Sir?
-1752780677	Me, sir?
-1852590586	Yes, boss?
-613753461	You mean me, boss?
-648156018	Of course, sir.
-355452095	Got it, boss.
-1462931374	Absolutely, sir.
-1993383671	Sure thing, boss.
-1412084574	Okay, boss.
-713525309	Thank you, sir.
-45310249	I'll remember your words, sir.
-307941249	God, what an asshole...
-1219650760	Ouch. Damn pests.
-494481073	Damn girl... Wastin' your life out here.
-1313845231	Ugh... My boot has a hole...
-1448544098	Any second...something could happen... Nah...
-1187644815	Mmmh...if I ever get a pay raise...?
-336705905	Uh...isn't it time yet?
-76388864	All quiet...
-371610767	Hmm... I wonder where all the nice guys work.
-244543861	Ouch... My butt hurts...
-909080414	Will get a nice, hot bath after work.
+1394194207	Encurralá-los! Vasculhem todo o lugar!
+850030295	Nós vamos encontrar cada um de vocês!
+844741391	Ok, pessoal! Desta vez, nós os pegamos!
+1190724277	Eles não podem nos enganar. Vamos caçá-los!
+622448319	Eles estavam aqui um segundo atrás. Não podem ter ido longe!
+275848141	Dividam-se todos! Vá pegá-los!
+2128860172	Continue olhando! Temos que encontrá-los!
+690966405	Eles não podem se esconder para sempre. Vasculhem todo o lugar!
+1954485090	Nós o cercamos. Saiam!
+1757339498	Procure até o último canto!
+324630781	Você está em menor número! Desista!
+1030965119	Desista, covardes! Nós temos a vantagem!
+1811260869	Eles estão aqui! Eu sei isso!
+2074334905	Não podem terem ido longe. Continue olhando!
+584128661	Vamos! Não podemos deixá-los escapar.
+773253327	Mantenha suas armas prontas. Eles estão aqui!
+591010557	Eu sei que eles estão aqui. Continue procurando.
+316939228	Continuem assim! Quase os pegamos!
+1545641688	Esqueça isso. Vamos pegá-los outra hora.
+541047470	Pare de procurar. Eles estão longe agora.
+1977821627	Tss ... Não adianta. Vamos voltar.
+1111021564	Tarde demais ... Eles não estão mais aqui.
+1074666368	Bom trabalho, pessoal... Nós os expulsamos.
+1782283089	Não consigo encontrá-los ... Vamos recuar por enquanto.
+621130926	Não estava perdendo mais tempo nisso. Vamos voltar, pessoal.
+1151332604	Isso está demorando muito! Temos trabalho a fazer!
+1478727885	Parece que eles se foram. Nós os expulsamos ...
+319944193	Eles não vão voltar. Bom trabalho.
+440169159	Boa tentativa, querida. Mas você não é meu tipo.
+1319030304	Vá caçar em outro lugar!
+1704614934	Você está realmente tão desesperado?
+1981616206	Vamos lá, você pode fazer melhor.
+306702713	Tenho que ficar no meu posto, querida, você sabe...
+2087661599	Desculpe garota. Deixe crescer barba—então poderemos conversar novamente.
+503081441	Hoje não, querida.
+103687019	Desculpe, não estou de bom humor.
+936252275	Seu sortudo bastardo.
+1493741192	Ela é boa demais para você!
+1569485127	Sim, sim, você vai se divertir...
+937947480	Oh, querida. Ele não vale a pena, acredite em mim.
+543237631	Oh não, você não.
+379951664	Ela está apenas brincando com você.
+1502583674	Não a deixe enganar você.
+1736294830	Senhor?
+1752780677	Eu senhor?
+1852590586	Sim chefe?
+613753461	Você está falando comigo, chefe?
+648156018	Claro senhor.
+355452095	Entendi, chefe.
+1462931374	Absolutamente senhor.
+1993383671	Coisa certa, chefe.
+1412084574	Certo, chefe.
+713525309	Obrigado senhor.
+45310249	Vou me lembrar das suas palavras, senhor.
+307941249	Deus, que idiota...
+1219650760	Ai. Malditas pragas.
+494481073	Maldita garota... Desperdiçando sua vida aqui.
+1313845231	Ahh ... Minha bota tem um buraco ...
+1448544098	A qualquer segundo... algo poderia acontecer... Nah ...
+1187644815	Mmmh... se eu conseguir um aumento de salário...?
+336705905	Uh ... ainda não é hora?
+76388864	Todos quietos...
+371610767	Hmmm ... eu me pergunto onde todos os caras legais trabalham.
+244543861	Ai... Minha bunda dói...
+909080414	Vou tomar um bom banho quente depois do trabalho.
 536500147	...
 951235584	...
 298658154	...
