@@ -2067,7 +2067,7 @@ Japanese	Japonês
 1895276229	Bem aconchegante aqui. Parece que o prefeito está se saindo bem. 
 114689045	Something's going on in that room. Let's have a look.
 1932598923	Este é um dos presentes de casamento mais estranhos que já vi em toda a minha vida.
-636323351	Sim ... quero dizer, é tudo muito caro, mas para uma dama?
+636323351	Sim...quero dizer, é tudo muito caro, mas para uma dama?
 1995670140	O que uma noiva faria com essa coisa? 
 1855027666	Você não pode pendurá-lo sobre a lareira, isso é certo.
 717136598	Queria ter visto o rosto dela quando ele contou a ela.
@@ -2075,7 +2075,7 @@ Japanese	Japonês
 1911861564	Heh, vamos dar uma volta neste presente de casamento. Esta pronto?
 589429187	Eu estou trabalhando nisso! Não me empurre!
 1594987651	Apresse-se, sim? Quem se importa agora se você fizer alguns arranhões?
-1034382140	Eu sei eu sei. Ainda assim ... é um lindo pedaço de aço.
+1034382140	Eu sei, eu sei. Ainda assim... é um lindo pedaço de aço.
 617116496	Ainda não consigo acreditar que ele daria a ela uma metralhadora de todas as coisas. Você terminou?
 1055613052	Eu disse que estou trabalhando nisso!
 1474974179	Você não tem decência, está roubando uma desculpa bizarra para um homem.
