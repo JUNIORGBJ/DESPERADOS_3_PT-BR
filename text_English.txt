@@ -8824,81 +8824,81 @@ Japanese	Japonês
 878646762	Oh shit, it's them!
 1540109942	It's Cooper's gang!
 1580870563	You ain't getting me!
-1760039550	Payback time!
-1901150571	It's Cooper!
-147295479	I see you, cowboy!
-1288299809	It's Hector!
-383178821	Hey there, big guy!
-1651637570	It's O'Hara!
-1847416052	Hey there, pretty lady!
-517807783	It's McCoy!
-1870979529	I see you, you black coat motherfucker!
-1312107892	It's the witch!
-1032137676	It's Moreau!
-333117989	I see you, kid!
-408434802	Hey kid! Come here!
-1867529917	It's the marshal!
-1994364935	Hey! How'd you get out?
-24635553	Something ain't right... Who's there?
-616948554	Wait... Is someone behind me?
-814397201	Strange... Like someone's right next to me.
-383055934	...! Stop that!
-1341729220	...! What the hell?
-594180159	...! Whoa there!
-1882175810	...! Hey!
-1878089138	You got no business in here!
+1760039550	Hora da vingança!!
+1901150571	É o Cooper!
+147295479	Vejo você, cowboy!
+1288299809	É Hector!
+383178821	Ei, cara grande!
+1651637570	É O'Hara!
+1847416052	Ei, moça bonita!
+517807783	É o McCoy!
+1870979529	Eu vejo você, seu casaco preto filho da puta!
+1312107892	É a bruxa!
+1032137676	É o Moreau!
+333117989	Te vejo, garoto!
+408434802	Ei garoto! Venha aqui!
+1867529917	É o marechal!
+1994364935	Ei! Como você saiu?
+24635553	Algo não está certo... Quem está aí?
+616948554	Espere... Tem alguém atrás de mim?
+814397201	Estranho... Como se alguém estivesse bem ao meu lado..
+383055934	...! Pare com isso!
+1341729220	...! Que diabos?
+594180159	...! Uau, lá!
+1882175810	...! Ei!
+1878089138	Você não tem negócios aqui!
 92706801	Hiding in here, are we?
-315163902	Get out of here, asshole!
-1190801732	Could be worth something!
-871652227	Now where did that come from?
-189829232	That wasn't there before!
-16419593	Can't leave that here.
-88841338	Oh yeah, come to Papa.
-1093645070	All mine.
-2094490006	That's gonna pay for whiskey tonight.
-959916557	Oh yeah.
-916500081	Hoho, lucky me.
-1682743302	Is she asleep?
-1019457690	What's she doing there?
-1936706901	Is he sleeping?
-939964917	What's he doing there?
-569570106	Hey. What's with you?
-1005519430	Lazy bastard.
-851743141	He didn't get far.
-633907406	Yeah, he's the one.
-499272758	Looks like she didn't get too far, huh!
-1643319938	Yeah, she's the one.
-260523217	You're the traitor.
-1149841042	It was you, wasn't it.
-431189211	There's the bastard.
-89735425	Found you, asshole.
-485741451	I'll deal with him later.
-1816268758	I'll leave him here for now.
-128551216	I'll deal with her later.
-637226223	I'll leave her here for now.
-1046130250	We're gonna deal with you later.
-21395827	There. You're gonna stay put for now.
-226094763	They tied her up!
-573052549	They got to her!
-1600533171	They tied him up!
-1126834760	They got to him!
-1398123964	Someone tied you up but good!
-108286794	Hey! Who the fuck tied you up?
-146519274	Where is she?
-1972526709	Where'd she go?
-2130211668	Wasn't she just here?
-707386571	Where's he gone?
-1981679407	Where'd he go?
-623639997	Wasn't he here before?
-767890856	Hey, where's my partner?
-3283273	Keeps me waiting, huh?
+315163902	Saia daqui, imbecil!
+1190801732	Poderia valer alguma coisa!
+871652227	Agora, de onde isso veio?
+189829232	Isso não estava lá antes!
+16419593	Não pode deixar isso aqui.
+88841338	Ah sim, vem pro papai.
+1093645070	Tudo meu.
+2094490006	Isso vai pagar pelo uísque hoje à noite.
+959916557	Oh sim.
+916500081	Hoho, sorte minha.
+1682743302	Ela está dormindo?
+1019457690	O que ela está fazendo lá?
+1936706901	Ele está dormindo?
+939964917	O que ele está fazendo lá?
+569570106	Ei. O que há com você?
+1005519430	Bastardo preguiçoso.
+851743141	Ele não foi longe.
+633907406	Sim, ele é o único.
+499272758	Parece que ela não foi muito longe, hein!
+1643319938	Sim, ela é a única.
+260523217	Você é o traidor.
+1149841042	Era você, não era?.
+431189211	Aqui está o bastardo.
+89735425	Te encontrei, idiota.
+485741451	Eu vou lidar com ele mais tarde.
+1816268758	Vou deixá-lo aqui por enquanto.
+128551216	Eu vou lidar com ela mais tarde.
+637226223	Vou deixá-la aqui por enquanto.
+1046130250	Nós vamos lidar com você mais tarde.
+21395827	Lá. Você vai ficar parado por enquanto.
+226094763	Eles a amarraram!
+573052549	Eles chegaram até ela!
+1600533171	Eles o amarraram!
+1126834760	Eles chegaram nele!
+1398123964	Alguém te amarrou muito bem!
+108286794	Ei! Quem diabos te amarrou?
+146519274	Onde ela está?
+1972526709	Para onde ela foi?
+2130211668	Ela não estava aqui?
+707386571	Para onde ele foi?
+1981679407	Para onde ele vai?
+623639997	Ele não estava aqui antes?
+767890856	Ei, onde está meu parceiro?
+3283273	Me deixou esperando, não é?
 1838282460	Hey! What's keeping ya?
-1206810632	Hey! Wake up!
+1206810632	Ei! Acorde!
 1509012229	Off your lazy ass.
-98003121	Stop slacking off.
-567975083	Who did this to you?!
-508605183	Who tied you up like this?!
-691815358	Huh?!
+98003121	Pare de relaxar.
+567975083	Quem fez isto com você?!
+508605183	Quem te amarrou assim?!
+691815358	Hein?!
 1884296520	O que é isso?
 1933498548	Você ouviu isso?
 1328323206	Quem diabos está fazendo isso?!
@@ -8946,8 +8946,8 @@ Japanese	Japonês
 2046446964	Pare de se esconder, seu covarde!
 871541653	Vamos! Me mostre que tem bolas!
 1467041725	Oh, eu vou me divertir com você!
-742385626	This is getting old.
-1703385108	Aww, you scared?
+742385626	Isso está ficando velho.
+1703385108	Aww, está assustado?
 1051130559	Aqui, gatinho gatinho gatinho.
 1607285573	Não no me turno, cusão!
 926075436	Fucking bounty hunters.
