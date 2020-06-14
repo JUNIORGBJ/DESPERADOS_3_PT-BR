@@ -1932,18 +1932,18 @@ Japanese	Japonês
 196637280	Arraste o corpo do Sr. Goodwill para o cemitério e jogue-o no caixão.
 1473554651	Disfarce
 202354555	Kate pode se disfarçar de uma prostituta no bordel de Flagstone.
-979423799	Todo mundo fica parado, por favor.
+979423799	Fiquem parados, por favor.
 1359697944	Magnífico!
-1559499210	E outro.
+1559499210	Mais uma?!
 389220884	Eu acho que esse lado é muito mais imponente.
-256272098	Certo, vou buscar outro prato.
-2031706714	Como você gosta do vestido novo, docinho?
-21845656	É adorável, querida.
+256272098	outra placa.
+2031706714	Você gostou do vestido novo, docinho?
+21845656	Querido.
 986374359	Excelente! Quero que todos falem sobre esse dia nos próximos anos.
 1065468858	Prefeito Higgins!
-687118702	E agora?
+687118702	O que foi agora?
 1301008775	Frank diz que está ficando impaciente.
-1758863038	Merda! Agora não! Você não vê que estamos no meio de alguma coisa?
+1758863038	Meerda! Agora não! Você não vê que estamos ocupados?
 1308103675	Me desculpe, docinho. Isso é algo que eu realmente tenho que cuidar.
 1296826008	Não se preocupe comigo, querida.
 952763125	Fique aqui. Volto em um instante.
