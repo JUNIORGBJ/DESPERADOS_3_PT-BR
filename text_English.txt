@@ -8900,45 +8900,45 @@ Japanese	Japonês
 508605183	Who tied you up like this?!
 691815358	Huh?!
 1884296520	O que é isso?
-1933498548	You hear that?
-1328323206	Who the fuck is doing this?!
-2129706324	This ain't funny!
-1417037358	All right, enough!
-1532917609	Shit, where'd that come from!
-786595499	Who's shootin'?!
-989494188	They're shootin' at us!
-897938216	Someone's throwing dynamite!
-1895583718	They're using dynamite!
-200294909	Who the fuck did that?!
-1907993693	Hey, I heard that!
-1787681285	Who's there?!
-1173205208	Show yourself!
-645325076	All right, I'm coming for you!
-800031298	Oh, you're in trouble now!
-836498997	Eu sei onde você está, cusão
+1933498548	Você ouviu isso?
+1328323206	Quem diabos está fazendo isso?!
+2129706324	Isso não é engraçado!
+1417037358	Tudo bem, chega!
+1532917609	Merda, de onde isso veio!
+786595499	Quem está atirando?!
+989494188	Eles estão atirando em nós!
+897938216	Alguém está jogando dinamite!
+1895583718	Eles estão usando dinamite!
+200294909	Quem diabos fez isso?!
+1907993693	Ei, eu ouvi isso!
+1787681285	Quem está aí?!
+1173205208	Mostre-se!
+645325076	Tudo bem, eu estou indo para você!
+800031298	Oh, você está com problemas agora!
+836498997	Eu sei onde você está, cusão.
 477376984	Que diabos foi isso?
 725489667	Estou ficando louco?
-2079312076	Ah! Uh...what?
-477292955	What am I doing?
+2079312076	Ah! Uh... o que?
+477292955	O que eu estou fazendo?
 1049005536	Deixa pra lá.
 169936907	Isso é estúpido.
 1523781371	Não pense que você pode se esconder!
-1677782556	Okay, let's get this over with!
-200240766	Let's have a look around.
-1196600760	Oh, I ain't fooled so easy.
-807861649	This is gonna be painful.
-413690976	All right, who was that?
+1677782556	Ok, vamos acabar logo com isso!
+200240766	Vamos dar uma olhada.
+1196600760	Oh, eu não sou enganado tão fácil.
+807861649	Isso vai ser doloroso.
+413690976	Tudo bem, quem era aquele?
 1355395483	Que diabos foi isso?
-576987870	Okay, where's the joker who hit me?
-747216756	Oh, you're gonna pay for that.
-454064382	Not so brave now, huh?!
-1970403084	Anyone here?
-686765178	I'll find you, you know.
-1831445337	You're in big trouble!
-1852156045	Whoever you are, come out now!
-1265322671	Better run off before I hurt you!
-1448740758	You're just making it worse!
-1983148373	He he, just you wait...
+576987870	Ok, onde está o curinga que me bateu?
+747216756	Oh, você vai pagar por isso.
+454064382	Não é tão corajoso agora, hein?!
+1970403084	Alguém aqui?
+686765178	Eu vou te encontrar, você sabe.
+1831445337	Você está com um grande problema!
+1852156045	Quem você é, saia agora!
+1265322671	Melhor fugir antes que eu te machuque!
+1448740758	Você só está piorando!
+1983148373	He he, apenas espere...
 1998060968	Filho da puta! Onde você está!
 1651967252	Você não está me enganando!
 1648573205	Saia, saia!
