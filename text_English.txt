@@ -8415,31 +8415,31 @@ Japanese	Japonês
 1972136448	Correto. No meu caminho.
 862236337	Está certo..
 1486685629	Eu vou.
-1785287502	I'll get it done.
-2027953958	Please be okay.
-1785336322	I can do this...
-1106567418	Gotta move.
-1905492557	Now or never.
-1611616462	Come on...
+1785287502	Eu vou fazer isso..
+2027953958	Por favor fique bem.
+1785336322	Eu posso fazer isso...
+1106567418	Tenho que me mexer.
+1905492557	Agora ou nunca.
+1611616462	Vamos..
 1193834096	No meu caminho.
-862746886	Yup... Leave it to me.
-1703730525	Good spot.
-557766959	Be right there.
-2134395880	S-sure. No problem.
-265383940	Hrgn... I got this.
-1674904499	I don't see how.
-835410211	I can't do it.
-1970558397	That's gonna be a problem.
-879504050	No can do.
-1086406602	No way I can see.
-905802931	Is there another way?
-2135394769	Gotta find another way.
-2125512474	There's trouble in there.
-708369979	Shouldn't go in there.
-1004098978	No. Bad idea.
+862746886	Sim ... Deixe comigo.
+1703730525	Bom lugar.
+557766959	Estarei lá.
+2134395880	C-certo. Sem problemas.
+265383940	Hrgn... eu consegui isso.
+1674904499	Não vejo como.
+835410211	Eu não posso fazer isso.
+1970558397	Isso vai ser um problema.
+879504050	Não pode fazer.
+1086406602	De jeito nenhum eu posso ver.
+905802931	Existe outra maneira?
+2135394769	Tenho que encontrar outra maneira.
+2125512474	Há problemas lá.
+708369979	Não deveria entrar lá.
+1004098978	Não. Má ideia.
 2002224943	Locked.
 1815445650	It's locked.
-187308505	Won't budge.
+187308505	Won't budge
 2002792298	Me dê um tempo.
 2014682765	Ainda não consigo.
 655197554	Ainda não posso fazer isso.
