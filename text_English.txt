@@ -16953,15 +16953,15 @@ Japanese	Japonês
 251777897	Resolution Mode
 123492416	Prioritizes higher resolutions. Supersamples to your display resolution if your display does not support 4K.
 20238496	A civilian was killed.
-1431837803	Exclusive
-1552323699	Borderless
-2089642635	Talk
-1653596580	Talk to an enemy to keep their eyes focused on you.
-560450859	Move Camera
-1774174796	Let's do this later, okay?
-1154049762	Sorry honey, I can't right now.
-238564817	Let's do this later, okay?
-1029811449	Sorry honey, I can't right now.
+1431837803	Exclusivo
+1552323699	Sem fronteiras
+2089642635	Conversa
+1653596580	Converse com um inimigo para ele manter os olhos focados em você.
+560450859	Mover Câmera
+1774174796	Vamos fazer isso mais tarde, ok?
+1154049762	Desculpe querida, não posso agora.
+238564817	Vamos fazer isso mais tarde, ok?
+1029811449	Desculpe querida, não posso agora.
 529306080	Obrigado por jogar o Desperados III Demostração!
 641702397	Siga sua aventura no jogo de onde você parou!/nVá para o menu de opções e digite <b><hotkey>"lonerider"</hotkey></b> para ativar a trapaça, ou use o D-Pad: <b><hotkey> "DIREITA, DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
 1247312339	Obtenha a versão completa do Desperados III agora!
