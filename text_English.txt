@@ -626,7 +626,7 @@ Japanese	Japonês
 1634612996	Não <passiveAbilityCannot>pode</passiveAbilityCannot> <passiveAbilityName>levar</passiveAbilityName> corpos.
 2052156763	Pode <passiveAbilityName>nadar.</passiveAbilityName>
 597313321	<passiveAbilityCannot>Não sabe nadar.</passiveAbilityCannot>
-825544575	Classico RTS
+825544575	Clássico RTS
 1269477099	Desperados III
 1358490674	Aqui você pode personalizar e criar novos layouts de controle. As alterações são aplicadas automaticamente. Você pode alternar entre os layouts selecionando o botão ao lado./n/nLayout Ativo: {0}
 971883982	Otimizado para jogar Desperados III e para fãs do gênero de táticas em tempo real.
@@ -665,7 +665,7 @@ Japanese	Japonês
 1366477586	Redefinir todas as ações de entrada para os valores padrão?
 1706772755	Aqui você pode personalizar e criar novos layouts de controle. As alterações são aplicadas automaticamente. Para mudar de layout, selecione-o e pressione {0} para aplicar ./n/nLayout ativo: {1}
 152282435	Stick direito
-957749598	Stick esquedo
+957749598	Stick esquerdo
 573536425	Zoom da câmera
 960958096	Gira a câmera para direita
 583071028	Gira a câmera para esquerda
@@ -768,7 +768,7 @@ Japanese	Japonês
 950140396	Apague todas as fontes de luz, incluindo lâmpadas transportadas por guardas.
 1295376244	Faça um guarda seguir suas pegadas por {0} metros.
 1061741433	Não toque em arbustos ou palheiros.
-413325399	Complete a missão na dificuldade Dificil.
+413325399	Complete a missão na dificuldade Difícil.
 477910365	Mate todos, exceto os civis.
 1889045333	Não pule e não use escadas, cordas ou trepadeiras.
 121027725	Não mate Casacos Longos.
@@ -988,7 +988,7 @@ Japanese	Japonês
 1063170881	Ponchos
 1729102775	Guardas vestindo <skill>Ponchos</skill> não se deixe enganar facilmente. Eles <skill>não deixam seus postos</skill> e as distrações duram muito pouco tempo.
 1077739942	Casacos longos impressionantes
-1023966315	Sem Hector, os <skill>Casacos Longos</skill> são um osso duro de roer./nPara pegalos, você precisa <skill>atordoar</skill> eles <skill> com um tiro </skill>e depois pega-los por trás./nAlém disso<skill> eles veem através do disfarce de Kate </skill>e são difíceis de distrai-los.
+1023966315	Sem Hector, os <skill>Casacos Longos</skill> são um osso duro de roer./nPara pega-los, você precisa <skill>atordoar</skill> eles <skill> com um tiro </skill>e depois pega-los por trás./nAlém disso<skill> eles veem através do disfarce de Kate </skill>e são difíceis de distrai-los.
 495832922	Marcador de cone
 1558125949	O <skill>Marcador de cone</skill> mostra se um local é vigiado pelos guardas./nSegure {0} para colocá-lo em um <skill>local</skill> ou em um <skill>guarda</skill>./n
 1351644456	O <skill>Marcador de cone</skill> mostra se um local é vigiado pelos guardas./nSegure {0}, e depois use o cursor e pressione {1} para colocá-lo em um <skill>local</skill> ou em um <skill>guarda</skill>./n
@@ -1077,7 +1077,7 @@ Japanese	Japonês
 2113789918	Recolher faca /n <hotkey>Caminhe até o CADÁVER</hotkey>
 436268579	Realçar/n {0}
 1301298816	Realçar/n {0}
-1681608670	Pistolero
+1681608670	Pistoleiro
 1107477338	Cooper
 1455806789	Hector
 115484959	McCoy
@@ -1123,7 +1123,7 @@ Japanese	Japonês
 677898624	Isso determina o número máximo de pontos de vida que seus personagens podem ter./n/nDICA: Altere para diminuir ou aumentar sua margem de erro.
 1826741812	Munição do Jogador
 114054378	Isso determina quanta munição seus personagens têm no início de uma missão, bem como a quantidade de munição encontrada em caixotes./n/nDICA: Altere isso para permitir mais ou menos disparos em sua jogada.
-1202346510	Customizado
+1202346510	Customizada
 528226213	Quantidade de gravações
 511045945	Isso determina o número de vezes que você pode salvar.
 2001766354	Pausar durante o modo duelo
@@ -1171,9 +1171,9 @@ Japanese	Japonês
 785635210	Gera Kate no local de destino.
 537635851	Trapaceiro!
 1338935816	Os distintivos não podem ser desbloqueados durante a trapaça.
-1985192607	Demomstração
-883308870	Demomstração
-1856232954	Fim da Demomstração:
+1985192607	Demonstração
+883308870	Demonstração
+1856232954	Fim da Demonstração:
 2023026588	FEEDBACK DA MISSÃO
 1291298655	Muito bem. Ajude-nos a oferecer a melhor versão para quando o jogo for lançado. "Continuar" abrirá o site da pesquisa. Não tenha pressa. Nós realmente apreciamos disso!
 18246755	Você deixou seu feedback? Obrigado!
@@ -1186,22 +1186,22 @@ Japanese	Japonês
 1615115792	$USER_NAME_OR_ID desbloqueou um distintivo em $TITLE_NAME.
 835984463	$USER_NAME_OR_ID desbloqueado $STORY_COUNT distintivo em $TITLE_NAME.
 500124912	$USER_NAME_OR_ID completado {0} em {1} dificuldade em $TITLE_NAME.
-354397091	$USER_NAME_OR_ID completado $STORY_COUNT missões em {0} difficulty em $TITLE_NAME.
+354397091	$USER_NAME_OR_ID completado $STORY_COUNT missões na dificuldade {0} em $TITLE_NAME.
 654425012	$USER_NAME_OR_ID matou {0} guardas em $TITLE_NAME.
 1744584040	$USER_NAME_OR_ID matou um número significativo de guardas em $TITLE_NAME.
-1224139281	$USER_NAME_OR_ID matou {0} Casacos compridos em $TITLE_NAME.
+1224139281	$USER_NAME_OR_ID matou {0} casacos longos em $TITLE_NAME.
 629521266	$USER_NAME_OR_ID matou um número significativo de casacos longos $TITLE_NAME.
 1477070416	$USER_NAME_OR_ID salvou {0} vezes em $TITLE_NAME.
 739213705	$USER_NAME_OR_ID salvou muitas vezes em $TITLE_NAME.
 577929473	$USER_NAME_OR_ID carregou {0} vezes em $TITLE_NAME.
 1210269984	$USER_NAME_OR_ID carregado muitas vezes em $TITLE_NAME.
-492106947	$USER_NAME_OR_ID Modo Confronto executado com {0} personagens em $TITLE_NAME.
-1172617677	$USER_NAME_OR_ID Modo Confronto executado com vários personagens $STORY_COUNT vezes em $TITLE_NAME.
-859345761	$USER_NAME_OR_ID killed {0} inimigos ao mesmo tempo em $TITLE_NAME.
-1252998259	$USER_NAME_OR_ID concluído {0} em {1} dificuldade e desbloqueado {2} distintivo em $TITLE_NAME.
+492106947	$USER_NAME_OR_ID Modo duelo executado com {0} personagens em $TITLE_NAME.
+1172617677	$USER_NAME_OR_ID Modo duelo executado com vários personagens $STORY_COUNT vezes em $TITLE_NAME.
+859345761	$USER_NAME_OR_ID Matou {0} inimigos ao mesmo tempo em $TITLE_NAME.
+1252998259	$USER_NAME_OR_ID concluiu {0} na dificuldade {1} e desbloqueou {2} distintivos em $TITLE_NAME.
 925150016	$USER_NAME_OR_ID matou vários inimigos ao mesmo tempo $STORY_COUNT vezes em $TITLE_NAME.
-1558010130	$USER_NAME_OR_ID concluído $STORY_COUNT mmissões em {1} dificuldade em $TITLE_NAME.
-151706036	$USER_NAME_OR_ID desbloqueou todos os distintivo de {0} no $TITLE_NAME.
+1558010130	$USER_NAME_OR_ID concluído $STORY_COUNT missões em dificuldade {1} em $TITLE_NAME.
+151706036	$USER_NAME_OR_ID desbloqueou todos os distintivo de {0} em $TITLE_NAME.
 2734629	$USER_NAME_OR_ID desbloqueou todos os distintivo de $STORY_COUNT missões em $TITLE_NAME.
 1780758815	Escala de renderização
 905456972	Modo de dificuldade
