@@ -2021,24 +2021,24 @@ Japanese	Japonês
 1632570446	Claro. Apenas me dê um momento.
 1559208350	Ouvi corretamente que ontem houve problemas em Flagstone?
 177296743	O de sempre.
-1268031842	I can imagine Mr. DeVitt isn't too happy about that.
-1403180857	DeVitt isn't here.
-1027159589	I wonder if he'd want you to leave things unfinished here.
-508971626	Or is there something more important in New Orleans?
-1686580200	Maybe you should just get back to your wedding, Higgins.
-2140636003	Maybe you're right. Wouldn't want the bride to get nervous.
-618313073	Well, she has every reason to be.
-509176289	Pardon?
-957048501	I don't think she'll be happy when she finds out you sold off her family ranch.
-65486749	Well she doesn't have to find out until after the wedding, right?
-1577482962	You know...
-1458579540	I don't think it will make much difference in the end.
-1545128584	Enjoy your wedding, Higgins.
-747090136	Wait a second.
-1626459034	I need a drink.
+1268031842	Eu posso imaginar o Sr. DeVitt não está muito feliz com isso.
+1403180857	DeVitt não está aqui.
+1027159589	Eu me pergunto se ele gostaria que você deixasse as coisas inacabadas aqui.
+508971626	Ou há algo mais importante em Nova Orleans?
+1686580200	Talvez você deva voltar ao seu casamento, Higgins.
+2140636003	Talvez você esteja certo. Não quero que a noiva fique nervosa.
+618313073	Bem, ela tem todos os motivos para estar.
+509176289	Desculpe?
+957048501	Não acho que ela ficará feliz quando descobrir que você vendeu a fazenda da família dela.
+65486749	Bem, ela não precisa descobrir até depois do casamento, certo?
+1577482962	Você sabe...
+1458579540	Eu não acho que isso fará muita diferença no final.
+1545128584	Aproveite seu casamento, Higgins.
+747090136	Espere um pouco
+1626459034	Eu preciso de uma bebida
 1333383276	VO TRACK
-430507432	Sure you want to do this alone?
-336265342	This ain't a discussion.
+430507432	Tem certeza de que quer fazer isso sozinho?
+336265342	Isso não é uma discussão.
 190550738	So, what's your plan?
 193984684	Get in. Find Frank. Do what I came for.
 1758912559	In the middle of a goddamn wedding.
