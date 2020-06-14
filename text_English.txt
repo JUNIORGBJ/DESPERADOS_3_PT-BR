@@ -1260,10 +1260,10 @@ Japanese	Japonês
 1143306891	Tem uísque lá dentro. Eu sei disso.
 967692626	Por que eu tenho que ficar aqui fora?
 677920504	Merda, eu realmente poderia dar um tiro agora.
-444229462	Foda-se ... Essa sede está me matando.
+444229462	Foda-se... Essa sede está me matando.
 1273054320	Quem vai passar por aqui de qualquer maneira?
 678736588	O que diabos aconteceu?!
-1561295358	Desculpe ... eu escorreguei.
+1561295358	Desculpe... eu escorreguei.
 1989147937	John!
 1619913815	Johnny, não!
 52069976	Deus não!
@@ -1388,7 +1388,7 @@ Japanese	Japonês
 1051935092	Não o deixe fugir!
 663715900	Atire neles, rapazes!
 2103050132	Ei, deixe um pouco para mim!
-1560468735	Pergunto, oque esta acontecendo aqui ...
+1560468735	Pergunto, oque esta acontecendo aqui...
 484933547	...!
 1907256786	Algo me diz que você não veio para acertar contas.
 1373445296	Parece que fizemos uma parada não planejada. É melhor eu descobrir o que está nos aguardando.
@@ -1741,7 +1741,7 @@ Japanese	Japonês
 1823097407	Eu não sei amigo. Você mata um homem, olha nos olhos dele.
 1681482582	Como quando você usa sua armadilha gigante de urso?
 1806652712	Ei, deixe Bianca fora disso!
-1586455645	O que ... Algo de...
+1586455645	O que... Algo de...
 964256332	H-ei! O que está errado? Socorro!
 408677718	Que diabos!
 1892649360	Merda! Ela está morta! Talvez fosse o uísque...
@@ -1846,15 +1846,15 @@ Japanese	Japonês
 260168679	Oh, você deveria ter vergonha de si mesmo.
 2139771842	Você ouviu o que aconteceu com o sino da igreja outro dia?
 171777025	Sim. Imagine se ele caísse no domingo, com metade da cidade embaixo.
-682214325	Eu nem quero pensar nisso ...
-1656128365	Veja ... estamos construindo algo apropriado nesta represa. É assim que se faz.
+682214325	Eu nem quero pensar nisso...
+1656128365	Veja... estamos construindo algo apropriado nesta represa. É assim que se faz.
 1400404384	Sim exatamente, senhor.
 1286619312	Você está absolutamente certo, senhor.
 531548043	Dê uma boa olhada. Em alguns meses, este lugar será civilizado.
 1124638527	Felizmente, senhor!
 852984072	Mal posso esperar, senhor!
-399513694	Ha ... uma igreja em um lugar esquecido por Deus como este. Muito icônico.
-169776797	Uh ... Senhor, acho que você quer dizer ...
+399513694	Ha... uma igreja em um lugar esquecido por Deus como este. Muito icônico.
+169776797	Uh... Senhor, acho que você quer dizer...
 322456581	Cale a boca Jeremiah! Ele vai te matar.
 1355221049	Ah, um cliente. *laughs*
 1932236038	Deixe-me medir você. *laughs*
@@ -1962,7 +1962,7 @@ Japanese	Japonês
 1371716073	Tudo bem então. Preciso sair daqui antes que o noivo decida verificar a noiva dele.
 1322652543	Eu realmente deveria me virar e pegar essa chave.
 1028129373	Eu tenho que dar uma coisa a ele - o vestido é lindo.
-2133829287	Hmm ... duvido que eu possa escalar isso.
+2133829287	Hmm... duvido que eu possa escalar isso.
 1400608010	Oh, vai ser maravilhoso! Ele está esperando há tanto tempo que ela cresça.
 100557936	Eu queria ser casado com ele. Esse acordo com a Companhia DeVitt o tornou rico.
 1064942264	Bem, nem todos podemos ter a mesma sorte que Miss O'Hara.
@@ -1984,11 +1984,11 @@ Japanese	Japonês
 534769664	Hmm...a little more like this... Yes...beautiful.
 1663330515	Ahhh... Ela realmente é alguma coisa.
 581988918	Ahhh, isso não está certo, está? Aqui vamos nós.
-8707816	Como ela é graciosa ... Eu gostaria que este fosse o nosso casamento.
-326374384	Você parece um pouco torta. Apenas me deixe ... Pronto! Perfeito!
-1509212435	Um dia vou reunir coragem ... Um dia eu irei.
-1328032688	Só mais um pouco ... Sim ... Muito bom.
-1632605479	Olá Mary. Eu gosto do seu caminhar ... Não ... não, isso não parece certo.
+8707816	Como ela é graciosa... Eu gostaria que este fosse o nosso casamento.
+326374384	Você parece um pouco torta. Apenas me deixe... Pronto! Perfeito!
+1509212435	Um dia vou reunir coragem... Um dia eu irei.
+1328032688	Só mais um pouco... Sim... Muito bom.
+1632605479	Olá Mary. Eu gosto do seu caminhar... Não... não, isso não parece certo.
 798447257	Ha, bem, você parece um pouco desigual, não é? Ahhh muito melhor.
 1340264399	Mary... Estou observando você há muito tempo... Oh, Deus, não, isso soa assustador.
 1034885475	Apenas alguns pequenos toques... Sim... Isso é o que o prefeito Higgins gostaria.
@@ -5944,7 +5944,7 @@ Japanese	Japonês
 608422099	Let's talk about the woman again.
 1517725670	Stay on guard. They might come through here.
 1294525673	Frank says they're sneaky bastards. Stay sharp.
-1905953505	What's that?! ...No. But maybe... No. Shit...
+1905953505	What's that?!... No. But maybe... No. Shit...
 313671013	Nobody gets past us. You got me?! Nobody!
 33295656	I'm heading down. See you later at the bridge.
 484670334	All right, but you better not leave me hanging.
@@ -6254,7 +6254,7 @@ Japanese	Japonês
 1201075925	Para onde?
 1007641158	Está ficando pesado aqui.
 1398205759	Para onde?
-1084713273	Ufa ... ficando pesado.
+1084713273	Ufa... ficando pesado.
 366416837	Ficando tonto aqui.
 961612964	Para onde?
 1716606398	Ainda aqui.
@@ -6278,11 +6278,11 @@ Japanese	Japonês
 1646528506	Ah, com certeza.
 302820134	Não vai demorar.
 1336117382	Te encontro lá.
-1028665284	Firme ...
-809797818	Sim ... No meu caminho.
+1028665284	Firme...
+809797818	Sim... No meu caminho.
 100993454	Claro, claro...
-950427914	Sim ... Encontro você lá.
-1910269486	Ufa ... Ok então.
+950427914	Sim... Encontro você lá.
+1910269486	Ufa... Ok então.
 1505125651	Claro.
 1347635512	On it.
 1804177769	Feito.
@@ -6300,10 +6300,10 @@ Japanese	Japonês
 830503360	No meu caminho.
 841264473	Vamos lá.
 26643327	...Sem problemas.
-690976930	Claro ... Aqui vai.
+690976930	Claro... Aqui vai.
 1500806084	Sim... Ok.
 415349483	Nothing...to it.
-1218396589	Ufa ... No meu caminho.
+1218396589	Ufa... No meu caminho.
 1684779458	...Indo.
 878301274	...Lá?
 922675365	...No meu caminho.
@@ -6484,7 +6484,7 @@ Japanese	Japonês
 1075402183	...All right.
 278499109	...!
 1605667164	...! All right.
-1201647993	 ...! Okay.
+1201647993	...! Okay.
 181221205	...!
 1575616967	Whew... Okay.
 407709187	Hah... There.
@@ -6639,13 +6639,13 @@ Japanese	Japonês
 769039758 	Pode ser útil.
 1716686979 	Muito pesado.
 1037509372 	Peguei o dinheiro.
-1852303705 	Certo ... Meu.
+1852303705 	Certo... Meu.
 1301664456 	Sim. Pode vir a calhar.
 1885282172 	Pode ser útil.
 536580680 	Isso é meu.
 441838535 	Não se importe se eu fizer.
 404465203 	Pode ser útil.
-1494139264 	Heh ... Assim como pescar.
+1494139264 	Heh... Assim como pescar.
 1274886341 	Olha o que eu tenho.
 1971710575 	Vê isso?
 1653780251 	Me lembra o Doc.
@@ -6660,14 +6660,14 @@ Japanese	Japonês
 788213518 	Merda. Deixou-a cair.
 592925315 	Porra. Deixou-a cair.
 173829260 	Certo, onde estávamos?
-2089402234 	Então, como eu estava dizendo ...
+2089402234 	Então, como eu estava dizendo...
 1268406319 	Voltando ao ponto....
 1596160698 	Hrm, onde estávamos?
-1554290899 	O que eu estava dizendo ...
-941672430 	Como eu estava dizendo ...
+1554290899 	O que eu estava dizendo...
+941672430 	Como eu estava dizendo...
 1014431014	Voltando ao ponto...
 1151537806	Então, onde estávamos?
-1705518745	Como você estava dizendo ...
+1705518745	Como você estava dizendo...
 136592286	Bem, isso está ficando estranho.
 418997296	Tem certeza de que quer continuar fazendo isso?
 1738455828	Apenas falando, eu tenho coisas melhores para fazer.
@@ -6675,7 +6675,7 @@ Japanese	Japonês
 1425203375	Meio que me lembra o que você está fazendo agora.
 146625226	Aquele garoto, ele deveria ter se importado com o seu próprio negócio.
 1964856913	Em vez disso, ele saiu por aí irritando todos.
-1531033611	BAM, assim mesmo ... O dedo se foi.
+1531033611	BAM, assim mesmo... O dedo se foi.
 432826438	Alimento para o pensamento, eu diria.
 1344111692	Ei agora. Segure seus cavalos.
 745634994	Acho que a dor de cabeça está piorando.
@@ -6796,7 +6796,7 @@ Japanese	Japonês
 13528526	Sure... Sure thing.
 1037870268	Uh, on my way.
 423951352	Heh, a little dizzy.
-2056776782	No problem ...Ugh.
+2056776782	No problem... Ugh.
 1657462738	Just gotta stay upright.
 1414760920	I can deal with it.
 1638530929	Hrm, my head hurts.
@@ -6963,8 +6963,8 @@ Japanese	Japonês
 1124824514	Heh, venha para Hector.
 400530881	Quem quer tentar?
 1684965429	Aí vem o martelo.
-969538124	Ainda posso levá-los ...
-1382310737	Hum ... Deixe-os para mim.
+969538124	Ainda posso levá-los...
+1382310737	Hum... Deixe-os para mim.
 1901170403	Bah, venha para Hector.
 1969492152	...!
 1747988784	...!
@@ -7006,14 +7006,14 @@ Japanese	Japonês
 1189195007	Hora do ancinho.
 1442502761	Ancinho pronto.
 90334172	Hah, certo. Essa coisa.
-294087789	Hora de ... essa coisa.
+294087789	Hora de... essa coisa.
 460272333	Você não é a Bianca.
 621188342	Hmmm... Talvez...
 1312734082	Como isso... Yeah.
 813342031	Hmm... Bom lugar.
-254897708	Isso poderia funcionar ...
+254897708	Isso poderia funcionar...
 957960066	Hmm, como isso?
-2037676659	Isso poderia funcionar ...
+2037676659	Isso poderia funcionar...
 1507768051	Bem aqui... Hmm.
 1701562827	Pronto.
 519616382	Tudo pronto.
@@ -8491,7 +8491,7 @@ Japanese	Japonês
 1446007145	Tudo bem... Olhos no alvo.
 247508946	Quinze passos.
 793755707	Dez passos.
-1425440453	Claro ... eu consigo.
+1425440453	Claro... eu consigo.
 316166839	...!
 2027989569	...!
 871118155	...!
@@ -8501,7 +8501,7 @@ Japanese	Japonês
 1113413964	Entendi.
 767065518	Peguei a faca.
 504503314	Tudo bem, entendi.
-361090502	Certo, Estávamos falando sobre ...
+361090502	Certo, Estávamos falando sobre...
 1886634843	Você estava dizendo?
 59357748	O que? Você espera alguém mais alto?
 105338269	Eu tenho quase quinze anos, você sabe.
@@ -8531,7 +8531,7 @@ Japanese	Japonês
 1345724857	Got 'em...
 651173807	...!
 1216102399	...! All right.
-1677130890	 ...! Done.
+1677130890	...! Done.
 2000690686	Let's tuck you in.
 2024613497	Don't mind me.
 24056734	Now you stay put.
@@ -8588,7 +8588,7 @@ Japanese	Japonês
 788869383	Certo...
 78774169	No meu caminho...
 1147696802	Está feito...
-15303821	Nada disso ...
+15303821	Nada disso...
 1446081837	Faz sentido...
 121195731	Não pode fazer, filho.
 820233215	Não vou fazer isso.
@@ -9128,7 +9128,7 @@ Japanese	Japonês
 2033470861	Ei...
 393304772	Ei agora...
 1893197974	É aquele...?
-1254746512	O que ...?
+1254746512	O que...?
 548902491	Hmmm...
 604969825	Que porra...
 560854789	Hey there, little mouser!
@@ -10652,14 +10652,14 @@ Japanese	Japonês
 1828598738	Deixa pra lá.
 1505163385	Isso é estúpido.
 1006025375	Brincando de esconde-esconde?
-1164573094	Apenas espere. Eu vou te pegar ...
-299558125	Você tem que estar em algum lugar ...
+1164573094	Apenas espere. Eu vou te pegar...
+299558125	Você tem que estar em algum lugar...
 631035378	Você está aqui. Eu sei isso.
 339452515	Não vou ser fácil com você.
 1552986833	Eu desmaiei...? Não, alguém estava aqui!
 1517437695	Droga, minha cabeça... Eu vou te pegar!
 1970926035	Eu vou te mostrar...
-1601189182	Quando eu colocar minhas mãos em você ...
+1601189182	Quando eu colocar minhas mãos em você...
 648970443	Não é assim que você trata uma dama!
 774025025	Can't hide forever.
 1537587768	Saia, seu covarde!
@@ -13177,7 +13177,7 @@ Japanese	Japonês
 1240869261	It's the marshal!
 1088330831	Hey! How'd you get out?
 1409271796	Something ain't right... Who's there?
-2033287915	Huh? ...Is someone behind me?
+2033287915	Huh?...Is someone behind me?
 407390183	Strange...like someone's right next to me.
 1183084401	...! Stop that!
 35200462	...! What the hell?
@@ -13226,7 +13226,7 @@ Japanese	Japonês
 731312478	Still here, huh?!
 1544400488	I know what you did!
 679080396	Should have run, traitor.
-1734379934	See what we do with traitors? ...!
+1734379934	See what we do with traitors?...!
 1052974132	...! Serves you right.
 158656087	They tied her up!
 223564281	They got to her!
@@ -14140,10 +14140,10 @@ Japanese	Japonês
 748819300	... that smell...
 485379176	... pardon me.
 1845262298	... excuse me.
-469757349	N-no! ... I'm listening...
+469757349	N-no!... I'm listening...
 244567012	It's her! I must... listen...
 1019535214	Her voice in my head...
-1507298399	You! N-no! ... yes?
+1507298399	You! N-no!... yes?
 2107655984	What can I do for you...?
 1611355156	You have my attention...
 774957985	Anything you need...?
@@ -15850,20 +15850,20 @@ Japanese	Japonês
 1385968309	...
 70178401	...
 1678350873	Ai...
-1983355356	Doce Jesus, minha cabeça ...
-1287395035	O que ... Quem ...
-2016920179	Uhm ...
-604391259	Um momento ...
+1983355356	Doce Jesus, minha cabeça...
+1287395035	O que... Quem...
+2016920179	Uhm...
+604391259	Um momento...
 442451549	O que é isso?
-1156968898	Algo ...
-783676270	O que há na terra ...
-2142854785	Estranho ...
-543018049	Curioso ...
-957078014	Ei, agora ...
-1556099877	É isso ...?
-1654355238	O que ...?
-1819593496	Hmm ...
-125970734	Uhhh ...
+1156968898	Algo...
+783676270	O que há na terra...
+2142854785	Estranho...
+543018049	Curioso...
+957078014	Ei, agora...
+1556099877	É isso...?
+1654355238	O que...?
+1819593496	Hmm...
+125970734	Uhhh...
 1301390310	Olá, rapaz!
 335372129	Você não é um estranho.
 840192193	Heh. Você não traz má sorte?
@@ -15878,18 +15878,18 @@ Japanese	Japonês
 318456023	...
 1213070655	...
 334433587	...
-1615107878	Que sentimento peculiar ...
+1615107878	Que sentimento peculiar...
 1815593622	O que está acontecendo...
 1280308290	He he... He he he... 
 256619727	Vozes na minha cabeça...
-250640711	Sussurros secretos ...
-1596448609	Eu ouço ... Tenho que ouvir ...
-1921943326	Eu acho ... Não devo pensar.
-613944237	Oooh, está tudo bem ...
-1111152083	O caminho é claro ...
-1817618658	Há mais alguém ...
-324524858	Você diz meu nome ...
-1428800614	Não consigo pensar ...
+250640711	Sussurros secretos...
+1596448609	Eu ouço... Tenho que ouvir...
+1921943326	Eu acho... Não devo pensar.
+613944237	Oooh, está tudo bem...
+1111152083	O caminho é claro...
+1817618658	Há mais alguém...
+324524858	Você diz meu nome...
+1428800614	Não consigo pensar...
 495240633	Medo...
 1606238999	Que medo...
 1158415786	Ajuda... 
