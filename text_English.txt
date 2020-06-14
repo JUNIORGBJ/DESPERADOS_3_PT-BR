@@ -2108,7 +2108,7 @@ Japanese	Japonês
 1505156800	I don't have time. Step aside.
 1095420173	You sure you wanna go this way?
 1587660357	To the office! Move it!
-1158869171	Shit...
+1158869171	Merda...
 1191932699	What the... Open the fucking door!
 1340907196	Here, take this.
 1094357658	Case closed.
