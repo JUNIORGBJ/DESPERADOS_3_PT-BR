@@ -2055,36 +2055,36 @@ Japanese	Japonês
 902738457	Você não está na lista de convidados, amigo. Então, não me irrite.
 1293803408	Isso teria sido fácil demais.
 449006391	Se eu quiser ir na frente, devo tentar a varanda.
-471148704	It's risky, though. The cliff path looks like the wise man's choice.
-445190409	That's not like Frank to just ride off like that.
-1766187889	Would you wanna stay around and babysit the mayor if you could get out of it?
-273883946	Fair point. He sure didn't look happy after he spoke with Higgins.
-677460149	I ain't never seen Frank look happy.
-2035275044	Damn it. Sounds like Frank ain't here no more. 
-576632710	All right, new plan. Find the mayor and find out where Frank went.
-1540788717	Looks fancy here. Wonder who's getting married?
-737427389	Better keep my head down. Wouldn't wanna break any of these fine things.
-1895276229	Pretty cozy in here. Looks like the mayor's doing all right for himself. 
+471148704	É arriscado, no entanto. O caminho do penhasco parece a escolha sábia.
+445190409	Isso não parece com o Frank, simplesmente sair assim.
+1766187889	Você gostaria de ficar por perto e tomar conta do prefeito, se pudesse sair disso?
+273883946	Justo. Ele com certeza não parecia feliz depois que falou com Higgins.
+677460149	Eu nunca vi o Frank parecer feliz.
+2035275044	Droga. Parece que Frank não está mais aqui.
+576632710	Tudo bem, novo plano. Encontre o prefeito e descubra para onde Frank foi.
+1540788717	Parece chique aqui. Quer saber quem vai se casar?
+737427389	Melhor manter minha cabeça baixa. Não quero quebrar nenhuma dessas coisas finas.
+1895276229	Bem aconchegante aqui. Parece que o prefeito está se saindo bem. 
 114689045	Something's going on in that room. Let's have a look.
-1932598923	This is one of the strangest wedding gifts I have seen in my whole life.
-636323351	Yeah... I mean it's expensive and all, but for a lady?
-1995670140	What would a bride even do with that thing? 
-1855027666	You can't hang it over the fireplace, that's for sure.
-717136598	Wish I could have seen her face when he told her about it.
-1086193121	Probably the same face she'll make at her consummation, heh.
-1911861564	Heh, let's give this wedding present a spin. You ready?
-589429187	I'm on it! Don't push me!
-1594987651	Hurry up, will ya? Who cares now if you get a few scratches on it?
-1034382140	I know, I know. Still...it's a gorgeous piece of steel.
-617116496	Still can't believe he would gift her a Gatling gun of all things. Are you done?
-1055613052	I said I'm working on it!
-1474974179	You've no decency you thieving two-bit excuse for a man.
-862254333	Sweet pea, please. I only want what's best for you.
-1545196577	You sold us out to the DeVitt Company, you asshole!
-1126450539	I'm offering you more than your uncle ever could give you.
-1217112426	Yeah, minus the dignity! You really think I'd marry a conniving charlatan?
-388367484	Of course you'll marry me! You just need to calm down a bit.
-72594872	You're nothing but a greedy fuck!
+1932598923	Este é um dos presentes de casamento mais estranhos que já vi em toda a minha vida.
+636323351	Sim ... quero dizer, é tudo muito caro, mas para uma dama?
+1995670140	O que uma noiva faria com essa coisa? 
+1855027666	Você não pode pendurá-lo sobre a lareira, isso é certo.
+717136598	Queria ter visto o rosto dela quando ele contou a ela.
+1086193121	Provavelmente o mesmo rosto que ela fará em sua consumação, heh.
+1911861564	Heh, vamos dar uma volta neste presente de casamento. Esta pronto?
+589429187	Eu estou trabalhando nisso! Não me empurre!
+1594987651	Apresse-se, sim? Quem se importa agora se você fizer alguns arranhões?
+1034382140	Eu sei eu sei. Ainda assim ... é um lindo pedaço de aço.
+617116496	Ainda não consigo acreditar que ele daria a ela uma metralhadora de todas as coisas. Você terminou?
+1055613052	Eu disse que estou trabalhando nisso!
+1474974179	Você não tem decência, está roubando uma desculpa bizarra para um homem.
+862254333	Docinho, por favor. Eu só quero o melhor para você.
+1545196577	Você nos vendeu para a Companhia DeVitt, seu imbecil!
+1126450539	Estou oferecendo a você mais do que seu tio poderia lhe dar.
+1217112426	Sim, menos a dignidade! Você realmente acha que eu me casaria com um charlatão conivente?
+388367484	Claro que você vai se casar comigo! Você só precisa se acalmar um pouco.
+72594872	Você não passa de uma merdinha gananciosa!
 1002971965	Please, Kate. This is neither the time nor place. 
 1864219994	What's going on out there?
 1881586802	Don't change the subject.
