@@ -2039,22 +2039,22 @@ Japanese	Japonês
 1333383276	VO TRACK
 430507432	Tem certeza de que quer fazer isso sozinho?
 336265342	Isso não é uma discussão.
-190550738	So, what's your plan?
-193984684	Get in. Find Frank. Do what I came for.
-1758912559	In the middle of a goddamn wedding.
-1070686913	I'm just going to pay the mansion a visit. If he ain't there, I'll find someone who knows his whereabouts.
-498101810	March through the front gate?
-2104851491	There's a path down those cliffs.
-974842030	I'll just follow that, then climb up those vines. From there I'll wing it.
-1043880601	That's no plan, amigo.
-428475223	I've pulled off flimsier ones.
-2069318595	If I think something's up I'll come and get ya.
-1667387460	No, you stay put. This is my fight.
-1423983679	Whatever you say, amigo.
+190550738	Então, qual é o seu plano?
+193984684	Entre. Encontre o Frank. Faça o que você veio fazer.
+1758912559	No meio de um maldito casamento.
+1070686913	Só vou fazer uma visita à mansão. Se ele não estiver lá, encontrarei alguém que saiba seu paradeiro.
+498101810	Marcha pelo portão da frente?
+2104851491	Há um caminho por aqueles penhascos.
+974842030	Vou seguir isso e depois subir as videiras. De lá, eu voarei.
+1043880601	Isso não é um plano, amigo.
+428475223	Eu tirei os mais frágeis.
+2069318595	Se eu achar que algo está acontecendo, eu irei buscá-lo.
+1667387460	Não, você fica parado. Esta é a minha luta.
+1423983679	O que você disser, amigo.
 991484945	VO TRACK
-902738457	You're not on the guest list, pal. So piss off.
-1293803408	That would have been too easy.
-449006391	If I want to go in the front, I should try the balcony.
+902738457	Você não está na lista de convidados, amigo. Então, não me irrite.
+1293803408	Isso teria sido fácil demais.
+449006391	Se eu quiser ir na frente, devo tentar a varanda.
 471148704	It's risky, though. The cliff path looks like the wise man's choice.
 445190409	That's not like Frank to just ride off like that.
 1766187889	Would you wanna stay around and babysit the mayor if you could get out of it?
