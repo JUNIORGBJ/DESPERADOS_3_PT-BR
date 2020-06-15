@@ -14838,35 +14838,35 @@ Japanese	Japonês
 1205749498	Nada. Ah bem.
 1231728847	Eu não posso fazer nada sobre isso.
 2013635218	Nada. Então vamos voltar.
-441739297	I got better things to do.
-596998052	Can't help it.
-1830229344	Not going for a walk.
-1948917878	Too much walking.
-251588209	I ain't going there.
-1191576750	I ain't going in there.
-1300833156	I'm gonna stay outside.
-1022863050	Can't go in there, right.
-933729292	I ain't going out there.
-1308036473	I'm gonna stay inside.
-2095538877	Can't go outside right now.
-1383863049	Can't see a way over there.
-709606473	Yeah, that's too much trouble.
-452023083	Over there? Hell no!
-844462817	Wandered off, most likely.
-1611816375	Maybe went behind a tree.
-1457646221	Okay fine. Be that way.
-1213188929	There you are! Jesus!
-717608594	Why'd you wander off like that?
-574681684	Whew. You scared me something fierce!
-83101362	No! What happened?
-1374805334	Damn!
-1872849306	Holy hell!
-568283861	You can't be serious!
-465041817	Oh crap...
-178322310	Can't do nothing here.
-1825424806	Damn shame.
-547383163	Such a mess.
-937253773	Nothing we can do here.
+441739297	Eu tenho coisas melhores para fazer.
+596998052	Bem, nada.
+1830229344	Não estou com vontade de andar.
+1948917878	Andar demais.
+251588209	Eu não vou lá.
+1191576750	Eu não vou entrar lá.
+1300833156	Eu vou ficar lá fora.
+1022863050	Eu não posso entrar lá.
+933729292	Eu não pretendo ir lá fora.
+1308036473	Eu vou ficar lá dentro.
+2095538877	Eu não posso sair agora.
+1383863049	Não consigo ver um caminho até lá.
+709606473	Sim, isso é demais.
+452023083	Lá? De jeito nenhum!
+844462817	Provavelmente se afastou.
+1611816375	Talvez tenha sido atrás de uma árvore.
+1457646221	Muito bem. Você na sua linha.
+1213188929	Aí está você! Jesus!
+717608594	Por que você saiu assim?
+574681684	Ufa. Você me assustou muito.
+83101362	Não! O que aconteceu?
+1374805334	Droga!
+1872849306	Santo inferno!
+568283861	Você não pode estar falando sério!
+465041817	Oh droga...
+178322310	Não há nada que eu possa fazer.
+1825424806	Vergonha.
+547383163	Uma bagunça.
+937253773	Não podemos fazer nada aqui.
 1383230651	...
 503868788	...
 1160067251	...
