@@ -2128,24 +2128,24 @@ Japanese	Japonês
 1792374695	Me diga uma coisa primeiro. Você já ouviu falar de um cara chamado Frank?
 1833440361	Sim. Vamos discutir isso no caminho, se você não se importa.
 2060148700	Eles já estão na saída.
-911867708	No chance we'll get through there. Not without some serious firepower.
-1077110195	In that case, I got just the thing.
-156069465	You know how to pull the trigger of a Gatling gun? 
-2104072185	Sure do. But why's it have a pink ribbon?
-1209102237	It's a wedding present. Don't ask.
-1430275831	There's something under that tarp that'll swing the odds in our favor.
-798352105	How do you know?
-689852558	Just take my word for it.
-1540187996	Anyway, I don't think I'll get very far in this bloody dress.
-1855414122	Let's visit that maid up on the stage. I can steal her clothes and use them to blend in.
-1621639444	Sure, though I don't see a gal like you blending in anywhere, Miss...?
-512692986	O'Hara. Kate O'Hara. I'll take that as a compliment, Mister...?
+911867708	Sem chance de chegarmos lá. Não sem algum poder de fogo.
+1077110195	Nesse caso, eu tenho exatamente o que é necessário.
+156069465	Você sabe como puxar o gatilho de uma metralhadora?
+2104072185	Claro que sim. Mas por que tem uma fita rosa?
+1209102237	É um presente de casamento. Não pergunte.
+1430275831	Há algo embaixo dessa lona que mudará as coisas a nosso favor.
+798352105	Como você sabe?
+689852558	Você acredita em mim.
+1540187996	De qualquer forma, acho que não vou muito longe neste vestido sangrento.
+1855414122	Vamos fazer uma visita a essa donzela. Eu posso roubar suas roupas e passar despercebida assim.
+1621639444	Claro, embora eu não veja uma garota como você se misturando em nenhum lugar, senhorita...?
+512692986	O'Hara. Kate O'Hara. Vou tomar isso como um elogio, senhor...?
 521796706	Cooper. John Cooper.
-1496448022	Fuck! Somebody shot the mayor!
-639672728	The bride's gone! She killed the groom!
-1225173145	Find her! Justice for the mayor!
-309618207	Let's go.
-1782741770	So. About Frank. Any chance you know where he went?
+1496448022	Fuck! Alguém atirou no prefeito!
+639672728	A noiva se foi! Ela matou o noivo!
+1225173145	Encontre-a! Justiça para o prefeito!
+309618207	Vamos lá.
+1782741770	Então. Quanto ao Frank. Você não saberia para aonde ele foi?
 364637150	I might. Can you offer me something in exchange, Mr. Cooper?
 1182502649	How about my undying loyalty until we escape?
 92142602	I'll take that...and what else?
