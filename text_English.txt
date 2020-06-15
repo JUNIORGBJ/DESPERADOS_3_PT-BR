@@ -14771,73 +14771,73 @@ Japanese	Japonês
 1812475882	Novamente com luz.
 901891113	O que aconteceu?
 138033287	T-isso não é normal!
-1081690694	Something's wrong with you!
-702431898	H-hey, that's not normal!
-2047405492	N-no, stop that!
-1561900802	Could be worth something!
-289694496	Now where did that come from?
-1675592073	That wasn't there before!
-80410375	Can't leave it.
-1271502352	Come to Mama.
-966623416	Mine.
-1015149245	That's gonna pay for the whiskey tonight.
-720135281	Oh yeah.
-741184003	Hoho, lucky me.
-884286787	Is she asleep?
-1390978764	What's she doing there?
-182537259	Is he asleep?
-228442870	What's he doing there?
-1220657126	Hey. What's with you?
-122113873	Sleeping, are we?
-1268156577	Someone tied her up!
-1983986865	Someone got to her!
-1354019560	Someone tied him up!
-460168962	Someone got to him!
-1861838770	Someone tied you up good!
-197631598	Hey! Who tied you up?
-1441605814	Where is she?
-841224557	Where'd she go?
-403487079	Wasn't she here before?
-568122081	Where is he?
-1790875830	Where'd he go?
-1922128668	Wasn't he just here?
-1824904018	Hey, where's my partner?
-1441210939	Keeps me waiting, huh?
-1323798664	Hey! What's keeping ya?
-1304322408	Hey. Wake up.
-1162592404	Wake up, would you?
-494793294	Everythin' all right?
-870263669	Who did this to you?
-733349313	Who tied you up like this?
-2033444305	Huh?!
-693928559	What was that?
-314300688	You hear that?
-384314385	Hey, who' doing this?!
-1869288065	This ain't funny!
-1458802747	All right, enough!
-321683688	What the!
-1862286260	Who's shootin'?!
-744830321	Someone's shootin' at us!
-206022182	Hey, I heard that!
-2075538787	Who's there?
-206917495	Anyone there?
-1112976017	Enough already!
-617816600	You stop that, okay?
-1413892940	Are we really doing this?
-290979023	The hell was that?
-2030164938	Am I going crazy?
-1514241032	Ah! Uh...what?
-1887128969	What am I doing?
-2027173739	Never mind.
-1118770180	This is stupid.
-611345170	What's the big deal?
-1117261213	Anybody here?
-2052344217	Hello? Anyone?
-497178482	This ain't funny, you know?
-395597588	Come on, I'm not in the mood.
-1205749498	Nothing. Oh well.
-1231728847	Can't do nothing about it.
-2013635218	Nothing. Back to it then.
+1081690694	Algo está errado com você!
+702431898	E-ei, isso não é normal!
+2047405492	N-não, pare com isso!
+1561900802	Poderia valer alguma coisa!
+289694496	Agora, de onde veio isso?
+1675592073	Isso não estava aqui antes!
+80410375	Não posso deixar isso.
+1271502352	Vem para a mamãe.
+966623416	Meu.
+1015149245	Com isso eu pago pelo uísque de hoje à noite.
+720135281	Oh sim.
+741184003	Ho, sorte minha.
+884286787	Ela está dormindo?
+1390978764	O que ela está fazendo aqui?
+182537259	Ele está dormindo?
+228442870	O que ele está fazendo aqui?
+1220657126	Ei. Que há com você?
+122113873	Estamos dormindo?
+1268156577	Alguém a amarrou!
+1983986865	Alguém a pegou!
+1354019560	Alguém o amarrou!
+460168962	Alguém o pegou!
+1861838770	Alguém te amarrou bem!
+197631598	Ei! Quem te amarrou?
+1441605814	Onde ela está?
+841224557	Para onde ela foi?
+403487079	Ela não estava aqui antes?
+568122081	Onde ele está?
+1790875830	Para onde ele foi?
+1922128668	Ele não estava aqui?
+1824904018	Ei, e o meu parceiro?
+1441210939	Me fazendo esperar, hein?
+1323798664	Ei! Por que você está demorando tanto?
+1304322408	Ei. Acorde.
+1162592404	Acorde, sim?
+494793294	Está tudo bem?
+870263669	Quem fez isto com voce?
+733349313	Quem te amarrou assim?
+2033444305	Hã?!
+693928559	O que é que foi isso?
+314300688	Você ouviu isso?
+384314385	Ei, quem está fazendo isso ?!
+1869288065	Não tem graça!
+1458802747	Tudo bem, chega!
+321683688	O que!
+1862286260	Quem está atirando ?!
+744830321	Alguém está atirando em nós!
+206022182	Ei, eu ouvi isso!
+2075538787	Quem está aí?
+206917495	Há alguém aqui?
+1112976017	Já basta!
+617816600	Por enquanto, ok?
+1413892940	Estamos realmente fazendo isso?
+290979023	Que diabos foi isso?
+2030164938	Eu estou ficando louco?
+1514241032	Ah! Uh o quê?
+1887128969	O que eu estou fazendo?
+2027173739	Deixa pra lá.
+1118770180	Isso é estúpido.
+611345170	Qual é o grande problema?
+1117261213	Alguém aqui?
+2052344217	Olá? Alguém?
+497178482	Isso não é engraçado, sabia?
+395597588	Vamos lá, eu não estou de bom humor.
+1205749498	Nada. Ah bem.
+1231728847	Eu não posso fazer nada sobre isso.
+2013635218	Nada. Então vamos voltar.
 441739297	I got better things to do.
 596998052	Can't help it.
 1830229344	Not going for a walk.
