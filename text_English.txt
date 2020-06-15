@@ -1374,7 +1374,7 @@ Japanese	Japonês
 1184848606	Use suas moedas para distrair o guarda no penhasco.
 38434196	Esconda o cadáver
 1667462755	Amarre o guarda nocauteado e esconda-o no mato.
-8818489		Use o guindaste
+8818489	Use o guindaste
 154743950	Suba no guindaste e solte a carga nos três guardas abaixo.
 460377644	Encontre seu pai
 1343983716	Seu pai está esperando na estátua. Vá se encontrar com ele. 
@@ -1420,7 +1420,7 @@ Japanese	Japonês
 1826446833	Como você lidou com esses dois?
 1643408715	Escute, Sr.....
 402003712	Cooper.
-3876306		Mr. Cooper. Fui contratado para garantir que este trem chegue a Flagstone.
+3876306	Mr. Cooper. Fui contratado para garantir que este trem chegue a Flagstone.
 1529002408	Eu apreciaria se você não estivesse no meu caminho.
 1820710576	Bem, agora Sr.....
 998996917	McCoy. Doctor McCoy.
@@ -1976,7 +1976,7 @@ Japanese	Japonês
 482674795	Aposto que seu tio está orgulhoso de você.
 683819174	Olhe para aquela linda noiva!
 1433587847	Engraçado como as coisas acabam, hein Katey?
-2120325		Você está procurando algo, senhorita?
+2120325	Você está procurando algo, senhorita?
 97955316	Você não deveria estar na sala de jantar?
 1523934878	Grande dia para você, hein?
 1028481519	Heh heh, o que posso fazer por você?
@@ -1984,7 +1984,7 @@ Japanese	Japonês
 534769664	Hmm...a little more like this... Yes...beautiful.
 1663330515	Ahhh... Ela realmente é alguma coisa.
 581988918	Ahhh, isso não está certo, está? Aqui vamos nós.
-8707816		Como ela é graciosa... Eu gostaria que este fosse o nosso casamento.
+8707816	Como ela é graciosa... Eu gostaria que este fosse o nosso casamento.
 326374384	Você parece um pouco torta. Apenas me deixe... Pronto! Perfeito!
 1509212435	Um dia vou reunir coragem... Um dia eu irei.
 1328032688	Só mais um pouco... Sim... Muito bom.
