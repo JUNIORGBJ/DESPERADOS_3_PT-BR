@@ -196,8 +196,8 @@
 423656608	Jogador de Poker 1
 1117150295	Jogador de Poker 2
 169451094	Jogador de Poker 3
-215441153	Bruto da Compania
-889456816	Guarda da Compania
+215441153	Bruto da Companhia
+889456816	Guarda da Companhia
 1603078355	Bem-vindo ao nível de teste do controle de qualidade! Neste nível de teste, você pode executar testes limpos de caracteres, NPCs utilizáveis e muito mais. Alguns recursos podem estar ausentes, mas serão adicionados em futuras iterações deste nível.
 663543378	Esta é a sala de jogos. Ao entrar no nível de teste do controle de qualidade, você sempre começará aqui com todos os caracteres à frente. No topo, você encontra um pequeno parkour para teste de navegação do jogador.
 574096615	A norte da sala de jogos está a lista de truques.
@@ -309,7 +309,7 @@
 113944635	Aquela garrafa era a MINHA garrafa!
 1288348702	Você vai me matar com seu hálito horrível.
 1500668642	Ha! Muito devagar, sua vadia ladra. Tem o que você mereceu.
-58060641	Sim .. Leve isso para o seu túmulo, seu bêbado inutel.
+58060641	Sim .. Leve isso para o seu túmulo, seu bêbado inútil.
 1278130353	Olhos à frente, garoto! Esse duelo não nos diz respeito.
 1500641619	Vê aquele ali no fundo, perto do penhasco?
 867275810	Encontre uma maneira de distraí-lo com sua moeda, para que eu possa pega-los.
