@@ -1,55 +1,55 @@
-686524713	Thank you, gentlemen. Now, let's hurry—we got a train to catch.
-727099477	And no reason to stay quiet anymore.
-837828466	This is gonna get wild.
-900039237	Now might be a good time to stock up at the shed.
-160884714	If you wanna stock up at the shed, now's the time.
-2137734687	Last chance to visit the ammo shed.
-508171541	Damn it, we got split up!
-1412696367	Hah! They did it! Time for Hector to make an entrance.
-923656247	Aww, nobody here yet? Looks like I have some time to kill.
-412402408	Look who's here already!
-1857699596	Hey Hector!
-1526833903	You're a sight for sore eyes.
-528508594	Not sure how I got here so fast.
-1461714705	Everybody, on the train! Let's go!
-1872561895	This is unacceptable.
-649134575	I demand an explanation!
-774090547	The bridge needed repairs after all.
-889332417	My ears are ringing.
-937152207	One of the workers' fault, no doubt.
-1001922886	Who's in charge around here?
-767732451	Somebody fix this!
-379721079	What about the wedding?
-931884521	Sabotage! The wedding is ruined!
-513034060	The company will hear about this!
-465358707	That's it! We're going back to New York.
-1066072200	Shoddy construction, I'm sure.
-2106777995	Fuck me, I ain't gonna clean that up!
-554237110	Hee hee, that's a fine mess.
-1964142030	Oh boy, that ain't good.
-542120794	Maybe it looks worse than it is.
-2120122482	Oh fuck, the boss ain't gonna be too happy.
-19146104	Just a pile of rubble, shit!
-1827785997	What a mess.
-1951619030	Somebody screwed up royally.
-998446281	Who's gonna clean this up?
-1712523335	The day's getting better by the minute.
-1363115976	Somebody's gonna lose their head.
-1320985533	That's a lot of money up in smoke.
-1093647381	We got saboteurs!
-1280364308	I bet they're still around.
-2095213637	Oh, they ain't getting through me.
-190822342	They blew up our damn bridge!
-437419556	Don't you dare let anyone through.
-1081548460	They'll have to come through here.
-1542451804	Fucking saboteurs.
-1961107717	Nobody blows up our bridge and gets away with it.
-692793106	Keep an eye on the door! 
-283288489	Nobody's getting in here!
-1976578375	Focus, you piece of shit!
-1127203636	This won't happen on my watch.
-1115120634	Secure the goddam train!
-78326914	Fire up the engine!
+686524713	Obrigado, senhores. Agora, vamos nos apressar - temos que pegar o trem.
+727099477	E não há mais razão para ficar quieto
+837828466	Isso vai ficar selvagem.
+900039237	Agora pode ser uma boa hora para estocar no galpão.
+160884714	e você quer estocar no galpão, agora é a hora.
+2137734687	Última chance de visitar o galpão de munição.
+508171541	Droga, nós nos separamos!
+1412696367	Hah! Eles fizeram isso! Hora do Hector fazer uma entrada.
+923656247	Aww, ninguém aqui ainda? Parece que tenho algum tempo para matar.
+412402408	Olha quem já está aqui!
+1857699596	Olá Hector!
+1526833903	Você é uma visão para os olhos doloridos.
+528508594	Não sei como cheguei aqui tão rápido.
+1461714705	Todo mundo, no trem! Vamos lá!
+1872561895	Isso é inaceitável.
+649134575	Eu exijo uma explicação!
+774090547	A ponte precisava de reparos, afinal.
+889332417	Meus ouvidos estão zumbido.
+937152207	É culpa dos trabalhadores, sem dúvida.
+1001922886	Quem está no comando por aqui?
+767732451	Alguém conserte isso!
+379721079	E o casamento?
+931884521	Sabotar! O casamento está arruinado!
+513034060	A companhia saberá disto!
+465358707	É isso aí! Estamos voltando para Nova York.
+1066072200	Construção de má qualidade, tenho certeza.
+2106777995	Foda-se, eu não vou limpar isso!
+554237110	Hee hee, isso é uma ótima bagunça.
+1964142030	Oh garoto, isso não é bom.
+542120794	Talvez pareça pior do que é.
+2120122482	Oh merda, o chefe não vai ser muito feliz.
+19146104	Apenas uma pilha de escombros, merda!
+1827785997	Que bagunça.
+1951619030	Alguém estragou tudo.
+998446281	Quem vai limpar isso?
+1712523335	Os dias estão melhorando a cada minuto.
+1363115976	Alguém vai perder a cabeça.
+1320985533	Isso é muito dinheiro na fumaça.
+1093647381	Temos sabotadores!
+1280364308	Aposto que eles ainda estão por aí.
+2095213637	Oh, eles não estão me superando.
+190822342	Eles explodiram nossa maldita ponte!
+437419556	Não ouse deixar ninguém passar.
+1081548460	Eles terão que passar por aqui.
+1542451804	Malditos sabotadores.
+1961107717	Ninguém explode nossa ponte e foge.
+692793106	Fique de olho na porta! 
+283288489	Ninguém está entrando aqui!
+1976578375	Foco, seu pedaço de merda!
+1127203636	Isso não vai acontecer no meu turno.
+1115120634	Garanta o maldito trem!
+78326914	Ligue o motor!
 1276707754	Pegue a Dynamite
 1335003154	Encontre uma caixa de dinamite e pegue o que você precisa para explodir a ponte.
 704089349	Pedreira
@@ -195,145 +195,145 @@
 1399123022	Tudo bem, vamos encontrar o resto do pacote.
 1841183449	E Bianca.
 1532588613	VO TRACK
-461225303	Off with you, now! Skitty skat!
-2077487744	Don't fret for me. I'll be fine.
-1889798138	My husband is a jealous man.
-447366367	Get goin'. He'll shoot you on sight.
-1467051907	That sure was a wild night.
-1104810743	Stay clear of Baton Rouge for a while.
-156226262	I do hope we meet again someday.
-100047546	My head is ringing like a church bell.
-1783238342	Mud. Mud means footprints. And I got big feet.
-1673735055	That guy... Is he looking for me?
-1508570502	Hey, what did I do to you?!
-40883198	Shit, this is bad. I better find the others.
-1166266992	Okay...you're not Bianca. What can you do?
-1223273402	Not bad. You're a keeper!
-1958053994	Wait... This is where we got split up...
-949532076	You sure this is right?
-1907330953	All signs point to here.
-2135184052	What are you, a Mohican?
-310638060	Go shave your ass, Hawkins.
-968169133	There's no one here.
-225376933	You wanna go to the sheriff and tell him that?
-709127354	Hell no! He's in a mood to hang someone.
-2137721353	We keep searching until we find someone.
-1797298500	Why'd they do it anyway?
-752847137	They were strangers. Who knows?
-1803490372	Sure seems to me like we're missing something.
-189560826	Don't worry about it. We find them, we shoot them.
-461826097	Hey, amigo!
-478403291	Come on Cooper! Rise and shine!
-1021256014	Ugh... Feels like I got kicked by a horse.
-530886839	Kate! Wake up.
-1344104697	Hey Kate! You with me?
-730046734	Uh...God! My head's going to burst wide open.
-899359207	Where's Doc?
-254775759	We need to talk partners.
-668724194	Whoops! Sorry, ma'am.
-1826510593	Can someone tell me why I punched her?
-699751414	She "feel" suspicious-looking to you, too?
-1134149982	That woman's a walking bank!
-2118301434	That's too much money for an honest woman.
-980119931	Where the hell was she hiding all those dollars?
-2144249786	Heh, why not?
-752645794	We might as well.
-194532124	Could come in handy.
-211093556	What the hell happened? Where's Doc?
-1340885963	All I remember is drinking in the saloon.
-46517177	That horsepiss couldn't have gotten us drunk.
-541275585	Well, whatever happened here, we made a fine impression on the locals.
-517556967	Let's find Doc and get the hell out of here.
-338942374	I could use a disguise too while we're at it.
-437235839	Doesn't it feel like we're overlooking something really important...
-439599327	The boat! He said it's departing come morning!
-1926548427	Did he now. The nice man is still waiting for us.
-14030696	All the same, let's hurry. This is no place to be left behind.
-476190830	All right, all right. We find Doc, board the boat and forget this ever happened.
-1710861253	Hey, you see my knife? Or my guns?!
-849892578	I'm missin' the axe.
-1640469646	Have you seen Bianca? I miss her.
-1939241309	I think we stowed our weapons on the boat.
-1471959315	Whose good idea was that?
-1614108276	Hey! There's a poker tournament tomorrow.
-1917005219	Fancy yourself a contender already?
-1503626948	I beat you last night. Bet you chose to forget.
-1985589116	And the sheriff's cannon went off by itself and blew up the water tower.
-655569411	By itself? Since when do cannons shoot on their own?
-1248339686	Why'd someone do such a thing on purpose?
-2120877139	Dark calling, Barney! The dead rise up and all that.
-1921755521	You trying to scare me, Milly.
-971291333	I tell you this is just the beginning.
-27656303	Who would be able to even calculate that ricochet angle?
-1850288950	Look at those marks. Was that a claw, or just an axe?
-2104481270	Did the safe get dragged here? Or...was it...dropped from somewhere?
-193170982	I don't think this is the work of humans. Something feels really off.
-81079969	That's a cannon.
-930411529	Take a gander at that cannon. She's a beauty.
-2010098878	What's the cannon aimed at?
-1089594563	That's a bank safe. Looks heavy as sin.
-63030906	I sweat just looking at it.
-1308121975	Poor sweet Rosie. It's the devil's curse, I tell you.
-24326689	I tell you the swamp witches got her. Turned her into straw.
-410986488	Oh, please! It's just a scarecrow, you fools!
-626605032	Shut your trap, Freddy! You're muckin' up the investigation!
-577082853	Well sure, but why'd they climb up to the club rooftop?
-814666945	They must have had a lookout up there. To warn 'em if things went wrong.
-2050937557	What's a swamp witch spy look like, anyway?
-262680794	I don't know, Francine, but I'm not looking to find out.
-547428213	So they rolled the cannon out of here?
-1004944109	For the dark rising! Stealin' it for their lair.
-1435677527	Lair? What do you mean by that?
-510354877	They're swamp witches, Bert! That's where they perform their rituals!
-449994866	So, you think the cannon they stole here was necessary for their rituals?
-2101465176	I'm not quite sure, yet. Let's keep looking for clues.
-81163414	So, is it true? Was it really him?
-804922990	Sure looks like it. I can hardly believe it myself.
-200960381	Satan the bank robber. Must have been a sight to see.
-342965924	What does he need money for?
-1406510762	What does anyone need money for? The saloon.
-843420653	I bet whiskey's even more expensive in hell than it is up here on Earth.
-39489661	Satan robbing our little bank. Ain't that just dumbfoudin'.
-56293856	I have a hunch that it's all connected. Him, the chickens, Rosie...
-1916294871	Whoa, whoa, easy there. Now you're letting your imagination scare yah.
-362876219	Why'd they break the gate? 
-462142916	Who made them? The devil?
-1464992197	Who else? Drove them mad.
-27909581	Poor beasts. Scared to death.
-1832148011	Wild eyes.
-1184230511	Like they seen the devil.
-1648027237	Cause they did.
-610440517	Lord have mercy.
-1364331509	This town is cursed.
-1743208315	The day has come! Mark my words!
-1990997190	What we hold dear, it shall be lost.
-877579202	What we hold sacred, it shall be defiled.
-1006373769	What gives us strength shall turn to ash.
-552648979	For the enemy has risen! Lord have mercy!
-1392107080	Three days ago, in Baton Rouge, he revealed himself.
-1535420739	He terrified the brave townsfolk. 
-589176724	He laid waste to the city bank. 
-272295453	That was only the beginning!
-321098349	The end time, it is upon us.
-1997996972	The world will burn and be cast anew.
-1797927460	And all the good and all the evil...
-1775735198	All the old and all the new...
-1798833391	Will have to stand in judgement of the Lord!
-1327253338	May he have mercy on our souls.
-2006344400	Safe been ripped right out o' the wall. Floor's covered in hoofprints.
-538003243	Then it's true. Satan himself was here last night.
-2024803270	I saw the bastard. Wearin' a long black coat, and big horns, like those unto an ox.
-136615385	How we ever gonna lock up the devil?
-868949280	We should call the pastor. He'll know what to do.
-1594392271	Maybe. The sheriff seems to be way over his head, ignoring our theories and all.
-1479984106	Well...  Guess we should leave this where it belongs.
-1356569465	Hmm... Let's leave this here for safe keeping.
-1009113621	It's a pity, but this isn't ours for the keepin'.
-1567772064	If I was Doc, where would I be holdin' up?
-1577477175	Hey, Doc. You in here?
-2129400880	Where are you, McCoy?
-1554146086	Doc! You need to wake up!
-254795236	McCoy! Wake up, sir!
-1726557802	Hey Doc! Rise and shine!
+461225303	Vai embora, agora! corra!
+2077487744	Não se preocupe comigo. Eu vou ficar bem.
+1889798138	Meu marido é um homem ciumento.
+447366367	Vá em frente. Ele atira em você à vista.
+1467051907	Essa com certeza foi uma noite selvagem.
+1104810743	Fique longe de Baton Rouge por um tempo.
+156226262	Espero que nos encontremos novamente algum dia.
+100047546	Minha cabeça está tocando como um sino de igreja.
+1783238342	Lama. Lama significa pegada. E eu tenho pés grandes.
+1673735055	Aquele cara ... ele está me procurando?
+1508570502	Ei, o que eu fiz para você ?!
+40883198	Merda, isso é ruim. É melhor eu encontrar os outros.
+1166266992	Ok ... você não é Bianca. O que você pode fazer?
+1223273402	Não é ruim. Você é um guardião!
+1958053994	Espere ... Aqui é onde nos separamos ...
+949532076	Você tem certeza que isso está certo?
+1907330953	Todos os sinais apontam para aqui.
+2135184052	O que você é, um moicano?
+310638060	Vá se depilar, Hawkins.
+968169133	Não tem ninguém aqui.
+225376933	Você quer ir ao xerife e dizer isso a ele?
+709127354	De jeito nenhum! Ele está com vontade de enforcar alguém.
+2137721353	Continuamos procurando até encontrar alguém.
+1797298500	Por que eles fizeram isso de qualquer maneira?
+752847137	Eles eram estranhos. Quem sabe?
+1803490372	Claro que me parece que estamos perdendo alguma coisa.
+189560826	Não se preocupe com isso. Nós os encontramos, atiramos neles.
+461826097	Ei amigo!
+478403291	Vamos Cooper! Levante-se e brigue!
+1021256014	Ugh ... Parece que fui chutado por um cavalo.
+530886839	Kate! Acorde.
+1344104697	Ei Kate! Você comigo?
+730046734	Deus! Minha cabeça está aberta.
+899359207	Cadê o Doc?
+254775759	Precisamos conversar com parceiros.
+668724194	Ops! Desculpe, senhora.
+1826510593	Alguém pode me dizer por que eu dei um soco nela?
+699751414	Ela aparenta ser suspeita para você
+1134149982	Essa mulher é um banco ambulante!
+2118301434	Isso é muito dinheiro para uma mulher honesta.
+980119931	Onde diabos ela estava escondendo todos aqueles dólares?
+2144249786	Heh, porque não?
+752645794	Nós também podemos.
+194532124	Pode ser útil.
+211093556	O que diabos aconteceu? Cadê o Doc?
+1340885963	Tudo o que me lembro é de beber no salão.
+46517177	Aquele mijo não poderia nos deixar bêbados.
+541275585	Bem, o que quer que tenha acontecido aqui, causamos uma boa impressão nos habitantes locais.
+517556967	Vamos encontrar Doc e dar o fora daqui.
+338942374	Eu também poderia usar um disfarce enquanto estamos nisso.
+437235839	Não parece que estamos negligenciando algo realmente importante ...
+439599327	O barco! Ele disse que vai partir de manhã!
+1926548427	Ele fez agora. O bom homem ainda está esperando por nós.
+14030696	Mesmo assim, vamos nos apressar. Este não é um lugar para ser deixado para trás.
+476190830	Tudo bem, tudo bem. Encontramos Doc, embarcamos no barco e esquecemos que isso já aconteceu.
+1710861253	Ei, você viu minha faca? Ou minhas armas ?!
+849892578	Estou sentindo falta do machado.
+1640469646	Você viu Bianca? Eu sinto falta dela.
+1939241309	Acho que guardamos nossas armas no barco.
+1471959315	De quem foi a boa ideia?
+1614108276	Ei! Há um torneio de poker amanhã.
+1917005219	Já pensou em um concorrente?
+1503626948	Eu te venci ontem à noite. Aposto que você esqueceu.
+1985589116	E o canhão do xerife disparou sozinho e explodiu a torre de água.
+655569411	Por si próprio? Desde quando os canhões disparam por conta própria?
+1248339686	Por que alguém fez uma coisa dessas de propósito?
+2120877139	Chamada sombria, Barney! Os mortos ressuscitam e tudo isso.
+1921755521	Você está tentando me assustar, Milly.
+971291333	Eu lhe digo que isso é apenas o começo.
+27656303	Quem seria capaz de calcular esse ângulo de ricochete?
+1850288950	Olhe para essas marcas. Isso era uma garra ou apenas um machado?
+2104481270	O cofre foi arrastado para cá? Ou ... foi ... caiu de algum lugar?
+193170982	Eu não acho que este é o trabalho dos humanos. Algo parece realmente errado.
+81079969	Isso é um canhão.
+930411529	Dê uma olhada naquele canhão. Ela é uma beleza.
+2010098878	Para que serve o canhão?
+1089594563	É um banco seguro. Parece pesado como o pecado.
+63030906	Eu suo só de olhar.
+1308121975	Pobre e doce Rosie. É a maldição do diabo, eu lhe digo.
+24326689	Eu digo que as bruxas do pântano a pegaram. A transformou em palha.
+410986488	Oh, por favor! É apenas um espantalho, seus tolos!
+626605032	Cale a sua armadilha, Freddy! Você está estragando a investigação!
+577082853	Bem, mas por que eles subiram ao telhado do clube?
+814666945	Eles devem ter vigiado lá em cima. Para avisar se as coisas deram errado.
+2050937557	Como é um espião de bruxa do pântano?
+262680794	Não sei, Francine, mas não estou procurando descobrir.
+547428213	Então eles rolaram o canhão até aqui?
+1004944109	Para o escuro! Roubando para o covil deles.
+1435677527	Covil? O que você quer dizer com isso?
+510354877	São bruxas do pântano, Bert! É onde eles realizam seus rituais!
+449994866	Então, você acha que o canhão que eles roubaram aqui foi necessário para os rituais?
+2101465176	Ainda não tenho certeza. Vamos continuar procurando por pistas.
+81163414	Então é verdade? Era mesmo ele?
+804922990	Parece que sim. Eu mal posso acreditar nisso.
+200960381	Satanás, o ladrão de bancos. Deve ter sido uma visão para ver.
+342965924	Para que ele precisa de dinheiro?
+1406510762	Para que alguém precisa de dinheiro? O salão.
+843420653	Aposto que o uísque é ainda mais caro no inferno do que aqui em cima na Terra.
+39489661	Satanás roubando nosso pequeno banco. Isso não é apenas uma bobagem?
+56293856	Eu tenho um palpite de que está tudo conectado. Ele, as galinhas, Rosie ...
+1916294871	Whoa, whoa, espera aí. Agora você está deixando sua imaginação te assustar.
+362876219	Por que eles quebraram o portão?
+462142916	Quem os criou? O diabo?
+1464992197	Quem mais? Os deixou loucos.
+27909581	Pobres animais. Muito assustado.
+1832148011	Olhos selvagens.
+1184230511	Como eles viram o diabo.
+1648027237	Porque eles fizeram.
+610440517	Senhor tenha piedade.
+1364331509	Esta cidade é amaldiçoada.
+1743208315	O dia chegou! Marque minhas palavras!
+1990997190	O que consideramos querido, será perdido.
+877579202	O que consideramos sagrado, será contaminado.
+1006373769	O que nos dá força se tornará cinza.
+552648979	Pois o inimigo se levantou! Senhor tenha piedade!
+1392107080	Três dias atrás, em Baton Rouge, ele se revelou.
+1535420739	Ele aterrorizou os bravos habitantes da cidade. 
+589176724	Ele destruiu o banco da cidade. 
+272295453	Isso foi apenas o começo!
+321098349	O tempo do fim está chegando.
+1997996972	O mundo queimará e será lançado de novo.
+1797927460	E todo o bem e todo o mal ...
+1775735198	Todos os velhos e todos os novos ...
+1798833391	Terá que permanecer no julgamento do Senhor!
+1327253338	Que ele tenha piedade de nossas almas.
+2006344400	O cofre foi arrancado da parede. O chão está coberto de pegadas.
+538003243	Então é verdade. O próprio Satanás esteve aqui ontem à noite.
+2024803270	Eu vi o bastardo. Vestindo um casaco preto comprido e grandes chifres, como os do boi.
+136615385	Como vamos trancar o diabo?
+868949280	Deveríamos ligar para o pastor. Ele saberá o que fazer.
+1594392271	Talvez. O xerife parece estar passando por cima de sua cabeça, ignorando nossas teorias e tudo.
+1479984106	Bem ... Acho que devemos deixar isso onde ele pertence.
+1356569465	Hmm ... Vamos deixar isso aqui para guardar em segurança.
+1009113621	É uma pena, mas isso não é nosso para a manutenção.
+1567772064	Se eu fosse Doc, onde estaria me segurando?
+1577477175	Ei, doutor. Você está aqui?
+2129400880	Cadê você, McCoy?
+1554146086	Doc! Você precisa acordar!
+254795236	McCoy! Acorde, senhor!
+1726557802	Hey Doc! Levante-se e brigue!
 377597252	...
-133096306	Is that a hoofprint on his face?
+133096306	Isso é uma pegada no rosto dele?
