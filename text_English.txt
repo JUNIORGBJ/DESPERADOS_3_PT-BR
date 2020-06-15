@@ -2795,7 +2795,7 @@ Japanese	Japonês
 316293683	Você não pode acionar o alarme.
 521411584	Eu odeio funerais.
 1848347822	Quem não?
-612157698	ue porra é essa. Nós éramos muito lentos.
+612157698	Que porra é essa. Nós éramos muito lentos.
 296559256	Você fez bem. Eu deveria ter ficado com ele.
 76027002	Então enterramos dois corpos hoje.
 44546673	Kate!
