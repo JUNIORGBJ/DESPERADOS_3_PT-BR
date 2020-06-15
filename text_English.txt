@@ -2644,98 +2644,58 @@ Japanese	Japonês
 1301401938	Você deveria tê-la visto. Todo maltratado e enferrujado. Eu tive que polir, limpá-la, lubrificá-la ...
 343744116	Acho que já ouvi o suficiente, obrigado.
 742161955	Hah, esta é a vida.
-213146842	I could do without the rain.
-599790691	Come on, Doc. Tell me you're not enjoying this.
-1154062258	I didn't say that.
-1948173722	There's oil in that water.
-623908820	That's one of the oil puddles. All we need is to light it up.
-425982982	There's a bonfire over there.
-455958343	Walking through that puddle is gonna make noise.
-1459319665	He dropped the torch again.
-72749159	Geez, it's so slippery out here.
-1234373977	Heh, burns nice.
-746294964	That'll do for a torch.
-1211013687	Careful. They'll be able to see us now.
-131526907	Lights out. Don't want to burn our cover.
-1080289664	Gotta lose the torch, or our cover will go up in flames.
-604169385	First Long Coat goes to me.
-958345947	I take the second Long Coat.
-306293937	There goes the third Long Coat.
-1536962921	That makes four Long Coats.
-1410937923	Got the first Long Coat!
-137940519	Hah! Second Long Coat is mine.
-839847499	That's the third Long Coat, right?
-921485834	That makes, uh...four Long Coats.
-960604760	That's another one.
-1970225901	Hah! And another.
-1922131533	How many more are there?
-716207941	Think that's enough. Let's meet up. I wanna check on something.
-137656861	Think that's enough. Let's find a vantage point. I wanna check on something.
-1452286693	What the hell happened here?
-1882275598	What's going on down there?
-672272883	Maybe they got enough O'Hara for one day, ha ha!
-1824706243	Idiots!
-761689047	What the fuck's taking so long?
-1867214104	Get your ass over there!
-1334097764	They're gonna use the Gatling gun!
-997861838	Go inside!
-1858029009	Let's go!
-1457965198	What the...
-1141883258	...Shoot 'em!
-1085889851	Come on O'Hara...
-174501637	What is this shit...
 1428756778	Argh!
-1220725301	Shit...
+1220725301	Merda...
 1469171959	VO TRACK
-396838969	We better think of something before they shred the house.
-493021535	The old man shot the oil barrel. You thinking what I'm thinking?
-1644492674	Hellfire it is.
-523802842	What's wrong? Why did it stop?!
-418595128	Not sure, let me see...
-1085566140	Fix it!
-770777228	I'm on it, boss!
-1291986625	Why's this happening now?
-92601033	It's the damn rain. It kinda locks it up.
-990155654	What's taking so long?
-1409491060	I'm working on it! I'm working on it!
-851410984	Watch out! They're still out there somewhere!
-1409026615	Don't let your guard down.
-214882046	Stay alert and focus.
-852246942	We won't back down.
-543055631	O'Hara's ranch will be ours.
-1137993192	If you see someone moving in the dark, shoot!
-1387287407	The bonfire's dead. Figures.
-579074055	Hrm shit. This bonfire went out.
-136181357	Means we'll have to make do with the other one.
-1204632687	All right, let's finish this already.
-849650212	Once more into the fray.
-908833840	All right, let's finish this already.
-1840939788	This time with feeling.
-509918061	What the hell? I'm outta here!
-1529098867	Run for your lives!
-1852101788	Aww, we finished already? I was just getting warmed up.
-1630601283	Can't have enough, can you?
-977121288	Come on now, McCoy. It's never enough!
-1077800171	Sounds like you two had a good time.
-59786473	You sure you're okay, Mr. O'Hara?
-387009686	Don't worry son. Looks worse than it is.
-1151243254	You really helped us with that barrel, heh.
-1786779120	No problem big guy. All in a day's work as they say.
-871380817	Hey, Mr. O'Hara—so what about the whiskey?
-664888354	Right, right...
-588280517	I say we all earned ourselves a glass of O'Hara's finest.
-1908172553	Gentlemen, you're in for a treat.
-1531879179	...What the...
-841866293	Shit...
-246974710	Uncle?
-811397586	What's wrong?
-1395639857	Quiet!
-1513047555	Damn fool.
-1542774687	Uncle...
-1805250660	We really showed them, didn't we?
-941575829	Uncle... I'm so sorry...
-2079104040	Don't be stupid.
-125265372	It's not your fault... You got that, Katey?
+396838969	É melhor pensarmos em algo antes que eles destruam a casa.
+493021535	O velho atirou no barril de petróleo. Você está pensando o que eu estou pensando?
+1644492674	Fogo do inferno.
+523802842	O que está errado? Por que parou ?!
+418595128	Não tenho certeza, deixe-me ver...
+1085566140	Conserte!
+770777228	Estou tentando, chefe!
+1291986625	Por que isso está acontecendo agora?
+92601033	É a maldita chuva. Isso meio que trava tudo.
+990155654	Por que você está demorando tanto?
+1409491060	Eu estou tentando! Eu estou tentando nisso!
+851410984	Cuidado, eles ainda estão por aí!
+1409026615	Não baixe a guarda.
+214882046	Fique alerta e concentre-se.
+852246942	Nós não vamos recuar.
+543055631	O rancho de O'Hara será nosso.
+1137993192	Se você vir alguém se movendo no escuro, atire!
+1387287407	A fogueira se apagou. Como assim?
+579074055	Hrm merda. Essa fogueira se apagou.
+136181357	Bem, teremos que usar a outra.
+1204632687	Ok, vamos acabar logo com isso.
+849650212	De volta à briga.
+908833840	Ok, vamos acabar logo com isso.
+1840939788	Desta vez com sentimento.
+509918061	Que diabos? Estou pirando!
+1529098867	Salve-se quem puder!
+1852101788	Aww, já terminamos? Eu estava apenas me aquecendo.
+1630601283	Não foi o suficiente, hein?
+977121288	Venha agora, McCoy. Nunca é o suficiente!
+1077800171	Parece que vocês dois se divertiram.
+59786473	Tem certeza de que está bem, Sr. O'Hara?
+387009686	Não se preocupe filho. Parece pior do que é.
+1151243254	Você realmente nos ajudou com esse barril, heh.
+1786779120	De nada, grande homem. O pão de cada dia, como se costuma dizer.
+871380817	Ei, Sr. O'Hara - e o uísque?
+664888354	Certo, certo...
+588280517	Eu acho que todos nós ganhamos um copo como melhores de O'Hara.
+1908172553	Senhores, vocês vão adorar.
+1531879179	...O que...
+841866293	Merda...
+246974710	Tio?
+811397586	O que aconteceu?
+1395639857	Quieto!
+1513047555	Maldito estúpido.
+1542774687	Tio...
+1805250660	Nós realmente mostramos a eles, não mostramos?
+941575829	Tio... me desculpe...
+2079104040	Não seja estúpido.
+125265372	Não é sua culpa... Você entendeu, Katey?
 69624517	VO TRACK
 969888385	Encontre Hector
 186064563	Hector ainda está na casa dos barcos. Descubra porque ele está demorando tanto.
