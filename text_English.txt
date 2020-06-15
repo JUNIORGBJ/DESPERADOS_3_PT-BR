@@ -2183,7 +2183,7 @@ Japanese	Japonês
 1842114263	Você é muito competente, Sr. Cooper. Meu tio poderia usar sua ajuda no rancho.
 340742953	Desculpe senhorita O'Hara, não é minha linha de trabalho.
 1435245677	Até que a morte nos separe.
-1625001806      Essa é uma para a lareira.
+1625001806	Essa é uma para a lareira.
 1768815376	Estamos quase lá.
 763047119	Cuidado! É um cão de guarda lá em cima!
 1066570000	Ela vai me cheirar, não importa o que eu esteja vestindo. Ela me odeia.
