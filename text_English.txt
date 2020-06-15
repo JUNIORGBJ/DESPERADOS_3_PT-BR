@@ -10064,7 +10064,7 @@ Japanese	Japonês
 1199038039	Tudo bem pessoal, vamos nessa!
 518026805	Eles estão aqui! Vamos nos espalhar!
 1898094041	Espalhem-se! Não os deixe escapar!
-1575738238	We got them! Search everywhere!
+1575738238	Nós os pegamos! Olhe por todas as partes!
 2071674638	Se você os encontrar, atire para matar!
 376068026	Você não está se escondendo de nós! Espalhem-se!
 383108075	Oh, nós vamos te encontrar! Vamos lá, homens.
@@ -10080,7 +10080,7 @@ Japanese	Japonês
 1532330939	Chega de surpresas!
 1057091679	Eles estão fugindo!
 1153486387	Sorrateiro, filho da puta!
-918493334	We gotta smoke 'em out!
+918493334	Temos extermina-los!
 353296650	Eu sei que eles estão aqui. Continue olhando.
 1678232480	Quem os achar, fica com suas coisas.
 2007782796	Esqueça. Eles foram embora. 
