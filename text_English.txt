@@ -2146,69 +2146,69 @@ Japanese	Japonês
 1225173145	Encontre-a! Justiça para o prefeito!
 309618207	Vamos lá.
 1782741770	Então. Quanto ao Frank. Você não saberia para aonde ele foi?
-364637150	I might. Can you offer me something in exchange, Mr. Cooper?
-1182502649	How about my undying loyalty until we escape?
-92142602	I'll take that...and what else?
-1588798955	Ouch.
-297422345	What? Better than a knife to the throat I'd say.
-1014899815	Not sure which would hurt more.
-1484166997	Didn't take you for a man who throws away money.
-941177694	It's just pennies.
-1182331635	Every penny counts, Mr. Cooper.
-802535957	Not if they're fake.
-1974330741	What's that. Tear gas?
-498428045	Perfume from my late suitor.
-1935147382	Guess love is blinding after all.
-1101901108	Aww, shame on you, Mr. Cooper.
-720571811	Did you hear? Higgins, he's dead! Shot by the bride!
-868075080	Serves him right. The man was a pig.
-731386092	Yeah, but who's gonna pay us now?
-567406958	Let's try this on for size.
-640060977	What do you think?
-2041445366	You look like a wolf in maid's clothing.
-1217012512	You think it's enough to fool 'em?
-1460314969	Only one way to find out.
-1884587857	Gotta admit, I'm surprised he didn't recognize you.
-1681913016	Like most fellas, he wasn't looking at my face.
-499448922	I'll ask again: Did any of you see her?
-1928826121	Come on, we were all working outside when it happened.
-1222371587	One of you must have seen something!
-1677419652	Hear that, girls? He thinks we got eyes in the backs of our heads.
-447174439	You shut that mouth of yours. The mayor was killed, goddamnit!
-1805072825	How dare you talk like that to a lady?
-115155553	Halfway out of here.
-2144097449	So, what was that back there about warning your uncle?
-268460550	The DeVitt Company's gonna attack my uncle's ranch tonight. I gotta get word to him.
-48576019	I can see the front yard.
-1842114263	You're a capable hand, Mr. Cooper. My uncle could use your help at the ranch.
-340742953	Sorry Miss O'Hara, not my line of work. 
-1435245677	Till death do us part.
-1625001806	That's one for the mantelpiece.
-1768815376	We're almost there.
-763047119	Careful! That's a guard dog up there!
-1066570000	She'll sniff me out no matter what I'm wearing. She hates me.
-2057229177	There's my wedding present.
-607461779	Mind if I get to know that Gatling gun?
-87458527	Be my guest, Mr. Cooper.
-1155809389	No one's getting past us.
-552666622	Yeah, no one!
-154183202	What do we do to those who try?
-368160157	We blast them to hell!
-254122982	I'm gonna shoot the bride.
-493948723	Who else are you gonna shoot?
-1291004577	I'm just stating the facts.
-536737837	We're both gonna shoot her.
-1357399231	Finally! I was bored out of my mind.
-1730419139	Yeah! This is much better than standing guard.
-1015377852	Yeah!
-1773547026	Yeah!
-1976088822	She's taking her sweet time.
-1365178845	You got somewhere to be?
-31526118	No. But what if one of us has to take a shit?
-1301700250	Didn't think of that.
-785858666	Listen, Mr. Cooper. If you help us defend the ranch. I'll tell you where Frank went.
-1017997375	You drive a hard bargain, Miss O'Hara.
-1524332823	I simply know how to play my cards.
+364637150	Talvez sim. Você pode me oferecer algo em troca, Sr. Cooper?
+1182502649	Que tal minha lealdade eterna até escaparmos?
+92142602	Eu aceito isso ... e o que mais?
+1588798955	Au...
+297422345	O que? Melhor do que uma faca na garganta, eu diria.
+1014899815	Não tenho certeza do que machucaria mais.
+1484166997	Não o levei para alguém jogar dinheiro fora.
+941177694	São apenas moedas de um centavo.
+1182331635	Cada centavo conta, Sr. Cooper.
+802535957	Não se eles são falsos.
+1974330741	O que é isso. Gás lacrimogêneo?
+498428045	Perfume do meu falecido pretendente.
+1935147382	Acho que o amor é cego depois de tudo.
+1101901108	Ah, que pena, Sr. Cooper.
+720571811	Você ouviu? Higgins está morto! A noiva atirou nele!
+868075080	Bem feito. O homem era um porco.
+731386092	Sim, mas quem vai nos pagar agora?
+567406958	Vamos tentar isso.
+640060977	O que você acha?
+2041445366	Você parece um lobo vestido de donzela.
+1217012512	Você acha que é o suficiente para enganá-los?
+1460314969	Só há uma maneira de descobrir.
+1884587857	Tenho que admitir, estou surpreso que ele não a reconheceu.
+1681913016	Como a maioria dos caras, ele não estava olhando para o meu rosto.
+499448922	Vou perguntar novamente: Algum de vocês a viu?
+1928826121	Vamos lá, estávamos todos trabalhando lá fora quando aconteceu.
+1222371587	Um de vocês deve ter visto alguma coisa!
+1677419652	Ouviram isso, garotas? Ele acha que temos olhos na parte de trás de nossas cabeças.
+447174439	Você cale essa sua boca. O prefeito foi morto, porra!
+1805072825	Como ousa falar assim com uma dama?
+115155553	Já estamos na metade.
+2144097449	Então, o que foi aquilo lá atrás sobre avisar seu tio?
+268460550	A Companhia DeVitt vai atacar o rancho do meu tio hoje à noite. Eu tenho que falar com ele.
+48576019	Eu vejo o jardim da frente.
+1842114263	Você é muito competente, Sr. Cooper. Meu tio poderia usar sua ajuda no rancho.
+340742953	Desculpe senhorita O'Hara, não é minha linha de trabalho.
+1435245677	Até que a morte nos separe.
+1625001806      Essa é uma para a lareira.
+1768815376	Estamos quase lá.
+763047119	Cuidado! É um cão de guarda lá em cima!
+1066570000	Ela vai me cheirar, não importa o que eu esteja vestindo. Ela me odeia.
+2057229177	Aqui está o meu presente de casamento.
+607461779	Você se importa se eu me familiarizar com a metralhadora?
+87458527	Seja meu convidado, Sr. Cooper.
+1155809389	Ninguém está passando por nós.
+552666622	Sim, ninguém!
+154183202	O que fazemos com quem tentar?
+368160157	Nós os explodimos para o inferno!
+254122982	Eu vou atirar na noiva.
+493948723	Em quem mais você vai atirar?
+1291004577	Estou apenas dizendo os fatos.
+536737837	Nós dois vamos matá-la.
+1357399231	Finalmente! Eu estava entediado.
+1730419139	Sim! Isso é muito melhor do que ficar de guarda.
+1015377852	Sim!
+1773547026	Sim!
+1976088822	Ela está pegando leve.
+1365178845	Você tem que estar em algum lugar?
+31526118	Não. Mas e se um de nós fizer merda?
+1301700250	Não pensei nisso.
+785858666	Ouça, Sr. Cooper. Se você nos ajudar a defender o rancho. Vou te dizer onde Frank foi.
+1017997375	Você negocia muito, senhorita O'Hara.
+1524332823	Eu simplesmente sei jogar minhas cartas.
 2103800130	...
 1379623079	S-sorry. I'm awake. I'm awake.
 2082464810	So you must be Mr. Cooper's friend.
