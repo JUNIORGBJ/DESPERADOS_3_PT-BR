@@ -839,18 +839,18 @@ Japanese	Japonês
 773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam a Garganta do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
 681032158	Passagem Byers
 2097221155	Atrasado no dia de pagamento
-1657883687	Um trem de propriedade da influente compãnia DeVitt está a caminho da cidade de Flagstone. Passando por Byers Pass ele encontrou um obstáculo inesperado.
-801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo das paisagens das Montanhas Rochosas./n/nSeus vagões - com a marca da Compãnia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entrou em Byers Pass, os passageiros ficaram inquieto. Bandidos estão perambulando por essas partes, e a compãnia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
+1657883687	Um trem de propriedade da influente Companhia DeVitt está a caminho da cidade de Flagstone. Passando por Byers Pass ele encontrou um obstáculo inesperado.
+801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo das paisagens das Montanhas Rochosas./n/nSeus vagões - com a marca da Companhia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entrou em Byers Pass, os passageiros ficaram inquieto. Bandidos estão perambulando por essas partes, e a Companhia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
 1457201141	John Cooper está sentado no trem indo para Flagstone, até que em Byers Pass, seu passeio é emboscado por bandidos. Ele permanece sem ser detectado, mas a tarefa que está pela frente é clara./n/nSe Cooper quiser manter seu compromisso em Flagstone, ele terá que cuidar primeiro dos bandidos.
 1181215471	Flagstone
 1786599235	Encrenqueiros em Flagstone
 111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meterem em encrencas.
 180909580	Aninhada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. A taberna que está vazia, exceto por alguns clientes regulares./n/n A garçonete serve um copo de uísque para ele e ele bebe enquanto espera que um velho amigo chegue.
-1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da compãnia DeVitt, que estavam aterrorizando os habitantes da cidade. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
+1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da Companhia DeVitt, que estavam aterrorizando os habitantes da cidade. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
 842780950	Propriedade de Higgins
 1899333205	Até que a morte nos separe
 1739483129	O homem que eles chamam de Frank está na propriedade do prefeito Higgins. John Cooper encabeça, sem saber que alguém está se preparando para o casamento dela lá.
-807976695	A meia hora de viagem até a montanha, a partir de Flagstone, fica a recém-construída propriedade do prefeito Higgins./n/nTendo chegado a uma riqueza considerável após certos acordos com a compãnia DeVitt, Higgins não poupou custos para equipar sua humilde morada com os mais modernos confortos e luxos./n/nRecentemente, toda a propriedade está ocupada com os preparativos do casamento. O prefeito Higgins, depois de anos de repreensão, finalmente convenceu o amor de sua vida a dar o nó./n/n Sem o conhecimento dele, no entanto, a noiva tem seus próprios planos para o grande dia.
+807976695	A meia hora de viagem até a montanha, a partir de Flagstone, fica a recém-construída propriedade do prefeito Higgins./n/nTendo chegado a uma riqueza considerável após certos acordos com a Companhia DeVitt, Higgins não poupou custos para equipar sua humilde morada com os mais modernos confortos e luxos./n/nRecentemente, toda a propriedade está ocupada com os preparativos do casamento. O prefeito Higgins, depois de anos de repreensão, finalmente convenceu o amor de sua vida a dar o nó./n/n Sem o conhecimento dele, no entanto, a noiva tem seus próprios planos para o grande dia.
 1283415255	Kate O'Hara enganou o prefeito Higgins, acreditando que ela se casaria com ele. Seu objetivo real é ganhar acesso ao escritório dele, onde ela quer recuperar algo de grande valor./n/nTudo o que ela precisa é uma chave e uma oportunidade./n/nEnquanto isso, Cooper e Hector também estão indo para a propriedade do prefeito. Cooper entra sorrateiramente em busca do homem que eles chamam de Frank. Ele decide ir para o gabinete do prefeito./n/nSe as coisas derem errado, ele terá que fazer uma saída rápida.
 2019794291	Rancho O'Hara
 290492088	Os Cinco Magníficos
@@ -1444,7 +1444,7 @@ Japanese	Japonês
 272489015	Você não, Sr. Cooper, a menos que você seja eu.
 1869689713	Big Ann fez isso de novo.
 801957529	Outro trem para nós, heh heh.
-1085623643	Dane-se a Compãnia Devitt.
+1085623643	Dane-se a Companhia Devitt.
 67595800	Nós vamos deixar tudo muito limpo.
 226511189	Como os meninos gostam de saquear.
 561111430	É uma pena que eu tenha que ficar de guarda aqui.
@@ -1502,7 +1502,7 @@ Japanese	Japonês
 2143608143	É melhor você nos dar tudo ou vamos procurar seus corpos mais tarde.
 1812276984	Você vai conhecer Big Ann em breve. Você não está animado?
 155411799	Golly, eu odeio gente chique como você. Especialmente você.
-55708919	É isso que você ganha ao andar no trem da Compãnia DeVitt.
+55708919	É isso que você ganha ao andar no trem da Companhia DeVitt.
 1876589766	Prefiro ficar de fora disso.
 782751206	Os passageiros certamente poderiam usar nossa ajuda.
 271645073	Por que perder tempo? Vamos continuar. 
@@ -1527,7 +1527,7 @@ Japanese	Japonês
 841434891	Eles tentarão de tudo, atiram neles!
 2055157191	Você verme da empresa. Diga-me onde estão os cofres.
 1159849560	Eu-eu-eu não sei, senhorita. Eu juro.
-1782893817	Eu sei que a compãnia DeVitt tem esse dinheiro neste trem. Cadê?
+1782893817	Eu sei que a Companhia DeVitt tem esse dinheiro neste trem. Cadê?
 1514072165	Como eu iria saber? Eles não me dizem nada.
 993876529	Não adianta esconder isso de mim, querido. Meus homens vão encontrar.
 1144006518	Não estou escondendo nada, senhorita.
@@ -1573,7 +1573,7 @@ Japanese	Japonês
 766046273	Certo. Qualquer coisa que você diga.
 366179940	Tudo certo. Vamos lidar com o resto deles.
 817921335	Meus pensamentos exatamente.
-1836596718	Acho que você fez a compãnia DeVitt feliz hoje.
+1836596718	Acho que você fez a Companhia DeVitt feliz hoje.
 793788117	Quanto você ganha por um emprego como este?
 851137006	Espero que você não esteja esperando um corte.
 1837965531	Relaxa. Eu tenho o que eu preciso.
@@ -1632,7 +1632,7 @@ Japanese	Japonês
 718420870	Rápido, por aqui!
 282643245	Eles estão aqui em algum lugar, e temos todo tempo do mundo.
 1164791611	Esses caras vão matá-lo. Quem diabos são eles?
-625254008	Parte da compãnia DeVitt. Eu tenho contas para resolver com alguns deles.
+625254008	Parte da Companhia DeVitt. Eu tenho contas para resolver com alguns deles.
 1298661064	Tudo bem, tudo bem! Mas espero que você tenha um plano.
 1710621721	Uh, claro!
 1710522083	Vamos para a rua. Ninguém nos incomodará se ficarmos entre os habitantes da cidade, com isso teremos espaço para respirar.
@@ -1896,7 +1896,7 @@ Japanese	Japonês
 1549815304	Com licença?
 1861490142	Nós temos negócios?
 593728846	Eu estou tentando ouvir.
-904743217	Mate 4 bandidos da compãnia DeVitt
+904743217	Mate 4 bandidos da companhia DeVitt
 912253181	Hector tem uma lista de pessoas que ele quer ver mortos. Livre-se deles como quiser.
 1842506151	Jarvis
 874828944	Jarvis está tentando montar o touro nos estábulos. 
@@ -2118,16 +2118,16 @@ Japanese	Japonês
 1028424012	Espere...
 1353910226	Depois de você...
 344475980	O que você está fazendo?
-1635306417	He doesn't need that money anymore.
-27232758	Money, huh?
-1096591823	Heads down.
-776014609	Right...
+1635306417	Ele não precisa mais desse dinheiro.
+27232758	Dinheiro, huh?
+1096591823	Mantenha a cabeça baixa.
+776014609	Certo...
 1882838347	VO TRACK
-292715931	Close call. They're gonna search everywhere now.
-1145433945	I have to warn my uncle. Let's get outta here.
-1792374695	Tell me something first. You ever heard of a guy called Frank?
-1833440361	Yeah. Let's discuss it on the way, if you don't mind.
-2060148700	They're already at the exit.
+292715931	Escapei por um triz. Eles vão procurar em todos os lugares agora.
+1145433945	Eu tenho que avisar meu tio. Vamos sair daqui.
+1792374695	Me diga uma coisa primeiro. Você já ouviu falar de um cara chamado Frank?
+1833440361	Sim. Vamos discutir isso no caminho, se você não se importa.
+2060148700	Eles já estão na saída.
 911867708	No chance we'll get through there. Not without some serious firepower.
 1077110195	In that case, I got just the thing.
 156069465	You know how to pull the trigger of a Gatling gun? 
@@ -2805,7 +2805,7 @@ Japanese	Japonês
 1010048128	Obrigado, Hector.
 532568269	Eu odeio dizer isso a você, mas isso está longe de terminar.
 1164037571	O que você quer dizer?
-1114307721	A compãnia só precisa enviar mais homens no próximo trem.
+1114307721	A companhia só precisa enviar mais homens no próximo trem.
 1429595592	Ele tem razão. Nós não podemos ganhar isso. Talvez seja a hora de cortar nossas perdas.
 714421692	Não.
 835385637	Então o que?
@@ -3137,7 +3137,7 @@ Japanese	Japonês
 57342294	Descartado. Não precisamos ir a Nova Orleans.
 1468187789	O que há em Nova Orleans?
 1559859946	Apenas uma recompensa antiga que eu quero alcançar.
-271702602	Frank, não é? Eu conheço esse rosto. Trabalha para a Compãnia Devitt.
+271702602	Frank, não é? Eu conheço esse rosto. Trabalha para a Companhia Devitt.
 352808776	Deixe-me ver.
 1142906383	É uma foto antiga. Quanto tempo durou essa caçada?
 1774780375	Longo o suficiente. Vou terminar em Nova Orleans.
