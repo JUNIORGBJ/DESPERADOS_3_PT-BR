@@ -2623,27 +2623,27 @@ Japanese	Japonês
 1780459215	Hah! Cem. Quantos você tem, Doc?
 1376515276	Acho que terminamos de contar. Você fez o seu ponto.
 1274673224	Venha agora, Doc. Estou sempre aqui para uma revanche.
-1257414093	Isso faz cem. Qual é a sua conta?
-483252041	Acho que perdi a conta. Digamos que é um empate.
-946595501	Isso soa mais como capitular, Sr. Hector.
-1873893821	Então, McCoy, é?
-654750945	Doutor McCoy, na verdade.
-984738874	Heh, com certeza. Você não é realmente médico, certo?
-435477998	Se você tiver sorte um dia, descobrirá.
-909921615	Então você é médico. Realmente?
-1945803513	Você tem um problema com isso?
-94561977	Abrir fechaduras. Tiro a longa distância. Você aprendeu isso na faculdade de medicina?
-492046563	Eu sou um homem de muitos talentos.
-318284280	Sério, qual é o problema da armadilha gigante para ursos?
-607534953	Ah Bianca. O amor da minha vida.
-1408124644	Você deu um nome para essa coisa?
-307143757	Você ouviu isso, Bianca. Ele está com ciúmes.
-247604673	Então, onde você encontrou sua Bianca.
-1799273930	Um velho ferreiro me deu. Disse que ninguém a queria porque ela era grande demais.
-88785221	Mas não para você.
-1301401938	Você deveria tê-la visto. Todo maltratado e enferrujado. Eu tive que polir, limpá-la, lubrificá-la ...
-343744116	Acho que já ouvi o suficiente, obrigado.
-742161955	Hah, esta é a vida.
+1257414093	That makes a hundred. What's your tally?
+483252041	Uh...think I lost count. Let's say it's a draw.
+946595501	That sounds more like capitulating, Mr. Hector.
+1873893821	So, McCoy, is it?
+654750945	Doctor McCoy actually.
+984738874	Heh sure. You're not really a doctor, right?
+435477998	If you're lucky one day you'll find out.
+909921615	So, you're a doctor. A real one?
+1945803513	You have a problem with that?
+94561977	Lockpicking. Sharpshooting. You learn that in doctor school?
+492046563	I'm a man of many talents.
+318284280	Seriously, what's the deal with the giant bear trap?
+607534953	Ah Bianca. The love of my life.
+1408124644	You gave that thing a name?
+307143757	You hear that, Bianca. He's jealous.
+247604673	So where'd you find your Bianca.
+1799273930	Old blacksmith gave her to me. Said nobody wanted her cause she was too big.
+88785221	But not for you.
+1301401938	You should have seen her. All battered and rusted up. I had to polish her, clean her, oil her...
+343744116	I think I've heard enough, thank you.
+742161955	Hah, this is the life.
 213146842	I could do without the rain.
 599790691	Come on, Doc. Tell me you're not enjoying this.
 1154062258	I didn't say that.
@@ -6556,66 +6556,66 @@ Japanese	Japonês
 491462446	...!
 146180398	...!
 1868152664	Catch!
-92628352	Shit, lost my knife.
-1075056735	Wait, where's the knife?
-1875045070	Wait, where's the knife?
-149673680	Shit, where's the knife?!
-1670477715	Where's the damn knife?!
-1475413389	I'll take that.
-436412582	Got it.
-680207015	Back in business.
-423187940	I'll take it.
-1598203157	Got it.
-713192556	I got enough.
-1095701913	Can't carry any more.
-790304065	I got enough for now.
-1542551767	I'm full.
-1728615546	I'm good.
-141777261	I'm full.
-1961288980	Two's better than one.
-209314907	The old and the new.
-1734663517	Old and new.
-1601511426	I got a bullet for you.
-1170826886	Things will get noisy.
-383585592	Let's raise some hell.
-450925631	Ready for action.
-1694294799	Let's raise hell.
-1638641825	Let's put 'em down.
-1537478334	Could have gone worse.
-404133895	The quick and the dead.
-1766256345	One-way ticket to hell.
-1798818976	That's all it takes.
-152069517	Go to hell.
-481181933	Like fish in a barrel.
+92628352	Merda, perdi minha faca.
+1075056735	Espera, cadê a faca?
+1875045070	Espera, cadê a faca?
+149673680	Merda, cadê a faca?!
+1670477715	Onde está a maldita faca?!
+1475413389	Eu vou levar isso.
+436412582	Entendi.
+680207015	De volta aos negócios.
+423187940	Eu vou levar.
+1598203157	Entendi.
+713192556	Eu tenho o suficiente.
+1095701913	Não aguento mais.
+790304065	Eu tenho o suficiente por enquanto.
+1542551767	Estou cheio.
+1728615546	Eu estou bem.
+141777261	Estou cheio.
+1961288980	Dois são melhores que um.
+209314907	O velho e o Novo.
+1734663517	Velho e novo.
+1601511426	Eu tenho uma bala para você.
+1170826886	As coisas vão ficar barulhentas.
+383585592	Vamos criar um inferno.
+450925631	Pronto para a ação.
+1694294799	Vamos fazer um inferno.
+1638641825	Vamos colocá-los no chão.
+1537478334	Poderia ter piorado.
+404133895	O rápido e o morto.
+1766256345	Um bilhete de ida para o inferno.
+1798818976	Isso é tudo o que preciso.
+152069517	Vá para o inferno.
+481181933	Pegando um peixe em um barril.
 2021715783	Adios, amigos.
-1508336640	Damn, I'm good.
-2007900503	Someone call the undertaker.
-1167027459	Nothing to it.
-544386625	None left standing.
-1089710076	Call the undertaker.
-1125857872	I'm running thin.
-1028935016	I'm almost out.
-1096727267	Last one.
-485884660	Running thin.
-1673210728	Almost out.
-1832393025	I'm out!
-1336983391	That was my last.
-269754127	I'm out!
-1671670101	That's it.
-678374609	Thanks, Doc.
-458272832	Appreciate it, Doc.
-1469526499	Nice job, Doc.
-892801088	Thanks.
-670181504	Appreciate it.
+1508336640	Nossa, eu sou bom..
+2007900503	Alguém chama o agente funerário.
+1167027459	Nada disso.
+544386625	Nenhum ficou de pé.
+1089710076	Ligue para o agente funerário.
+1125857872	Estou ficando magro.
+1028935016	Estou quase fora.
+1096727267	Último.
+485884660	Correndo devagar.
+1673210728	Quase fora.
+1832393025	Estou fora!
+1336983391	Essa foi a minha última.
+269754127	Estou fora!
+1671670101	É isso aí.
+678374609	Obrigado, Doc.
+458272832	Aprecie isso, Doc.
+1469526499	Bom trabalho, Doc.
+892801088	Obrigado.
+670181504	Aprecie isso.
 60683985	...!
-165290364	...! What the hell?!
-757608313	...! Holy shit!
-1238517265	...! Fuck... I'm dizzy.
-433631093	...! Shit... Think I'm gonna...
-1947860619	...! Dumbass!
-1532062464	...! Stop that.
-727765430	...! Oh fuck!
-1762145650	...! Come on!
+165290364	...! Que diabos?!
+757608313	...! Puta merda!
+1238517265	...! Foda-se ... estou tonto.
+433631093	...! Merda ... Acho que vou...
+1947860619	...! Idiota!
+1532062464	...! Pare com isso.
+727765430	...! Oh caralho!
+1762145650	...! Vamos!
 1304299945	Tudo bem, obrigado.
 102752461	Funciona melhor do que eu pensava.
 1616576476	Onde você conseguiu isso?
