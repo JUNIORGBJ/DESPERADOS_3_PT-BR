@@ -1378,7 +1378,7 @@ Japanese	Japonês
 154743950	Suba no guindaste e solte a carga nos três guardas abaixo.
 460377644	Encontre seu pai
 1343983716	Seu pai está esperando na estátua. Vá se encontrar com ele. 
-1692289367	limpe tudo, meninos! Pegue tudo que brilhar e qualquer coisa que um homen possa beber.
+1692289367	Limpe tudo, meninos! Pegue tudo que brilhar e qualquer coisa que um homen possa beber.
 1929783850	Ha! Outro ponto para Big Ann!
 1205750566	Vamos lá, vamos mostrar quem é que manda!
 767721975	Merda! Proteja-se! 
