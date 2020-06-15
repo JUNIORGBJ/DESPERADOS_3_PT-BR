@@ -14770,7 +14770,7 @@ Japanese	Japonês
 203602001	Ainda bem que consegui fósforos.
 1812475882	Novamente com luz.
 901891113	O que aconteceu?
-138033287	T-isso não é normal!
+138033287	I-isso não é normal!
 1081690694	Algo está errado com você!
 702431898	E-ei, isso não é normal!
 2047405492	N-não, pare com isso!
