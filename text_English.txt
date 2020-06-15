@@ -1936,16 +1936,16 @@ Japanese	Japonês
 1359697944	Magnífico!
 1559499210	Mais uma?!
 389220884	Eu acho que esse lado é muito mais imponente.
-256272098	outra placa.
+256272098	Certo, vou buscar outra placa.
 2031706714	Você gostou do vestido novo, docinho?
-21845656	Querido.
+21845656	É adorável, querido.
 986374359	Excelente! Quero que todos falem sobre esse dia nos próximos anos.
 1065468858	Prefeito Higgins!
 687118702	O que foi agora?
 1301008775	Frank diz que está ficando impaciente.
-1758863038	Merda! Agora não! Você não vê que estamos ocupados?
+1758863038	Meerda! Agora não! Você não vê que estamos ocupados?
 1308103675	Me desculpe, docinho. Isso é algo que eu realmente tenho que cuidar.
-1296826008	Não se preocupe comigo, querida.
+1296826008	Não se preocupe comigo, querido.
 952763125	Fique aqui. Volto em um instante.
 2110419620	Eu preciso de mais tempo. Tente distrair Frank. Eu realmente preciso verificar os arranjos de flores.
 1015183357	Sim senhor.
