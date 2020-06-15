@@ -5786,30 +5786,30 @@ Japanese	Japonês
 1725643065	There...he's at the wagon.
 1509761340	Let's wait for the others before we leave.
 1988633774	All right everybody, let's get out of here.
-467219153	Join the Party
-1319022999	You have the clothes, you have the invitations. Time to join the party.
-975466653	Distract the Guests
-908275987	You won't be able to take DeVitt while he's mingling with the guests. Create distractions to draw the guests away from him.
-26479540	Fireworks
-504684216	Start the fireworks at the maze or the pond to draw guests away from DeVitt.
-1025877990	Contraption
-628327464	Start up the contraption to draw guests away from Devitt. You will need Hector to crank up the generator.
-1700878046	Capture DeVitt
-1392731929	It's time to take care of DeVitt. Knock him out and tie him up.
-279664770	Leave Hacienda
-1050130564	You have DeVitt. Now gather everyone at the wagon and leave.
+467219153	Juntar-se à festa
+1319022999	Você tem as roupas, você tem os convites. Hora de participar da festa.
+975466653	Distrair os Convidados
+908275987	Você não poderá levar DeVitt enquanto ele estiver se misturando com os convidados. Crie distrações para atrair os convidados para longe dele.
+26479540	Fogos de artifício
+504684216	Acenda os fogos de artifício no labirinto ou no lago para manter os convidados longe de DeVitt.
+1025877990	Engenhoca
+628327464	Inicie a engenhoca para atrair convidados para longe de Devitt. Você precisará do Hector para ligar o gerador.
+1700878046	Capturar DeVitt
+1392731929	É hora de cuidar de DeVitt. Bata nele e amarre-o.
+279664770	Saia da fazenda
+1050130564	Você já esta com DeVitt. Agora reúna todos na carroça e vá embora.
 596462338	Devitt
-1066922073	Get DeVitt to the wagon.
-175237739	Meet Up
-1129961709	Gather everybody at the wagon.
-1002241300	Don't Kill Civilians
-475284133	The marshal doesn't want you to kill any of the guests. The staff is off limits too. You can still knock them out and tie them up.
-1366672037	Fireworks (Pond)
-1660492158	A guard is preparing fireworks at the pond, next to the bridge.
-1430380519	Fireworks (Maze)
-1475806185	A guard is preparing fireworks in the maze, next to the large rock.
-207945193	Devitt Statue
-1531077172	Hector can push over this massive statue. Wouldn't be the first time someone got killed by DeVitt's ego.
+1066922073	Leve DeVitt para a carroça.
+175237739	Encontro
+1129961709	Reúna todos na carroça.
+1002241300	Não mate civis
+475284133	O oficial não quer que você mate nenhum dos convidados. Nem os funcionários, mas você pode nocauteá-los e amarrá-los.
+1366672037	Fogos de artifício (Lagoa)
+1660492158	Um guarda está preparando fogos de artifício na lagoa, ao lado da ponte.
+1430380519	Fogos de artifício (Labirinto)
+1475806185	Um guarda está preparando fogos de artifício no labirinto, ao lado da grande rocha.
+207945193	Estátua de Devitt
+1531077172	Hector pode empurrar esta estátua enorme. Não seria a primeira vez que alguém seria morto pelo ego de DeVitt.
 701354613	Generator
 666223160	Before you can flip the switch of the contraption, Hector must turn on the generator.
 1618469470	You can't kill civilians in this mission.
