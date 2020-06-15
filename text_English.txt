@@ -14746,31 +14746,31 @@ Japanese	Japonês
 1036262400	...!
 831754548	...
 1442441833	...
-1137971893	She's dead!
-295461121	Wait! She's dead!
-463661872	He's dead.
-927177950	Wait! He's dead.
-353842478	A dead body!
-1704488757	That one's dead!
-509464880	He got killed by one of the guards.
-1199855867	One of the guards killed him.
-778840773	She got murdered by one of the guards.
-117877211	One of the guards killed her.
-428677587	One of the guards did this. Damn!
-1328766706	Dead. One of the guards did this.
-1005432506	Oh, what the hell?
-419419817	You're joking, right?
+1137971893	Ela está morta!
+295461121	Espere! Ela está morta!
+463661872	Ele está morta.
+927177950	Espere! Ele está morto.
+353842478	Um cadáver!
+1704488757	Aquele está morto!
+509464880	Ele foi morto por um dos guardas.
+1199855867	Um dos guardas o matou.
+778840773	Ela foi assassinada por um dos guardas.
+117877211	Um dos guardas o matou.
+428677587	Um dos guardas fez isso. Droga!
+1328766706	Morto. Um dos guardas fez isso.
+1005432506	Oh, que diabos?
+419419817	Você está de brincadeira né?
 1979956804	Jesus!
-1560704419	Whose tracks are those?
-1327290388	Never seen those prints before.
-1525352676	Who's been walking here?
-829255321	Who left those tracks.
-1725558943	Damn. Light went out.
-1287498134	Who let the light go out?
-203602001	Good thing I got matches.
-1812475882	Again with the light.
-901891113	W-what happened?
-138033287	T-that's not normal!
+1560704419	De quem são as pegadas?
+1327290388	Nunca vi essas impressões antes.
+1525352676	Quem andou por aqui?
+829255321	Quem deixou esses rastros.
+1725558943	Droga. A luz se apagou.
+1287498134	Quem deixou a luz se apagar?
+203602001	Ainda bem que consegui fósforos.
+1812475882	Novamente com luz.
+901891113	O que aconteceu?
+138033287	T-isso não é normal!
 1081690694	Something's wrong with you!
 702431898	H-hey, that's not normal!
 2047405492	N-no, stop that!
