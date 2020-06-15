@@ -9761,35 +9761,35 @@ Japanese	Japonês
 975839535	Uh? What's keeping ya?
 582144571	Hey! Wake up!
 1788655167	Off your lazy ass.
-78840946	Stop slacking off.
-31003542	Who did this to you?!
-13985282	Who tied you up like this?!
-844451836	Huh?!
-1007562551	What's that noise?
-1889193670	You hear that?
-1574352144	Who the fuck is doing this?!
-1810364746	This ain't funny!
-419277849	All right, enough!
-1037668922	Shit, where'd that come from!
-1560150770	Who's shootin'?!
-342068782	They're shootin' at us!
-1184763245	Someone's throwing dynamite!
-1726683258	They're using dynamite!
-184276470	Holy shit, what was that!
-1299218361	Hey, I heard that!
-1055567682	Who's there?!
-142901817	Show yourself!
-1846020812	All right, I'm coming for you!
-1436567014	Oh, you're in trouble now!
-1329859631	I know where you are, asshole!
-1450140891	What the hell was that?
-396526931	Am I going crazy?
-678634942	Ah! Uh...what?
-673626311	What am I doing?
-3701957	Never mind.
-1496011622	This is stupid.
-2115842423	Don't think you can hide!
-2124353544	Okay, let's get this over with!
+78840946	Pare de relaxar.
+31003542	Quem fez isto para você?!
+13985282	Quem te amarrou assim?!
+844451836	Hein?!
+1007562551	O que é esse barulho?
+1889193670	Você ouve isso?
+1574352144	Quem diabos está fazendo isso?!
+1810364746	Isso não é engraçado!
+419277849	Tudo bem, chega!
+1037668922	Merda, de onde isso veio!
+1560150770	Quem está atirando?!
+342068782	Eles estão atirando em nós!
+1184763245	Alguém está jogando dinamite!
+1726683258	Eles estão usando dinamite!
+184276470	Puta merda, o que foi aquilo!
+1299218361	Ei, eu ouvi isso!
+1055567682	Quem está aí?!
+142901817	Apareça!
+1846020812	Tudo bem, eu estou indo para você!
+1436567014	Oh, você está com problemas agora!
+1329859631	Eu sei onde você está, cusão!
+1450140891	Que raio foi aquilo?
+396526931	Estou ficando louco?
+678634942	Ah! Uh...o quê?
+673626311	O que eu estou fazendo?
+3701957	Deixa pra lá.
+1496011622	Isso é estúpido.
+2115842423	Não pense que você pode se esconder!
+2124353544	Ok, vamos acabar com isso!
 1760902622	Let's have a look around.
 1094065143	Oh, I ain't fooled so easy.
 776322957	This is gonna be painful.
