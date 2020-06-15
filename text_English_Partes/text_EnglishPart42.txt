@@ -1,0 +1,339 @@
+1924943190	...
+2133929721	...
+1619329794	...
+838453376	...
+769866293	...
+1008302202	...
+1198551314	...
+746890369	...
+766215751	...!
+2105095360	...!
+337261154	...
+1724074811	...
+889977060	She's dead!
+1702642194	They killed her!
+1246120804	He's dead!
+1720915391	They killed him!
+384829084	A dead body!
+188612431	Murder!
+1643134449	Murdered by another guard. Hmm.
+1209633360	One of the guards killed him. Interesting.
+408667828	Got murdered by another guard.
+812740126	One of the guards killed her. Curious.
+1023904583	Killed by one of their own. Could it be?
+1988609732	Hmm. One of the guards is responsible for this.
+1592973206	What is your goal here?
+884792297	Is that your crude attempt at a joke?
+70372748	I'm not scared so easily.
+590406555	Never seen those prints before.
+1789033228	Who could have left those tracks?
+202187711	Who is sneaking around here?
+1085187391	Tracks. Better keep an eye on them.
+1944060873	Who let the light go out?
+237268403	Idiots! The light!
+1893385394	Do I have to do everything myself?
+2009838222	Again with the light!
+2108635854	Oh, you're gonna pay!
+228953129	Hand's off my staff!
+204676552	That was a mistake!
+280847419	Traps! Watch out!
+191852096	They laid traps!
+1388210659	Watch your step, you fools!
+899368850	Sniper!
+228984779	Shapshooter!
+740977138	They're shooting sharp!
+248854386	The witch is here!
+1925932487	It's the witch!
+1748947354	I know you're here Isabelle!
+1796053590	Idiot! You're under her spell!
+84751004	You! She took hold of you!
+333217423	Stop that! Resist her!
+251303684	Intruder!
+143097900	How dare you!
+444540159	I see you now!
+1642132927	Lowlife trash!
+546468416	You'll regret this!
+1433352079	You should have run!
+270675320	Did the marshal send you?!
+9628966	You can't hide from me!
+128851288	Mr. Cowboy!
+1234596221	It's Mr. Cowboy!
+31805583	God, you stink!
+1574651767	It's the hairy ape!
+1265764464	It's Miss O'Hara!
+1740516422	Miss O'Hara, what a surprise!
+420559250	It's Doctor McCoy!
+1534933692	Come for your money, Dr. McCoy?!
+197923969	Isabelle! What a surprise!
+910483118	Crawling back to me, Isabelle? Too bad!
+591259153	Your body odor gives you away.
+1641076744	Enjoy yourself back there?
+2055411016	How much longer are you going to stand there?
+1385413768	Now which of my guests lost that?
+393804537	Who left that lying around?
+1062284104	That wasn't there before!
+1560459278	Not gonna leave that here.
+1751477529	Now where have I seen that before... 
+1784764926	I think that belongs to me.
+1493337522	Waste not I suppose.
+1909186069	Is she asleep?!
+647722521	What's she doing there?!
+1737246285	Is he asleep?!
+1901815276	What's he doing there?
+1412855313	Sleeping on the job, are we?
+2007161108	What's the matter with you?
+916079691	Well he didn't get far.
+1614834537	He's the one it seems.
+473106361	Well she didn't get far.
+1961202396	She's the one it seems.
+646822338	You're the traitor.
+1761444179	It was you, wasn't it?
+1878855251	There's the traitor. My my.
+237481060	Here we have the traitor.
+17636101	We'll deal with him later.
+1944904529	Let's leave him here for now.
+759126685	We'll deal with her later.
+667089479	Let's leave her here for now.
+238226326	We'll have to deal with you later.
+879555403	Stay put for now. We'll deal with you later.
+1978942643	They tied her up!
+851224279	Seems like they got to her!
+1517570203	They tied him up!
+1529313265	I see they got to him!
+742149905	So, they got the better of you!
+1071533503	Who tied you up?
+2041423786	You! Go investigate.
+2079499196	Someone head on over there now!
+1761497001	Take a look at this. Move it!
+741284909	Where is she?
+1771794158	What's keeping her?
+1322699159	She leaves me waiting.
+67006466	Where is he?
+1343048559	What's keeping him.
+667276149	So, he leaves me waiting.
+1414126201	Seems I'm to be kept waiting.
+1264643628	Where are you. Time's wasting.
+506095499	What's keeping you?
+1661124733	Hey! Wake up!
+1332820510	Wake up, will you?
+1058536612	Stand up, for God's sake.
+1288927396	Who did this to you? Speak up!
+1980221633	Useless idiot. Who did this?!
+352132655	Stop making noise, will you?
+137010481	Are you trying to get fired.
+446202037	I'll find out who's doing this.
+985395987	Did I hear a fake coin?
+624898316	I know fake money when I hear it.
+1718983697	Who's making such a racket?
+571653234	You're playing a dangerous game.
+532050061	I'm going to find you.
+1945401608	All right, that is enough!
+1288014195	Gunfire!
+2028646545	That's not the fireworks.
+480288405	We're under fire.
+1267674436	Oh, I heard that!
+1332528485	Who's there?
+571444925	Anyone there?
+1016309161	That's enough!
+1079836656	I'll find out who's doing this.
+169302793	I'll make you regret this.
+1052152850	N-no. Must have imagined.
+800413995	That noise... is she here?
+2040550454	That sound... Is it her?
+462174017	What am I doing?
+300528760	No, it's nothing.
+652241538	This is ridiculous.
+981969789	I don't have time for this.
+1088424175	This is ridiculous.
+1381684006	This is a waste of time.
+493409296	I don't tolerate interruption.
+1439739996	This is not on the schedule.
+408736180	I promise, I will find you.
+213145163	... I'm gonna have your head.
+1246203934	... Biggest mistake you ever made.
+262109220	... Wait until I find you.
+1989332955	Is anyone here?
+1391336186	Let's make this quick.
+594787470	You are wasting my time.
+1238409292	You're only making it worse.
+1875300633	Hiding won't help you.
+1770166612	Must we do this now?
+942732437	You're only prolonging the inevitable.
+804945341	Don't make me come in there.
+1398446800	You think I won't get myself dirty?
+1010131037	Hiding in the garden decor?
+278355956	Will I find you behind this door?
+1857091222	This door looks suspicious.
+178151487	Let's open this door.
+1113602196	Nothing. Waste of time.
+442101039	I'll deal with you later.
+1753674666	Very well. Back to the guests.
+332598351	I don't have time right now.
+1744126171	I have more important things to do.
+684089007	Let somebody else handle that.
+208883656	This matter takes priority.
+132089631	Can someone please handle that.
+423948232	That is much too far.
+99076553	I'm not in the mood for a walk.
+1439200992	Like I have time to go there.
+1979340988	No, I am needed outside.
+362875299	No, I must handle things outside.
+1821515628	I don't have time to go inside now.
+46113766	There's no way over there.
+721485570	That would be far too much trouble.
+2041546504	Over there? Ridiculous.
+1812586699	We don't have time for this?
+511696960	Are you avoiding me?
+684849312	How dare you let me wait!
+1019198555	There goes a fruitless conversation.
+1109664261	Never liked them one anyway.
+491055750	Scratch them off the guest list.
+1791306829	Ah, there you are!
+583438478	Must you wander off like that?
+1326363176	An accident?
+430831352	Don't tell me...
+1974504592	You idiots!
+1651834968	How did this happen?
+1265083368	Who was on post here?
+689179909	Am I surrounded by idiots?
+1202939630	Leave it for now. Don't worry the guests.
+360978347	Clean this up after the guests are gone.
+1613092866	Don't let the guests don't see this.
+660760458	...
+1300628791	...
+1752100989	...
+74368390	...
+564276259	...
+1926427015	...
+1370370351	...
+235382167	...
+2125858233	...
+158702733	...
+375484138	...
+1484624915	...
+1736841206	...
+449935355	...
+44934468	...
+1902541142	Damn it...
+1394322482	My head...
+1939098287	A little stumble...
+954435956	Hmm...
+1481041920	Well...
+591052720	Is that...?
+860272488	Something...
+1643420733	What in God's name...?
+408851692	Curious...
+56750221	Well now...
+409570170	Interesting...
+1484806052	Do I see...?
+1666395169	Oh?
+1230630539	Who let you in here?
+326354771	A cat? Oh my...
+271996246	Did somebody bring a cat?
+879653332	No, no, I don't have food.
+957834283	Just like hers.
+1747027955	I'll keep my eye on you.
+1444263959	Run along now.
+1453725348	Gotta send someone to catch that thing.
+244868824	... bastards!
+653229373	... imbeciles!
+1219628151	... grave mistake!
+748819300	... that smell...
+485379176	... pardon me.
+1845262298	... excuse me.
+469757349	N-no!... I'm listening...
+244567012	It's her! I must... listen...
+1019535214	Her voice in my head...
+1507298399	You! N-no!... yes?
+2107655984	What can I do for you...?
+1611355156	You have my attention...
+774957985	Anything you need...?
+305394347	Get out... you... yes?
+1735217189	Damn... I... I'm listening.
+1829159243	A pleasant converastion.
+532745668	My speciality.
+37391788	I can talk for hours.
+645178327	They will listen to me.
+718242854	My word, their command.
+1586465556	I have more than enough.
+837367567	I can spare this much.
+1352956859	They will come running.
+1902154468	More than they'll ever have.
+1689064435	I earned every cent.
+1526017687	Certainly.
+1529721759	Leave it to me.
+1191980866	It's already done.
+68662569	I will take care of it.
+1286994677	Yes indeed.
+776691725	As you will.
+51331123	Most definitely.
+1279262191	I'm on it.
+1688140964	Very well.
+404385307	I'll give it my attention.
+654081491	No.
+1348980014	I'm afraid not.
+568086333	Impossible.
+251187941	I cannot.
+1894354135	That is beyond my ability.
+177808790	This will do.
+2026475580	As instructed.
+1789169659	It is done.
+953403562	Taken care of.
+2005525130	You there.
+1704883187	A word.
+877967253	I must speak to you.
+537134640	Listen.
+819771057	My good fellow.
+344959370	Best take note of that.
+2063229573	We understand each other?
+1932245716	I think you see my point.
+386775648	Let me elaborate.
+1236227568	Carry on, by all means.
+1798475574	Don't let me keep you.
+2088173535	Run along now, chop chop.
+1268074017	A modest investment.
+929943354	This should suffice.
+314553147	Let's put out the offer.
+696842309	A return investment.
+1829004096	Waste not.
+1219083426	I'll have that, thank you.
+755561192	...
+79653357	...
+2033884235	...
+748544497	...
+563713071	W-what? What happened?
+1855524731	Ugh... something in the wine?
+1753738118	Hrm... this is most peculiar.
+334362602	Huh... I don't remember getting here.
+811499609	Yes, yes...
+139982318	No... that's not right...
+129892242	Put it on the list...
+2146735133	This needs taking care of...
+550513612	Must stay on schedule.
+973700004	What would father say...
+217262855	Who needs Frank...
+1658069105	Good riddance...
+551034644	Cheers!
+1192660334	To good health!
+1543856651	Here's looking at you.
+839011162	I've spared no expense.
+750320948	Now, where was I.
+203456593	Right, where were we.
+1890741263	As I was saying.
+752141871	Wait... do I know you?
+1904631849	What's this... you seem familiar...
+1260272422	Is that... who are you...
+592966686	Stop that, or I'll have you removed.
+755615184	It appears we have a clown here.
+1572402751	Don't be ridiculous, mind you.
+714144920	Oh hell no!
+1762180751	Please no!
+194421162	Oh God!
+140568109	Aaaaah!
+1688651179	Help! Help!
+1552467367	Somebody help!
+1893151908	Anyone! Help!
+548180822	I have to get out of here!
+2090329709	I can't stay here!
+1627608269	Quick!
+483753970	Don't move an inch.

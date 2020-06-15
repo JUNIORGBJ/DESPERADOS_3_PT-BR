@@ -1,0 +1,339 @@
+1840939788	Desta vez com sentimento.
+509918061	Que diabos? Estou pirando!
+1529098867	Salve-se quem puder!
+1852101788	Aww, já terminamos? Eu estava apenas me aquecendo.
+1630601283	Não foi o suficiente, hein?
+977121288	Venha agora, McCoy. Nunca é o suficiente!
+1077800171	Parece que vocês dois se divertiram.
+59786473	Tem certeza de que está bem, Sr. O'Hara?
+387009686	Não se preocupe filho. Parece pior do que é.
+1151243254	Você realmente nos ajudou com esse barril, heh.
+1786779120	De nada, grande homem. O pão de cada dia, como se costuma dizer.
+871380817	Ei, Sr. O'Hara - e o uísque?
+664888354	Certo, certo...
+588280517	Eu acho que todos nós ganhamos um copo como melhores de O'Hara.
+1908172553	Senhores, vocês vão adorar.
+1531879179	...O que...
+841866293	Merda...
+246974710	Tio?
+811397586	O que aconteceu?
+1395639857	Quieto!
+1513047555	Maldito estúpido.
+1542774687	Tio...
+1805250660	Nós realmente mostramos a eles, não mostramos?
+941575829	Tio... me desculpe...
+2079104040	Não seja estúpido.
+125265372	Não é sua culpa... Você entendeu, Katey?
+69624517	VO TRACK
+969888385	Encontre Hector
+186064563	Hector ainda está na casa dos barcos. Descubra porque ele está demorando tanto.
+1249601770	Mortes de Casacos Longos ({0} de 5)
+1144541248	Mate 5 Casacos Longos para assustar os invasores. Você escolhe.
+186837690	Campos
+796807187	Mate o casaco longo nos campos.
+2068426836	Estábulo
+1967232135	Mate o casaco longo no estábulo.
+785639623	Silo de grãos
+268239813	Mate o Casaco Longo no silo de grãos.
+2148324	Galinheiro
+886660634	Mate o casaco longo no galinheiro.
+756952832	Cabana de madeira
+813882251	Mate o Casaco Longo na cabana de madeira.
+973882311	Entrada do Rancho
+1703534974	Mate o Casaco Longo na entrada da fazenda.
+155034382	Curral
+1841005762	Mate o Casaco Longo no curral.
+885664251	Encontro
+1103747779	McCoy quer checar alguma coisa. Encontre-se na posição.
+1356586583	Fogo no rabo
+1182811597	Pegue uma tocha na fogueira e jogue-a na poça de óleo.
+1139956959	Tochas e óleo
+1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lâmpadas derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
+1017498960	Pedra solta
+76768848	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
+1455844339	Cano quebrado
+1901536544	Parece que o cano está mal pendurado no silo.
+2103704041	Uma noite de tempestade. Uma lembrança trágica. Qual o melhor lugar para testar a sua determinação. Bem-vindo de volta ao rancho O'Hara.
+1862619689	Quatro vítimas aguardam seu fim inevitável. Espero que encontre um método para matá-los.
+1768873308	Meus clientes querem ver espetáculo. Pedras sendo esmagadas, fogos ardentes - suas ferramentas são limitadas, mas extremamente eficazes.
+389360937	Nenhum outro tipo de violência é permitido. Distração é fundamental, como o Sr. Cooper e seus amigos, sem dúvida já sabem.
+1956659752	Lide com o que você tem. Envie seus alvos para o outro lado. Meus clientes estão assistindo.
+262858736	Heh, muito bem, muito bem. Eu sabia que podia confiar em você para criar algo verdadeiramente... espetacular.
+546778263	Matar todos os alvos
+260083393	Mate todos os alvos designados.
+1896027246	Moe, o profissional
+1938788065	Ele é o capitão. Liberte-o de suas obrigações.
+46570838	Felicity Gemidos
+352977799	Ela é a comediante. Silencie seus trocadilhos ruins.
+888523127	Boris, o presunto
+1766890871	Foi retirado por algum tempo. Aposente-o permanentemente.
+1272242783	El Pollo Mateo
+212114340	A galinha está por trás de tudo. Ponha um fim em seus esquemas.
+1108060531	Morte natural
+819876528	Todos os meios diretos de violência são proibidos. Faça uso da natureza para matar sua presa.
+1533858659	Cavalos
+1086409056	Cavalos dão coices quando atingidos pelas moedas de Cooper. Use isso para nocautear os guardas.
+230713070	Guardas com lâmpada
+1708127694	Os guardas largam suas lâmpadas quando são nocauteados.
+230369068	Acidente
+2137124214	Seria uma pena ficar cego enquanto ele trabalha.
+915142163	Tochas e óleo
+1389356972	Você pode pegar tochas nas fogueiras e carregá-las. Jogue-as para inflamar áreas cobertas de óleo.
+1094818449	Alarme
+316293683	Você não pode acionar o alarme.
+521411584	Eu odeio funerais.
+1848347822	Quem não?
+612157698	Que porra é essa. Nós éramos muito lentos.
+296559256	Você fez bem. Eu deveria ter ficado com ele.
+76027002	Então enterramos dois corpos hoje.
+44546673	Kate!
+615451680	Como você está indo?
+733306503	Ainda não acredito que ele se foi.
+819823984	Eu sei. Como eu gostaria de matar aqueles bastardos novamente.
+1010048128	Obrigado, Hector.
+532568269	Eu odeio dizer isso a você, mas isso está longe de terminar.
+1164037571	O que você quer dizer?
+1114307721	A companhia só precisa enviar mais homens no próximo trem.
+1429595592	Ele tem razão. Nós não podemos ganhar isso. Talvez seja a hora de cortar nossas perdas.
+714421692	Não.
+835385637	Então o que?
+885227267	Vamos explodir a ponte.
+1408309784	Que ponte?
+2027617074	A ponte em Eagle Falls.
+1006380252	Sem uma ponte, não há trem, não há mais dor e miséria para o povo de Flagstone.
+1413203826	Vou a Eagle Falls e rasgarei sua maldita ponte, mesmo que seja a última coisa a fazer.
+871378757	Essa é uma tarefa difícil, senhorita.
+348563740	Farei sozinha se for preciso.
+969953473	Eu já vi esse lugar. É enorme, bem vigiado.
+1894985836	Vai ser um empreendimento arriscado.
+221281587	Vamos Doc. Kate precisa de nós. Você não pode se afastar agora.
+1019647664	Não, claro que não. Você me pagou. Sou todo seu.
+1382510156	É isso que eu quero ouvir.
+165942666	Vou preparar minhas provisões.
+1659437782	Vou selar os cavalos.
+1538176386	Podemos cuidar da ponte, senhorita. Você apenas fique aqui, está bem?
+1440900464	De jeito nenhum, Sr. Cooper. Esta é a minha luta. Eu não vou deixar você lutar por mim.
+212712471	Como quiser.
+1083969188	VO TRACK
+889048379	I've checked this place out. We just stroll through the camp and we're at the bridge.
+2078135170	Now that's a bridge. It'll take a wagon full of dynamite to bring her down.
+1957043161	Not necessarily.
+1743660643	That there is her weak spot. Target that and the rest will topple like a house o' cards.
+1419916468	Now that there's a plan, Dr. McCoy. But we're still gonna need dynamite.
+1252686345	They're bound to have some stored around here somewhere. 
+359357962	I could use a disguise, too, but I might have spotted just the thing.
+1753537232	It'd make sense there'd be dynamite in that hut in the quarry.
+473627906	There's also a weapons shed at the shooting range.
+581421147	If I was in charge around here, I'd keep that dynamite locked up tight.
+1826368698	Yeah, don't you worry. Locks and me are old dance partners.
+60159046	So, we snatch the dynamite and head back to the bridge.
+1164491433	We set the dynamite and then find some cover. I'll save a bullet so I can light her up from afar.
+48647367	Then it's curtains, ladies and gentlemen!
+982561129	Then, we'll have to work our way to the train and meet up with Hector.
+1563084130	You take it for granted that he'll be at the rendezvous on time?
+837850874	This is one fireworks show he wouldn't miss for the world!
+1273876159	Ladies and gentlemen, it's showtime!
+546845066	The passengers are getting restless again.
+1311290023	Gotta pity those poor bastards at the station.
+778735770	The mayor's folks scare the bejesus outta me.
+540666850	Wait until they hear about the wedding.
+410063658	Just so we're clear, you owe me.
+1463658617	Come on, Al. We can't go back to workin'!
+419272426	Not while those fancy folk are bothering us.
+1224735765	Don't care. Shift's over; all rounds are on you.
+1096924937	Gonna be one hell of a day.
+769310456	Shit. If the damn townsfolk hadn't kicked us out... 
+709597017	Bet whoever killed our men at Flagstone shot the mayor too.
+955106238	Well, don't let the passengers hear ya.
+83241758	I didn't bring you just to watch. Time you pulled your own weight.
+986736051	Cute little pea shooter. That for scaring away the crows?
+1850548559	My mother's derringer. Elegant and discreet, just like me.
+540469812	Not much happening around here.
+1129237809	Pretty quiet here.
+833802834	Most of the hands are busy working. These guys here are isolated.
+760751371	Which means no one will hear their cries for help.
+1585813531	Now that's some potent brew.
+1631007758	Comes in handy on occasion. Found it in a swamp near Jennings.
+379797080	How do we get past the big gentleman?
+2052913718	Long Coat standing guard up ahead.
+1971869485	Let's not take chances with the Long Coat. First someone weakens him with a gunshot, then the other takes him out from behind.
+169622226	Fantastic. We've got ourselves a plan!
+269413787	Eyes on the horizon, Katey. Don't look down.
+1092167375	You scared of heights?
+1855633454	Oh, no. I love heights, but I've never had the time to learn to swim.
+890687247	We are good.
+1214187754	Glad it's behind us.
+720065703	Now we find some dynamite, then we head on down there and send that bridge to the Almighty!
+405118588	I never seen someone haul that much luggage.
+937834666	Wouldn't want to be her porter.
+368972319	A perfect opportunity to borrow a dress. She probably won't even notice it gone.
+1886668339	We've been wasting away here for three days, James! This is unbearable!
+589968197	What do you expect me to do? I'm not a bridge repairman. They say it's not safe.
+1487325896	The bridge looks just fine! 
+1248641012	The wedding was yesterday. We've missed the ceremony... We will be the last ones to arrive.
+2124596877	Half the family is stuck here as well... I'm sure our cousin won't marry in a church half full.
+970763803	He better not!
+1805756371	Let's see if I just can't up and lure that guard away from his duties.
+1781218184	Don't tell me you're just gonna walk up to him?
+2213502	Watch and learn, Dr. McCoy.
+177836789	Not bad for an innocent little farmer's niece.
+702906308	I've never met an innocent farm girl in these parts.
+694538370	You don't say.
+1106042257	How big is this place?
+1127199583	This place goes on forever.
+22539155	Look at all this! The DeVitt Company is richer than Croesus.
+70144024	Speaking of which, weren't you under contract with the company?
+2135950230	Still would be, if the bastards ever bothered paying for the train job.
+164193422	This has a taste of déjà vu.
+958208112	We are just like bandits robbing a train.
+627433891	Another day, a different train.
+162783975	These ladies aren't going to fall for my charms. I'll need to be careful.
+1030207198	How much longer is this going to take?
+1347156913	It's like I've been saying, it's hard to tell for sure.
+240429791	How can you not know? You're the foreman, for chrissake!
+367094213	It's complicated, ma'am.
+116064958	There are going to be consequences!
+9719693	And what form would those take?
+900767901	We'll send a letter to the company. Mark my words!
+1078604639	You do that, ma'am. You do that.
+148871231	And what's this I hear about a revolt in Flagstone? 
+1239414576	Rumors, ma'am. I need to get back to work or you'll never be leaving.
+1107055388	You are not going anywhere, sir! I require answers!
+1539924895	*sigh* You might wanna at least ask different questions then, ma'am.
+174426288	She's sure got him nailed to a plank.
+1605885846	I wouldn't trade boots with him. I know that.
+347424073	Look at her go at him.
+1178585689	This is better than a theater play.
+97505707	You know we could help him out.
+29844750	Nah, I'm having too much fun watchin'.
+1444619154	I'm hearing a lot of noise. Must be the quarry.
+1931973891	I smell sulfur. The quarry must be close.
+342769919	Well, look at that. They're using dynamite. There must be more where that came from.
+244137515	That hut looks promising. But I bet it's locked up.
+1654035298	I'll need a few seconds to pick the lock. Just be sure and cover my back.
+444708279	I better not let that Long Coat see me. He'll know I'm up to something.
+628921758	Primed and ready, boss!
+1463201002	All right, get your asses back!
+1048995285	Dynamite is ready!
+1103858009	You heard him! Take cover!
+620512677	Say the word, boss.
+128780171	Get it done, already!
+944592181	This is the one, boss. I know it!
+233071578	Blow it to hell and back!
+17011869	Shit, my ears.
+782686556	Obstacle is still sittin' there, boss.
+171282518	That's one stubborn rock!
+370283200	Do it again!
+1948015562	Gah... God damn all this!
+1955214182	Uh... It's still there, boss.
+1002188354	You fucking kidding me?!
+1172035801	One more time!
+1371676688	Interesting...
+877088804	Would you look at that...
+1022186573	It sure would help if we could only thin out the herd a little.
+1460709916	Well there's always the dynamite...
+390620212	That's a tad extreme, don't you think?
+1180772955	Desperate times, desperate measures.
+1372339404	Sorry. Couldn't resist.
+2083757734	Accidents happen.
+868947400	Whoops. My bad.
+470667403	We should see if the sawmill's hiding anything useful.
+12095694	Look at this place. Manifest destiny in the industrial flesh.
+1963914594	Wonder how often accidents happen around that saw.
+767817700	Thinking about causing an accident yourself?
+305308674	It sure looks mighty sharp.
+1514308810	All right, saw's out.
+315219794	Let's put this on hold.
+1286456959	The saw's stopped.
+210008120	Now what?
+188197869	What's wrong with this thing!
+457806363	Hey asswipes! Hands off the damn switch!
+1571982461	How about this?
+125885861	Let's try this.
+895599228	Okay now!
+106972270	That's gotta hurt.
+1491849671	He never saw it coming.
+1477068829	Ouch!
+1287021037	They're nervous about something.
+1787660680	You're too paranoid, my dear.
+1055360869	I heard them talk. There's trouble in Flagstone.
+949275483	We're here for the wedding! Who cares about that stupid town. 
+854008708	Your sisters are having fun with the workers?
+311980442	You know how they are.
+1078395714	Almost makes me feel sorry for the poor fools.
+271994598	Just punishment for keeping us here I'd say.
+597138813	This sawmill is crude. Nothing like we have back home.
+712736055	Maybe the DeVitt Company's cutting corners.
+371345698	I hope not—we are soon going to cross that bridge of theirs.
+1009487023	You are such a worrywart. That bridge has held a hundred trains...
+383755851	Come on, we gotta take back Flagstone.
+453171243	Forget it! I'm not going back.
+915380401	It pays double!
+1617952781	Nuh-uh, no chance.
+2043731081	It's Flagstone. They're a bunch of hillbillies.
+782355437	Hillbillies with guns!
+948571304	We'll take back the town, easy like.
+880261538	Then you go. I'll stay here.
+626700481	Don't you want revenge for Jarvis? Wild Marge? McBain?
+1225172522	Aw, let them keep their shithole.
+1406020804	Cowards, all of you!
+1560359473	Go and get yourselves plugged by a grizzly.
+1175221139	I'm going up to take a look. Keep your eyes peeled.
+1207002502	Do you always wear such tight jeans, Mr. Cooper?
+173073461	Beg your pardon?
+175856799	Just keeping my eyes peeled.
+519723968	These fellas couldn't hit the wide side of a barn.
+604204655	Their weapons are of an inferior quality...and unoiled.
+260433494	What do you say gentlemen? You reckon we'll find dynamite in that little shed?
+32853892	We'll have to unlock the door first.
+1057538575	Just make sure the coast's clear so I can pick the lock.
+2023607830	Are you trying to miss or hit them bottles?
+972631478	Go find a mare and stick your head in something else's ass, Mundy!
+1198467201	Yeah! We're practicing here.
+1923955990	Well then, be my guest. Practice makes perfect.
+1362731343	You hit the mountain! That's progress.
+1834827091	Get off our backs, will ya?
+195016477	Yeah! We gotta get ready for Flagstone.
+1376588066	Carry on then, kids.
+981330621	Oh, that one almost hit the shed.
+305744695	No it didn't. We're not that bad.
+774427399	Yeah! Wouldn't wanna blow the place to smithereens.
+920378594	Very considerate of you.
+1443350370	That'll do.
+64719891	These little things do so much mischief.
+1313763565	All right, one bundle of dynamite. Now back to the bridge.
+347539793	We're good partners, don't you think?
+1370436802	Partners is a strong word, miss.
+364038933	Oh come now, Mr. Cooper. Us, together, against the world.
+1284435012	Well, after this, it'll be you alone and back safely at your ranch.
+1293942551	Yeah... 
+715967375	We should come back here when we have the dynamite.
+1149243390	The weak point of the bridge is this way. We still need the dynamite.
+567326433	So, that's the way we go once we have the dynamite.
+1959106679	All right, down we go.
+910584940	Down here.
+1179515340	Let's deliver the package, gentlemen. 
+1542172045	Hey McCoy. You sure you're a good enough shot to hit that fuse?
+1812456212	Watch and learn, Mr. Cooper.
+568001835	Wonder what's in that shed?
+1944227285	What's in that shed down there?
+1795827190	Looks like a storage. Might be a good idea to stock up.
+264359659	Yeah, this place is going to be all fire and brimstone in a few minutes.
+1953104794	If we find dynamite in there, I'm gonna be angry.
+1187055807	Wish we had some dynamite.
+1086767789	Guess we still need some dynamite.
+629756946	That's the spot. Now we better fetch that dynamite.
+1799703722	McCoy. You got the dynamite.
+954065528	Miss O'Hara, you got the dynamite.
+315914925	Mr. Cooper, you have the dynamite.
+297109476	Miss O'Hara, you have the dynamite.
+25881207	Mr. Cooper, I believe you have the dynamite.
+1498994161	Dr. McCoy, I believe you have the dynamite.
+851862061	Primed and ready.
+563175063	Package delivered.
+543245308	All right then. It's your show, Doc.
+621623831	I suggest we head somewhere with a good view. 
+706512754	Down she goes.
+1149997624	Holy hell!
+1444349089	You weren't kidding, Doc.
+1464740422	What the fuck. Get me the bastards that did this!

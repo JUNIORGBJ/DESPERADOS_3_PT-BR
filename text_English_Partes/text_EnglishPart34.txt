@@ -1,0 +1,339 @@
+857210656	They mayor is busy. Come back later.
+1540742953	You don't exactly look like a guest.
+250665494	Company business. Stay back.
+1750916794	Can't let you through. Company men only.
+1883410907	Get lost, jerk. I see you're not one of us.
+962549017	Hey, worker, you have no permission here.
+1427349549	Get back to work... 
+797396550	Nuh uh. We'll call you when it's your shift.
+1147526598	This area is off limits for guests.
+197046584	You got lost? Party's the other way.
+1419974059	Got lost? The party's over there.
+1943876794	Don't want to listen, huh?!
+1507348859	Think you can ignore me?
+764975081	I said no!
+966552655	Tryin' to provoke me?
+495037459	Stop there!
+967536671	Hey! That's not all right!
+736679735	Wait... What're you doin' there?
+238695807	You're up to something!
+1386713752	Tryin' to get attention, are ya?
+416095395	I saw that, joker...
+533399097	Keep your tricks out of town!
+1951493968	...
+1869987136	...
+603236135	...
+1737094337	...
+2081534519	...
+1459914119	...
+1680622178	Call the others!
+1705307761	We need backup!
+1369226037	Hey! Give me some backup!
+1463553071	We need more men here!
+902906723	Get some backup here!
+466657897	Help!
+1707250323	Over here!
+597699948	Cover me!
+266684103	Uh, guys?!
+164633492	You see that?!
+271027791	Eyes up everyone!
+1497803566	Let's take 'em down, boys!
+1771342678	Alarm! Alarm!
+536744783	Shit! There's no backup!
+1557696297	Backup's gone. Damnit!
+105752394	It's us against them, boys.
+1589875039	What happened to the backup?
+384706512	No backup! This is it!
+1409839293	You got this, right?
+222357951	We're out. Have fun.
+418976661	We're done here. See ya.
+544491675	You'll take care of it.
+1311049455	We'll leave you to it.
+650423240	Shit. They're gone.
+316226568	Lost 'em. Back to work.
+1210942082	Don't think they're 'round here anymore.
+1358399770	That's right, run away!
+83652418	Nothing. Well, fuck.
+1311516849	Keep your eyes open, everyone.
+761341554	Stay sharp—they might be back.
+1035382152	This isn't over yet.
+621571729	Keep your eyes peeled, you hear me?
+243309337	This ain't over. You better be ready.
+381946195	Something's going on here. Stay sharp.
+1554097924	Careful. We got troublemakers here.
+1747802112	Eyes open. Someone's sneaking around.
+1511239105	Look! Up there!
+1981567975	How'd they get up there?!
+756909435	Fuck me. They're above us!
+545697767	Oh yeah? Why don't you come over here?!
+1247224979	Hey, that ain't fair!
+2071950975	I'll get you, just you wait!
+1651062176	...
+164018823	...
+1014074200	...
+254996028	...
+1061579773	...
+136490321	...
+1899811036	...
+966134292	...
+91394979	...
+868036484	...
+552330697	...
+2120445142	...
+720769183	...
+144289913	...
+270931992	...
+817383763	...
+1813350399	...
+850237400	...
+604340546	...
+732985679	...
+933214065	...!
+94036536	...!
+1566110405	...
+1827396099	...
+926883375	She's dead!
+2040265743	Shit! She's dead!
+1202575034	He's dead.
+2127678244	Shit! He's dead.
+836705989	Found a body!
+1977037897	That one's dead!
+509091421	He got killed by one of our own.
+1170756354	Damn traitor killed him.
+1289609539	I'm gonna find the traitor who killed him.
+22637808	She got murdered by one of our own.
+1435488494	Damn traitor killed her.
+1365412188	I'm gonna find the traitor who killed her.
+1715240543	Looks like we got a traitor.
+1398140056	One of us did this. Shit.
+1976549752	Dead. One of our own did this.
+1338187944	That's the work of a traitor.
+411714213	Uh, what the hell?
+1147515483	You're joking, right?
+1953557803	Jesus!
+1152201421	Whose tracks are those?
+1667169418	Never seen those prints before.
+858204795	Who's leaving tracks here?
+764744858	Cover your tracks, asshole.
+1247342656	Who left those tracks.
+2129778002	Shit. Light went out.
+486650161	Who let the light go out?
+1751038973	Stop fucking with the light.
+1457143817	Again with the light.
+421881053	Bastard!
+43749596	You're dead!
+16982252	Bad move!
+1942313973	Now you'll pay!
+1833460446	You're gonna pay!
+1418542961	That ain't nice!
+489148877	Traps!
+1279096810	They laid traps!
+589679096	Watch your step!
+337430316	Holy shit! Trap!
+2020666015	Big trap! Big trap!
+786008014	Shit! Sniper!
+1020869710	There's a sniper!
+1526339834	We got a sniper!
+2101185282	Sharpshooter!
+2016460011	They're shootin' sharp!
+1644297817	W-what the fuck happened?
+1574773459	W-what?! What hit him?
+1773338847	T-that's not normal!
+179828892	What is this voodoo shit!
+1192854223	Devil's work!
+1273032330	Black magic.
+283549206	S-something's wrong with you!
+1220550786	Are you crazy?!
+507886835	You fucking traitor!
+1678422735	Traitor!
+538875905	Zombie!
+521322979	Stop!
+970278034	Stop that!
+411859453	Don't you dare!
+196286972	Oh no you don't!
+2022463753	Don't you move!
+804431080	Hey you!
+1054643477	I've got you!
+2479300	I see you, asshole!
+349916379	Sonofabitch!
+1374683519	I got you now!
+109459333	Who do we have here?
+313084033	Who the fuck are you?!
+1045741914	Hah! Found you!
+585488968	They found us!
+971380003	You looking for Frank?
+1351776029	You think you're tough?
+841504210	You wanna be a hero?!
+886280733	For Big Ann!
+2075690145	Makin' trouble, huh?!
+1938333875	This place is ours!
+1577189334	It's the two jokers!
+164287038	Oh come on!
+1510502390	Not today!
+1937316294	Troublemaker!
+890396519	Murderers!
+1235211676	They killed the mayor!
+1110169913	You killed Higgins!
+771863377	There's more of 'em!
+176005074	Holy shit! Ambush!
+765574803	They're surrounding us!
+2096268228	Trespassin', huh?!
+1418627950	You got no business here!
+1532417531	You don't belong here!
+1192178920	You ain't allowed here!
+2005230963	There's another one!
+333365210	He's just a kid!
+1153756432	Looking for your daddy?
+638580121	Found you, punk!
+543196898	Frank was right!
+55548532	I'm taking you in!
+311573507	You're under arrest!
+1930443670	T-troublemaker!
+454602035	How'd you get out?!
+1593210707	We got a runaway!
+488029118	Worthless!
+458681609	Spying on the company?!
+236452969	Snooping around, huh?!
+358696004	Lost?! Let me help you!
+544464778	You ain't with the company!
+398318218	Defend the Nest!
+1662103479	Look! Fresh meat!
+1845621592	You're gator food!
+1361819409	This is a lockdown!
+1453000513	Should have stayed at home!
+230310858	Who let you out?!
+203952778	Tired of digging, huh?!
+725059213	No one leaves here!
+2066113635	Trying to get away, huh?!
+83332111	End of the road!
+841341561	DeVitt wants you dead!
+2039882542	You're not on the guest list!
+940576500	Stay away from the guests!
+539628569	How did you get in?!
+180455735	That's not allowed!
+2049697668	Oh shit, it's them!
+11277154	It's Cooper's gang!
+131722094	You ain't getting me!
+1939156359	Payback time!
+501676662	It's Cooper!
+1907079180	I see you, cowboy!
+1334853821	It's Hector!
+1404855509	Hey there, big guy!
+819256392	It's O'Hara!
+847560241	Hey there, pretty lady!
+1428977970	It's McCoy!
+1676575791	I see you, you black coat motherfucker!
+1801084566	It's the witch!
+540381285	It's Moreau!
+1054660919	I see you, kid!
+1163134820	Hey kid! Come here!
+191715115	It's the marshal!
+2144813290	Hey! How'd you get out?
+398764663	Something ain't right... Who's there?
+1861281985	Wait...is someone behind me?
+1966516232	Strange...like someone's right next to me.
+1294169941	...! Stop that!
+1686037876	...! What the hell?
+802576749	...! Whoa there!
+1906703018	...! Hey!
+1099360885	You got no business in here!
+1236765974	Hiding in here, are we?
+1969236356	Get out of here, asshole!
+1627765375	Piece of trash.
+1468437642	Not falling for that.
+1556831520	Not important.
+1245385854	I ain't moving for that.
+1513912457	Nah, looks worthless.
+1040983000	Heh, yeah right.
+263997807	Not gonna fall for that.
+56113704	Keep your trash, buddy.
+1812919899	Is she asleep?
+199695992	What's she doing there?
+1585138973	Is he asleep?
+108606190	What's he doing there?
+607699852	Hey. What's with you?
+2012966698	Lazy bastard.
+936053357	Guess he didn't get far.
+2049612354	Yeah, he's the one.
+1205934708	Looks like she didn't get far.
+1305656810	Yeah, she's the one.
+624192392	You're the traitor.
+517148735	It was you, wasn't it.
+2019251121	There's the bastard.
+1737631263	Found you, asshole.
+1822710443	Let's deal with him later.
+405846824	Let's leave him here for now.
+1239563644	Let's deal with her later.
+916279661	Let's leave her here for now.
+1110598598	We're gonna deal with you later.
+1261566530	There. You're gonna stay put for now.
+1588981713	They tied her up!
+771627283	They got to her!
+1613027217	They tied him up!
+633573356	They got to him!
+1616108356	They tied you up good!
+1040189663	Hey! Who tied you up?
+602161559	You, go take a look!
+1862416999	Someone head on over there!
+1109695679	You better go there!
+1483041581	Where the fuck is she?
+165744825	Where'd she go?
+1516407701	Wasn't she here before?
+875127105	Where is he?
+2062792334	Where'd he go?
+1311992893	Wasn't he here before?
+1428944817	Hey, where's my partner?
+1626305939	Keeps me waiting, huh?
+1417330012	Hey! What's keeping ya?
+503630321	Hey! Wake up!
+2049087796	Off your lazy ass.
+1854772041	Stop slacking off.
+1546977281	Who did this to you?!
+925926933	Who tied you up like this?!
+2100907642	Huh?!
+1388945124	What's that?
+1552182251	You hear that?
+658213559	Who the fuck's doing this?!
+10535971	This ain't funny!
+814182261	All right, enough!
+700692365	Shit, where'd that come from!
+26325976	Who's shootin'?!
+543918863	They're shootin' at us!
+1540126465	Someone's throwing dynamite!
+410614831	They're using dynamite!
+2098930156	Who made that bang?!
+1602415572	Hey, I heard that!
+1221326707	Who's there?!
+404807836	Show yourself!
+436423232	All right, I'm coming for you!
+1455352961	Oh, you're in trouble now!
+1279013612	I know where you are, asshole!
+1449679319	The hell was that?
+78306685	Am I going crazy?
+1529652607	Ah! Uh...what?
+550247435	What am I doing?
+1077324200	Never mind.
+1419908295	This is stupid.
+1207272647	Sure, knock yourself out.
+1758522976	Not worth my time.
+1255156747	Stuff a cork in it!
+1058052522	Don't think you can hide!
+1197274195	Okay, let's get this over with!
+1419824739	Let's have a look around.
+1943970095	Oh, I ain't fooled so easy.
+2051799272	This is gonna be painful.
+750190656	All right, who was that?
+733859229	Who the hell was that?
+308117414	Where's the joker who hit me?
+1694398666	Oh, they're gonna pay for that.
+1415117126	Not so brave now, huh?!
+2111028300	Anyone here?
+1837245175	I'll find you, you know.
+2010243430	You're in big trouble!
+1439190695	Whoever this is, come on out now!
+1655055795	Better run off before I hurt you!
+216983522	You're just making it worse!
+1606782106	He he, just you wait...
+749367244	Motherfucker! Where are you!
+423420392	You ain't fooling me!
+458800813	Come out, come out!

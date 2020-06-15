@@ -1,0 +1,339 @@
+1520189872	...Down the road...couple miles...
+1444952461	Hmph!
+757917807	Thank you.
+1469280115	You never stand still, do you, Sunshine?
+414423421	Well he's in a bad mood.
+170833790	Can't really blame him.
+398258641	We got out alive, didn't we?
+1464183184	Yeah... Great...
+2067100331	All right amigo, let's take a break.
+140528692	Maybe we all could use a little break right now.
+2137458313	Figured as much.
+228112047	What are you up to?
+140857790	No offense...
+1512706557	...but I think I'm gonna cut my losses.
+146657652	You gotta be kidding me!
+1643751326	After all the shit we've been through?
+267919344	That's right.
+736689095	And whose fault is that, huh?
+1697823096	Well well...
+169205430	And here I thought you had a shred of decency in you, McCoy.
+1110419048	I thought you'd know better by now.
+730467693	VO TRACK
+1953153072	Recover Your Gear
+2013642566	Your tools are being kept in the upper camp. Prisoners are not allowed up there.
+8469579	Hector's Gear
+1153542495	Grab Hector's gear from the crate.
+712349743	Doc's Gear
+704782047	Grab Doc's gear from the crate.
+789078812	Isabelle's Gear
+267005513	Grab Isabelle's gear from the crate.
+1347083076	Free the Others
+2008741532	Cooper and Kate have been put into cages. Crack the locks with Doc and free them.
+1199039024	Free Cooper
+472209626	Use Doc to crack the lock of Cooper's cage.
+1035068155	Free Kate
+115075245	Use Doc to crack the lock of Kate's cage.
+1538004971	Blow Up the Main Gate
+1142209649	Get the mine cart in front of the main gate and blow it up.
+468192995	Push the Mine Cart
+985713034	Push the mine cart until you reach the main gate.
+913558866	Get the Mine Cart
+230899577	Hector has filled a mine cart with gunpowder. You will need it to blow your way out.
+1454500394	The whole place is crawling with DeVitt men.
+353737539	They must have signaled ahead.
+881422973	Hah. So, what now?
+312383462	I'm gonna have a look at the station.
+443807117	You can't go down there alone.
+49673994	That's grand advice coming from you.
+1966751667	...Shit... 
+2123009360	I'll help her.
+1184118288	You stay put.
+1227497301	Thanks, partner.
+1961560632	Let me have a look at that leg. 
+620830554	Gnah...
+1454863047	Hector’s going pretty easy on you.
+1430399952	We're old friends.
+502689933	Weird friendship if you ask me.
+2084580164	Gah! Shit!
+2014953396	He knows how it is.
+1616148156	No use dragging anyone else into my problems.
+401213547	Especially not her...
+337040815	...Gnah...
+670873602	You know...
+608753376	...no matter how many times I've heard that kinda bullshit...
+991958001	...it never turned out right.
+1818908759	ARGH!!!
+957506317	You sure this is helping?
+811291948	Just setting the bone.
+681930907	Okay, but now wha...
+1290480501	...hmph!
+1800396173	Just lay down for a while.
+1057051765	...Mh...
+410121482	VO TRACK
+273736257	Hey Kate!
+692945523	Come on. Wait for old Hector.
+96673601	So how's it look?
+1915909382	Not so good. Watch.
+178729337	Here comes the train.
+969856639	Hey, why isn't it stopping?
+1894833642	They must have orders not to.
+1699942712	If we want a ride, we'll have to figure something out.
+1782148420	Right. Uh...any bright ideas?
+2110073007	Well...
+740678377	We could drive cattle onto the tracks. That would stop the train.
+916920895	How do we do that?
+1271533937	We could scare them, like by setting fire to that straw roof.
+903675889	Uh sure. 
+1268755401	What about that wagon?
+1203879636	I could...push it onto the tracks.
+939575221	It looks pretty heavy to me.
+2126890189	Come on. I can do it... I think.
+207599633	Well, if those are our options, I'd feel much more comfortable in disguise.
+594603374	Anyway, let's get going. I don't want to spend a second more in this damn hole.
+354720800	Careful. You don't want to be run over.
+1651932391	Sure, maybe we can use it for cover.
+1239211830	Look alive. Another train coming through.
+1688956331	Did you find it?
+267081196	Not yet. I'm sure I lost it around here somewhere.
+533668900	How the hell do you "lose" a gold tooth, you dumb shit. 
+1344476213	Train's coming. Get your ass of the tracks.
+1593569900	So how did you lose it?
+1727713983	Smashed my head on the tracks, duh. Jeesus!
+1888250129	What? How? Why the hell did you do that?
+1455771679	Train. Train! Come on, move it!
+142048326	So, come on, how the hell did you bash your head on the tracks?
+1825482064	I was drunk, okay? Now shut up—I need my gold tooth. Goddamnit.
+2113775609	Heh heh, figured as much.
+1467008996	Hah...phew. I'm soaked. 
+1955545827	Tired already? Come on, I'll show you how it's done.
+1765165076	Hey shit! You're just shifting dirt around!
+381237179	Think you can do better? Be my guest.
+628505397	Hah...Jesus...help me out here.
+271460853	He he, wheezing like my grandma.
+1072556048	Why do we have to dig this stupid-ass hole anyway?
+371455958	Don't know, don't care.
+1606235648	We're in.
+34501587	What a dump. Heh, reminds me of back home in Texas.
+63273188	Hadn't figured you were from Texas.
+153673205	Born and raised. No place like home, am I right?
+182200415	Yeah.
+1111178410	Come on girl. I'm a customer.
+1893836248	I'm off shift, asshole. Back off.
+283633755	You just keep gettin' prettier.
+1472601243	And your breath keeps getting nastier.
+588172176	Can't you see? I'm thirsty out here.
+53960979	Darling, I'd rather sit on a porcupine.
+459331803	I just can't get enough of you, sweetie.
+930206091	Why don't you go get run over by a train.
+1736725651	Well I ain't goin' anywhere, sweetie.
+1369324787	Well then, stay on your side of the tracks.
+1801040032	Not sure I can keep up my usual act right now.
+340926838	Heh, you can do it. I believe in you.
+1469241437	Well, that's something I suppose.
+1421036439	There's the station.
+369191320	No sign of Doc. Maybe he caught a train in time?
+93472741	Either way he's gone.
+1855504428	Look who's watching from above.
+1083424770	Guards in high places. Wish we had Doc.
+2107985558	Shame he left us hanging.
+1033327917	I'm starting to get used to disappointment.
+631301577	All right. Let's head this way.
+869649447	All right. Let's head for the cattle.
+642820717	All right. Let's head for the wagon.
+657715497	I hope Cooper's all right up there.
+1999816303	Can't say I care. Once we're out of here, I'm done.
+1700712163	Come on, Kate. You know Cooper's not a bad person.
+283030725	He lied to us. He shot you, and then he left us behind.
+1040028150	Yeah. That was pretty shit. 
+624671212	We're almost there.
+1368507796	Almost there.
+949127210	We do this, and then we get Cooper and Isabelle. 
+229958968	I don't get it. How can you still trust Cooper?
+81941703	You know, I did some real bad things too. And he still trusts me. 
+1983670172	What do you mean?
+950969448	Just give him a chance. Do it for me, okay?
+941864543	Whatever. But we still have to stop the train first.
+467409787	There's the cattle pen.
+1124021518	There's the cattle pen.
+2090340079	So let's set fire to the stable roof.
+990017966	Heh, we're gonna scare those bulls good.
+2043144075	Again? What the hell do I care about this fucking animal?!
+1828508821	Raton's a prize bull. He needs to be strong for the fight tomorrow.
+969014820	How much hay can this thing eat?! Fine, fetch another.
+1492622150	Thank you, good sir.
+2055259032	Weren't you just here? Don't tell me it's the bull again?
+1919537805	Raton needs more hay. He needs to be big and strong, for the fight.
+1259704800	Yeah yeah, for the fight. Fetch your hay before I lose my temper.
+1651156154	Many thanks, good sir.
+981648462	Are you shitting me? Again with the fucking bull?
+969053577	So sorry sir, but Raton needs to eat. If Raton doesn't eat, he doesn't win.
+1387508682	Can't catch five minutes... God damn it, get your hay already.
+1263701317	Raton will be grateful, good sir.
+1520041738	Hey. What are you staring at me for, woman?
+1856831327	Raton needs water. I have to bring him water.
+1108018588	Then bring him water. What's with you people?
+1708713104	I will bring him water.
+742499765	I know you're staring at me, you damn hag! What is it?
+417326690	You can drown the fucking beast for all I care.
+310665764	Stop staring at me! You wanna bring him water, do it.
+321519532	Raton is thirsty. I bring him water.
+585996427	Christ, I just wanna catch a break. Just leave me alone!
+1300607775	Looks like they forgot about you, he he he.
+705556329	Stupid animal.
+1872556597	Aww, no more food and water? Poor thing.
+1193242844	He he he he.
+1462959553	What are you looking at, you stupid ox?
+2114693981	Gets on my nerves.
+1531055623	We got fire.
+1968787874	Good. Onto the straw roof with it.
+1738793077	There's the wagon.
+1200699928	There's the wagon.
+1641166974	You sure you can push it? I bet it weighs a ton.
+20553821	Of course! Just leave it to me.
+398414947	You want more, sir?
+50964226	You keep pouring until I say otherwise.
+317194211	My great-grandfather made this moonshine.
+885965165	That's very considerate of him.
+259476907	Good, yes?
+27843187	Yeah. Goes down like fire. Give me another.
+28736089	You like it, yes?
+693567082	Shit yeah. Maybe I won't shoot you after all.
+2102922976	More drinking, less shooting.
+1051775363	Heh, smart man. Keep it coming.
+1121339698	(hic) Finally!
+527118112	How about another for the senorita?
+2093372229	(hic) Huh? Wha?
+89932817	And here's another for the senorita.
+1050081051	My head...s-spinning... 
+581065887	One more for you.
+874767312	Ugh...gonna...urp...
+1988163586	One more, yes?
+761881220	Hrgn...
+61274360	Not too shabby, Hector.
+1913679246	No...problemo...
+1408503555	Hah! It worked.
+1946636562	And there we have it. Feels good when a plan works out.
+458713694	That's a lot of guards.
+1136424161	Oh my. Guess we caught a train full of DeVitt men.
+1095934310	That wagon seems to be the only safe option.
+819726597	Let's meet up with the others, then hide inside that wagon. 
+1559412081	Ugh...sleepy...
+545629626	Hrm... Huh?
+7069839	Hey, you breathing?
+182103101	zzz
+2013124401	 Heh...sure.
+816953267	All right, let's go meet the others.
+1717046167	Where did they come from?
+1373663779	Get the damn things off the tracks.
+545599609	Uh...they don't look like they wanna move?
+114078305	Maybe we scare them off or something.
+1637933368	This is gonna take a while.
+485862675	What the hell is this?
+1597789739	Get that damn wagon off the tracks!
+1863929236	Uh, looks pretty heavy.
+1887029504	Ideas anyone?
+1807402843	This is gonna take forever.
+398126939	The train's stopped. Looks like they did it.
+1291452226	Hey Hector.
+458740498	Hey amigo! How you feeling.
+914036743	Better. Let's get out of here.
+1819088506	Kate.
+1834474394	Cooper.
+135792154	Hey, uh...nice job with the train.
+1676367730	Thanks. But we're still not out of here.
+762197865	Isabelle!
+773869525	Hey, it's Belle!
+2008787869	zzz
+1727731140	Asleep. Where's Cooper?
+507372203	What happened to Isabelle?
+159547353	What happened to Isabelle?
+620612818	She patched me up. Think she just needs rest.
+875062033	What's that racket back there?
+1217519499	Quiet down back there, Jesus!
+740640140	Quiet! To hell with the people in this town.
+148000275	Wait a damn minute...
+1507422999	They ran off on me?! I don't believe this.
+223240633	Somebody go and clean up this mess!
+1590059287	After you, Miss Moreau.
+202440383	There you go, Belle.
+1418097853	Isabelle's on board.
+1220205093	All's clear!
+1541701335	Finally! We gotta make up time.
+489276961	Next stop: civilization.
+598497005	Ah...I need to sit down.
+1699957185	So where do we go from here?
+1619326542	I'd say we pay our friend the Marshal a visit.
+909407458	Block the Train Tracks
+17797167	Stop a train by blocking the tracks with something.
+110556005	Scare the Cattle
+90619246	Grab a torch and throw it on the hay to chase the cattle onto the tracks.
+1294648201	Push the Wagon
+1771071321	Use Hector to push the wagon down the slope and onto the tracks.
+1750250218	Board the Train
+118152795	Get everyone on board the train.
+339265412	Disguise
+555424721	There's this prostitute in town. Kate could really use a disguise.
+2108537596	Ah, Frank, there you are.
+1260959731	Did you already brief the men for the evening?
+778998063	I expect everyone to be on your best behavior when the guests arrive.
+1659846400	Do me the courtesy and look at me when I speak to you.
+1553043809	I've just been thinking.
+1782845682	I'm kinda tired of you, Vincent.
+1258618146	Please, Frank.
+578298804	I really think you're too old for this kind of stuff.
+1753186492	Maybe you're right.
+446897044	I'm too old to mingle with trash like you.
+1019580857	Frank.
+1056529862	Don't just stand around, you buffoon.
+395160447	Come on, Frank.
+326060142	You think you got what it takes, Bill?
+374421595	Didn’t think so.
+424427652	Enjoy your party, Vincent.
+1022877229	Enjoy it like there's no tomorrow.
+1893174963	What now, sir?
+1352081880	Nothing.
+466600239	We proceed as planned.
+286916777	I won't accept any further interruptions.
+1053507609	VO TRACK
+918851178	May I help you, Miss O'Hara?
+259808903	I don't think anybody is watching us here.
+2042271898	Just trying to get in the mood.
+1460644068	Are you.
+1345250752	I say you two make a fine couple.
+767993458	Maybe it's a bit much.
+1366589920	It'll be fine, but we should get rid of those irons.
+1911995687	They don't fit your new look, Mr. Cooper.
+1353129268	Well...
+1581921180	...I'm afraid you got a point there, Marshal.
+1689062683	Now that's a sight I could get used to.
+184271111	All right, let's go through the plan.
+984542604	VO TRACK
+383101198	DeVitt's party's underway. Naturally, he's made himself the center of attention.
+2084697177	You'll need to get in there, knock the bastard out and, well, extract him from the premises.
+658204526	Remember, I want him alive. So don't be too rough on him.
+72267178	I also don't want any of the guests to be harmed, you got it?
+613008332	Drag him to the wagon, then saddle up and get the hell out of there. 
+1437837658	DeVitt has two major events planned for this evening.
+63699860	At the front gardens, there's a firework show under preparation.
+2111270962	You don't need to light up both stashes. Just pick one and light the fuse.
+1863947050	And in the backyard, DeVitt's gonna show off some new invention to the guests.
+87798289	You're gonna need a strong guy like Hector to start the generator before you flip the switch on the main thing.
+997303326	If you manage all of that, it should be enough to draw the guests away from DeVitt.
+1967667379	Your friends should have arrived down at the shore by now. They'll make their own way in.
+392671691	And that's about it. Show your invitations at the front gate and enjoy the party.
+1209422243	I'm gonna head out in a bit. See you back at the meeting place. And good luck.
+1905302755	Should we head in, Miss O'Hara?
+135070172	Someone's taking his role quite seriously, Mr. Cooper.
+342061846	I'm just following the plan.
+909257755	All right, let's do this.
+232516660	A dead civilian. Marshal's not gonna like that.
+1808431973	We killed a civilian. What's the marshal gonna say?
+1093574551	Wait, that's no guard. The marshal's gonna be pissed.
+1249882110	That wasn't a guard. Wayne's gonna bust our asses.
+1764205916	I'll be counting on you.
+261744105	Go on. Enjoy the party.
+1371704781	Let's catch the bastard.
+1784503016	Long line. 
+1597495231	Let's play nice. The marshal wouldn't want us to harm any guests.
+1788317662	Doesn't mean we can't cut in.

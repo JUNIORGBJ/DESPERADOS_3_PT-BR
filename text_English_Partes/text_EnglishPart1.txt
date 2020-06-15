@@ -1,0 +1,339 @@
+English	Português (Brasil)
+German	Alemão
+Chinese	Chinês
+French	Francês
+Italian	Italiano
+Spanish	Espanhol
+Russian	Russo
+Korean	Coreano
+Polish	Polonês
+Japanese	Japonês
+
+1089572441	Selecionar personagem
+326908463	Cancelar seleção de personagem
+1593035469	Selecionar todos os personagens
+720952508	Cancelar seleção de todos os personagens
+8814543		Usar
+1707401394	Correr
+1228448906	Esconder cadáver
+974031510	Pulo baixo
+1570316501	Pulo
+1281200264	Equipamento que falta
+1661399895	Soltar
+1970208064	Apontar
+332063575	Usar habilidade
+1642445805	Trocar habilidade
+979623826	Colocar marcador
+1371401178	Remover marcador
+14277674	Alternar visual do cone
+1007288526	Alternar ação
+760226682	Executar plano
+623490031	Registro de missões
+1137813917	Pausar
+341979071	Continuar
+1020053951	Salvar rápido
+1985431665	Criar ponto de controle
+1985552838	Reiniciar plano
+735890781	Cancelar
+45909301	Um de seus personagens morreu.
+1126684877	James Cooper morreu.
+1767301141	Kate foi capturada a caminho do escritório.
+1804249882	Não resta dinamite para destruir o alvo.
+729436862	Redefinir câmera
+2004899354	Câmera
+1848829029	Nenhum
+417700520	Matar
+575344989	Disparar
+964636690	Substituir este jogo salvo?
+454694763	Reiniciar a missão? Todo o progresso não salvo será perdido.
+1410384205	Sair da missão? Todo o progresso não salvo será perdido.
+426906539	Carregar jogo salvo selecionado
+1455108595	Criar no jogo salvo
+537819092	Tempo de conclusão:
+1033428211	Número de jogo salvo:
+1389622243	Número de carregamentos:
+876575705	Inimigos mortos:
+663721942	Inimigos perdoados:
+1332746099	Civis mortos:
+1918849677	Lesões sofridas:
+341645269	Jogadores detectados:
+1712271163	Cadáveres descobertos:
+1445260513	Número de alarmes:
+2046070127	Mais execuções:
+1305585010	Mais mortes:
+221506391	{0}:{1}:{2}
+1223194325	{0}:{1}
+1238875375	{0}s
+1003502670	ESTATÍSTICAS
+1350143852	PERSONAGENS
+1519278145	Execuções:
+1771961771	Tempo:
+1898824317	Menu
+1808595989	Salvar rápido
+316165492	Carregar rápido
+553774258	Pular {0}
+763728597	Pular
+1607540763	FIM DE JOGO
+134572073	OBJETIVOS
+684574630	DICAS
+15174608	CONVERSAS
+1690935143	DISTINTIVOS
+534458022	Girar
+1172304687	Zoom
+472536070	VOLTAR AO MENU
+2007793874	Confronto
+1552845124	Objetivos
+2129578386	Visão
+45086762	Entrar
+650614824	Empurrar
+1006693641	Sair
+1012474485	Roubar
+824126935	Cortar
+960256102	Carregar
+1136054151	Matar
+2009903160	Derrubar
+404800528	Bloqueado
+98960900	Distintivos inacabados não são mostrados na primeira vez que uma missão é jogada.
+143561912	{0} (Segure)
+1031727861	Vista central
+1317422898	Alterar saída
+1574346156	Estatísticas
+268313053	Distintivos
+1677804019	Nova dica! {0}
+47952872	Objetivos atualizados! {0}
+171506482	Distrair
+1117636783	Isca
+525698574	Modo de dificuldade:
+2001539196	Avanço rápido
+2074698804	Execução individual
+1029285209	{0}/{1} jogo salvo usados
+1680649526	Não salvos!
+422895194	Matar com salto
+617453	Atordoar com o salto
+2127570168	Pressione {0} para mudar de habilidade
+789822849	Continuar
+901096514	Executar
+44714549	Cheio (Apenas Hector)
+1351320459	+{0} (Apenas Isabelle)
+60305594	Mergulho
+2000969630	Gravata
+635175699	Último jogo salvo:
+225439770	TUTORIAIS
+61553626	Info. global
+1564195777	Derrubar
+2066401617	Curar
+1669220735	Alterar personagem
+1622650625	VOLTAR
+1770561895	SIM
+2074094913	NÃO
+1895473994	ATENÇÃO!
+1616262428	Restaurar padrões
+1751646158	Pressione {0} para iniciar
+1417345817	CONTINUAR
+540295136	CARREGAR
+1718974128	OPÇÕES
+2095129783	Selecionar Missão
+921695462	DLC
+722272055	Ligado
+1880743921	Desligado
+1296485339	Sombras
+1373413817	Resolução da textura
+1360711769	Ativar ou desativar sombras.
+1916906986	Aumentar ou diminuir o nível de anti-aliasing.
+289642533	Aumentar ou diminuir a resolução da textura.
+148167890	2×
+751714715	4×
+723357853	8×
+543329642	Volume principal
+1806164857	Volume da música
+193405480	Volume SFX
+2076792662	Volume da voz
+506360498	Aumentar ou diminuir o volume geral do jogo.
+636360512	Aumente ou diminua o volume da música do jogo.
+719162085	Aumente ou diminua o volume dos efeitos sonoros.
+1496215659	Aumente ou diminua o volume das vozes dos personagens.
+1205484016	DISTINTIVOS
+383018457	Dificuldade
+1545645000	Principiante
+1038468303	Normal
+626473240	Difícil
+282651035	Sim
+520483897	Não
+727564207	JOGAR
+614197672	SALVAR
+1886644729	Menu principal
+256619881	PAUSADO
+327085024	LISTA RÁPIDA
+1630446124	{0} hoje
+499301031	{0} m antes
+1535055933	{0}m {1}s antes
+375658126	SUBSTITUIR
+919197944	CARREGAR
+1273710227	SAIR DO JOGO
+1261996133	REINICIAR
+1680915354	Deseja realmente sair para a Área de trabalho?
+1228739812	Carregamento rápido
+194751495	VÍDEO
+742750455	JOGABILIDADE
+427002912	ÁUDIO
+435550555	CONTROLES
+1956330395	CRÉDITOS
+876312009	DESENVOLVEDOR
+486633304	Lembrete de jogo salvo
+367072283	Ativa o lembrete de jogo salvo na borda superior da tela./n Ajuste também o tempo para que o lembrete reapareça após seu último jogo salvo.
+904565450	Legendas NPC
+1016841846	Habilita legendas para NPCs no mundo do jogo.
+1140205606	Alternar marca-texto
+612494481	Idioma do texto
+357458454	Idioma da voz
+1830301241	Determina quanto tempo o Marcador permanecerá ativo:/nDesligado: permanece ativo por alguns segundos./nLigado: permanece ativo até ser desativado.
+1442293416	Ajuste a barra de gama até distinguir todas as etapas do gradiente de textura e visualizar a arma à esquerda.
+1093446963	REINICIAR JOGO
+604412219	Isso reiniciará seu jogo. Você perderá todo o progresso da missão, jogos salvos e distintivos desbloqueados. Suas configurações de vídeo, áudio, configurações de jogo e layouts de entrada personalizados NÃO serão redefinidos. Você deseja continuar?
+215104258	Teclado
+1327985646	Velocidade da câmera
+405449256	Velocidade do controlador de alvo
+1606175245	Velocidade do controlador de eixo
+600213007	Ajusta a velocidade de movimento do cursor para apontar habilidades.
+824998259	Rolagem da borda da câmera
+666387157	Alternar avanço rápido
+1162764950	CINEMÁTICA
+1225642196	Deseja assistir à cena novamente?
+1718054198	Jogo salvo (Rápido)
+234100204	Jogo salvo (Normal)
+738261692	Arquivo obsoleto!
+753130424	NOVO JOGO
+1238399001	CONFIRMAR
+1063145121	COMEÇAR UM NOVO JOGO?
+1171586678	DELETAR
+620746292	Deletar jogo salvo? {0}
+66585026	OK
+1382966912	Levantar automaticamente
+2021839866	Determina se os personagens levantam automaticamente ao clicar duas vezes.
+102014301	Próximo
+48274808	Fechar
+1637075804	INFO
+871894210	VOLTAR
+299223502	Missão fracassada
+534861306	Selecione um arquivo para carregar
+1290710887	Resolução
+592999434	Distância da Sombra
+30989482	Baixo
+897119853	Médio
+1371281051	Alto
+102567943	Reflexo da água
+1877893628	Diálogo automático
+2009175530	Completo
+429141927	Metade
+876302356	Um quarto
+9527696	Oito
+1609646037	Carregar jogo salvo?
+915383769	Dificuldade principiante requer alguns cuidados, mas deixa margem para erro. Os inimigos reagem mais devagar e são menos agressivos. Seus personagens têm mais saúde./n/nNOTA: Altamente recomendado para aqueles que não têm experiência com o gênero RTS.
+1332767595	Dificuldade normal. Os inimigos reagem rapidamente e seus personagens têm uma quantidade moderada de pontos de vida./n/nNOTA: Recomendado para jogadores familiarizados com o gênero RTS.
+84533367	Dificuldade difícil é destinada àqueles com um profundo conhecimento da mecânica tática em tempo real. Os inimigos reagem quase instantaneamente e são mais agressivos. Seus personagens têm menos saúde./n/nNOTA: Recomendado para veteranos do gênero RTS.
+995994767	Sincronização vertical
+1700288794	Desligado
+169915306	Taxa de atualização completa
+1506251381	Taxa de Atualização media
+74011557	Filtragem anisotrópica
+1269150780	Tela Cheia
+926514941	Qualidade
+658779970	Baixo
+1134711718	Médio
+1132577025	Alto
+904257921	Customizada
+1374150836	Oclusão do Ambiente
+8811852	Anti-Aliasing
+1848427170	Modo daltônico
+431050512	Falha ao salvar
+1338371785	Algo deu errado ao salvar.
+50685828	Carregando
+462364397	Salvando
+1753630574	Mais jogos
+1920816122	Anterior
+312686700	Ativa o modo daltônico.
+175092334	Selecione seu idioma preferido para conversas faladas. No menu de opções, você pode alterar essa configuração a qualquer momento.
+2119128132	Ajusta os contornos de personagens e objetos interativos.
+1770522976	Intensidade do contorno
+903136842	Fraco
+214647730	Médio
+1939756145	Forte
+475868445	Correção de gama
+1552857310	Ajusta a visibilidade dos cones inimigos.
+1320655516	Cones
+1362801099	Este jogo salvo está obsoleto. Carregá-lo não será possível na versão mais recente do jogo.
+595402552	Escolha o idioma da voz
+1894310156	Por favor, selecione seu idioma preferido para o diálogo falado. Você sempre pode alterar essa configuração posteriormente no menu de opções.
+1031410729	Aplicar
+1175167657	As configurações foram alteradas. Aplicar mudanças?
+1937172350	Este jogo salvo foi criado em outro nível. Carregá-lo sairá do nível atual. Todo o progresso não salvo será perdido! Continuar?
+692943060	Modo Alto-falante
+1727566288	Selecione o modo de alto-falante que você deseja usar. Esta opção está disponível apenas no menu principal.
+2012998024	Rotação da câmera
+1154410071	Zoom da câmera
+1062301022	Eixo X da câmera
+122559663	Eixo Y da câmera
+444678528	Arrastar eixo X da câmera
+1512099547	Arrastar eixo Y da câmera
+724136998	Visão eixo X
+1114573338	Visão eixo Y
+415969457	Invertido
+888640053	Normal
+469052433	Controle desconectado
+1024292908	Reconecte seu controle ou pressione {0} em outro controle conectado.
+1072918770	Vibração
+510496150	Permite vibração do Controle sem fio.
+1726656013	Carregando dados salvos do usuário
+604825608	Jogo salvo corrompido
+1072627118	O arquivo que você tentou carregar estava corrompido e será substituído pelas configurações padrão.
+2074534947	DADOS DO USUÁRIO
+495479490	Controle sem fio desconectado
+1564185545	Sem espaço suficiente no disco. Libere mais espaço para salvar o jogo.
+208516596	corrompido
+1080011117	MUDAR USUÁRIO
+1615693186	Por favor, não desligue o seu sistema PlayStation®4 enquanto este símbolo estiver sendo exibido.
+653665833	Por favor, não feche o jogo, suspenda o jogo ou desligue o console Xbox One enquanto este símbolo estiver sendo exibido.
+1801035418	Por favor, não feche o jogo enquanto este símbolo estiver sendo exibido.
+1308428726	Falha ao inicializar o armazenamento. Para jogar, você precisa de um espaço de armazenamento conectado.
+1459825798	Tentar Novamente
+1825071464	O seu último jogo salvo está obsoleto ou corrompido. Deseja reiniciar a missão atual?
+906613780	Você atingiu o número máximo de jogo salvo. Exclua ou substitua um jogo salvo existente. Nota: Salvamento rápido não contam para esse limite
+2114202035	Reconecte seu controlador sem fio ou use outro controlador sem fio conectado e alterne para o usuário que iniciou o aplicativo.
+962072658	Salvando: não feche o jogo, suspenda o jogo ou desligue o console Xbox One enquanto este símbolo estiver sendo exibido
+1499250081	Salvando: não desligue seu PlayStation®4 enquanto este símbolo estiver sendo exibido.
+352385758	Salvando: Por favor, não feche o jogo enquanto este símbolo estiver sendo exibido.
+488026919	Visite nossa página da loja se você deseja comprar {0}
+289232529	Ir para Xbox Store
+1024096936	Ir para PlayStation®Store
+1609842196	Ocorreu um erro ao carregar.
+1893923580	Desculpa. Algo deu errado.
+339664616	Desperado
+2136073159	Dificuldade desesperado requer planejamento e execução perfeitos. Os inimigos têm reflexos como raios. Os personagens quase não têm vida ou munição./n/nNOTA: NÃO RECOMENDADO PARA PRIMEIRA PARTIDA, independentemente da habilidade do jogador.
+1627962200	Controle ativo
+1637947761	Selecione qual controle você deseja usar na entrada.
+752466123	Ativa a vibração do controle.
+1419415249	Encerrar sessão
+1458532162	{0} você desconectou. Retornando ao menu principal.
+1575082279	Usuário trocado
+306408042	Usuário trocado {0}. Voltando ao menu principal agora.
+1429086435	(+{0} mais)
+1409730632	Pressione qualquer tecla
+648045773	Aguardando a PlayStation®Store
+442800743	Aguardando a Xbox Store
+128141297	Ocorreu um erro de rede.
+681487417	Configurações de vídeo
+1052460126	Configurações de jogabilidade
+2087751746	Configurações de áudio
+25224588	Dados de inicialização
+1739078801	Layout de entrada
+442535890	O jogo salvo está corrompido. A missão será reiniciada.
+830724165	Configurações de rastreamento ocular
+75518517	Espaço insuficiente disponível. Libere mais espaço para salvar seu jogo.
+1883515290	Para ver uma visão geral de todas as ações vinculáveis, vá para Opções e abra o menu Controles.
+1865076062	Legendas das Instruções
+1993831770	Legendas da conversa
+181097058	Alterar
+2120229012	Pressione {0} para carregar o último jogo salvo
+1659245168	Clique para carregar
+529741173	Capítulo I
+213395621	Capítulo II

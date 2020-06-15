@@ -1,0 +1,339 @@
+229242698	As <skill>armadilhas de óleo</skill> podem ser incendiadas, o que mata todos ao alcance sem disparar o alarme./n Pegue uma <skill>tocha</skill> de uma das grandes fogueiras e jogue-a no óleo. /nCuidado: Carregar uma tocha o torna visível e ao entrar em arbustos a tocha é se apaga.
+39295875	Disfarce de Kate
+508374419	Depois que Kate pegar um <skill>disfarce</skill>, ela poderá colocá-lo pressionando {0}./nEnquanto disfarçada, ela pode atravessar o território inimigo quase <skill>não detectada</skill>./n<skill>Casacos Longos</skill> e <skill>cães</skill> verão o disfarce.
+966230627	Depois que Kate pegar um <skill>disfarce</skill>, ela pode vesti-lo selecionando-a na roda de habilidades e pressionando {0}.Enquanto disfarçada, ela pode atravessar o território inimigo quase <skill>não detectada</skill>./n<skill>Casacos longos</skill> e <skill>cães</skill> verão através do disfarce.
+1247916034	Cães
+384432610	Os <skill>Cães</skill> podem farejar personagens, mesmo quando estão escondidos em arbustos ou esconderijos./nUma vez que detectam um personagem, eles atacam e começam a <skill>latir</skill>, o que atrai outros guardas./n <skill>Cães</skill> também detectam Kate, mesmo que ela esteja usando um disfarce.
+1542545570	Espingarda
+589642151	Kate pode usar a espingarda para atirar nos guardas./nO alcance é muito baixo, mas o barulho também…
+774016983	Controle mental
+111091774	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e </skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
+1381139210	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e </skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
+145657864	Estramônio
+561717325	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma pressionando {0}.
+637479073	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma selecionando-a na roda de habilidades e pressionando {0}.
+648873026	Conectar
+104247868	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar a conexão, use a habilidade de alguém que já esteja conectado).
+2127908959	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar o conexão, use a habilidade de alguém que já esteja conectado).
+1527846203	Stella
+369625641	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
+403734131	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
+389584167	Pegadas
+970518927	Você deixará pegadas na lama ou na areia molhada. Os guardas seguirão seus rastros, por isso tome cuidado.
+1446458937	Águas rasas
+97485671	Mover-se em águas rasas criará ruído, portanto tenha cuidado./nCorrer cria mais ruído do que agachar-se ou caminhar.
+1057120260	Mover câmera /n {0}
+1268121818	Mover câmera/n {0}
+1997712746	Mover /n {0}
+2011726767	Mover /n {0}
+2015399734	Correr /n <hotkey>2 x</hotkey> {0}
+1130591802	Correr {0}
+1352061002	Agachar-se/n {0}
+451565714	Agachar-se/n {0}
+818918724	Exibir cone /n {0}
+1803911677	Exibir cone /nSegure {0}
+1329201872	Cone /n {0}
+546518967	Cone /nSegure {0}
+1734509107	Exibir cone /n Segure {0}/n Selecione{1}
+1468795448	Salvar rápido /n {0}
+805677071	Salvar rápido/n {0}
+30740186	Zoom /n {0}
+991590334	Zoom/n Segure {0}
+1218799266	Girar câmera/n Segure {0}
+126308928	Girar câmera/n Segure {0}, Girar {1}
+869364089	Redefinir câmera /n{0}
+32296457	Redefinir câmera/n {0}
+1976065184	Pegar corpo/n {0}
+1076383443	Soltar Corpo/n Segure {0}, Posição para Soltar {1}
+1617048422	Soltar Corpo/n {0}
+631295312	Arremesso/n {0}
+1168533264	Arremesso
+210459605	Usar/n {0}
+1831549009	Usar
+1308652990	Selecionar personagem /n Segure {0}, Selecione {1}
+520147263	Selecionar personagem/n {0}
+741847450	Modo Duelo /n {0}
+1638392578	Modo Duelo/n {0}
+100908021	Pular/nPule aqui
+2083201227	Pular/nPule aqui
+2001093994	Recolher faca /n Caminhe até o <hotkey>CADÁVER</hotkey>
+2113789918	Recolher faca /n <hotkey>Caminhe até o CADÁVER</hotkey>
+436268579	Realçar/n {0}
+1301298816	Realçar/n {0}
+1681608670	Pistoleiro
+1107477338	Cooper
+1455806789	Hector
+115484959	McCoy
+1657907318	Kate
+780032065	Isabelle
+1683601941	Stella
+1482129		Civil
+2140714460	Casaco Longo
+1413190058	Frank
+890092290	DeVitt
+1731691163	Wayne
+1234380554	Poncho
+366782154	Valentão
+2056968755	James Cooper
+663666488	Cooper
+421750801	Casaco Longo
+639273516	Jarvis
+1745974188	Wild Marge
+1598571356	O duque
+844354073	McBane
+614728443	Tio O'Hara
+1070272398	Cão de guarda
+569349177	Pistoleira
+402270059	Poncho
+1520900021	Juiz McGain
+31931305	O´Neill
+137554682	Sr. Irving
+2100952380	Bily o garoto
+1038617784	Mazen "Tiro Longo" Bilto
+159344247	Bertie Hill
+998679126	Bum Spencer
+1321434840	Andy "Desenho rápido" Hegyes
+568378835	Dolores
+1661613942	Sly Wingman
+1246909675	Jane Três Dedos
+963694914	Prefeito Higgins
+61180315	Rosie
+941977273	Configurações inimigas
+2116092462	Isso determina o número de inimigos e a frequência de tipos de inimigos mais difíceis./n/nDICA: Altere isso para tornar as configurações do inimigo menos ou mais desafiadoras.
+233722491	Velocidade de detecção
+1913750713	Isso determina a velocidade na qual o cone de um inimigo fica amarelo quando o vê./n/nDICA: Altere isso para diminuir ou aumentar a demanda de seus reflexos.
+450233968	Saúde do jogador
+677898624	Isso determina o número máximo de pontos de vida que seus personagens podem ter./n/nDICA: Altere para diminuir ou aumentar sua margem de erro.
+1826741812	Munição do Jogador
+114054378	Isso determina quanta munição seus personagens têm no início de uma missão, bem como a quantidade de munição encontrada em caixotes./n/nDICA: Altere isso para permitir mais ou menos disparos em sua jogada.
+1202346510	Customizada
+528226213	Quantidade de gravações
+511045945	Isso determina o número de vezes que você pode salvar.
+2001766354	Pausar durante o modo duelo
+1193209278	Isso determina se o Modo duelo interrompe o jogo após a ativação./n/nDICA: Ao jogar no "Desperado", ele sempre estará desativado.
+1412281320	Mostrar detalhes
+483977082	Ilimitado
+1258607113	Nenhum
+1937357559	Negado
+1962654553	Você não tem mais salvamentos restantes!
+174418242	Detalhes ocultos
+1677114193	CONFIG. DE INIMIGO – FÁCIL/n/n{0} Menos inimigos/n{0} Menos Ponchos e Casacos Longos
+1469220682	CONFIG. DE INIMIGO – MÉDIO/n/n{0} Configurações padrão do inimigo
+1243964351	CONFIG. DE INIMIGO – DIFÍCIL/n/n{0} Inimigos adicionais/n{0} Mais Ponchos e Casacos Longos
+968757024	VELOCIDADE DE DETECÇÃO – FÁCIL/n/n{0} 0.7 – Detecção padrão/n{0} 0.9 – Detecção de violência
+1684567525	VELOCIDADE DE DETECÇÃO – MÉDIO/n/n{0} 1.0 – Detecção padrão/n{0} 1.4 – Detecção de violência
+1663669697	VELOCIDADE DE DETECÇÃO – DIFÍCIL/n/n{0} 2.8 – Detecção padrão/n{0} 3.5 – Detecção de violência
+153038737	VELOCIDADE DE DETECÇÃO – DESPERADO/n/n{0} 10 – Detecção padrão/n{0} 10 – Detecção de violência
+1231246955	SAÚDE DO JOGADOR – FÁCIL/n/n{0} 4 HP – Cooper/n{0} 4 HP – McCoy/n{0} 6 HP – Hector/n{0} 4 HP – Kate/n{0} 4 HP – Isabelle
+1054089054	SAÚDE DO JOGADOR – MÉDIO/n/n{0} 3 HP – Cooper/n{0} 3 HP – McCoy/n{0} 5 HP – Hector/n{0} 3 HP – Kate/n{0} 3 HP – Isabelle
+1741956856	SAÚDE DO JOGADOR – DIFÍCIL/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} Menos caixas de recuperação
+1267650903	SAÚDE DO JOGADOR – DESPERADO/n/n{0} 2 HP – Cooper/n{0} 2 HP – McCoy/n{0} 4 HP – Hector/n{0} 2 HP – Kate/n{0} 2 HP – Isabelle/n{0} Sem caixas de recuperação
+1650756374	MUNIÇÃO DO JOGADOR – FÁCIL/n/n{0} No início – 8, Em caixas – 6 (Cooper)/n{0} No início – 5, Em caixas – 4 (McCoy)/n{0} No início – 4, Em caixas – 4 (Hector)/n{0} No início – 5, Em caixas – 4 (Kate)/n{0} No início – 4, Em caixas – 2 (Isabelle)
+1428667906	MUNIÇÃO DO JOGADOR – MÉDIO/n/n{0} No início – 8, Em caixas – 6 (Cooper)/n{0} No início – 4, Em caixas – 3 (McCoy)/n{0} No início – 3, Em caixas – 2 (Hector)/n{0} No início – 4, Em caixas – 3 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
+1315085301	MUNIÇÃO DO JOGADOR – DIFÍCIL/n/n{0} No início – 6, Em caixas – 4 (Cooper)/n{0} No início – 3, Em caixas – 3 (McCoy)/n{0} No início – 2, Em caixas – 2 (Hector)/n{0} No início – 3, Em caixas – 2 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
+1262354350	MUNIÇÃO DO JOGADOR – DESPERADO/n/n{0} No início – 4, Em caixas – 2 (Cooper)/n{0} No início – 2, Em caixas – 2 (McCoy)/n{0} No início – 2, Em caixas – 1 (Hector)/n{0} No início – 2, Em caixas – 2 (Kate)/n{0} No início – 3, Em caixas – 2 (Isabelle)
+1285047320	TRAPAÇA
+910742298	Invisibilidade
+841991396	Invencibilidade
+1213027042	Comando de Matança
+2057061249	Personagem de Teleporte
+1980515834	Gera Hector
+28104649	Gera Cooper
+2044508211	Gera McCoy
+38551962	Gera Isabelle
+1217814824	Gera Kate
+980330027	Você não pode mudar isso durante o jogo.
+212732831	Torne todos os personagens selecionados invisíveis.
+898633805	Torne todos os personagens selecionados invencíveis.
+1525480422	Mate seu alvo com o pressionar de um botão.
+1233503992	Teleporte todos os personagens selecionados para o local de destino.
+475449635	Gera Hector no local alvo.
+1246881435	Gera Cooper no local de destino.
+236663614	Gera McCoy no local de destino.
+1389313657	Gera Isabelle no local de destino.
+785635210	Gera Kate no local de destino.
+537635851	Trapaceiro!
+1338935816	Os distintivos não podem ser desbloqueados durante a trapaça.
+1985192607	Demonstração
+883308870	Demonstração
+1856232954	Fim da Demonstração:
+2023026588	FEEDBACK DA MISSÃO
+1291298655	Muito bem. Ajude-nos a oferecer a melhor versão para quando o jogo for lançado. "Continuar" abrirá o site da pesquisa. Não tenha pressa. Nós realmente apreciamos disso!
+18246755	Você deixou seu feedback? Obrigado!
+212435601	ABRIR LINK
+790517870	TERMINEI
+554712321	FEEDBACK DO JOGO
+2072507729	Muito bem. Ajude-nos a oferecer a melhor versão para quando o jogo for lançado. "Continuar" abrirá o site da pesquisa. Não tenha pressa. Nós realmente apreciamos disso!
+1245446765	Contrato de usuário final
+774155896	[Empty]
+1615115792	$USER_NAME_OR_ID desbloqueou um distintivo em $TITLE_NAME.
+835984463	$USER_NAME_OR_ID desbloqueado $STORY_COUNT distintivo em $TITLE_NAME.
+500124912	$USER_NAME_OR_ID completado {0} em {1} dificuldade em $TITLE_NAME.
+354397091	$USER_NAME_OR_ID completado $STORY_COUNT missões na dificuldade {0} em $TITLE_NAME.
+654425012	$USER_NAME_OR_ID matou {0} guardas em $TITLE_NAME.
+1744584040	$USER_NAME_OR_ID matou um número significativo de guardas em $TITLE_NAME.
+1224139281	$USER_NAME_OR_ID matou {0} casacos longos em $TITLE_NAME.
+629521266	$USER_NAME_OR_ID matou um número significativo de casacos longos $TITLE_NAME.
+1477070416	$USER_NAME_OR_ID salvou {0} vezes em $TITLE_NAME.
+739213705	$USER_NAME_OR_ID salvou muitas vezes em $TITLE_NAME.
+577929473	$USER_NAME_OR_ID carregou {0} vezes em $TITLE_NAME.
+1210269984	$USER_NAME_OR_ID carregado muitas vezes em $TITLE_NAME.
+492106947	$USER_NAME_OR_ID Modo duelo executado com {0} personagens em $TITLE_NAME.
+1172617677	$USER_NAME_OR_ID Modo duelo executado com vários personagens $STORY_COUNT vezes em $TITLE_NAME.
+859345761	$USER_NAME_OR_ID Matou {0} inimigos ao mesmo tempo em $TITLE_NAME.
+1252998259	$USER_NAME_OR_ID concluiu {0} na dificuldade {1} e desbloqueou {2} distintivos em $TITLE_NAME.
+925150016	$USER_NAME_OR_ID matou vários inimigos ao mesmo tempo $STORY_COUNT vezes em $TITLE_NAME.
+1558010130	$USER_NAME_OR_ID concluído $STORY_COUNT missões em dificuldade {1} em $TITLE_NAME.
+151706036	$USER_NAME_OR_ID desbloqueou todos os distintivo de {0} em $TITLE_NAME.
+2734629	$USER_NAME_OR_ID desbloqueou todos os distintivo de $STORY_COUNT missões em $TITLE_NAME.
+1780758815	Escala de renderização
+905456972	Modo de dificuldade
+90161797	Fácil
+772446225	Médio
+1323360165	Difícil
+773723552	Desafios
+231357304	Garçonete
+423656608	Jogador de Poker 1
+1117150295	Jogador de Poker 2
+169451094	Jogador de Poker 3
+215441153	Bruto da Compania
+889456816	Guarda da Compania
+1603078355	Bem-vindo ao nível de teste do controle de qualidade! Neste nível de teste, você pode executar testes limpos de caracteres, NPCs utilizáveis e muito mais. Alguns recursos podem estar ausentes, mas serão adicionados em futuras iterações deste nível.
+663543378	Esta é a sala de jogos. Ao entrar no nível de teste do controle de qualidade, você sempre começará aqui com todos os caracteres à frente. No topo, você encontra um pequeno parkour para teste de navegação do jogador.
+574096615	A norte da sala de jogos está a lista de truques.
+789341352	À direita da sala de jogos, você encontrará a sala de testes. É a sala de teste principal, com todos os guardas e com a maioria dos recursos, que serão necessários para o teste.
+1091142676	No norte da sala de teste, você encontrará o painel de controle. O painel de controle funciona da seguinte maneira: Primeiro você escolhe um tipo de guarda e depois a posição em que o tipo de guarda deve ser gerado. Dessa forma, você pode gerar todos os tipos de inimigos em todos os tipos de configurações diferentes.
+1135000294	Na extrema direita, encontramos o parkour. Esta sala foi projetada para testes de navegação inimiga, mas também para testes de portas. Os inimigos podem ser ativados com o painel de controle no norte desta sala. Após a ativação, eles seguirão sua rota pelo parkour.
+1873777461	Se você deseja navegar rapidamente pelo nível de teste, dê uma olhada no log de dicas. Espero que este pequeno tutorial tenha respondido a todas as perguntas. Para mais perguntas, pergunte a Toby. É isso por agora: testes felizes e que Deus abençoe meu amigo! *Bob Ross quote end*
+941720566	Tutorial
+1934154351	A cena a seguir apresentará uma breve introdução ao nível de teste do controle de qualidade. Em outras perguntas, pergunte a Toby!
+2029272716	Cabeçalho do objetivo
+1576341048	Descrição do objetivo
+1421448555	R1 - Sala de teste
+69348585	Todos os inimigos, formações, zonas neutras.
+2010793256	R2 - Sala de jogadores
+1006924099	Navegação do jogador, controles de nível.
+1080858096	R3 - Parkour
+1994417064	Navegação inimiga, uso da porta.
+1864776957	Cooper
+476223141	Mover para Cooper.
+755438217	McCoy
+364741177	Mover para McCoy.
+1634278010	Hector
+370963810	Mover para Hector.
+2004505788	Kate
+995441901	Mover para Kate.
+715430043	Isabelle
+530774733	Mover para Isabelle.
+1678000250	Johnnie. Você está ficando para trás! Anda logo.
+220997359	Estou atrás de você, Pai.
+469298229	Eu vou em frente. Me siga discretamente.
+1426237520	Sim, senhor.
+1299558651	VO TRACK
+1006428758	VO TRACK
+1472201416	VO TRACK
+1184634196	Há o primeiro guarda. Eu preciso ser cauteloso.
+1345089562	Vamos! Abra, seu monte de merda!
+52315649	Abrar! Droga, estou morrendo de sede aqui.
+1708575428	Não é justo. Eu posso sentir o cheiro do uísque daqui.
+1722395276	Merda. Quem perdeu a porra da chave, afinal?
+799306384	Volto mais tarde com um machado.
+200422027	Ainda não vai ceder. Droga.
+960289221	Por que você não abre, seu pedaço de merda.
+1143306891	Tem uísque lá dentro. Eu sei disso.
+967692626	Por que eu tenho que ficar aqui fora?
+677920504	Merda, eu realmente poderia dar um tiro agora.
+444229462	Foda-se... Essa sede está me matando.
+1273054320	Quem vai passar por aqui de qualquer maneira?
+678736588	O que diabos aconteceu?!
+1561295358	Desculpe... eu escorreguei.
+1989147937	John!
+1619913815	Johnny, não!
+52069976	Deus não!
+1737853021	Esse é o meu garoto. Agora fique perto.
+673464788	Há outro à frente.
+1939658397	Precisamos chamar a atenção dele para outro lugar.
+1566035860	Certo. Vou jogar uma das minhas moedas.
+971260786	Boa ideia. Faça com que ele vire a cabeça. Eu farei o resto.
+1816478218	Faça com que ele vire a cabeça.
+1903341140	Ele tem que desviar o olhar.
+284741563	Faça-o desviar o olhar.
+2142470101	Você já fez isso antes.
+521173166	Ele não ouviu a moeda.
+1346330984	Jogue a moeda mais perto.
+1304306774	Lembre-se - pense devagar, haja rápido.
+1510475130	Nós sempre escondemos o corpo.
+186921039	Você está prestando atenção.
+434305833	Me siga. Mantenha sua cabeça baixa.
+982212394	Cristo, eu odeio cavalos. Bestas estúpidas.
+80618972	"Você faz os cavalos, Sal." Ahah muito engraçado.
+683117499	Está certo. Apenas fique ai e coma.
+1511957846	Você! Você é o pior deles!
+2065162587	Não se atreva a me chutar, entendeu?
+1035198870	Diabo maldito. Estou de olho em você.
+1094668953	Ele quer me chutar. Eu sei isso.
+1860765847	Não Tente nada engraçado, está me ouvindo?
+1347961325	Se você me chutar, eu vou dar um tiro em seu traseiro.
+29525659	Eu odeio cavalos, Billy.
+947759493	Deixe-me, estou aqui.
+395352510	Vamos lá, vamos mudar de lugar.
+1095449348	Cada um faz a sua parte, Sal.
+1258460792	Por que você não pode fazer os cavalos?
+1580432621	Porque é mais engraçado quando você faz isso.
+140547430	Isso vai dar certo.
+969963853	Ei, pai? 
+2105600160	Sim?
+1347077792	Quantos homens Frank tem?
+1767201949	Não importa, garoto. Um a um, você sempre tem uma chance. Você só precisa diminuir o grupo. 
+1708426917	Bloqueado. Nenhuma surpresa lá.
+961203488	Bloqueado. Não há surpresas lá.
+2121242683	Tudo bem, filho. Hora de um desafio.
+1608020280	Vê aquela escada lá em cima? Eu preciso que você jogue para mim.
+1217893076	Bom trabalho! Esse é o meu garoto!
+669315966	Foi fácil!
+1808677364	Mantenha sua cabeça baixa. Há mais deles.
+1654110603	Você tem que encontrar uma maneira de se esconder.
+1661663094	Você ouviu falar de Lindberg? Foi ele que engoliu a última garrafa de Old Hutch.
+1165105379	Isso explica por que o velho bastardo dá tudo para ele.
+1479050419	O que você acha que ele fará? Chamá-lo para sair... para um duelo?
+683057496	Você conhece o velho Hutch... O único amigo dele é a garrafa dele.
+679665959	Meu dinheiro estaria em Hutch. Ele é tão mau quanto eles vêm. Rápido também.
+2061201113	sim! E ele também está bêbado como um gambá. E ele tem esses shakes.
+2010416411	Cinco dólares por Hutch! O que me diz?
+710375432	É uma aposta. Uma peça desagradável de Lindberg para o trabalho.
+1586398938	Lindberg! Saia, seu ladrão de uísque!
+1872026001	Estou bem aqui, seu bêbado until. Vamos resolver isso.
+1298793123	Você ouviu isso? Está prestes a cair! Vamos!
+1577121988	Está na hora de você pagar por roubar o que é meu por direito!
+208492544	Você não me assusta, seu imbecil!
+113944635	Aquela garrafa era a MINHA garrafa!
+1288348702	Você vai me matar com seu hálito horrível.
+1500668642	Ha! Muito devagar, sua vadia ladra. Tem o que você mereceu.
+58060641	Sim .. Leve isso para o seu túmulo, seu bêbado inutel.
+1278130353	Olhos à frente, garoto! Esse duelo não nos diz respeito.
+1500641619	Vê aquele ali no fundo, perto do penhasco?
+867275810	Encontre uma maneira de distraí-lo com sua moeda, para que eu possa pega-los.
+173700865	O outro, John.
+788470849	Ele ainda está respirando. Amarre-o rapidamente e antes que ele acorde.
+610402371	Cuidado!
+1693227310	Desculpe.
+270329634	Não é um dia para perder a cabeça, filho. Apenas vá e esconda o corpo.
+6254567	Bom trabalho. Agora esconda-os nos arbustos.
+814465367	Aí garoto. Vamos lá.
+1249224831	Temos que nos mexer.
+2009387216	Você vem filho?
+1269776983	O que você está esperando?
+436041377	De onde eles vieram?
+768305125	Não importa. Vê aquele guindaste lá em cima?
+199740460	Sim.
+1397304671	Que tal você ir até lá e fazer uma entrega.
+369857519	Chegando logo, senhor.
+616012734	Eu fiz isso!
+1056472202	Bom trabalho, filho. Agora fique aí. Eu irei até você.
+1632996207	Bom trabalho, garoto.
+1189061753	Você sabe o que fazer. Você espera até eu voltar.
+1717160180	Pensei que estava pronto desta vez.
+1181643869	Da próxima vez, quem sabe.
+1437875326	Você disse a mesma coisa da última vez. Por que não posso ir com você? Apenas me dê uma arma!
+352432993	Uma arma, hein?
+503611392	Eu quero ver você espetar naquela árvore a quinze passos.

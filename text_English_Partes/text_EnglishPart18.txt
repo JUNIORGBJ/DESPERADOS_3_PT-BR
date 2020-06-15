@@ -1,0 +1,339 @@
+1883028320	Okay, let's get him to the wagon.
+1913966354	We're making good time.
+1991932564	Not much longer now.
+1749814141	We're getting there.
+1421320260	Heh... Easy peasy.
+747356456	If only Uncle Ian could see us now.
+1422512761	What do you mean?
+1949499521	Kidnapping DeVitt from his own mansion. He'd find that hilarious.
+1761273905	Well, then let's hope he's watching.
+1380498207	And there's the wagon.
+291986284	I can see the wagon.
+585863495	Ah, there's the wagon.
+2037499362	Nice going. The wagon's close.
+1816773264	The wagon... Not much farther.
+1878566244	Last stretch. We get DeVitt there, we're out.
+1860386437	Almost done. Hard to believe really.
+1363611135	How do you feel?
+2125225756	Better. Thanks Cooper.
+2128115776	All right. We got him here.
+451885063	DeVitt's at the wagon.
+1112561309	Ah, we're at the wagon.
+1011158702	All right, DeVitt's at the wagon.
+1725643065	There...he's at the wagon.
+1509761340	Let's wait for the others before we leave.
+1988633774	All right everybody, let's get out of here.
+467219153	Juntar-se à festa
+1319022999	Você tem as roupas, você tem os convites. Hora de participar da festa.
+975466653	Distrair os Convidados
+908275987	Você não poderá levar DeVitt enquanto ele estiver se misturando com os convidados. Crie distrações para atrair os convidados para longe dele.
+26479540	Fogos de artifício
+504684216	Acenda os fogos de artifício no labirinto ou no lago para manter os convidados longe de DeVitt.
+1025877990	Engenhoca
+628327464	Inicie a engenhoca para atrair convidados para longe de Devitt. Você precisará do Hector para ligar o gerador.
+1700878046	Capturar DeVitt
+1392731929	É hora de cuidar de DeVitt. Bata nele e amarre-o.
+279664770	Saia da fazenda
+1050130564	Você já esta com DeVitt. Agora reúna todos na carroça e vá embora.
+596462338	Devitt
+1066922073	Leve DeVitt para a carroça.
+175237739	Encontro
+1129961709	Reúna todos na carroça.
+1002241300	Não mate civis
+475284133	O oficial não quer que você mate nenhum dos convidados. Nem os funcionários, mas você pode nocauteá-los e amarrá-los.
+1366672037	Fogos de artifício (Lagoa)
+1660492158	Um guarda está preparando fogos de artifício na lagoa, ao lado da ponte.
+1430380519	Fogos de artifício (Labirinto)
+1475806185	Um guarda está preparando fogos de artifício no labirinto, ao lado da grande rocha.
+207945193	Estátua de Devitt
+1531077172	Hector pode empurrar esta estátua enorme. Não seria a primeira vez que alguém seria morto pelo ego de DeVitt.
+701354613	Generator
+666223160	Before you can flip the switch of the contraption, Hector must turn on the generator.
+1618469470	You can't kill civilians in this mission.
+228316702	He's taking his sweet time.
+368956181	Heh. Wayne's not the youngest horse in the shed.
+758825814	Guess we'll have to wait then.
+1553066782	Hphm!
+1937180756	Hey hey!
+1384042418	I suggest you lay still Mr. DeVitt, or Hector's gonna put you to sleep.
+706765557	Don't bother. He's just gonna try to bribe us.
+347712331	Hphm! Hphm!
+173158409	Let's hear it.
+325694438	...I need to relieve myself.
+1050952151	Really?
+145756330	Yes really, you imbecile! 
+1885428638	All right. Take 'em out the back.
+1898142263	Hrm, let's go.
+1469160685	We really did it. We caught the bastard.
+1040973513	Your uncle would be proud.
+1370671344	That's sweet of you. 
+763470705	You know...back there, in New Orleans...
+2069859642	It's fine.
+1507501123	You did what you had to...
+264764159	Yeah right.
+466023997	I was a goddamn idiot.
+1229941762	True.
+2056124374	And what are you now, John Cooper?
+1255340643	Oh come on...
+374962282	Shut up! Everyone get over there, or I'll blow him to smithereens!
+459428926	You think I was never put in a corner before?
+1744939186	Never had to get my hands dirty to climb the ranks.
+684306120	I've had my hands so deep in shit you can't even imagine.
+1733879247	Sorry. I fucked up...
+215003338	I said shut up!
+2143841398	I will show you what happens when you stand against me...
+1023272476	AGH!
+1805056164	Ugh...
+1446748664	You?!
+622903884	I had a feeling you'd be lost without me.
+2005456417	As usual I was right.
+963444610	Heh, you know what? I'm gonna give you that one, Sunshine.
+1241478166	VO TRACK
+1150577824	To be honest, I was expecting to find him in better condition.
+590958068	Don't worry. McCoy says he'll live.
+136765841	I'll take his word for it.
+519762925	Now, I believe these are yours.
+1429164747	Colt Navy 51. It's seen better days, if you ask me.
+402068794	I'm attached to it.
+1912305919	Now, if you excuse me, I have a package to deliver.
+1867244858	And you also got something to take care of, am I right?
+1016527966	Right.
+177826815	Good luck, son.
+725650914	Ready when you are, amigo.
+837981845	So how do we find Frank?
+2146263122	Just follow me.
+1559753706	VO TRACK
+2071875988	You coming?
+1158993043	Come on, amigo. You're starting to act like some big hancho.
+1459108587	Not my fault if you're taking ages to get up here.
+193011974	Easy, boys. We're all here for the same reason.
+834789043	There's the chapel. Place hasn't changed much.
+858126338	And you're sure Frank's in there?
+1172816432	Oh, dead sure.
+1469677172	Remember Cooper, nobody goes in alone. We all meet at the gate.
+401110194	Heh, don't worry. I'll follow the plan.
+2102348602	Speaking of which, there's Doc and Isabelle.
+1662801551	Good. We'll meet them on the way.
+1216793812	Right. And one more thing...
+1850715202	That woman down there, in the canyon.
+2109716145	I bet I could get around this place if I had her outfit.
+894524071	Well, then let's make sure we pick it up.
+241450609	Anything else? Are we good?
+1068443101	Ready when you are, amigo.
+1659278257	All right. Then let's send Frank to hell.
+1207488628	Heh, still the old dump.
+1532902944	Charming little outpost.
+445713930	Wonder if they're still keeping whiskey in there.
+900995337	How's it feel, being back here?
+94059513	Everything seems a lot smaller, that's for sure.
+723002160	What?! Bullshit!
+396695495	Holy hell, Williams. How can you be that bad?
+869726789	It's the gun! Rusty piece of shit.
+1074427449	Oh come on!
+1860944481	Ha ha! It ain't the gun who's at fault.
+2111207716	Who asked for your opinion?
+842365619	God damn it!
+1449201902	You ain't gonna be ready at this rate.
+2070241680	Shut up. I'm gonna be ready.
+436719742	Merda merda merda!
+58061221	Forget the gun. Get close and personal.
+846733911	Hell no, Frank says Hector's with 'em. Jesus Christ!
+257146736	Então, qual o plano?
+1785019522	Qual o plano, amigo?
+320418139	We follow the path and we get to Frank. Or we head down the canyon and get you that outfit.
+469766072	It's your show, Cooper.
+1419377760	Let's stick to cover.
+26377535	Better stick to cover.
+1669382652	Things are definitely getting more crowded.
+550384682	I know a few of those mugs. Frank's old gang.
+206981119	Hope you're not getting sentimental.
+1072954615	Look alive, boys! Let's give 'em a warm welcome.
+1729459055	Get ready boys. They're gonna show up eventually. 
+982746874	He heh, no one's getting through here. Let them come.
+1496161796	Ah, I love the smell of gunpowder in the evening.
+324861897	You think it's gonna fall.
+1391648668	Only a matter of time.
+1443254413	You think we should warn the others?
+382875840	Nah. Too much trouble.
+74747016	Reminds me of that job at Eagle Falls?
+2047922084	Shit. Damn bridge still gives me nightmares.
+1524477808	Would you look at that. It finally fell.
+505378669	Well, watch out below, heh heh.
+1475665866	You think Frank's right? They're gonna come here?
+1597536146	You ask me, Frank's getting old.
+71648941	No matter. If they come, we're gonna be ready.
+2032505512	Hell yeah we are.
+1686339757	Let's get this going. I don't wanna be late.
+525560537	You're in a good mood today.
+2065545980	What's that supposed to mean?
+1961986198	There's the McCoy I know.
+1767359387	Hrm.
+648291760	O que?
+1488931636	I hate the desert. The sand gets fucking everywhere.
+1093594089	Who'd have thought. We got something in common.
+1397871176	Heard she was Frank's old flame.
+534582613	Bullshit. She don't look half as old as him.
+770113302	You think I'm gonna get a shot?
+1722620505	If so, she's gonna be a busy woman.
+2997346	Frank's pretty sure these folks gonna show up.
+747700383	They ain't getting through here, that's for sure.
+1787464558	Who are those guys anyway? Heard what they did in New Orleans?
+608422099	Let's talk about the woman again.
+1517725670	Stay on guard. They might come through here.
+1294525673	Frank says they're sneaky bastards. Stay sharp.
+1905953505	What's that?!... No. But maybe... No. Shit...
+313671013	Nobody gets past us. You got me?! Nobody!
+33295656	I'm heading down. See you later at the bridge.
+484670334	All right, but you better not leave me hanging.
+593251260	Look who's talking.
+1480992121	I can pay. See?
+766591345	Oh darling. That's not nearly enough.
+1569949258	You think I'm not good enough for you?!
+1878510816	I'm here for Frank, honey. I don't do underlings.
+1649028087	Come on! I'm a desperate man, here.
+1100471636	Oh I can see that, darling.
+271106513	You're too expensive, lady.
+685227859	That's cause I'm the best in the west, darling.
+1817106755	What are you waiting for then? Go fetch him.
+492973538	No need for that, darling. Let me enjoy the shade while it lasts.
+1176321028	Tell me what you want?
+1733437873	Why don't you just make me an offer, darling.
+461527655	That's one thing off the list.
+791803555	Remember, it'll only be useful until we get to Frank.
+1257223832	Let's make good use of it then.
+1483186961	You think they'll come through here?
+1302296881	If they do, we'll be ready.
+1864283092	I don't know. I heard that Hector guy has a huge bear trap.
+1233534215	Better watch your step then.
+452671297	I hear all kinds of rumors about these guys.
+519557456	Like what?
+251265714	They took down DeVitt's business in Flagstone and New Orleans.
+30008912	Fuck DeVitt. They come here, they're dealing with Frank's gang.
+916158040	I'm getting nervous here.
+1873753470	Would you calm down already?
+986122014	I mean, what do we do if they show up.
+1304284863	We pump 'em full of lead. What kinda dumb question is that?
+1220253082	Don't see that rope ladder anywhere...
+864933468	Rope ladder?
+1421217508	Forget it. Should be plenty other ways in.
+409956380	This place has seen better days.
+1855344224	Heh, look what they've done with the place.
+1933370241	Someone needs to clean up around here.
+1816639178	What a shithole.
+917385025	I get the feeling Frank doesn't do maintenance.
+541143520	Hmm, don't know... I think I like it this way.
+155206147	Used to be more cover here, that's for sure.
+1859527103	I wonder what's down there?
+1634941548	What do we have there?
+31363583	What's back there?
+1318594572	What do we have there?
+2106517142	There's a secret path if we stick to the cliffs.
+1217781826	You sure know your way around.
+89522553	I had a good guide.
+563955346	Fifteen paces.
+1265145018	Ten paces.
+1166585511	Cooper?
+683811245	Just making sure of something.
+1838845517	Shit. How much longer?
+1597618645	Until Frank says otherwise.
+1542979841	We could be riding out right now.
+435113100	We ride when Frank says we ride.
+1410192652	Who are these guys anyway? This is bullshit.
+272270312	I dunno. You hear some nasty things about that McCoy.
+1109781748	Sure. But he ain't gonna take us all on.
+1049087038	He ain't coming alone either.
+1830697416	I think Frank is losing it.
+842300241	How come?
+1742782678	What he said about that voodoo witch? Bullshit.
+1590616347	You never know. Frank's seen some weird shit in his time.
+594718753	Okay, then what's the cannon for again?
+829106166	Security.
+1114876175	And why are we aiming at our guy?
+1805734018	Practice.
+1048377717	W-what if it goes off?
+826874440	Tough luck.
+969395148	You even know how to fire that thing?
+1696701282	No sir.
+124097593	Never been through here.
+1346907690	Oh yeah. I remember this place.
+1254737121	Well this all feels rather industrial.
+1762988771	Wonder what all this crap is for.
+1403348187	Looks like a mine of all things.
+1534619609	Back in the day, Frank took this place over because of the gold mine.
+1884731109	Gold, you say?
+1927887843	Focus McCoy. We got a job to do.
+2081326651	You know, they say he's fast. Really fast.
+2090072411	Wasn't fast enough for Frank. 
+526605160	Sure, but what about us.
+293171659	Aww, don't worry. He comes for you, I'll save your ass.
+1191994580	How does he know anyway?
+987097875	Who? Frank?
+1263595450	Yeah. How does he know they'll come.
+2041476279	Frank's an old dog. I'd trust his nose if I were you.
+594351528	Hey, you think they got that beauty with her?
+691488540	The one who killed her groom? Probably.
+1908290552	You won't fall for her, right? Cause you got lady parts.
+881157558	Get back on patrol, you dumb shit.
+960853970	Shit. It's still not secured properly.
+1691853546	I told you, it ain't dangerous.
+1260617836	Gotta make sure it's stuck.
+1031366330	Are you even listening to me.
+1844765622	I ain't gonna be crushed by a fucking minecart.
+1454114103	There's no slope here, you idiot.
+1233256077	They ain't gonna get me with this.
+823372472	Would you calm down already?
+1825708499	Never been through here.
+83005743	Oh yeah. I remember this place.
+397645503	Look at all this.
+1335626615	Look at all this rusting away.
+873851136	I wouldn't mind taking a gander into one of those shafts.
+1659941219	No way. I've had enough of mineshafts.
+1648199460	Heh, yeah. Besides, the vein went dry years ago.
+447364667	Fine. Let's move on then.
+2119533153	You sure there's no gold in there?
+261121748	Jesus, McCoy. Hasn't Wayne paid you enough?
+1492818609	Not for this he hasn't. A man's gotta cover his costs.
+426920849	Okay, halfway there.
+2145660389	Halfway there, amigo.
+230370717	We're making progress.
+1081780746	Halfway to the chapel.
+1513828514	We still got a ways to go.
+2128859310	How's everyone holding up?
+710950701	Estou pronto.
+4403149	Same here.
+1677025007	Don't tell me you had any doubts.
+1427121985	Yeah. We doing this or what?
+76931277	All right. On to the chapel.
+1578996480	Ah, I see the chapel already.
+203454982	Think I see the chapel from here.
+866253972	There. You can see the chapel from here.
+2025261914	All right. We got eyes on the chapel.
+758095571	It ain't far now. Just gotta get through these folks.
+660922703	Jesus, how many men does Frank have?
+932227896	Doesn't matter. We just gotta thin down the pack.
+1412931661	Getting close, amigo.
+51392618	Not much further.
+115558138	We're getting close.
+1118476791	Looks like we're almost there.
+1262640139	Remember, we all meet at the graveyard gate. Nobody goes in alone.
+1514833812	Sure. But you better shoot the right guy this time.
+384662888	I'll think about it.
+1209646247	You really think they'll come?
+788946975	Frank says so. Frank's usually right.
+176763436	You know this one time I hope he's wrong.
+560781998	You and me both.
+1677861338	See anyone down there?
+406158556	Nah. Don't think they'll come our way.
+1009920076	Yeah? Why not.
+773969835	Cause Frank said they're smart.
+1182469128	God this place is a shithole.
+850235308	Don't let Frank hear that. He really likes it here.
+2064127421	Yeah. But Frank's getting old.
+1405621038	I dunno. I can see where he's coming from.
+786535949	That's it. Let's wait until everyone's here.
+1197556868	That's it. Let's wait until everyone's here.
+14666978	So far, so good. Let's wait until everyone's here.
+1342962711	That's it. Let's wait until everyone's here.
+1106784327	That's it. Let's wait until everyone's here.
+972536573	So this is it.
+246074666	Just stick to the plan.

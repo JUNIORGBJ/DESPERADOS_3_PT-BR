@@ -1,0 +1,356 @@
+1320314897	Heh, well done friend. Well done. Looks like you're not a digger. 
+383490229	Agent Trotter
+1645958402	Real name: Tommy the Mustang. Hobbies: Kicking humans for coin.
+611707295	Agent Mare
+960993201	Real name: Arabian Ben. Does Yoga twice a day. In great shape.
+996063705	Two vicitms have been pacified and secured. One is waiting for you at the shooting range...
+1364223459	...the other one at the quarry.
+1635704326	My clients want you to deliver them to the open cargo wagon at the storage yard.
+1249290176	The guards have orders not to attack you, unless they see you do something suspicious of course. Like carrying a body.
+955889983	Throw
+325248477	Fellow pets! Our human companion has gotten himself into quite a mess. Let's free him.
+905645659	First we need a key. We kill the guard and take it. Then we open the grumpy man's cage.
+2087849535	The grumpy man has no gear and is weak from starving, so he can't do much by himself.
+261369455	Ah, the mine. Memories of a desparate escape, of open wounds and broken bonds still linger. But don’t worry. We are not here to reminisce.
+110326174	I have procured a little something for todays challenge. A special invention, one of a kind. Designed purely for todays entertainment.
+967995022	A button on the side lets it transform into an engine of destruction. Use it to enact revenge on the masters of this mine. Destroy them all.
+1724821859	Gatling Cart
+1316986356	Grab the Gatling Cart. You'll need it.
+1756775373	Destroy the Gate
+191524575	Shoot the Gate with the Gatling
+986125265	Deploying the Gatling Cart
+1391960216	Once the Gatling is deployed, the cart will not be able to move until you pack it up again.
+395352685	An exclusive party. A lavish mansion. What better place to spend the evening. Welcome back to Casa DeVitt. The band is still playing. Are you ready for a dance?
+9788113	Tonight, you will eliminate five specific targets.
+1895844763	Mr. McCoy is waiting on the roof, ready to deliver the deadly shots from his Buntline.
+1866062295	My clients have provided him plenty of ammunition. There's only one catch: His weapon can only fire while he's on the roof or upper floor of the building.
+1904501553	Miss O'Hara and Mr. Hector will be your legs on the ground. They have no weapons, but can move freely among the compound.
+55060597	And there goes the last. I must say, Mr. McCoy truly lives up to his reputation. Well done.
+197848723	Kill all Targets
+1612689411	Thieves, all of them. Deliver justice with McCoy's Buntline.
+954947226	Aleksander
+159918958	He's the head of the gang. Put a bullet between his eyes.
+1471913972	Dorian
+360384232	He has a knack for machines. It won't help him here.
+198405201	Doris
+829345019	She is as cold as they get. Take her down to get a disguise.
+2123963494	Buntline Rules
+787993565	McCoy can only use his Buntline when he is on the roof or the upper floor of the mansion.
+1984069581	Throw Dynamite
+555920882	Throw the dynamite you are carrying.
+362396072	Drop Dynamite
+1035681317	Drop the dynamite you are carrying.
+991092486	Sorry. Didn't mean that.
+1635891279	Heh, whoops.
+795454140	Oh. My bad.
+1101901075	Kalvin
+1568759698	Little is known about him. Less will be remembered.
+943269575	Guilliaume
+162060031	He likes to play a double game. He will lose this one.
+1233492327	Sniping Elites
+384456236	McCoy can burst down Long Coats with three consecutive shots. The next shot will be ready before the Long Coat can recover from the last.
+760608755	Mission accomplished
+2018848112	Spoiler Warning
+1552851905	This challenge features playable characters you have not yet encountered in the story. To avoid spoilers, we recommend you return here after finishing Mission 9.
+1362688929	This challenge features Isabelle Moreau, a playable character you have not yet encountered in the story. To avoid spoilers, we recommend you return here after finishing Mission 9.
+1951547925	This challenge features Kate O'Hara, a playable character you have not yet encountered in the story. To avoid spoilers, we recommend you return here after finishing Mission 4.
+1029874240	The Baron Awaits You
+1157655411	You have encountered all five playable characters. The Baron's challenges are now free of spoilers. Enjoy.
+176535250	Meanwhile – Casa DeVitt, New Mexico
+1699332835	Use them to give Mr. McCoy a clean shot and distract any witnesses. If anyone raises the alarm, my clients will be most displeased.
+517076075	Ammo Crate A
+1083151072	Courtesy of my clients.
+1406444506	Ammo Crate B
+2053559657	Courtesy of my clients.
+1196218103	Ammo Crate C
+2031920940	Courtesy of my clients.
+855286556	Ammo Crate D
+1266293286	Courtesy of my clients.
+1903450712	Ah, my dear, sweet Isabelle. So glad to have you back in my employment. And so far away from home. Let's make the most of it, shall we?
+379908304	As you can see, this train is about to be robbed by bandits. Happens all the time, I'm told. Such a pitty.
+1076275563	My clients want you to kill every last one of them without raising alarm. You know better than to disappoint them, don't you?
+253701574	Good luck, Isabelle. And remember: My clients are watching.
+958676168	Kate and Trapper have only Distractions. Also Disguise.
+911022135	You can't set off an alarm or leave the rooftops with doc. Good luck.
+2145312082	Well done, Isabelle, well done. My clients are already looking forward to our next... collaboration.
+266496455	Connect & Kill
+1337073859	Use Isabelle's connect ability and connect kill these two targets.
+1915648179	Target 1
+761071495	Kill her.
+1582941244	Target 2
+835748375	Kill him.
+1312839292	Cooldown Elites
+1490647133	It is possible to kill elites with three snipe shots all by yourself. Their stunned cooldown is longer than Doc's reload cooldown.
+1340780470	NEW ORLEANS – DEVITT COMPANY LOCKDOWN
+1931549038	A smell of seaweed surrounds the bloated corpse. As you search his pockets, you find a small figurine. A disturbing display of a foreign creatue, tentacles surrounding its gaping mouth. 
+884720503	Something unexplainable has happened in New Orleans tonight. Three murders were commited, all exactly when the clock struck 6.
+9708345	The first victim: A captain who wanted to escape his fate. His rusty vessel the only thing that kept him afloat. Beneath him, the blackness of the river. And inside him an even darker blackness. 
+1450293716	It is done. The butcher lies dead before you, the eldritch flame inside him extinguished. His soul is beyond redemption, but New Orleans has weathered the storm... for now. Good work.
+526570151	Investigate Crime Scenes
+2089925091	The stench of death hangs over New Orleans. Three victims, three gruesome crime-scenes. Investigate them.
+190779572	Kill Murderer
+888392974	After you unified the artifacts HE appeared. Surrounded by a pack of foul beasts he now roams the streets. Kill him, put an end to this nightmare.
+577617173	The Depths
+382025701	A captain who wanted to escape his fate. His rusty vessel the only thing that kept him afloat. Beneath him, the blackness of the river. And inside him an even darker blackness. 
+601936825	The Loner
+254541811	A lonely person met a lonely death. Surrounded by his only friends, cackling, picking litter from the floor, picking blood from his veins, picking meat from his innards.
+1184941873	Amongst Pigs
+963001693	An honorable man, slaughtered and left amongst the filthiest. An unjust end, for he gave hope and comfort to those who needed it the most.
+1209259200	The Metal Badge
+825897588	A small metal badge found on the body. It reads "Florence Smolker's Oriental Spices".
+1740598686	The Body
+1325527419	There is something wrong with that persons corpse. A little shine, only visible if seen in the furtherst corner of the eye. It draws you to it. Hard to resist.
+1163939158	The Chickens
+1200022366	The chickens are picking away at the rotting body in the corner. You get the feeling that something is calling to you. From... inside the chickens. It's voice growing more intense by the second. Until it is an unbearable scream inside of your head.
+1879106691	The sweet stench of decay invades your nostrils. As you examine the pig's body you see something in the corner of your eye. A glittering object hidden in the pockets of the human corpse next to it. 
+707546696	As you pick up the body, a tiny metal badge drops to the floor. It reads "Florence Smolker's Oriental Spices".
+115228868	The sweet stench of decay invades your nostrils. You examine the pig's body but find nothing. The badge in your pocket seems to be pulsating, like it wants to tell you "Ignore those filthy bodies. FIND. THE. LOCK."
+1262534177	As you go through the corpse's pockets, the cackle of the chickens seems to get louder and louder. You see them occasionally picking into the corpse's open wound, devouring it's flesh. 
+2036902556	As you cut open the chicken, you find a small coin. It is covered in blood and guts, but seems to be glowing like a radiant miniature sun. You can almost feel it buzzing in your hand. 
+772586931	As you enter the store, the revitalizing smell of different spices quickly gets to your head. You instantly know where to look. You open a small cupboard in the darkest corner of the room.
+1232845740	As you put the third artifact into your pocket, a creeping chill crawls over your spine. Your sight starts to get blurry as you fight to keep your balance. Something in New Orleans has... changed. 
+1103300527	The next day – Bayous of New Orleans, Louisiana
+2086026573	You did it!
+114163874	DEVITT GOLDMINE – SOMEWHERE IN NEW MEXICO
+1000891151	Looks like we're all out of targets. Well done. A fine display of modern ingenuity. My clients are pleased.
+1872830447	Later that day – Eagle Falls Bridge, Colorado
+665079477	Nicely done. All ready and safe for transport. I knew I could count on your discretion.
+1462795072	Running your fingers over the figurine's smooth, pitchblack surface, you feel like you are slowly starting to slip...  You  quickly hide it in one of your pockets.
+2042798963	You put the badge in your pocket. Shortly after, it starts pulsating, like it wants to tell you "Ignore those filthy bodies. FIND. THE. LOCK."
+138387610	You realize that something inside one of the chickens is calling to you. An uncanny whisper that grows inside your head. "Let me out."
+653215157	As you wipe the blood off of it, the buzzing stops. It's just a dull, rusty coin now. You put it into your pocket.
+412945230	Inside you find a tiny horn with neatly executed carvings on it. You cannot decipher their meaning. Quickly, you put the horn into your pocket.
+1466539405	You can feel the presence of the killer. It is time to avenge the dead or get torn to pieces yourself.
+2076581508	The second victim: A lonely person, meeting a lonely death. Surrounded by his only friends, cackling, picking litter from the floor, picking blood from his veins, picking meat from his innards.
+1520042128	The third victim: An honorable man, slaughtered and left among the filth. An unjust end, for he gave hope and comfort to those who needed it most.
+595444114	Examine the crime scenes. Find out who did this and banish them from this earth.
+954134476	Deliver both Targets
+736354958	Bring both targets to the open train wagon.
+460963032	Quarry Boss Sanchez
+2012672498	He made a deal that was too much for him.
+1297243208	Gunsmith Huancarlo
+1923142160	He spilled secrets that weren't his to spill.
+1053368588	Devils Canyon, Mexico
+391525854	Kill Frank
+1809509597	Do you think you're ready?
+941798258	Let's take a trip down memory lane. Ask ourselves "what if?". One last visit to Devil's Canyon. One more shot at redemption.
+1265043144	This time, two mismatched figures approach. One is the kid, knives in hand. The other is the trapper, eyes watchful.
+1996320184	They've come here for the same reason they all come. The man they call Frank. He's waiting at the chapel. Not much farther to go.
+2143700932	And just like that, it's over. The man they call Frank lies dead in the sand. The kid stands triumphant, his father avenged.
+1393836394	McCoy
+357533009	McCoy is severly underprepared for the mission. He won't be any help. Get him out of here.
+1989532365	Cooper can ONLY kill
+503346124	Cooper can ONLY kill, nothing else
+43397628	Agent Trotter and Agent Mare are waiting outside.
+1466265946	We help the grumpy man get to one of the horses. Then he will be safe.
+246912015	Evening of the same day – Outskirts of Las Piedras, New Mexico
+1311511664	The sting of betrayal. The smell of gunpowder. Red blood over white sheets. Many strands of fate have crossed in this place. Today will be no exception.
+209249049	It appears Miss O'Hara has been trapped at the altar again. The ceremony is well on its way. Once the priest arrives, her fate is sealed.
+2023952286	There goes the servant to let the priest in.
+1832990057	Take her out before she reaches the gate, or you will lose before you can even start.
+198341473	Once she is out of the picture, you will have time for a little more... mischief.
+930974379	He he he, well done. This wedding proved to be quite the spectacle. My clients are pleased.
+2028174834	Help Hector
+715241689	Hector has passed out behind the shed. Help him.
+713777658	Get the Rake
+620990049	Bianca is back at the saloon. Get the rake instead.
+850822448	Take Out the Bodyguards
+146015503	Remove the bodyguards before you handle the priest.
+979359827	Move the priest onto the Carpet
+1988023699	Those who are free of sin shall step on this carpet.
+1643332515	Bark at Mayor Higgins
+2075901764	Use the dog to scare Higgins and help Kate.
+61752883	Mind Control Darts
+1539062903	If you are out of darts, you can refill them here.
+1482292128	Dificuldade:
+1857979904	Cancelar seleção de habilidade
+373187324	O cachorro
+1497618588	Hectors trusty Trapper Dog has been captured by the Gang. You can free him if you want.
+92931021	One good shot is all it takes. Will this be the one? Let's find out together. Rest assured: I'll be watching.
+632606750	One of your mission targets died.
+1173441287	You can't complete the mission objective.
+918151150	You can't use your Buntline here, my friend. Get back to the upper floors.
+908928645	Disguise
+1915489141	One of the targets has a diguise for Kate.
+424335212	CASA DEVITT – CLOSE TO THE MEXICAN BORDER
+1268195084	LAST STOP BEFORE NEW ORLEANS – BATON ROUGE
+1991332465	NEW ORLEANS – DEVITT STORAGE YARD
+853251353	Evening of the same day – New Orleans French Quarter, Louisiana
+1092576883	Early morning – New Orleans French Quarter, Louisiana
+1818463186	Later – Old post station, New Mexico
+1079064569	A few hours later – Old post station, New Mexico
+792045766	Throw Money
+281411138	Place money on the ground. First enemy to spot it will come for it.
+1132826674	Kill Guards ({0} of 130)
+1493494475	Use the Gatling Cart to kill guards. Alarm guards also count.
+1168131817	Nishi the Kid
+491273455	Kill Everyone ({0} of 42)
+762640522	Clear the map of all thugs without raising the alarm.
+69930805	You pick up the piece of paper. It's not a letter, but a small drawing. A coin, an uncanny figurine and a small horn. They form a triangle. In it's center, a haunting depicition of a demonic figure. It's eyes seem to pierce right into your soul.
+203047558	Suddenly, you hear the crashing waves of the harbor again. You don't know how long you were staring at the drawing. Disgusted, you tear it apart and throw away the pieces. The only thing left is a sickening feeling deep in your stomach. Whatever is going on here, you have to put an end to it.
+1137129970	Maybe after this he will finally show us some gratitude.
+634434383	Meow!
+1902114823	Woof!
+1892989799	Cluck!
+512141532	Wedding Crashers 
+1263987843	Take a photo of Isabelle, Kate and Hector together.
+938960282	I have compiled a list of tasks I'd like you to complete, to make this wedding a little more entertaining.
+1328164241	Once you have completed them, head for the exit. Don't forget to bring Miss O'Hara and Mr. Hector.
+1335044884	Declare your objection to this union. Throw the wedding into disarray. Free Miss O'Hara from her fate. My clients are watching.
+1052796875	Stop the Servant
+1094447841	If the servant reaches the gate, you lose. Stop her.
+927424895	Make your Exit
+1138082586	Leave with Kate, Hector and Isabelle.
+2042547070	No Carrying Bodies
+766791953	Neither the animals nor the grumpy man can carry bodies.
+1740536024	Mind Control Noises
+1001479374	Mind controlled civilians and animal can make noise.
+476829014	Ah yes, Eagle Falls. A monument to the constant advance of progress. Last time, this was the site of your explosive debut. Today however will require a little more subtletly.
+1908461359	Keep a low profile. Deliver the goods. Keep the guards in the dark. Don't forget: My clients are watching.
+1656235817	That's one for the mantlepiece.
+756017590	He he he, not so free of sin after all.
+808588487	You killed Higgins.
+1614880222	The servant let the priest in.
+1126697719	Wake up Hector
+1464823219	Hector is fast asleep. You'll need a loud noise to wake him up.
+243827083	Deal With Father Maynard
+1937238544	Let's test how free of sin this priest really is.
+987448738	Anyway, your targets today will be three simple men. Siblings, in fact. One might even say they look exactly alike.
+638189593	My clients want you to bring them to the bank and put them inside the coffins. The catch is, you'll have to find them first.
+1719544610	Take a good look at this man. His clothes, his hair, his skin. He looks exactly like your targets. Use this to find your targets.
+851475634	My clients are watching. Give them a show.
+20331815	Deliver judgement from above. My clients are watching.
+468356500	They push on through. Goings are hard. Franks men are many, and there's only two of them.
+1500960987	The trapper looks at the kid, the knives in his hands. He has seen the kid throw those knifes a thousand times. The kid doesn't miss anymore.
+660965238	The trapper keeps his weapon ready. He's watched the kid get crushed once. He won't let it happen again.
+286197728	They've made it halfway to the chapel. Still a ways to go. How many has the kid killed already? He tries not to think about it.
+2014509736	The kid acts like nothing's up, but his knees are weak. What if he's not ready this time? He pushes on regardless.
+1647658802	The kid looks down at his hands. They have been washed clean with blood. At least his heart is at peace, or so he hopes.
+1714075236	Maybe it would have been better that way. But reality has a habit of taking its time. We both know that's not how the story goes. A childs dream will always remain a fantasy.
+329926232	This was a rare treat. Thank you for indulging me. I think this concludes our business, for the time being.
+1580131138	Should I ever have need of you again, I will let you know. And until then, rest assured: My clients are always watching.
+1314383496	Friendly
+18280962	The Baron waits in the shadows. He will contact you when the time is right./nThis mode will be unlocked in a free content update, coming to you soon.
+1530504659	The Baron waits in the shadows. He will contact you when the time is right./nIf you impress him, he might offer you more challenges in the future.
+212300745	Free Content Update
+1416198937	New challenge missions have been added. Will you answer the Baron's invitation?
+1184618820	New challenge missions have been added. Progress further in the story to unlock them.
+522358041	One Woman Army
+495027837	Isabelle is buying supplies at a herbalists store, when she discovers a sealed envelope on the shelves. Her name is written on it./n/n"My dear Isabelle. It's been a while since we last worked together. My clients have a very simple task for you. You better not keep them waiting."When the store owner returns from the backroom, carrying the requested herbs, Isabelle is already out the door.
+394270854	The Baron has brougth Isabelle to Byers pass for a special demonstration. Another train is under attack by bandits, and Isabelle's task is to eliminate all of them. Every single one. It doesn't get much simpler than that.
+1607897920	Untitled Voodoo Mission
+1032735083	You visit a public library in search of new reading matter. At random, you grab a title from the romance section and open it. You find a letter with a familiar seal inside./n/n"I see you have an interest in true love, friend. All the better. Your presence is urgently required at Mayor Higgins's wedding. Don't be late."/n/nYou ask if someone else rented the book recently, but are told that the book only arrived in stock yesterday.
+1482246535	You have been smuggled into Mayor Higgins' estate, where Kate is about to be wed against her will. The Baron has prepared a list of tasks, which you must complete in order to disrupt the wedding.
+1089068432	Public Transportation
+316216979	You are sitting in your comfortable train compartment and have just been served breakfast. As you open today's newspaper, an envelope with the Baron's seal drops out./n/n"I hope you are enjoying the luxuries of modern travel, friend. Don't worry, your next challenge won't require much of detour. It lies on the way."/n/nYou ask around for the waiter who brought you the newspaper, but nobody seems to know him.
+1291436241	The Baron has sent you to Eagle Falls for his latest challenge. You have been given permission to enter the premisses, meaning the guards won't shoot you on sight as long as you don't act suspiciously. The catch: You have to drag two dead bodies to a nearby train wagon.
+994286661	Rescue Aid Society
+928595687	Stella the cat is following Isabelle through a busy market street. Suddenly, she notices a dog and a chicken standing next to each other, watching her from afar./n/nShe stops in her tracks and stares at them. They have given the signs, secret messages of peace and urgency, delivered in scent and body language. Something has gone wrong. She is needed./n/nWhen Isabelle notices that Stella is gone, she is already on her way to the bayou.
+1183930706	Stella the cat and her allies have come to the Queen's Nest to rescue Doc McCoy. They must secure a key to his cage, free him and escort him to a nearby horse so he can escape. Let's hope he cooperates with his... unusual rescuers.
+1378373304	The Devil is in the Details
+1091804704	You wake up with a sudden start, your bedsheets damp with sweat. Heavy rain blasts against the window of your hotel room. Your head is pounding. Something's wrong./n/nA shadow is sitting on a stool next to the door. A man, dressed in a fine suit, its deep colors muted by the lack of light, almost indistiguishable from the darkness of his skin. You remember him smiling last time you met. He is not smiling now./n/n"Something bad has come to New Orleans, friend," you hear his smokey voice say. "My clients cannot interfere, and neither can I. We are counting on your expertise."/n/nHis eyes are impossibly bright. You try to meet them, and you manage for a few brief seconds, but then you look away. When your eyes return to the stool, the man is gone.
+383410664	Three people have been murdered in New Orleans tonight. Something otherworldly is going on here. Investigate the murders, find the culprit and banish them from this earth.
+1348258499	Contact!
+977386753	You have ridden through the desert for days. Your clothes are dusty, your stomach growling. The cook at the post station serves you a large plate of beans and bread. A letter comes with it, bearing the Baron's seal./n/n "You've made quite the journey, friend. Glad to see you here in one piece. How about a little diversion while you're here. Just some harmless fun. I think you've earned it."/n/nWhen you ask the cook who brought this letter, he just gives you a grumpy laugh before leaving you to your beans.
+535138508	The Baron has sent you back to DeVitt's gold mine for his latest challenge. A special device has been prepared for you, a minecart that can turn into a Gatling gun. Perplexing surely, but that has never stopped the Baron. He tasked you to clear the map of enemies. Should be fun, yes?
+171688385	For a Few Bullets More
+658505006	You walk through a graveyard in the middle of nowhere. Smoke from your cigarette is carried away by the prairie wind. One of the graves lies open, a letter waiting for you in the coffin./n/n"Fancy meeting you here, friend. Taking some time to reminisce? How about a little challenge while you're at it. Let's find out what kind of person you are."/n/nYou look up from the writing and read the name on the gravestone. Unsurprisingly, it is your own. You smile, put out your cigarette on the tombstone and throw the butt into the open coffin.
+1844062476	In this world, there's only two kinds of people my friend: Those with loaded guns and those who dig. Let's see what kind you belong to. Kill everyone on the map.
+1857287282	Bird Hunting
+1778221076	Doc McCoy is sitting in a private room at the local saloon. He has taken apart his Buntline, inspecting and cleaning every piece, a grim smile of satisfaction on his face./n/nMcCoy reaches down into his bag to retrieve an oil cloth. His hands brush against something that should not be there. A letter. He slowly picks it up, expects it from each side, then opens it with a scalpel./n/n"A new contract has come in. Details are enclosed within the envelope. My clients expect nothing but quality, Mr. McCoy. Impress them, and I will consider part of your debts repaid."/n/nMcCoy reads the letter carefully, then burns it at a nearby candle. As it burns, he reassembles his gun with quick, well-practiced movements. He is out the door before the ashes have cooled. 
+326727781	You have returned to Casa DeVitt, where Doc McCoy must complete a personal contract for the Baron. Stationed on the roof of the mansion, he must eliminate a number of targets with his Buntline without triggering the alarm. Kate and Hector are there to assist him on the ground.
+395418561	What If?
+603403823	A red coach halts next to you. The door swings open silently. Thick lamplight and cushioned seats await you inside. As you climb in, you are overcome with a profound sense of déjà vu./n/nThe Baron greets you with a pleasant smile. His clothes are expensive as usual, the colors outrageously bright against the darkness of his skin. His teeth are ivory. His eyes twinkling with... something entirely different./n/n"You have proven yourself a man of many talents, my friend. My clients are very pleased. In fact, you might have become their new favorite. But that is not why I'm here today."/n/n"Today, we will just talk. Call it... indulging my curiosity." He looks at you with those twinkling eyes, and you feel yourself slipping. He smiles. "Shall we begin?"
+1129809586	Another time, a different place. A young kid has come to settle the scores. Frank is waiting at the chapel. Is the kid ready this time? Let's find out?
+1159153718	Sim Olá. Vá para o cara do telhado.
+1760209947	Este é ele, sim.
+1463379734	Ok obrigado. Tchau.
+854189751	Existem 4 guardas azuis aqui.
+728994676	Mate todos.
+1607255470	Bom trabalho!
+432881984	Confronte o proprietário da plantação.
+1773011631	Chegue ao telhado do edifício principal e questione o dono da plantação.
+1606501249	Mate os capangas ({0} de 4)
+37035926	Mate todos os guardas azuis.
+1950596606	Meta 1
+2000501154	O supervisor dos alojamentos.
+1108432962	Meta 2
+1472917576	O supervisor do armazém.
+1254492707	Meta 3
+447010899	O diretor do empacotamento.
+1763085498	Meta 4
+782371726	O superintendente nos campos.
+903657723	A chave do portão
+1557739138	A chave para abrir o portão está com o guarda.
+2019136603	Caçador de Recompensas
+503736148	Esse é o caçador de recompensas
+2003745405	Reagrupar no portão principal
+631053090	Caminhe para o portão principal e escape.
+1681926345	Contornos de personagens
+554268524	Ativa contornos para personagens ocultos atrás de objeto./nNOTA: Mesmo desativado, os personagens ocultos atrás de objetos ainda podem ser selecionados.
+1772227058	As gravações estão parcialmente corrompidas. Erros visuais podem ocorrer durante a reprodução.
+736970267	As gravações estão totalmente corrompidas. Não será possível a reprodução.
+558911311	Na caçada
+1967074360	Ele disse, confie em mim. Vai dar certo dessa vez. ok.
+1917499803	E eles o pegaram também. Ótimo. Melhor tirá-lo de lá ou estamos todos ferrados.
+1340799740	OK. Sem faca. Sem munição. Nada demais.
+1207181453	Ajude Hector
+926597516	Seu plano não funcionou tão bem.
+1679224301	Entre no Ninho da Águia
+1546645602	Exploda o portão com o canhão.
+1150337893	Bala de canhão
+891108364	Carregue o canhão primeiro.
+1349306174	Tiro no portão
+449057507	Atire no portão assim que estiver carregado.
+727267521	Entre na torre
+681691823	O esconderijo está escondido dentro da torre.
+2042199357	Mccoy livre
+1413276380	Ele pode trancar a porta da torre.
+1080405733	Reagrupar
+370594320	Reunir os cavalos para montar no pôr do sol.
+647513640	Metralhadora
+1272242273	Use-o para matar os bandidos.
+1158841105	Segundo a garota, o ouro deveria estar aqui.
+263699796	Aparentemente, essa estátua tem uma alavanca oculta. É tudo o que sabemos por enquanto.
+1827087218	Vamos lá
+1728706167	Interaja com a estátua
+2056762711	A estátua tem um mecanismo oculto que faz alguma coisa.
+941098583	Pegue o ouro da fonte.
+786314742	A fonte acabou de se mover. Veja o que está dentro da câmara.
+2057191596	Pegue um dos disfarces
+2088523610	Existem dois disfarces para Kate. Um de cada lado.
+1338189044	Liberte-o.
+517534915	Hector está amarrado.
+1637125480	Reagrupar
+952742878	Obtenha uma visão geral da situação.
+768062827	(Opcional) Liberte os outros
+1475641737	Kate e Isabelle também foram levadas. Ajude-as.
+553591077	Isabelle livre.
+385299029	Isabelle foi levada para o acampamento.
+1406301094	Kate livre
+1098391272	Kate é mantida dentro daquela pequena vila de pueblo.
+218715850	Equipamento de Hectors
+1463117912	Pegue o equipamento dele.
+1896713945	Vibração
+1275925138	Suas configurações de entrada personalizadas foram corrompidas e não podem ser carregadas. O arquivo será excluído.
+130937372	Ladrão
+1231495639	Transformar
+417414224	Alterne entre os modos de mine vagão e metralhadora.
+2043069599	Modo de Gráficos
+979342887	Modo de Desempenho
+1061026314	Prioritizes stable performance. Renders the game at 1080p resolution.
+251777897	Modo de Resolução
+123492416	Prioriza resoluções mais altas. Substitui a sua resolução de tela se ela não suportar 4K.
+20238496	Um civil foi morto.
+1431837803	Exclusivo
+1552323699	Sem bordas
+2089642635	Conversa
+1653596580	Converse com um inimigo para ele manter os olhos focados em você.
+560450859	Mover Câmera
+1774174796	Vamos fazer isso mais tarde, ok?
+1154049762	Desculpe querida, não posso agora.
+238564817	Vamos fazer isso mais tarde, ok?
+1029811449	Desculpe querida, não posso agora.
+529306080	Obrigado por jogar o Desperados III Demostração!
+641702397	Siga sua aventura no jogo de onde você parou!/nVá para o menu de opções e digite <b><hotkey>"lonerider"</hotkey></b> para ativar a trapaça, ou use o D-Pad: <b><hotkey> "DIREITA, DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
+1247312339	Obtenha a versão completa do Desperados III agora!
