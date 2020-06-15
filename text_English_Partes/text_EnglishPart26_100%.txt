@@ -136,7 +136,7 @@
 747852420	Agora está certo.
 832587387	...!
 2064956481	...! Estou pegando fogo!
-655119952	...! Demonios!
+655119952	...! Demônios!
 1608163689	...
 1948237296	... Me desculpe Belle...
 2022916049	...
@@ -247,13 +247,13 @@
 2145343898	Jesus!
 1145862353	De quem são as impressões?
 2039670254	Nunca vi essas impressões antes.
-922278027	Who's leaving tracks here?
-775273509	Cover your tracks, asshole.
+922278027	Quem está deixando rastros aqui?
+775273509	Cubra seus rastros, imbecil.
 547990825	Hein? Quem deixou esses rastros.
 2105733003	Merda. A luz se apagou.
 303048122	Quem deixou a luz se apagar?
 1675257843	Pare de foder com a luz.
-238894129	Humm, bem, bom que eu tenho fósforos.
+238894129	Hum, bem, bom que eu tenho fósforos.
 1351631991	Vamos! Novamente com a luz?
 705618844	Seu desgraçado!
 178985856	Você está morto!
@@ -310,7 +310,7 @@
 639425684	Eles mataram o prefeito!
 837374778	Você matou Higgins!
 1816901539	Há mais deles!
-1521811642	Holy shit! Ambush!
+1521811642	Puta merda! Emboscada!
 1449572073	Eles estão nos cercando!
 375478885	Invasão, hein?!
 1025328244	Você não tem negócios aqui!
