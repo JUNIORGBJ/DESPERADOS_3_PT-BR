@@ -2644,29 +2644,29 @@ Japanese	Japonês
 1301401938	Você deveria tê-la visto. Todo maltratado e enferrujado. Eu tive que polir, limpá-la, lubrificá-la ...
 343744116	Acho que já ouvi o suficiente, obrigado.
 742161955	Hah, esta é a vida.
-213146842	I could do without the rain.
-599790691	Come on, Doc. Tell me you're not enjoying this.
-1154062258	I didn't say that.
-1948173722	There's oil in that water.
-623908820	That's one of the oil puddles. All we need is to light it up.
-425982982	There's a bonfire over there.
-455958343	Walking through that puddle is gonna make noise.
-1459319665	He dropped the torch again.
-72749159	Geez, it's so slippery out here.
-1234373977	Heh, burns nice.
-746294964	That'll do for a torch.
-1211013687	Careful. They'll be able to see us now.
-131526907	Lights out. Don't want to burn our cover.
-1080289664	Gotta lose the torch, or our cover will go up in flames.
-604169385	First Long Coat goes to me.
-958345947	I take the second Long Coat.
-306293937	There goes the third Long Coat.
-1536962921	That makes four Long Coats.
-1410937923	Got the first Long Coat!
-137940519	Hah! Second Long Coat is mine.
-839847499	That's the third Long Coat, right?
-921485834	That makes, uh...four Long Coats.
-960604760	That's another one.
+213146842	Poderia continuar sem chuva.
+599790691	Vamos, Doc. Diga-me que você não está gostando disso.
+1154062258	Eu não disse isso.
+1948173722	Há óleo nessa água.
+623908820	Essa é uma das poças de óleo. Tudo o que precisamos é acende-las.
+425982982	Há uma fogueira ali.
+455958343	Andar por aquela poça vai fazer barulho.
+1459319665	Ele largou a tocha novamente.
+72749159	Nossa, é tão escorregadio aqui.
+1234373977	Heh, parece ótimo.
+746294964	Isso servirá como uma tocha.
+1211013687	Cuidado. Eles poderão nos ver agora.
+131526907	Luzes desligadas. Não vamos queimar nosso esconderijo.
+1080289664	Deixe a tocha ou nossa cobertura vai para o inferno.
+604169385	Primeiro casaco longo para mim.
+958345947	Pego o segundo casaco longo.
+306293937	Lá se vai o terceiro Casaco Longo.
+1536962921	Com isso são quatro casacos longos.
+1410937923	Eu peguei o primeiro casaco longo!
+137940519	Hah! O segundo casaco longo é meu.
+839847499	Esse é o terceiro casaco longo, certo?
+921485834	Com isso são quatro casacos longos.
+960604760	E outro.
 1970225901	Hah! And another.
 1922131533	How many more are there?
 716207941	Think that's enough. Let's meet up. I wanna check on something.
