@@ -16892,23 +16892,23 @@ Japanese	Japonês
 1763085498	Meta 4
 782371726	O superintendente nos campos.
 903657723	A chave do portão
-1557739138	The key to open the gate is held by the guard next to it.
-2019136603	This is the Headhunter
-503736148	This was the Headhunter
-2003745405	Regroup at the main gate
-631053090	Make your way to the main gate and escape.
-1681926345	Silhuetas de personagens
-554268524	Ativa silhuetas para personagens ocultos atrás da geometria./nNOTA: Mesmo se desativado, os personagens ocultos atrás da geometria ainda podem ser selecionados.
-1772227058	Replay files are partially corrupted. Visual errors may occur during replay.
-736970267	Replay files are fully corrupted. Replay cannot be displayed.
-558911311	On the Hunt
-1967074360	Trust me, he says. It'll work this time, he says. Yeah right.
-1917499803	And they got him too. Great. Better get him out of there or we're all screwed.
-1340799740	Okay. No knife. No ammo. No big deal.
-1207181453	Help Hector
-926597516	His plan didn't play out so well.
-1679224301	Get inside Eagle's Nest
-1546645602	Blowup the gate with the cannon.
+1557739138	A chave para abrir o portão está com o guarda.
+2019136603	Caçador de Recompensas
+503736148	Esse é o caçador de recompensas
+2003745405	Reagrupar no portão principal
+631053090	Caminhe para o portão principal e escape.
+1681926345	Contornos de personagens
+554268524	Ativa contornos para personagens ocultos atrás de objeto./nNOTA: Mesmo desativado, os personagens ocultos atrás de objetos ainda podem ser selecionados.
+1772227058	As gravações estão parcialmente corrompidas. Erros visuais podem ocorrer durante a reprodução.
+736970267	As gravações estão totalmente corrompidas. Não será possível a reprodução.
+558911311	Na caçada
+1967074360	Ele disse, confie em mim. Vai dar certo dessa vez. ok.
+1917499803	E eles o pegaram também. Ótimo. Melhor tirá-lo de lá ou estamos todos ferrados.
+1340799740	OK. Sem faca. Sem munição. Nada demais.
+1207181453	Ajude Hector
+926597516	Seu plano não funcionou tão bem.
+1679224301	Entre no Ninho da Águia
+1546645602	Exploda o portão com o canhão.
 1150337893	Bala de canhão
 891108364	Carregue o canhão primeiro.
 1349306174	Tiro no portão
