@@ -2,6 +2,8 @@
 
 *Meu-email: Gilson.gbj@gmail.com*
 
+### :warning:Atençao:warning:: Use o chat do Discord para informar a parte que queira traduzir.
+
 <h1 align="center"><figure>
   <img src="DesperadosIII.png">
 </figure></h1>
