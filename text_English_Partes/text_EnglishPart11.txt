@@ -59,158 +59,158 @@
 1263360932	A mulher escondeu todo esse dinheiro?
 564428196	Aposto que ela também cuidou de nossas bebidas.
 1818976632	Pelo menos, não o deixamos escapar disso.
-158535185	Well, if she was here, she's long gone, now.
-726437457	Hey, where'd she go?
-675688247	What's that? Looks like a letter.
-776162675	Ahh...help me out here.
-2111783617	Uh...here. You read it.
-776568948	"So long, fellas. Been a pleasure drinking with you. Stay out of jail. Until next time."
-661332741	Now there's a woman after my own heart.
-165532200	I bet she put something in our drinks. That was one hell of a night.
-1089721530	I got enough of this town. Let's catch that riverboat.
-407763384	You took your sweet time.
-393908923	Just get us out of here.
-1651580696	Fine day for a river ride.
-1426800689	Thank you sir, for waiting for us.
-902999577	I am chargin' you double, now.
-1467735642	All aboard!
-550166924	Know someone with toothache?
-242393163	I can pull your teeth no problem.
-254675861	Need a dentist, he he he?
-57218185	My tooth really hurts.
-278526034	I can't chew anything. 
-1866215532	Argh, my tooth.
-254904447	Ahh...a customer! Let's get to work.
-1524732424	W-w-wait! Ahhh, ooowaaaaaaaaah!
-353958600	What's Going On?
-1302257551	Ugh...what the hell happened last night? All right...you gotta find the others.
-315240867	Where's Cooper?
-18692113	What? How'd he get up there? Well...you better wake him up.
-293224231	Where's Kate?
-2145455900	Huh? What's she doing over there? Hope she's okay... Let's wake her up.
-1894810900	Okay, We Gotta Talk...
-1569792280	All right, uh... You should regroup and...talk about...things.
-1051569863	Where the Hell is Doc?!
-49800793	He's gotta be somewhere...right? You gotta find him. Ask around. Well, not ask around but...you know... Just find him, okay?
-2007094801	Let's Get the Hell Out of Here... 
-396670543	Oh yeah, the captain's waiting... Well, you better get everyone on board.
-1458824417	Have you heard the rumors lately? They say the devil has come to Baton Rouge. Or maybe it was swamp witches. Hard to keep them apart, am I right?
-601705098	Anyway, your targets today will be simple men. Siblings, in fact. All part of one big family. And who would tear family apart?
-1019050481	My clients want to see you dispose of them. Every last one. The catch? You won't know who you're looking for.
-1310209373	Take a good look at this man. His clothes, his hair, his skin. He looks exactly like your targets. Use this to find them.
-91495061	Keep your eyes open. Make sure you catch them all. Rest assured: My clients will be watching.
-62092261	Nothing like a good hunt to brighten the spirits. My clients are most entertained. Well done.
-1903982346	Look at all that plunder.
-1740736829	All right DeVitt. Let's see what you keep in here.
-41497864	Marshal Wayne.
-362786850	I see you're trespassing on private property.
-1217983166	Last I recall you need a warrant for that.
-2078537816	I don't need a warrant for crooks like you Frank.
-1045160565	Just come with us quietly.
-175133016	I'd prefer we settle this like in the good old days.
-1304765288	Too bad this is not how it's done anymore.
-975110150	I think that's the leash around your neck doing the talking.
-606901809	Is that right?
-537400045	Hey, DeVitt wants the marshal alive, remember?
-1017739857	Shut up.
-633924663	Come on, Frank, think about the money.
-898817121	Right...the money.
-280696478	Gah!
-636272268	That's all that matters is it?
-1788403313	Frank, please, I just...
-623899726	Bring the marshal to the others.
-604011281	Move it...
+158535185	Bem, se ela estava aqui, ela se foi há muito tempo.
+726437457	Ei, onde ela foi?
+675688247	O que é isso? Parece uma carta.
+776162675	Ahh... me ajude aqui.
+2111783617	Aqui... Você leu isso.
+776568948	"Adeus amigos. Foi um prazer beber com você. Não fiquem viciados. Até a próxima".
+661332741	Essa mulher é uma das minhas.
+165532200	Aposto que ela colocou algo em nossas bebidas. Essa foi uma noite infernal.
+1089721530	Eu me cansei desta cidade. Vamos pegar aquele barco no rio.
+407763384	Eles pegaram leve.
+393908923	Apenas tire-nos daqui.
+1651580696	Um Bbm dia para um passeio no rio.
+1426800689	Obrigado senhor, por nos esperar.
+902999577	Agora vou cobrar em dobro.
+1467735642	Todos a bordo!
+550166924	Conhece alguém com dor de dente?
+242393163	Eu posso arrancar seus dentes sem problemas.
+254675861	Você precisa de um dentista? Heh heh heh.
+57218185	Meu dente dói mesmo.
+278526034	Não consigo mastigar nada. 
+1866215532	Argh, meu dente.
+254904447	Ah, um cliente! Mãos à obra.
+1524732424	E-e-espera! Ahhh, ooowaaaaaaaaah!
+353958600	O que está acontecendo?
+1302257551	Ugh... o que diabos aconteceu ontem à noite? Tudo bem... você tem que encontrar os outros.
+315240867	Cadê o Cooper?
+18692113	O que? Como ele chegou lá em cima? Bem... é melhor você acordá-lo.
+293224231	Cadê a Kate?
+2145455900	Hã? O que ela está fazendo ali? Espero que ela esteja bem... Vamos acordá-la.
+1894810900	Ok, precisamos conversar...
+1569792280	Tudo bem, você deve se reagrupar e... falar sobre... coisas.
+1051569863	Onde diabos está o Doc ?!
+49800793	Ele tem que estar em algum lugar... certo? Você precisa encontrá-lo. Pergunte por aí. Bem, não pergunte por aí, mas... você sabe... Apenas encontre-o, ok?
+2007094801	Vamos dar o fora daqui... 
+396670543	Oh sim, o capitão está esperando... Bem, é melhor você colocar todos a bordo.
+1458824417	Você já ouviu os rumores ultimamente? Dizem que o diabo chegou a Baton Rouge. Ou talvez fossem bruxas do pântano. Difícil mantê-los separados, estou certo?
+601705098	De qualquer forma, seus alvos hoje serão homens simples. Irmãos, de fato. Tudo parte de uma grande família. E quem destruiria a família?
+1019050481	Meus clientes querem ver como você se livra deles. De todos. Pegada? Que você não saberá quem está procurando.
+1310209373	Uma dica: todo mundo está vestindo as mesmas roupas. Uma tradição familiar, que será bastante letal... para eles.
+91495061	Mantenha seus olhos abertos. Certifique-se de pegar todos eles. Tenha certeza: meus clientes estarão assistindo.
+62092261	Nada como uma boa caçada para alegrar os espíritos. Meus clientes estão mais entretidos. Muito bem.
+1903982346	Olhe para todos aqueles objetos roubados.
+1740736829	Tudo bem, DeVitt. Vamos ver o que você guarda aqui.
+41497864	Oficial Wayne.
+362786850	Vejo que você está invadindo propriedades particulares.
+1217983166	Que eu saiba, é necessário um mandado de busca para isso.
+2078537816	Não preciso de um mandado para bandidos como você, Frank.
+1045160565	Apenas venha conosco em silêncio.
+175133016	Eu preferiria resolver isso como nos bons velhos tempos.
+1304765288	Pena que não é mais assim que é feito.
+975110150	Eu acho que é a corda em volta do seu pescoço falando.
+606901809	Isso está certo?
+537400045	Ei, DeVitt quer o oficial vivo, lembra?
+1017739857	Cale-se.
+633924663	Vamos, Frank, pense no dinheiro.
+898817121	Certo... o dinheiro.
+280696478	Agh!
+636272268	É só isso que importa?
+1788403313	Frank, por favor, eu apenas...
+623899726	Leve o oficial com os outros.
+604011281	Andando...
 635756145	*coughs*
-1027025207	So much for the good old days.
-138737026	Good old days are long gone, Marshal.
-630355938	You really believe that, huh.
-1657864457	Get him out of my sight...
+1027025207	Lembro dos velhos tempos.
+138737026	Os bons velhos tempos já se foram, oficial.
+630355938	Você realmente acredita nisso, hein.
+1657864457	Tire isso da minha frente...
 213060420	VO TRACK
-1912159611	Hey Daryll. Look what I found in the weeds!
-86365993	Get your fucking hands off o' me!
-946623598	You're gonna regret this.
-1341354661	Yeah yeah, whatever.
-1531361559	Careful, Daryll. Maybe she's one of these swamp witches.
-886565052	Yeah and I'm the fucking president.
-174109963	Now get back to your post.
-1573593877	Swamp witches...
-2026062108	How about it? You gonna put a spell on me?
-2060987128	Didn't think so.
+1912159611	Ei Daryll. Olha o que eu achei no mato!
+86365993	Tire suas malditas mãos de mim!
+946623598	Você vai se arrepender disso.
+1341354661	Sim, sim, tanto faz.
+1531361559	Cuidado, Daryll. Talvez ela seja uma dessas bruxas do pântano.
+886565052	Sim, e eu sou a porra do presidente.
+174109963	Agora volte ao seu posto.
+1573593877	Bruxas do pântano...
+2026062108	Que tal isso? Você vai me enfeitiçar?
+2060987128	Eu já imaginava.
 1824889548	VO TRACK
-887394692	Shit. I must be getting old. And the damn cat left me hanging too.
-515828510	All right Isabelle, focus. Gotta get your ass back to Wayne.
-1395829384	Hmm, let's see...
-1738446069	DeVitt's men are everywhere. Better take things slow.
-2054698991	Can't hurt to get a lay of the land. That ledge up there looks like a good vantage point.
-716578289	But first I gotta get out of this cage.
-927238604	Let's see who is going to help me with that.
-1273773824	Don't fuss—we'll take care of you real soon, heh heh.
-1997127505	Look at you, all riled up in that little cage, hahaha.
-1241511868	Go ahead, witch! Put a curse on me, if you dare! Hah!
-1488386937	Get the boat ready, Liz.
-438357744	I'm trying. Gotta fix that hole first.
-1482365472	Well hurry the fuck up. I wanna get 'em to the Nest.
-307372758	How's the boat?
-1800497329	Still leakin' like a sieve.
-1578357944	Keep at it. I wanna show our catch to DeVitt.
-1551555474	Are you done, yet?
-1550750422	What's the matter, Darryl? She scare you?
-1656789026	I don't like that look she's giving me, that's for sure.
-1394711310	I gotta snatch one of them. This is gonna hurt.
-49604125	Come on girl. You ain't getting out of here on your own.
-377166474	I need a puppet. Just gotta figure out who to pick...
-433826434	Gotcha. Now, what can you do for me...
-799766794	Sleep tight. You won't remember a thing.
-1965927973	That wasn't it. Need to try again.
-1472513839	Shit! Missed it again.
-1256572982	I'm real tired. Only got one more in me.
-547548841	I'm too drained out. Gotta take some jimson.
-1751378118	I'm running out of people here.
-1497677336	There goes my last chance. How the hell am I gonna get out now?
-436142430	And...thank you very much!
-728288178	Wonder what else can you do...
-963212677	All right. Now let's head for that ledge...
-2043091614	Shit, I'm spent. Better take some jimson.
-1893654894	Gonna fix me right up.
-2072218224	I'll need more venom darts if I wanna make more puppets.
-1836229435	Now what are the chances there's some in that crate.
-140698329	Heh, would you look at that. Guess this day ain't all bad.
-1762427299	What?!
-134414187	No, no, no! Where the hell is she?
-1114252122	We gotta find her!
-101664155	Wait! I gotta head up that ledge first.
-1505814395	One down here, one up there. I'll just take 'em both.
-607767100	Stella! There you are!
+887394692	Merda. Eu devo estar ficando velho. E o maldito gato me deixou pendurado.
+515828510	Tudo bem, Isabelle, foco. Você tem que voltar para Wayne.
+1395829384	Hmm, vamos ver...
+1738446069	Os homens de DeVitt estão por toda parte. Melhor não se apressar.
+2054698991	Não vai doer se familiarizar com o terreno. Esse morrinho parece ser um bom ponto estratégico.
+716578289	Mas primeiro eu tenho que sair dessa jaula.
+927238604	Vamos ver quem vai me ajudar com isso.
+1273773824	Não se preocupe - nós cuidaremos de você em breve, heh heh.
+1997127505	Olhe para você, toda irritada nessa pequena gaiola, hahaha.
+1241511868	Vá em frente, bruxa! Ponha uma maldição em mim, se tiver coragem! Hah!
+1488386937	Prepare o barco, Liz.
+438357744	Estou tentando. Preciso consertar esse buraco primeiro.
+1482365472	Bem se apresse. Eu quero te levar para a cidade.
+307372758	Como está o barco?
+1800497329	Ainda vazando como uma peneira.
+1578357944	Continue com isso. Mal posso esperar para mostrar a Frank nossa presa.
+1551555474	Você já terminou?
+1550750422	Qual é o problema, Darryl? Ela te assusta?
+1656789026	Eu não gosto do jeito que ela me olha.
+1394711310	Eu tenho que pegar um deles. Isto vai doer.
+49604125	Vamos garota. Você não vai sair daqui por conta própria.
+377166474	Eu preciso de um fantoche. Só tenho que descobrir quem escolher...
+433826434	Peguei vocês. Agora, o que você pode fazer por mim...
+799766794	Durma bem. Você não vai se lembrar de nada.
+1965927973	Não fui bem. Precisa tentar novamente.
+1472513839	Merda! Perdeu novamente.
+1256572982	Estou muito cansado. Somente mais uma vez.
+547548841	Estou muito esgotado. Eu preciso de um pouco de estramônio
+1751378118	Estou ficando sem pessoas aqui.
+1497677336	Lá se vai minha última chance. Como diabos eu vou sair agora?
+436142430	E muito obrigado!
+728288178	Eu me pergunto o que mais eu posso fazer...
+963212677	Tudo certo. Agora vamos para o alto...
+2043091614	Porra, estou esgotada. eu preciso de um estramônio.
+1893654894	Vou me curar.
+2072218224	Vou precisar de mais dardos de veneno se quiser fazer mais bonecos.
+1836229435	Agora, quais são as chances de que haja algumas nessa caixa.
+140698329	Heh, o que você acha? Não será um dia tão ruim.
+1762427299	o que?!
+134414187	Não não não! onde diabos ela está?
+1114252122	Temos que encontrá-la!
+101664155	Um momento! Antes que eu tenha que subir nesse alto.
+1505814395	Um aqui em baixo, outro lá em cima. Eu vou pegar os dois.
+607767100	Stella! Aí está você!
 1324229316	*meows*
-1340327729	You got some nerve leaving me hanging like that.
+1340327729	Você tem coragem de me deixar pendurada assim.
 710285020	*purrs*
-1547392648	Nah ah. You're gonna make it up to me right now.
-1799290202	Made it. Now let's get the lay of the land.
-853332837	So, let's see what's happening over there. Looks like they caught themselves a little steamboat.
-1708763328	That cowboy there is holding his own for now. He's gonna run out of luck eventually.
-180287954	Now was he alone? Or did he have a crew?
-1775302398	They're looking for someone at that house. I bet someone's hiding out there.
-1521339902	Now, that big guy looks freshly caught. Wasn't easy I bet. He has eyes on him from all angles.
-819339280	They got a pretty lady, too! Odd collection of characters from that boat.
-972713066	These fellas are gonna get sold off by the company if we don't do something.
-2069640301	The company's gonna sell off their asses if we don't do something.
+1547392648	Ah ah. Você vai me compensar agora.
+1799290202	Consegui. E agora para sondar o térreo.
+853332837	Então, vamos ver o que está acontecendo por lá. Parece que eles pegaram um pequeno barco a vapor.
+1708763328	Aquele cowboy lá está se segurando por enquanto. Ele ficará sem sorte eventualmente.
+180287954	Ele estava sozinho? Ou ele tinha uma equipe?
+1775302398	Eles estão procurando alguém naquela casa. Aposto que alguém está escondido lá.
+1521339902	O grande parece ter sido capturado recentemente. Com certeza não foi fácil.
+819339280	E eles têm uma menina bonita! Que grupo estranho daquele navio.
+972713066	Esses caras serão vendidos para a companhia se não fizermos algo.
+2069640301	A companhia vai vendê-los se não fizermos algo.
 1636805222	*meows*
-1856030066	Doesn't really matter who we help first. But startin' with that cowboy wouldn't hurt.
-572815002	Once we save everyone, we'll make our exit.
+1856030066	Realmente não importa quem ajudamos primeiro. Mas começar com aquele cowboy não seria mal.
+572815002	Quando salvarmos todos, faremos nossa saída.
 2129583524	*meows tiredly*
-597420665	Now, you best pull your weight, if you wanna have stew tonight.
+597420665	Bem, você faz a sua parte, se quiser ensopado hoje à noite.
 676580666	*meows enthusiastically*
-462644112	That sounds more like it.
-956686779	Hrrr, I hate cages.
-762618179	Why they all so scared of me.
-234061572	Swear they'd shoot me if I so much as farted.
-842489044	This sure doesn't look good.
-971666701	Maybe I should have stayed in Colorado.
-301719751	If they so much as lay a hand on me...
-649581872	The boat and the house look less crowded. Maybe I'll go there first.
-1915152557	Okay, let's help out the cowboy.
-609887066	Let's look around that house.
-1960415117	This is where they keep the big guy.
+462644112	Isso está melhor.
+956686779	Hrrr, eu odeio gaiolas.
+762618179	Por que todos eles têm tanto medo de mim.
+234061572	Juro que eles atirariam em mim se eu peidasse.
+842489044	Isso com certeza não parece bom.
+971666701	Talvez eu devesse ter ficado no Colorado.
+301719751	Se eles colocarem a mão em mim...
+649581872	O barco e a casa parecem menos lotados. Talvez eu vá lá primeiro.
+1915152557	Ok, vamos ajudar o cowboy.
+609887066	Vamos dar uma olhada naquela casa.
+1960415117	É aqui que eles mantêm o grandalhão.
 718322838	There's the lady in her cage.
 1034632180	There's Cooper. Looks like they got him pinned down.
 194195716	Look! There's Cooper. Those bastards have him pinned.
