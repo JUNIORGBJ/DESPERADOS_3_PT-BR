@@ -198,7 +198,7 @@
 1794102132	Um mensageiro passa por você sem dizer uma palavra, rapidamente ele coloca uma nota um pouco amassada em sua mão, na caligrafia do Barão./n/n “Me disseram que sua recente visita ao rancho de O'Hara foi espetacular. Caso esteja interessado, um novo desafio o espera por lá.”/n/n Você se vira para pegar o mensageiro, mas ele já desapareceu na multidão.
 1275070322	Você voltou ao rancho O'Hara para o último desafio do barão. Sua tarefa é matar todos os alvos sem usar nenhuma de suas armas. Em vez disso, você deve usar sua criatividade descartá-los.
 1120194126	Três homens sem nome
-2002330802	Uma janela de uma carroagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
+2002330802	Uma janela de uma carruagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
 251713547	Você fez uma viagem a Baton Rouge, onde outro dos desafios do Barão o aguarda. Ele quer que você carregue os cadáveres de três alvos para os caixões no banco. Mas você não sabe quem eles são, apenas que eles são idênticos a uma determinada pessoa.
 724854570	Trigêmeos com armadilha para ursos
 2094260086	Caminhando ao longo da costa, você encontra uma velha garrafa de uísque meio enterrada na areia. Dentro há um pedaço de papel molhado, marcado com o selo do Barão./n/n “Nas margens do Mississippi, você pode encontrar muitas coisas. Escravos, emboscadas, novos aliado... E se desta vez eu fizer um novo desafio para você?/n/n Você olha em sua volta procurando alguém que possa ter colocado a garrafa, mas não vê ninguém.
@@ -245,10 +245,10 @@
 217894750	Você não precisa terminar uma missão na primeira jogada. Você pode salvar a qualquer momento e retornar mais tarde com uma mente renovada.
 1548642496	Personalizar dificuldade
 309547960	Comportamento Alvo
-1192375393	Your target won't fall for lures and is resistant to distractions.
-1919598581	Target Behavior
-1107586089	Your target won't fall for lures and is resistant to distractions.
-1242910510	Good day. I'm the Bergdoktor.
+1192375393	Seu alvo não cairá nas iscas e é resistente a distrações.
+1919598581	Comportamento Alvo
+1107586089	Seu alvo não cairá nas iscas e é resistente a distrações.
+1242910510	Dia bom. Eu sou o Bergdoktor.
 455511559	Cancelar: {0}
 294017721	Executar: {0}
 2031709440	Desafio do Barão
@@ -272,9 +272,9 @@
 1097308533	Movimento da câmera WASD
 1871084952	Esse é baseado no esquema de controle Desperados III em relação à seleção de movimento e personagem. Foi alterado para permitir o movimento da câmera com as teclas WASD em vez das teclas de seta.
 16149401	Cancelar Objetivo
-831023586	Eagles Nest Nome abreviado
-713446544	Eagles Nest Nome completo
-106877485	Eagles Nest Descrição
+831023586	Eagles Nest Shortname
+713446544	Eagles Nest Fullname
+106877485	Eagles Nest Description
 1221080576	Plantation Shortname
 392609880	Plantation Fullname
 1438007870	Plantation Description
@@ -282,33 +282,33 @@
 695077169	Hacienda Daylight Fullname
 265455246	Hacienda Daylight Description
 621937644	DLC
-439942642	Wireless Controller Aim Speed
-2027151249	Wireless Controller Axis Threshold
-626213254	Adjusts the threshold for wireless controller stick movement recognition.
+439942642	Velocidade da mira do controle sem fio
+2027151249	Limite do eixo do controle sem fio
+626213254	Ajusta o limite para o reconhecimento de movimento do stick do controle sem fio.
 1475577154	Mudar personagem
 1109017931	Restless Ann
-879765268	Really?
-465571489	Active Wireless Controller
-1266674654	Select which wireless controller you want to use for input.
-669018033	This alternative control scheme is only relevant for mouse & keyboard users.
-1875520036	Disguise
-1489351884	Kate can get a disguise here.
-1839200631	Environment Kill
-1427780181	This object can be used to create an accident.
+879765268	Mesmo?
+465571489	Controle sem fio ativo
+1266674654	Selecione qual controle sem fio você deseja usar.
+669018033	Esse esquema de controle alternativo é relevante apenas para usuários de mouse e teclado.
+1875520036	Disfarce
+1489351884	Kate pode obter um disfarce aqui.
+1839200631	Morte pela natureza
+1427780181	Este objeto pode ser usado para criar um acidente.
 1236964701	Salvar/Carregar sons
 750239754	Ativa efeitos sonoros para salvar e carregar o jogo.
 1544087171	Conteúdo da caixa (Marca-texto)
 622041107	Determina se o conteúdo da caixa de munição é visível quando a função marca-texto está ativa.
-896927936	Throw Body
-17267270	Throw the body/bodies you are carrying.
-821428773	Throw Torch
-588915567	Throw the torch you are carrying.
-2139804794	Return the money to the bank.
-266598463	Free Doc before waking up the others.
-27082783	Don't use the bank's backdoor.
-1236382342	Kill {0} guards.
-1821780181	Not-Bianca
-620431163	Place Not-Bianca (rake). Knocks out the first enemy who steps on it. Needs to be picked up again.
+896927936	Arremessar corpos
+17267270	Arremesse corpos / corpos que você esteja carregando.
+821428773	Arremessar tocha
+588915567	Arremesse a tocha que você esteja carregando.
+2139804794	Devolva o dinheiro ao banco.
+266598463	Livre Doc antes de acordar os outros.
+27082783	Não use a porta dos fundos do banco.
+1236382342	Mate {0} guardas.
+1821780181	Bianca
+620431163	Coloque Bianca (Armadinha de Urso). Derrube o primeiro inimigo que pisar nela. Você tem que buscá-la novamente.
 1139064368	Ativar legendas?
 430465293	Deseja ativar as legendas? Você pode ajustar as configurações das legendas com mais detalhes no menu de opções.
 1880366148	Concluído
@@ -326,14 +326,14 @@
 1778748410	Eles colocaram o homem rabugento em uma gaiola. Tire-o lá.
 837906021	Chegue a um cavalo
 297038480	Ajude o homem rabugento a montar em um dos cavalos para que ele possa escapar.
-857259210	You see, in this world, there's two kinds of people, my friend –  those with loaded guns, and those who dig. Someone told me that, a long time ago. His name always slips my mind.
-1826507205	No matter. Today, you will put those words to the test. I have taken away all your weapons, except for your guns.
-1568115959	Your must kill every single guard in this place. Things are about to get wild. Keep an eye on your ammunition and look for crates to restock.
-188031238	Your gang is scattered. Grouping up would be a wise course of action. There's only so much one can do alone.
-1486647311	Show me what you're made of. Win, and you're worthy of those guns. Lose, and you'll  end up digging. Either way, my clients are watching.
-371961743	Kill Everyone ({0} of 80)
-1299833010	Use your guns to clear the map of all  guards, including alarm guards.
-1473429113	Ammo Crate
-971301613	Keep an eye out for ammo crates. You'll need the extra rounds.
-2014096389	Train Ride
-1517526124	You might be able to ride on top of the train. If you are fast enough, that is.
+857259210	Veja, neste mundo, existem dois tipos de pessoas - aqueles com armas carregadas e aqueles que cavam. Alguém me disse isso, há muito tempo. Seu nome sempre vem na minha mente.
+1826507205	Não tem importância. Hoje vamos testar suas palavras. Tirei todas as suas armas, exceto as pistolas.
+1568115959	Você deve matar todos os guardas deste lugar. As coisas estão prestes a ficar selvagens. Fique de olho em sua munição e procure caixas para reabastecer.
+188031238	Seu grupo está disperso. Reagrupar seria um bom plano de ação. É muito coisa pra se fazer sozinho.
+1486647311	Mostre-me do que você é feito. Ganhe e você será digno dessas armas. Perca, e você vai acabar cavando. De qualquer maneira, meus clientes estão assistindo.
+371961743	Mate todos ({0} de 80)
+1299833010	Use suas armas para remover todos os guardas do mapa, incluindo os guardas de alarme.
+1473429113	Caixa de munição
+971301613	Fique de olho nas caixas de munição. Você precisará de rodadas extras.
+2014096389	Viagem de trem
+1517526124	Você pode andar em cima do trem. Se você for rápido o suficiente, é claro.
