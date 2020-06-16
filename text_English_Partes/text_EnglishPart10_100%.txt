@@ -136,10 +136,10 @@
 73252538	Eu tenho que encontrar outro jeito.
 1179369332	Estou indo, pai.
 662144497	James Cooper, não é? Nunca ouvi falar de você.
-6099812 Pergunto quem o recrutou. Foi aquele tolo, do xerife?
+6099812	Pergunto quem o recrutou. Foi aquele tolo, do xerife?
 154832828	Veio até mim sozinho. Você deve ter certeza de si mesmo.
 652404764	Estou cheio disso. Qual é a minha recompensa hoje em dia?
-1160052742	Não importa, suponho ... Você não vai receber.
+1160052742	Não importa, suponho... Você não vai receber.
 689138457	Eu tenho uma pergunta para você que poderia acabar com seu sofrimento.
 496735119	Você é um tolo, mas não o suficiente para vir sozinho.
 993438516	Diga-me, quantos vieram com você?
@@ -157,7 +157,7 @@
 1157756567	O nome é John Cooper e eu vou matar você!
 652495633	Isso está certo? E como você vai fazer isso?
 1228726418	Apenas deixe-o fora disso.
-1546012519	Você sabe, no meu tempo ...
+1546012519	Você sabe, no meu tempo...
 1226585155	... a primeira coisa que um pai ensinou ao filho foi como disparar um Colt.
 815966713	Seu desgraçado! 
 2079824983	Um bom tiro, garoto.
@@ -177,18 +177,18 @@
 1470247001	E onde diabos estão os outros?
 210326211	Tudo bem, primeiro as coisas primeiro.
 1083621896	Bom dia Hector.
-1766685889	Bom dia ... senhorita.
+1766685889	Bom dia... senhorita.
 251244019	Essa foi uma noite infernal.
-488904519	Na verdade ... eu nem me lembro de como cheguei aqui ... ugh ...
+488904519	Na verdade... eu nem me lembro de como cheguei aqui... ugh...
 1930594328	... ou como nos conhecemos.
 2121783391	Hehe, você não se lembra de nada, lembra?
 1631687239	Sou Rosie, a esposa do xerife.
-693817541	Eu ... preciso mesmo encontrar meus amigos agora.
+693817541	Eu... preciso mesmo encontrar meus amigos agora.
 1981144447	Bianca...
 563836146	O que há de errado, querida? Perdeu alguma coisa no calor da noite?
 324536951	Você se importa se eu emprestar isso?
 923270363	Claro, mas apenas se você prometer devolvê-lo.
-2059420659	Ok Hector ... você pode fazer isso ...
+2059420659	Ok Hector... você pode fazer isso...
 439696658	Uh...ouça, me desculpe, mas...você sabe...eu realmente tenho que...
 725255672	tchau, Hector.
 1042899231	tchau.
@@ -204,12 +204,12 @@
 156226262	Espero que nos encontremos novamente algum dia.
 100047546	Minha cabeça está tocando como um sino de igreja.
 1783238342	Lama. Lama significa pegada. E eu tenho pés grandes.
-1673735055	Aquele cara ... ele está me procurando?
+1673735055	Aquele cara... ele está me procurando?
 1508570502	Ei, o que eu fiz para você ?!
 40883198	Merda, isso é ruim. É melhor eu encontrar os outros.
-1166266992	Ok ... você não é Bianca. O que você pode fazer?
+1166266992	Ok... você não é Bianca. O que você pode fazer?
 1223273402	Não é ruim. Você é um guardião!
-1958053994	Espere ... Aqui é onde nos separamos ...
+1958053994	Espere... Aqui é onde nos separamos...
 949532076	Você tem certeza que isso está certo?
 1907330953	Todos os sinais apontam para aqui.
 2135184052	O que você é, um moicano?
@@ -224,7 +224,7 @@
 189560826	Não se preocupe com isso. Nós os encontramos, atiramos neles.
 461826097	Ei amigo!
 478403291	Vamos Cooper! Levante-se e brigue!
-1021256014	Ugh ... Parece que fui chutado por um cavalo.
+1021256014	Ugh... Parece que fui chutado por um cavalo.
 530886839	Kate! Acorde.
 1344104697	Ei Kate! Você comigo?
 730046734	Deus! Minha cabeça está aberta.
@@ -245,7 +245,7 @@
 541275585	Bem, o que quer que tenha acontecido aqui, causamos uma boa impressão nos habitantes locais.
 517556967	Vamos encontrar Doc e dar o fora daqui.
 338942374	Eu também poderia usar um disfarce enquanto estamos nisso.
-437235839	Não parece que estamos negligenciando algo realmente importante ...
+437235839	Não parece que estamos negligenciando algo realmente importante...
 439599327	O barco! Ele disse que vai partir de manhã!
 1926548427	Ele fez agora. O bom homem ainda está esperando por nós.
 14030696	Mesmo assim, vamos nos apressar. Este não é um lugar para ser deixado para trás.
@@ -266,7 +266,7 @@
 971291333	Eu lhe digo que isso é apenas o começo.
 27656303	Quem seria capaz de calcular esse ângulo de ricochete?
 1850288950	Olhe para essas marcas. Isso era uma garra ou apenas um machado?
-2104481270	O cofre foi arrastado para cá? Ou ... foi ... caiu de algum lugar?
+2104481270	O cofre foi arrastado para cá? Ou... foi... caiu de algum lugar?
 193170982	Eu não acho que este é o trabalho dos humanos. Algo parece realmente errado.
 81079969	Isso é um canhão.
 930411529	Dê uma olhada naquele canhão. Ela é uma beleza.
@@ -294,7 +294,7 @@
 1406510762	Para que alguém precisa de dinheiro? O salão.
 843420653	Aposto que o uísque é ainda mais caro no inferno do que aqui em cima na Terra.
 39489661	Satanás roubando nosso pequeno banco. Isso não é apenas uma bobagem?
-56293856	Eu tenho um palpite de que está tudo conectado. Ele, as galinhas, Rosie ...
+56293856	Eu tenho um palpite de que está tudo conectado. Ele, as galinhas, Rosie...
 1916294871	Whoa, whoa, espera aí. Agora você está deixando sua imaginação te assustar.
 362876219	Por que eles quebraram o portão?
 462142916	Quem os criou? O diabo?
@@ -316,8 +316,8 @@
 272295453	Isso foi apenas o começo!
 321098349	O tempo do fim está chegando.
 1997996972	O mundo queimará e será lançado de novo.
-1797927460	E todo o bem e todo o mal ...
-1775735198	Todos os velhos e todos os novos ...
+1797927460	E todo o bem e todo o mal...
+1775735198	Todos os velhos e todos os novos...
 1798833391	Terá que permanecer no julgamento do Senhor!
 1327253338	Que ele tenha piedade de nossas almas.
 2006344400	O cofre foi arrancado da parede. O chão está coberto de pegadas.
@@ -326,8 +326,8 @@
 136615385	Como vamos trancar o diabo?
 868949280	Deveríamos ligar para o pastor. Ele saberá o que fazer.
 1594392271	Talvez. O xerife parece estar passando por cima de sua cabeça, ignorando nossas teorias e tudo.
-1479984106	Bem ... Acho que devemos deixar isso onde ele pertence.
-1356569465	Hmm ... Vamos deixar isso aqui para guardar em segurança.
+1479984106	Bem... Acho que devemos deixar isso onde ele pertence.
+1356569465	Hmm... Vamos deixar isso aqui para guardar em segurança.
 1009113621	É uma pena, mas isso não é nosso para a manutenção.
 1567772064	Se eu fosse Doc, onde estaria me segurando?
 1577477175	Ei, doutor. Você está aqui?

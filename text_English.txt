@@ -3187,7 +3187,7 @@ Japanese	Japonês
 73252538	Eu tenho que encontrar outro jeito.
 1179369332	Estou indo, pai.
 662144497	James Cooper, não é? Nunca ouvi falar de você.
-6099812 Pergunto quem o recrutou. Foi aquele tolo, do xerife?
+6099812	Pergunto quem o recrutou. Foi aquele tolo, do xerife?
 154832828	Veio até mim sozinho. Você deve ter certeza de si mesmo.
 652404764	Estou cheio disso. Qual é a minha recompensa hoje em dia?
 1160052742	Não importa, suponho ... Você não vai receber.
