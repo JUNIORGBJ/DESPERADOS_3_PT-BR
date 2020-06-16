@@ -240,100 +240,100 @@
 1696961317	Ele está me esperando em Nova Orleans. Eu estaria a caminho agora se não tivesse visto vocês.
 305241267	Wayne, não é? Seus amigos?
 1543882089	Amigo? Heh, sim, com certeza. Posso apresentá-lo se sairmos vivos daqui.
-415367732	Wayne? Pretty sure I've heard that name before.
-1381713793	Don't strain your head too much, Sunshine. You'll break it.
-1944581676	I'll find out soon enough.
-2062664918	Wayne? Someone I should know?
-1542455237	He's just the one who sent me here. Guess without him, you'd still be in that cage.
-1901270877	Gatling gun, huh? Made short work of that little dinghy. 
-605424394	Maybe we'll give 'em a taste of their own medicine.
-2031867883	Bah, that thing again.
-882846551	Guess you're familiar with the business end of that Gatling.
-1846748898	Yeah right, and I'm in the mood for revenge.
-369854531	You've read my mind, big guy.
-91209191	What the hell...
-2051295956	That's a Gatling gun. Never seen one before?
-779468741	Course I have! And this one...seems awfully familiar.
-954110533	You wanna give it a spin, be my guest.
-988172616	That thing...
-1749565000	Gatling gun. Ugly little machine, isn't it.
-1974939895	I wouldn't mind throwing it in the river.
-1493770634	Maybe we can get some use out of it first.
-182306948	These guys are like rats. Maybe the cowboy or head to the house first, get one to help me.
-1221124038	It's more crowded here than the boat and the house. Maybe I should head back.
-1553085149	Hey why aren't we using the Gatling gun?!
-900943188	Hands off! The boss goes crazy if you so much as touch it!
-658516183	I got him Casey! I think I got him!
-508731454	He's still shooting at us, damn fool!
-324970067	Dang it, Casey! I think he hit me! It's all red...
-320865517	You're wearing a red shirt, you idiot!
-225048499	Gah! My ears are ringing!
-1919633944	What did you say? I didn't catch that.
-687894890	Hey, let's wait until the boat sinks!
-1483628369	To hell with that! We're puttin' this fool in the ground.
-1602215951	How you doing up there, cowboy?
-435631254	Howdy miss. You mind helpin' me out here a little?
-345409256	Whatchu got in mind?
-1871676232	Taking out those two shooting at me can't hurt.
-1688850805	Heh, I'll see what I can do.
-305294730	Guess you're still breathing.
-1322983866	How's it going, amigo?
-1442504057	How are you doing up there, Cooper?
-1895653367	Hey. You mind taking out those two shooting at me?
-226564093	All right. You just stay put.
-1890359735	Heh, sure. Just wait there.
-1660272438	Sure. Wait there.
-1587325192	Do I look like I'm going anywhere?
-1370896943	All right! Whoever's out there, meet me on the deck.
-331485005	Nice work out there. Meet me on the deck.
-1033613334	Whew, thanks. I was getting nervous up there.
-850111332	Wouldn't be here if it wasn't for her...
-2144838521	Don't thank me. Thank her...
-1852477209	I think you better thank her...
-555906458	Hey cowboy.
-1813072875	Uh...hey? Something wrong with you?
-1016937040	Just ignore 'em, cowboy. I'm the one pulling the strings.
-1007568041	Right. Well, I've seen stranger things.
-1190809367	So you're the one I spotted up on that ledge. John Cooper.
-1294028435	You got good eyes, Mr. Cooper. Isabelle Moreau.
-479043166	Well, thanks for the help Miss Moreau. Come on, let's talk on the way.
-424948428	Yeah, we better get going. Some of your friends are still captured.
-1840783524	What brings you to these parts, Mr. Cooper?
-2095268698	On my way to New Orleans. Can't remember the route being this inhospitable though.
-62785543	You haven't been round here for a while.
-1472532422	So how'd you stumble into this mess, Miss Moreau?
-1365157573	Just looking into what's going on here. Folks have been disappearing.
-838073255	And you make it your business to help out strangers?
-1792247617	Heh, didn't hurt in your case, did it?
-1265190573	For the devil's sake, Baxter. He ain't here.
-1645846832	Keep at it. We ain't leaving 'til you find him.
-66517096	Mind helping out? We'd sure find him faster.
-680240689	Can't you see? I'm looking in here. Now get your nose to the ground.
-191782179	DeVitt ain't paying you to sit on your fat ass.
-1349901000	He ain't paying you for crying about it either.
-221837581	All right, what'd the man look like again?
-2045347558	Memorize it. Tall, long coat, mean as sin. 
-1813812817	We gotta find him, or we're here all night.
-1237361987	Why ain't he helping out, the fat bastard?
-1100169350	Don't count on any help from him. How're you doing?
-1719301491	Not sure what's gonna eat me first, bugs or the gators.
-1192359471	I'm gonna die of boredom here.
-1215149422	Maybe we missed something. Ask Baxter about the fella again.
-1405760560	Baxter says he's big, ugly and wears a coat.
-899670519	Maybe that fat fool just saw himself in a mirror.
-942466930	Huh, that trapdoor looks suspicious.
-1469223107	Hey Doc! You hiding in here?
-98530569	If I was McCoy, where would I be...
-575016370	Somebody hiding under that trapdoor?
-273228236	The hell? My puppet just died.
-1708252235	Guess whoever's down there needs a friendly face.
-1213847823	About time someone showed.
-2115644560	Would have taken longer if not for her...
-1425436776	I'm only here thanks to her...
-1904716507	You'd still be waiting if not for Miss Moreau here...
-14355310	Hey there.
-1929555592	Who the hell are you?
-463032935	Isabelle Moreau. And you're welcome.
-1581428564	I don't recall asking for your help, Miss Moreau.
-392366956	My, aren't you a sunshine.
-628719802	Anyway, I think some of your friends are still waiting to be rescued.
+415367732	Wayne? Tenho certeza que já ouvi esse nome antes.
+1381713793	Não force demais a cabeça, luz do sol. Você vai se machucar.
+1944581676	Eu vou descobrir em breve.
+2062664918	Wayne? Alguém que eu deveria conhecer?
+1542455237	Foi ele quem me enviou aqui. Acho que sem ele, você ainda estaria nessa gaiola.
+1901270877	Metralhadora, hein? Fez um pequeno trabalho daquele pequeno bote.
+605424394	Talvez possamos provar o próprio remédio.
+2031867883	Bah, isso de novo.
+882846551	Acho que você está familiarizado com essa Metralhadora
+1846748898	Sim, e estou com cede de vingança.
+369854531	Você leu minha mente, grandalhão.
+91209191	Que diabos...
+2051295956	Essa é uma Metralhadora. Nunca viu uma antes?
+779468741	Claro que sim! E este... parece muito familiar.
+954110533	Se você quiser experimentar, seja meu convidado.
+988172616	Nessa coisa...
+1749565000	Metralhadora. Uma coisa muito estranha, certo?
+1974939895	Eu não me importaria de jogá-lo no rio.
+1493770634	Talvez possamos tirar proveito disso primeiro.
+182306948	Esses caras são como ratos. Talvez o cowboy. O antes da casa. Alguém pode me ajudar.
+1221124038	Há mais pessoas aqui do que no barco e na casa. Talvez eu deva voltar.
+1553085149	Ei, por que não estamos usando a Metralhadora ?!
+900943188	Tirem suas mãos! O chefe enlouquece se você tocar nele!
+658516183	Eu o peguei Casey! Eu acho que o peguei!
+508731454	Ele ainda está atirando em nós, maldito tolo!
+324970067	Caramba, Casey! Eu acho que ele me acertou! Está tudo vermelho...
+320865517	Você está vestindo uma camisa vermelha, seu idiota!
+225048499	Gah! Meus ouvidos estão zumbindo!
+1919633944	O que você disse? Não te entendi!
+687894890	Ei, vamos esperar até o barco afundar!
+1483628369	Foda-se! Nós vamos pegar esse casulo.
+1602215951	Como você está aí em cima, cowboy?
+435631254	Olá senhorita. Você se importa em me ajudar aqui um pouco?
+345409256	Oque tem em mente?
+1871676232	Eliminar aqueles dois que atiraram em mim não seria ruim.
+1688850805	Heh, vou ver o que posso fazer.
+305294730	Acho que você ainda está respirando.
+1322983866	Como vai, amigo?
+1442504057	Como está aí?, Cooper?
+1895653367	Você se importa de eliminar aqueles dois que atiraram em mim?
+226564093	Tudo certo. Apenas fica parado.
+1890359735	Heh, claro. Você fica aí.
+1660272438	Certo. Espere aí.
+1587325192	Pareço estar indo a algum lugar?
+1370896943	Tudo certo! Quem estiver lá fora, encontre-me no convés.
+331485005	Bom trabalho lá fora. Encontre-me no convés.
+1033613334	Uau, obrigado. Eu estava ficando nervoso lá em cima.
+850111332	Não estaria aqui se não fosse por ela...
+2144838521	Não me agradeça. Agradeça a ela...
+1852477209	Acho melhor você agradecer a ela...
+555906458	Ei cowboy.
+1813072875	Uh... ei? Algo errado com você?
+1016937040	Apenas ignore-os, cowboy. Foi eu quem puxou as cordas.
+1007568041	Eu vi coisas estranhas.
+1190809367	Então você é a pessoa que eu vi naquele alto. John Cooper.
+1294028435	Você tem bons olhos, Sr. Cooper. Isabelle Moreau.
+479043166	Bem, obrigado pela ajuda, senhorita Moreau. Vamos lá, vamos conversar no caminho.
+424948428	Sim, é melhor seguirmos em frente. Alguns de seus amigos ainda estão presos.
+1840783524	O que o leva a essas partes, Sr. Cooper?
+2095268698	Eu estou indo para Nova Orleans. Não me lembro da rota ser tão acolhedora.
+62785543	Você não está aqui há um tempo.
+1472532422	Então, como você entrou nessa confusão, senhorita Moreau?
+1365157573	Apenas olhando o que está acontecendo aqui. O pessoal está desaparecendo.
+838073255	E você costuma fazer isso para ajudar estranhos?
+1792247617	Heh, no seu caso, não deu errado, certo?
+1265190573	Inferno, Baxter. Não está aqui.
+1645846832	Continue. Não vamos embora até que você o encontre.
+66517096	Você se importaria de ajudar? Certamente encontraríamos mais rápido.
+680240689	Você não vê que estou olhando aqui? E agora comece a bisbilhotar.
+191782179	DeVitt não está pagando para você ficar sentado.
+1349901000	Ele também não está pagando por chorar.
+221837581	Tudo bem, como o cara era?
+2045347558	Fale alto. Casaco longo são mais malvados que micose. 
+1813812817	Temos que encontrá-lo. Estamos aqui a noite toda.
+1237361987	Por que ele não está ajudando, o gordo bastardo?
+1100169350	Não conte com nenhuma ajuda dele. Como você o carrega?
+1719301491	Não sei o que vai me comer primeiro, insetos ou jacarés.
+1192359471	Eu vou morrer de tédio aqui.
+1215149422	Talvez tenhamos perdido alguma coisa. Pergunte a Baxter sobre o sujeito novamente.
+1405760560	Baxter diz que ele é grande, feio e veste um casaco.
+899670519	Talvez aquele idiota gordo tenha se visto no espelho.
+942466930	Huh, esse alçapão parece suspeito.
+1469223107	Ei Doc! Você está se escondendo aqui?
+98530569	Se eu fosse McCoy, onde eu estaria...
+575016370	Alguém escondido debaixo desse alçapão?
+273228236	O inferno? Meu boneco acabou de morrer.
+1708252235	Acho que quem está lá embaixo precisa de um rosto amigável.
+1213847823	Já era hora de alguém aparecer.
+2115644560	Teria demorado mais se não fosse por ela...
+1425436776	Só estou aqui graças a ela...
+1904716507	Você ainda estaria esperando se não fosse pela senhorita Moreau...
+14355310	Olá.
+1929555592	Quem diabos é você?
+463032935	Isabelle Moreau. Por favor.
+1581428564	Não me lembro de pedir sua ajuda, senhorita Moreau.
+392366956	Uau, você é um encanto.
+628719802	De qualquer forma, acho que alguns de seus amigos ainda estão esperando para serem resgatados.
