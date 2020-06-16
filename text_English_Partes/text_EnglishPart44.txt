@@ -98,53 +98,53 @@
 894982659	Oh, por favor, não conte a ninguém, ok?
 1833407896	E o outro?
 1979116485	Isso não vai acabar bem, estou lhe dizendo.
-1091594973	Just listen for a second.
-989425648	Sure, but what happens now?
-801397173	Don't worry. I've seen it before.
-1236715719	Not sure I'm following you here.
-1826402428	Can't believe I missed that.
-1371386793	That's the difference right there.
-630021603	He he, told you so.
-955780581	That can't be true, right?
-188273265	You better believe it.
-1720195152	Yeah, but that ain't nothing new.
-1489094158	You hear all kinds of things.
-1864759570	Guess times are changing.
-1257814581	That's news to me.
-971009953	Now, where was I?
-171486738	Lost my thought... Ah, yes.
-416648708	As I was saying...
-1085013886	Right, where were we...
-1968202159	Back to the point...
-671880834	W-wait wait wait, that's not right!
-1579815946	Hey, what are you doing?
-1309790604	Would you please stop that!
-603723275	Stop it! Cut it out!
-322269652	You're a queer fella.
-40314205	Are you being weird on purpose?
-1141136403	What are you doing here?
-129939999	You really shouldn't be here!
-1610055770	You better not let them see you!
+1091594973	Apenas ouça por um segundo.
+989425648	Claro, mas o que acontece agora?
+801397173	Não se preocupe. Eu já vi isso antes.
+1236715719	Eu não acho que estou te seguindo.
+1826402428	Não posso acreditar que eu perdi isso.
+1371386793	Existe a diferença.
+630021603	Ele ele, te disse.
+955780581	Isso não pode ser verdade, certo?
+188273265	É melhor você acreditar.
+1720195152	Sim, mas isso não é novidade.
+1489094158	Você ouve todos os tipos de coisas.
+1864759570	Acho que os tempos estão mudando.
+1257814581	Isso é novidade para mim.
+971009953	Agora onde eu estava?
+171486738	Perdi meu pensamento...Ah, sim.
+416648708	Como eu estava dizendo...
+1085013886	Certo, onde estávamos...
+1968202159	De volta ao ponto...
+671880834	E-espera, espera, espera, isso não está certo!
+1579815946	Ei, o que você está fazendo?
+1309790604	Você poderia por favor parar com isso!
+603723275	Pare com isso! Pare com isso!
+322269652	Você é um cara estranho.
+40314205	Você está sendo estranho de propósito?
+1141136403	O que você está fazendo aqui?
+129939999	Você realmente não deveria estar aqui!
+1610055770	É melhor você não deixar que te vejam.
 713118835	...
 1432681070	...
 867838392	...
 893670218	...
 2058026809	...
 1511665725	...
-218426436	Hell no!
-387346738	 No!
-648813681	Oh God!
+218426436	Merda não!
+387346738	Não!
+648813681	Oh Deus!
 1595333562	Aaaaah!
-419390346	Help! Help!
-370314354	Somebody help!
-1418729856	Anyone! Help!
-1824994674	Got to get out of here!
-1458914733	I can't stay here!
-933439464	Quick!
-218582852	Don't move an inch.
-890401936	Why does this keep happening?
-1137691250	This ain't good.
-1281619810	Gotta take cover.
+419390346	Ajuda! Ajuda!
+370314354	Alguém Ajuda!
+1418729856	Qalquer um! Ajuda!
+1824994674	Tenho que sair daqui!
+1458914733	Eu tenho que ir lá!
+933439464	Rápido!
+218582852	Não mexa um polegar.
+890401936	Por que isso continua acontecendo?
+1137691250	Isso não é bom.
+1281619810	Tenho que me esconder.
 134431810	...!
 1657010473	...!
 669939038	...!
@@ -309,31 +309,31 @@
 1913976133	...
 814280622	...
 1196159422	...
-674210948	Ouch...
-22343729	Ugh, my head...
-1210833096	What... Who...
+674210948	Ai...
+22343729	Ugh, minha cabeça...
+1210833096	O quê...Quem...
 1417289485	Uhm...
-1196937461	W-wait...
-2114310563	What's that?
-1177881374	Something...
-397215487	What the...
-280962069	The hell?
-229394941	Hey...
-1145092089	Hey now...
-1393676539	Is that...?
-863741838	What...?
+1196937461	E-espera...
+2114310563	O que é isso?
+1177881374	Alguma coisa...
+397215487	O que...
+280962069	Que diabos?
+229394941	Ei...
+1145092089	Ei agora...
+1393676539	Isso é...?
+863741838	O que...?
 2102627854	Hmm...
 1880676664	Uhhh...
-756747157	Hey there, little cat!
-1319465540	Ain't you a cutie.
-565138582	Ho! Hey! Where'd you come from?
-943804382	He he, huntin' mice, aren't ya?
-1614475967	See ya!
-533041754	Off he goes.
-1132402385	Heh, cute thing.
-601872494	Stay sharp, buddy.
-1800633776	...Mother of Christ!
-1021594811	...Damnit, my eyes!
-1896051716	...Knew this was a bad idea!
+756747157	Olá, gatinho!
+1319465540	Você não é uma gracinha.
+565138582	Ho! Ei! De onde você veio?
+943804382	He he, caçando ratos, não é?
+1614475967	Até mais!
+533041754	Lá vai ele.
+1132402385	Heh, coisa fofa.
+601872494	Fique atento, amigo.
+1800633776	...Mãe de Cristo!
+1021594811	...Droga, meus olhos!
+1896051716	...Sabia que era uma má ideia!
 2107896032	...
 1911485372	...
