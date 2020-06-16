@@ -33,56 +33,56 @@
 985661758	Eu tinha o suficiente deste lugar.
 998176820	Vamos entreter os convidados.
 398325729	Estava ansioso por isso.
-141655482 	Vamos buscar DeVitt.
-1465568110 	Barriga da besta, não é?
-1176569570 	Estamos muito perto agora.
-1483848063 	Vamos fazer as malas.
-829154899 	Vamos terminar.
-1855883930 	Isto é para Cooper.
-744500706 	Vamos lá.
-837940684 	Claro, não há problema.
-1280486638 	Fácil.
-1133196444 	Eu entendi.
-42424190 	Chegando.
-163126714 	Não tenho tanta certeza disso.
-1281387733 	Não gosto de onde isso está indo.
-970133390 	Isso não vai acabar bem.
-517525376 	Nuh uh.
-839026546 	Não está acontecendo.
-277351301 	Pense novamente.
-626405494 	Não está fazendo isso.
-1465603173 	Não pode fazer.
-1033664241 	Não há como.
-1979602655 	Não vejo como.
-1335663396 	Isso é impossível.
-1036318681 	Há empresa lá.
-859806228 	Não é seguro lá.
-439249948 	Esqueça. Não é seguro.
-1294512249 	Bloqueado, não é?
-1292976346 	Está bem fechado.
-1197692887 	Não. Não vai se mexer.
-1189830652 	Ainda não está pronto.
-1549978633 	Não está pronto.
-445046105 	Ainda tem que esperar.
-586165605 	Estou fora.
-1440125400 	Nada mais.
-200110905 	Não tenho nada.
-1690838190 	Concluído.
-1385068089 	Terminamos aqui?
-904761970 	Tudo bem, e agora?
-1775251552 	Tudo pronto.
-1571810590 	Isso serve.
-938924657 	Vejo você do outro lado.
-671036041 	Como cortar ervas.
-463928256 	Vá com Papa Ghede.
-674215476 	O que é um pouco de sangue?
-544103607 	Oh, desagradável.
-436916236 	Vá dormir.
-1483089120 	Que adorável.
-1958411762 	Fique abaixado, ouviu?
-82122588 	Quem é o próximo?
-151943541 	Aww, cansado?
-1548839610 	Isso é tudo o que você tem?
+141655482	Vamos buscar DeVitt.
+1465568110	Barriga da besta, não é?
+1176569570	Estamos muito perto agora.
+1483848063	Vamos fazer as malas.
+829154899	Vamos terminar.
+1855883930	Isto é para Cooper.
+744500706	Vamos lá.
+837940684	Claro, não há problema.
+1280486638	Fácil.
+1133196444	Eu entendi.
+42424190	Chegando.
+163126714	Não tenho tanta certeza disso.
+1281387733	Não gosto de onde isso está indo.
+970133390	Isso não vai acabar bem.
+517525376	Nuh uh.
+839026546	Não está acontecendo.
+277351301	Pense novamente.
+626405494	Não está fazendo isso.
+1465603173	Não pode fazer.
+1033664241	Não há como.
+1979602655	Não vejo como.
+1335663396	Isso é impossível.
+1036318681	Há empresa lá.
+859806228	Não é seguro lá.
+439249948	Esqueça. Não é seguro.
+1294512249	Bloqueado, não é?
+1292976346	Está bem fechado.
+1197692887	Não. Não vai se mexer.
+1189830652	Ainda não está pronto.
+1549978633	Não está pronto.
+445046105	Ainda tem que esperar.
+586165605	Estou fora.
+1440125400	Nada mais.
+200110905	Não tenho nada.
+1690838190	Concluído.
+1385068089	Terminamos aqui?
+904761970	Tudo bem, e agora?
+1775251552	Tudo pronto.
+1571810590	Isso serve.
+938924657	Vejo você do outro lado.
+671036041	Como cortar ervas.
+463928256	Vá com Papa Ghede.
+674215476	O que é um pouco de sangue?
+544103607	Oh, desagradável.
+436916236	Vá dormir.
+1483089120	Que adorável.
+1958411762	Fique abaixado, ouviu?
+82122588	Quem é o próximo?
+151943541	Aww, cansado?
+1548839610	Isso é tudo o que você tem?
 1162137679	...!
 718930136	...! Ei!
 670654216	...! Isso realmente dói.
@@ -94,246 +94,246 @@
 165766059	...!
 2057969559	...
 481090440	...
-1516744320 	... Sim, claro... Muito engraçado.
-1329375010 	... Oh, eu vou te pegar.
-1663065043 	... Ei... Cuidado.
-1645812927 	... Oh, você quer ser amarrado, hein?
-1691141857 	Entendi.
-242524463 	Para Onde?
-626775936 	Pronto. Para onde?
-951280403 	Ufa. Feito.
-1198499341 	Vamos colocá-lo aqui.
-1285283961 	Vamos deixá-lo.
-2136759918 	Nem um pouco pesado...
-1884184145 	Agradável e apertado.
-320308234 	Nem um pio, entendeu?
-1207475747 	Muito apertado? Boa.
+1516744320	... Sim, claro... Muito engraçado.
+1329375010	... Oh, eu vou te pegar.
+1663065043	... Ei... Cuidado.
+1645812927	... Oh, você quer ser amarrado, hein?
+1691141857	Entendi.
+242524463	Para Onde?
+626775936	Pronto. Para onde?
+951280403	Ufa. Feito.
+1198499341	Vamos colocá-lo aqui.
+1285283961	Vamos deixá-lo.
+2136759918	Nem um pouco pesado...
+1884184145	Agradável e apertado.
+320308234	Nem um pio, entendeu?
+1207475747	Muito apertado? Boa.
 923382311	...!
 1538151701	...!
 1377324306	...!
 707188080	...
 276522467	...
 110218475	...
-2031362824  Vamos cortar algumas ervas daninhas.
-1157289741 	Nítida.
-1792824638 	Vou enviá-los para o outro lado.
-1296679714 	Uma alma para Papa Ghede.
+2031362824	Vamos cortar algumas ervas daninhas.
+1157289741	Nítida.
+1792824638	Vou enviá-los para o outro lado.
+1296679714	Uma alma para Papa Ghede.
 1956181890	...!
 1774737883	...!
 2035379083	...!
-577203227 	Hora de dormir.
-2074291579 	Deixe-me neles.
-485460720 	Bons sonhos, chegando.
+577203227	Hora de dormir.
+2074291579	Deixe-me neles.
+485460720	Bons sonhos, chegando.
 888374702	...!
 1321257463	...!
 2071021781	...!
-123607556 	Apenas uma pequena picada.
-1801719307 	Vamos colocar um alfinete neles.
-454889175 	Eles não vão sentir nada.
-1129248243 	Apenas um pouco de sangue.
-928790262 	Essa é uma.
-1265236183 	Essa é outra.
-2043789239 	Tenho um.
-286750106 	Tenho dois.
-1485265207 	Aquele.
-1040628537 	E esse.
-1724442411 	Heh, mal senti.
-1619832780 	Vou entrar em mim.
-1859572169 	Estamos todos conectados.
-872498356 	Quem é meu parceiro de sorte?
-1790406456 	O que você não faz a si mesmo ...
-1066427828 	E agora apenas ...
-653938542 	Apenas um pouco de sangue ...
-930706022 	Não precisa de muito ...
-414503893 	Um e o outro.
-2098572022 	Assim como costurar ...
-1377700400 	Vamos mudar as coisas.
-284308200 	Isso é muito melhor.
-72118034 	Agora eu gosto.
-1207746109 	Talvez assim?
-41210787 	Vamos tentar algo diferente.
-1676982095 	Você está pronta, Stella?
-216140776 	Você tem algum trabalho a fazer.
-1845121793 	Ei, Stella.
-118162669 	Eu tenho uma tarefa para você.
-1109903659 	Vamos, vamos.
-1160703492 	Apresse-se agora.
-247611732 	Pronto!
-464092178 	Nada mal, querida.
-1123783526 	Olha quem voltou.
-2082706861 	Bom trabalho, Stella.
-1427047199 	Quem quer ser voluntário?
-25618550 	Vamos fazer um amigo.
-81827236 	Isso vai doer.
-163779763 	Eu preciso de um novo boneco.
-1540791117 	Vou puxar algumas cordas.
-1419141583 	Não se assuste agora.
-341591720 	Indo para ...
-752888387 	Aqui vamos nós ...
-63333186 	Respire fundo ...
-4377793 	Aqui vai ...
-1062250236 	Ouça.
-1313429763 	Ouça.
-2065177712 	Entendi.
-146785060 	Você é minha.
-1589934152 	Toda minha.
-2134428731 	Venha para a mamãe.
-695404509 	Vamos começar.
-654774778 	Mexa-se.
-1147675545 	Lá.
-1731813851 	Vá.
-1196257580 	Ande.
-1545512649 	Mais rápido.
-2038772205 	Faça.
-805008413 	Este.
-971476442 	Isso mesmo.
-277989932 	Sem arrependimentos.
-836730851 	Vá em frente.
-1228782321 	...! De volta à ação.
-1238073356 	...! Espero que valha a pena.
-720260906 	...! Ufa. Tudo feito.
-1550753356 	...! Merda como dói.
-641028331 	...! Muito forte...
-575562138 	...! Ele me empurrou para fora ...
-624963726 	...! Essa é forte ...
-637326336 	Nunca mais faça isso.
-10014101 	Eu sei o que tenho na cabeça, obrigado.
-2049343867 	Não é assim que funciona.
-1399245010 	Eu tenho pesadelos suficientes, obrigado.
-1267853701 	Vamos ouvir seus pensamentos.
-1803793389 	Não há mal em ouvir.
-1990184930 	Estou um pouco curioso.
-15203102 	Pode ser interessante.
-1614794442 	Merda, estou exausta. Melhor tomar um jimson.
-1676379491 	O que temos aqui!
-48842464 	Toda minha.
-2117087259 	Apenas o que eu preciso.
-552193462 	Nah, eu estou bem.
-358302127 	Isso é mais do que eu preciso.
-716483205 	Tenho o suficiente por enquanto.
-1063981054 	Um pouco de cura para todos.
-906752479 	Sempre ajuda.
-451365883 	A melhor coisa que existe.
-2099090885 	Aqui estão alguns jimson.
-925185424 	Fácil, luz do sol.
-1370602473 	Heh, você realmente é um médico!
-614844196 	Obrigado, eu acho.
-639305164 	Melhor já.
-15023406 	Ugh! Que inferno!
-1321946249 	Mas que ... Ugh!
-205647897 	O que é isso ?! Óleo de alcatrão ?!
-1617486514 	Exatamente o que o médico pediu.
-812359067 	Isso serve.
-1427776247 	De volta à ação.
-1307267463 	Bom como novo.
-873815517 	Acendendo o fusível.
-2130811114 	Tem que se apressar aqui.
-1374334792 	Melhor decidir rapidamente.
-1397376772 	Voe.
-519571502 	Até mais.
-588536931 	Proteja-se.
-649032817 	Veja aqui.
-367848240 	Não se importe se eu fizer.
-1903272015 	Sorte minha.
-2014483118 	Achado não é roubado
-2036961015 	Vamos atrair alguém.
-839487586 	Gosta de pescar, não é?
-370675528 	Quem vai morder?
-636651223 	Dinheiro alguém?
-323683247 	Temos fogo.
-1853956412 	Tocha pronta.
-788364589 	Vá.
-538583848 	Voe.
-974757955 	Luzes apagadas.
-2070988801 	Tenho que perder o fogo.
-998814425 	Merda. Deixou-a cair.
-1408005813 	Foda-se. Deixou-a cair.
-720245240 	Onde estávamos antes ...
-1625285637 	Como eu estava dizendo ...
-7662523 	Então, sobre isso ...
-649615649 	Mhhh ... Pare com isso.
-661354426 	Eu disse para parar. Você acha que eu não sei quem você é?
-1418039439 	Estou perdendo minha paciência com você. Último aviso.
-786260379 	Bem, você pediu.
-211269754 	Hgnn ... Lá. Você é meu. Agora vamos ver ...
-175033187 	Abra o menu de opções.
-860753893 	Vá para os jogos salvos
-1327277550 	Pressione excluir tudo ... Faça isso. Agora.
-514413215 	Opa ... Olha o que você fez, bobo.
-2036930682 	Está na hora?
-1475892683 	Olhos abertos, Johnny.
-739688853 	Apertado como uma corda de arco.
-621171003 	Certo. Estou pronto.
-596974803 	Estou pronto dessa vez.
-1308312152 	Preciso chegar ao Pa.
-395666720 	Pa precisa de mim.
-575611466 	Pa foi à capela.
-608468872 	Para onde?
-2141638710 	Isso é ... realmente pesado.
-1699288412 	Ok, para onde?
-394982435 	Certo. Sem problemas.
-2099790094 	Deixe para mim.
-1189081317 	No meu caminho.
-763245685 	É agora ou nunca.
-557704481 	Certo. Vamos lá.
-1972136448 	Correto. No meu caminho.
-862236337 	Está certo ..
-1486685629 	Eu vou.
-1785287502 	Eu vou fazer isso ..
-2027953958 	Por favor fique bem.
-1785336322 	Eu posso fazer isso ...
-1106567418 	Tenho que me mexer.
-1905492557 	Agora ou nunca.
-1611616462 	Vamos ..
-1193834096 	No meu caminho.
-862746886 	Sim ... Deixe-me.
-1703730525 	Bom lugar.
-557766959 	Estarei lá.
-2134395880 	C-certo. Sem problemas.
-265383940 	Hrgn ... eu consegui isso.
-1674904499 	Não vejo como.
-835410211 	Eu não posso fazer isso.
-1970558397 	Isso vai ser um problema.
-879504050 	Não pode fazer.
-1086406602 	De jeito nenhum eu posso ver.
-905802931 	Existe outra maneira?
-2135394769 	Tenho que encontrar outra maneira.
-2125512474 	Há problemas lá.
-708369979 	Não deveria entrar lá.
-1004098978 	Não. Má ideia.
+123607556	Apenas uma pequena picada.
+1801719307	Vamos colocar um alfinete neles.
+454889175	Eles não vão sentir nada.
+1129248243	Apenas um pouco de sangue.
+928790262	Essa é uma.
+1265236183	Essa é outra.
+2043789239	Tenho um.
+286750106	Tenho dois.
+1485265207	Aquele.
+1040628537	E esse.
+1724442411	Heh, mal senti.
+1619832780	Vou entrar em mim.
+1859572169	Estamos todos conectados.
+872498356	Quem é meu parceiro de sorte?
+1790406456	O que você não faz a si mesmo ...
+1066427828	E agora apenas ...
+653938542	Apenas um pouco de sangue ...
+930706022	Não precisa de muito ...
+414503893	Um e o outro.
+2098572022	Assim como costurar ...
+1377700400	Vamos mudar as coisas.
+284308200	Isso é muito melhor.
+72118034	Agora eu gosto.
+1207746109	Talvez assim?
+41210787	Vamos tentar algo diferente.
+1676982095	Você está pronta, Stella?
+216140776	Você tem algum trabalho a fazer.
+1845121793	Ei, Stella.
+118162669	Eu tenho uma tarefa para você.
+1109903659	Vamos, vamos.
+1160703492	Apresse-se agora.
+247611732	Pronto!
+464092178	Nada mal, querida.
+1123783526	Olha quem voltou.
+2082706861	Bom trabalho, Stella.
+1427047199	Quem quer ser voluntário?
+25618550	Vamos fazer um amigo.
+81827236	Isso vai doer.
+163779763	Eu preciso de um novo boneco.
+1540791117	Vou puxar algumas cordas.
+1419141583	Não se assuste agora.
+341591720	Indo para ...
+752888387	Aqui vamos nós ...
+63333186	Respire fundo ...
+4377793	Aqui vai ...
+1062250236	Ouça.
+1313429763	Ouça.
+2065177712	Entendi.
+146785060	Você é minha.
+1589934152	Toda minha.
+2134428731	Venha para a mamãe.
+695404509	Vamos começar.
+654774778	Mexa-se.
+1147675545	Lá.
+1731813851	Vá.
+1196257580	Ande.
+1545512649	Mais rápido.
+2038772205	Faça.
+805008413	Este.
+971476442	Isso mesmo.
+277989932	Sem arrependimentos.
+836730851	Vá em frente.
+1228782321	...! De volta à ação.
+1238073356	...! Espero que valha a pena.
+720260906	...! Ufa. Tudo feito.
+1550753356	...! Merda como dói.
+641028331	...! Muito forte...
+575562138	...! Ele me empurrou para fora ...
+624963726	...! Essa é forte ...
+637326336	Nunca mais faça isso.
+10014101	Eu sei o que tenho na cabeça, obrigado.
+2049343867	Não é assim que funciona.
+1399245010	Eu tenho pesadelos suficientes, obrigado.
+1267853701	Vamos ouvir seus pensamentos.
+1803793389	Não há mal em ouvir.
+1990184930	Estou um pouco curioso.
+15203102	Pode ser interessante.
+1614794442	Merda, estou exausta. Melhor tomar um jimson.
+1676379491	O que temos aqui!
+48842464	Toda minha.
+2117087259	Apenas o que eu preciso.
+552193462	Nah, eu estou bem.
+358302127	Isso é mais do que eu preciso.
+716483205	Tenho o suficiente por enquanto.
+1063981054	Um pouco de cura para todos.
+906752479	Sempre ajuda.
+451365883	A melhor coisa que existe.
+2099090885	Aqui estão alguns jimson.
+925185424	Fácil, luz do sol.
+1370602473	Heh, você realmente é um médico!
+614844196	Obrigado, eu acho.
+639305164	Melhor já.
+15023406	Ugh! Que inferno!
+1321946249	Mas que ... Ugh!
+205647897	O que é isso ?! Óleo de alcatrão ?!
+1617486514	Exatamente o que o médico pediu.
+812359067	Isso serve.
+1427776247	De volta à ação.
+1307267463	Bom como novo.
+873815517	Acendendo o fusível.
+2130811114	Tem que se apressar aqui.
+1374334792	Melhor decidir rapidamente.
+1397376772	Voe.
+519571502	Até mais.
+588536931	Proteja-se.
+649032817	Veja aqui.
+367848240	Não se importe se eu fizer.
+1903272015	Sorte minha.
+2014483118	Achado não é roubado
+2036961015	Vamos atrair alguém.
+839487586	Gosta de pescar, não é?
+370675528	Quem vai morder?
+636651223	Dinheiro alguém?
+323683247	Temos fogo.
+1853956412	Tocha pronta.
+788364589	Vá.
+538583848	Voe.
+974757955	Luzes apagadas.
+2070988801	Tenho que perder o fogo.
+998814425	Merda. Deixou-a cair.
+1408005813	Foda-se. Deixou-a cair.
+720245240	Onde estávamos antes ...
+1625285637	Como eu estava dizendo ...
+7662523	Então, sobre isso ...
+649615649	Mhhh ... Pare com isso.
+661354426	Eu disse para parar. Você acha que eu não sei quem você é?
+1418039439	Estou perdendo minha paciência com você. Último aviso.
+786260379	Bem, você pediu.
+211269754	Hgnn ... Lá. Você é meu. Agora vamos ver ...
+175033187	Abra o menu de opções.
+860753893	Vá para os jogos salvos
+1327277550	Pressione excluir tudo ... Faça isso. Agora.
+514413215	Opa... Olha o que você fez, bobo.
+2036930682	Está na hora?
+1475892683	Olhos abertos, Johnny.
+739688853	Apertado como uma corda de arco.
+621171003	Certo. Estou pronto.
+596974803	Estou pronto dessa vez.
+1308312152	Preciso chegar ao Pa.
+395666720	Pa precisa de mim.
+575611466	Pa foi à capela.
+608468872	Para onde?
+2141638710	Isso é... realmente pesado.
+1699288412	Ok, para onde?
+394982435	Certo. Sem problemas.
+2099790094	Deixe para mim.
+1189081317	No meu caminho.
+763245685	É agora ou nunca.
+557704481	Certo. Vamos lá.
+1972136448	Correto. No meu caminho.
+862236337	Está certo..
+1486685629	Eu vou.
+1785287502	Eu vou fazer isso..
+2027953958	Por favor fique bem.
+1785336322	Eu posso fazer isso...
+1106567418	Tenho que me mexer.
+1905492557	Agora ou nunca.
+1611616462	Vamos..
+1193834096	No meu caminho.
+862746886	Sim ... Deixe comigo.
+1703730525	Bom lugar.
+557766959	Estarei lá.
+2134395880	C-certo. Sem problemas.
+265383940	Hrgn... eu consegui isso.
+1674904499	Não vejo como.
+835410211	Eu não posso fazer isso.
+1970558397	Isso vai ser um problema.
+879504050	Não pode fazer.
+1086406602	De jeito nenhum eu posso ver.
+905802931	Existe outra maneira?
+2135394769	Tenho que encontrar outra maneira.
+2125512474	Há problemas lá.
+708369979	Não deveria entrar lá.
+1004098978	Não. Má ideia.
 2002224943 	Bloqueado.
-1815445650 	Está bloqueado.
-187308505 	Não se move
-2002792298 	Me dê um tempo.
-2014682765 	Ainda não consigo.
-655197554 	Ainda não posso fazer isso.
-1890405791 	Eles são muito grandes.
-500561845 	Grande demais para mim.
-446010654 	Um pouco alto para mim.
-63731527 	O que eu deveria fazer agora?
-258862932 	Para frente e para cima.
-1553803775 	E agora?
-2094216020 	Tudo feito.
-610975601 	Heh, nada disso.
-557457947 	Parece bom.
-93000985 	Feito. Qual é o próximo?
-1085649194 	Isso faz.
-1202917247 	Feito.
-1572771200 	Está feito.
-268953212 	Ok, feito.
-1369762905 	Funcionou!
-1132278620 	Ugh, desagradável.
-1452927986 	Estou indo, pai.
-12405886 	Me desculpe por isso.
-1700567394 	Isso deve fazer.
-505409819 	...!
-1699684799 	...! N-não!
-456237591 	...! Pare!
-1224516696 	... Pai ...
-346297442 	... Ajuda ...
-357582577 	...
-977728358 	Peguei eles ...
-887995607 	Você é pesado ...
-790619903 	...!
-8060920 	...! Ufa.
-1743547639 	...! Pacote entregue.
+1815445650	Está bloqueado.
+187308505	Não se move
+2002792298	Me dê um tempo.
+2014682765	Ainda não consigo.
+655197554	Ainda não posso fazer isso.
+1890405791	Eles são muito grandes.
+500561845	Grande demais para mim.
+446010654	Um pouco alto para mim.
+63731527	O que eu deveria fazer agora?
+258862932	Para frente e para cima.
+1553803775	E agora?
+2094216020	Tudo feito.
+610975601	Heh, nada disso.
+557457947	Parece bom.
+93000985	Feito. Qual é o próximo?
+1085649194	Isso fará.
+1202917247	Feito.
+1572771200	Está feito.
+268953212	Ok, feito.
+1132278620	Funcionou!
+1132278620	Ugh, desagradável.
+1452927986	Estou indo, pai.
+12405886	Me desculpe por isso.
+1700567394	Isso deve doer.
+505409819	...!
+1699684799	...! N-não!
+456237591	...! Pare!
+1224516696	...Pai...
+346297442	...Ajuda...
+357582577	...
+977728358	Peguei eles...
+887995607	Você é pesado...
+790619903	...!
+8060920	...! Ufa.
+1743547639	...! Pacote entregue.
