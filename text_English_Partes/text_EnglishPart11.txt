@@ -211,35 +211,35 @@
 1915152557	Ok, vamos ajudar o cowboy.
 609887066	Vamos dar uma olhada naquela casa.
 1960415117	É aqui que eles mantêm o grandalhão.
-718322838	There's the lady in her cage.
-1034632180	There's Cooper. Looks like they got him pinned down.
-194195716	Look! There's Cooper. Those bastards have him pinned.
-618721931	There! Cooper! They're still firing at him.
-655586820	He's holding out for now. Let's give him some breathing room.
-1124333373	Think I saw Doc head in this direction.
-2099540363	Hey, where's Doc? Wasn't he with us?
-1045115534	Think we lost McCoy here somewhere.
-704934038	Maybe he's hiding out in that house? Could be worth a look.
-340976707	Shit, there's Hector. They got him.
-1281515011	There's Hector. Figured he wouldn't get far.
-1288485514	Oh no. They got Hector too.
-802011250	He looks pretty miserable in that cage. Let's help him out.
-1897278380	Damn bastards put Kate in a cage too.
-1824816580	Looks like Miss O'Hara got locked up as well.
-1611056678	Shit. They put Kate in a cage too.
-1685392268	Bird like her don't belong in a cage. Let's break her out.
-293793449	These pricks have their own little outpost here.
-2018308304	Wayne's gonna love this.
-970766807	Nice little fishing spot. Wonder what happened to the owner.
-681296385	One more thing for Wayne to figure out.
-958848154	There's a lookout up there. Ain't no ship getting past those eyes.
-1619837431	Wayne was right. These folks are well organized.
-860018648	Look at that cargo. "Business" must be good this week.
-1217862018	Shit... High time Wayne does something about this.
-1958100788	Wayne? You got someone else with you?
-1696961317	He's waiting for me in New Orleans. I'd be on my way now if I hadn't seen y'all.
-305241267	Wayne, huh? Friend of yours?
-1543882089	Friend? Heh, yeah sure. Maybe I'll introduce you if we get out of here alive.
+718322838	Há a garota em sua gaiola.
+1034632180	Aqui está Cooper. Parece que eles o prenderam.
+194195716	Veja! Aqui está Cooper. Esses bastardos o prenderam.
+618721931	Ali! Cooper! Eles ainda estão atirando nele.
+655586820	Ele está aguentando por enquanto. Vamos dar-lhe algum espaço para respirar.
+1124333373	Acho que vi Doc seguir nessa direção.
+2099540363	Ei, cadê o Doc? Ele não estava conosco?
+1045115534	Acho que perdemos McCoy aqui em algum lugar.
+704934038	Talvez ele esteja escondido naquela casa? Pode valer a pena dar uma olhada.
+340976707	Merda, Hector. Eles o pegaram.
+1281515011	Aqui está o Hector. Eu sabia que ele não iria longe.
+1288485514	Ah não. Eles também pegaram o Hector.
+802011250	Ele parece bastante infeliz naquela jaula. Vamos ajudá-lo.
+1897278380	Malditos bastardos também colocaram Kate em uma gaiola.
+1824816580	Parece que a senhorita O'Hara também foi presa.
+1611056678	Merda. Eles colocaram Kate em uma gaiola também.
+1685392268	Uma gaiola não é lugar para uma garota assim. Vamos tirá-la daqui.
+293793449	Esses idiotas têm seu próprio posto avançado aqui.
+2018308304	Wayne vai amar isso.
+970766807	Bom lugar para pescar. Eu me pergunto o que aconteceu com o proprietário.
+681296385	Mais uma coisa para Wayne descobrir.
+958848154	Há uma vigia lá em cima. Nenhum navio poderia passar por aqueles olhos.
+1619837431	Wayne estava certo. Essas pessoas são bem organizadas.
+860018648	Olhe para aquela remessa. Os "negócios" estão indo bem esta semana.
+1217862018	Merda... Já era hora de Wayne fazer algo a respeito.
+1958100788	Wayne? Você tem mais alguém com você?
+1696961317	Ele está me esperando em Nova Orleans. Eu estaria a caminho agora se não tivesse visto vocês.
+305241267	Wayne, não é? Seus amigos?
+1543882089	Amigo? Heh, sim, com certeza. Posso apresentá-lo se sairmos vivos daqui.
 415367732	Wayne? Pretty sure I've heard that name before.
 1381713793	Don't strain your head too much, Sunshine. You'll break it.
 1944581676	I'll find out soon enough.
