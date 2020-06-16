@@ -190,150 +190,150 @@
 937461547	Eu ouvi histórias sobre esse marechal. Ele está atrás da companhia há anos.
 367154930	Bem, ele vai ver, do interior de uma jaula, heh heh heh.
 2048956823	Muito obrigado, senhorita Moreau. Devemos-lhe uma grande dívida.
-938025439	That's one point of view.
-117805030	Doc, you got a beef with Miss Isabelle?
-1161078991	I'm not so keen on owing favors.
-2046471173	Oh don't worry, Sunshine. It's on the house.
-686362228	So what's your plan right now?
-190516923	New Orleans.
-1280239266	Well, guess we're headed the same way then.
-1535934154	Then why don't you join us? I would love the company.
-1167784740	Sure, why not.
-493207314	How about it, Sunshine? Do you mind my company?
-458849405	Just keep your distance.
+938025439	Esse é um ponto de vista.
+117805030	Doc, você teve uma briga com Miss Isabelle?
+1161078991	Não estou tão interessada em receber favores.
+2046471173	Oh, não se preocupe, luz do sol. É por conta da casa.
+686362228	Então, qual é o seu plano agora?
+190516923	Nova Orleans.
+1280239266	Bem, acho que estamos seguindo o mesmo caminho então.
+1535934154	Por que você não se junta a nós? Eu adoraria um acompanhante.
+1167784740	Claro, por que não.
+493207314	Que tal, luz do sol? Você se importa com a minha presença?
+458849405	Apenas mantenha distância.
 165232390	VO TRACK
-712805849	Break out of the Cage
-599043079	Isabelle was put in a cage. Fortunately, she has ways to get out of situations like this.
-804209469	Reach the Vantage Point
-837398733	Head up there and get yourself an overview of the situation.
-657203406	Free the Gang
-1519058110	The gang is in trouble. Help them out.
-1258390362	Help Cooper
-2033151969	Cooper is pinned down on the sinking steamer.
-2103457548	Free Doc
-37759921	Doc has avoided capture and is hiding somewhere in the hut.
-1634996819	Free Kate
-1973661711	Kate was captured and put in a cage. Find a key or pick the lock.
-150633749	Free Hector
-959242649	Hector was captured and put in a cage. Find a key or pick the lock.
+712805849	Escape da jaula
+599043079	Isabelle foi colocada em uma jaula. Felizmente, ela tem maneiras de sair de situações como essa.
+804209469	Ir para a posição elevada
+837398733	Vá até lá e obtenha uma visão geral da situação.
+657203406	Liberte o grupo
+1519058110	A gangue está com problemas. Ajude-os.
+1258390362	Ajude Cooper
+2033151969	Cooper está preso no navio que está afundando.
+2103457548	Liberte Doc
+37759921	Doc evitou a captura e está escondido em algum lugar da cabana.
+1634996819	Liberte Kate
+1973661711	Kate foi capturada e colocada em uma jaula. Encontre uma chave ou feche a fechadura.
+150633749	Liberte Hector
+959242649	Hector foi capturado e colocado em uma gaiola. Encontre uma chave ou quebre a fechadura.
 1917575343	Escape
-595109735	Get everyone to the horses and leave.
-276503151	Kill the Ponchos
-1238109013	Give Cooper some breathing room by killing the two ponchos shooting at him.
-1980903253	Loose Rock
-1563635315	This rock looks loose. A shame if it would fall onto someone.
-1598776947	Lookout Stand
-1259070992	This lookout tower is pretty high. What if someone took an axe to it...
-997256851	Pile of Crates
-1597562743	This pile of crates looks unstable. A shame if it would collapse over somebody's head.
-1457455127	Kill the Patrol
-711876426	Use multiple traps to kill all three guards at the same time.
-1438130694	Get the Traps
-439330376	Get two additional bear traps to kill the patrol.
+595109735	Leve todos para os cavalos e vá embora.
+276503151	Mate os Ponchos
+1238109013	Dê a Cooper algum espaço para respirar matando os dois ponchos que estão atirando nele.
+1980903253	Pedra solta
+1563635315	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
+1598776947	Posto de observação
+1259070992	Essa torre de vigia é bem alta. E se alguém pegasse um machado...
+997256851	Pilha de caixas
+1597562743	Essa pilha de caixas parece instável. Uma pena se isso desabasse sobre a cabeça de alguém.
+1457455127	Mate a Patrulha
+711876426	Use várias armadilhas para matar todos os três guardas ao mesmo tempo.
+1438130694	Obtenha as armadilhas
+439330376	Obtenha duas armadilhas adicionais para matar a patrulha.
 1569638234	Bianca
-2030125916	Pick up Bianca.
+2030125916	Pegue Bianca.
 870301240	Camilla
-567042909	Pick up Camilla.
+567042909	Pegue Camilla.
 750127793	Lucia
-1778900323	Pick up Lucia.
-82329080	Healing
-828180189	Remember, healing is unlimited and only restricted by a cooldown.
-1457086053	Advanced Connecting
-1023629680	You can use Connect on your team members as well. All damage they receive is transferred.
-1374244853	No Reinforcements
-1732013177	If you set off an alarm there won't be reinforcements.
-530771191	The banks of the mighty Mississippi. The river sees a thousand stories every day. Let's make this one entertaining. 
-171319177	We all know how much Mr. Hector loves his little Bianca. One can only imagine what he could do with three of them.
-199545376	Why not put it to the test. Take a look at the trio up there. I'm sure my clients would be delighted if you took them out all at once.
-556228268	Of course, we are talking about bear trap kills. I took the liberty of removing all other means of offense from your roster.
-172753097	Happy hunting, my friend. And remember: My clients are watching.
-703840751	Well wasn't that a sight. But maybe it's for the best that there's only one, true Bianca.
-1507855381	So you've been following this guy?
-1501963814	Last we heard he was headed for New Orleans.
-192433283	I've seen him. He works for the DeVitt Company.
-1428101056	Don't know where he is, though. Sorry.
-2142838867	We'll ask around. 
-43510847	So, what's your plan now?
-1242051853	I was supposed to meet up with Wayne, but I can't find him anywhere.
-511639318	You think something happened to him?
-1165235131	Could be. Think I better look for him.
-136989762	Then count us in. We still owe you for your help back there.
-1873580448	You don't owe me anything.
-918226040	Hey fellas 
-1652818583	You got everything you need?
-513565066	Bianca's oiled up and ready for action.
-1608044066	Well let's go and find Frank.
-1076949057	What about Isabelle and her friend?
-229128354	Listen...
-1229627458	Why don't we split up?
-1231336393	I'm pretty sure you can handle this on your own.
-899842538	We'll meet here later, all right?
-1464031914	Sure...
-754289243	Let's go, Hector.
-1699491377	See you later, ladies.
-34392205	Well... 
-1211196005	So what's going on here?
-1137491574	We're looking for Isabelle's friend. Wanna join?
-173864141	I won't hold it against you if you decline.
-2056450478	Like I said before, I don't enjoy owing favors.
-397429678	To be clear: We find your Wayne, that makes us even.
-830699354	Try to lighten up, Sunshine. 
-1652314598	You're in New Orleans.
+1778900323	Pegue Lucia.
+82329080	Cura
+828180189	Lembre-se de que a cura é ilimitada e restrita apenas por uma recarga.
+1457086053	Conexão avançada
+1023629680	Você também pode usar a Conexão nos membros da sua equipe. Todo dano que eles recebem é transferido.
+1374244853	Sem reforços
+1732013177	Se você acionar um alarme, não haverá reforços.
+530771191	As margens do poderoso Mississippi. O rio vê mil histórias todos os dias. Vamos tornar esta divertida. 
+171319177	Todos sabemos o quanto o Sr. Hector ama sua pequena Bianca. Só podemos imaginar o que ele poderia fazer com três deles.
+199545376	Por que não colocá-lo à prova. Dê uma olhada no trio lá em cima. Tenho certeza de que meus clientes ficariam encantados se você os expulsasse de uma só vez.
+556228268	Estamos falando de matar com armadilhas para ursos, é claro. Tomei a liberdade de tirar os outros meios ofensivos.
+172753097	Feliz caça, meu amigo. E lembre-se: meus clientes estão assistindo.
+703840751	Vale a pena ver. Mas talvez seja bom que haja apenas uma Bianca real.
+1507855381	Então você tem seguido esse cara?
+1501963814	A última vez que soubemos ele estava indo para Nova Orleans.
+192433283	Eu o vi. Ele trabalha para a Companhia DeVitt.
+1428101056	Mas não sei onde ele está. Desculpa.
+2142838867	Vamos perguntar por aí.
+43510847	Então, qual é o seu plano agora?
+1242051853	Eu deveria me encontrar com Wayne, mas não consigo encontrá-lo em lugar nenhum.
+511639318	Você acha que algo aconteceu com ele?
+1165235131	Talvez. Acho melhor procurar por ele.
+136989762	Então conte conosco. Ainda lhe devemos sua ajuda lá.
+1873580448	Você não me deve nada.
+918226040	Olá pessoal
+1652818583	Você tem tudo o que precisa?
+513565066	Bianca está com óleo e pronta para a ação.
+1608044066	Bem, vamos encontrar o Frank.
+1076949057	E Isabelle e sua amiga?
+229128354	Escuta...
+1229627458	Por que não nos separamos?
+1231336393	Tenho certeza que você pode lidar com isso sozinho.
+899842538	Nós nos encontraremos aqui mais tarde, está bem?
+1464031914	Certp...
+754289243	Vamos lá, Hector.
+1699491377	Até mais, senhoritas.
+34392205	Bem... 
+1211196005	Então, o que está acontecendo aqui?
+1137491574	Estamos procurando a amiga de Isabelle. Quer participar?
+173864141	Não vou segurá-lo se você recusar.
+2056450478	Como eu disse antes, não gosto de favores.
+397429678	Para ser claro: Encontramos o seu Wayne, o que nos deixa quites.
+830699354	Tente se acalmar, luz do sol.
+1652314598	Você está em Nova Orleans.
 2140280330	VO TRACK
-146513349	Whatever. So any bright ideas how we find your Wayne? 
-599156730	My gut tells me it's the DeVitt Company. Maybe they tried to get rid of him.
-975977912	Makes sense. But how do we find out what happened?
-1866657286	Hmm, let me think...
-828060417	Wayne told me he was looking into three men connected to Devitt.
-1350230044	Arthur McGain, district judge. Spends his nights at the Café Chez Manu.
-1364286212	Raymond Irving, took over the Red Lantern after the previous owner disappeared.
-1665672023	And Ted O'Neill, used to be a smuggler, now somehow got a job as foreman at Pier 9.
-1840729988	I bet one of these fellas is involved. Probably carries a letter of instructions with him.
-101243554	A letter, huh? So how do we know who's the culprit?
-557427967	Good question. We should take a stroll through the quarter.
-1809967679	Lots of DeVitt men there. If we keep our ears open, we might catch a few clues.
-293872870	This is exciting. We should get a disguise too. Then we'll find our culprit in no time.
-1127581865	Or we just pick through our targets until we get the one who has the letter.
-985932825	Come on now, McCoy. I think a little investigation could be fun.
-177290138	I wasn't put on this earth to have fun.
-1934499197	We'll see. Now let's get a move on. Wayne's waiting.
-1445125768	The market's lively tonight.
-1164344156	Heh, market's busy as usual.
-705833719	Let's keep going. We'd just waste time here.
-2144361835	You never know, Sunshine. Might pay to listen in on a few conversations.
-1584209694	What's going on back here?
-314763280	What do we have here?
-292395596	Let's just keep our heads down. I'd like to avoid unnecessary trouble.
-672055057	Not much to see back here.
-283554764	Why are we heading this way?
-1249291922	Something's going on in that little courtyard. Might be worth a look.
-923980230	Okay, heads down.
-1191238407	Careful now.
-1855107592	Let's find ourselves a good spot and listen in.
-880438370	Oh, I know that smell.
-1071451308	Smells like an opium den.
-1715461989	The Dragon's Den. Sounds exciting. Let's have a look upstairs.
-789067316	Fine. Just don't try the merchandise. It'll go to your head.
-1342473463	Ugh... I feel dizzy.
-1062804395	Told you it'd go to your head.
-244970856	Let's grab the disguise and get out of this place.
-1526696303	Oh hoh! Sweetie, you wear that thing with class.
-1442340726	Why thank you, darlin'.
-1076888900	You know your way around, Miss Moreau.
-1306739217	Sure do. Spent a good part of my life in New Orleans.
-642807447	Can't imagine living in a place like this.
-1924424184	Oh, you get used to it, sweetie.
-2094816434	Wonder how Cooper and Hector are doing.
-1203587545	Getting into trouble most likely.
-1439155848	You folks been together for long?
-321905098	Just a few weeks. Feels much longer though.
-1605814065	So where are you from?
-369994905	Flagstone. Small mountain town west of Denver. 
-811897958	What about you, Sunshine?
-459413486	I don't recall that being any of your business.
-876435598	What's happening over there?
-283888378	What's going on over there?
-1809123150	The company closed off that part of town. We shouldn't go in there until we know what we're looking for.
-219469460	We come here together to deliver justice to Florence Smolker.
-998537289	Yup, that's me. At yer service.
-1995736946	Mr. Smolker is a man of many talents, which he chose to apply in his pursuit of petty and unlawful deeds.
+146513349	Tanto faz. Alguma ideia brilhante de como encontramos o seu Wayne?
+599156730	Minhas tripas me dizem que é a Companhia DeVitt. Talvez eles tentaram se livrar dele.
+975977912	Faz sentido. Mas como descobrimos o que aconteceu?
+1866657286	Hmm, deixe-me pensar ...
+828060417	Wayne me disse que estava investigando três homens conectados a Devitt.
+1350230044	Arthur McGain, juiz distrital. Passa as noites no Café Chez Manu.
+1364286212	Raymond Irving, assumiu a Lanterna Vermelha depois que o proprietário anterior desapareceu.
+1665672023	E Ted O'Neill, que costumava ser contrabandista, agora de alguma forma conseguiu um emprego como capataz no Pier 9.
+1840729988	Aposto que um desses caras está envolvido. Provavelmente carrega uma carta de instruções com ele.
+101243554	Uma carta, hein? Então, como sabemos quem é o culpado?
+557427967	Boa pergunta. Deveríamos dar um passeio pelo bairro.
+1809967679	Muitos homens DeVitt lá. Se mantivermos nossos ouvidos abertos, poderemos pegar algumas pistas.
+293872870	Isso é empolgante. Deveríamos ter um disfarce também. Então, encontraremos nosso culpado em pouco tempo.
+1127581865	Ou apenas escolhemos nossos alvos até encontrarmos quem tem a carta.
+985932825	Venha agora, McCoy. Eu acho que uma pequena investigação pode ser divertida.
+177290138	Eu não fui colocado nesta terra para me divertir.
+1934499197	Veremos. Agora vamos seguir em frente. Wayne está esperando.
+1445125768	O mercado está animado hoje à noite.
+1164344156	Heh, o mercado está cheio como sempre.
+705833719	Vamos continuar. Nós estamos perdendo tempo aqui.
+2144361835	Você nunca sabe, luz do sol. Pode pagar para ouvir algumas conversas.
+1584209694	O que está acontecendo aqui?
+314763280	O que temos aqui?
+292395596	Vamos apenas manter a cabeça baixa. Eu gostaria de evitar problemas desnecessários.
+672055057	Não há muito para ver aqui.
+283554764	Por que estamos indo nessa direção?
+1249291922	Algo está acontecendo naquele pequeno pátio. Pode valer a pena dar uma olhada.
+923980230	Certo, cabeças baixas.
+1191238407	Cuidado agora.
+1855107592	Vamos nos encontrar em um bom lugar e ouvir.
+880438370	Oh, eu conheço esse cheiro.
+1071451308	Cheira a uma casa de ópio.
+1715461989	A toca do dragão. Parece emocionante. Vamos dar uma olhada lá em cima.
+789067316	Certo. Apenas não prove a mercadoria. Isso irá mexer com sua cabeça.
+1342473463	Ugh ... me sinto tonto.
+1062804395	Te disse que isso iria à sua cabeça.
+244970856	Vamos pegar o disfarce e sair deste lugar.
+1526696303	Oh hoh! Querida, você veste essa coisa com a classe.
+1442340726	Obrigado, querida.
+1076888900	Você sabe o que fazer, senhorita Moreau.
+1306739217	Claro que sim. Passei boa parte da minha vida em Nova Orleans.
+642807447	Não consigo imaginar morar em um lugar como este.
+1924424184	Oh, você se acostuma, querida.
+2094816434	Me pergunto como Cooper e Hector estão indo.
+1203587545	É provável que se metam em problemas.
+1439155848	Vocês estão juntos há muito tempo?
+321905098	Apenas algumas semanas. Parece muito mais tempo.
+1605814065	Então, de onde você é?
+369994905	Flagstone. Pequena cidade montanhosa a oeste de Denver.
+811897958	E você, luz do sol?
+459413486	Não me lembro de ser da sua conta.
+876435598	O que está acontecendo lá?
+283888378	O que está acontecendo aí?
+1809123150	A Companhia fechou essa parte da cidade. Não devemos entrar até sabermos o que estamos procurando.
+219469460	Estamos aqui juntos para fazer justiça a Florence Smolker.
+998537289	Sim, sou eu. Ao seu serviço.
+1995736946	Smolker é um homem de muitos talentos, que escolheu empregar para cometer atos mesquinhos e ilegais.
