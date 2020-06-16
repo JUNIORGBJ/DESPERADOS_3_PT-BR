@@ -1,95 +1,95 @@
-1403172243	Did you see the man?
-220568750	Indeed. A big bounty hunter.
-1345606494	Any ideas about what's going on?
-1690547777	My money is on swamp witches.
-911229729	You think it is true? The devil himself?
-1857900652	I'd rather not think about that.
-1415285010	I wouldn't mind a tumble with the girl.
-1927048387	You'll be a eunuch by the morrow, sir!
-1117004043	What is taking so long?
-814439946	We have a few stragglers.
-154845371	Lovely night, isn't it.
-1840490217	Most certainly.
-450269820	Did you hear who's coming?
-1673988065	I did. It'll be a show.
-1827375073	We have to get out of here.
-1836878704	Best we bide our time.
-1313872944	How do we get out?
-1497610560	Patience.
-660665663	Did you see the ship that came in?
-381532331	It belongs to the DeVitt Company.
-1392186670	Why would they block the roads?
-1979457134	Company business, most likely.
-800313501	I can hardly stand.
-652077283	You and me both, friend.
-1458576926	I can't take this anymore.
-255570458	Stay strong, friend.
-2123945253	What are they doing here?
-582440856	There was a breakout at the mine.
-1408426731	They seem on edge.
-527110651	They are hunting dangerous men.
-16734669	Enjoy the evening so far?
-1075702507	How can I not?
-557500789	Vincent seems a little on edge.
-2116629180	Oh, you're imagining things.
-1460636674	You think they will come?
-771560481	I trust Frank's instinct.
-734432421	Reminds me of the good old days.
-1157808654	Same heat.
-1572279586	I'm telling you, it won't end well.
-1989904175	Yes, I've heard about that.
-1396983383	You should leave it to the professionals.
-714515511	That is exactly what I'm talking about.
-748288545	Don't tell anyone, understand?
-1461604777	What about the other one?
-956050062	It won't matter in the long run.
-749566989	Just listen for a moment.
-1137319370	Very well, but what happens now?
-1977448926	Don't worry. I have seen it before.
-1456092132	I'm not sure I follow.
-1433259634	I can't believe I missed that.
-1928335019	That is the difference right there.
-332311510	I told you so, didn't I?
-273855757	That cannot be true, can it?
-1293702965	You best believe it.
-1315036200	Certainly that's nothing new.
-832668214	One does hear all kinds of things.
-430207378	I feel that times are changing.
-1557878430	That is news to me.
-425294411	Now, where was I?
-1903320517	Lost my thought... Ah, yes.
-1330282399	As I was saying...
-2030500107	Right, where were we...
-142550144	Let's get back to the point...
-743921636	Stop it! That's not right!
-1943237329	What are you doing there?
-1546479548	Would you please stop that!
-360388241	I see what you are up to.
-1801404900	You are a strange fellow.
-1385037847	Are you being weird on purpose?
-648607637	What are you doing here?
-725254074	You really shouldn't be here!
-1633256433	You better not let the guards see you!
+1403172243	Você viu o homem?
+220568750	De fato. Um grande caçador de recompensas.
+1345606494	Alguma idéia sobre o que está acontecendo?
+1690547777	Na minha opinião, elas eram as bruxas do pântano.
+911229729	Você acha que é verdade? O próprio diabo?
+1857900652	Prefiro não pensar nisso.
+1415285010	Eu não me importaria de mexer com a garota.
+1927048387	Você será um eunuco amanhã, senhor!
+1117004043	O que está demorando tanto?
+814439946	Temos alguns retardatários.
+154845371	Noite adorável, não é?
+1840490217	Certamente.
+450269820	Você ouviu quem está vindo?
+1673988065	Eu fiz. Vai ser um show.
+1827375073	Temos que sair daqui.
+1836878704	Melhor esperarmos o nosso tempo.
+1313872944	Como saímos?
+1497610560	Paciência.
+660665663	Você viu o navio que entrou?
+381532331	Pertence à companhia DeVitt.
+1392186670	Por que eles bloqueariam as estradas?
+1979457134	Negócio da companhia, provavelmente.
+800313501	Eu mal posso suportar.
+652077283	Você e eu, amigo.
+1458576926	Eu não aguento mais isso.
+255570458	Fique forte, amigo.
+2123945253	O que eles estão fazendo aqui?
+582440856	Houve uma fuga na mina.
+1408426731	Eles parecem nervosos.
+527110651	Eles estão caçando homens perigosos.
+16734669	Aproveite a noite até agora?
+1075702507	Como eu não posso?
+557500789	Vincent parece um pouco nervoso.
+2116629180	Oh, você está imaginando coisas.
+1460636674	Você acha que eles virão?
+771560481	Eu confio no instinto de Frank.
+734432421	Lembra-me dos bons velhos tempos.
+1157808654	Mesmo calor.
+1572279586	Estou lhe dizendo, não vai acabar bem.
+1989904175	Sim, eu ouvi sobre isso.
+1396983383	Você deve deixar para os profissionais.
+714515511	É exatamente disso que estou falando.
+748288545	Não conte a ninguém, entendeu?
+1461604777	E o outro?
+956050062	Não importa a longo prazo.
+749566989	Apenas ouça por um momento.
+1137319370	Muito bem, mas o que acontece agora?
+1977448926	Não se preocupe. Eu já vi isso antes.
+1456092132	Não tenho certeza se sigo.
+1433259634	Não acredito que senti falta disso.
+1928335019	Essa é a diferença ali.
+332311510	Eu te disse, não disse?
+273855757	Isso não pode ser verdade, pode?
+1293702965	É melhor você acreditar.
+1315036200	Certamente isso não é novidade.
+832668214	Ouvimos todos os tipos de coisas.
+430207378	Sinto que os tempos estão mudando.
+1557878430	Isso é novidade para mim.
+425294411	Agora onde eu estava?
+1903320517	Perdi meu pensamento... Ah, sim.
+1330282399	Como eu estava dizendo...
+2030500107	Certo, onde estávamos..
+142550144	Vamos voltar ao ponto...
+743921636	Pare com isso! Isso não está certo!
+1943237329	O que você está fazendo aí?
+1546479548	Você poderia parar com isso por favor!
+360388241	Eu vejo o que você está fazendo.
+1801404900	Você é um sujeito estranho.
+1385037847	Você está sendo estranho de propósito?
+648607637	O que você está fazendo aqui?
+725254074	Você realmente não deveria estar aqui!
+1633256433	É melhor você não deixar os guardas te ver!
 1494333216	...
 1726812418	...
 1027449525	...
 513141098	...
 1796421953	...
 354432373	...
-1985450551	Help! Guards!
-832375262	Sweet Jesus no!
-428750482	Oh God!
+1985450551	Socorro! Guardas!
+832375262	Doce Jesus, não!
+428750482	Oh Deus!
 1781917093	Aaaaah!
-2081467471	Help! Help!
-1487347264	Somebody help!
-1922207065	Anyone! Help!
-1856991275	I have to get away!
-794448066	I cannot stay here!
-447958076	Quickly!
-354452970	Don't move a muscle.
-2026520431	Why does this keep happening?
-1616624561	This is rather unfortunate.
-960396620	I must take shelter.
+2081467471	Socorro! Socorro!
+1487347264	Alguem AJUDE!
+1922207065	Alguém! Socorro!
+1856991275	Eu tenho que fugir!
+794448066	Eu não posso ficar aqui!
+447958076	Rapidamente!
+354452970	Não mexa um músculo.
+2026520431	Por que isso continua acontecendo?
+1616624561	Isso é bastante lamentável.
+960396620	Eu preciso me abrigar.
 1046653401	...!
 1847140512	...!
 214010343	...!
@@ -114,128 +114,128 @@
 1966553148	...!
 685085022	...
 1492791628	...
-1977122599	She's expired!
-128008751	Sweet lord! She's dead!
-972866228	He's expired.
-1553938138	Sweet lord! He's dead!
-2063510535	A corpse! Good lord!
-7700022	Murdered in cold blood!
-827287725	He was slain by one of his own.
-2035357434	A fellow guard took his life.
-884070965	She was murdered by one of her own.
-425422005	A fellow guard took her life.
-1291237333	Slain by a fellow guard. Barbaric, but wonderful.
-1777785314	Dead. One of his comrade's handiwork.
-812978466	Sweet Jesus!
-2094808936	Is this a practical joke?
-1829555398	Good lord!
-644965549	Foreign tracks. Who's been through here?
-908112359	I don't recall seeing these footprints.
-675612776	Who left this ominous trail behind?
-391374408	Footprints. Could be anyone's.
-458222763	Damnation. The light went out.
-1517282018	Again with the light? Imbeciles.
-1435054585	A gentlewoman always carries matches.
-880006116	Come now. Again with the light?
-1942381254	W-what in God's name?!
-65760699	Ah! What struck him down?
-1741304659	Good lord! Witchcraft!
-1676427167	You're possessed by demons!
-2116265120	Stop! How could you?!
-1673708058	Stop! No! I forbid it!
-1998640128	It certainly looks valuable.
-2023984935	Who'd leave such a thing here?
-1488625478	I don't recall seeing this before.
-377856755	A shame to leave that there.
-2085533696	You have a new owner, my dear.
-871547310	I'm going to stake my claim.
-1219092513	I think a few drinks at the club are in order.
-458272752	How fortunate.
-1887840508	Fortune favors me today.
-325950317	Is she asleep?
-764707868	What is she doing?
-1145154622	Is he asleep?
-1319959369	What is he doing?
-190516649	Hey! What's with you?
-422305852	Lazing about, are we?
-74442528	Someone's tied her up!
-83293604	Someone's violated her!
-986101809	Someone's tied him up!
-837170238	Someone's overwhelmed him!
-896525521	Someone's tied you up good!
-1887530676	Who put you in this sorry state?
-980992627	Where is she?
-309837379	Where has she gone?
-574308779	I'm sure she was here before.
-1370923203	Where is he?
-275099562	Where did he go?
-667692644	I know he was here before.
-1499447213	It seems I'm missing a partner.
-506781908	I'm kept waiting, apparently.
-1335797698	Hey! What's keeping you?
-1250701930	Come now, friend. Wake up.
-1962324965	Hey! Wake up, will you?
-882731690	Are you all right?
-909655195	What fiend did this to you?
-1400102306	Let me take care of your bonds.
-2119623311	Hmm, what?
-990007802	What a peculiar noise.
-1135141105	What was that?
-1144564863	Come out, whoever is doing this!
-342575783	Yes, yes, very entertaining!
-1452079675	That is quite enough!
-1353881883	Where did that come from?!
-1723975177	Gunfire! Good lord!
-1834113627	They are armed and hostile.
-297674054	I could have sworn...
-1618435563	I heard you! Come out!
-133604209	Is anyone there?
-1203819468	Enough already!
-570792970	I bid you to stop that.
-642610030	Stop this nonsense.
-790925529	The hell was that?
-672651697	Am I going crazy?
-1959932993	Ah! Uh...what?
-1563100458	What am I doing?
-1033223694	Never mind.
-1843686868	This is stupid.
-407298079	What is going on here?
-2025874676	Is anyone here?
-1776850797	Anyone? Show yourself!
-193502756	This jest has had its course.
-2030010949	I am not in the mood for games.
-1683356848	Nothing. Oh well.
-1778758163	Nothing to be done here.
-978722772	Gone. Back to it then.
-1481694638	I have better things to do.
-2089207196	This was a waste of time.
-635231769	I'm not going to walk there.
-1775870923	I'm disinclined to walk there.
-923547475	That's too far off.
-2042168394	I am not heading inside.
-336838128	I'd rather stay outside.
-362466324	I cannot go in there right now.
-1357363166	I am not heading outside.
-945408639	I'd rather stay inside.
-883959084	I cannot go outside right now.
-881969723	There is no way to get there.
-39400020	That is far too much trouble.
-1999722965	Over there? Hah, you jest.
-1176534400	They wandered off, most likely.
-580288198	Maybe they had to relieve themselves.
-1340714392	Stood up again.
-1309355379	There you are! I was worried sick!
-255874644	Why would you wander off like that?
-951825582	Good lord! You put the scare in me!
-1622624274	Oh my! What happened?
-1188693423	Damnation.
-1134504867	This is horrible.
-2115236093	This can't be happening.
-1941204400	Lord almighty.
-1573683953	Horrible. Just horrible.
-40003383	Tragic. Most tragic.
-1211247312	I will have nightmares from this.
-1649813276	Nothing to be done about it.
+1977122599	Ela morreu!!
+128008751	Doce Senhor! Ela está morta!
+972866228	Ele morreu.
+1553938138	Doce Senhor! Ele está morto!
+2063510535	Um cadáver! Bom Deus!
+7700022	Assassinado a sangue frio!
+827287725	Ele foi morto por um dos seus.
+2035357434	Um companheiro de guarda tirou a vida.
+884070965	Ela foi assassinada por um dos seus.
+425422005	Um companheiro de guarda tirou a vida dela.
+1291237333	Morto por um companheiro de guarda. Bárbaro, mas maravilhoso.
+1777785314	Morto. Uma das obras de seu camarada.
+812978466	Doce Jesus!
+2094808936	Isso é uma piada?
+1829555398	Bom Deus!
+644965549	Faixas estrangeiras. Quem passou por aqui?
+908112359	Não me lembro de ter visto essas pegadas.
+675612776	Quem deixou essa trilha sinistra para trás?
+391374408	Pegadas. Pode ser de qualquer um.
+458222763	Condenação. A luz se apagou.
+1517282018	Novamente com a luz? Imbecis.
+1435054585	Uma senhora sempre carrega fósforos.
+880006116	Venha agora. Novamente com a luz?
+1942381254	O que? Em nome de Deus!
+65760699	Ah! O que o derrubou?
+1741304659	Bom Deus! Feitiçaria!
+1676427167	Você está possuído por demônios!
+2116265120	Pare! Como você pode?!
+1673708058	Pare! Não! Eu proíbo!
+1998640128	Certamente parece valioso.
+2023984935	Quem deixaria uma coisa dessas aqui?
+1488625478	Não me lembro de ter visto isso antes.
+377856755	Uma pena deixar isso lá.
+2085533696	Você tem um novo dono, minha querida.
+871547310	Eu vou apostar minha reivindicação.
+1219092513	Eu acho que algumas bebidas no clube estão em ordem.
+458272752	Que sorte.
+1887840508	A sorte me favorece hoje.
+325950317	Ela está dormindo?
+764707868	O que ela esta fazendo?
+1145154622	Ele está dormindo?
+1319959369	O que ele está fazendo?
+190516649	Ei! Que há com você?
+422305852	Preguiçoso, não é?
+74442528	Alguém a amarrou!
+83293604	Alguém a violou!
+986101809	Alguém o amarrou!
+837170238	Alguém o dominou!
+896525521	Alguém te amarrou bem!
+1887530676	Quem o colocou nesse estado lastimável?
+980992627	Onde ela está?
+309837379	Para onde ela foi?
+574308779	Tenho certeza que ela já esteve aqui antes.
+1370923203	Onde ele está?
+275099562	Onde ele foi?
+667692644	Eu sei que ele estava aqui antes.
+1499447213	Parece que estou sentindo falta de um parceiro.
+506781908	Eu continuo esperando, aparentemente.
+1335797698	Ei! O que está te mantendo?
+1250701930	Venha agora, amigo. Acorde.
+1962324965	Ei! Acorde, sim?
+882731690	Você está bem?
+909655195	Que demônio fez isso com você?
+1400102306	Deixe-me cuidar de seus laços.
+2119623311	Hmmm, o que?
+990007802	Que barulho peculiar.
+1135141105	O que é que foi isso?
+1144564863	Saia, quem está fazendo isso!
+342575783	Sim, sim, muito divertido!
+1452079675	Isso é o bastante!
+1353881883	De onde veio isso?!
+1723975177	Tiros! Bom Deus!
+1834113627	Eles são armados e hostis.
+297674054	Eu poderia jurar...
+1618435563	Eu te ouvi! Sair!
+133604209	Tem alguém aí?
+1203819468	Já basta!
+570792970	Peço que você pare com isso.
+642610030	Pare com essa bobagem.
+790925529	Que diabos foi isso?
+672651697	Eu estou ficando louco?
+1959932993	Ah! Uh... o quê?
+1563100458	O que eu estou fazendo?
+1033223694	Deixa pra lá.
+1843686868	Isso é estúpido.
+407298079	O que está acontecendo aqui?
+2025874676	Tem alguém aqui?
+1776850797	Alguém? Mostre-se!
+193502756	Essa brincadeira teve seu curso.
+2030010949	Não estou com disposição para jogos.
+1683356848	Nada. Ah, bem.
+1778758163	Nada a ser feito aqui.
+978722772	Foi. De volta a ele então.
+1481694638	Eu tenho coisas melhores para fazer.
+2089207196	Isso foi uma perda de tempo.
+635231769	Eu não vou andar lá.
+1775870923	Estou decidido a caminhar até lá.
+923547475	Isso está muito longe.
+2042168394	Eu não vou entrar.
+336838128	Prefiro ficar de fora.
+362466324	Eu não posso entrar lá agora.
+1357363166	Eu não estou indo para fora.
+945408639	Prefiro ficar lá dentro.
+883959084	Eu não posso sair lá fora agora.
+881969723	Não há como chegar lá.
+39400020	Isso é demais.
+1999722965	Lá? Hah, você está brincando.
+1176534400	Eles se afastaram, provavelmente.
+580288198	Talvez eles tivessem que se aliviar.
+1340714392	Levantou-se novamente.
+1309355379	Aí está você! Eu estava doente!
+255874644	Por que você iria sair assim?
+951825582	Bom Deus! Você coloca o susto em mim!
+1622624274	Oh meu! O que aconteceu?
+1188693423	Condenação.
+1134504867	Isto é horrível.
+2115236093	Isso não pode estar acontecendo.
+1941204400	Senhor Todo-Poderoso.
+1573683953	Horrível. Somente Horrível.
+40003383	Trágico. Mais trágico.
+1211247312	Vou ter pesadelos com isso.
+1649813276	Nada a ser feito sobre isso.
 396317336	...
 1112784339	...
 2011790461	...
@@ -331,9 +331,9 @@
 1281508472	...
 1039779411	...
 189213176	...
-1271225798	W-wait, what happened?
-714701772	Huh... It was strange...
-1428535420	So...how did I get here?
-975495802	Huh... What happened?
-511318392	Anything I can help with?
-2107766117	My, this will be interesting.
+1271225798	E-espera, o que aconteceu?
+714701772	Hein... Foi estranho...
+1428535420	Então... como cheguei aqui?
+975495802	Hein... Foi estranho...
+511318392	Alguma coisa com a qual eu possa ajudar?
+2107766117	Meu, isso vai ser interessante.
