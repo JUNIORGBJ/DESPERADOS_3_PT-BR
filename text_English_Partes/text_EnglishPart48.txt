@@ -1,46 +1,46 @@
-112519650	And who are you, madam?
-1005170768	Yes? Do I know you?
-1469219878	My, you're a naughty girl.
-1425080148	You're definitely a looker.
-1346624600	What are you suggesting?
-754004383	Mhm, I'm listening.
-682724068	The pleasure was all mine.
-1614927031	Yes. See you later, perhaps.
-1381527384	Take care, madam.
-1181088113	Have a pleasant day.
+112519650	E quem é você, senhora?
+1005170768	Sim? Eu conheço você?
+1469219878	Você é uma garota malcriada.
+1425080148	Você é definitivamente um espectador.
+1346624600	O que você está sugerindo?
+754004383	Hmmm, Estou ouvindo.
+682724068	O prazer foi todo meu.
+1614927031	Sim. Até mais, talvez.
+1381527384	Tome cuidado, senhora.
+1181088113	Tenha um bom dia.
 354589831	Vincent?
-324802145	Ah, our illustrious host.
-421176680	Of course, Vincent.
-190611881	Good to see you, Vincent.
-1023305032	How interesting.
-226379297	The things you know.
-1456522951	Fascinating.
-1593169969	Yes, you know best.
-1933670674	Make sure and come by later.
-495737185	A pleasure as always.
-520674673	Don't be too busy, Vincent.
-1792018848	Thank God he's gone...
-57814753	Perhaps another time.
-300023923	You overestimate yourself, my dear.
-157253991	That won't happen, madam.
-1205381688	That is going too far.
-1455994893	You lucky bastard.
-1799624607	She's too good for ya!
-1136043908	Yeah, yeah. You go have fun...
-1622906240	Oh, darlin'. He's not worth the trouble, believe me.
-1876460036	Oh no you don't.
-1159306835	She's just playing with ya.
-1554178564	Don't let her fool you.
-134363889	Another fruitful day...
-905640874	Let's see, what else...
-667315518	No, this simply won't do...
-374669181	Everything's in order.
-641843691	Huh... Never noticed that...
-453225355	Later... Yes, later.
-1577539249	This is getting tedious.
-1852398044	Definitely overpriced.
-1961188689	Have to keep that in mind.
-1017343242	Ah! I almost forgot...
+324802145	Ah, nosso ilustre anfitrião.
+421176680	Claro, Vincent.
+190611881	Prazer em vê-lo, Vincent.
+1023305032	Que interessante.
+226379297	As coisas que você sabe.
+1456522951	Fascinante.
+1593169969	Sim, você conhece melhor.
+1933670674	Certifique-se e venha mais tarde.
+495737185	Um prazer como sempre.
+520674673	Não fique muito ocupado, Vincent.
+1792018848	Graças a Deus ele se foi...
+57814753	Talvez outra hora.
+300023923	Você se superestima, minha querida.
+157253991	Isso não vai acontecer, senhora.
+1205381688	Isso está indo longe demais.
+1455994893	Seu bastardo sortudo.
+1799624607	Ela é boa demais para você!
+1136043908	Sim Sim. Você vai se divertir...
+1622906240	Oh, querida. Ele não vale a pena, acredite em mim.
+1876460036	Oh não, você não.
+1159306835	Ela está apenas brincando com você.
+1554178564	Não a deixe enganar você.
+134363889	Outro dia frutífero...
+905640874	Vamos ver, o que mais...
+667315518	Não, isso simplesmente não serve...
+374669181	Está tudo em ordem.
+641843691	Huh... Nunca notei isso...
+453225355	Mais tarde... Sim, mais tarde.
+1577539249	Isso está ficando entediante..
+1852398044	Definitivamente caro.
+1961188689	Tem que ter isso em mente.
+1017343242	Ah! Eu quase esqueci...
 940229683	...
 1925386742	...
 1340397718	...
@@ -51,167 +51,167 @@
 2071555800	...
 1653360674	...
 636145960	...
-30709434	Cheers!
-1658540811	To good health!
-1470790383	Hear hear!
-967610991	Here's looking at you.
-782589311	Frank sure is in a good mood.
-57085310	When do we ride?
-1688770861	Ghastly bandits...
-659892002	They will not take me!
-1236935	Let's hope it stays quiet...
-795989707	It is getting late...
-1782436612	I can't wait for the ceremony.
-1550155774	Marvelous decor.
-182336083	Our dear cousin, dead.
-1918570456	There's a killer on the loose.
-638228143	Blasted rain.
-295492585	A sizeable ranch.
-1324786057	Unacceptable. We'll miss the wedding!
-1951713450	We have been here for days.
-261253294	I will write a formal complaint.
-280742776	I'm freezing! This is outrageous.
-1068511834	I will keep watch.
-2067887538	Frank is showing a temper.
-410397557	Awful noise last night.
-1229775573	Those blasted strangers.
-1786729789	We're in luck. Third catch this month.
-658494238	The girl will fetch a good price.
-1290257057	Busy night in New Orleans.
-1184606581	Love the city at night.
-1097770410	I must get out of here.
-1160507109	This is a mistake.
-2127308551	Ugh, I'm soaking.
-1181972112	What in God's name is going on...
-1207670221	So tired.
-140417925	I need to lie down...
-2052132623	What do company men want here?
-734917050	I don't like their looks.
-186294582	Hot day in the desert.
-1007284668	Spectacular evening.
-730209391	Vincent has outdone himself.
-1760518251	This is the life.
-907284283	Like the good old days.
-1954457527	How is your day?
-429279556	I can't complain.
-403000237	Good day.
-1846004557	Good day.
-7733384	How are you?
-1535306321	I'm fine. How are you?
-923335378	Anything amiss?
-561936083	Oh, it's nothing.
-1598338893	Excuse me, can I borrow some tobacco?
-1042228625	Sorry, I can't help you.
-998181370	Are you up for drinks later?
-1949789269	Certainly.
-1554566593	Any trouble?
-210397664	Thankfully not.
-1695715331	You up for a game of poker later?
-1892589894	You need to ask?
-576168993	How did it go?
-2147364375	It was a cinch.
-1220917553	When do we ride?
-843663462	I'm not sure. Soon.
-659402639	Hey, where is the whiskey?
-506731499	We ran dry yesterday.
-2087867666	You think help is coming?
-491522944	We'll have to wait and see.
-991875847	I despise bandits.
-945648983	That makes two of us.
-770265890	Are the company men making trouble?
-1059918480	Not more than usual.
-1119741147	You okay, friend?
-2005417954	Don't worry. I'll manage.
-1530696088	I'm so excited for him.
-1896159954	Our dear cousin, finally married.
-2138345405	Did you see the bride's dress?
-395131905	Oh yes. Only the best for our cousin.
-1255898381	Did you see what happened?
-537931171	I'd like to. Is there a body?
-1094849248	So much for our dear cousin.
-561802132	I never liked him anyway.
-271065096	This is a sizeable ranch.
-122050469	I have seen bigger.
-1779884202	Must it rain tonight?
-277975513	Come now, you're not made of straw.
-1330214847	It's freezing!
-1804844047	I'm going to catch something nasty.
-1680920523	Did you hear the news about Flagstone?
-1068000334	So what? We're missing the wedding!
-944483258	Do we think he was alone?
-1766129879	It's unclear. Stay sharp.
-1854907898	Did you see the man?
-876676388	Indeed. A damn bounty hunter.
-742465346	Any clues on what's going on?
-1130272016	My money is on swamp witches.
-2105042420	You think it is true? The devil himself?
-845140358	I'd rather not think about it.
-855641018	I wouldn't mind a tumble with the girl.
-2038972020	The boss won't like that.
-1791990369	What is taking so long?
-1904951934	We still have a few stragglers.
-1727604312	Lovely night, isn't it.
-1441520069	Most certainly.
-102311604	Did you hear who's coming?
-1005990359	I did. It'll be a show.
-1778946503	We have to break out of here.
-1200978396	Best we bide our time.
-232424106	How do we get out?
-1238309353	Patience.
-743014583	Did you see the ship that came in?
-1534779148	It belongs to DeVitt.
-1299584755	Why would they block the roads?
-1240713191	Company business, most likely.
-901565422	I can hardly stand.
-1418076256	You and me both, friend.
-620911853	I can't take this anymore.
-867395614	Stay strong, friend.
-1881750636	What are they doing here?
-1284010605	There was a breakout at the mine.
-148687909	They seem on edge.
-1616648104	They are hunting dangerous men.
-1144457094	Enjoy the evening so far?
-1196313950	How can I not?
-1587676867	Vincent seems a little on edge.
-1643949158	Oh, you're imagining things.
-806214391	You think they will come?
-1293344806	I trust Frank's instinct.
-515854775	Reminds me of the good old days.
-2098670320	Same old heat also.
-1765507380	I'm telling you, it won't end well.
-562162167	Yes, I've heard about that.
-1073260008	You should leave it to the professionals.
-2054331313	That is exactly what I'm talking about.
-84928980	Don't tell anyone, understand?
-1965305206	What about the other one?
-252449846	It won't matter in the long run.
-1001318888	Just listen for a moment.
-993942892	Very well, but what happens now?
-1899894936	Don't worry. I have seen it before.
-448934298	I'm not sure I follow.
-1236928875	I can't believe I missed that.
-1477876591	That is the difference right there.
-1817297803	I told you so, didn't I?
-936941692	That cannot be true, can it?
-1673973709	You best believe it.
-1261649749	Certainly that's nothing new.
-1195829652	One does hear all kinds of things lately.
-639909000	I feel that times are changing.
-1834783339	That is news to me.
-2018335622	Now, where was I?
-1166500983	Lost my thought... Ah, yes.
-1465055266	As I was saying...
-985567019	Right, where were we...
-462550873	Back to the point...
-860014485	Stop it! That's not right!
-1904139271	What are you doing there?
-1130226246	Would you please stop that!
-1060555275	I see what you are up to.
-211896578	You are a strange fellow.
-836339868	Are you being weird on purpose?
-14948735	What are you doing here?
-528246676	You really should not be here.
-1982206999	You better not let the guards see you!
+30709434	Felicidades!
+1658540811	Boa saúde!
+1470790383	Ouça ouça!
+967610991	Aquilo está olhando para você.
+782589311	Frank com certeza está de bom humor.
+57085310	Quando cavalgamos?
+1688770861	Bandidos medonhos...
+659892002	Eles não vão me levar!
+1236935	Vamos torcer para que fique quieto...
+795989707	Está ficando tarde...
+1782436612	Mal posso esperar pela cerimônia.
+1550155774	Decoração maravilhosa.
+182336083	Nosso querido primo, morto.
+1918570456	Há um assassino à solta.
+638228143	Chuva forte.
+295492585	Um rancho considerável.
+1324786057	Inaceitável. Vamos sentir falta do casamento!
+1951713450	Estamos aqui há dias.
+261253294	Vou escrever uma queixa formal.
+280742776	Estou congelando! Isso é ultrajante.
+1068511834	Eu vou vigiar.
+2067887538	Frank está manifestando um temperamento.
+410397557	Barulho horrível ontem à noite.
+1229775573	Aqueles malditos estranhos.
+1786729789	Estamos com sorte. Terceira captura este mês.
+658494238	A menina vai buscar um bom preço.
+1290257057	Noite movimentada em Nova Orleans.
+1184606581	Amei a cidade à noite.
+1097770410	Eu preciso sair daqui.
+1160507109	Isto é um erro.
+2127308551	Hein, estou ensopado.
+1181972112	O que em nome de Deus está acontecendo...
+1207670221	Tão cansado.
+140417925	Eu preciso me deitar...
+2052132623	O que os homens da companhia querem aqui?
+734917050	Eu não gosto da aparência deles.
+186294582	Dia quente no deserto.
+1007284668	Noite espetacular.
+730209391	Vincent se superou.
+1760518251	Esta é a vida.
+907284283	Como nos bons velhos tempos.
+1954457527	Como está o seu dia?
+429279556	Eu não posso reclamar.
+403000237	Bom dia.
+1846004557	Bom dia.
+7733384	Como você está?
+1535306321	Estou bem. Como você está?
+923335378	Alguma coisa errada?
+561936083	Oh, não é nada.
+1598338893	Com licença, pode me emprestar um pouco de tabaco?
+1042228625	Desculpe, não posso ajudá-lo.
+998181370	Você quer beber mais tarde?
+1949789269	Certamente.
+1554566593	Qualquer problema?
+210397664	Felizmente não.
+1695715331	Você quer jogar poker mais tarde?
+1892589894	Você precisa perguntar?
+576168993	Como foi?
+2147364375	Foi uma coisa fácil.
+1220917553	Quando cavalgamos?
+843663462	Não tenho certeza. Em breve.
+659402639	Ei, onde está o uísque?
+506731499	Ontem secamos.
+2087867666	Você acha que a ajuda está chegando?
+491522944	Teremos que esperar e ver.
+991875847	Eu desprezo bandidos.
+945648983	Que faz de nós dois.
+770265890	Os homens da empresa estão causando problemas?
+1059918480	Não é mais do que o habitual.
+1119741147	Você está bem, amigo?
+2005417954	Não se preocupe. Eu me viro.
+1530696088	Estou tão animada por ele.
+1896159954	Nosso querido primo, finalmente casado.
+2138345405	Você viu o vestido da noiva?
+395131905	Ai sim. Apenas o melhor para o nosso primo.
+1255898381	Você viu o que aconteceu?
+537931171	Eu gosto disso. Existe um corpo?
+1094849248	Tanta coisa para o nosso querido primo.
+561802132	Eu nunca gostei dele de qualquer maneira.
+271065096	Este é um rancho considerável.
+122050469	Eu vi maior.
+1779884202	Deve chover hoje à noite?
+277975513	Venha agora, você não é feito de palha.
+1330214847	Está congelando!
+1804844047	Eu vou pegar algo desagradável.
+1680920523	Você ouviu as notícias sobre Flagstone?
+1068000334	E daí? Estamos perdendo o casamento!
+944483258	Achamos que ele estava sozinho?
+1766129879	Não está claro. Fique afiado.
+1854907898	Você viu o homem?
+876676388	De fato. Um maldito caçador de recompensas.
+742465346	Alguma pista sobre o que está acontecendo?
+1130272016	Na minha opinião, elas eram as bruxas do pântano.
+2105042420	Você acha que é verdade? O próprio diabo?
+845140358	Prefiro não pensar nisso.
+855641018	Eu não me importaria de cair na garota.
+2038972020	O chefe não vai gostar disso.
+1791990369	Por que está demorando tanto?
+1904951934	Ainda temos alguns retardatários.
+1727604312	Noite adorável, não é?
+1441520069	Certamente.
+102311604	Você ouviu quem está vindo?
+1005990359	Eu fiz. Será um espetáculo.
+1778946503	Temos que sair daqui.
+1200978396	Melhor esperarmos o nosso tempo.
+232424106	Como saímos?
+1238309353	Paciência.
+743014583	Você viu o navio que chegou?
+1534779148	Pertence a DeVitt..
+1299584755	Por que eles bloqueariam as estradas?
+1240713191	Negócio da companhia, provavelmente.
+901565422	Eu mal posso suportar.
+1418076256	Você e eu, amigo.
+620911853	Eu não aguento mais isso.
+867395614	Fique forte, amigo.
+1881750636	O que eles estão fazendo aqui?
+1284010605	Houve uma fuga da mina.
+148687909	Eles parecem nervosos.
+1616648104	Eles estão caçando homens perigosos.
+1144457094	Aproveite a noite até agora?
+1196313950	Como eu não posso?
+1587676867	Vincent parece um pouco nervoso.
+1643949158	Oh, você está imaginando coisas.
+806214391	Você acha que eles virão?
+1293344806	Confio no instinto de Frank.
+515854775	Lembra-me dos bons velhos tempos.
+2098670320	O mesmo calor antigo também.
+1765507380	Estou lhe dizendo, não vai acabar bem.
+562162167	Sim, eu ouvi sobre isso.
+1073260008	Você deve deixar para os profissionais.
+2054331313	É exatamente disso que estou falando.
+84928980	Não conte a ninguém, entendeu?
+1965305206	E o outro?
+252449846	Não importa a longo prazo.
+1001318888	Apenas ouça por um momento.
+993942892	Muito bem, mas o que acontece agora?
+1899894936	Não se preocupe. Eu já vi isso antes.
+448934298	Não tenho certeza se vou seguir.
+1236928875	Não acredito que senti falta disso.
+1477876591	Essa é a diferença ali.
+1817297803	Eu te disse, não disse?
+936941692	Isso não pode ser verdade, pode?
+1673973709	É melhor você acreditar.
+1261649749	Certamente isso não é novidade.
+1195829652	Ultimamente, ouve-se todo tipo de coisa.
+639909000	Sinto que os tempos estão mudando.
+1834783339	Isso é novidade para mim.
+2018335622	Agora, onde eu estava?
+1166500983	Perdi meu pensamento... Ah, sim.
+1465055266	Como eu estava dizendo...
+985567019	Certo, onde estávamos...
+462550873	Voltar ao ponto...
+860014485	Pare com isso! Isso não está certo!
+1904139271	O que você está fazendo aí?
+1130226246	Você poderia por favor parar com isso!
+1060555275	Eu vejo o que você está fazendo.
+211896578	Você é um sujeito estranho.
+836339868	Você está sendo estranho de propósito?
+14948735	O que você está fazendo aqui?
+528246676	Você realmente não deveria estar aqui.
+1982206999	É melhor você não deixar os guardas vê-lo!
 1389033116	...
 1430088976	...
 1646123408	...
