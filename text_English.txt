@@ -4744,7 +4744,6 @@ Japanese	Japonês
 1114932424	Não. É bom! Ninguém está passando por aqui.
 399338843	Sim, mas quem vai limpar isso depois?
 1051223816	Não vai ser eu, isso com certeza.
-
 405274239	My my...
 2094576614	Look at all this junk.
 1823804974	Guess not all roads lead to the harbor.
