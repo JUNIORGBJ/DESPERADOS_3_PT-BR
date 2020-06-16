@@ -72,7 +72,7 @@
 1625808834	Como saímos?
 1439004688	Tem que ser paciente.
 816404149	Que navio é esse que chegou?
-661170697	Pertence à Compahia DeVitt.
+661170697	Pertence à Companhia DeVitt.
 1435172741	Por que eles bloquearam as estradas?
 669447907	Negócio da Companhia, eu acho.
 610164075	Eu mal posso ficar de pé.
@@ -137,7 +137,7 @@
 1595333562	Aaaaah!
 419390346	Ajuda! Ajuda!
 370314354	Alguém Ajuda!
-1418729856	Qalquer um! Ajuda!
+1418729856	Qualquer um! Ajuda!
 1824994674	Tenho que sair daqui!
 1458914733	Eu tenho que ir lá!
 933439464	Rápido!
