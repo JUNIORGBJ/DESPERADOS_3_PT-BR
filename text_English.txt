@@ -654,7 +654,7 @@ Japanese	Japonês
 1190198233	Criar
 1068196803	SELECIONAR
 1445520163	JOGADOR
-580614165	Editar controles do player
+580614165	Editar controles do jogador
 657216753	CÂMERA
 598043235	Editar controles da câmera
 745724744	GERAL
@@ -1462,7 +1462,7 @@ Japanese	Japonês
 1272865861	Espero que não se importe, Sr. McCoy.
 1105231492	Bem. Eu salvo uma bala.
 1236950567	Vamos la.
-520419993	Meus dias de escalada estão atras de mim, Sr. Cooper.
+520419993	Meus dias de escalada estão atrás de mim, Sr. Cooper.
 1671694831	Bem, vamos descobrir algo.
 1511114845	Eu ainda estou esperando aqui, Sr. Cooper!
 1661976841	É melhor levantá-lo antes de seguir em frente!
@@ -1532,7 +1532,7 @@ Japanese	Japonês
 993876529	Não adianta esconder isso de mim, querido. Meus homens vão encontrar.
 1144006518	Não estou escondendo nada, senhorita.
 1116280026	Os cofres. Qual vagão? Diga-me ou eu vou atirar em você na cara.
-382088829	Eu não tenho a menor idéia do que você está falando.
+382088829	Eu não tenho a menor ideia do que você está falando.
 33456719	Estou perdendo minha paciência.
 667736715	Por favor! Não!
 439455722	Inútil...
@@ -1587,7 +1587,7 @@ Japanese	Japonês
 1296821262	VO TRACK
 1076983379	Avance ao longo do trem
 447712959	Bandidos estão vigiando o trem. Vá para a frente.
-2094535640	Obtenha uma Dynamite
+2094535640	Obtenha uma Dinamite
 362613368	Pegue um pedaço de dinamite do barril no platô.
 1139826278	Limpe o túnel
 308496222	Os bandidos bloquearam o túnel. Use a dinamite para limpá-lo.
@@ -1866,13 +1866,13 @@ Japanese	Japonês
 1744955242	Falta de uísque? Que pena.
 283509717	Oh, ei bonitão.
 2136886490	Ainda aqui, bonitão?
-68530541	Bem-vindo ao Flagstone, cowboy.
-1658486925	Bem, ei, cowboy.
+68530541	Bem-vindo ao Flagstone, caubói.
+1658486925	Bem, ei, caubói.
 1185929498	Você é um pistoleiro?
 269530303	Bem-vindo a Flagstone, grandão.
 719554718	Umm o-oi.
 127549407	Ei, cara grande.
-929547097	Ei cowboy.
+929547097	Ei caubói.
 1844286634	Pistoleiro, eh?
 160532248	Oh, Olá!
 368800716	Ei grandão.
@@ -2094,7 +2094,7 @@ Japanese	Japonês
 876491346	Você ainda acha que eu ia me casar com você?
 841686256	Aproveite o seu casamento.
 260721492	Não tão rápido.
-761492483	Você não tem idéia do quanto eu investi nisso.
+761492483	Você não tem ideia do quanto eu investi nisso.
 1407627867	Você vai se casar comigo hoje. Você vai interpretar a boa esposa.
 1648400702	Você vai se esquecer da sua vida anterior depois de dar à luz a algumas crianças...
 2065119550	Tentador, mas devo recusar.
@@ -2374,7 +2374,7 @@ Japanese	Japonês
 112793052	Heh, tudo bem, vamos indo. E não se esqueça de continuar contando. Eu coloquei meus olhos naquele uísque.
 1851937666	É o seu funeral.
 1442318204	Quase os peguei.
-1281498890	Olhos no cowboy.
+1281498890	Olhos no caubói.
 1297624675	Droga, essa garota pode atirar.
 1979273179	Desista, O'Hara!
 703200123	Continue atirando até que estejam todos mortos!
@@ -2386,7 +2386,7 @@ Japanese	Japonês
 1794636740	Porra. Continue desaparecido.
 1360160168	Você deve estar brincando comigo.
 1253577766	Eu vou te pegar da próxima vez.
-520767185	Maldito cowboy!
+520767185	Maldito caubói!
 300116359	Eu peguei agora!
 1817428661	Maldita ruiva.
 1544866090	Como eles podem continuar?!
@@ -2461,15 +2461,15 @@ Japanese	Japonês
 324457102 	Quarenta e oito.
 860867371 	Quarenta e nove.
 1452846779 	Cinquenta.
-2128430469 	Cinqüenta e um.
-850997634 	Cinqüenta e dois.
-344070455 	Cinqüenta e três.
-22923886 	Cinqüenta e quatro.
-1442181217 	Cinqüenta e cinco.
-1489563401 	Cinqüenta e seis.
-491693069 	Cinqüenta e sete.
-1051955513 	Cinqüenta e oito.
-1224615247 	Cinqüenta e nove.
+2128430469 	Cinquenta e um.
+850997634 	Cinquenta e dois.
+344070455 	Cinquenta e três.
+22923886 	Cinquenta e quatro.
+1442181217 	Cinquenta e cinco.
+1489563401 	Cinquenta e seis.
+491693069 	Cinquenta e sete.
+1051955513 	Cinquenta e oito.
+1224615247 	Cinquenta e nove.
 2051083925 	Sessenta.
 1582584115 	Sessenta e um.
 1852812048 	Sessenta e dois.
@@ -2967,7 +2967,7 @@ Japanese	Japonês
 1491849671	Ele nunca viu isso acontecer.
 1477068829	Ai!
 1287021037	Eles estão nervosos com alguma coisa.
-1787660680	Você é muito paranóica, meu querido.
+1787660680	Você é muito paranoica, meu querido.
 1055360869	Eu os ouvi conversando. Há problemas em Flagstone.
 949275483	Estamos aqui para o casamento! Quem se importa com essa cidade estúpida. 
 854008708	Suas irmãs estão se divertindo com os trabalhadores?
@@ -3101,7 +3101,7 @@ Japanese	Japonês
 1127203636	Isso não vai acontecer no meu turno.
 1115120634	Garanta o maldito trem!
 78326914	Ligue o motor!
-1276707754	Pegue a Dynamite
+1276707754	Pegue a Dinamite
 1335003154	Encontre uma caixa de dinamite e pegue o que você precisa para explodir a ponte.
 704089349	Pedreira
 1544104025	Eles estão usando dinamite na pedreira. Está sendo armazenado em uma pequena cabana.
@@ -4299,7 +4299,7 @@ Japanese	Japonês
 1309442366	Já esteve no Chez Manu?
 1812567349	Você está me cortejando, Louie?
 808863412	Por que eles chamam de Queen's Nest afinal?
-2005629159	Nenhuma idéia. Talvez eles tenham vespas lá ou algo assim.
+2005629159	Nenhuma ideia. Talvez eles tenham vespas lá ou algo assim.
 2103171610	Você sabe, às vezes parece que estamos sendo vigiados.
 1455594738	Você nunca para de falar, não é?
 1630811472	O que há sob essa lona?
@@ -6355,7 +6355,7 @@ Japanese	Japonês
 63281099	Uh uh. Péssima ideia.
 500667948	Há problemas por dentro.
 71468931	Não posso arriscar.
-323623352	Idéia idiota.
+323623352	Ideia idiota.
 1883920775	Há problemas por dentro.
 817346445	Not risking it.
 881566038	Essa é uma péssima ideia.
@@ -6744,7 +6744,7 @@ Japanese	Japonês
 1990159601	Eu vou fazer um novo buraco na sua bunda.
 1105635547	Bianca quer vingança.
 1584913950	Ninguém coloca Hector em uma cela.
-309149042	Alguma idéia de onde estamos?
+309149042	Alguma ideia de onde estamos?
 284337048	Bianca não gosta de nadar.
 40588927	Heh heh, é hora da vingança.
 38007557	Eu vou estragar este lugar.
@@ -15595,7 +15595,7 @@ Japanese	Japonês
 289527255	It's unclear.
 1403172243	Você viu o homem?
 220568750	De fato. Um grande caçador de recompensas.
-1345606494	Alguma idéia sobre o que está acontecendo?
+1345606494	Alguma ideia sobre o que está acontecendo?
 1690547777	Na minha opinião, elas eram as bruxas do pântano.
 911229729	Você acha que é verdade? O próprio diabo?
 1857900652	Prefiro não pensar nisso.
