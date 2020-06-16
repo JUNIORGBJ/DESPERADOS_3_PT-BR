@@ -237,103 +237,103 @@
 1372339404	Desculpa. Não pude resistir.
 2083757734	Acidentes acontecem.
 868947400	Ops. Foi mal.
-470667403	We should see if the sawmill's hiding anything useful.
-12095694	Look at this place. Manifest destiny in the industrial flesh.
-1963914594	Wonder how often accidents happen around that saw.
-767817700	Thinking about causing an accident yourself?
-305308674	It sure looks mighty sharp.
-1514308810	All right, saw's out.
-315219794	Let's put this on hold.
-1286456959	The saw's stopped.
-210008120	Now what?
-188197869	What's wrong with this thing!
-457806363	Hey asswipes! Hands off the damn switch!
-1571982461	How about this?
-125885861	Let's try this.
-895599228	Okay now!
-106972270	That's gotta hurt.
-1491849671	He never saw it coming.
-1477068829	Ouch!
-1287021037	They're nervous about something.
-1787660680	You're too paranoid, my dear.
-1055360869	I heard them talk. There's trouble in Flagstone.
-949275483	We're here for the wedding! Who cares about that stupid town. 
-854008708	Your sisters are having fun with the workers?
-311980442	You know how they are.
-1078395714	Almost makes me feel sorry for the poor fools.
-271994598	Just punishment for keeping us here I'd say.
-597138813	This sawmill is crude. Nothing like we have back home.
-712736055	Maybe the DeVitt Company's cutting corners.
-371345698	I hope not—we are soon going to cross that bridge of theirs.
-1009487023	You are such a worrywart. That bridge has held a hundred trains...
-383755851	Come on, we gotta take back Flagstone.
-453171243	Forget it! I'm not going back.
-915380401	It pays double!
-1617952781	Nuh-uh, no chance.
-2043731081	It's Flagstone. They're a bunch of hillbillies.
-782355437	Hillbillies with guns!
-948571304	We'll take back the town, easy like.
-880261538	Then you go. I'll stay here.
-626700481	Don't you want revenge for Jarvis? Wild Marge? McBain?
-1225172522	Aw, let them keep their shithole.
-1406020804	Cowards, all of you!
-1560359473	Go and get yourselves plugged by a grizzly.
-1175221139	I'm going up to take a look. Keep your eyes peeled.
-1207002502	Do you always wear such tight jeans, Mr. Cooper?
-173073461	Beg your pardon?
-175856799	Just keeping my eyes peeled.
-519723968	These fellas couldn't hit the wide side of a barn.
-604204655	Their weapons are of an inferior quality...and unoiled.
-260433494	What do you say gentlemen? You reckon we'll find dynamite in that little shed?
-32853892	We'll have to unlock the door first.
-1057538575	Just make sure the coast's clear so I can pick the lock.
-2023607830	Are you trying to miss or hit them bottles?
-972631478	Go find a mare and stick your head in something else's ass, Mundy!
-1198467201	Yeah! We're practicing here.
-1923955990	Well then, be my guest. Practice makes perfect.
-1362731343	You hit the mountain! That's progress.
-1834827091	Get off our backs, will ya?
-195016477	Yeah! We gotta get ready for Flagstone.
-1376588066	Carry on then, kids.
-981330621	Oh, that one almost hit the shed.
-305744695	No it didn't. We're not that bad.
-774427399	Yeah! Wouldn't wanna blow the place to smithereens.
-920378594	Very considerate of you.
-1443350370	That'll do.
-64719891	These little things do so much mischief.
-1313763565	All right, one bundle of dynamite. Now back to the bridge.
-347539793	We're good partners, don't you think?
-1370436802	Partners is a strong word, miss.
-364038933	Oh come now, Mr. Cooper. Us, together, against the world.
-1284435012	Well, after this, it'll be you alone and back safely at your ranch.
-1293942551	Yeah... 
-715967375	We should come back here when we have the dynamite.
-1149243390	The weak point of the bridge is this way. We still need the dynamite.
-567326433	So, that's the way we go once we have the dynamite.
-1959106679	All right, down we go.
-910584940	Down here.
-1179515340	Let's deliver the package, gentlemen. 
-1542172045	Hey McCoy. You sure you're a good enough shot to hit that fuse?
-1812456212	Watch and learn, Mr. Cooper.
-568001835	Wonder what's in that shed?
-1944227285	What's in that shed down there?
-1795827190	Looks like a storage. Might be a good idea to stock up.
-264359659	Yeah, this place is going to be all fire and brimstone in a few minutes.
-1953104794	If we find dynamite in there, I'm gonna be angry.
-1187055807	Wish we had some dynamite.
-1086767789	Guess we still need some dynamite.
-629756946	That's the spot. Now we better fetch that dynamite.
-1799703722	McCoy. You got the dynamite.
-954065528	Miss O'Hara, you got the dynamite.
-315914925	Mr. Cooper, you have the dynamite.
-297109476	Miss O'Hara, you have the dynamite.
-25881207	Mr. Cooper, I believe you have the dynamite.
-1498994161	Dr. McCoy, I believe you have the dynamite.
-851862061	Primed and ready.
-563175063	Package delivered.
-543245308	All right then. It's your show, Doc.
-621623831	I suggest we head somewhere with a good view. 
-706512754	Down she goes.
-1149997624	Holy hell!
-1444349089	You weren't kidding, Doc.
-1464740422	What the fuck. Get me the bastards that did this!
+470667403	Deveríamos ver se a serraria está escondendo algo útil.
+12095694	Olhe para este lugar. É um lugar em seu aspecto industrial.
+1963914594	Você quer saber com que frequência acidentes acontecem ao redor dessa serra.
+767817700	Pensando em causar um acidente?
+305308674	Com certeza parece muito afiado.
+1514308810	Ok, serra desconectada.
+315219794	Vamos parar com isso.
+1286456959	A serra parou.
+210008120	O que foi agora?
+188197869	O que há de errado com essa coisa!
+457806363	Ei idiotas! Tire as mãos do maldito interruptor!
+1571982461	Que tal agora?
+125885861	Vamos tentar isso.
+895599228	Certo agora!
+106972270	Isso deve doer.
+1491849671	Ele nunca viu isso acontecer.
+1477068829	Ai!
+1287021037	Eles estão nervosos com alguma coisa.
+1787660680	Você é muito paranóica, meu querido.
+1055360869	Eu os ouvi conversando. Há problemas em Flagstone.
+949275483	Estamos aqui para o casamento! Quem se importa com essa cidade estúpida. 
+854008708	Suas irmãs estão se divertindo com os trabalhadores?
+311980442	Você sabe como eles são.
+1078395714	Quase me faz sentir pena dos pobres tolos.
+271994598	É o castigo deles por nos termos parado aqui.
+597138813	Que serraria decadente. Nenhuma diferença da que temos em casa.
+712736055	A Companhia DeVitt pode estar fazendo cortes.
+371345698	Espero que não - em breve atravessaremos a ponte deles.
+1009487023	Você é tão preocupado. Nessa ponte ja passou centena de trens...
+383755851	Vamos, temos que recuperar Flagstone.
+453171243	Esqueça! Eu não vou voltar
+915380401	Eles pagam o dobro!
+1617952781	Nã-ãh, sem chance.
+2043731081	É Flagstone. Eles são todos caipiras.
+782355437	Habilidades com armas!
+948571304	Vamos recuperar a cidade, fácil.
+880261538	Bem, você vai. Eu fico aqui.
+626700481	Você não quer vingança por Jarvis? Wild Marge? McBain?
+1225172522	Ah, deixe-os ficar com a cidade de merda.
+1406020804	Covardes, todos vocês!
+1560359473	Venha, antes que um urso te pegue.
+1175221139	Eu vou dar uma olhada. Mantenha seus olhos abertos.
+1207002502	Você sempre usa jeans tão justos, Sr. Cooper?
+173073461	Desculpa?
+175856799	Apenas mantendo meus olhos abertos.
+519723968	Esses caras não seriam capazes de atingir uma baleia.
+604204655	Suas armas são de baixa qualidade... e enferrujadas.
+260433494	O que me diz cavalheiros? Você acha que encontraremos dinamite naquele pequeno barracão?
+32853892	Teremos que abrir a porta primeiro.
+1057538575	Apenas certifique-se de me dar cobertura para que eu possa abrir a fechadura.
+2023607830	Você está tentando bater nelas?
+972631478	Vá encontrar uma égua e enfie a cabeça na bunda dela, Mundy!
+1198467201	Sim! Nós estamos praticando.
+1923955990	Bem, então, seja meu convidado. A prática leva à perfeição.
+1362731343	Você acertou na montanha! Já é alguma coisa.
+1834827091	Pare de brincar, ok?
+195016477	sim! Temos que nos preparar para Flagstone.
+1376588066	Continue, crianças.
+981330621	Oh, aquele quase acertou no galpão.
+305744695	Não, não. Nós não somos tão ruins assim.
+774427399	Sim! Não queremos que tudo se exploda.
+920378594	Muito atencioso da sua parte.
+1443350370	Isso vai servir.
+64719891	Essas pequenas coisas fazem muito estrago.
+1313763565	Ok, um pacote de dinamite. Agora vamos voltar para a ponte.
+347539793	Somos bons parceiros, você não acha?
+1370436802	Parceiros é uma palavra forte, senhorita.
+364038933	Oh, venha agora, Sr. Cooper. Nós juntos, contra o mundo.
+1284435012	Bem, quando isso acabar, será você sozinha, de volta ao seu rancho.
+1293942551	Sim... 
+715967375	Deveríamos voltar aqui quando tivermos dinamite.
+1149243390	O ponto fraco da ponte é aqui. Ainda precisamos de dinamite.
+567326433	Bem, vamos lá quando tivermos dinamite.
+1959106679	Tudo bem, vamos lá.
+910584940	Aqui embaixo.
+1179515340	Vamos entregar o pacote, senhores. 
+1542172045	Ei, McCoy. Tem certeza de que pode acertar esse pavio?
+1812456212	Assista e aprenda, Sr. Cooper.
+568001835	Gostaria de saber o que há naquele galpão?
+1944227285	O que há naquele galpão lá em baixo?
+1795827190	Parece um depósito. Talvez seja uma boa ideia estocar.
+264359659	Sim, este lugar será em chamas em alguns minutos.
+1953104794	Se encontrarmos dinamite lá, ficarei com raiva.
+1187055807	Eu gostaria que tivéssemos dinamite.
+1086767789	Acho que ainda precisamos de dinamite.
+629756946	Esse é o local. Agora é melhor buscarmos essa dinamite.
+1799703722	McCoy. Você pegou a dinamite.
+954065528	O'Hara, você tem dinamite.
+315914925	Sr. Cooper, você tem dinamite.
+297109476	Senhorita O'Hara, você tem dinamite.
+25881207	Sr. Cooper, acredito que você tenha dinamite.
+1498994161	Dr. McCoy, acredito que você tenha dinamite.
+851862061	Tudo pronto.
+563175063	Pacote entregue.
+543245308	Tudo bem então. É o seu show, doutor.
+621623831	Vamos para algum lugar com uma boa visão. 
+706512754	Veja como cai
+1149997624	Santo inferno!
+1444349089	Você não estava brincando, doutor.
+1464740422	Que porra é essa. Traga-me os bastardos que fizeram isso!
