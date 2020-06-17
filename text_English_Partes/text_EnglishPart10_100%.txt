@@ -136,7 +136,7 @@
 73252538	Eu tenho que encontrar outro jeito.
 1179369332	Estou indo, pai.
 662144497	James Cooper, não é? Nunca ouvi falar de você.
-6099812	Pergunto quem o recrutou. Foi aquele tolo, do xerife?
+6099812	Pergunto quem o recrutou. Foi aquele tolo, do marshal?
 154832828	Veio até mim sozinho. Você deve ter certeza de si mesmo.
 652404764	Estou cheio disso. Qual é a minha recompensa hoje em dia?
 1160052742	Não importa, suponho... Você não vai receber.
@@ -182,7 +182,7 @@
 488904519	Na verdade... eu nem me lembro de como cheguei aqui... ugh...
 1930594328	...ou como nos conhecemos.
 2121783391	Hehe, você não se lembra de nada, lembra?
-1631687239	Sou Rosie, a esposa do xerife.
+1631687239	Sou Rosie, a esposa do marshal.
 693817541	Eu... preciso mesmo encontrar meus amigos agora.
 1981144447	Bianca...
 563836146	O que há de errado, querida? Perdeu alguma coisa no calor da noite?
@@ -215,7 +215,7 @@
 2135184052	O que você é, um moicano?
 310638060	Vá se depilar, Hawkins.
 968169133	Não tem ninguém aqui.
-225376933	Você quer ir ao xerife e dizer isso a ele?
+225376933	Você quer ir ao marshal e dizer isso a ele?
 709127354	De jeito nenhum! Ele está com vontade de enforcar alguém.
 2137721353	Continuamos procurando até encontrar alguém.
 1797298500	Por que eles fizeram isso de qualquer maneira?
@@ -258,7 +258,7 @@
 1614108276	Ei! Há um torneio de poker amanhã.
 1917005219	Já pensou em um concorrente?
 1503626948	Eu te venci ontem à noite. Aposto que você esqueceu.
-1985589116	E o canhão do xerife disparou sozinho e explodiu a torre de água.
+1985589116	E o canhão do marshal disparou sozinho e explodiu a torre de água.
 655569411	Por si próprio? Desde quando os canhões disparam por conta própria?
 1248339686	Por que alguém fez uma coisa dessas de propósito?
 2120877139	Chamada sombria, Barney! Os mortos ressuscitam e tudo isso.
@@ -325,7 +325,7 @@
 2024803270	Eu vi o bastardo. Vestindo um casaco preto comprido e grandes chifres, como os do boi.
 136615385	Como vamos trancar o diabo?
 868949280	Deveríamos ligar para o pastor. Ele saberá o que fazer.
-1594392271	Talvez. O xerife parece estar passando por cima de sua cabeça, ignorando nossas teorias e tudo.
+1594392271	Talvez. O marshal parece estar passando por cima de sua cabeça, ignorando nossas teorias e tudo.
 1479984106	Bem... Acho que devemos deixar isso onde ele pertence.
 1356569465	Hmm... Vamos deixar isso aqui para guardar em segurança.
 1009113621	É uma pena, mas isso não é nosso para a manutenção.

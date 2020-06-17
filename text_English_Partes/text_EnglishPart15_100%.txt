@@ -24,7 +24,7 @@
 80702425	Oh não! Porra, estraguei tudo.
 1152265814	Você está bêbada, senhora?
 1980030479	Sim. Bêbada como um gambá, ele ele. Tem algum problema com isso?
-2078706220	Não acredito que você está trabalhando para o xerife.
+2078706220	Não acredito que você está trabalhando para o marshal.
 585620394	Oh, é melhor você acreditar que é parceiro. Temos todos os papéis.
 1321738850	Os bastardos apenas pegaram a fechadura do escritório.
 1229352555	Aposto que Frank não estava feliz com isso.
@@ -135,7 +135,7 @@
 1128086836	... Então você deve ser o idiota rico.
 822621	Adorável.
 845007003	E quanto aos outros?
-769165645	Quatro capturados. Xerife escapou.
+769165645	Quatro capturados. marshal escapou.
 1814878794	Fugiu?
 872656828	Nós o pegaremos. Não se preocupe, senhor.
 1463726551	Tudo bem, lá vai você então.
