@@ -1,54 +1,54 @@
-1320314897	Heh, well done friend. Well done. Looks like you're not a digger. 
-383490229	Agent Trotter
-1645958402	Real name: Tommy the Mustang. Hobbies: Kicking humans for coin.
-611707295	Agent Mare
-960993201	Real name: Arabian Ben. Does Yoga twice a day. In great shape.
-996063705	Two vicitms have been pacified and secured. One is waiting for you at the shooting range...
-1364223459	...the other one at the quarry.
-1635704326	My clients want you to deliver them to the open cargo wagon at the storage yard.
-1249290176	The guards have orders not to attack you, unless they see you do something suspicious of course. Like carrying a body.
-955889983	Throw
-325248477	Fellow pets! Our human companion has gotten himself into quite a mess. Let's free him.
-905645659	First we need a key. We kill the guard and take it. Then we open the grumpy man's cage.
-2087849535	The grumpy man has no gear and is weak from starving, so he can't do much by himself.
-261369455	Ah, the mine. Memories of a desparate escape, of open wounds and broken bonds still linger. But don’t worry. We are not here to reminisce.
-110326174	I have procured a little something for todays challenge. A special invention, one of a kind. Designed purely for todays entertainment.
-967995022	A button on the side lets it transform into an engine of destruction. Use it to enact revenge on the masters of this mine. Destroy them all.
-1724821859	Gatling Cart
-1316986356	Grab the Gatling Cart. You'll need it.
-1756775373	Destroy the Gate
-191524575	Shoot the Gate with the Gatling
-986125265	Deploying the Gatling Cart
-1391960216	Once the Gatling is deployed, the cart will not be able to move until you pack it up again.
-395352685	An exclusive party. A lavish mansion. What better place to spend the evening. Welcome back to Casa DeVitt. The band is still playing. Are you ready for a dance?
-9788113	Tonight, you will eliminate five specific targets.
-1895844763	Mr. McCoy is waiting on the roof, ready to deliver the deadly shots from his Buntline.
-1866062295	My clients have provided him plenty of ammunition. There's only one catch: His weapon can only fire while he's on the roof or upper floor of the building.
-1904501553	Miss O'Hara and Mr. Hector will be your legs on the ground. They have no weapons, but can move freely among the compound.
-55060597	And there goes the last. I must say, Mr. McCoy truly lives up to his reputation. Well done.
-197848723	Kill all Targets
-1612689411	Thieves, all of them. Deliver justice with McCoy's Buntline.
+1320314897	Heh, amigo bem feito. Bem feito. Parece que você não é um escavador. 
+383490229	Agente Trotter
+1645958402	Nome verdadeiro: Tommy, o Mustang. Hobbies: Chutar humanos por moedas.
+611707295	Agente Mare
+960993201	Nome verdadeiro: Arabian Ben. Faz yoga duas vezes por dia. Está ótima forma.
+996063705	Duas vítimas foram pacificadas e protegidas. Um está esperando por você no campo de tiro...
+1364223459	...o outro na pedreira.
+1635704326	Meus clientes querem que você os entregue no vagão de carga do armazém.
+1249290176	Os guardas têm ordens para não atacá-lo, a menos que o vejam fazer algo suspeito, é claro. Como carregar um corpo.
+955889983	Lançar
+325248477	Colegas de estimação! Nosso parceiro humano está com problemas. Temos que libertá-lo.
+905645659	Primeiro, precisamos de uma chave. Matamos o guarda e a pegamos. Então abrimos a jaula do homem mal-humorado.
+2087849535	O homem mal-humorado não tem equipamento e está fraco e com fome, por isso não pode se defender.
+261369455	Ah, o meu. Memórias de uma fuga desesperada, de feridas abertas e laços quebrados ainda estão flutuando no ar. Mas não se preocupe. Não estamos aqui para olhar para trás.
+110326174	Fiz algo para o desafio de hoje. Uma invenção especial, única. Projetado exclusivamente para o entretenimento de hoje.
+967995022	Um botão ao lado permite que ele se transforme em um mecanismo de destruição. Use-o para se vingar dos mestres desta mina. Destrua todos eles.
+1724821859	Metralhadora de Vagão
+1316986356	Pegue a Metralhadora de Vagão. Você precisará disso.
+1756775373	Destruir o portão
+191524575	Atire no portão com a Metralhadora
+986125265	Use a Metralhadora de vagão.
+1391960216	Quando você usa a Metralhadora de vagão, o vagão não poderá se mover até que recarregue novamente.
+395352685	Uma festa exclusiva. Uma mansão luxuosa. Que lugar melhor para passar a noite? Bem-vindo de volta à Casa DeVitt. A banda ainda está tocando. Você está pronto para uma dança?
+9788113	Hoje à noite, você eliminará cinco alvos específicos.
+1895844763	McCoy está esperando no telhado, pronto para atirar com seu Rifle mortal.
+1866062295	Meus clientes forneceram munição em abundância. A única desvantagem é que você só pode disparar sua arma enquanto estiver no telhado ou no piso superior do edifício.
+1904501553	O'Hara e o Sr. Hector estarão em terra firme. Eles não têm armas, mas podem se mover livremente entre o complexo.
+55060597	Essa foi a última. Devo dizer que o Sr. McCoy faz jus à sua reputação. Muito bem.
+197848723	Mate todos os alvos
+1612689411	Eles são todos ladrões. Faça justiça com o rifle de McCoy.
 954947226	Aleksander
-159918958	He's the head of the gang. Put a bullet between his eyes.
+159918958	Ele é o chefe da gangue. Coloque uma bala entre os olhos dele.
 1471913972	Dorian
-360384232	He has a knack for machines. It won't help him here.
+360384232	Ele tem um talento especial para máquinas. Não o ajudará aqui.
 198405201	Doris
-829345019	She is as cold as they get. Take her down to get a disguise.
-2123963494	Buntline Rules
-787993565	McCoy can only use his Buntline when he is on the roof or the upper floor of the mansion.
-1984069581	Throw Dynamite
-555920882	Throw the dynamite you are carrying.
-362396072	Drop Dynamite
-1035681317	Drop the dynamite you are carrying.
-991092486	Sorry. Didn't mean that.
-1635891279	Heh, whoops.
-795454140	Oh. My bad.
+829345019	Ela é tão fria quanto eles. Elimine-a para obter uma disfarce.
+2123963494	Regras do Rifle
+787993565	McCoy só pode usar seu rifle quando estiver no telhado ou no andar superior da mansão.
+1984069581	Arremessar Dinamite
+555920882	Arremesse a dinamite que estiver carregando.
+362396072	Soltar Dinamite
+1035681317	Solte a dinamite que estiver carregando.
+991092486	Desculpa. Não quis dizer isso.
+1635891279	Heh, gritos.
+795454140	Oh. Foi mal.
 1101901075	Kalvin
-1568759698	Little is known about him. Less will be remembered.
+1568759698	Pouco se sabe sobre ele. Será o menos lembrado.
 943269575	Guilliaume
-162060031	He likes to play a double game. He will lose this one.
-1233492327	Sniping Elites
-384456236	McCoy can burst down Long Coats with three consecutive shots. The next shot will be ready before the Long Coat can recover from the last.
+162060031	Ele gosta de jogo duplo. Mas este vai perder.
+1233492327	Atirador de elite
+384456236	McCoy pode estourar casacos longos com três tiros consecutivos. O próximo tiro estará pronto antes que o casaco longo possa se recuperar do último.
 760608755	Mission accomplished
 2018848112	Spoiler Warning
 1552851905	This challenge features playable characters you have not yet encountered in the story. To avoid spoilers, we recommend you return here after finishing Mission 9.
