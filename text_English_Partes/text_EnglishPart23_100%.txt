@@ -234,7 +234,7 @@
 754217181	Não tenho o que preciso.
 402017396	Sem munição. Ótimo.
 163783771	Estou fora. Merda.
-1633915536 ​​	E agora?
+1633915536	E agora?
 1411920319	O que fazemos a seguir?
 549161645	Até agora tudo bem.
 627338091	Tudo bem, e agora?
