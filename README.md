@@ -33,7 +33,8 @@ Se você desejar testar a tradução em jogo, será preciso colar e substituir o
 Se tiver alguma dúvida clique na imagem abaixo para abrir o vídeo tutorial
 
 [![Tradução PT-BR](https://i.imgur.com/XuY9dz5.png)](https://www.youtube.com/watch?v=xEeyAdvLCYI "Tutorial de Instalação da Tradução")
-*
-Assim que a tradução for finalizada criaremos um instalador para automatizar a instalação.
+
+
+### Assim que a tradução for finalizada criaremos um instalador para automatizar a instalação.
 
 Obrigado!:wave:
