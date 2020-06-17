@@ -1,4 +1,4 @@
-English	Português (BR)
+English	Português (Brasil)
 German	Alemão
 Chinese	Chinês
 French	Francês
@@ -13,7 +13,7 @@ Japanese	Japonês
 326908463	Cancelar seleção de personagem
 1593035469	Selecionar todos os personagens
 720952508	Cancelar seleção de todos os personagens
-8814543		Usar
+8814543	Usar
 1707401394	Correr
 1228448906	Esconder cadáver
 974031510	Pulo baixo
@@ -654,7 +654,7 @@ Japanese	Japonês
 1190198233	Criar
 1068196803	SELECIONAR
 1445520163	JOGADOR
-580614165	Editar controles do jogador
+580614165	Editar controles do player
 657216753	CÂMERA
 598043235	Editar controles da câmera
 745724744	GERAL
@@ -1462,7 +1462,7 @@ Japanese	Japonês
 1272865861	Espero que não se importe, Sr. McCoy.
 1105231492	Bem. Eu salvo uma bala.
 1236950567	Vamos la.
-520419993	Meus dias de escalada estão atrás de mim, Sr. Cooper.
+520419993	Meus dias de escalada estão atras de mim, Sr. Cooper.
 1671694831	Bem, vamos descobrir algo.
 1511114845	Eu ainda estou esperando aqui, Sr. Cooper!
 1661976841	É melhor levantá-lo antes de seguir em frente!
@@ -1532,7 +1532,7 @@ Japanese	Japonês
 993876529	Não adianta esconder isso de mim, querido. Meus homens vão encontrar.
 1144006518	Não estou escondendo nada, senhorita.
 1116280026	Os cofres. Qual vagão? Diga-me ou eu vou atirar em você na cara.
-382088829	Eu não tenho a menor ideia do que você está falando.
+382088829	Eu não tenho a menor idéia do que você está falando.
 33456719	Estou perdendo minha paciência.
 667736715	Por favor! Não!
 439455722	Inútil...
@@ -1587,7 +1587,7 @@ Japanese	Japonês
 1296821262	VO TRACK
 1076983379	Avance ao longo do trem
 447712959	Bandidos estão vigiando o trem. Vá para a frente.
-2094535640	Obtenha uma Dinamite
+2094535640	Obtenha uma Dynamite
 362613368	Pegue um pedaço de dinamite do barril no platô.
 1139826278	Limpe o túnel
 308496222	Os bandidos bloquearam o túnel. Use a dinamite para limpá-lo.
@@ -1866,13 +1866,13 @@ Japanese	Japonês
 1744955242	Falta de uísque? Que pena.
 283509717	Oh, ei bonitão.
 2136886490	Ainda aqui, bonitão?
-68530541	Bem-vindo ao Flagstone, caubói.
-1658486925	Bem, ei, caubói.
+68530541	Bem-vindo ao Flagstone, cowboy.
+1658486925	Bem, ei, cowboy.
 1185929498	Você é um pistoleiro?
 269530303	Bem-vindo a Flagstone, grandão.
 719554718	Umm o-oi.
 127549407	Ei, cara grande.
-929547097	Ei caubói.
+929547097	Ei cowboy.
 1844286634	Pistoleiro, eh?
 160532248	Oh, Olá!
 368800716	Ei grandão.
@@ -2094,7 +2094,7 @@ Japanese	Japonês
 876491346	Você ainda acha que eu ia me casar com você?
 841686256	Aproveite o seu casamento.
 260721492	Não tão rápido.
-761492483	Você não tem ideia do quanto eu investi nisso.
+761492483	Você não tem idéia do quanto eu investi nisso.
 1407627867	Você vai se casar comigo hoje. Você vai interpretar a boa esposa.
 1648400702	Você vai se esquecer da sua vida anterior depois de dar à luz a algumas crianças...
 2065119550	Tentador, mas devo recusar.
@@ -2374,7 +2374,7 @@ Japanese	Japonês
 112793052	Heh, tudo bem, vamos indo. E não se esqueça de continuar contando. Eu coloquei meus olhos naquele uísque.
 1851937666	É o seu funeral.
 1442318204	Quase os peguei.
-1281498890	Olhos no caubói.
+1281498890	Olhos no cowboy.
 1297624675	Droga, essa garota pode atirar.
 1979273179	Desista, O'Hara!
 703200123	Continue atirando até que estejam todos mortos!
@@ -2386,7 +2386,7 @@ Japanese	Japonês
 1794636740	Porra. Continue desaparecido.
 1360160168	Você deve estar brincando comigo.
 1253577766	Eu vou te pegar da próxima vez.
-520767185	Maldito caubói!
+520767185	Maldito cowboy!
 300116359	Eu peguei agora!
 1817428661	Maldita ruiva.
 1544866090	Como eles podem continuar?!
@@ -2461,15 +2461,15 @@ Japanese	Japonês
 324457102 	Quarenta e oito.
 860867371 	Quarenta e nove.
 1452846779 	Cinquenta.
-2128430469 	Cinquenta e um.
-850997634 	Cinquenta e dois.
-344070455 	Cinquenta e três.
-22923886 	Cinquenta e quatro.
-1442181217 	Cinquenta e cinco.
-1489563401 	Cinquenta e seis.
-491693069 	Cinquenta e sete.
-1051955513 	Cinquenta e oito.
-1224615247 	Cinquenta e nove.
+2128430469 	Cinqüenta e um.
+850997634 	Cinqüenta e dois.
+344070455 	Cinqüenta e três.
+22923886 	Cinqüenta e quatro.
+1442181217 	Cinqüenta e cinco.
+1489563401 	Cinqüenta e seis.
+491693069 	Cinqüenta e sete.
+1051955513 	Cinqüenta e oito.
+1224615247 	Cinqüenta e nove.
 2051083925 	Sessenta.
 1582584115 	Sessenta e um.
 1852812048 	Sessenta e dois.
@@ -2967,7 +2967,7 @@ Japanese	Japonês
 1491849671	Ele nunca viu isso acontecer.
 1477068829	Ai!
 1287021037	Eles estão nervosos com alguma coisa.
-1787660680	Você é muito paranoica, meu querido.
+1787660680	Você é muito paranóica, meu querido.
 1055360869	Eu os ouvi conversando. Há problemas em Flagstone.
 949275483	Estamos aqui para o casamento! Quem se importa com essa cidade estúpida. 
 854008708	Suas irmãs estão se divertindo com os trabalhadores?
@@ -3101,7 +3101,7 @@ Japanese	Japonês
 1127203636	Isso não vai acontecer no meu turno.
 1115120634	Garanta o maldito trem!
 78326914	Ligue o motor!
-1276707754	Pegue a Dinamite
+1276707754	Pegue a Dynamite
 1335003154	Encontre uma caixa de dinamite e pegue o que você precisa para explodir a ponte.
 704089349	Pedreira
 1544104025	Eles estão usando dinamite na pedreira. Está sendo armazenado em uma pequena cabana.
@@ -3449,284 +3449,284 @@ Japanese	Japonês
 1263360932	A mulher escondeu todo esse dinheiro?
 564428196	Aposto que ela também cuidou de nossas bebidas.
 1818976632	Pelo menos, não o deixamos escapar disso.
-158535185	Well, if she was here, she's long gone, now.
-726437457	Hey, where'd she go?
-675688247	What's that? Looks like a letter.
-776162675	Ahh...help me out here.
-2111783617	Uh...here. You read it.
-776568948	"So long, fellas. Been a pleasure drinking with you. Stay out of jail. Until next time."
-661332741	Now there's a woman after my own heart.
-165532200	I bet she put something in our drinks. That was one hell of a night.
-1089721530	I got enough of this town. Let's catch that riverboat.
-407763384	You took your sweet time.
-393908923	Just get us out of here.
-1651580696	Fine day for a river ride.
-1426800689	Thank you sir, for waiting for us.
-902999577	I am chargin' you double, now.
-1467735642	All aboard!
-550166924	Know someone with toothache?
-242393163	I can pull your teeth no problem.
-254675861	Need a dentist, he he he?
-57218185	My tooth really hurts.
-278526034	I can't chew anything. 
-1866215532	Argh, my tooth.
-254904447	Ahh...a customer! Let's get to work.
-1524732424	W-w-wait! Ahhh, ooowaaaaaaaaah!
-353958600	What's Going On?
-1302257551	Ugh...what the hell happened last night? All right...you gotta find the others.
-315240867	Where's Cooper?
-18692113	What? How'd he get up there? Well...you better wake him up.
-293224231	Where's Kate?
-2145455900	Huh? What's she doing over there? Hope she's okay... Let's wake her up.
-1894810900	Okay, We Gotta Talk...
-1569792280	All right, uh... You should regroup and...talk about...things.
-1051569863	Where the Hell is Doc?!
-49800793	He's gotta be somewhere...right? You gotta find him. Ask around. Well, not ask around but...you know... Just find him, okay?
-2007094801	Let's Get the Hell Out of Here... 
-396670543	Oh yeah, the captain's waiting... Well, you better get everyone on board.
-1458824417	Have you heard the rumors lately? They say the devil has come to Baton Rouge. Or maybe it was swamp witches. Hard to keep them apart, am I right?
-601705098	Anyway, your targets today will be simple men. Siblings, in fact. All part of one big family. And who would tear family apart?
-1019050481	My clients want to see you dispose of them. Every last one. The catch? You won't know who you're looking for.
-1310209373	Take a good look at this man. His clothes, his hair, his skin. He looks exactly like your targets. Use this to find them.
-91495061	Keep your eyes open. Make sure you catch them all. Rest assured: My clients will be watching.
-62092261	Nothing like a good hunt to brighten the spirits. My clients are most entertained. Well done.
-1903982346	Look at all that plunder.
-1740736829	All right DeVitt. Let's see what you keep in here.
-41497864	Marshal Wayne.
-362786850	I see you're trespassing on private property.
-1217983166	Last I recall you need a warrant for that.
-2078537816	I don't need a warrant for crooks like you Frank.
-1045160565	Just come with us quietly.
-175133016	I'd prefer we settle this like in the good old days.
-1304765288	Too bad this is not how it's done anymore.
-975110150	I think that's the leash around your neck doing the talking.
-606901809	Is that right?
-537400045	Hey, DeVitt wants the marshal alive, remember?
-1017739857	Shut up.
-633924663	Come on, Frank, think about the money.
-898817121	Right...the money.
-280696478	Gah!
-636272268	That's all that matters is it?
-1788403313	Frank, please, I just...
-623899726	Bring the marshal to the others.
-604011281	Move it...
+158535185	Bem, se ela estava aqui, ela se foi há muito tempo.
+726437457	Ei, onde ela foi?
+675688247	O que é isso? Parece uma carta.
+776162675	Ahh... me ajude aqui.
+2111783617	Aqui... Você leu isso.
+776568948	"Adeus amigos. Foi um prazer beber com você. Não fiquem viciados. Até a próxima".
+661332741	Essa mulher é uma das minhas.
+165532200	Aposto que ela colocou algo em nossas bebidas. Essa foi uma noite infernal.
+1089721530	Eu me cansei desta cidade. Vamos pegar aquele barco no rio.
+407763384	Eles pegaram leve.
+393908923	Apenas tire-nos daqui.
+1651580696	Um Bbm dia para um passeio no rio.
+1426800689	Obrigado senhor, por nos esperar.
+902999577	Agora vou cobrar em dobro.
+1467735642	Todos a bordo!
+550166924	Conhece alguém com dor de dente?
+242393163	Eu posso arrancar seus dentes sem problemas.
+254675861	Você precisa de um dentista? Heh heh heh.
+57218185	Meu dente dói mesmo.
+278526034	Não consigo mastigar nada. 
+1866215532	Argh, meu dente.
+254904447	Ah, um cliente! Mãos à obra.
+1524732424	E-e-espera! Ahhh, ooowaaaaaaaaah!
+353958600	O que está acontecendo?
+1302257551	Ugh... o que diabos aconteceu ontem à noite? Tudo bem... você tem que encontrar os outros.
+315240867	Cadê o Cooper?
+18692113	O que? Como ele chegou lá em cima? Bem... é melhor você acordá-lo.
+293224231	Cadê a Kate?
+2145455900	Hã? O que ela está fazendo ali? Espero que ela esteja bem... Vamos acordá-la.
+1894810900	Ok, precisamos conversar...
+1569792280	Tudo bem, você deve se reagrupar e... falar sobre... coisas.
+1051569863	Onde diabos está o Doc ?!
+49800793	Ele tem que estar em algum lugar... certo? Você precisa encontrá-lo. Pergunte por aí. Bem, não pergunte por aí, mas... você sabe... Apenas encontre-o, ok?
+2007094801	Vamos dar o fora daqui... 
+396670543	Oh sim, o capitão está esperando... Bem, é melhor você colocar todos a bordo.
+1458824417	Você já ouviu os rumores ultimamente? Dizem que o diabo chegou a Baton Rouge. Ou talvez fossem bruxas do pântano. Difícil mantê-los separados, estou certo?
+601705098	De qualquer forma, seus alvos hoje serão homens simples. Irmãos, de fato. Tudo parte de uma grande família. E quem destruiria a família?
+1019050481	Meus clientes querem ver como você se livra deles. De todos. Pegada? Que você não saberá quem está procurando.
+1310209373	Uma dica: todo mundo está vestindo as mesmas roupas. Uma tradição familiar, que será bastante letal... para eles.
+91495061	Mantenha seus olhos abertos. Certifique-se de pegar todos eles. Tenha certeza: meus clientes estarão assistindo.
+62092261	Nada como uma boa caçada para alegrar os espíritos. Meus clientes estão mais entretidos. Muito bem.
+1903982346	Olhe para todos aqueles objetos roubados.
+1740736829	Tudo bem, DeVitt. Vamos ver o que você guarda aqui.
+41497864	Oficial Wayne.
+362786850	Vejo que você está invadindo propriedades particulares.
+1217983166	Que eu saiba, é necessário um mandado de busca para isso.
+2078537816	Não preciso de um mandado para bandidos como você, Frank.
+1045160565	Apenas venha conosco em silêncio.
+175133016	Eu preferiria resolver isso como nos bons velhos tempos.
+1304765288	Pena que não é mais assim que é feito.
+975110150	Eu acho que é a corda em volta do seu pescoço falando.
+606901809	Isso está certo?
+537400045	Ei, DeVitt quer o oficial vivo, lembra?
+1017739857	Cale-se.
+633924663	Vamos, Frank, pense no dinheiro.
+898817121	Certo... o dinheiro.
+280696478	Agh!
+636272268	É só isso que importa?
+1788403313	Frank, por favor, eu apenas...
+623899726	Leve o oficial com os outros.
+604011281	Andando...
 635756145	*coughs*
-1027025207	So much for the good old days.
-138737026	Good old days are long gone, Marshal.
-630355938	You really believe that, huh.
-1657864457	Get him out of my sight...
+1027025207	Lembro dos velhos tempos.
+138737026	Os bons velhos tempos já se foram, oficial.
+630355938	Você realmente acredita nisso, hein.
+1657864457	Tire isso da minha frente...
 213060420	VO TRACK
-1912159611	Hey Daryll. Look what I found in the weeds!
-86365993	Get your fucking hands off o' me!
-946623598	You're gonna regret this.
-1341354661	Yeah yeah, whatever.
-1531361559	Careful, Daryll. Maybe she's one of these swamp witches.
-886565052	Yeah and I'm the fucking president.
-174109963	Now get back to your post.
-1573593877	Swamp witches...
-2026062108	How about it? You gonna put a spell on me?
-2060987128	Didn't think so.
+1912159611	Ei Daryll. Olha o que eu achei no mato!
+86365993	Tire suas malditas mãos de mim!
+946623598	Você vai se arrepender disso.
+1341354661	Sim, sim, tanto faz.
+1531361559	Cuidado, Daryll. Talvez ela seja uma dessas bruxas do pântano.
+886565052	Sim, e eu sou a porra do presidente.
+174109963	Agora volte ao seu posto.
+1573593877	Bruxas do pântano...
+2026062108	Que tal isso? Você vai me enfeitiçar?
+2060987128	Eu já imaginava.
 1824889548	VO TRACK
-887394692	Shit. I must be getting old. And the damn cat left me hanging too.
-515828510	All right Isabelle, focus. Gotta get your ass back to Wayne.
-1395829384	Hmm, let's see...
-1738446069	DeVitt's men are everywhere. Better take things slow.
-2054698991	Can't hurt to get a lay of the land. That ledge up there looks like a good vantage point.
-716578289	But first I gotta get out of this cage.
-927238604	Let's see who is going to help me with that.
-1273773824	Don't fuss—we'll take care of you real soon, heh heh.
-1997127505	Look at you, all riled up in that little cage, hahaha.
-1241511868	Go ahead, witch! Put a curse on me, if you dare! Hah!
-1488386937	Get the boat ready, Liz.
-438357744	I'm trying. Gotta fix that hole first.
-1482365472	Well hurry the fuck up. I wanna get 'em to the Nest.
-307372758	How's the boat?
-1800497329	Still leakin' like a sieve.
-1578357944	Keep at it. I wanna show our catch to DeVitt.
-1551555474	Are you done, yet?
-1550750422	What's the matter, Darryl? She scare you?
-1656789026	I don't like that look she's giving me, that's for sure.
-1394711310	I gotta snatch one of them. This is gonna hurt.
-49604125	Come on girl. You ain't getting out of here on your own.
-377166474	I need a puppet. Just gotta figure out who to pick...
-433826434	Gotcha. Now, what can you do for me...
-799766794	Sleep tight. You won't remember a thing.
-1965927973	That wasn't it. Need to try again.
-1472513839	Shit! Missed it again.
-1256572982	I'm real tired. Only got one more in me.
-547548841	I'm too drained out. Gotta take some jimson.
-1751378118	I'm running out of people here.
-1497677336	There goes my last chance. How the hell am I gonna get out now?
-436142430	And...thank you very much!
-728288178	Wonder what else can you do...
-963212677	All right. Now let's head for that ledge...
-2043091614	Shit, I'm spent. Better take some jimson.
-1893654894	Gonna fix me right up.
-2072218224	I'll need more venom darts if I wanna make more puppets.
-1836229435	Now what are the chances there's some in that crate.
-140698329	Heh, would you look at that. Guess this day ain't all bad.
-1762427299	What?!
-134414187	No, no, no! Where the hell is she?
-1114252122	We gotta find her!
-101664155	Wait! I gotta head up that ledge first.
-1505814395	One down here, one up there. I'll just take 'em both.
-607767100	Stella! There you are!
+887394692	Merda. Eu devo estar ficando velho. E o maldito gato me deixou pendurado.
+515828510	Tudo bem, Isabelle, foco. Você tem que voltar para Wayne.
+1395829384	Hmm, vamos ver...
+1738446069	Os homens de DeVitt estão por toda parte. Melhor não se apressar.
+2054698991	Não vai doer se familiarizar com o terreno. Esse morrinho parece ser um bom ponto estratégico.
+716578289	Mas primeiro eu tenho que sair dessa jaula.
+927238604	Vamos ver quem vai me ajudar com isso.
+1273773824	Não se preocupe - nós cuidaremos de você em breve, heh heh.
+1997127505	Olhe para você, toda irritada nessa pequena gaiola, hahaha.
+1241511868	Vá em frente, bruxa! Ponha uma maldição em mim, se tiver coragem! Hah!
+1488386937	Prepare o barco, Liz.
+438357744	Estou tentando. Preciso consertar esse buraco primeiro.
+1482365472	Bem se apresse. Eu quero te levar para a cidade.
+307372758	Como está o barco?
+1800497329	Ainda vazando como uma peneira.
+1578357944	Continue com isso. Mal posso esperar para mostrar a Frank nossa presa.
+1551555474	Você já terminou?
+1550750422	Qual é o problema, Darryl? Ela te assusta?
+1656789026	Eu não gosto do jeito que ela me olha.
+1394711310	Eu tenho que pegar um deles. Isto vai doer.
+49604125	Vamos garota. Você não vai sair daqui por conta própria.
+377166474	Eu preciso de um fantoche. Só tenho que descobrir quem escolher...
+433826434	Peguei vocês. Agora, o que você pode fazer por mim...
+799766794	Durma bem. Você não vai se lembrar de nada.
+1965927973	Não fui bem. Precisa tentar novamente.
+1472513839	Merda! Perdeu novamente.
+1256572982	Estou muito cansado. Somente mais uma vez.
+547548841	Estou muito esgotado. Eu preciso de um pouco de estramônio
+1751378118	Estou ficando sem pessoas aqui.
+1497677336	Lá se vai minha última chance. Como diabos eu vou sair agora?
+436142430	E muito obrigado!
+728288178	Eu me pergunto o que mais eu posso fazer...
+963212677	Tudo certo. Agora vamos para o alto...
+2043091614	Porra, estou esgotada. eu preciso de um estramônio.
+1893654894	Vou me curar.
+2072218224	Vou precisar de mais dardos de veneno se quiser fazer mais bonecos.
+1836229435	Agora, quais são as chances de que haja algumas nessa caixa.
+140698329	Heh, o que você acha? Não será um dia tão ruim.
+1762427299	o que?!
+134414187	Não não não! onde diabos ela está?
+1114252122	Temos que encontrá-la!
+101664155	Um momento! Antes que eu tenha que subir nesse alto.
+1505814395	Um aqui em baixo, outro lá em cima. Eu vou pegar os dois.
+607767100	Stella! Aí está você!
 1324229316	*meows*
-1340327729	You got some nerve leaving me hanging like that.
+1340327729	Você tem coragem de me deixar pendurada assim.
 710285020	*purrs*
-1547392648	Nah ah. You're gonna make it up to me right now.
-1799290202	Made it. Now let's get the lay of the land.
-853332837	So, let's see what's happening over there. Looks like they caught themselves a little steamboat.
-1708763328	That cowboy there is holding his own for now. He's gonna run out of luck eventually.
-180287954	Now was he alone? Or did he have a crew?
-1775302398	They're looking for someone at that house. I bet someone's hiding out there.
-1521339902	Now, that big guy looks freshly caught. Wasn't easy I bet. He has eyes on him from all angles.
-819339280	They got a pretty lady, too! Odd collection of characters from that boat.
-972713066	These fellas are gonna get sold off by the company if we don't do something.
-2069640301	The company's gonna sell off their asses if we don't do something.
+1547392648	Ah ah. Você vai me compensar agora.
+1799290202	Consegui. E agora para sondar o térreo.
+853332837	Então, vamos ver o que está acontecendo por lá. Parece que eles pegaram um pequeno barco a vapor.
+1708763328	Aquele cowboy lá está se segurando por enquanto. Ele ficará sem sorte eventualmente.
+180287954	Ele estava sozinho? Ou ele tinha uma equipe?
+1775302398	Eles estão procurando alguém naquela casa. Aposto que alguém está escondido lá.
+1521339902	O grande parece ter sido capturado recentemente. Com certeza não foi fácil.
+819339280	E eles têm uma menina bonita! Que grupo estranho daquele navio.
+972713066	Esses caras serão vendidos para a companhia se não fizermos algo.
+2069640301	A companhia vai vendê-los se não fizermos algo.
 1636805222	*meows*
-1856030066	Doesn't really matter who we help first. But startin' with that cowboy wouldn't hurt.
-572815002	Once we save everyone, we'll make our exit.
+1856030066	Realmente não importa quem ajudamos primeiro. Mas começar com aquele cowboy não seria mal.
+572815002	Quando salvarmos todos, faremos nossa saída.
 2129583524	*meows tiredly*
-597420665	Now, you best pull your weight, if you wanna have stew tonight.
+597420665	Bem, você faz a sua parte, se quiser ensopado hoje à noite.
 676580666	*meows enthusiastically*
-462644112	That sounds more like it.
-956686779	Hrrr, I hate cages.
-762618179	Why they all so scared of me.
-234061572	Swear they'd shoot me if I so much as farted.
-842489044	This sure doesn't look good.
-971666701	Maybe I should have stayed in Colorado.
-301719751	If they so much as lay a hand on me...
-649581872	The boat and the house look less crowded. Maybe I'll go there first.
-1915152557	Okay, let's help out the cowboy.
-609887066	Let's look around that house.
-1960415117	This is where they keep the big guy.
-718322838	There's the lady in her cage.
-1034632180	There's Cooper. Looks like they got him pinned down.
-194195716	Look! There's Cooper. Those bastards have him pinned.
-618721931	There! Cooper! They're still firing at him.
-655586820	He's holding out for now. Let's give him some breathing room.
-1124333373	Think I saw Doc head in this direction.
-2099540363	Hey, where's Doc? Wasn't he with us?
-1045115534	Think we lost McCoy here somewhere.
-704934038	Maybe he's hiding out in that house? Could be worth a look.
-340976707	Shit, there's Hector. They got him.
-1281515011	There's Hector. Figured he wouldn't get far.
-1288485514	Oh no. They got Hector too.
-802011250	He looks pretty miserable in that cage. Let's help him out.
-1897278380	Damn bastards put Kate in a cage too.
-1824816580	Looks like Miss O'Hara got locked up as well.
-1611056678	Shit. They put Kate in a cage too.
-1685392268	Bird like her don't belong in a cage. Let's break her out.
-293793449	These pricks have their own little outpost here.
-2018308304	Wayne's gonna love this.
-970766807	Nice little fishing spot. Wonder what happened to the owner.
-681296385	One more thing for Wayne to figure out.
-958848154	There's a lookout up there. Ain't no ship getting past those eyes.
-1619837431	Wayne was right. These folks are well organized.
-860018648	Look at that cargo. "Business" must be good this week.
-1217862018	Shit... High time Wayne does something about this.
-1958100788	Wayne? You got someone else with you?
-1696961317	He's waiting for me in New Orleans. I'd be on my way now if I hadn't seen y'all.
-305241267	Wayne, huh? Friend of yours?
-1543882089	Friend? Heh, yeah sure. Maybe I'll introduce you if we get out of here alive.
-415367732	Wayne? Pretty sure I've heard that name before.
-1381713793	Don't strain your head too much, Sunshine. You'll break it.
-1944581676	I'll find out soon enough.
-2062664918	Wayne? Someone I should know?
-1542455237	He's just the one who sent me here. Guess without him, you'd still be in that cage.
-1901270877	Gatling gun, huh? Made short work of that little dinghy. 
-605424394	Maybe we'll give 'em a taste of their own medicine.
-2031867883	Bah, that thing again.
-882846551	Guess you're familiar with the business end of that Gatling.
-1846748898	Yeah right, and I'm in the mood for revenge.
-369854531	You've read my mind, big guy.
-91209191	What the hell...
-2051295956	That's a Gatling gun. Never seen one before?
-779468741	Course I have! And this one...seems awfully familiar.
-954110533	You wanna give it a spin, be my guest.
-988172616	That thing...
-1749565000	Gatling gun. Ugly little machine, isn't it.
-1974939895	I wouldn't mind throwing it in the river.
-1493770634	Maybe we can get some use out of it first.
-182306948	These guys are like rats. Maybe the cowboy or head to the house first, get one to help me.
-1221124038	It's more crowded here than the boat and the house. Maybe I should head back.
-1553085149	Hey why aren't we using the Gatling gun?!
-900943188	Hands off! The boss goes crazy if you so much as touch it!
-658516183	I got him Casey! I think I got him!
-508731454	He's still shooting at us, damn fool!
-324970067	Dang it, Casey! I think he hit me! It's all red...
-320865517	You're wearing a red shirt, you idiot!
-225048499	Gah! My ears are ringing!
-1919633944	What did you say? I didn't catch that.
-687894890	Hey, let's wait until the boat sinks!
-1483628369	To hell with that! We're puttin' this fool in the ground.
-1602215951	How you doing up there, cowboy?
-435631254	Howdy miss. You mind helpin' me out here a little?
-345409256	Whatchu got in mind?
-1871676232	Taking out those two shooting at me can't hurt.
-1688850805	Heh, I'll see what I can do.
-305294730	Guess you're still breathing.
-1322983866	How's it going, amigo?
-1442504057	How are you doing up there, Cooper?
-1895653367	Hey. You mind taking out those two shooting at me?
-226564093	All right. You just stay put.
-1890359735	Heh, sure. Just wait there.
-1660272438	Sure. Wait there.
-1587325192	Do I look like I'm going anywhere?
-1370896943	All right! Whoever's out there, meet me on the deck.
-331485005	Nice work out there. Meet me on the deck.
-1033613334	Whew, thanks. I was getting nervous up there.
-850111332	Wouldn't be here if it wasn't for her...
-2144838521	Don't thank me. Thank her...
-1852477209	I think you better thank her...
-555906458	Hey cowboy.
-1813072875	Uh...hey? Something wrong with you?
-1016937040	Just ignore 'em, cowboy. I'm the one pulling the strings.
-1007568041	Right. Well, I've seen stranger things.
-1190809367	So you're the one I spotted up on that ledge. John Cooper.
-1294028435	You got good eyes, Mr. Cooper. Isabelle Moreau.
-479043166	Well, thanks for the help Miss Moreau. Come on, let's talk on the way.
-424948428	Yeah, we better get going. Some of your friends are still captured.
-1840783524	What brings you to these parts, Mr. Cooper?
-2095268698	On my way to New Orleans. Can't remember the route being this inhospitable though.
-62785543	You haven't been round here for a while.
-1472532422	So how'd you stumble into this mess, Miss Moreau?
-1365157573	Just looking into what's going on here. Folks have been disappearing.
-838073255	And you make it your business to help out strangers?
-1792247617	Heh, didn't hurt in your case, did it?
-1265190573	For the devil's sake, Baxter. He ain't here.
-1645846832	Keep at it. We ain't leaving 'til you find him.
-66517096	Mind helping out? We'd sure find him faster.
-680240689	Can't you see? I'm looking in here. Now get your nose to the ground.
-191782179	DeVitt ain't paying you to sit on your fat ass.
-1349901000	He ain't paying you for crying about it either.
-221837581	All right, what'd the man look like again?
-2045347558	Memorize it. Tall, long coat, mean as sin. 
-1813812817	We gotta find him, or we're here all night.
-1237361987	Why ain't he helping out, the fat bastard?
-1100169350	Don't count on any help from him. How're you doing?
-1719301491	Not sure what's gonna eat me first, bugs or the gators.
-1192359471	I'm gonna die of boredom here.
-1215149422	Maybe we missed something. Ask Baxter about the fella again.
-1405760560	Baxter says he's big, ugly and wears a coat.
-899670519	Maybe that fat fool just saw himself in a mirror.
-942466930	Huh, that trapdoor looks suspicious.
-1469223107	Hey Doc! You hiding in here?
-98530569	If I was McCoy, where would I be...
-575016370	Somebody hiding under that trapdoor?
-273228236	The hell? My puppet just died.
-1708252235	Guess whoever's down there needs a friendly face.
-1213847823	About time someone showed.
-2115644560	Would have taken longer if not for her...
-1425436776	I'm only here thanks to her...
-1904716507	You'd still be waiting if not for Miss Moreau here...
-14355310	Hey there.
-1929555592	Who the hell are you?
-463032935	Isabelle Moreau. And you're welcome.
-1581428564	I don't recall asking for your help, Miss Moreau.
-392366956	My, aren't you a sunshine.
-628719802	Anyway, I think some of your friends are still waiting to be rescued.
+462644112	Isso está melhor.
+956686779	Hrrr, eu odeio gaiolas.
+762618179	Por que todos eles têm tanto medo de mim.
+234061572	Juro que eles atirariam em mim se eu peidasse.
+842489044	Isso com certeza não parece bom.
+971666701	Talvez eu devesse ter ficado no Colorado.
+301719751	Se eles colocarem a mão em mim...
+649581872	O barco e a casa parecem menos lotados. Talvez eu vá lá primeiro.
+1915152557	Ok, vamos ajudar o cowboy.
+609887066	Vamos dar uma olhada naquela casa.
+1960415117	É aqui que eles mantêm o grandalhão.
+718322838	Há a garota em sua gaiola.
+1034632180	Aqui está Cooper. Parece que eles o prenderam.
+194195716	Veja! Aqui está Cooper. Esses bastardos o prenderam.
+618721931	Ali! Cooper! Eles ainda estão atirando nele.
+655586820	Ele está aguentando por enquanto. Vamos dar-lhe algum espaço para respirar.
+1124333373	Acho que vi Doc seguir nessa direção.
+2099540363	Ei, cadê o Doc? Ele não estava conosco?
+1045115534	Acho que perdemos McCoy aqui em algum lugar.
+704934038	Talvez ele esteja escondido naquela casa? Pode valer a pena dar uma olhada.
+340976707	Merda, Hector. Eles o pegaram.
+1281515011	Aqui está o Hector. Eu sabia que ele não iria longe.
+1288485514	Ah não. Eles também pegaram o Hector.
+802011250	Ele parece bastante infeliz naquela jaula. Vamos ajudá-lo.
+1897278380	Malditos bastardos também colocaram Kate em uma gaiola.
+1824816580	Parece que a senhorita O'Hara também foi presa.
+1611056678	Merda. Eles colocaram Kate em uma gaiola também.
+1685392268	Uma gaiola não é lugar para uma garota assim. Vamos tirá-la daqui.
+293793449	Esses idiotas têm seu próprio posto avançado aqui.
+2018308304	Wayne vai amar isso.
+970766807	Bom lugar para pescar. Eu me pergunto o que aconteceu com o proprietário.
+681296385	Mais uma coisa para Wayne descobrir.
+958848154	Há uma vigia lá em cima. Nenhum navio poderia passar por aqueles olhos.
+1619837431	Wayne estava certo. Essas pessoas são bem organizadas.
+860018648	Olhe para aquela remessa. Os "negócios" estão indo bem esta semana.
+1217862018	Merda... Já era hora de Wayne fazer algo a respeito.
+1958100788	Wayne? Você tem mais alguém com você?
+1696961317	Ele está me esperando em Nova Orleans. Eu estaria a caminho agora se não tivesse visto vocês.
+305241267	Wayne, não é? Seus amigos?
+1543882089	Amigo? Heh, sim, com certeza. Posso apresentá-lo se sairmos vivos daqui.
+415367732	Wayne? Tenho certeza que já ouvi esse nome antes.
+1381713793	Não force demais a cabeça, luz do sol. Você vai se machucar.
+1944581676	Eu vou descobrir em breve.
+2062664918	Wayne? Alguém que eu deveria conhecer?
+1542455237	Foi ele quem me enviou aqui. Acho que sem ele, você ainda estaria nessa gaiola.
+1901270877	Metralhadora, hein? Fez um pequeno trabalho daquele pequeno bote.
+605424394	Talvez possamos provar o próprio remédio.
+2031867883	Bah, isso de novo.
+882846551	Acho que você está familiarizado com essa Metralhadora
+1846748898	Sim, e estou com cede de vingança.
+369854531	Você leu minha mente, grandalhão.
+91209191	Que diabos...
+2051295956	Essa é uma Metralhadora. Nunca viu uma antes?
+779468741	Claro que sim! E este... parece muito familiar.
+954110533	Se você quiser experimentar, seja meu convidado.
+988172616	Nessa coisa...
+1749565000	Metralhadora. Uma coisa muito estranha, certo?
+1974939895	Eu não me importaria de jogá-lo no rio.
+1493770634	Talvez possamos tirar proveito disso primeiro.
+182306948	Esses caras são como ratos. Talvez o cowboy. O antes da casa. Alguém pode me ajudar.
+1221124038	Há mais pessoas aqui do que no barco e na casa. Talvez eu deva voltar.
+1553085149	Ei, por que não estamos usando a Metralhadora ?!
+900943188	Tirem suas mãos! O chefe enlouquece se você tocar nele!
+658516183	Eu o peguei Casey! Eu acho que o peguei!
+508731454	Ele ainda está atirando em nós, maldito tolo!
+324970067	Caramba, Casey! Eu acho que ele me acertou! Está tudo vermelho...
+320865517	Você está vestindo uma camisa vermelha, seu idiota!
+225048499	Gah! Meus ouvidos estão zumbindo!
+1919633944	O que você disse? Não te entendi!
+687894890	Ei, vamos esperar até o barco afundar!
+1483628369	Foda-se! Nós vamos pegar esse casulo.
+1602215951	Como você está aí em cima, cowboy?
+435631254	Olá senhorita. Você se importa em me ajudar aqui um pouco?
+345409256	Oque tem em mente?
+1871676232	Eliminar aqueles dois que atiraram em mim não seria ruim.
+1688850805	Heh, vou ver o que posso fazer.
+305294730	Acho que você ainda está respirando.
+1322983866	Como vai, amigo?
+1442504057	Como está aí?, Cooper?
+1895653367	Você se importa de eliminar aqueles dois que atiraram em mim?
+226564093	Tudo certo. Apenas fica parado.
+1890359735	Heh, claro. Você fica aí.
+1660272438	Certo. Espere aí.
+1587325192	Pareço estar indo a algum lugar?
+1370896943	Tudo certo! Quem estiver lá fora, encontre-me no convés.
+331485005	Bom trabalho lá fora. Encontre-me no convés.
+1033613334	Uau, obrigado. Eu estava ficando nervoso lá em cima.
+850111332	Não estaria aqui se não fosse por ela...
+2144838521	Não me agradeça. Agradeça a ela...
+1852477209	Acho melhor você agradecer a ela...
+555906458	Ei cowboy.
+1813072875	Uh... ei? Algo errado com você?
+1016937040	Apenas ignore-os, cowboy. Foi eu quem puxou as cordas.
+1007568041	Eu vi coisas estranhas.
+1190809367	Então você é a pessoa que eu vi naquele alto. John Cooper.
+1294028435	Você tem bons olhos, Sr. Cooper. Isabelle Moreau.
+479043166	Bem, obrigado pela ajuda, senhorita Moreau. Vamos lá, vamos conversar no caminho.
+424948428	Sim, é melhor seguirmos em frente. Alguns de seus amigos ainda estão presos.
+1840783524	O que o leva a essas partes, Sr. Cooper?
+2095268698	Eu estou indo para Nova Orleans. Não me lembro da rota ser tão acolhedora.
+62785543	Você não está aqui há um tempo.
+1472532422	Então, como você entrou nessa confusão, senhorita Moreau?
+1365157573	Apenas olhando o que está acontecendo aqui. O pessoal está desaparecendo.
+838073255	E você costuma fazer isso para ajudar estranhos?
+1792247617	Heh, no seu caso, não deu errado, certo?
+1265190573	Inferno, Baxter. Não está aqui.
+1645846832	Continue. Não vamos embora até que você o encontre.
+66517096	Você se importaria de ajudar? Certamente encontraríamos mais rápido.
+680240689	Você não vê que estou olhando aqui? E agora comece a bisbilhotar.
+191782179	DeVitt não está pagando para você ficar sentado.
+1349901000	Ele também não está pagando por chorar.
+221837581	Tudo bem, como o cara era?
+2045347558	Fale alto. Casaco longo são mais malvados que micose. 
+1813812817	Temos que encontrá-lo. Estamos aqui a noite toda.
+1237361987	Por que ele não está ajudando, o gordo bastardo?
+1100169350	Não conte com nenhuma ajuda dele. Como você o carrega?
+1719301491	Não sei o que vai me comer primeiro, insetos ou jacarés.
+1192359471	Eu vou morrer de tédio aqui.
+1215149422	Talvez tenhamos perdido alguma coisa. Pergunte a Baxter sobre o sujeito novamente.
+1405760560	Baxter diz que ele é grande, feio e veste um casaco.
+899670519	Talvez aquele idiota gordo tenha se visto no espelho.
+942466930	Huh, esse alçapão parece suspeito.
+1469223107	Ei Doc! Você está se escondendo aqui?
+98530569	Se eu fosse McCoy, onde eu estaria...
+575016370	Alguém escondido debaixo desse alçapão?
+273228236	O inferno? Meu boneco acabou de morrer.
+1708252235	Acho que quem está lá embaixo precisa de um rosto amigável.
+1213847823	Já era hora de alguém aparecer.
+2115644560	Teria demorado mais se não fosse por ela...
+1425436776	Só estou aqui graças a ela...
+1904716507	Você ainda estaria esperando se não fosse pela senhorita Moreau...
+14355310	Olá.
+1929555592	Quem diabos é você?
+463032935	Isabelle Moreau. Por favor.
+1581428564	Não me lembro de pedir sua ajuda, senhorita Moreau.
+392366956	Uau, você é um encanto.
+628719802	De qualquer forma, acho que alguns de seus amigos ainda estão esperando para serem resgatados.
 1192625616	Obrigado por me lembrar.
 220086571	Então, como você acabou se escondendo naquele buraco, Sr. ....?
 853303776	McCoy. Doutor McCoy.
@@ -4299,7 +4299,7 @@ Japanese	Japonês
 1309442366	Já esteve no Chez Manu?
 1812567349	Você está me cortejando, Louie?
 808863412	Por que eles chamam de Queen's Nest afinal?
-2005629159	Nenhuma ideia. Talvez eles tenham vespas lá ou algo assim.
+2005629159	Nenhuma idéia. Talvez eles tenham vespas lá ou algo assim.
 2103171610	Você sabe, às vezes parece que estamos sendo vigiados.
 1455594738	Você nunca para de falar, não é?
 1630811472	O que há sob essa lona?
@@ -4744,345 +4744,345 @@ Japanese	Japonês
 1114932424	Não. É bom! Ninguém está passando por aqui.
 399338843	Sim, mas quem vai limpar isso depois?
 1051223816	Não vai ser eu, isso com certeza.
-405274239	My my...
-2094576614	Look at all this junk.
-1823804974	Guess not all roads lead to the harbor.
-440601529	I got what I need.
-1871149542	Then let's move it.
-851670999	This way.
-1818043732	This way, amigo.
-423452625	The harbor ain't far now. Just down the street.
-2110783539	The harbor ain't far now. Just through the alley.
-32736333	Guess your chase will be over soon.
+405274239	Meu meu...
+2094576614	Olhe para todo esse lixo.
+1823804974	Acho que nem todas as estradas levam ao porto.
+440601529	Eu tenho o que eu preciso.
+1871149542	Então vamos movê-lo.
+851670999	Por aqui.
+1818043732	Por aqui, amigo.
+423452625	O porto não está longe agora. Na mesma rua.
+2110783539	O porto não está longe agora. Apenas através do beco.
+32736333	Acho que sua perseguição terminará em breve.
 1261584198	Mhm.
-1853430813	Look ahead.
-1181533852	I smell the river.
-361861253	See the fence? That's the harbor.
-1724359099	You've been pretty quiet lately.
-1538141028	Just thinking. Don't worry.
-1993344264	Can I board my coach now, ma'am? I'm soaked.
-129710443	Afraid not. We gotta search everything thora...thorlow...
-63074807	Thoroughly?
-138876612	Yeah, that's the word.
-115078417	I don't understand what you want from me.
-981411702	It's not about what I want. It's about what YOU want.
-616559700	Me? You stopped my coach!
-80702425	Uh, no! Damn, messed that one up.
-1152265814	Are you drunk, ma'am?
-1980030479	Yup. Drunk as a skunk, he he. Got a problem with that?
-2078706220	I can't believe you're working for the sheriff.
-585620394	Oh you better believe it partner. We got aaall the papers.
-1321738850	Bastards just picked the lock to the office.
-1229352555	Bet Frank wasn't happy about that.
-1533530238	Right. But ain't he overreacting a little?
-968644808	Well, you never know what's going on in his head.
-1598804511	All right. We're at the harbor.
-1468679126	Ah, this is the harbor.
-1167952505	Not far now. We'll get him, Cooper. Don't worry.
-1565595358	Don't get cocky. We still got a ways to go.
-885220465	We've been through worse, haven't we?
-312617706	You can never be sure.
-1726825296	Almost there.
-1556929191	We're almost there, amigo.
-1555000561	You never told me what happened between you and Frank.
-83081385	It's a long story.
-463462753	It usually is.
-1860391705	I'll tell you when we're done, okay?
-1562553822	There's still smoke over the swamp.
-3072081	Who gives a shit. We're still standing out here in the rain.
-1903911585	You wanna complain, take it to Frank. 
-264435687	Yeah right. Have you seen his mood lately?
-1959853890	Think they're gonna come back here?
-755971848	If so, they better do it fast. I wanna get out of this rain.
-427139078	Careful what you wish for. I hear they're dangerous.
-1433012591	I'd rather be in a gunfight than this damn rain.
-1075732644	You heard what Frank did to poor Lewis?
-714126194	We ain't supposed to talk about that.
-1806619748	I mean, the man was dumb as a brick, but still...
-593162373	Frank's been strange lately. Maybe he's finally losing it.
-843777318	Careful. Frank said they might come here after what happened in the Nest.
-1366766968	Got it, boss. I'll keep my eyes peeled.
-246484724	There is a big fella with them. Watch out for 'im—I heard he's tough.
-1011762172	All right, I'll be careful.
-355407443	Eyes open! Frank said they might try to get through here.
-1147105472	Okay! I'll stay right here.
-1459970057	Stay alert! These guys are causing a whole lot of trouble.
-839411700	I'll keep my eyes open.
-1756631365	Last we saw of them was at the Nest. Frank says they might come here. 
-2019980298	Oh, I hope they do, he he.
-1435054417	Stay vigilant! Who knows what these assholes are up to.
-1871452352	Got it under control, boss.
-1627958694	Pier 9 is just around the corner.
-163337462	There's the harbor. What was the number again...
-396578546	Remember: We all meet at the gate on Pier 9. Nobody goes in alone.
-1239364360	No problem, Cooper.
-1461662265	Sure thing, amigo.
-1592874094	Here we are. Pier 9.
-1971851449	Open sesame, he he.
+1853430813	Olhe para frente.
+1181533852	Eu sinto o cheiro do rio.
+361861253	Veja a cerca? Esse é o porto.
+1724359099	Você tem estado bastante quieta ultimamente.
+1538141028	só pensando. Não se preocupe.
+1993344264	Posso embarcar no meu treinador agora, senhora? Estou encharcado.
+129710443	Medo não. Temos que procurar tudo em tudo ... Completamente ...
+63074807	Completamente?
+138876612	Sim, essa é a palavra.
+115078417	Eu não entendo o que você quer de mim.
+981411702	Não é sobre o que eu quero. É sobre o que você quer.
+616559700	Eu? Você parou meu treinador!
+80702425	Oh não! Porra, estraguei tudo.
+1152265814	Você está bêbada, senhora?
+1980030479	Sim. Bêbada como um gambá, ele ele. Tem algum problema com isso?
+2078706220	Não acredito que você está trabalhando para o xerife.
+585620394	Oh, é melhor você acreditar que é parceiro. Temos todos os papéis.
+1321738850	Os bastardos apenas pegaram a fechadura do escritório.
+1229352555	Aposto que Frank não estava feliz com isso.
+1533530238	Certo. Mas ele não está exagerando um pouco?
+968644808	Bem, você nunca sabe o que está acontecendo na cabeça dele.
+1598804511	Tudo certo. Estamos no porto.
+1468679126	Ah, este é o porto.
+1167952505	Não está longe agora. Nós o pegaremos, Cooper. Não se preocupe.
+1565595358	Não fique convencido. Ainda temos um longo caminho a percorrer.
+885220465	Passamos por coisas piores, não passamos?
+312617706	Você nunca pode ter certeza.
+1726825296	Quase lá.
+1556929191	Estamos quase lá, amigo.
+1555000561	Você nunca me contou o que aconteceu entre você e Frank.
+83081385	É uma longa história.
+463462753	Geralmente é.
+1860391705	Vou lhe dizer quando terminarmos, ok?
+1562553822	Ainda há fumaça sobre o pântano.
+3072081	Quem se importa. Ainda estamos de pé aqui na chuva.
+1903911585	Você quer reclamar, leve para o Frank. 
+264435687	Está certo. Você viu o humor dele ultimamente?
+1959853890	Acha que eles vão voltar aqui?
+755971848	Nesse caso, é melhor fazê-lo rapidamente. Eu quero sair dessa chuva.
+427139078	Cuidado com o que você deseja. Ouvi dizer que são perigosos.
+1433012591	Prefiro estar em um tiroteio do que essa maldita chuva.
+1075732644	Você ouviu o que Frank fez com o pobre Lewis?
+714126194	Não devemos conversar sobre isso.
+1806619748	Quero dizer, o homem era burro como um tijolo, mas ainda assim ...
+593162373	Frank tem estado estranho ultimamente. Talvez ele esteja finalmente perdendo.
+843777318	Cuidado. Frank disse que eles poderiam vir aqui depois do que aconteceu no Nest.
+1366766968	Entendi, chefe. Vou manter meus olhos abertos.
+246484724	Há um grande cara com eles. Cuidado com ele - ouvi dizer que ele é duro.
+1011762172	Tudo bem, eu vou tomar cuidado.
+355407443	Olhos abertos! Frank disse que eles podem tentar passar por aqui.
+1147105472	OK! Eu vou ficar aqui.
+1459970057	Fique alerta! Esses caras estão causando muitos problemas.
+839411700	Vou manter meus olhos abertos.
+1756631365	A última vez que os vimos foi no Nest. Frank diz que eles podem vir aqui. 
+2019980298	Espero que sim, he he.
+1435054417	Fique vigilante! Quem sabe o que esses idiotas estão fazendo.
+1871452352	Está sob controle, chefe.
+1627958694	O Pier 9 está ao virar da esquina.
+163337462	Ali está o porto. Qual era o número novamente ...
+396578546	Lembre-se: todos nós nos encontramos no portão no píer 9. Ninguém entra sozinho.
+1239364360	Não tem problema, Cooper.
+1461662265	Claro, amigo.
+1592874094	Aqui estamos. Pier 9.
+1971851449	Abre-te Sésamo, he he.
 251973098	Qual o plano agora?
-471402247	I'm going in alone.
-1299927685	Like hell you are, Cooper.
-142722208	You know how it's gotta be.
-1763287543	Not this time, Cooper.
-1740614320	What's going on here?
-134435750	Out of my way, Hector.
-43231532	Stop it, both of you!
-1901925498	Listen to me, amigo.
-1045394329	If you go in there alone, you're just gonna end up like your pa...
+471402247	Eu vou sozinho.
+1299927685	Como você está, Cooper.
+142722208	Você sabe como tem que ser.
+1763287543	Não desta vez, Cooper.
+1740614320	O que está acontecendo aqui?
+134435750	Fora do meu caminho, Hector.
+43231532	Pare com isso, vocês dois!
+1901925498	Ouça-me amigo.
+1045394329	Se você for lá sozinho, vai acabar como seu pai ...
 858015093	Hector!
-816542941	What the hell?!
-15435487	What the fuck is wrong with you, Cooper?
-1042226063	You should find a place to hide.
-1586046057	Damn you.
+816542941	Que diabos?!
+15435487	Que porra há de errado com você, Cooper?
+1042226063	Você deve encontrar um lugar para se esconder.
+1586046057	Maldito.
 204539558	VO TRACK
-1109648303	Are we sure this is gonna work?
-2046392709	The boss is usually right. Stay calm and do your job.
-1119489170	Big shipment this time. What is all this stuff?
-381651621	None of our business. We just stand guard. That's all.
-794947815	Could have sworn I heard a gunshot.
-1699866449	Calm down. It's just the rain making you nervous.
-2076189073	Goddamnit, this waiting's killing me.
-23012361	Hey, at least you got shelter. I gotta stand out here.
-656508474	Man, the boss is gonna flip when he sees this.
-686673691	Yeah, but don't bother Frank with it. He's having his quiet time.
-762279672	I can't pull that thing back on my own. You gotta tell Frank.
-321174819	Trust me, buddy. You don't wanna bring this up with him right now.
-300423727	Look, it won't move. Can you maybe give me a hand here?
-61241591	Ha! No way. You made the mess, you gonna fix it.
-70587762	You sure you don't wanna help? The boss is gonna be here soon.
-1011506189	Ain't my head on the chopping block, so you better hurry.
-1797514472	No.
-1917057043	Not the right way.
-1760949520	Not like this.
-1098764162	Quiet down, will ya.
-1953084981	I'm trying to smoke here.
-1609886027	You havin' fun back there?
-954257301	Hello Frank.
-224421558	You’ve grown, kid.
-196362913	A bit skinnier than your father, but overall not bad...
-1351876617	How long’s it been? Ten years? Fifteen?
-2051399708	You're just getting old.
-326573527	...Maybe.
-1648785514	Wonder what he would say.
-346461861	You living on dirt and blood, making a name for yourself...
-1049010232	Just like us back in the day.
-1161837714	Are you done? Cause I ain't got all day.
-59352447	All right kid...
-1689389748	Let's see how far you've come.
+1109648303	Temos certeza de que isso vai funcionar?
+2046392709	O chefe geralmente está certo. Fique calmo e faça seu trabalho.
+1119489170	Grande remessa desta vez. O que é tudo isso?
+381651621	Não é da nossa conta. Nós apenas ficamos de guarda. Isso é tudo.
+794947815	Poderia jurar que ouvi um tiro.
+1699866449	Acalme-se. É apenas a chuva que te deixa nervoso.
+2076189073	Droga, essa espera está me matando.
+23012361	Ei, pelo menos você tem abrigo. Eu tenho que me destacar aqui.
+656508474	Cara, o chefe vira quando vê isso.
+686673691	Sim, mas não incomode Frank com isso. Ele está tendo um momento tranquilo.
+762279672	Eu não posso puxar essa coisa de volta sozinho. Você precisa contar ao Frank.
+321174819	Confie em mim, amigo. Você não quer falar disso agora.
+300423727	Olha, não vai se mexer. Você pode me ajudar aqui?
+61241591	Ha! De jeito nenhum. Você fez a bagunça, você vai consertar.
+70587762	Tem certeza de que não quer ajudar? O chefe estará aqui em breve.
+1011506189	Não estou com a cabeça na pedra, então é melhor você se apressar.
+1797514472	Não.
+1917057043	Não é o caminho certo.
+1760949520	Assim não.
+1098764162	Calma, sim?
+1953084981	Estou tentando fumar aqui.
+1609886027	Você está se divertindo lá atrás?
+954257301	Olá Frank.
+224421558	Você cresceu, garoto.
+196362913	Um pouco mais magro que seu pai, mas no geral não é ruim ...
+1351876617	Quanto tempo faz? Dez anos? Quinze?
+2051399708	Você está ficando velho.
+326573527	...Talvez.
+1648785514	Imagino o que ele diria.
+346461861	Você vive de sujeira e sangue, fazendo um nome para si mesmo ...
+1049010232	Assim como nós no dia.
+1161837714	Você terminou? Porque eu não tenho o dia todo.
+59352447	Tudo bem garoto ...
+1689389748	Vamos ver até onde você chegou.
 1856970436	VO TRACK
 2115571404	Gnh...
-632140661	You're fast, kid.
-987480715	Just like your father.
-2096777083	That's enough!
-1454144765	Frank! I see you're indulging yourself in old habits.
-924815410	Kinda surprised to see you here, DeVitt.
-1561106598	Well, I have to oversee my investments.
-609407692	And this man cause me quite the trouble lately.
-1128086836	...So you must be the rich asshole.
-822621	Adorable.
-845007003	What about the others?
-769165645	Four captured. Marshal got away.
-1814878794	Got away?
-872656828	We'll get him. Don't worry, sir.
-1463726551	Fine, off you go then.
-1639818221	I really don't envy you, having to mingle with trash like this.
-1141387201	Oh it ain't so bad. But I doubt you'd understand.
-1303454431	I don't have to.
-1666716055	That's what I have you for, after all.
-1352388126	Right.
-1330111570	So what's gonna happen to the kid now?
-1711981189	We can't let good material go to waste.
-1683647250	He's gonna work himself to death in the mines.
-710916016	Together with his friends.
-1535498807	You piece of shit...
+632140661	Você é rápido, garoto.
+987480715	Assim como seu pai.
+2096777083	É o bastante!
+1454144765	Frank! Vejo que você está se entregando a velhos hábitos.
+924815410	Meio surpreso em vê-lo aqui, DeVitt.
+1561106598	Bem, eu tenho que supervisionar meus investimentos.
+609407692	E esse homem me causou muitos problemas ultimamente.
+1128086836	... Então você deve ser o idiota rico.
+822621	Adorável.
+845007003	E quanto aos outros?
+769165645	Quatro capturados. Xerife escapou.
+1814878794	Fugiu?
+872656828	Nós o pegaremos. Não se preocupe, senhor.
+1463726551	Tudo bem, lá vai você então.
+1639818221	Eu realmente não te invejo, tendo que me misturar com lixo assim.
+1141387201	Oh, não é tão ruim. Mas duvido que você entenda.
+1303454431	Eu não preciso.
+1666716055	É para isso que tenho você, afinal.
+1352388126	Certo.
+1330111570	Então, o que vai acontecer com a criança agora?
+1711981189	Não podemos deixar que o bom material seja desperdiçado.
+1683647250	Ele vai trabalhar até a morte nas minas.
+710916016	Junto com seus amigos.
+1535498807	Seu pedaço de merda ...
 1405023782	...argh...
 528193204	VO TRACK
-660651684	Reach Pier 9
-105618621	Gather everyone at the gate of Pier 9.
+660651684	Alcance o píer 9
+105618621	Reúna todos no portão do píer 9.
 708988117	Face Frank
-1295369277	It's now or never. Head for the bow and face your destiny.
-1937582108	Disguise
-864823784	Kate lost her disguise while you were gone, but she can find a spare at the Red Lantern.
-1554793200	Too bad, kid. Looks like you two ain't going home today.
-1390422920	He's just a kid, Frank.
+1295369277	É agora ou nunca. Vá para o arco e encare o seu destino.
+1937582108	Disfarce
+864823784	Kate perdeu o disfarce enquanto você estava fora, mas ela pode encontrar um sobressalente no Red Lantern.
+1554793200	Que pena, garoto. Parece que vocês dois não vão para casa hoje.
+1390422920	Ele é apenas uma criança, Frank.
 1968294381	Huh...
-375900236	You wanna tell me what to do?
+375900236	Você quer me dizer o que fazer?
 503009039	Não...
-1699198032	Good.
-1678548162	Didn't think so.
-927477867	Throw them down the canyon when you're done.
-972936722	Boy.
-1836426505	What's your name amigo?
+1699198032	Bom.
+1678548162	Não achava isso.
+927477867	Jogue-os pelo canyon quando terminar.
+972936722	Garoto.
+1836426505	Qual é o seu nome amigo?
 1162383724	John...
-963361016	I'm Hector.
+963361016	Eu sou o Hector.
 718244975	VO TRACK
 1124817653	Hrm...
-1518677183	Shoulder still pain you?
-723975603	Bah. Just stings a little is all.
-412202818	But if I don't get out of here soon...
-1788194199	...I'm gonna kill someone.
-1980473239	Keep it together. We'll wait until the next break.
-411261535	Gotta say, this plan of yours is pretty wild.
-397717578	Didn't hear any better suggestions from you.
-718915319	What about the dynamite?
-962328600	I improvised.
-134545727	What's that supposed to mean?
-1785411874	I'll explain in a second.
-1383298195	Just to be safe, can you go over the plan one more time?
-1914360102	Jesus Christ...
+1518677183	Seu ainda doe?
+723975603	Bah. Apenas um pouco somente.
+412202818	Mas se eu não sair daqui em breve ...
+1788194199	... eu vou matar alguém.
+1980473239	Mantenha junto. Vamos esperar até o próximo intervalo.
+411261535	Tenho que dizer, esse seu plano é bem selvagem.
+397717578	Não recebi nenhuma sugestão melhor de você.
+718915319	E a dinamite?
+962328600	Eu improvisei.
+134545727	O que isso deveria significar?
+1785411874	Eu vou explicar em um segundo.
+1383298195	Só para garantir, você pode revisar o plano mais uma vez?
+1914360102	Jesus Cristo...
 1387381225	VO TRACK
-682609609	Fine. First we fetch our belongings.
-622664446	They're in those boxes in the upper camp.
-2069419911	Next, I'll crack the lock on that gate so we can get out.
-83151862	Once we're out, we'll get the dynamite.
-982644464	Uh right. It's in that minecart. And it's not really dynamite.
-402154637	What are you talking about?!
-148836862	I couldn't get dynamite, so I filled a minecart with gunpowder.
-81531990	You telling me we have to drag a minecart all the way to the gate.
-1876785264	Hey. It's easy. We just light it up and boom, heh heh.
-769820168	This is why I don't work with amateurs.
-1079857917	Let's not forget about Kate and Cooper. 
-685322981	Right. They put them together in those cages.
-254165553	You sure you wanna help out that jackass?
-2124535496	I'm not gonna leave Cooper behind.
-712071934	I don't care either way.
-1257884965	All right ladies, break time. Best make sure you freshen up for the next shift, heh heh.
-2044414984	Okay, that's our cue. Don't screw this up now.
-1746633762	About time.
-142070457	Damn, I'm tired.
-1301970097	Thanks again for stitching me up. You two make a good team.
-1901138926	Is that right?
-1112127556	You're welcome, Hector.
-1828505974	That's one hell of a lock. 
-654581953	Locked. Why wouldn't it be.
-44168461	I'm gonna need my lockpicks.
-27612010	If they refuse to work, shoot one of 'em. There's always more coming.
-539013740	Yeah but there might be trouble a comin'. Some marshal got his ear to the ground.
-1648501021	So? What's the law gonna do out here?
-62545439	But if they found this place?
-895602896	Then we'd put 'em to work too, hah hah! Now gimme that bottle!
-742778618	What do you say, Doc? We going in?
-1973847347	You wanna waltz right through the front door?
-380420779	There are other ways to get in.
-460242170	All right, I'm in. Try not to make any noise.
-1698589942	Let's keep it quiet.
-1138515417	Made it. Now, need to do this right.
-320200121	Glad you're still with us, sweetie pie.
+682609609	Bem. Primeiro buscamos nossos pertences.
+622664446	Eles estão naquelas caixas no acampamento superior.
+2069419911	Em seguida, vou quebrar a fechadura naquele portão para que possamos sair.
+83151862	Quando sairmos, teremos a dinamite.
+982644464	Certo. Está naquele carrinho da mina. E não é realmente dinamite.
+402154637	Do que você está falando?!
+148836862	Não consegui dinamite, então enchi um carrinho da mina com pólvora.
+81531990	Você está me dizendo que precisamos arrastar um carrinho da mina até o portão.
+1876785264	Ei. É fácil. Nós apenas iluminamos e crescemos, heh heh.
+769820168	É por isso que não trabalho com amadores.
+1079857917	Não vamos esquecer Kate e Cooper. 
+685322981	Certo.  Eles os colocam juntos nessas gaiolas.
+254165553	Tem certeza de que quer ajudar esse idiota?
+2124535496	Não vou deixar Cooper para trás.
+712071934	Eu não me importo de qualquer maneira.
+1257884965	Tudo bem, senhoras, intervalo. Melhor se refrescar para o próximo turno, heh heh.
+2044414984	Ok, essa é a nossa sugestão. Não estrague tudo agora.
+1746633762	Estava na hora.
+142070457	Porra, estou cansado.
+1301970097	Mais uma vez obrigado por me costurar. Vocês dois formam um bom time.
+1901138926	Isso está certo?
+1112127556	De nada, Hector.
+1828505974	Essa é uma trava infernal.
+654581953	Bloqueado. Por que não seria?
+44168461	Eu vou precisar do meu kit de abrir fechadura.
+27612010	Se eles se recusarem a trabalhar, atire em um deles. Sempre há mais por vir.
+539013740	Sim, mas pode haver problemas chegando. Algum marechal enfiou a orelha no chão.
+1648501021	Assim? O que a lei vai fazer aqui?
+62545439	Mas se eles encontrassem este lugar?
+895602896	Então nós os colocamos para trabalhar também, hah hah! Agora me dê essa garrafa!
+742778618	O que você diz, Doc? Nós vamos entrar?
+1973847347	Você quer entrar pela porta da frente?
+380420779	Existem outras maneiras de entrar.
+460242170	Tudo bem, estou dentro. Tente não fazer barulho.
+1698589942	Vamos ficar em silêncio.
+1138515417	Feito isso. Agora, precisa fazer isso direito.
+320200121	Que bom que você ainda está conosco, querida.
 1859915880	*meows proudly*
-171464383	The big guy? You takin' me for a fool?
-1439672168	Fucker made the trip with a shoulder full of lead.
-849787582	That's hogwash.
-1666976715	They also say the cowboy was the one who shot him.
-702008517	That damn rattlesnake. You know why they put him in a cage, right?
-602685612	Bianca! I sure missed ya, girl.
-1036057740	Looks like all is in order.
-213539764	There we are... Few leaves still fresh enough.
-1761626187	What about Cooper and Kate's belongings?
-2037177346	In my bag.
-872089983	Now the miner's cart.
-282395675	Lunchtime I guess.
-925958440	...Mmh, beans.
-583741473	I sure could use a hot meal, right about now.
-1066933449	We ain't got the time. 
-147356723	One cart, just like the doctor ordered.
-486357128	Hey Doc, there's the cart.
-1592873871	Either of us can push the cart.
-1144938845	Good to know.
-1716104162	We still need the minecart.
-929155596	Hey, don't forget the cart.
-241452100	Hey, what about the minecart?
-933936963	UhHrg... Here we go.
-1162401160	UhHrg... Light cart, he says.
-1992285649	Hrm... Heh, easy.
-304649958	Now...now whatta we do?
-880749737	What we gonna do now?
-906973344	We gotta switch tracks. Use the levers.
-16619315	There we go.
-1056984587	That works.
-751886073	Next stop, Cooper and Kate.
-1705464109	Whatever.
-737916266	The stream.
-1149090533	Ah, the stream.
-490839473	Bastards had me panning gold here.
-257591643	You can thank Cooper for that.
-1995265388	The coal mine.
-1732852213	Through the coal mine, huh?
-349144287	Bah... This is the last cart I'm pushing through here.
-889883823	Still better than panning for gold in the river.
-1740639474	Keep at it.
-1659033132	Forward ho.
-1496730585	We still got a ways to go.
-364715046	Pull yourself together.
-105590931	Always the sweetheart, Sunshine...
-1957716404	We are making good time.
-992856966	Never thought we'd get this far.
-1955750412	We're not done here. Hurry it up.
-1164112676	I can't wait to leave this all behind.
-853281247	That makes two of us.
-1701080708	The quarry.
-1203525766	There's the quarry.
-105902143	Poor fellas. Wonder where they're all from.
-1955909627	That doesn't concern me.
-303214725	What the hell is wrong with you, McCoy?
-2120924583	All that matters is getting out of here.
-931207961	I miss home.
-410687283	Agh, my back.
-2042784179	I'm so thirsty.
-1214247506	I can't take it anymore.
-73144754	So tired.
-974745439	I shouldn't be here.
-2006975240	Bastards.
-1562693169	So hungry.
-991631486	It ain't fair.
-230285399	I don't wanna be whipped.
-298285414	I'm dizzy.
-847466416	It never ends.
-601174856	Damn the DeVitt Company.
-1496956927	Thank you kindly, stranger.
-756661453	Just stay out of my way.
-1810550559	Hide. Wait for the boom. Then run.
-788094147	We're gonna blow up the gate. Wait here until then.
-292568247	Got it.
-528986580	There's Cooper and Kate.
-159653377	I can see the others.
-1081918118	There're the cages.
-1946844100	I'll pick the locks.
-513353119	If you have something to say, then say it.
-1408733202	I've got nothing worth saying at this point.
-1374245676	That's what you get for misbehaving.
-900880699	Feeling cozy in there?
-978215797	I'm surprised you're letting me out.
-795095938	Take your stuff.
-402906484	Sure. Thanks.
-123389086	McCoy. Get me out of here.
-314588434	These are yours I believe.
-1361774041	Let's get out of here. I've had enough of this place.
+171464383	O grandalhão? Você está me pegando como um tolo?
+1439672168	Fucker fez a viagem com o ombro cheio de chumbo.
+849787582	Isso é besteira.
+1666976715	Eles também dizem que o cowboy foi quem atirou nele.
+702008517	Aquela maldita cascavel. Você sabe por que eles o colocaram em uma gaiola, certo?
+602685612	Bianca! Eu com certeza senti sua falta, garota.
+1036057740	Parece que tudo está em ordem.
+213539764	Aí estamos ... Poucas folhas ainda estão frescas o suficiente.
+1761626187	E os pertences do Cooper e Kate?
+2037177346	Na minha bolsa.
+872089983	Agora o carrinho do mineiro.
+282395675	Hora do almoço, eu acho.
+925958440	...Mmh, feijão
+583741473	Eu com certeza poderia comer uma refeição quente, agora mesmo.
+1066933449	Nós não temos tempo.
+147356723	Um carrinho, exatamente como o médico pediu.
+486357128	Ei Doc, aqui está o carrinho.
+1592873871	Qualquer um de nós pode empurrar o carrinho.
+1144938845	Bom saber.
+1716104162	Ainda precisamos do carrinho da mina.
+929155596	Ei, não esqueça o carrinho.
+241452100	Ei, e o carrinho da mina?
+933936963	UhHrg ... Aqui vamos nós.
+1162401160	UhHrg ... Carrinho leve, ele diz.
+1992285649	Hum ... heh, fácil.
+304649958	Agora ... agora o que fazemos?
+880749737	O que vamos fazer agora?
+906973344	Temos que mudar de faixa. Use as alavancas.
+16619315	Aqui vamos nós.
+1056984587	Isso funciona.
+751886073	Próxima parada, Cooper e Kate.
+1705464109	Tanto faz.
+737916266	O riacho.
+1149090533	Ah, o riacho.
+490839473	Bastardos me fizeram garimpar ouro aqui.
+257591643	Você pode agradecer a Cooper por isso.
+1995265388	A mina de carvão.
+1732852213	Através da mina de carvão, hein?
+349144287	Bah ... Este é o último carrinho que estou empurrando por aqui.
+889883823	Ainda melhor do que garimpar ouro no rio.
+1740639474	Continue nisso.
+1659033132	Encaminhar ho.
+1496730585	Ainda temos um longo caminho a percorrer.
+364715046	Controle-se.
+105590931	Sempre o amor, Sunshine...
+1957716404	Estamos fazendo um bom tempo.
+992856966	Nunca pensei que chegaríamos tão longe.
+1955750412	Nós não terminamos aqui. Apresse-se.
+1164112676	Mal posso esperar para deixar tudo isso para trás.
+853281247	Que faz de nós dois.
+1701080708	A pedreira.
+1203525766	Aqui está a pedreira.
+105902143	Pobres rapazes. Me pergunto de onde eles são.
+1955909627	Isso não me preocupa.
+303214725	O que diabos há de errado com você, McCoy?
+2120924583	Tudo o que importa é sair daqui.
+931207961	Sinto falta de casa.
+410687283	Agh, minhas costas
+2042784179	Estou com muita sede.
+1214247506	Eu não aguento mais.
+73144754	Tão cansado.
+974745439	Eu não deveria estar aqui.
+2006975240	Bastardos.
+1562693169	Tão faminto.
+991631486	Isso não é justo.
+230285399	Eu não quero ser chicoteado.
+298285414	Eu estou tonto.
+847466416	Nunca acaba.
+601174856	Maldita Companhia DeVitt.
+1496956927	Obrigado gentilmente, estranho.
+756661453	Apenas fique fora do meu caminho.
+1810550559	Ocultar. Aguarde o boom. Então corra.
+788094147	Nós vamos explodir o portão. Espere aqui até lá.
+292568247	Entendi.
+528986580	Lá estão Cooper e Kate.
+159653377	Eu posso ver os outros.
+1081918118	Aqui estão as gaiolas.
+1946844100	Eu vou pegar as fechaduras.
+513353119	Se você tem algo a dizer, diga.
+1408733202	Não tenho nada que valha a pena dizer neste momento.
+1374245676	Isso é o que você ganha por se comportar mal.
+900880699	Sentindo-se aconchegante lá?
+978215797	Estou surpreso que você esteja me deixando sair.
+795095938	Pegue suas coisas.
+402906484	Certo. Obrigado.
+123389086	McCoy. Tire-me daqui.
+314588434	Estes são seus, eu acredito.
+1361774041	Vamos sair daqui. Eu já tive o suficiente deste lugar.
 880777560	Hector.
 174451128	Cooper.
-1799230920	We'll have a talk, later.
-351677477	You bet.
-846142708	Hgn...damn.
-1826544707	I'm gonna have to take it slow.
+1799230920	Conversaremos mais tarde.
+351677477	Pode apostar.
+846142708	Hgn ... droga.
+1826544707	Vou ter que ir devagar.
 245698559	Então, qual o plano?
-349376903	You shut up and let the wiser amongst us figure that out.
-1193466608	Yeah...I had that comin'. I'll keep up.
+349376903	Você cale a boca e deixe o mais sábio entre nós descobrir isso.
+1193466608	Sim ... eu tive isso vindo. Eu continuo.
 526041900	Huh...
 1150084086	Uh...
-318572992	There's more dynamite in that barrel.
-1914256320	You telling me we don't need the cart?
-895806806	We still need the cart. But it might help clear the way.
-257922434	That's the spot.
-1369993607	Finally...
-148106665	I'll take the shot.
-605008668	We still need to get Cooper and Kate out.
-87181883	Wait. We need the others.
-294584919	No. Let's get the others first.
-1710937578	Not yet. The others are still locked up.
-1586099081	All right, let's get out!
+318572992	Há mais dinamite naquele barril.
+1914256320	Você está me dizendo que não precisamos do carrinho?
+895806806	Ainda precisamos do carrinho. Mas isso pode ajudar a limpar o caminho.
+257922434	Esse é o local.
+1369993607	Finalmente...
+148106665	Eu vou dar o tiro.
+605008668	Ainda precisamos tirar Cooper e Kate.
+87181883	Espera. Nós precisamos dos outros.
+294584919	Não. Vamos pegar os outros primeiro.
+1710937578	Ainda não. Os outros ainda estão trancados.
+1586099081	Tudo bem, vamos sair!
 1302353218	*yawns*
 1481639880	Hmph!
-1641689256	Easy, friend.
-815690801	Which way to the next train station?
+1641689256	Calma, amigo.
+815690801	Qual o caminho para a próxima estação de trem?
 1520189872	...Down the road...couple miles...
 1444952461	Hmph!
 757917807	Thank you.
@@ -6354,7 +6354,7 @@ Japanese	Japonês
 63281099	Uh uh. Péssima ideia.
 500667948	Há problemas por dentro.
 71468931	Não posso arriscar.
-323623352	Ideia idiota.
+323623352	Idéia idiota.
 1883920775	Há problemas por dentro.
 817346445	Not risking it.
 881566038	Essa é uma péssima ideia.
@@ -6743,7 +6743,7 @@ Japanese	Japonês
 1990159601	Eu vou fazer um novo buraco na sua bunda.
 1105635547	Bianca quer vingança.
 1584913950	Ninguém coloca Hector em uma cela.
-309149042	Alguma ideia de onde estamos?
+309149042	Alguma idéia de onde estamos?
 284337048	Bianca não gosta de nadar.
 40588927	Heh heh, é hora da vingança.
 38007557	Eu vou estragar este lugar.
@@ -8134,278 +8134,278 @@ Japanese	Japonês
 1818062380	I'm already there.
 375106021	Coming through.
 1463267480	Let's make this interesting.
-928614151	Let's see what we can do.
+928614151	Vamos ver o que podemos fazer.
 1291138300	Oh yeah.
-394268050	Heh, nice.
-679843745	Oh, I see where this is going.
-1053526745	Not a bad idea.
-941173767	I'll take care of it.
-430808166	No problem.
-1405739495	Let's be quick about it.
+394268050	Heh, legal.
+679843745	Oh, eu vejo aonde isso está indo.
+1053526745	Não é uma má ideia.
+941173767	Eu cuidarei disso.
+430808166	Sem problemas.
+1405739495	Vamos ser rápidos nisso.
 1077459486	Won't make a sound.
-732821568	Just taking a stroll.
-1157590785	Easy peasy.
-1183229750	Let's not draw attention.
-2108714373	Nice change of pace.
-1800212601	Take a look around.
-1597184644	Child's play.
-1207487821	Time for a little payback.
-937761858	Oh, I'm gonna enjoy this.
-1071823802	I hate these guys.
-264846364	Just a nice day at the river.
-1943719329	Glad there's no gators here.
-2079034413	Let me show you around.
-189971941	Just gotta follow the clues.
-338123914	The trail ain't cold yet.
-94465682	hold tight, Wayne. I'm coming.
-1143146030	Let's burn this place to the ground.
-620887894	Can't get tired now...
-1249330717	Gotta keep it together.
-1260144330	Just a little farther.
-636710225	We're gonna get outta here.
-1488625972	Not gonna give up now.
-1929519733	Not gonna die here.
-284982281	Don't worry. Keep going.
-985661758	I had enough of this place.
-998176820	Let's entertain the guests.
-398325729	Been looking forward to this.
-141655482	Let's get DeVitt.
-1465568110	Belly of the beast, huh?
-1176569570	We're real close now.
-1483848063	Let's pack this up.
-829154899	Let's end it.
-1855883930	This is for Cooper.
-744500706	Off we go.
-837940684	Sure, no problem.
-1280486638	Easy.
-1133196444	I got this.
-42424190	Coming up.
-163126714	Not so sure about this.
-1281387733	I don't like where this is going.
-970133390	This ain't gonna end well.
+732821568	Apenas dando um passeio.
+1157590785	Mole-mole.
+1183229750	Não vamos chamar atenção.
+2108714373	Boa mudança de ritmo.
+1800212601	Dê uma olhada ao redor.
+1597184644	Brincadeira de criança.
+1207487821	Hora de um pequeno retorno.
+937761858	Oh, eu vou gostar disso.
+1071823802	Eu odeio esses caras.
+264846364	Apenas um bom dia no rio.
+1943719329	Ainda bem que não há jacarés aqui.
+2079034413	Deixe-me mostrar a você.
+189971941	Só preciso seguir as pistas.
+338123914	A trilha ainda não está fria.
+94465682	segure firme, Wayne. Estou chegando.
+1143146030	Vamos queimar este lugar no chão.
+620887894	Não pode se cansar agora ...
+1249330717	Temos que mantê-lo juntos.
+1260144330	Um pouco mais longe.
+636710225	Vamos sair daqui.
+1488625972	Não vou desistir agora.
+1929519733	Não vou morrer aqui.
+284982281	Não se preocupe. Continue.
+985661758	Eu tinha o suficiente deste lugar.
+998176820	Vamos entreter os convidados.
+398325729	Estava ansioso por isso.
+141655482	Vamos buscar DeVitt.
+1465568110	Barriga da besta, não é?
+1176569570	Estamos muito perto agora.
+1483848063	Vamos fazer as malas.
+829154899	Vamos terminar.
+1855883930	Isto é para Cooper.
+744500706	Vamos lá.
+837940684	Claro, não há problema.
+1280486638	Fácil.
+1133196444	Eu entendi.
+42424190	Chegando.
+163126714	Não tenho tanta certeza disso.
+1281387733	Não gosto de onde isso está indo.
+970133390	Isso não vai acabar bem.
 517525376	Nuh uh.
-839026546	Not happening.
-277351301	Think again.
-626405494	Not doing that.
-1465603173	No can do.
-1033664241	There ain't no way.
-1979602655	I don't see how.
-1335663396	That's impossible.
-1036318681	There's company in there.
-859806228	It's not safe in there.
-439249948	Forget it. It ain't safe.
-1294512249	Locked, huh?
-1292976346	It's locked tight.
-1197692887	Nope. Won't budge.
-1189830652	Not ready yet.
-1549978633	It ain't ready.
-445046105	Still gotta wait.
-586165605	I'm out.
-1440125400	Nothing left.
-200110905	I got nothing.
-1690838190	Finished.
-1385068089	We done here?
-904761970	All right, what now?
-1775251552	All done.
-1571810590	That'll do.
-938924657	See you on the other side.
-671036041	Like cutting herbs.
-463928256	Go with Papa Ghede.
-674215476	What's a little blood?
-544103607	Oh, nasty.
-436916236	Go to sleep.
-1483089120	How adorable.
-1958411762	Stay down, ya hear?
-82122588	Who's next?
-151943541	Aww, tired?
-1548839610	That all you got?
+839026546	Não está acontecendo.
+277351301	Pense novamente.
+626405494	Não está fazendo isso.
+1465603173	Não pode fazer.
+1033664241	Não há como.
+1979602655	Não vejo como.
+1335663396	Isso é impossível.
+1036318681	Há empresa lá.
+859806228	Não é seguro lá.
+439249948	Esqueça. Não é seguro.
+1294512249	Bloqueado, não é?
+1292976346	Está bem fechado.
+1197692887	Não. Não vai se mexer.
+1189830652	Ainda não está pronto.
+1549978633	Não está pronto.
+445046105	Ainda tem que esperar.
+586165605	Estou fora.
+1440125400	Nada mais.
+200110905	Não tenho nada.
+1690838190	Concluído.
+1385068089	Terminamos aqui?
+904761970	Tudo bem, e agora?
+1775251552	Tudo pronto.
+1571810590	Isso serve.
+938924657	Vejo você do outro lado.
+671036041	Como cortar ervas.
+463928256	Vá com Papa Ghede.
+674215476	O que é um pouco de sangue?
+544103607	Oh, desagradável.
+436916236	Vá dormir.
+1483089120	Que adorável.
+1958411762	Fique abaixado, ouviu?
+82122588	Quem é o próximo?
+151943541	Aww, cansado?
+1548839610	Isso é tudo o que você tem?
 1162137679	...!
-718930136	...! Hey!
-670654216	...! That really hurts.
+718930136	...! Ei!
+670654216	...! Isso realmente dói.
 1994905694	...
-517850093	...No... Not yet...
+517850093	...Não... Ainda não...
 1816613697	...!
 156610241	...!
 2029968742	...!
 165766059	...!
 2057969559	...
 481090440	...
-1516744320	...Yeah sure... Real funny.
-1329375010	...Oh, I'm gonna get you.
-1663065043	...Hey... Careful.
-1645812927	...Oh, you want to be jinxed, huh?
-1691141857	Gotcha.
-242524463	Where to?
-626775936	Ready. Where to?
-951280403	Whew. Done.
-1198499341	Let's put you here.
-1285283961	Let's drop you off.
-2136759918	Not heavy at all...
-1884184145	Nice and tight.
-320308234	Not a peep, got it?
-1207475747	Too tight? Good.
+1516744320	... Sim, claro... Muito engraçado.
+1329375010	... Oh, eu vou te pegar.
+1663065043	... Ei... Cuidado.
+1645812927	... Oh, você quer ser amarrado, hein?
+1691141857	Entendi.
+242524463	Para Onde?
+626775936	Pronto. Para onde?
+951280403	Ufa. Feito.
+1198499341	Vamos colocá-lo aqui.
+1285283961	Vamos deixá-lo.
+2136759918	Nem um pouco pesado...
+1884184145	Agradável e apertado.
+320308234	Nem um pio, entendeu?
+1207475747	Muito apertado? Boa.
 923382311	...!
 1538151701	...!
 1377324306	...!
 707188080	...
 276522467	...
 110218475	...
-2031362824	Let's cut some weeds.
-1157289741	Razor sharp.
-1792824638	I'll send 'em to the other side.
-1296679714	A soul for Papa Ghede.
+2031362824	Vamos cortar algumas ervas daninhas.
+1157289741	Nítida.
+1792824638	Vou enviá-los para o outro lado.
+1296679714	Uma alma para Papa Ghede.
 1956181890	...!
 1774737883	...!
 2035379083	...!
-577203227	Time to sleep.
-2074291579	Let me at 'em.
-485460720	Sweet dreams, coming up.
+577203227	Hora de dormir.
+2074291579	Deixe-me neles.
+485460720	Bons sonhos, chegando.
 888374702	...!
 1321257463	...!
 2071021781	...!
-123607556	Just a tiny prick.
-1801719307	Let's stick a pin in them.
-454889175	They won't feel a thing.
-1129248243	Just a little blood.
-928790262	That's one.
-1265236183	That's another.
-2043789239	Got one.
-286750106	Got two.
-1485265207	That one.
-1040628537	And that one.
-1724442411	Heh, barely felt it.
-1619832780	Gonna go in myself.
-1859572169	We're all connected.
-872498356	Who's my lucky partner?
-1790406456	What you don't do yourself...
-1066427828	And now we just...
-653938542	Just a little blood...
-930706022	Don't need much...
-414503893	One and the other.
-2098572022	Just like sewing...
-1377700400	Let's change things up.
-284308200	That's much better.
-72118034	Now I like it.
-1207746109	Maybe like this?
-41210787	Let's try something different.
-1676982095	You ready, Stella?
-216140776	You got some work to do.
-1845121793	Hey Stella.
-118162669	I got a task for you.
-1109903659	Come on, go.
-1160703492	Hurry up now.
-247611732	Off you go.
-464092178	Not bad, sweetie.
-1123783526	Look who's back.
-2082706861	Good job, Stella.
-1427047199	Who wants to volunteer?
-25618550	Let's make a friend.
-81827236	This is gonna hurt.
-163779763	I need a new puppet.
-1540791117	I'll pull some strings.
-1419141583	Don't get spooked now.
-341591720	Going for it...
-752888387	Here we go...
-63333186	Deep breath...
-4377793	Here goes...
-1062250236	Listen.
-1313429763	Listen up.
-2065177712	Gotcha.
-146785060	You're mine.
-1589934152	All mine.
-2134428731	Come to mama.
-695404509	Let's get started.
-654774778	Move.
-1147675545	There.
-1731813851	Go.
-1196257580	Walk.
-1545512649	Faster.
-2038772205	Do it.
-805008413	This one.
-971476442	That's right.
-277989932	No regrets.
-836730851	Go for it.
-1228782321	...! Back in action.
-1238073356	...! Hope that was worth it.
-720260906	...! Whew. All done.
-1550753356	...! Shit that hurts.
-641028331	...! Too strong...
-575562138	...! He pushed me out...
-624963726	...! That's a strong one...
-637326336	Never doing that again.
-10014101	I know the inside of my own head, thank you.
-2049343867	That's not how it works.
-1399245010	I got enough nightmares, thank you.
-1267853701	Let's hear your thoughts.
-1803793389	No harm in listening in.
-1990184930	I'm a bit curious.
-15203102	Could be interesting.
-1614794442	Shit, I'm spent. Better take some jimson.
-1676379491	What do we have here!
-48842464	All mine.
-2117087259	Just what I need.
-552193462	Nah, I'm good.
-358302127	That's more than I need.
-716483205	I got enough for now.
-1063981054	A little cure-all.
-906752479	Always helps.
-451365883	Best thing there is.
-2099090885	Here's some jimson.
-925185424	Easy, Sunshine.
-1370602473	Heh, you really are a doctor!
-614844196	Thanks, I guess.
-639305164	Better already.
-15023406	Ugh! Holy hell!
-1321946249	What the... Ugh!
-205647897	What is this?! Tar oil?!
-1617486514	Just what the doctor ordered.
-812359067	That'll do the trick.
-1427776247	Back in action.
-1307267463	Good as new.
-873815517	Lighting the fuse.
-2130811114	Gotta hurry here.
-1374334792	Better decide fast.
-1397376772	Fly.
-519571502	See ya.
-588536931	Take cover.
-649032817	Lookey here.
-367848240	Don't mind if I do.
-1903272015	Lucky me.
-2014483118	Finders keepers.
-2036961015	Let's lure someone.
-839487586	Like fishing, huh?
-370675528	Who's gonna bite?
-636651223	Money anyone?
-323683247	We got fire.
-1853956412	Torch ready.
-788364589	Go.
-538583848	Fly.
-974757955	Lights out.
-2070988801	Gotta lose the fire.
-998814425	Shit. Dropped it.
-1408005813	Fuck. Dropped it.
-720245240	Where were we before...
-1625285637	Like I was saying...
-7662523	So, about that...
-649615649	Mhhh... Stop it.
-661354426	I said stop it. You think I don't know who you are?
-1418039439	I'm losing my patience with you. Last warning.
-786260379	Well, you asked for it.
-211269754	Hgnn... There. You're mine. Now let's see...
-175033187	Open the options menu.
-860753893	Go to savegames.
-1327277550	Press delete all... Do it. Now.
-514413215	Oops... Look what you did, silly.
+123607556	Apenas uma pequena picada.
+1801719307	Vamos colocar um alfinete neles.
+454889175	Eles não vão sentir nada.
+1129248243	Apenas um pouco de sangue.
+928790262	Essa é uma.
+1265236183	Essa é outra.
+2043789239	Tenho um.
+286750106	Tenho dois.
+1485265207	Aquele.
+1040628537	E esse.
+1724442411	Heh, mal senti.
+1619832780	Vou entrar em mim.
+1859572169	Estamos todos conectados.
+872498356	Quem é meu parceiro de sorte?
+1790406456	O que você não faz a si mesmo ...
+1066427828	E agora apenas ...
+653938542	Apenas um pouco de sangue ...
+930706022	Não precisa de muito ...
+414503893	Um e o outro.
+2098572022	Assim como costurar ...
+1377700400	Vamos mudar as coisas.
+284308200	Isso é muito melhor.
+72118034	Agora eu gosto.
+1207746109	Talvez assim?
+41210787	Vamos tentar algo diferente.
+1676982095	Você está pronta, Stella?
+216140776	Você tem algum trabalho a fazer.
+1845121793	Ei, Stella.
+118162669	Eu tenho uma tarefa para você.
+1109903659	Vamos, vamos.
+1160703492	Apresse-se agora.
+247611732	Pronto!
+464092178	Nada mal, querida.
+1123783526	Olha quem voltou.
+2082706861	Bom trabalho, Stella.
+1427047199	Quem quer ser voluntário?
+25618550	Vamos fazer um amigo.
+81827236	Isso vai doer.
+163779763	Eu preciso de um novo boneco.
+1540791117	Vou puxar algumas cordas.
+1419141583	Não se assuste agora.
+341591720	Indo para ...
+752888387	Aqui vamos nós ...
+63333186	Respire fundo ...
+4377793	Aqui vai ...
+1062250236	Ouça.
+1313429763	Ouça.
+2065177712	Entendi.
+146785060	Você é minha.
+1589934152	Toda minha.
+2134428731	Venha para a mamãe.
+695404509	Vamos começar.
+654774778	Mexa-se.
+1147675545	Lá.
+1731813851	Vá.
+1196257580	Ande.
+1545512649	Mais rápido.
+2038772205	Faça.
+805008413	Este.
+971476442	Isso mesmo.
+277989932	Sem arrependimentos.
+836730851	Vá em frente.
+1228782321	...! De volta à ação.
+1238073356	...! Espero que valha a pena.
+720260906	...! Ufa. Tudo feito.
+1550753356	...! Merda como dói.
+641028331	...! Muito forte...
+575562138	...! Ele me empurrou para fora ...
+624963726	...! Essa é forte ...
+637326336	Nunca mais faça isso.
+10014101	Eu sei o que tenho na cabeça, obrigado.
+2049343867	Não é assim que funciona.
+1399245010	Eu tenho pesadelos suficientes, obrigado.
+1267853701	Vamos ouvir seus pensamentos.
+1803793389	Não há mal em ouvir.
+1990184930	Estou um pouco curioso.
+15203102	Pode ser interessante.
+1614794442	Merda, estou exausta. Melhor tomar um jimson.
+1676379491	O que temos aqui!
+48842464	Toda minha.
+2117087259	Apenas o que eu preciso.
+552193462	Nah, eu estou bem.
+358302127	Isso é mais do que eu preciso.
+716483205	Tenho o suficiente por enquanto.
+1063981054	Um pouco de cura para todos.
+906752479	Sempre ajuda.
+451365883	A melhor coisa que existe.
+2099090885	Aqui estão alguns jimson.
+925185424	Fácil, luz do sol.
+1370602473	Heh, você realmente é um médico!
+614844196	Obrigado, eu acho.
+639305164	Melhor já.
+15023406	Ugh! Que inferno!
+1321946249	Mas que ... Ugh!
+205647897	O que é isso ?! Óleo de alcatrão ?!
+1617486514	Exatamente o que o médico pediu.
+812359067	Isso serve.
+1427776247	De volta à ação.
+1307267463	Bom como novo.
+873815517	Acendendo o fusível.
+2130811114	Tem que se apressar aqui.
+1374334792	Melhor decidir rapidamente.
+1397376772	Voe.
+519571502	Até mais.
+588536931	Proteja-se.
+649032817	Veja aqui.
+367848240	Não se importe se eu fizer.
+1903272015	Sorte minha.
+2014483118	Achado não é roubado
+2036961015	Vamos atrair alguém.
+839487586	Gosta de pescar, não é?
+370675528	Quem vai morder?
+636651223	Dinheiro alguém?
+323683247	Temos fogo.
+1853956412	Tocha pronta.
+788364589	Vá.
+538583848	Voe.
+974757955	Luzes apagadas.
+2070988801	Tenho que perder o fogo.
+998814425	Merda. Deixou-a cair.
+1408005813	Foda-se. Deixou-a cair.
+720245240	Onde estávamos antes ...
+1625285637	Como eu estava dizendo ...
+7662523	Então, sobre isso ...
+649615649	Mhhh ... Pare com isso.
+661354426	Eu disse para parar. Você acha que eu não sei quem você é?
+1418039439	Estou perdendo minha paciência com você. Último aviso.
+786260379	Bem, você pediu.
+211269754	Hgnn ... Lá. Você é meu. Agora vamos ver ...
+175033187	Abra o menu de opções.
+860753893	Vá para os jogos salvos
+1327277550	Pressione excluir tudo ... Faça isso. Agora.
+514413215	Opa... Olha o que você fez, bobo.
 2036930682	Está na hora?
 1475892683	Olhos abertos, Johnny.
 739688853	Apertado como uma corda de arco.
 621171003	Certo. Estou pronto.
 596974803	Estou pronto dessa vez.
-1308312152	I gotta get to Pa.
-395666720	Pa needs me.
-575611466	Pa went to the chapel.
+1308312152	Preciso chegar ao Pa.
+395666720	Pa precisa de mim.
+575611466	Pa foi à capela.
 608468872	Para onde?
-2141638710	This is...really heavy.
+2141638710	Isso é... realmente pesado.
 1699288412	Ok, para onde?
 394982435	Certo. Sem problemas.
 2099790094	Deixe para mim.
@@ -8437,9 +8437,9 @@ Japanese	Japonês
 2125512474	Há problemas lá.
 708369979	Não deveria entrar lá.
 1004098978	Não. Má ideia.
-2002224943	Locked.
-1815445650	It's locked.
-187308505	Won't budge
+2002224943 	Bloqueado.
+1815445650	Está bloqueado.
+187308505	Não se move
 2002792298	Me dê um tempo.
 2014682765	Ainda não consigo.
 655197554	Ainda não posso fazer isso.
@@ -8471,8 +8471,8 @@ Japanese	Japonês
 977728358	Peguei eles...
 887995607	Você é pesado...
 790619903	...!
-8060920	...! Whew.
-1743547639	...! Package delivered.
+8060920	...! Ufa.
+1743547639	...! Pacote entregue.
 1313510991	Não se importe comigo..
 637822479	Agora, você fica aí, ok?
 1602076023	Não se mexa, certo?
@@ -12541,40 +12541,40 @@ Japanese	Japonês
 1799678180	I ain't getting paid enough for that.
 1967377616	Helloooo? Where are ya?
 1692344080	Whatever it is that I did, I am sorry, awright!
-292881560	Very funny, hiding from me! Hahaha...
-866132850	Hm... Went off to the john, I bet.
-1838243228	Will be back in time I imagine.
-616888592	Okay fine. Be that way, y'asshole.
-1071422103	You've been here all along?!
-1467373019	Hey. I was kinda worried, you know.
-1450426701	There you are! Don't leave all of a sudden like that!
-217540555	Oh hell!
-921437871	Oh what a shitty day...
-1089524827	Damn! What else can go wrong here?!
-1819266016	Holy cow!
-765195055	That ain't good!
-100666274	Too late...
-1573772460	How could that've happened?
-435554925	Somethin's fishy about this.
-1942413999	Damn... Fuckin' weird.
-1625589755	No fuckin' way...
-1626370438	Can't do nothing.
-62664252	Better leave before I get forced to clean up. 
-138475120	Can't be helped. Gotta go back.
-422127413	What a mess...
-1663965711	They should pay us more for doing this...
-1284936154	Well, not my problem.
-54224172	I don't like this. Someone's out there.
-1339107181	Shit. This better not happen to me.
-1306684135	Damn O'Haras. Guess they set up traps.
+292881560	Muito engraçado, se escondendo de mim! Hahaha...
+866132850	Hm...  foi ao banheiro, eu aposto.
+1838243228	Voltarei à tempo, eu imagino.
+616888592	Tudo bem, tudo bem. Como quiser, seu idiota.
+1071422103	Você esteve aqui o tempo todo ?!
+1467373019	Ei. Eu estava meio preocupado, você sabe.
+1450426701	Aí está você! Não saia assim de repente!
+217540555	Oh inferno!
+921437871	Oh, que dia de merda...
+1089524827	Porra! O que mais pode dar errado aqui ?!
+1819266016	Meu Deus!
+765195055	Isso não é bom!
+100666274	Tarde demais...
+1573772460	Como isso pôde ter acontecido?
+435554925	Algo cheira mal aqui.
+1942413999	Porra... que esquisito.
+1625589755	De jeito nenhum...
+1626370438	Não dá pra fazer nada.
+62664252	É melhor sair antes que eu seja forçado a limpar.
+138475120	É inevitável. Tenho que voltar.
+422127413	Que bagunça...
+1663965711	Eles devem nos pagar mais por fazer isso...
+1284936154	Bem, não é problema meu.
+54224172	Eu não gosto disso. Tem alguém lá fora.
+1339107181	Merda. É melhor que isso não aconteça comigo.
+1306684135	Malditos O'Haras. Acho que eles montaram armadilhas.
 757272746	...
 15166097	...
 2011615265	...
 1044510940	...
-465951391	...I was just resting my eyes!
-1146503431	...Hu-stop! I'm wide awake!
-1962508322	...Huh... Who's there?
-117042906	...Noisy little shits!
+465951391	... Eu estava apenas descansando meus olhos!
+1146503431	... Pare! Eu estou totalmente acordado!
+1962508322	... Hein... Quem está aí?
+117042906	... Merdinhas barulhentas!
 1870971785	...
 1450289929	...
 448647918	...
@@ -12590,160 +12590,160 @@ Japanese	Japonês
 1414429157	...
 337208667	...
 952021377	...
-1891472475	Ow... My head.
-884882504	What happened?
+1891472475	Ow... Minha cabeça.
+884882504	O que aconteceu?
 1877546942	Ouch...
-1997089400	That'll leave a bump...
-2037562386	Ouch...
-1533286048	Huh?
-1622385321	Over there...
-779013750	What was that?
-36035371	Something...
-1777594095	Is there something...?
+1997089400	Isso vai dar um tranco...
+2037562386	Ai...
+1533286048	Hein?
+1622385321	Ali...
+779013750	O que foi isso?
+36035371	Algo...
+1777594095	Há algo...?
 1453171110	Hmmm...
-283615181	I coulda sworn...
-2038951250	What now?
-1873178525	Wait, is that...?
-1951025071	Was there...?
+283615181	Eu poderia jurar que...
+2038951250	E agora?
+1873178525	Espera, é isso...?
+1951025071	Havia...?
 1312035335	Uh!
-299195431	Are you kidding me?
-706396610	Uhm... Hello...
-1048150093	Stray one, aren't ya?
-966089334	Where'd you come from?
-750460045	Ah... A cat...
-924561775	Run off now...
-1260006875	Don't come back, ya hear?
-1933608231	Yeah, whatever...
-544105742	Filthy little thing.
-886006069	...Damn bastards!
-773055450	...You'll regret that!
-853659310	...What a lousy tactic, coward!
+299195431	Você está brincando comigo?
+706396610	Uhm... Olá...
+1048150093	Você é um Vira-lata, não é?
+966089334	De onde você viria?
+750460045	Ah... um gato...
+924561775	Fugir agora...
+1260006875	Não volte, ouviu?
+1933608231	Sim, tanto faz...
+544105742	Coisinha nojenta.
+886006069	... Malditos desgraçados!
+773055450	... Você vai se arrepender!
+853659310	... Que tática suja, seu covarde!
 883130339	...
 804127083	...
 639300766	...
-217634007	Strange... Whispers...
-1694366917	Feeling tipsy...
-1622617393	Who's talking there...?
-1882743904	So dizzy...
-2120943814	Whispers in my head?
-2004481987	I don't quite feel right...
-361349167	Doin' as I'm told...
-357820214	He he... What do you want from me?
-1986499679	I'm on a...mission...
-2083798430	Huh... Who's there?
-1650058849	Oh... It's you... 
-522217110	Are we friends?
-2102484892	My favorite one.
-192096207	I'm aaall mighty...
-892219241	I aaalways wanted to do that...
-120893961	He he... I'm good at that.
-685237752	Can't shoot straight. But I don't mind.
+217634007	Sussurros... estranhos...
+1694366917	Tô me sentindo embriagado...
+1622617393	Quem está falando aí...?
+1882743904	Tão tonto...
+2120943814	Sussurros na minha cabeça?
+2004481987	Não me sinto bem...
+361349167	Fazendo o que me disseram...
+357820214	He he... O que você quer de mim?
+1986499679	Estou em uma... missão...
+2083798430	Hein... Quem está aí?
+1650058849	Oh... é você...
+522217110	Somos amigos?
+2102484892	Meu favorito.
+192096207	Eu sou todo poderoso...
+892219241	Eu sempre quis fazer isso...
+120893961	He he... eu sou bom naquilo.
+685237752	Não é possível disparar reto. Mas eu não me importo.
 313702512	O-kay!
-1137212406	Sure thing.
+1137212406	Certamente.
 2089919342	Uh huh.
-1746246746	All righty.
-680961605	No meu caminho.
-1424135957	If you say so.
-2031362514	On it.
-1777123938	Doin' it all right.
-325003996	You're right.
-1767302354	I should really do that.
-989605824	Dunno how...
+1746246746	Tudo certo.
+680961605	A caminho.
+1424135957	Se você diz.
+2031362514	Nele.
+1777123938	Fazendo tudo certo.
+325003996	Você está certo.
+1767302354	Eu realmente deveria fazer isso.
+989605824	Não sei como...
 1771378008	Nah...
-1927628735	Don't think so...
-1044763481	Better not.
-1724107039	Don't see a way...
-1282326750	Like this, yes?
-1432152766	And done...
-189454966	Like that?
-1310123712	I got this.
-1902189458	Uhh...hands are shaky today...
-293216441	Steady... Steady...
-1447982419	Just...takin' aim...
-806171793	Just a little...little shot.
-1728700040	There... There... Easy!
-1504033223	Stay still...please...
+1927628735	Acho que não...
+1044763481	Melhor não.
+1724107039	Não vejo uma maneira...
+1282326750	Desse jeito, certo?
+1432152766	E feito...
+189454966	Desse jeito?
+1310123712	Eu entendi.
+1902189458	Uhh... minhas mãos estão tremendo hoje...
+293216441	Firme... Firme...
+1447982419	Apenas... mirando...
+806171793	Só um...  tiro.
+1728700040	Aí... Aí... Fácil!
+1504033223	Fique parado... por favor...
 891223207	...
 744049827	...
 1788163637	...
 1428250328	...
-924754538	Huh? Did I just pass out?
-896733460	Oh, wait... How did I get here?
-547686104	Hm? What was I doin' here again?
-778690778	Ah...my head. What happened here?
-506517737	The hunt is on.
-1015156959	Find 'em before they run off!
-1982024729	They won't get far. Spread out!
-91653953	All right, let's get 'em for good!
-1449767983	Corner them! Search everywhere!
-1606944567	We're gonna find every last one of you!
-328139414	Okay, guys! This time we get 'em!
-1114139344	They can't fool us. Hunt them down!
-9434444	They were here a second ago. Can't have gone far!
-1036864669	Split up, everybody! Go get 'em!
-873357622	Keep looking! We gotta find them!
-717294821	They can't hide forever. Go search everywhere!
-340389872	We surrounded you. Come out!
-744807715	Search every nook and cranny!
-136402144	You're outnumbered! Give up!
-1323208067	Give up, cowards! We have the upper hand!
-1540861264	They are here! I know it!
-2061341918	Can't have come far. Keep lookin'!
-591413658	Come on! We can't let them escape. 
-1604681524	Keep your guns ready. They're here!
-812266444	I know they're here. Keep looking.
-287708736	Keep it up! We almost got 'em!
-1336914596	Forget about it. We'll get 'em another time.
-1628196068	Stop searching. They'll be long gone by now. 
-1542347569	Tss... It's no use. Let's go back.
-1647219311	Too late... They're not here anymore.
-1627691353	Good job, guys... We drove 'em off.
-758478800	Can't find 'em... Let's leave it for now.
-564091734	Not wastin' more time on this. Let's get back!
-1803395457	This is taking too long! We got work to do!
-245787015	Seems like they're gone. We drove 'em off...
-1074928023	They ain't coming back. Good job.
-877787157	Nice try, sweetie. But you're not my type.
-1568640825	Go and hunt somewhere else!
-1062928331	You really that desperate?
-1133261931	Come on, you can do better than that.
-647886074	Gotta stay at my post, darlin', ya know...
-1407618492	Sorry, girl. Grow a beard—then we might talk.
-1963672562	Not today, darling.
-1283796667	Sorry, I'm not in the mood.
-1151386624	You dumb bastard.
-1464375894	She's too good for ya!
-767417200	Yeah, yeah, you go have fun...
-1538087279	Oh, darlin'. He's not worth the trouble, believe me.
-242843179	Oh no you don't.
-1345682987	She's just playing with ya.
-1298658606	Don't let her fool you.
-240207425	Sir?
-226937274	Me, sir?
-1126608176	Yes, boss?
-1724141645	You mean me, boss?
-1220563848	Of course, sir.
-563994794	Got it, boss.
-1311723416	Absolutely, sir.
-1484758337	Sure thing, boss.
-1563769482	Okay, boss.
-1326515134	Thank you, sir.
-1269516304	I'll remember your words, sir.
-755712831	God, what a prick.
-805767867	Ain't got nothing to do with us.
-417890949	Tch. Just ignore it.
-1000055898	Forget it, that's nothing.
-915134949	Yeah, we ain't gonna fall for that.
-1015962781	Ouch. Damn bugs.
-1032173754	Damnit girl... Wastin' your life out here.
-1865007238	Ugh... My boot has a hole...
-140417261	Every second...something could happen... Nah...
-1778704973	If I ever get a pay raise... Mmh.
-1122425201	Uh...isn't it time yet?
-395711206	All quiet...
-2106301192	Hmm... I wonder where all the nice guys work.
-1597352779	Oh... My back hurts...
-2107017638	Will get a nice, hot bath after work.
+924754538	Hein? Acabei de desmaiar?
+896733460	Oh, espere... Como cheguei aqui?
+547686104	Hm? O que eu estava fazendo aqui de novo?
+778690778	Ah... minha cabeça. O que aconteceu aqui?
+506517737	A caçada começou.
+1015156959	Encontre-os antes que fujam!
+1982024729	Eles não vão longe. Espalhem-se!
+91653953	Tudo bem, vamos pegá-los de uma vez por todas!
+1449767983	Encurrale-os! Procurem em todo lugar!
+1606944567	Nós vamos encontrar cada um de vocês!
+328139414	Ok, pessoal! Desta vez, nós os pegamos!
+1114139344	Eles não podem nos enganar. Caçem-os!
+9434444	Eles estavam aqui um segundo atrás. Não pode ter ido longe!
+1036864669	Dividam-se, pessoal! Vão pegá-los!
+873357622	Continuem procurando! Temos que encontrá-los!
+717294821	Eles não podem se esconder para sempre. Procurem em todo lugar!
+340389872	Nós o cercamos. Saiam daí!
+744807715	Pesquise todos os cantos e recantos!
+136402144	Vocês estão em menor número! Desistam!
+1323208067	Desistam, covardes! Nós estamos em vantagem!
+1540861264	Eles estão aqui! Eu sei isso!
+2061341918	Não podem ter ído longe. Continuem procurando!
+591413658	Vamos lá! Não podemos deixá-los escapar.
+1604681524	Mantenha suas armas prontas. Eles estão aqui!
+812266444	Eu sei que eles estão aqui. Continuem procurando.
+287708736	Continuem! Quase os pegamos!
+1336914596	Esqueça. Vamos pegá-los em outra hora.
+1628196068	Parem de procurar. Eles já se foram há muito tempo.
+1542347569	Tss... Não adianta. Vamos voltar.
+1647219311	Tarde demais... Eles não estão mais aqui.
+1627691353	Bom trabalho, pessoal... Nós os expulsamos.
+758478800	Não é possível encontrá-los... Vamos deixar por enquanto.
+564091734	Não percamos mais tempo nisso. Vamos voltar!
+1803395457	Está demorando demais! Temos trabalho a fazer!
+245787015	Parece que eles se foram. Nós os expulsamos...
+1074928023	Eles não vão voltar. Bom trabalho.
+877787157	Boa tentativa, querida. Mas você não é meu tipo.
+1568640825	Vá caçar em outro lugar!
+1062928331	Você está realmente tão desesperado?
+1133261931	Vamos lá, você pode fazer melhor que isso.
+647886074	Tenho que ficar no meu posto, querida, você sabe...
+1407618492	Desculpe garota. Deixe a barba crescer - então voltamos a conversar.
+1963672562	Hoje não, querida.
+1283796667	Desculpe, não estou de bom humor.
+1151386624	Seu desgraçado idiota.
+1464375894	Ela é boa demais para você!
+767417200	Sim, sim, divirta-se...
+1538087279	Oh, querida. Ele não vale a pena, acredite em mim.
+242843179	Oh não, você não.
+1345682987	 Ela está apenas brincando com você.
+1298658606	 Não a deixe te enganar.
+240207425	 Senhor?
+226937274	Eu, senhor?
+1126608176	Sim, chefe?
+1724141645	Você quer dizer eu, chefe?
+1220563848	Claro, senhor.
+563994794	Entendi, chefe.
+1311723416	Absolutamente, senhor.
+1484758337	Certamente, chefe.
+1563769482	Ok, chefe.
+1326515134	Obrigado, senhor.
+1269516304	Vou lembrar de suas palavras, senhor.
+755712831	Deus, que idiota.
+805767867	Não tem nada a ver conosco.
+417890949	Tch. Ignore isso.
+1000055898	Esqueça, isso não é nada.
+915134949	Sim, não vamos cair nessa.
+1015962781	Ouch. Malditos insetos.
+1032173754	Maldita garota... Desperdiçando sua vida aqui.
+1865007238	Ugh... Minha bota tem um buraco...
+140417261	A cada segundo... algo poderia acontecer... Nah...
+1778704973	Se eu conseguir um aumento de salário... Mmh.
+1122425201	Uh... ainda não é hora?
+395711206	Tudo tranquilo...
+2106301192	Hmm... eu me pergunto onde todos os caras legais trabalham.
+1597352779	Oh... Minhas costas doem...
+2107017638	Vai tomar um banho quente e agradável depois do trabalho.
 832393355	...
 1707653555	...
 1255359617	...
@@ -12754,132 +12754,132 @@ Japanese	Japonês
 2003434059	...
 461817892	...
 815455695	...
-1176944609	Cheers!
-1597761643	Heh, bottoms up!
-960400620	Down the hatch!
-362793116	Here's mud in your eye!
-552044498	Makes me nervous, Frank bein' all happy.
-913687008	The heat is killin' me.
-51124310	I wish I had Big Ann's guts.
-2038948507	What to buy from my share...
-1108098643	Ugh... Only farmers hangin' out here.
-1774619704	The brothel seems interesting.
-933354630	I wonder what the dress cost...
-318605891	Cake looks delicious...
-428528347	Can you imagine ruinin' such a day. Evil bastards.
-1368690655	Goddamn, did someone catch 'em yet?
-1056632610	Mud and rain... I miss the city.
-753158192	Hm... Lot to do on a ranch like this.
-1962434139	This weather'll gimme foot rot.
-1001246624	Can't shoot with cold fingers...
-178231558	Gotta keep my eyes out.
-1525545780	Frank's pissed.
-1326138544	Finally somethin' happened here.
-38317265	Wonder if they're still around...
-1543724345	Damn witch. Creepin' me out.
-1986395525	Wonder if I see that cat again.
-241970618	Ah... The big city...
-80490694	Heheh... I'd be a good dancer as well...
-381463626	Hope these gators stay where they are.
-139405933	Uch—another goddamn swampfly!
-770507013	The dogs are restless.
-55760462	Damn this rain...
-2002298699	Don't like the new ones.
-1298338195	Ugh, damn the heat...
-846085680	This must be the end of the world...
-1076128255	We're gonna get them.
-1993371664	Whew, damn this heat.
-720443656	Finally a pay raise.
-438739397	Never liked Frank much anyways.
-964020331	What's Frank doing at the chapel?
-587392813	Feels like home.
-2035681847	How you doin'?
-1044141981	Same as always, honey.
-395639976	G'day.
-19183309	Hey there.
-635073269	All fine?
-288191612	Lookin' good.
-1989339444	Anything unusual?
-1945214623	Nah, not really.
-1850772892	You smokin'?
-2035457045	Nah, I quit.
-1994301584	Let's grab a whiskey later.
-2000416627	Count me in.
-1818653764	Any trouble?
-1354442175	Nope. Nothin'.
-1017059575	You up for poker later?
-948616721	Heh, always.
-191460630	How's life?
-1982182301	...Don't get me started.
-757857194	When do we ride?
-84423775	Dunno. Soon.
-1982405997	Hey, where's the booze?
-724293522	Ran out yesterday.
-897008110	Them idiots sent an escort this time.
-894091878	Heh, didn't help any.
-1826262396	You see Big Ann?
-1136829938	She's out on the plateau.
-178549419	Townsfolk make any trouble?
-450555212	You gotta be kidding me!
-1019404277	How you holdin' up?
-785665126	What do you think in this shithole.
-158136934	How's it going?
-643318950	All ready for the wedding.
-1306623871	You see that bride's dress?
-566985537	Yeah, I want one like that.
-256188490	You see anything?
-265307573	Ghnn, not yet. 
-1121108997	Any sight of the killers?
-914843897	Nah, nothin'.
-1056564609	Big ranch, huh?
-1788278542	I've seen bigger.
-900358378	Had to rain, huh?
-1272745437	Yeah, I hate it.
-1934115128	You all right out here?
-1518190448	Think I'm cramping up.
-707758255	You hear about Flagstone?
-1188609121	Yeah. Fucking yokels.
-1480112490	You think he was alone?
-1919279203	Can't be sure. 
-1813362933	You see the guy?
-245320565	Yeah. Fucking bounty hunter.
-2034542664	Any idea what's going on?
-811705492	My money's on swamp witches.
-150824504	You think the devil stuff is true?
-1252164735	Cut out the bullshit!
-1079169072	You think we can have the girl?
-685251376	Can't see why not!
-1713138268	What's taking so long?
-1499603987	We still got a few stragglers.
-1745593257	You got your orders?
-742237214	Sure thing.
-433235354	Dragon's Den after the shift?
-504605925	Yeah. Count me in.
-1505708822	You hear about the swamp witches?
-1700564390	You believe in that crap?
-968620483	What happened to Baxter's crew?
-1435416940	Last catch was trouble.
-140127319	Wonder what's on that ship?
-1531634430	Don't know, don't care.
-1133364636	What's the matter with Frank?
-607631772	He's just an asshole.
-1356180627	What's with the new guys?
-1043070066	Frank said they may be trouble.
-39554420	You hear about New Orleans?
-2139639107	I hear all kinds of shit lately.
-165938375	You think they'll come through here?
-1378046344	DeVitt sure thinks so.
-1074278289	Frank wasn't kidding about these guys.
-1425637737	We'll get them.
-1807860050	You nervous around rich folk, huh?
-871659451	Shut the fuck up.
-2085238708	Can't believe we'll get double pay.
-99920623	Yeah. Frank's missing out.
-1622496921	You think they'll come?
-1979166316	Frank says they will.
-1349097216	Reminds me of the good old days.
-2123026027	Yup. Still fucking hot.
-1525328941	Apparently it was the bride who shot him...
+1176944609	Saúde!
+1597761643	Heh, tomem tudo!
+960400620	Numa virada só!
+362793116	Vamos encher a cara!
+552044498	Ver Frank todo feliz me deixa nervoso.
+913687008	O calor está me matando.
+51124310	Eu gostaria de ter a coragem de Big Ann.
+2038948507	O que comprar da minha parte...
+1108098643	Ugh... Apenas fazendeiros andando por aqui.
+1774619704	O bordel parece interessante.
+933354630	Gostaria de saber quanto custa o vestido...
+318605891	O bolo parece delicioso...
+428528347	Você poderia imaginar arruinar esse dia especial. Desgraçados malignos.
+1368690655	Porra, alguém já os pegou?
+1056632610	Lama e chuva... Sinto falta da cidade.
+753158192	Hm... Muito o que fazer em uma fazenda como esta.
+1962434139	Com tempo vai acabar me dando frieira.
+1001246624	Não posso atirar com os dedos frios...
+178231558	Tenho que manter meus olhos abertos.
+1525545780	Frank está enfurecido.
+1326138544	Finalmente algo aconteceu aqui.
+38317265	Gostaria de saber se eles ainda estão por aí...
+1543724345	Maldita bruxa. Me assustando.
+1986395525	Gostaria de saber se virei aquele gato novamente.
+241970618	Ah... A cidade grande...
+80490694	Heheh... eu seria uma boa dançarina também...
+381463626	Espero que esses jacarés fiquem onde estão.
+139405933	Uch - outra maldita mosca do pântano!
+770507013	Os cães estão inquietos.
+55760462	Merda de chuva...
+2002298699	Não gosto dos novos.
+1298338195	Ugh, caramba, o calor...
+846085680	Este deve ser o fim do mundo...
+1076128255	Nós vamos pegá-los.
+1993371664	Porra, maldito calor.
+720443656	Finalmente, um aumento salarial.
+438739397	Nunca gostei muito de Frank de qualquer maneira.
+964020331	O que Frank está fazendo na capela?
+587392813	Parece em casa.
+2035681847	Como você está?
+1044141981	O mesmo de sempre, querida.
+395639976	Bom dia.
+19183309	Olá.
+635073269	Tudo bem?
+288191612	Parece bom.
+1989339444	Algo incomum?
+1945214623	Nah, na verdade não.
+1850772892	Você fuma?
+2035457045	Não, eu parei.
+1994301584	Vamos tomar um uísque mais tarde.
+2000416627	Conte comigo.
+1818653764	Algum problema?
+1354442175	Não. Nada.
+1017059575	Você quer jogar poker mais tarde?
+948616721	Heh, sempre.
+191460630	Como está a vida?
+1982182301	... Não comece.
+757857194	Quando cavalgamos?
+84423775	Não sei. Em breve.
+1982405997	Ei, onde está a bebida?
+724293522	Acabou ontem.
+897008110	Esses idiotas enviaram uma escolta dessa vez.
+894091878	Heh, não ajudou em nada.
+1826262396	Tá vendo a Big Ann?
+1136829938	Ela está no platô.
+178549419	Os locais fizeram algum problema?
+450555212	Você deve estar brincando comigo!
+1019404277	Como você vem suportando?
+785665126	O que você pensa desse buraco?
+158136934	Como está indo?
+643318950	Tudo pronto para o casamento.
+1306623871	Tá vendo o vestido da noiva?
+566985537	Sim, eu quero um assim.
+256188490	Viu alguma coisa?
+265307573	Ghnn, ainda não.
+1121108997	Alguma notícia dos assassinos?
+914843897	Não, nada.
+1056564609	Grande rancho, hein?
+1788278542	Eu já vi maior.
+900358378	Tinha que chover, hein?
+1272745437	Sim, eu odeio isso.
+1934115128	Você está bem aqui?
+1518190448	Acho que estou com cólicas.
+707758255	Você já ouviu falar sobre Flagstone?
+1188609121	Sim. Caipiras do caralho.
+1480112490	Você acha que ele estava sozinho?
+1919279203	Não tenho certeza.
+1813362933	Você vê o cara?
+245320565	Sim. Maldito caçador de recompensas.
+2034542664	Alguma idéia do que está acontecendo?
+811705492	Aposto nas bruxas do pântano.
+150824504	Você acha que as coisas do diabo são verdadeiras?
+1252164735	Corte o papo-furado!
+1079169072	Você acha que podemos aceitar a garota?
+685251376	Não vejo por que não!
+1713138268	Por que está demorando tanto?
+1499603987	Ainda temos alguns caras atrasados.
+1745593257	Você recebeu seus pedidos?
+742237214	Com certeza.
+433235354	Dragon's Den depois do turno?
+504605925	Sim. Conte comigo.
+1505708822	Você ouviu falar das bruxas do pântano?
+1700564390	Você acredita nessa porcaria?
+968620483	O que aconteceu com a equipe da Baxter?
+1435416940	A última captura foi um problema.
+140127319	Pergunto-me o que há nesse navio?
+1531634430	Não sei, não me importo.
+1133364636	Qual é o problema com Frank?
+607631772	Ele é apenas um idiota.
+1356180627	O que há com os novos caras?
+1043070066	Frank disse que eles podem ser um problema.
+39554420	Você já ouviu falar sobre Nova Orleans?
+2139639107	Eu ouço todo tipo de merda ultimamente.
+165938375	Você acha que eles virão por aqui?
+1378046344	DeVitt com certeza pensa assim.
+1074278289	Frank não estava brincando com esses caras.
+1425637737	Nós vamos pegá-los.
+1807860050	Você fica nervoso com gente rica ao redor, não é?
+871659451	Cale a boca.
+2085238708	Não posso acreditar que receberemos o pagamento em dobro.
+99920623	Sim. Frank está perdendo.
+1622496921	Você acha que eles virão?
+1979166316	Frank diz que sim.
+1349097216	Lembra-me dos bons e velhos tempos.
+2123026027	Sim. Ainda gostosa.
+1525328941	Aparentemente, foi a noiva que atirou nele...
 726380380	Shit, and that their wedding day. We gotta find her.
 710604572	Didn't think Miss O'Hara had it in her...
 1958700309	She's gotta be hiding somewhere. Keep your eyes peeled!
@@ -14575,153 +14575,153 @@ Japanese	Japonês
 1722887147	Something's going on.
 144697151	So tired.
 2032057198	I can't take more...
-1592428904	What do they all want here?
-297536497	Damn strangers.
-614625708	Damn, it's hot.
-696072087	Look at all the fancy folk.
-719065856	Everything on schedule.
-1608146710	This is the life.
-445835136	Like the good old days.
-1308192785	Hey, how's it going?
-386837316	It's all right.
-745996483	Howdy.
-2015670863	Howdy.
-929047574	How are you holding up?
-1850282191	I'm fine.
-733864984	Anything wrong?
-1420908823	It's nothing.
-1884884578	You got a smoke?
-191589003	Sorry, no. 
-888651243	You up for a drink later?
-1396553097	Sure thing.
-297516615	Any trouble?
+1592428904	O que todos eles querem aqui?
+297536497	Malditos estranhos.
+614625708	Porra, está quente.
+696072087	Olhe para todo esse povo chique.
+719065856	Tudo dentro do cronograma.
+1608146710	Esta é a vida.
+445835136	Como nos bons velhos tempos.
+1308192785	Ei, como está indo?
+386837316	Está tudo bem.
+745996483	Olá .
+2015670863	Olá .
+929047574	Como você está indo?
+1850282191	Estou bem.
+733864984	Algo errado?
+1420908823	Não é nada.
+1884884578	Você quer um cigarro?
+191589003	Não obrigado.
+888651243	Você quer uma bebida mais tarde?
+1396553097	Claro.
+297516615	Algum problema?
 634412588	Nah.
-675115197	You up for cards later?
-1220737273	Heh, always.
-678278154	How'd it go?
-1285460911	...Don't ask.
-1007896959	When do we ride?
-1760552701	Dunno. Soon.
-1203286750	Hey, where's the booze?
-570369904	Ran out yesterday.
-145962558	Who's gonna help?
-1714073299	We gotta wait and see.
-184420272	I hate bandits.
-1683267159	That makes two of us.
-169501826	Workers make any trouble?
-1126307118	Not more than usual.
-365278353	You okay?
-927108486	I'll manage.
-1054705238	How's it going?
-856505925	Almost ready for the wedding.
-1337005302	You see the bride's dress?
-1795144458	Yeah. Looks expensive.
-733749545	You see anything?
-331920333	No, and I don't want to.
-253343907	Mayor Higgins, dead.
-1490816363	It's a tragedy.
-665822463	Big ranch, huh?
-1516948694	I've seen bigger.
-1884707244	Had to rain, huh?
-942095769	You made of sugar or something?
-584583294	It's freezing!
-140600418	Think I'm catching a cold.
-2080882179	You hear about Flagstone?
-2123720088	Yeah. Townsfolk got edgy.
-574742714	You think he was alone?
-933846796	Can't be sure. Stay sharp.
-1835147000	You see the guy?
-1036207264	Yeah. Damn bounty hunter.
-783829071	Any idea what's going on?
-371923642	My money's on swamp witches.
-2114089369	You think it's true? The real devil?
-839500131	I don't wanna think about it.
-1949628177	You think we can have the girl?
-437886225	If you want your dick cut off.
-1563311191	What's taking so long?
-1805646588	We still got a few stragglers.
-105877657	Lovely night, huh?
-1437101900	Yup.
-675000180	You hear who's coming?
-872081782	Yeah. It'll be some show.
-344837768	We gotta break out of here.
-655844167	Not yet.
-1625808834	How do we get out?
-1439004688	Gotta be patient.
-816404149	What's that ship that came in?
-661170697	Belongs to the DeVitt Company.
-1435172741	Why'd they block the roads?
-669447907	Company business, I guess.
-610164075	I can hardly stand.
-1247703699	You and me both.
-230914525	I can't take this.
-1816884307	Stay strong, friend.
-1973449938	What are they doing here?
-1061398885	Breakout at the mine.
-1158072521	They're on edge.
-1509037970	Dangerous men they're huntin'.
-832941152	Everything on schedule?
-481755568	More or less.
-1257868930	You saw what happened with Frank?
-1783101948	Don't let Mr. DeVitt hear you.
-1185693792	You think they'll come?
-876597107	Frank says they will.
-1890853346	Reminds me of the good old days.
-2138187520	Yup. Still fucking hot.
-1840074735	I tell ya, it ain't gonna end well.
-717855587	Yeah, I heard about that.
-609448203	I say leave it to the professionals.
-1323368223	That's what I'm talking about.
-894982659	Oh please don't tell anyone, okay?
-1833407896	What about the other one?
-1979116485	Doesn't matter in the long run.
-1091594973	Just listen for a second.
-989425648	Sure, but what happens now?
-801397173	Don't worry. I've seen it before.
-1236715719	Not sure I'm following you here.
-1826402428	Can't believe I missed that.
-1371386793	That's the difference right there.
-630021603	He he, told you so.
-955780581	That can't be true, right?
-188273265	You better believe it.
-1720195152	Yeah, but that ain't nothing new.
-1489094158	You hear all kinds of things.
-1864759570	Guess times are changing.
-1257814581	That's news to me.
-971009953	Now, where was I?
-171486738	Lost my thought... Ah, yes.
-416648708	As I was saying...
-1085013886	Right, where were we...
-1968202159	Back to the point...
-671880834	W-wait wait wait, that's not right!
-1579815946	Hey, what are you doing?
-1309790604	Would you please stop that!
-603723275	Stop it! Cut it out!
-322269652	You're a queer fella.
-40314205	Are you being weird on purpose?
-1141136403	What are you doing here?
-129939999	You really shouldn't be here!
-1610055770	You better not let them see you!
+675115197	Você quer jogar poker mais tarde?
+1220737273	Heh, sempre.
+678278154	Como foi?
+1285460911	...Não pergunte.
+1007896959	Quando cavalgamos?
+1760552701	Não sei. Em breve.
+1203286750	Ei, cadê a bebida?
+570369904	Acabou ontem.
+145962558	Quem vai ajudar?
+1714073299	Temos que esperar para ver.
+184420272	Eu odeio bandidos.
+1683267159	Bem, eu ...
+169501826	Algum problema com os trabalhadores?
+1126307118	Não mais do que o habitual.
+365278353	Você está bem?
+927108486	Eu me viro.
+1054705238	Como tá indo?
+856505925	Quase pronto para o casamento.
+1337005302	Você viu o vestido da noiva?
+1795144458	Sim. Parece caro.
+733749545	Viu alguma coisa?
+331920333	Não, e eu também não quero.
+253343907	Prefeito Higgins, morto.
+1490816363	É uma tragédia.
+665822463	Grande fazenda, hein?
+1516948694	Eu já vi maior.
+1884707244	Tinha que chover, hein?
+942095769	Você é feito de açúcar ou algo assim?
+584583294	Está congelando!
+140600418	Acho que estou pegando um resfriado.
+2080882179	Você ouviu sobre Flagstone?
+2123720088	Sim. Os habitantes da cidade ficaram nervosos.
+574742714	Você acha que ele estava sozinho?
+933846796	Não há como saber, portanto, esteja alerta.
+1835147000	Você viu aquele cara?
+1036207264	Sim. Maldito caçador de recompensas.
+783829071	Alguma idéia do que está acontecendo?
+371923642	Eu digo que eles são as bruxas do pântano.
+2114089369	Você acha que é verdade? O verdadeiro diabo?
+839500131	Eu não quero pensar nisso.
+1949628177	Você acha que podemos ter a garota?
+437886225	Se você quer que seu pau seja cortado.
+1563311191	Por que está demorando tanto?
+1805646588	Ainda temos alguns retardatários.
+105877657	Boa noite, hein?
+1437101900	Sim.
+675000180	Você ouviu quem está vindo?
+872081782	Sim. Vai ser um show.
+344837768	Temos que sair daqui.
+655844167	Ainda não.
+1625808834	Como saímos?
+1439004688	Tem que ser paciente.
+816404149	Que navio é esse que chegou?
+661170697	Pertence à Companhia DeVitt.
+1435172741	Por que eles bloquearam as estradas?
+669447907	Negócio da Companhia, eu acho.
+610164075	Eu mal posso ficar de pé.
+1247703699	Você e eu..
+230914525	Eu não aguento isso.
+1816884307	Aguenta, amigo.
+1973449938	O que eles estão fazendo aqui?
+1061398885	Fuga na mina.
+1158072521	Eles estão no limite.
+1509037970	Os homens que eles perseguem são perigosos.
+832941152	Tudo dentro do cronograma?
+481755568	Mais ou menos.
+1257868930	Você viu o que aconteceu com Frank?
+1783101948	Não deixe o Sr. DeVitt ouvi-lo.
+1185693792	Você acha que eles virão?
+876597107	Frank diz que sim.
+1890853346	Lembra-me dos bons e velhos tempos.
+2138187520	Sim. E ainda gostosa.
+1840074735	Eu te digo, isso não vai acabar bem.
+717855587	Sim, eu ouvi sobre isso.
+609448203	Eu digo, deixe para os profissionais.
+1323368223	É disso que estou falando.
+894982659	Oh, por favor, não conte a ninguém, ok?
+1833407896	E o outro?
+1979116485	Isso não vai acabar bem, estou lhe dizendo.
+1091594973	Apenas ouça por um segundo.
+989425648	Claro, mas o que acontece agora?
+801397173	Não se preocupe. Eu já vi isso antes.
+1236715719	Eu não acho que estou te seguindo.
+1826402428	Não posso acreditar que eu perdi isso.
+1371386793	Existe a diferença.
+630021603	Ele ele, te disse.
+955780581	Isso não pode ser verdade, certo?
+188273265	É melhor você acreditar.
+1720195152	Sim, mas isso não é novidade.
+1489094158	Você ouve todos os tipos de coisas.
+1864759570	Acho que os tempos estão mudando.
+1257814581	Isso é novidade para mim.
+971009953	Agora onde eu estava?
+171486738	Perdi meu pensamento...Ah, sim.
+416648708	Como eu estava dizendo...
+1085013886	Certo, onde estávamos...
+1968202159	De volta ao ponto...
+671880834	E-espera, espera, espera, isso não está certo!
+1579815946	Ei, o que você está fazendo?
+1309790604	Você poderia por favor parar com isso!
+603723275	Pare com isso! Pare com isso!
+322269652	Você é um cara estranho.
+40314205	Você está sendo estranho de propósito?
+1141136403	O que você está fazendo aqui?
+129939999	Você realmente não deveria estar aqui!
+1610055770	É melhor você não deixar que te vejam.
 713118835	...
 1432681070	...
 867838392	...
 893670218	...
 2058026809	...
 1511665725	...
-218426436	Hell no!
-387346738	 No!
-648813681	Oh God!
+218426436	Merda não!
+387346738	Não!
+648813681	Oh Deus!
 1595333562	Aaaaah!
-419390346	Help! Help!
-370314354	Somebody help!
-1418729856	Anyone! Help!
-1824994674	Got to get out of here!
-1458914733	I can't stay here!
-933439464	Quick!
-218582852	Don't move an inch.
-890401936	Why does this keep happening?
-1137691250	This ain't good.
-1281619810	Gotta take cover.
+419390346	Ajuda! Ajuda!
+370314354	Alguém Ajuda!
+1418729856	Qualquer um! Ajuda!
+1824994674	Tenho que sair daqui!
+1458914733	Eu tenho que ir lá!
+933439464	Rápido!
+218582852	Não mexa um polegar.
+890401936	Por que isso continua acontecendo?
+1137691250	Isso não é bom.
+1281619810	Tenho que me esconder.
 134431810	...!
 1657010473	...!
 669939038	...!
@@ -14886,32 +14886,32 @@ Japanese	Japonês
 1913976133	...
 814280622	...
 1196159422	...
-674210948	Ouch...
-22343729	Ugh, my head...
-1210833096	What... Who...
+674210948	Ai...
+22343729	Ugh, minha cabeça...
+1210833096	O quê...Quem...
 1417289485	Uhm...
-1196937461	W-wait...
-2114310563	What's that?
-1177881374	Something...
-397215487	What the...
-280962069	The hell?
-229394941	Hey...
-1145092089	Hey now...
-1393676539	Is that...?
-863741838	What...?
+1196937461	E-espera...
+2114310563	O que é isso?
+1177881374	Alguma coisa...
+397215487	O que...
+280962069	Que diabos?
+229394941	Ei...
+1145092089	Ei agora...
+1393676539	Isso é...?
+863741838	O que...?
 2102627854	Hmm...
 1880676664	Uhhh...
-756747157	Hey there, little cat!
-1319465540	Ain't you a cutie.
-565138582	Ho! Hey! Where'd you come from?
-943804382	He he, huntin' mice, aren't ya?
-1614475967	See ya!
-533041754	Off he goes.
-1132402385	Heh, cute thing.
-601872494	Stay sharp, buddy.
-1800633776	...Mother of Christ!
-1021594811	...Damnit, my eyes!
-1896051716	...Knew this was a bad idea!
+756747157	Olá, gatinho!
+1319465540	Você não é uma gracinha.
+565138582	Ho! Ei! De onde você veio?
+943804382	He he, caçando ratos, não é?
+1614475967	Até mais!
+533041754	Lá vai ele.
+1132402385	Heh, coisa fofa.
+601872494	Fique atento, amigo.
+1800633776	...Mãe de Cristo!
+1021594811	...Droga, meus olhos!
+1896051716	...Sabia que era uma má ideia!
 2107896032	...
 1911485372	...
 2077106441	...
@@ -15594,7 +15594,7 @@ Japanese	Japonês
 289527255	It's unclear.
 1403172243	Você viu o homem?
 220568750	De fato. Um grande caçador de recompensas.
-1345606494	Alguma ideia sobre o que está acontecendo?
+1345606494	Alguma idéia sobre o que está acontecendo?
 1690547777	Na minha opinião, elas eram as bruxas do pântano.
 911229729	Você acha que é verdade? O próprio diabo?
 1857900652	Prefiro não pensar nisso.
@@ -15931,49 +15931,49 @@ Japanese	Japonês
 975495802	Hein... Foi estranho...
 511318392	Alguma coisa com a qual eu possa ajudar?
 2107766117	Meu, isso vai ser interessante.
-112519650	And who are you, madam?
-1005170768	Yes? Do I know you?
-1469219878	My, you're a naughty girl.
-1425080148	You're definitely a looker.
-1346624600	What are you suggesting?
-754004383	Mhm, I'm listening.
-682724068	The pleasure was all mine.
-1614927031	Yes. See you later, perhaps.
-1381527384	Take care, madam.
-1181088113	Have a pleasant day.
+112519650	E quem é você, senhora?
+1005170768	Sim? Eu conheço você?
+1469219878	Você é uma garota malcriada.
+1425080148	Você é definitivamente um espectador.
+1346624600	O que você está sugerindo?
+754004383	Hmmm, Estou ouvindo.
+682724068	O prazer foi todo meu.
+1614927031	Sim. Até mais, talvez.
+1381527384	Tome cuidado, senhora.
+1181088113	Tenha um bom dia.
 354589831	Vincent?
-324802145	Ah, our illustrious host.
-421176680	Of course, Vincent.
-190611881	Good to see you, Vincent.
-1023305032	How interesting.
-226379297	The things you know.
-1456522951	Fascinating.
-1593169969	Yes, you know best.
-1933670674	Make sure and come by later.
-495737185	A pleasure as always.
-520674673	Don't be too busy, Vincent.
-1792018848	Thank God he's gone...
-57814753	Perhaps another time.
-300023923	You overestimate yourself, my dear.
-157253991	That won't happen, madam.
-1205381688	That is going too far.
-1455994893	You lucky bastard.
-1799624607	She's too good for ya!
-1136043908	Yeah, yeah. You go have fun...
-1622906240	Oh, darlin'. He's not worth the trouble, believe me.
-1876460036	Oh no you don't.
-1159306835	She's just playing with ya.
-1554178564	Don't let her fool you.
-134363889	Another fruitful day...
-905640874	Let's see, what else...
-667315518	No, this simply won't do...
-374669181	Everything's in order.
-641843691	Huh... Never noticed that...
-453225355	Later... Yes, later.
-1577539249	This is getting tedious.
-1852398044	Definitely overpriced.
-1961188689	Have to keep that in mind.
-1017343242	Ah! I almost forgot...
+324802145	Ah, nosso ilustre anfitrião.
+421176680	Claro, Vincent.
+190611881	Prazer em vê-lo, Vincent.
+1023305032	Que interessante.
+226379297	As coisas que você sabe.
+1456522951	Fascinante.
+1593169969	Sim, você conhece melhor.
+1933670674	Certifique-se e venha mais tarde.
+495737185	Um prazer como sempre.
+520674673	Não fique muito ocupado, Vincent.
+1792018848	Graças a Deus ele se foi...
+57814753	Talvez outra hora.
+300023923	Você se superestima, minha querida.
+157253991	Isso não vai acontecer, senhora.
+1205381688	Isso está indo longe demais.
+1455994893	Seu bastardo sortudo.
+1799624607	Ela é boa demais para você!
+1136043908	Sim Sim. Você vai se divertir...
+1622906240	Oh, querida. Ele não vale a pena, acredite em mim.
+1876460036	Oh não, você não.
+1159306835	Ela está apenas brincando com você.
+1554178564	Não a deixe enganar você.
+134363889	Outro dia frutífero...
+905640874	Vamos ver, o que mais...
+667315518	Não, isso simplesmente não serve...
+374669181	Está tudo em ordem.
+641843691	Huh... Nunca notei isso...
+453225355	Mais tarde... Sim, mais tarde.
+1577539249	Isso está ficando entediante..
+1852398044	Definitivamente caro.
+1961188689	Tem que ter isso em mente.
+1017343242	Ah! Eu quase esqueci...
 940229683	...
 1925386742	...
 1340397718	...
@@ -15984,167 +15984,167 @@ Japanese	Japonês
 2071555800	...
 1653360674	...
 636145960	...
-30709434	Cheers!
-1658540811	To good health!
-1470790383	Hear hear!
-967610991	Here's looking at you.
-782589311	Frank sure is in a good mood.
-57085310	When do we ride?
-1688770861	Ghastly bandits...
-659892002	They will not take me!
-1236935	Let's hope it stays quiet...
-795989707	It is getting late...
-1782436612	I can't wait for the ceremony.
-1550155774	Marvelous decor.
-182336083	Our dear cousin, dead.
-1918570456	There's a killer on the loose.
-638228143	Blasted rain.
-295492585	A sizeable ranch.
-1324786057	Unacceptable. We'll miss the wedding!
-1951713450	We have been here for days.
-261253294	I will write a formal complaint.
-280742776	I'm freezing! This is outrageous.
-1068511834	I will keep watch.
-2067887538	Frank is showing a temper.
-410397557	Awful noise last night.
-1229775573	Those blasted strangers.
-1786729789	We're in luck. Third catch this month.
-658494238	The girl will fetch a good price.
-1290257057	Busy night in New Orleans.
-1184606581	Love the city at night.
-1097770410	I must get out of here.
-1160507109	This is a mistake.
-2127308551	Ugh, I'm soaking.
-1181972112	What in God's name is going on...
-1207670221	So tired.
-140417925	I need to lie down...
-2052132623	What do company men want here?
-734917050	I don't like their looks.
-186294582	Hot day in the desert.
-1007284668	Spectacular evening.
-730209391	Vincent has outdone himself.
-1760518251	This is the life.
-907284283	Like the good old days.
-1954457527	How is your day?
-429279556	I can't complain.
-403000237	Good day.
-1846004557	Good day.
-7733384	How are you?
-1535306321	I'm fine. How are you?
-923335378	Anything amiss?
-561936083	Oh, it's nothing.
-1598338893	Excuse me, can I borrow some tobacco?
-1042228625	Sorry, I can't help you.
-998181370	Are you up for drinks later?
-1949789269	Certainly.
-1554566593	Any trouble?
-210397664	Thankfully not.
-1695715331	You up for a game of poker later?
-1892589894	You need to ask?
-576168993	How did it go?
-2147364375	It was a cinch.
-1220917553	When do we ride?
-843663462	I'm not sure. Soon.
-659402639	Hey, where is the whiskey?
-506731499	We ran dry yesterday.
-2087867666	You think help is coming?
-491522944	We'll have to wait and see.
-991875847	I despise bandits.
-945648983	That makes two of us.
-770265890	Are the company men making trouble?
-1059918480	Not more than usual.
-1119741147	You okay, friend?
-2005417954	Don't worry. I'll manage.
-1530696088	I'm so excited for him.
-1896159954	Our dear cousin, finally married.
-2138345405	Did you see the bride's dress?
-395131905	Oh yes. Only the best for our cousin.
-1255898381	Did you see what happened?
-537931171	I'd like to. Is there a body?
-1094849248	So much for our dear cousin.
-561802132	I never liked him anyway.
-271065096	This is a sizeable ranch.
-122050469	I have seen bigger.
-1779884202	Must it rain tonight?
-277975513	Come now, you're not made of straw.
-1330214847	It's freezing!
-1804844047	I'm going to catch something nasty.
-1680920523	Did you hear the news about Flagstone?
-1068000334	So what? We're missing the wedding!
-944483258	Do we think he was alone?
-1766129879	It's unclear. Stay sharp.
-1854907898	Did you see the man?
-876676388	Indeed. A damn bounty hunter.
-742465346	Any clues on what's going on?
-1130272016	My money is on swamp witches.
-2105042420	You think it is true? The devil himself?
-845140358	I'd rather not think about it.
-855641018	I wouldn't mind a tumble with the girl.
-2038972020	The boss won't like that.
-1791990369	What is taking so long?
-1904951934	We still have a few stragglers.
-1727604312	Lovely night, isn't it.
-1441520069	Most certainly.
-102311604	Did you hear who's coming?
-1005990359	I did. It'll be a show.
-1778946503	We have to break out of here.
-1200978396	Best we bide our time.
-232424106	How do we get out?
-1238309353	Patience.
-743014583	Did you see the ship that came in?
-1534779148	It belongs to DeVitt.
-1299584755	Why would they block the roads?
-1240713191	Company business, most likely.
-901565422	I can hardly stand.
-1418076256	You and me both, friend.
-620911853	I can't take this anymore.
-867395614	Stay strong, friend.
-1881750636	What are they doing here?
-1284010605	There was a breakout at the mine.
-148687909	They seem on edge.
-1616648104	They are hunting dangerous men.
-1144457094	Enjoy the evening so far?
-1196313950	How can I not?
-1587676867	Vincent seems a little on edge.
-1643949158	Oh, you're imagining things.
-806214391	You think they will come?
-1293344806	I trust Frank's instinct.
-515854775	Reminds me of the good old days.
-2098670320	Same old heat also.
-1765507380	I'm telling you, it won't end well.
-562162167	Yes, I've heard about that.
-1073260008	You should leave it to the professionals.
-2054331313	That is exactly what I'm talking about.
-84928980	Don't tell anyone, understand?
-1965305206	What about the other one?
-252449846	It won't matter in the long run.
-1001318888	Just listen for a moment.
-993942892	Very well, but what happens now?
-1899894936	Don't worry. I have seen it before.
-448934298	I'm not sure I follow.
-1236928875	I can't believe I missed that.
-1477876591	That is the difference right there.
-1817297803	I told you so, didn't I?
-936941692	That cannot be true, can it?
-1673973709	You best believe it.
-1261649749	Certainly that's nothing new.
-1195829652	One does hear all kinds of things lately.
-639909000	I feel that times are changing.
-1834783339	That is news to me.
-2018335622	Now, where was I?
-1166500983	Lost my thought... Ah, yes.
-1465055266	As I was saying...
-985567019	Right, where were we...
-462550873	Back to the point...
-860014485	Stop it! That's not right!
-1904139271	What are you doing there?
-1130226246	Would you please stop that!
-1060555275	I see what you are up to.
-211896578	You are a strange fellow.
-836339868	Are you being weird on purpose?
-14948735	What are you doing here?
-528246676	You really should not be here.
-1982206999	You better not let the guards see you!
+30709434	Felicidades!
+1658540811	Boa saúde!
+1470790383	Ouça ouça!
+967610991	Aquilo está olhando para você.
+782589311	Frank com certeza está de bom humor.
+57085310	Quando cavalgamos?
+1688770861	Bandidos medonhos...
+659892002	Eles não vão me levar!
+1236935	Vamos torcer para que fique quieto...
+795989707	Está ficando tarde...
+1782436612	Mal posso esperar pela cerimônia.
+1550155774	Decoração maravilhosa.
+182336083	Nosso querido primo, morto.
+1918570456	Há um assassino à solta.
+638228143	Chuva forte.
+295492585	Um rancho considerável.
+1324786057	Inaceitável. Vamos sentir falta do casamento!
+1951713450	Estamos aqui há dias.
+261253294	Vou escrever uma queixa formal.
+280742776	Estou congelando! Isso é ultrajante.
+1068511834	Eu vou vigiar.
+2067887538	Frank está manifestando um temperamento.
+410397557	Barulho horrível ontem à noite.
+1229775573	Aqueles malditos estranhos.
+1786729789	Estamos com sorte. Terceira captura este mês.
+658494238	A menina vai buscar um bom preço.
+1290257057	Noite movimentada em Nova Orleans.
+1184606581	Amei a cidade à noite.
+1097770410	Eu preciso sair daqui.
+1160507109	Isto é um erro.
+2127308551	Hein, estou ensopado.
+1181972112	O que em nome de Deus está acontecendo...
+1207670221	Tão cansado.
+140417925	Eu preciso me deitar...
+2052132623	O que os homens da companhia querem aqui?
+734917050	Eu não gosto da aparência deles.
+186294582	Dia quente no deserto.
+1007284668	Noite espetacular.
+730209391	Vincent se superou.
+1760518251	Esta é a vida.
+907284283	Como nos bons velhos tempos.
+1954457527	Como está o seu dia?
+429279556	Eu não posso reclamar.
+403000237	Bom dia.
+1846004557	Bom dia.
+7733384	Como você está?
+1535306321	Estou bem. Como você está?
+923335378	Alguma coisa errada?
+561936083	Oh, não é nada.
+1598338893	Com licença, pode me emprestar um pouco de tabaco?
+1042228625	Desculpe, não posso ajudá-lo.
+998181370	Você quer beber mais tarde?
+1949789269	Certamente.
+1554566593	Qualquer problema?
+210397664	Felizmente não.
+1695715331	Você quer jogar poker mais tarde?
+1892589894	Você precisa perguntar?
+576168993	Como foi?
+2147364375	Foi uma coisa fácil.
+1220917553	Quando cavalgamos?
+843663462	Não tenho certeza. Em breve.
+659402639	Ei, onde está o uísque?
+506731499	Ontem secamos.
+2087867666	Você acha que a ajuda está chegando?
+491522944	Teremos que esperar e ver.
+991875847	Eu desprezo bandidos.
+945648983	Que faz de nós dois.
+770265890	Os homens da empresa estão causando problemas?
+1059918480	Não é mais do que o habitual.
+1119741147	Você está bem, amigo?
+2005417954	Não se preocupe. Eu me viro.
+1530696088	Estou tão animada por ele.
+1896159954	Nosso querido primo, finalmente casado.
+2138345405	Você viu o vestido da noiva?
+395131905	Ai sim. Apenas o melhor para o nosso primo.
+1255898381	Você viu o que aconteceu?
+537931171	Eu gosto disso. Existe um corpo?
+1094849248	Tanta coisa para o nosso querido primo.
+561802132	Eu nunca gostei dele de qualquer maneira.
+271065096	Este é um rancho considerável.
+122050469	Eu vi maior.
+1779884202	Deve chover hoje à noite?
+277975513	Venha agora, você não é feito de palha.
+1330214847	Está congelando!
+1804844047	Eu vou pegar algo desagradável.
+1680920523	Você ouviu as notícias sobre Flagstone?
+1068000334	E daí? Estamos perdendo o casamento!
+944483258	Achamos que ele estava sozinho?
+1766129879	Não está claro. Fique afiado.
+1854907898	Você viu o homem?
+876676388	De fato. Um maldito caçador de recompensas.
+742465346	Alguma pista sobre o que está acontecendo?
+1130272016	Na minha opinião, elas eram as bruxas do pântano.
+2105042420	Você acha que é verdade? O próprio diabo?
+845140358	Prefiro não pensar nisso.
+855641018	Eu não me importaria de cair na garota.
+2038972020	O chefe não vai gostar disso.
+1791990369	Por que está demorando tanto?
+1904951934	Ainda temos alguns retardatários.
+1727604312	Noite adorável, não é?
+1441520069	Certamente.
+102311604	Você ouviu quem está vindo?
+1005990359	Eu fiz. Será um espetáculo.
+1778946503	Temos que sair daqui.
+1200978396	Melhor esperarmos o nosso tempo.
+232424106	Como saímos?
+1238309353	Paciência.
+743014583	Você viu o navio que chegou?
+1534779148	Pertence a DeVitt..
+1299584755	Por que eles bloqueariam as estradas?
+1240713191	Negócio da companhia, provavelmente.
+901565422	Eu mal posso suportar.
+1418076256	Você e eu, amigo.
+620911853	Eu não aguento mais isso.
+867395614	Fique forte, amigo.
+1881750636	O que eles estão fazendo aqui?
+1284010605	Houve uma fuga da mina.
+148687909	Eles parecem nervosos.
+1616648104	Eles estão caçando homens perigosos.
+1144457094	Aproveite a noite até agora?
+1196313950	Como eu não posso?
+1587676867	Vincent parece um pouco nervoso.
+1643949158	Oh, você está imaginando coisas.
+806214391	Você acha que eles virão?
+1293344806	Confio no instinto de Frank.
+515854775	Lembra-me dos bons velhos tempos.
+2098670320	O mesmo calor antigo também.
+1765507380	Estou lhe dizendo, não vai acabar bem.
+562162167	Sim, eu ouvi sobre isso.
+1073260008	Você deve deixar para os profissionais.
+2054331313	É exatamente disso que estou falando.
+84928980	Não conte a ninguém, entendeu?
+1965305206	E o outro?
+252449846	Não importa a longo prazo.
+1001318888	Apenas ouça por um momento.
+993942892	Muito bem, mas o que acontece agora?
+1899894936	Não se preocupe. Eu já vi isso antes.
+448934298	Não tenho certeza se vou seguir.
+1236928875	Não acredito que senti falta disso.
+1477876591	Essa é a diferença ali.
+1817297803	Eu te disse, não disse?
+936941692	Isso não pode ser verdade, pode?
+1673973709	É melhor você acreditar.
+1261649749	Certamente isso não é novidade.
+1195829652	Ultimamente, ouve-se todo tipo de coisa.
+639909000	Sinto que os tempos estão mudando.
+1834783339	Isso é novidade para mim.
+2018335622	Agora, onde eu estava?
+1166500983	Perdi meu pensamento... Ah, sim.
+1465055266	Como eu estava dizendo...
+985567019	Certo, onde estávamos...
+462550873	Voltar ao ponto...
+860014485	Pare com isso! Isso não está certo!
+1904139271	O que você está fazendo aí?
+1130226246	Você poderia por favor parar com isso!
+1060555275	Eu vejo o que você está fazendo.
+211896578	Você é um sujeito estranho.
+836339868	Você está sendo estranho de propósito?
+14948735	O que você está fazendo aqui?
+528246676	Você realmente não deveria estar aqui.
+1982206999	É melhor você não deixar os guardas vê-lo!
 1389033116	...
 1430088976	...
 1646123408	...
@@ -16470,7 +16470,7 @@ Japanese	Japonês
 1794102132	Um mensageiro passa por você sem dizer uma palavra, rapidamente ele coloca uma nota um pouco amassada em sua mão, na caligrafia do Barão./n/n “Me disseram que sua recente visita ao rancho de O'Hara foi espetacular. Caso esteja interessado, um novo desafio o espera por lá.”/n/n Você se vira para pegar o mensageiro, mas ele já desapareceu na multidão.
 1275070322	Você voltou ao rancho O'Hara para o último desafio do barão. Sua tarefa é matar todos os alvos sem usar nenhuma de suas armas. Em vez disso, você deve usar sua criatividade descartá-los.
 1120194126	Três homens sem nome
-2002330802	Uma janela de uma carroagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
+2002330802	Uma janela de uma carruagem é aberta ao seu lado. Uma mão enluvada surge e oferece um cartão postal. Está assinado pelo Barão./n/n"Saudações de Baton Rouge, amigo! Os habitantes locais me falam todo tipo de coisa sobre você. Por que você não se junta a mim para tomarmos uma bebida? Um novo desafio."/n/nAntes de fazer qualquer pergunta, a janela se fecha e a carruagem sai e logo desaparece na próxima esquina.
 251713547	Você fez uma viagem a Baton Rouge, onde outro dos desafios do Barão o aguarda. Ele quer que você carregue os cadáveres de três alvos para os caixões no banco. Mas você não sabe quem eles são, apenas que eles são idênticos a uma determinada pessoa.
 724854570	Trigêmeos com armadilha para ursos
 2094260086	Caminhando ao longo da costa, você encontra uma velha garrafa de uísque meio enterrada na areia. Dentro há um pedaço de papel molhado, marcado com o selo do Barão./n/n “Nas margens do Mississippi, você pode encontrar muitas coisas. Escravos, emboscadas, novos aliado... E se desta vez eu fizer um novo desafio para você?/n/n Você olha em sua volta procurando alguém que possa ter colocado a garrafa, mas não vê ninguém.
@@ -16517,10 +16517,10 @@ Japanese	Japonês
 217894750	Você não precisa terminar uma missão na primeira jogada. Você pode salvar a qualquer momento e retornar mais tarde com uma mente renovada.
 1548642496	Personalizar dificuldade
 309547960	Comportamento Alvo
-1192375393	Your target won't fall for lures and is resistant to distractions.
-1919598581	Target Behavior
-1107586089	Your target won't fall for lures and is resistant to distractions.
-1242910510	Good day. I'm the Bergdoktor.
+1192375393	Seu alvo não cairá nas iscas e é resistente a distrações.
+1919598581	Comportamento Alvo
+1107586089	Seu alvo não cairá nas iscas e é resistente a distrações.
+1242910510	Dia bom. Eu sou o Bergdoktor.
 455511559	Cancelar: {0}
 294017721	Executar: {0}
 2031709440	Desafio do Barão
@@ -16544,9 +16544,9 @@ Japanese	Japonês
 1097308533	Movimento da câmera WASD
 1871084952	Esse é baseado no esquema de controle Desperados III em relação à seleção de movimento e personagem. Foi alterado para permitir o movimento da câmera com as teclas WASD em vez das teclas de seta.
 16149401	Cancelar Objetivo
-831023586	Eagles Nest Nome abreviado
-713446544	Eagles Nest Nome completo
-106877485	Eagles Nest Descrição
+831023586	Eagles Nest Shortname
+713446544	Eagles Nest Fullname
+106877485	Eagles Nest Description
 1221080576	Plantation Shortname
 392609880	Plantation Fullname
 1438007870	Plantation Description
@@ -16554,33 +16554,33 @@ Japanese	Japonês
 695077169	Hacienda Daylight Fullname
 265455246	Hacienda Daylight Description
 621937644	DLC
-439942642	Wireless Controller Aim Speed
-2027151249	Wireless Controller Axis Threshold
-626213254	Adjusts the threshold for wireless controller stick movement recognition.
+439942642	Velocidade da mira do controle sem fio
+2027151249	Limite do eixo do controle sem fio
+626213254	Ajusta o limite para o reconhecimento de movimento do stick do controle sem fio.
 1475577154	Mudar personagem
 1109017931	Restless Ann
-879765268	Really?
-465571489	Active Wireless Controller
-1266674654	Select which wireless controller you want to use for input.
-669018033	This alternative control scheme is only relevant for mouse & keyboard users.
-1875520036	Disguise
-1489351884	Kate can get a disguise here.
-1839200631	Environment Kill
-1427780181	This object can be used to create an accident.
+879765268	Mesmo?
+465571489	Controle sem fio ativo
+1266674654	Selecione qual controle sem fio você deseja usar.
+669018033	Esse esquema de controle alternativo é relevante apenas para usuários de mouse e teclado.
+1875520036	Disfarce
+1489351884	Kate pode obter um disfarce aqui.
+1839200631	Morte pela natureza
+1427780181	Este objeto pode ser usado para criar um acidente.
 1236964701	Salvar/Carregar sons
 750239754	Ativa efeitos sonoros para salvar e carregar o jogo.
 1544087171	Conteúdo da caixa (Marca-texto)
 622041107	Determina se o conteúdo da caixa de munição é visível quando a função marca-texto está ativa.
-896927936	Throw Body
-17267270	Throw the body/bodies you are carrying.
-821428773	Throw Torch
-588915567	Throw the torch you are carrying.
-2139804794	Return the money to the bank.
-266598463	Free Doc before waking up the others.
-27082783	Don't use the bank's backdoor.
-1236382342	Kill {0} guards.
-1821780181	Not-Bianca
-620431163	Place Not-Bianca (rake). Knocks out the first enemy who steps on it. Needs to be picked up again.
+896927936	Arremessar corpos
+17267270	Arremesse corpos / corpos que você esteja carregando.
+821428773	Arremessar tocha
+588915567	Arremesse a tocha que você esteja carregando.
+2139804794	Devolva o dinheiro ao banco.
+266598463	Livre Doc antes de acordar os outros.
+27082783	Não use a porta dos fundos do banco.
+1236382342	Mate {0} guardas.
+1821780181	Bianca
+620431163	Coloque Bianca (Armadinha de Urso). Derrube o primeiro inimigo que pisar nela. Você tem que buscá-la novamente.
 1139064368	Ativar legendas?
 430465293	Deseja ativar as legendas? Você pode ajustar as configurações das legendas com mais detalhes no menu de opções.
 1880366148	Concluído
@@ -16598,17 +16598,17 @@ Japanese	Japonês
 1778748410	Eles colocaram o homem rabugento em uma gaiola. Tire-o lá.
 837906021	Chegue a um cavalo
 297038480	Ajude o homem rabugento a montar em um dos cavalos para que ele possa escapar.
-857259210	You see, in this world, there's two kinds of people, my friend –  those with loaded guns, and those who dig. Someone told me that, a long time ago. His name always slips my mind.
-1826507205	No matter. Today, you will put those words to the test. I have taken away all your weapons, except for your guns.
-1568115959	Your must kill every single guard in this place. Things are about to get wild. Keep an eye on your ammunition and look for crates to restock.
-188031238	Your gang is scattered. Grouping up would be a wise course of action. There's only so much one can do alone.
-1486647311	Show me what you're made of. Win, and you're worthy of those guns. Lose, and you'll  end up digging. Either way, my clients are watching.
-371961743	Kill Everyone ({0} of 80)
-1299833010	Use your guns to clear the map of all  guards, including alarm guards.
-1473429113	Ammo Crate
-971301613	Keep an eye out for ammo crates. You'll need the extra rounds.
-2014096389	Train Ride
-1517526124	You might be able to ride on top of the train. If you are fast enough, that is.
+857259210	Veja, neste mundo, existem dois tipos de pessoas - aqueles com armas carregadas e aqueles que cavam. Alguém me disse isso, há muito tempo. Seu nome sempre vem na minha mente.
+1826507205	Não tem importância. Hoje vamos testar suas palavras. Tirei todas as suas armas, exceto as pistolas.
+1568115959	Você deve matar todos os guardas deste lugar. As coisas estão prestes a ficar selvagens. Fique de olho em sua munição e procure caixas para reabastecer.
+188031238	Seu grupo está disperso. Reagrupar seria um bom plano de ação. É muito coisa pra se fazer sozinho.
+1486647311	Mostre-me do que você é feito. Ganhe e você será digno dessas armas. Perca, e você vai acabar cavando. De qualquer maneira, meus clientes estão assistindo.
+371961743	Mate todos ({0} de 80)
+1299833010	Use suas armas para remover todos os guardas do mapa, incluindo os guardas de alarme.
+1473429113	Caixa de munição
+971301613	Fique de olho nas caixas de munição. Você precisará de rodadas extras.
+2014096389	Viagem de trem
+1517526124	Você pode andar em cima do trem. Se você for rápido o suficiente, é claro.
 1320314897	Heh, well done friend. Well done. Looks like you're not a digger. 
 383490229	Agent Trotter
 1645958402	Real name: Tommy the Mustang. Hobbies: Kicking humans for coin.
