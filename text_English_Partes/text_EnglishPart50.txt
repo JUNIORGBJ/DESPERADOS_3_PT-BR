@@ -72,37 +72,37 @@
 253701574	Boa sorte, Isabelle. E lembre-se: meus clientes estão assistindo.
 958676168	Kate e Trapper têm apenas distrações e disfarce.
 911022135	Você não pode acionar um alarme ou deixar os telhados com o documento. Boa sorte.
-2145312082	Well done, Isabelle, well done. My clients are already looking forward to our next... collaboration.
-266496455	Connect & Kill
-1337073859	Use Isabelle's connect ability and connect kill these two targets.
-1915648179	Target 1
-761071495	Kill her.
-1582941244	Target 2
-835748375	Kill him.
-1312839292	Cooldown Elites
-1490647133	It is possible to kill elites with three snipe shots all by yourself. Their stunned cooldown is longer than Doc's reload cooldown.
-1340780470	NEW ORLEANS – DEVITT COMPANY LOCKDOWN
-1931549038	A smell of seaweed surrounds the bloated corpse. As you search his pockets, you find a small figurine. A disturbing display of a foreign creatue, tentacles surrounding its gaping mouth. 
-884720503	Something unexplainable has happened in New Orleans tonight. Three murders were commited, all exactly when the clock struck 6.
-9708345	The first victim: A captain who wanted to escape his fate. His rusty vessel the only thing that kept him afloat. Beneath him, the blackness of the river. And inside him an even darker blackness. 
-1450293716	It is done. The butcher lies dead before you, the eldritch flame inside him extinguished. His soul is beyond redemption, but New Orleans has weathered the storm... for now. Good work.
-526570151	Investigate Crime Scenes
-2089925091	The stench of death hangs over New Orleans. Three victims, three gruesome crime-scenes. Investigate them.
-190779572	Kill Murderer
-888392974	After you unified the artifacts HE appeared. Surrounded by a pack of foul beasts he now roams the streets. Kill him, put an end to this nightmare.
-577617173	The Depths
-382025701	A captain who wanted to escape his fate. His rusty vessel the only thing that kept him afloat. Beneath him, the blackness of the river. And inside him an even darker blackness. 
-601936825	The Loner
-254541811	A lonely person met a lonely death. Surrounded by his only friends, cackling, picking litter from the floor, picking blood from his veins, picking meat from his innards.
-1184941873	Amongst Pigs
-963001693	An honorable man, slaughtered and left amongst the filthiest. An unjust end, for he gave hope and comfort to those who needed it the most.
-1209259200	The Metal Badge
-825897588	A small metal badge found on the body. It reads "Florence Smolker's Oriental Spices".
-1740598686	The Body
-1325527419	There is something wrong with that persons corpse. A little shine, only visible if seen in the furtherst corner of the eye. It draws you to it. Hard to resist.
-1163939158	The Chickens
-1200022366	The chickens are picking away at the rotting body in the corner. You get the feeling that something is calling to you. From... inside the chickens. It's voice growing more intense by the second. Until it is an unbearable scream inside of your head.
-1879106691	The sweet stench of decay invades your nostrils. As you examine the pig's body you see something in the corner of your eye. A glittering object hidden in the pockets of the human corpse next to it. 
+2145312082	Muito bem, Isabelle, muito bem. Meus clientes já estão ansiosos para a nossa próxima... colaboração.
+266496455	Conecte e Mate
+1337073859	Use a habilidade de conexão de Isabelle e mate esses dois alvos.
+1915648179	Meta 1
+761071495	Mate ela.
+1582941244	Meta 2
+835748375	Mate ele.
+1312839292	Espera de Elite
+1490647133	É possível matar com três snipe shots sozinho. A espera de recarga é maior que a recarga de Doc.
+1340780470	NEW ORLEANS – ISOLAMENTO DA COMPANHIA DEVITT
+1931549038	Um cheiro de algas marinhas envolve o corpo inchado. Ao procurar nos bolsos, você encontra uma pequena estatueta. Uma exibição perturbadora de uma criatura estrangeira, tentáculos ao redor de sua boca aberta. 
+884720503	Algo inexplicável aconteceu em New Orleans hoje à noite. Três assassinatos foram cometidos, exatamente quando o relógio bateu 6h.
+9708345	A primeira vítima: um capitão que queria escapar de seu destino. Seu navio enferrujado era a única coisa que o mantinha à tona. Abaixo dele, a escuridão do rio. E dentro dele uma escuridão ainda maior. 
+1450293716	Acabou-se. O açougueiro está morto diante de você, a chama avassaladora dentro dele é extinta. Sua alma está além da redenção, por enquanto New Orleans resistiu à tempestade. Bom trabalho.
+526570151	Investigar cenas de crime
+2089925091	O fedor da morte paira sobre New Orleans. Três vítimas, três cenas de crime horríveis. Investigue-os.
+190779572	Mate o assassino
+888392974	Depois de unificar os artefatos, ele apareceu. Cercado por um rebanho de bestas infames rondando as ruas. Mate-o, termine este pesadelo.
+577617173	As profundidades
+382025701	Um capitão que queria escapar de seu destino. Seu navio enferrujado era a única coisa que o mantinha à tona. Sob seus pés, a escuridão do rio. Lá dentro uma escuridão ainda maior. Ele não sobreviveu. 
+601936825	O solitário
+254541811	Um homem solitário que encontrou uma morte solitária. Cercado por seus únicos amigos, rindo alto, pegando lixo do chão, pegando sangue nas veias, pegando carne nas entranhas.
+1184941873	Entre Porcos
+963001693	Um homem honrado, massacrado e abandonado entre a imundície. Um final injusto, pois dava esperança e conforto àqueles que mais precisavam.
+1209259200	O distintivo de metal
+825897588	Uma pequena distintivo de metal encontrada no corpo, está escrito: "Especiarias Orientais de Florence Smolker".
+1740598686	O cadáver
+1325527419	Há algo de estranho no cadáver dessa pessoa. Um brilho esquisito visível apenas pelo canto dos olhos. Chama sua atenção. É difícil resistir.
+1163939158	As galinhas
+1200022366	As galinhas estão bicando a carcaça em decomposição. Você tem a sensação de que algo está lhe chamando. De ... dentro das galinhas. Sua voz se torna cada vez mais intensa, até que se torna um grito insuportável dentro de sua cabeça.
+1879106691	O doce cheiro da decomposição invade suas narinas. Examinando o corpo do porco, você percebe algo pelo canto do olho. Um objeto brilhante escondido nos bolsos do cadáver humano ao lado dele. 
 707546696	As you pick up the body, a tiny metal badge drops to the floor. It reads "Florence Smolker's Oriental Spices".
 115228868	The sweet stench of decay invades your nostrils. You examine the pig's body but find nothing. The badge in your pocket seems to be pulsating, like it wants to tell you "Ignore those filthy bodies. FIND. THE. LOCK."
 1262534177	As you go through the corpse's pockets, the cackle of the chickens seems to get louder and louder. You see them occasionally picking into the corpse's open wound, devouring it's flesh. 
