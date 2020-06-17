@@ -175,12 +175,12 @@
 132779930	Ugh... minha cabeça...
 1786629121	Onde estou?
 1470247001	E onde diabos estão os outros?
-210326211	Tudo bem, primeiro as coisas primeiro.
+210326211	Tudo bem, primeiro as necessidades.
 1083621896	Bom dia Hector.
 1766685889	Bom dia... senhorita.
 251244019	Essa foi uma noite infernal.
 488904519	Na verdade... eu nem me lembro de como cheguei aqui... ugh...
-1930594328	... ou como nos conhecemos.
+1930594328	...ou como nos conhecemos.
 2121783391	Hehe, você não se lembra de nada, lembra?
 1631687239	Sou Rosie, a esposa do xerife.
 693817541	Eu... preciso mesmo encontrar meus amigos agora.
@@ -189,9 +189,9 @@
 324536951	Você se importa se eu emprestar isso?
 923270363	Claro, mas apenas se você prometer devolvê-lo.
 2059420659	Ok Hector... você pode fazer isso...
-439696658	Uh...ouça, me desculpe, mas...você sabe...eu realmente tenho que...
-725255672	tchau, Hector.
-1042899231	tchau.
+439696658	Uh... ouça, me desculpe, mas... você sabe... eu realmente tenho que...
+725255672	Tchau, Hector.
+1042899231	Tchau.
 1399123022	Tudo bem, vamos encontrar o resto do pacote.
 1841183449	E Bianca.
 1532588613	VO TRACK
