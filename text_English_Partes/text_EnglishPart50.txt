@@ -49,29 +49,29 @@
 162060031	Ele gosta de jogo duplo. Mas este vai perder.
 1233492327	Atirador de elite
 384456236	McCoy pode estourar casacos longos com três tiros consecutivos. O próximo tiro estará pronto antes que o casaco longo possa se recuperar do último.
-760608755	Mission accomplished
-2018848112	Spoiler Warning
-1552851905	This challenge features playable characters you have not yet encountered in the story. To avoid spoilers, we recommend you return here after finishing Mission 9.
-1362688929	This challenge features Isabelle Moreau, a playable character you have not yet encountered in the story. To avoid spoilers, we recommend you return here after finishing Mission 9.
-1951547925	This challenge features Kate O'Hara, a playable character you have not yet encountered in the story. To avoid spoilers, we recommend you return here after finishing Mission 4.
-1029874240	The Baron Awaits You
-1157655411	You have encountered all five playable characters. The Baron's challenges are now free of spoilers. Enjoy.
+760608755	Missão cumprida
+2018848112	Aviso de spoiler
+1552851905	Este desafio apresenta personagens jogáveis ​​que você ainda não encontrou na história. Para evitar spoilers, recomendamos que você volte aqui depois de terminar a missão 9.
+1362688929	Este desafio apresenta Isabelle Moreau, uma personagem jogável que você ainda não encontrou na história. Para evitar spoilers, recomendamos que você volte aqui depois de terminar a missão 9.
+1951547925	Este desafio apresenta Kate O'Hara, uma personagem jogável que você ainda não encontrou na história. Para evitar spoilers, recomendamos que você volte aqui depois de terminar a Missão 4.
+1029874240	O Barão espera por você
+1157655411	Você encontrou todos os cinco personagens jogáveis. Os desafios do Barão agora estão livres de spoilers. Aproveitar.
 176535250	Meanwhile – Casa DeVitt, New Mexico
-1699332835	Use them to give Mr. McCoy a clean shot and distract any witnesses. If anyone raises the alarm, my clients will be most displeased.
-517076075	Ammo Crate A
-1083151072	Courtesy of my clients.
-1406444506	Ammo Crate B
-2053559657	Courtesy of my clients.
-1196218103	Ammo Crate C
-2031920940	Courtesy of my clients.
-855286556	Ammo Crate D
-1266293286	Courtesy of my clients.
-1903450712	Ah, my dear, sweet Isabelle. So glad to have you back in my employment. And so far away from home. Let's make the most of it, shall we?
-379908304	As you can see, this train is about to be robbed by bandits. Happens all the time, I'm told. Such a pitty.
-1076275563	My clients want you to kill every last one of them without raising alarm. You know better than to disappoint them, don't you?
-253701574	Good luck, Isabelle. And remember: My clients are watching.
-958676168	Kate and Trapper have only Distractions. Also Disguise.
-911022135	You can't set off an alarm or leave the rooftops with doc. Good luck.
+1699332835	Use-os para dar a McCoy uma chance limpa e distrair qualquer testemunha. Se alguém tocar o alarme, meus clientes ficarão decepcionados.
+517076075	Caixa de munição A
+1083151072	Cortesia dos meus clientes.
+1406444506	Caixa de munição B
+2053559657	Cortesia dos meus clientes.
+1196218103	Caixa de munição C
+2031920940	Cortesia dos meus clientes.
+855286556	Caixa de munição D
+1266293286	Cortesia dos meus clientes.
+1903450712	Ah, minha querida, doce Isabelle. Que bom tê-la de volta ao meu estabelecimento. E tão longe de casa. Vamos aproveitar ao máximo, certo?
+379908304	Como você pode ver, este trem está prestes a ser roubado por bandidos. Me disseram que Acontece o tempo todo. É uma pena.
+1076275563	Meus clientes querem que você mate cada um deles sem despertar o alarme. Você sabe que não deve decepcioná-los, não sabe?
+253701574	Boa sorte, Isabelle. E lembre-se: meus clientes estão assistindo.
+958676168	Kate e Trapper têm apenas distrações e disfarce.
+911022135	Você não pode acionar um alarme ou deixar os telhados com o documento. Boa sorte.
 2145312082	Well done, Isabelle, well done. My clients are already looking forward to our next... collaboration.
 266496455	Connect & Kill
 1337073859	Use Isabelle's connect ability and connect kill these two targets.
