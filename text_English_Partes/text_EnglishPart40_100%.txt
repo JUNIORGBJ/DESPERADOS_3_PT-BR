@@ -224,7 +224,7 @@
 1755842334	Bagunça do caralho.
 437365158	Nada podemos fazer aqui.
 1308092485	Bem, não é problema meu.
-255962292 Eu não gosto disso. Alguém está lá fora.
+255962292	Eu não gosto disso. Alguém está lá fora.
 1931997632	Merda. É melhor que isso não aconteça comigo.
 613270335	Malditos O'Haras. Acho que eles montaram armadilhas.
 504830136	...
