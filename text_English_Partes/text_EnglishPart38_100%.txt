@@ -136,7 +136,7 @@
 1606944567	Nós vamos encontrar cada um de vocês!
 328139414	Ok, pessoal! Desta vez, nós os pegamos!
 1114139344	Eles não podem nos enganar. Caçem-os!
-9434444 Eles estavam aqui um segundo atrás. Não pode ter ido longe!
+9434444	Eles estavam aqui um segundo atrás. Não pode ter ido longe!
 1036864669	Dividam-se, pessoal! Vão pegá-los!
 873357622	Continuem procurando! Temos que encontrá-los!
 717294821	Eles não podem se esconder para sempre. Procurem em todo lugar!

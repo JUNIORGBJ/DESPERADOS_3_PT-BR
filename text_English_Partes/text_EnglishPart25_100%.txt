@@ -321,7 +321,7 @@
 1202917247	Feito.
 1572771200	Está feito.
 268953212	Ok, feito.
-1132278620	Funcionou!
+1369762905	Funcionou!
 1132278620	Ugh, desagradável.
 1452927986	Estou indo, pai.
 12405886	Me desculpe por isso.

@@ -13,7 +13,7 @@ Japanese	Japonês
 326908463	Cancelar seleção de personagem
 1593035469	Selecionar todos os personagens
 720952508	Cancelar seleção de todos os personagens
-8814543		Usar
+8814543	Usar
 1707401394	Correr
 1228448906	Esconder cadáver
 974031510	Pulo baixo
