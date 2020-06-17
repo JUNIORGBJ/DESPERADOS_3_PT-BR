@@ -95,7 +95,7 @@ Japanese	Japonês
 404800528	Bloqueado
 98960900	Distintivos inacabados não são mostrados na primeira vez que uma missão é jogada.
 143561912	{0} (Segure)
-1031727861	Vista central
+1031727861	Centralizar
 1317422898	Alterar saída
 1574346156	Estatísticas
 268313053	Distintivos
@@ -116,7 +116,7 @@ Japanese	Japonês
 44714549	Cheio (Apenas Hector)
 1351320459	+{0} (Apenas Isabelle)
 60305594	Mergulho
-2000969630	Gravata
+2000969630	Amarrar
 635175699	Último jogo salvo:
 225439770	TUTORIAIS
 61553626	Info. global

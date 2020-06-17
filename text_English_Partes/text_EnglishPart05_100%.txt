@@ -106,7 +106,7 @@
 1272865861	Espero que não se importe, Sr. McCoy.
 1105231492	Bem. Eu salvo uma bala.
 1236950567	Vamos la.
-520419993	Meus dias de escalada estão atras de mim, Sr. Cooper.
+520419993	Meus dias de escalada ficaram para trás, Sr. Cooper.
 1671694831	Bem, vamos descobrir algo.
 1511114845	Eu ainda estou esperando aqui, Sr. Cooper!
 1661976841	É melhor levantá-lo antes de seguir em frente!
@@ -219,7 +219,7 @@
 817921335	Meus pensamentos exatamente.
 1836596718	Acho que você fez a Companhia DeVitt feliz hoje.
 793788117	Quanto você ganha por um emprego como este?
-851137006	Espero que você não esteja esperando um corte.
+851137006	Espero que você não queira dividir.
 1837965531	Relaxa. Eu tenho o que eu preciso.
 491675002	Você está mudando de carona?
 1841729439	Preciso ser pontual. Como eu disse...
