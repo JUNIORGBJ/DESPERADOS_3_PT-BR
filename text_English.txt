@@ -16525,7 +16525,7 @@ Japanese	Japonês
 294017721	Executar: {0}
 2031709440	Desafio do Barão
 1867437729	Ajusta a velocidade de movimento do cursor para apontar habilidades.
-1779818369	Determina como o Avanço rápido é usado: / nDesativado: Mantenha pressionado para acelerar o tempo, solte o botão para parar./nLigado: Pressione o botão para ativar e desativar o Avanço rápido.
+1779818369	Determina como o Avanço rápido é usado:/nDesativado: Mantenha pressionado para acelerar o tempo, solte o botão para parar./nLigado: Pressione o botão para ativar e desativar o Avanço rápido.
 471601378	Ajusta a velocidade de rolagem da sua câmera.
 558622535	Permite a rolagem da câmera movendo o cursor para a borda da tela.
 34778467	Habilita legendas para personagens de jogadores no mundo do jogo.
