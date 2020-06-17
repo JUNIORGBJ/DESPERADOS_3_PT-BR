@@ -6,15 +6,15 @@
 893316439	Por que você ainda está me seguindo?
 1251724828	Esta é uma pergunta retórica?
 1517720005	Olha, se você espera algum tipo de recompensa, terei que decepcioná-lo.
-194195131	Ha, então é isso. Não se preocupe, luz do sol, não estou interessado.
+194195131	Ha, então é isso. Não se preocupe, Sunshine, não estou interessado.
 1394520851	Ghn...maldita dor de cabeça.
 1311045368	Esse olho roxo parece ruim. Um pouco de jimson?
 1788810058	Noite ruim? Eu posso lhe dar um pouco de estramônio para aliviar a dor.
 141632886	Laço do diabo? Acho que vou passar.
 55479136	Oooh...
-706380539	Tem certeza de que não quer um pouco de estramônio, luz do sol?
+706380539	Tem certeza de que não quer um pouco de estramônio, Sunshine?
 1078701494	Você está tentando me envenenar, senhorita Isabelle?
-526892067	Luz do sol! Não é o estramônio cru. Eu sei como está preparado.
+526892067	Sunshine! Não é o estramônio cru. Eu sei como está preparado.
 2127528356	Obrigado, mas eu sei como um medicamento de verdade se parece.
 1751667435	Fique de olho nele. Se ele tentar qualquer coisa, encha-o de buracos.
 1166235436	Ele parece valentão agora. Espere até eles o colocarem nas minas.
@@ -149,7 +149,7 @@
 819220515	Bianca?
 1101963030	Bianca e eu somos inseparáveis. Estamos apaixonados desde o primeiro dia.
 1927745749	E as pessoas me olham com graça.
-751212873	Whoo, luz do sol. Você não me disse que poderia atirar assim.
+751212873	Whoo, Sunshine. Você não me disse que poderia atirar assim.
 315953830	Eu prefiro demonstrar.
 33451991	Que diabos você guarda nessa bolsa?
 175001448	Quer dar uma olhada?
@@ -171,10 +171,10 @@
 366448526	Sim...claro.
 901697531	Você está me deixando com ciúmes, senhorita Moreau.
 593524845	Não precisa. Minhas costas vão me matar hoje à noite.
-1125819947	Vamos luz do sol. Você pode fazer melhor.
+1125819947	Vamos Sunshine. Você pode fazer melhor.
 1086287296	Eu estou ficando baixo para fins táticos.
 1164388805	Com certeza você é.
-1691711871	Qual é o problema, luz do sol? Não sabe nadar?
+1691711871	Qual é o problema, Sunshine? Não sabe nadar?
 1788699548	Não gosto que minhas ferramentas se molhem.
 613581588	Heh, sim molhado, certo.
 1913285915	Tudo bem, acho que já está todo mundo aqui. Agora vamos dar o fora. 
@@ -193,13 +193,13 @@
 938025439	Esse é um ponto de vista.
 117805030	Doc, você teve uma briga com Miss Isabelle?
 1161078991	Não estou tão interessado em receber favores.
-2046471173	Oh, não se preocupe, luz do sol. É por conta da casa.
+2046471173	Oh, não se preocupe, Sunshine. É por conta da casa.
 686362228	Então, qual é o seu plano agora?
 190516923	Nova Orleans.
 1280239266	Bem, acho que estamos seguindo o mesmo caminho então.
 1535934154	Por que você não se junta a nós? Eu adoraria uma acompanhante.
 1167784740	Claro, por que não.
-493207314	Que tal, luz do sol? Você se importa com a minha presença?
+493207314	Que tal, Sunshine? Você se importa com a minha presença?
 458849405	Apenas mantenha distância.
 165232390	VO TRACK
 712805849	Escape da jaula
@@ -277,7 +277,7 @@
 173864141	Não vou segurá-lo se você recusar.
 2056450478	Como eu disse antes, não gosto de favores.
 397429678	Para ser claro: Encontramos o seu Wayne, o que nos deixa quites.
-830699354	Tente se acalmar, luz do sol.
+830699354	Tente se acalmar, Sunshine.
 1652314598	Você está em Nova Orleans.
 2140280330	VO TRACK
 146513349	Tanto faz. Alguma ideia brilhante de como encontramos o seu Wayne?
@@ -300,7 +300,7 @@
 1445125768	O mercado está animado hoje à noite.
 1164344156	Heh, o mercado está cheio como sempre.
 705833719	Vamos continuar. Nós estamos perdendo tempo aqui.
-2144361835	Você nunca sabe, luz do sol. Pode pagar para ouvir algumas conversas.
+2144361835	Você nunca sabe, Sunshine. Pode pagar para ouvir algumas conversas.
 1584209694	O que está acontecendo aqui?
 314763280	O que temos aqui?
 292395596	Vamos apenas manter a cabeça baixa. Eu gostaria de evitar problemas desnecessários.
@@ -329,7 +329,7 @@
 321905098	Apenas algumas semanas. Parece muito mais tempo.
 1605814065	Então, de onde você é?
 369994905	Flagstone. Pequena cidade montanhosa a oeste de Denver.
-811897958	E você, luz do sol?
+811897958	E você, Sunshine?
 459413486	Não me lembro de ser da sua conta.
 876435598	O que está acontecendo lá?
 283888378	O que está acontecendo aí?
