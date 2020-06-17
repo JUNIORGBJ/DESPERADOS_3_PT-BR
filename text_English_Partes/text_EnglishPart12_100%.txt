@@ -192,12 +192,12 @@
 2048956823	Muito obrigado, senhorita Moreau. Agora temos uma grande dívida com você.
 938025439	Esse é um ponto de vista.
 117805030	Doc, você teve uma briga com Miss Isabelle?
-1161078991	Não estou tão interessada em receber favores.
+1161078991	Não estou tão interessado em receber favores.
 2046471173	Oh, não se preocupe, luz do sol. É por conta da casa.
 686362228	Então, qual é o seu plano agora?
 190516923	Nova Orleans.
 1280239266	Bem, acho que estamos seguindo o mesmo caminho então.
-1535934154	Por que você não se junta a nós? Eu adoraria um acompanhante.
+1535934154	Por que você não se junta a nós? Eu adoraria uma acompanhante.
 1167784740	Claro, por que não.
 493207314	Que tal, luz do sol? Você se importa com a minha presença?
 458849405	Apenas mantenha distância.
@@ -286,7 +286,7 @@
 1866657286	Hmm, deixe-me pensar ...
 828060417	Wayne me disse que estava investigando três homens conectados a Devitt.
 1350230044	Arthur McGain, juiz distrital. Passa as noites no Café Chez Manu.
-1364286212	Raymond Irving, assumiu a Lanterna Vermelha depois que o proprietário anterior desapareceu.
+1364286212	Raymond Irving, assumiu o Lanterna Vermelha depois que o proprietário anterior desapareceu.
 1665672023	E Ted O'Neill, que costumava ser contrabandista, agora de alguma forma conseguiu um emprego como capataz no Pier 9.
 1840729988	Aposto que um desses caras está envolvido. Provavelmente carrega uma carta de instruções com ele.
 101243554	Uma carta, hein? Então, como sabemos quem é o culpado?

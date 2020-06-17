@@ -102,7 +102,7 @@
 62092261	Nada como uma boa caçada para alegrar os espíritos. Meus clientes estão mais entretidos. Muito bem.
 1903982346	Olhe para todos aqueles objetos roubados.
 1740736829	Tudo bem, DeVitt. Vamos ver o que você guarda aqui.
-41497864	Oficial Wayne.
+41497864	Marechal Wayne.
 362786850	Vejo que você está invadindo propriedades particulares.
 1217983166	Que eu saiba, é necessário um mandado de busca para isso.
 2078537816	Não preciso de um mandado para bandidos como você, Frank.
@@ -111,16 +111,16 @@
 1304765288	Pena que não é mais assim que é feito.
 975110150	Eu acho que é a corda em volta do seu pescoço falando.
 606901809	Isso está certo?
-537400045	Ei, DeVitt quer o oficial vivo, lembra?
+537400045	Ei, DeVitt quer o marechal vivo, lembra?
 1017739857	Cale-se.
 633924663	Vamos, Frank, pense no dinheiro.
 898817121	Certo... o dinheiro.
 280696478	Agh!
 636272268	É só isso que importa?
 1788403313	Frank, por favor, eu apenas...
-623899726	Leve o oficial com os outros.
+623899726	Leve o marechal com os outros.
 604011281	Andando...
-635756145	*coughs*
+635756145	*tosse*
 1027025207	Lembro dos velhos tempos.
 138737026	Os bons velhos tempos já se foram, oficial.
 630355938	Você realmente acredita nisso, hein.
@@ -198,7 +198,7 @@
 1856030066	Realmente não importa quem ajudamos primeiro. Mas começar com aquele cowboy não seria mal.
 572815002	Quando salvarmos todos, faremos nossa saída.
 2129583524	*meows tiredly*
-597420665	Bem, você faz a sua parte, se quiser ensopado hoje à noite.
+597420665	Bem, você faz a sua parte, se quiser um ensopado hoje à noite.
 676580666	*meows enthusiastically*
 462644112	Isso está melhor.
 956686779	Hrrr, eu odeio gaiolas.
