@@ -7,8 +7,8 @@
 1542545570	Espingarda
 589642151	Kate pode usar a espingarda para atirar nos guardas./nO alcance é muito baixo, mas o barulho também…
 774016983	Controle mental
-111091774	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e </skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
-1381139210	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e </skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
+111091774	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e <skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
+1381139210	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e <skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
 145657864	Estramônio
 561717325	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma pressionando {0}.
 637479073	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma selecionando-a na roda de habilidades e pressionando {0}.
@@ -16,8 +16,8 @@
 104247868	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar a conexão, use a habilidade de alguém que já esteja conectado).
 2127908959	Isabelle pode <skill>conectar</skill> a dois personagens. O que acontece com um, acontece com o outro./nIsso permite muitas maneiras de resolver um problema, então tente experimentar! /n(Nota: Para quebrar o conexão, use a habilidade de alguém que já esteja conectado).
 1527846203	Stella
-369625641	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
-403734131	Isabelle pode enviar sua gata <skill>Stella<skill> para distrair um inimigo por alguns segundos.
+369625641	Isabelle pode enviar sua gata <skill>Stella</skill> para distrair um inimigo por alguns segundos.
+403734131	Isabelle pode enviar sua gata <skill>Stella</skill> para distrair um inimigo por alguns segundos.
 389584167	Pegadas
 970518927	Você deixará pegadas na lama ou na areia molhada. Os guardas seguirão seus rastros, por isso tome cuidado.
 1446458937	Águas rasas
