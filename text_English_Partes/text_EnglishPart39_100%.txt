@@ -1,16 +1,16 @@
 726380380	Merda, e logo no dia do casamento. Temos que encontrá-la.
-710604572	Não achei que a senhorita O'Hara fosse capaz disso...
+710604572	Não achei que a senhorita O'Hara fosse capaz disso ...
 1958700309	Ela tem de estar escondido em algum lugar. Olhos abertos!
 369721948	Você vê algo suspeito?
 627027123	Não, nada. A noiva ainda está fugindo.
-1059477225	Essa cadela. Ele realmente atirou no prefeito?
-2109231030	Sim. Continue procurando! Ele ainda deve estar aqui em algum lugar.
+1059477225	Essa cadela. Ela realmente atirou no prefeito?
+2109231030	Sim. Continue procurando! Ela ainda deve estar aqui em algum lugar.
 994144412	Não será difícil encontrá-la com esse vestido de noiva.
-2046030986	Ainda não o capturamos. Estamos em guarda.
+2046030986	Ainda não a capturamos. Estamos de olho.
 2117413530	Atirou nele com aquele velho rifle que ele mantém no escritório.
 1796149936	Porra, que gostosa. Pena que temos que matá-la.
 544240185	A senhorita O'Hara está fugindo! Mantenha seus olhos abertos.
-1847075463	Porra, ela realmente atirou em Higgins? Uau...
+1847075463	Porra, ela realmente atirou em Higgins? Uau ...
 1437581961	Cabelo ruivo, vestido de noiva coberto de sangue...
 399086106	Não há como confundi-la. Atire nela assim que a vir, entendido.
 1748695363	Porra, temos que encontrá-la. Não acredito que Higgins está morto.
@@ -18,31 +18,31 @@
 1990982888	Eu vou te dizer, ele é um inútil.
 1791840141	Tempos difíceis, hein?
 2096279352	Bem, eu não tinha pensado nisso.
-1673603298	Mmm... talvez você esteja certo.
+1673603298	Mmm ... talvez você esteja certo.
 1294819616	Como eu sempre pensei.
-1086552440	Bem, você sabe como eu sou...
+1086552440	Bem, você sabe como eu sou ...
 255807706	Acredite ou não, foi assim que aconteceu.
 239231212	Fala sério, honestamente, estou pedindo demais?
 13584080	Mas ela também não é melhor.
 2126096872	Você soa como meu pai.
 2117486046	Não tenho certeza se estou seguindo você aqui.
-994205992	Mmm... você tem razão.
+994205992	Mmm ... você tem razão.
 155907172	Você nunca terá certeza absoluta.
 1243594504	Garanto-lhe, ele me disse pessoalmente.
-1988723144	Depois daquilo, tudo foi para o inferno...
+1988723144	Depois daquilo, tudo foi para o inferno ...
 381555236	Eu me pergunto se ele realmente é aquele tipo de pessoa.
 422758390	Sim, mas são apenas rumores.
-1390060601	Oh cara, nada poderia ser feito eu acho...
+1390060601	Oh cara, nada poderia ser feito eu acho ...
 1638222200	Acho que os tempos estão mudando.
 1676503866	Isso é novidade pra mim.
 1829619572	Mmm, de onde paramos?
-1083386674	Perdi o fio... ah, sim.
-687909159	Onde estávamos de novo...?
-749133177	Bem, voltando ao assunto anterior...
-2128551285	Você estava dizendo...
+1083386674	Perdi o fio ... ah, sim.
+687909159	Onde estávamos denovo...?
+749133177	Bem, voltando ao assunto anterior ...
+2128551285	Você estava dizendo ...
 1093274812	Outro passo e você está morto.
 980514476	Melhor se afastar. Aqui você não pode entrar.
-2001203469	Eu não lembro de você... então não posso deixar você entrar.
+2001203469	Eu não lembro de você ... então não posso deixar você entrar.
 1673452910	Ei, o que você está fazendo aqui?
 1100444650	Você! Fique longe daqui.
 18375185	Vá embora. Eu não posso deixar você passar.
@@ -52,14 +52,14 @@
 544253280	Esta é a propriedade da empresa. Portanto dê o fora.
 1480988993	Propriedade privada. Saia.
 655960218	Este lugar não é para você.
-186691657	Ah... não encontro você na lista de convidados...
+186691657	Ah ... não encontro você na lista de convidados ...
 1966815297	O prefeito está ocupado. Volte mais tarde.
 510076770	Você não se parece muito com um hóspede.
 469289520	Negócios da empresa. Não se aproxime.
 1803604810	Não posso deixar você passar.
 921209635	Desapareça, seu idiota. Você não é um dos nossos.
 1566657529	Ei, você não tem permissão para estar aqui.
-238770168	Volte ao trabalho...
+238770168	Volte ao trabalho ...
 388392714	Não. Ligaremos para você quando for o seu turno.
 766344329	Esta área é proibida para os hóspedes.
 992861764	Você está perdido? A festa é em outro canto.
@@ -70,7 +70,7 @@
 943260560	Você está tentando me provocar?
 1420566225	Pare aí!
 308149862	Hey! Isso não é certo!
-708283872	Um momento... o que você está fazendo aí?
+708283872	Um momento ... o que você está fazendo aí?
 1607251711	Você está planejando algo!
 1111436834	Você quer chamar a atenção, não é?
 857010653	Eu vi você, palhaço!
@@ -294,9 +294,9 @@
 1740224072	Ei, garoto! Venha aqui!
 1240869261	É o xerife!
 1088330831	Hey! como você saiu?
-1409271796	Há algo errado... quem está aí?
+1409271796	Há algo errado ... quem está aí?
 2033287915	Eh? Tem alguém atrás de mim?
-407390183	Estranho... é como se houvesse alguém ao meu lado.
+407390183	Estranho ... é como se houvesse alguém ao meu lado.
 1183084401	...! Pare com isso!
 35200462	...! Que merda é essa?
 160316937	...! Quem está aí!
