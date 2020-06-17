@@ -102,32 +102,32 @@
 1325527419	Há algo de estranho no cadáver dessa pessoa. Um brilho esquisito visível apenas pelo canto dos olhos. Chama sua atenção. É difícil resistir.
 1163939158	As galinhas
 1200022366	As galinhas estão bicando a carcaça em decomposição. Você tem a sensação de que algo está lhe chamando. De ... dentro das galinhas. Sua voz se torna cada vez mais intensa, até que se torna um grito insuportável dentro de sua cabeça.
-1879106691	O doce cheiro da decomposição invade suas narinas. Examinando o corpo do porco, você percebe algo pelo canto do olho. Um objeto brilhante escondido nos bolsos do cadáver humano ao lado dele. 
-707546696	As you pick up the body, a tiny metal badge drops to the floor. It reads "Florence Smolker's Oriental Spices".
-115228868	The sweet stench of decay invades your nostrils. You examine the pig's body but find nothing. The badge in your pocket seems to be pulsating, like it wants to tell you "Ignore those filthy bodies. FIND. THE. LOCK."
-1262534177	As you go through the corpse's pockets, the cackle of the chickens seems to get louder and louder. You see them occasionally picking into the corpse's open wound, devouring it's flesh. 
-2036902556	As you cut open the chicken, you find a small coin. It is covered in blood and guts, but seems to be glowing like a radiant miniature sun. You can almost feel it buzzing in your hand. 
-772586931	As you enter the store, the revitalizing smell of different spices quickly gets to your head. You instantly know where to look. You open a small cupboard in the darkest corner of the room.
-1232845740	As you put the third artifact into your pocket, a creeping chill crawls over your spine. Your sight starts to get blurry as you fight to keep your balance. Something in New Orleans has... changed. 
-1103300527	The next day – Bayous of New Orleans, Louisiana
-2086026573	You did it!
-114163874	DEVITT GOLDMINE – SOMEWHERE IN NEW MEXICO
-1000891151	Looks like we're all out of targets. Well done. A fine display of modern ingenuity. My clients are pleased.
-1872830447	Later that day – Eagle Falls Bridge, Colorado
-665079477	Nicely done. All ready and safe for transport. I knew I could count on your discretion.
-1462795072	Running your fingers over the figurine's smooth, pitchblack surface, you feel like you are slowly starting to slip...  You  quickly hide it in one of your pockets.
-2042798963	You put the badge in your pocket. Shortly after, it starts pulsating, like it wants to tell you "Ignore those filthy bodies. FIND. THE. LOCK."
-138387610	You realize that something inside one of the chickens is calling to you. An uncanny whisper that grows inside your head. "Let me out."
-653215157	As you wipe the blood off of it, the buzzing stops. It's just a dull, rusty coin now. You put it into your pocket.
-412945230	Inside you find a tiny horn with neatly executed carvings on it. You cannot decipher their meaning. Quickly, you put the horn into your pocket.
-1466539405	You can feel the presence of the killer. It is time to avenge the dead or get torn to pieces yourself.
-2076581508	The second victim: A lonely person, meeting a lonely death. Surrounded by his only friends, cackling, picking litter from the floor, picking blood from his veins, picking meat from his innards.
-1520042128	The third victim: An honorable man, slaughtered and left among the filth. An unjust end, for he gave hope and comfort to those who needed it most.
-595444114	Examine the crime scenes. Find out who did this and banish them from this earth.
-954134476	Deliver both Targets
-736354958	Bring both targets to the open train wagon.
-460963032	Quarry Boss Sanchez
-2012672498	He made a deal that was too much for him.
+1879106691	O doce cheiro da decomposição invade suas narinas. Examinando o corpo do porco, você percebe algo no canto dos olhos. Um objeto brilhante escondido nos bolsos do cadáver humano ao lado dele. 
+707546696	Quando você pega o corpo, um pequeno distintivo de metal cai no chão. Nele está escrito: "Especiarias Orientais de Florence Smolker".
+115228868	O doce cheiro da decomposição invade suas narinas. Você examina o corpo do porco, mas não encontra nada. As insígnias no seu bolso começam a vibrar, como se quisessem lhe dizer: "Esqueça os corpos sujos. ENCONTRE. A. FECHADURA".
+1262534177	À medida que você procura nos bolsos do cadáver, o cacarejo das galinhas se torna cada vez mais alto. Ocasionalmente, elas bicam a ferida aberta do cadáver e devoram sua carne. 
+2036902556	Ao abrir o frango, você encontra uma pequena moeda. Está coberto de sangue e tripas, mas parece estar brilhando como um sol radiante em miniatura. Você quase pode ouvi-lo zumbindo enquanto o segura.
+772586931	Ao entrar na loja, o aroma refrescante de diferentes especiarias entra em sua cabeça. Instantaneamente, você sabe onde procurar. Você abre um pequeno aparador no canto mais escuro da sala.
+1232845740	Quando você coloca o terceiro artefato no bolso, um arrepio aterrador percorre seu corpo. Sua visão começa a embaçar quando você tenta manter o equilíbrio. Algo em Nova Orleans... mudou.   
+1103300527	No dia seguinte - Bayous de New Orleans, Louisiana
+2086026573	Você fez isso!
+114163874	MINA DE OURO DEVITT – EM ALGUM LUGAR EM NEW MEXICO
+1000891151	Aparentemente, ficamos sem oque fazer. Bem feito. Uma exibição elegante de humor moderno. Meus clientes estão satisfeitos.
+1872830447	Mais tarde naquele dia – Eagle Falls Bridge, Colorado
+665079477	Muito bem. Tudo pronto e seguro para o transporte. Eu sabia que poderia contar com sua ajuda.
+1462795072	Ao passar os dedos pela superfície lisa e preta da estatueta, você sente que está desaparecendo lentamente ... Você a esconde rapidamente em um dos bolsos.
+2042798963	Você mantém o distintivo no seu bolso. Logo depois ele começa a vibrar, como se lhe dissesse: "Esqueça os corpos sujos. ENCONTRE. A. FECHADURA ".
+138387610	Você percebe que algo dentro das galinhas está chamando você. Um sussurro estranho que cresce dentro da sua cabeça. "Deixe-me sair".
+653215157	Quando você limpa o sangue que o cobre, o zumbido para. Agora é apenas uma moeda enferrujada comum. Você a guarda no seu bolso.
+412945230	Dentro, você encontra uma pequena buzina com esculturas ordenadamente executadas. Você não pode decifrar o significado delas. Rapidamente, você coloca a buzina no bolso.
+1466539405	Você pode sentir a presença do assassino. É hora de vingar os mortos ou ser despedaçado.
+2076581508	A segunda vítima: uma pessoa solitária, enfrentando uma morte solitária. Cercado por seus únicos amigos, gargalhando, pegando lixo no chão, colhendo sangue de suas veias, colhendo carne de suas entranhas.
+1520042128	A terceira vítima: um homem honrado, abatido e deixado entre a sujeira. Um fim injusto, pois ele dava esperança e conforto àqueles que mais precisavam.
+595444114	Examine as cenas do crime. Descubra quem fez isso e expulse-os desta terra.
+954134476	Entregue ambos os alvos
+736354958	Leve os dois alvos para o vagão aberto.
+460963032	Chefe da pedreira de Sánchez
+2012672498	Ele fez um acordo que era demais para ele.
 1297243208	Gunsmith Huancarlo
 1923142160	He spilled secrets that weren't his to spill.
 1053368588	Devils Canyon, Mexico
