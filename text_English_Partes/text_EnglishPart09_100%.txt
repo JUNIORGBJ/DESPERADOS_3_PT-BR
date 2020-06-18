@@ -121,7 +121,7 @@
 1743660643	Existe um ponto fraco. Destrua ele e o resto tombará como um baralho.
 1419916468	Gosto desse plano, Dr. McCoy. Mas ainda precisamos de dinamite.
 1252686345	Eles são obrigados a ter algumas armazenadas por aqui em algum lugar. 
-359357962	Eu poderia usar um disfarce, e acho que acabei de encontrar uma.
+359357962	Eu poderia usar um disfarce, e acho que acabei de encontrar um.
 1753537232	Faria sentido haver dinamite naquela cabana na pedreira.
 473627906	Além disso, há um galpão de armas no campo de tiro.
 581421147	Se eu estivesse no comando por aqui, manteria a dinamite trancada.
