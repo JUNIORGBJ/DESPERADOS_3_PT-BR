@@ -37,11 +37,11 @@
 266684103	Uh, pessoal?!
 164633492	Você viu isso?!
 271027791	Todo mundo olhos atentos!
-1497803566	Vamos derrubá-los, meninos!
+1497803566	Vamos derrubá-los, garotos!
 1771342678	Alarme! Alarme!
 536744783	Merda! Não há backup!
 1557696297	Os reforços acabaram. Droga!
-105752394	Somos nós contra eles, meninos.
+105752394	Somos nós contra eles, garotos.
 1589875039	O que aconteceu com o reforço?
 384706512	Sem reforço! É isso!
 1409839293	Você entendeu isso, certo?
@@ -131,9 +131,9 @@
 589679096	Cuidado onde pisa!
 337430316	Puta merda! Armadilha!
 2020666015	Grande armadilha! Grande armadilha!
-786008014	Merda! Sniper!
-1020869710	Há um sniper!
-1526339834	Temos um sniper!
+786008014	Merda! Franco-Atirador!
+1020869710	Há um franco-atirador!
+1526339834	Temos um franco-atirador!
 2101185282	Atirador!
 2016460011	Eles atiram em nós de longe!
 1644297817	Q-que diabos aconteceu?

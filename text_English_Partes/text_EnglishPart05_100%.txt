@@ -22,7 +22,7 @@
 154743950	Suba no guindaste e solte a carga nos três guardas abaixo.
 460377644	Encontre seu pai
 1343983716	Seu pai está esperando na estátua. Vá se encontrar com ele. 
-1692289367	Limpe tudo, meninos! Pegue tudo que brilhar e qualquer coisa que um homem possa beber.
+1692289367	Limpe tudo, garotos! Pegue tudo que brilhar e qualquer coisa que um homem possa beber.
 1929783850	Ha! Outro ponto para Big Ann!
 1205750566	Vamos lá, vamos mostrar quem é que manda!
 767721975	Merda! Proteja-se! 
@@ -90,7 +90,7 @@
 801957529	Outro trem para nós, heh heh.
 1085623643	Dane-se a Companhia Devitt.
 67595800	Nós vamos deixar tudo muito limpo.
-226511189	Como os meninos gostam de saquear.
+226511189	Como os garotos gostam de saquear.
 561111430	É uma pena que eu tenha que ficar de guarda aqui.
 1256294145	Como se alguém passasse por aqui.
 1198044642	Ordens do caralho.
