@@ -1,4 +1,4 @@
-1520189872	... Na estrada ... algumas milhas ...
+1520189872	... Na estrada... algumas milhas...
 1444952461	Hmph!
 757917807	Obrigado.
 1469280115	Você nunca fica parada, Sunshine?
@@ -10,7 +10,7 @@
 140528692	Talvez todos nós possamos fazer uma pequena pausa agora.
 2137458313	Pensamos a mesma coisa.
 228112047	O que está acontecendo?
-140857790	Sem ofensa ...
+140857790	Sem ofensa...
 1512706557	... mas acho que vou cobrar minhas perdas.
 146657652	Você deve estar brincando comigo!
 1643751326	Depois de toda a merda que passamos?
@@ -58,15 +58,15 @@
 2084580164	Gah! Merda!
 2014953396	Ele sabe como é.
 1616148156	Não adianta arrastar mais ninguém para os meus problemas.
-401213547	Especialmente ela ...
+401213547	Especialmente ela...
 337040815	...Gnah...
 670873602	Você sabe...
-608753376	... não importa quantas vezes eu tenha ouvido essa besteira ...
+608753376	... não importa quantas vezes eu tenha ouvido essa besteira...
 991958001	... nunca deu certo.
 1818908759	ARGH!!!
 957506317	Tem certeza de que isso está ajudando?
 811291948	Apenas ajustando o osso.
-681930907	Ok, mas agora o que ...
+681930907	Ok, mas agora o que...
 1290480501	...hmph!
 1800396173	Apenas deite-se por um tempo.
 1057051765	...Mh...
@@ -79,16 +79,16 @@
 969856639	Ei, por que não está parando?
 1894833642	Eles devem ter ordens para não parar.
 1699942712	Se quisermos uma carona, teremos que descobrir como fazer isso.
-1782148420	Certo. Uh ... alguma idéia brilhante?
+1782148420	Certo. Uh... alguma idéia brilhante?
 2110073007	Ora...
 740678377	Poderíamos levar gado para os trilhos. Isso iria parar o trem.
 916920895	Como fazemos isso?
 1271533937	Poderíamos assustá-los, como incendiar o telhado de palha.
 903675889	Claro. 
 1268755401	E aquele vagão?
-1203879636	Eu poderia ... empurrá-lo nos trilhos.
+1203879636	Eu poderia... empurrá-lo nos trilhos.
 939575221	Parece muito pesado para mim.
-2126890189	Vamos. Eu posso fazer isso ... eu acho.
+2126890189	Vamos. Eu posso fazer isso... eu acho.
 207599633	Bem, se essas são as nossas opções, eu me sentiria muito mais confortável disfarçada.
 594603374	De qualquer forma, vamos indo. Não quero gastar mais um segundo neste maldito buraco.
 354720800	Cuidado. Você não quer ser atropelado.
@@ -105,11 +105,11 @@
 142048326	Então, como diabos você bateu sua cabeça nos trilhos?
 1825482064	Eu estava bêbado, ok? Agora cale a boca - eu preciso do meu dente de ouro. Droga.
 2113775609	Heh heh, pensamos a mesma coisa.
-1467008996	Hah ... merda. Estou encharcado. 
+1467008996	Hah... merda. Estou encharcado. 
 1955545827	Já cansado? Vamos lá, eu vou te mostrar como é feito.
 1765165076	Ei, merda! Você está apenas mudando a sujeira!
 381237179	Você acha que pode fazer melhor? Seja meu convidado.
-628505397	Hah ... Jesus ... me ajude aqui.
+628505397	Hah... Jesus... me ajude aqui.
 271460853	Ele ele, reclamando como a minha avó.
 1072556048	Por que temos que cavar esse buraco idiota de qualquer maneira?
 371455958	Não sei, não me importo.
@@ -168,7 +168,7 @@
 1651156154	Muito obrigado, bom senhor.
 981648462	Você está me cagando? Novamente com a merda do touro?
 969053577	Sinto muito senhor, mas Raton precisa comer. Se Raton não come, ele não ganha.
-1387508682	Não pode esperar cinco minutos ... Meu Deus, pegue seu feno já.
+1387508682	Não pode esperar cinco minutos... Meu Deus, pegue seu feno já.
 1263701317	Raton ficará agradecido, bom senhor.
 1520041738	Ei. Por que você está me encarando, mulher?
 1856831327	Raton precisa de água. Eu tenho que trazer água para ele.
@@ -205,28 +205,28 @@
 527118112	Que tal outro para a senorita?
 2093372229	(hic) Huh? Wha?
 89932817	E aqui está outro para a senorita.
-1050081051	Minha cabeça ... girando ... 
+1050081051	Minha cabeça... girando... 
 581065887	Mais um para você.
-874767312	Ugh ... vou ... urp ...
+874767312	Ugh... vou... urp...
 1988163586	Mais um sim?
 761881220	Hrgn...
 61274360	Não é uma boa ideia, Hector.
-1913679246	Não ... problemo ...
+1913679246	Sem problemas...
 1408503555	Hah! Funcionou.
 1946636562	E aí temos que admitir. É muito bom quando um plano dá certo.
 458713694	São muitos guardas.
 1136424161	Oh meu. Acho que pegamos um trem cheio de homens DeVitt.
 1095934310	Esse vagão parece ser a única opção segura.
 819726597	Vamos nos encontrar com os outros, depois nos esconder dentro da carroça.
-1559412081	Ugh ... com sono ...
+1559412081	Ugh... com sono...
 545629626	Hrm... Huh?
 7069839	Ei, você está respirando?
 182103101	zzz
-2013124401	 Heh ... claro.
+2013124401	 Heh... claro.
 816953267	Tudo bem, vamos conhecer os outros.
 1717046167	De onde eles vieram?
 1373663779	Tire as malditas coisas dos trilhos.
-545599609	Uh ... eles não parecem que querem se mudar?
+545599609	Uh... eles não parecem que querem se mudar?
 114078305	Talvez nós os assustemos ou algo assim.
 1637933368	Isso vai demorar um pouco.
 485862675	O que diabos é isso?
@@ -252,7 +252,7 @@
 875062033	O que é essa raquete lá atrás?
 1217519499	Quieto lá atrás, Jesus!
 740640140	Quieto! Para o inferno com as pessoas nesta cidade.
-148000275	Espere um minuto ...
+148000275	Espere um minuto...
 1507422999	Eles fugiram de mim ?! Eu não acredito nisso.
 223240633	Alguém vá limpar essa bagunça!
 1590059287	Depois de você, senhorita Moreau.
@@ -261,7 +261,7 @@
 1220205093	Tudo está claro!
 1541701335	Finalmente! Temos que ganhar tempo.
 489276961	Próxima parada: civilização.
-598497005	Ah ... eu preciso sentar.
+598497005	Ah... eu preciso sentar.
 1699957185	Então, para onde vamos a partir daqui?
 1619326542	Eu diria que visitamos nosso marshal.
 909407458	Bloquear os trilhos do trem
