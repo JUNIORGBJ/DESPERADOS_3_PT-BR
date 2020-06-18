@@ -55,7 +55,7 @@
 927424575	Agora você fica parado.
 977093193	Não se mexa, entendeu?
 701922350	É melhor esperar.
-1348029465	Este aqui ... Ok.
+1348029465	Este aqui... Ok.
 669292182	Fique aqui.
 1632304374	Não se mexa.
 1420400526	Não se importe comigo.
@@ -86,7 +86,7 @@
 1667889064	Alguém está prestes a perder alguns dentes.
 1297460134	Pode vir.
 8101826	Eu posso levá-los.
-1638381450	Certo ... Vamos lá.
+1638381450	Certo... Vamos lá.
 1027386037	Vamos quebrar os dentes.
 1684299276	Vou levá-los.
 11090850	...!
@@ -169,8 +169,8 @@
 60683985	...!
 165290364	...! Que diabos?!
 757608313	...! Puta merda!
-1238517265	...! Foda-se ... estou tonto.
-433631093	...! Merda ... Acho que vou...
+1238517265	...! Foda-se... estou tonto.
+433631093	...! Merda... Acho que vou...
 1947860619	...! Idiota!
 1532062464	...! Pare com isso.
 727765430	...! Oh caralho!
@@ -324,7 +324,7 @@
 35439906	Tenho um pacote aqui.
 109023352	Onde você quer isso?
 570391497	Yeah... Sem suor.
-112595052	...! ...! Sim?
+112595052	...!...! Sim?
 239351998	...! Ainda o tenho.
 2090078223	Hrm... Eu odeio gaiolas.
 1754285984	Não posso fazer muito.
