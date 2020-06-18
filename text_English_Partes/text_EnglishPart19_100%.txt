@@ -34,17 +34,17 @@
 1076843851	Fique abaixado desta vez, garoto.
 448543546	Perto, garoto, mas sem charuto.
 1187322924	Ainda há muito a aprender, garoto.
-1008428375	Heh ... nada mal ...
+1008428375	Heh... nada mal...
 1068855608	...Nada mau garoto...
 1600044611	Hmph...
 895512173	Aposto que ele ficaria orgulhoso.
 1043485365	Você tem mais alguma coisa a dizer?
-805246975	Heh ... o que resta dizer?
-1790702708	Um de nós morre ...
-1786402724	... o outro vive ...
-1447460447	... é assim que tem que ser ...
+805246975	Heh... o que resta dizer?
+1790702708	Um de nós morre...
+1786402724	... o outro vive...
+1447460447	... é assim que tem que ser...
 1939865023	Um bom tiro, Frank.
-1089400164	Heh ... está certo.
+1089400164	Heh... está certo.
 547085163	Faça valer a pena.
 1268457782	VO TRACK
 1635724028	Chegar ao portão
@@ -104,16 +104,16 @@
 515495816	Muito frio aqui fora.
 1881502695	Esses caras não fazem meias medidas.
 99620324	Tudo em um dia de trabalho.
-1593794439	Firme ...
-747007217	Sim ... no meu caminho.
+1593794439	Firme...
+747007217	Sim... no meu caminho.
 623161210	Claro, claro...
-1754712091	Sim ... te encontro lá.
-453889635	Ufa ... tudo bem então.
+1754712091	Sim... te encontro lá.
+453889635	Ufa... tudo bem então.
 891088826	Eu odeio escravos.
 761592845	Ufa, feche uma lá atrás.
 1883357226	Ainda não estamos fora disso.
 1222595714	Tenho que reunir todos.
-2131439120	Louisiana ... Sempre uma carona.
+2131439120	Louisiana... Sempre uma carona.
 644137467	Bastardos colocam pessoas em jaulas.
 1760990193	Terceira emboscada que encontro neste mês.
 2103844227	Não estamos salvando aquele barco, isso é certo.
@@ -223,7 +223,7 @@
 1212670789	Sem chance.
 815786097	Esqueça.
 597644029	Não pode fazer.
-1121747942	Não ... não está acontecendo.
+1121747942	Não... não está acontecendo.
 1759580039	Sem chance.
 1474564838	Nuh uh.
 1193315723	Não.
@@ -296,7 +296,7 @@
 328017432	Risque um.
 563001922	Está feito.
 1346151110	Ops. Não queria isso.
-1422626252	Oh ... Acho que eu escorreguei.
+1422626252	Oh... Acho que eu escorreguei.
 779073806	Desculpa. Não quis dizer isso.
 1626437522	Risque um.
 1984845537	Está feito.
