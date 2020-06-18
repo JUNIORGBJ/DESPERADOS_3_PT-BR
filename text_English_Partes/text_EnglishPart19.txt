@@ -1,56 +1,56 @@
-1015045220	Like you came up with it.
-1189483124	We got your back, amigo.
-1898961321	All right then...
+1015045220	Como você veio com isso.
+1189483124	Nós te protegemos, amigo.
+1898961321	Tudo bem então...
 1300492355	John...
 542269657	Hm...
-1808647292	Give him hell.
+1808647292	Da um esporro nele
 496136658	Frank!
-1638498635	You kept me waiting, kid.
-147343473	Hope you don't mind my company here.
-1230337671	Now ain't that a little unfair?
-699744065	Come on, kid. We both know what's going on here.
-1363026705	But that's a game two can play.
-1981356010	So what's it gonna be?
-709923328	Easy fellas.
-859964106	One good shot.
-1089007962	That's all it takes, right?
-1521570876	Just like in the good old days, eh kid.
+1638498635	Você me deixou esperando, garoto.
+147343473	Espero que você não se importe com a minha companhia aqui.
+1230337671	Agora, isso não é um pouco injusto?
+699744065	Vamos garoto. Nós dois sabemos o que está acontecendo aqui.
+1363026705	Mas esse é um jogo que dois podem jogar.
+1981356010	Então, como vai ser?
+709923328	Calma, gente.
+859964106	Um bom tiro.
+1089007962	É tudo o que é preciso, certo?
+1521570876	Assim como nos bons velhos tempos, hein garoto.
 427592624	Tudo certo.
 994610395	Vamos fazer isso.
 2126222479	VO TRACK
-1479806138	All right, what are we looking at here?
-161493972	I don't like the look of the folks in blue.
-40445990	Frank's old lieutenants. They're not gonna fall for our tricks.
-165644794	If one of them catches on, Cooper's done for.
-1976217240	Then we gotta take 'em out all at once.
-1640516891	What's it gonna be, kid?
-1293366771	You got balls, kid. I give you that.
-605982068	Hope you didn't think I'd make this easy.
-1155764965	Looks like your friends are taking their time.
-1122444210	Wonder what your old man would say now.
-203020302	Just like the good old days, eh kid?
-125050405	I'm counting on you, kid. Don't let me down.
-865953531	No hard feelings, kid.
-1076843851	Stay down this time, kid.
-448543546	Close, kid, but no cigar.
-1187322924	Still a lot to learn, kid.
-1008428375	Heh...not bad...
-1068855608	...Not bad, kid...
+1479806138	Tudo bem, o que estamos vendo aqui?
+161493972	Eu não gosto do olhar dos caras vestido de azul
+40445990	Os antigos tenentes do Frank. Eles não vão cair nos nossos truques.
+165644794	Se um deles entender, Cooper ferrado.
+1976217240	Então temos que tirá-los de uma só vez.
+1640516891	Como vai ser, garoto?
+1293366771	Você tem bolas, garoto. Eu te dou isso.
+605982068	Espero que você não tenha pensado que eu facilitaria isso.
+1155764965	Parece que seus amigos estão demorando.
+1122444210	Imagino o que seu velho diria agora.
+203020302	Como nos bons velhos tempos, hein garoto?
+125050405	Estou contando com você, garoto. Não me decepcione.
+865953531	Sem ressentimentos, garoto.
+1076843851	Fique abaixado desta vez, garoto.
+448543546	Perto, garoto, mas sem charuto.
+1187322924	Ainda há muito a aprender, garoto.
+1008428375	Heh ... nada mal ...
+1068855608	...Nada mau garoto...
 1600044611	Hmph...
-895512173	Bet he would be proud.
-1043485365	You got anything else to say?
-805246975	Heh...what's there left to say?
-1790702708	One of us dies...
-1786402724	...the other one lives...
-1447460447	...that's how it's gotta be...
-1939865023	One good shot, Frank.
-1089400164	Heh...that's right.
-547085163	Make it count.
+895512173	Aposto que ele ficaria orgulhoso.
+1043485365	Você tem mais alguma coisa a dizer?
+805246975	Heh ... o que resta dizer?
+1790702708	Um de nós morre ...
+1786402724	... o outro vive ...
+1447460447	... é assim que tem que ser ...
+1939865023	Um bom tiro, Frank.
+1089400164	Heh ... está certo.
+547085163	Faça valer a pena.
 1268457782	VO TRACK
-1635724028	Reach the Gate
-437322338	Clear the area in front of the graveyard gate and gather everyone for the final confrontation.
-1648934017	Defeat Frank
-1433246038	Kill Frank and his gang in a single attack. If any of them realize something's up, Cooper will die.
+1635724028	Chegar ao portão
+437322338	Limpe a área em frente ao portão do cemitério e reúna todos para o confronto final.
+1648934017	Derrote Frank
+1433246038	Mate Frank e sua gangue em um único ataque. Se algum deles perceber que algo está acontecendo, Cooper morrerá.
 2102198443	Agora é a hora.
 698416794	Estou aqui.
 954946304	Olhos abertos.
@@ -63,14 +63,14 @@
 1151312318	Não precisa correr.
 441073854	Se acalme.
 283497359	Droga, esse trem é longo.
-385802758	Big heist they got planned here.
-881770828	Looks like we're past Denver.
-932779879	...Still warming up.
-62361224	Let's get started.
-474679635	Let's catch a few bandits.
-993005470	Needed a walk anyway.
-379630895	Let's see what's happening here.
-1544431828	I'm warming up.
+385802758	Grande assalto, eles foram planejados aqui.
+881770828	Parece que já passamos de Denver.
+932779879	.. Ainda aquecendo.
+62361224	Vamos começar.
+474679635	Vamos pegar alguns bandidos.
+993005470	Precisava de uma caminhada de qualquer maneira.
+379630895	Vamos ver o que está acontecendo aqui.
+1544431828	Estou me aquecendo.
 1274084592	Está cidade ficou brutal.
 516373232	Tive que me arrastar para isso.
 2037770180	No meio do nada.
@@ -93,39 +93,39 @@
 985938258	Acho que o casamento foi cancelado.
 1453580619	Você com certeza agitou o ninho.
 329331270	Bem, isso é um fracasso.
-1858843361	What did I get myself into.
-641998699	Big operation they have here.
-243436559	Bridge won't fall over by itself.
-1936998677	Chilly morning.
-1375638535	First the dynamite, then the bridge.
-1172384232	Let's blow that thing up.
-230030366	Time for dynamite.
-936949971	Stick to the plan.
-515495816	Pretty cold out here.
-1881502695	These guys don't do half-measures.
-99620324	All in a day's work.
-1593794439	Steady...
-747007217	Yeah... on my way.
-623161210	Sure, sure...
-1754712091	Yup... meet you there.
-453889635	Whew... okay then.
-891088826	I hate slavers.
-761592845	Whew, close one back there.
-1883357226	We ain't out of this yet.
-1222595714	Gotta gather everyone.
-2131439120	Louisiana... Always a ride.
-644137467	Bastards put people in cages.
-1760990193	Third ambush I run into this month.
-2103844227	We ain't saving that boat, that's for sure.
-1546414395	There goes our ride to New Orleans.
-1323253740	This place is a maze.
-1954104332	I hate the swamp. Too many snakes.
-2125316927	So, that's the Queen's Nest, huh?
-1873306400	I don't mind tearing this place down.
-320729088	Payback time.
-639574754	Frank's waiting.
-17341483	Let's do it.
-1457233154	Ain't far now.
+1858843361	No que eu me meti.
+641998699	Grande operação que eles têm aqui.
+243436559	A ponte não cairá sozinha.
+1936998677	Manhã fria.
+1375638535	Primeiro a dinamite, depois a ponte.
+1172384232	Vamos explodir isso.
+230030366	Hora de dinamite.
+936949971	Siga ao plano.
+515495816	Muito frio aqui fora.
+1881502695	Esses caras não fazem meias medidas.
+99620324	Tudo em um dia de trabalho.
+1593794439	Firme ...
+747007217	Sim ... no meu caminho.
+623161210	Claro, claro...
+1754712091	Sim ... te encontro lá.
+453889635	Ufa ... tudo bem então.
+891088826	Eu odeio escravos.
+761592845	Ufa, feche uma lá atrás.
+1883357226	Ainda não estamos fora disso.
+1222595714	Tenho que reunir todos.
+2131439120	Louisiana ... Sempre uma carona.
+644137467	Bastardos colocam pessoas em jaulas.
+1760990193	Terceira emboscada que encontro neste mês.
+2103844227	Não estamos salvando aquele barco, isso é certo.
+1546414395	Lá vai o nosso passeio para Nova Orleans.
+1323253740	Este lugar é um labirinto.
+1954104332	Eu odeio o pântano. Muitas cobras.
+2125316927	Então, esse é o Queen's Nest, não é?
+1873306400	Eu não me importo de destruir este lugar.
+320729088	Hora da vingança.
+639574754	Frank está esperando.
+17341483	Vamos fazer isso.
+1457233154	Não está longe agora.
 939553804	Pier 9.
 1160144569	É isso.
 1849250951	Eu vou seguir.
@@ -138,17 +138,17 @@
 1308614410	Got a train to catch.
 1395768645	Wound's healed enough.
 94463975	Não tenho certeza se conheço essa dança.
-927997024	Mansion in the desert. Figures.
-1207572231	How big is this place.
-1012801585	Fancy party.
-130628810	Least they have music here.
-2145520679	M'lady?
-1679434983	After you, miss.
-1245111996	Let's finish it.
-660598120	Takes you back.
+927997024	Mansão no deserto. Figuras.
+1207572231	Quão grande é este lugar.
+1012801585	Festa chique.
+130628810	Pelo menos eles têm música aqui.
+2145520679	Senhora?
+1679434983	Depois de você, senhorita.
+1245111996	Vamos terminar.
+660598120	Leva você de volta.
 79087461	Lembre-se do plano.
 819050101	Está no papo.
-2082524293	This bounty's long overdue.
+2082524293	Esta recompensa está muito atrasada.
 1201075925	Para onde?
 1007641158	Está ficando pesado aqui.
 1398205759	Para onde?
@@ -191,7 +191,7 @@
 1898671880	Eu estarei lá.
 261146506	Sim, claro.
 664999495	No meu caminho.
-323985734	Going for it.
+323985734	Indo até você.
 1362306772	Sem problemas.
 612305708	Aqui vai.
 1256591016	Ok.
@@ -208,11 +208,11 @@
 1646207786	...Vamos lá.
 1327747076	...Sim.
 1193489465	...Tudo certo.
-283904925	Not sure I can take the big guy.
-578978790	Sure could use an edge here.
-1443281338	I don't like the odds here.
+283904925	Não tenho certeza se posso pegar o grandalhão.
+578978790	Claro que poderia usar uma vantagem aqui.
+1443281338	Eu não gosto das probabilidades aqui.
 1784029869	Não tenho certeza se posso levá-lo.
-132051168	I could sure use an edge.
+132051168	Eu poderia com certeza usar uma vantagem.
 2103062647	Isto vai doer.
 679004122	Péssima ideia.
 2118672222	I need an edge.
@@ -223,7 +223,7 @@
 1212670789	Sem chance.
 815786097	Esqueça.
 597644029	Não pode fazer.
-1121747942	Nope...not happening.
+1121747942	Não ... não está acontecendo.
 1759580039	Sem chance.
 1474564838	Nuh uh.
 1193315723	Não.
@@ -231,7 +231,7 @@
 1700970087	Não vai acontecer.
 1088388479	Não pode fazer isso.
 467533225	Assim não.
-475580370	Would if I could.
+475580370	Seria se eu pudesse.
 974636322	Tem que haver outra maneira.
 53913246	Por aqui não.
 2046820839	Tenho que encontrar outro caminho.
@@ -254,83 +254,83 @@
 71468931	Não posso arriscar.
 323623352	Idéia idiota.
 1883920775	Há problemas por dentro.
-817346445	Not risking it.
+817346445	Não arrisque.
 881566038	Essa é uma péssima ideia.
 604523048	Há problemas por dentro.
 1792437484	Não deveria arriscar.
-2116837790	Locked.
-1837487067	It's locked.
-2015071187	Won't budge.
-1437013312	Locked.
-1250017866	It's locked.
-1054072321	Won't budge.
-1309577002	Locked.
-35102170	It's locked.
-796124026	Won't budge.
-971393166	Locked.
-989622067	It's locked.
-1033602514	Won't budge.
-41221304	Onward and upward.
-462327909	Now, what's next?
-1261748791	Okay, what now?
-800926452	Okay, what's next?
-1473004386	What now?
-1522124348	Okay, what now?
-901976455	All done.
-251608329	There we go.
-384724828	Easy.
-1524272934	Done this a hundred times.
-646510477	Looks good.
-872253968	I'm done here.
-1781309283	Okay, done.
-1088558381	Yeah, easy.
-812437	Looks good.
-1972930152	Finished.
+2116837790	Trancado.
+1837487067	Está trancado.
+2015071187	Não vai se mexer.
+1437013312	Trancado.
+1250017866	Está trancado.
+1054072321	Não vai se mexer.
+1309577002	Trancado.
+35102170	Está trancado.
+796124026	Não vai se mexer.
+971393166	Trancado.
+989622067	Está trancado.
+1033602514	Não vai se mexer.
+41221304	Para frente e para cima.
+462327909	Agora, o que vem a seguir?
+1261748791	Ok, e agora?
+800926452	Ok, o que vem depois?
+1473004386	E agora?
+1522124348	Ok, e agora?
+901976455	Tudo feito.
+251608329	Aqui vamos nós.
+384724828	Tranquilo.
+1524272934	Feito isso centenas de vezes.
+646510477	Parece bom.
+872253968	Eu acabei por aqui.
+1781309283	Ok, pronto.
+1088558381	Sim, tranquilo.
+812437	Parece bom.
+1972930152	Acabado.
 2033983444	Feito.
 163097087	Ok, Feito.
-645853118	Looks good.
-1075145662	There we go.
-1528963876	One less to worry about.
-1028732958	Don't take it personal.
-375455705	See you later.
-328017432	Scratch one.
+645853118	Parece bom.
+1075145662	Aqui vamos nós.
+1528963876	Menos um para se preocupar.
+1028732958	Não leve para o lado pessoal.
+375455705	Até logo.
+328017432	Risque um.
 563001922	Está feito.
-1346151110	Whoops. Didn't want that.
-1422626252	Oh... Guess I slipped up.
-779073806	Sorry. Didn't mean that.
-1626437522	Scratch one.
+1346151110	Ops. Não queria isso.
+1422626252	Oh ... Acho que eu escorreguei.
+779073806	Desculpa. Não quis dizer isso.
+1626437522	Risque um.
 1984845537	Está feito.
-1616063596	See you.
-1960974127	Sleep tight.
-1268855220	Sorry about that...
-1513384622	Sweet dreams.
-356057065	No need to thank me.
-1251611740	Lights out.
-88759912	Could use some sleep myself.
-1484062296	Yeah, you lie down.
-1394391503	Lights out, buddy.
-519568595	Sleep tight.
-948580916	Lucky guy.
-501760234	Lights out.
-1242430893	It's gotta wait.
-835468655	It needs more time.
-1578354577	It's ain't ready yet.
-959588794	Gotta wait.
-525877062	Not yet.
-1616610365	Wait.
-100079556	Not yet.
-614173586	Gotta wait.
-709893101	Not yet.
-326281473	I've run out.
-1093504512	Shit, I'm out.
-1280697934	I need a refill.
+1616063596	Até logo.
+1960974127	Dorme bem.
+1268855220	Me desculpe por isso...
+1513384622	Bons sonhos.
+356057065	Não precisa me agradecer.
+1251611740	Luzes apagadas.
+88759912	Eu poderia dormir um pouco.
+1484062296	Sim, você se deita.
+1394391503	Luzes apagadas, amigo.
+519568595	Dorme bem.
+948580916	Cara sortudo.
+501760234	Luzes apagadas.
+1242430893	Isso pode esperar.
+835468655	Precisa de mais tempo.
+1578354577	Ainda não está pronto.
+959588794	Tenho que esperar.
+525877062	Ainda não.
+1616610365	Espera.
+100079556	Ainda não.
+614173586	Tenho que esperar.
+709893101	Ainda não.
+326281473	Eu acabei.
+1093504512	Merda, estou fora.
+1280697934	Eu preciso de um refil.
 246588544	...!
 826668293	...!
-624676962	Just a scratch...
+624676962	Apenas um arranhão...
 232691997	...
-685597918	Not like this...
-974235383	Damn it...
-1223085854	Come on...
+685597918	Assim não...
+974235383	Droga...
+1223085854	Vamos...
 766900796	...!
 964164248	...!
 1553956889	...!
