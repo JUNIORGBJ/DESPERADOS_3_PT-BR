@@ -268,7 +268,7 @@
 17797167	Pare um trem bloqueando os trilhos com alguma coisa.
 110556005	Assustar o gado
 90619246	Pegue uma tocha e jogue no feno para perseguir o gado nos trilhos.
-1294648201	Empurre o vagão
+1294648201	Empurre a carroça
 1771071321	Use Hector para empurrar a carroça pela encosta e nos trilhos.
 1750250218	Embarque no trem
 118152795	Leve todos a bordo do trem.
