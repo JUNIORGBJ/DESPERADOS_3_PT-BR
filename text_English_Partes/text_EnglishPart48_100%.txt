@@ -250,10 +250,10 @@
 68164799	Se você pegar um corpo no modo Duelo, poderá reservar uma ação adicional para movê-lo e largá-lo. Isso também funciona ao Matar e Mover.
 240081232	Pontos intermediários no modo Duelo
 321945412	No modo Duelo, você pode traçar um único ponto para cada personagem.
-1843019443	Informações de Reforço
+1843019443	Informações de Reforços
 72136199	Pressione <hotkey>{0}</hotkey> ou passe o mouse sobre o ícone de um quartel para ver o número e o tipo de reforços que serão implantados durante um alarme, bem como o número total de reservas.
 1133491710	Segure <hotkey>{1}</hotkey> e pressione <hotkey>{0}</hotkey> ou mova o cursor sobre o ícone de um quartel para ver o número e o tipo de reforços que serão implantados durante um alarme, bem como o número total de reservas.
-1806446353	Limites de reforço
+1806446353	Limites de reforços
 2073461372	A cada novo alarme, guardas mortos ou amarrados serão substituídos pelas reservas limitadas da Casa da Guarda. Se uma Casa da Guarda estiver vazia, não haverá mais reforços.
 1306284367	Cães latindo
 1729303052	Um cachorro latindo não dispara o alarme, mas os guardas que o ouvem virão investigar.

@@ -27,7 +27,7 @@
 2081534519	...
 1459914119	...
 1680622178	Chame os outros!
-1705307761	Precisamos de reforço!
+1705307761	Precisamos de reforços!
 1369226037	Ei! Me dê algum apoio!
 1463553071	Precisamos de mais homens aqui!
 902906723	Algum apoio aqui!
@@ -42,8 +42,8 @@
 536744783	Merda! Não há backup!
 1557696297	Os reforços acabaram. Droga!
 105752394	Somos nós contra eles, garotos.
-1589875039	O que aconteceu com o reforço?
-384706512	Sem reforço! É isso!
+1589875039	O que aconteceu com o reforços?
+384706512	Sem reforços! É isso!
 1409839293	Você entendeu isso, certo?
 222357951	Nós estamos fora. Diverta-se.
 418976661	Nós terminamos aqui. Até mais.
