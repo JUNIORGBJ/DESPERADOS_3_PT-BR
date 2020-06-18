@@ -25,11 +25,11 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-Se você desejar testar a tradução em jogo, será preciso colar e substituir os arquivos ```text_English.txt``` e ```keyboard_English.txt``` no caminho especificado abaixo:
+Se você desejar testar a tradução em jogo, será preciso colar e substituir as pastas ```keyboard``` e ```loca``` no caminho especificado abaixo:
 
-```Desperados III_Data\StreamingAssets\loca\text_English.txt```
+```Desperados III_Data\StreamingAssets\loca```
 
-```Desperados III_Data\StreamingAssets\keyboard\keyboard_English.tx```
+```Desperados III_Data\StreamingAssets\keyboard```
 
 Se tiver alguma dúvida clique na imagem abaixo para abrir o vídeo tutorial
 
