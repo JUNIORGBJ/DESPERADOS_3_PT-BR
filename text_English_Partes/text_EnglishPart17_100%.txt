@@ -158,7 +158,8 @@
 1135113243	E se alguém nos ver?
 339984990	Deixe que vejam! Não temos nada a esconder, Dolores. Nada.
 199478141	O que nossas famílias vão pensar de nós?
-229802176	Esqueça-os, Dolores. A partir desse momento, nossos corações são nossos. 1558108678	Gostaria que esse momento nunca acabasse.
+229802176	Esqueça-os, Dolores. A partir desse momento, nossos corações são nossos. 
+1558108678	Gostaria que esse momento nunca acabasse.
 1534441373	Que demônio ousaria nos atrapalhar, agora que finalmente encontramos um ao outro.
 1635449484	Acenda-os.
 243727080	Vamos dar um show a eles.
@@ -336,4 +337,3 @@
 1655765715	Tudo em um dia de trabalho.
 1412284541	Sim. Sem problema.
 60990168	Gosto mais dele desse jeito.
-
