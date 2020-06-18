@@ -29,7 +29,7 @@
 631797516	Espere! Ela está morta!
 2025427144	Oh senhor. Ele está morto.
 476040998	Oh Meu Senhor! Ele está morto.
-1294212533 ​​	É um corpo morto!
+1294212533	É um corpo morto!
 2125915304	Oh, esse aí está morto!
 629305294	Ele foi morto por um dos seus.
 1027670450	Um dos guardas o matou.
