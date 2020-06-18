@@ -1,65 +1,65 @@
-959558316	Ugh... What the hell?
-1924571502	Hey... Cut it out, will ya?
-1394466478	Shit... Be more careful with that.
-692637500	Hgn... What the hell is wrong with you?
-1663752225	Ugh... Just five more minutes.
-860086797	Shit... I could use more sleep.
-1457452677	...Cut it out.
-1180405532	...The hell is wrong with you?
-1108105971	Shit... Guess I deserved that.
-1117469463	Hgn... Okay, cut it out.
-1285378192	...! What's the big idea?
-211873821	...! Hey now!
-42150134	...! Not sure where you're going with this.
-1030316095	...! What's the big idea?
-2053256962	...! Hey now!
-1802379518	Huh... Funny...
-679122831	What's the matter... 
-1524744942	That you?
-364562200	Don't do that. 
-147418805	Get to New Orleans...
-1062063506	Another one...
-852077701	Don't screw this up...
-1353908759	Be there tomorrow...
-1490229119	Had to be a swamp...
-1548925223	Oh, please, no snakes...
-945499977	Useless...
-903206135	I screwed up...
-1878525430	Not good enough...
-2042234342	Damn fine lady... 
-27184514	Look at her...
-396048766	Feels good...
-1744219520	Fifteen years...
-1165328381	Almost there...
-945725228	One good shot...
+959558316	Ugh... que diabos?
+1924571502	Ei... Pare com isso, sim?
+1394466478	Merda... Tenha mais cuidado com isso.
+692637500	Hgn... O que diabos há de errado com você?
+1663752225	Ugh... Só mais cinco minutos.
+860086797	Merda... eu poderia dormir mais.
+1457452677	...Pare com isso.
+1180405532	...O que diabos você tem de errado?
+1108105971	Merda... Acho que eu merecia isso.
+1117469463	Hgn... Ok, pare com isso.
+1285378192	...! Qual é a grande idéia?
+211873821	...! Ei agora!
+42150134	...! Não tenho certeza para onde você está indo com isso.
+1030316095	...! Qual é a grande idéia?
+2053256962	...! Ei agora!
+1802379518	Ah... Engraçado...
+679122831	Qual é o problema... 
+1524744942	Que você?
+364562200	Não faça isso.
+147418805	Chegar a Nova Orleans...
+1062063506	Outro...
+852077701	Não estrague tudo...
+1353908759	Esteja lá amanhã...
+1490229119	Tinha que ser um pântano...
+1548925223	Oh, por favor, sem cobras...
+945499977	Sem utilidade...
+903206135	Estraguei tudo...
+1878525430	Não esta bom o suficiente...
+2042234342	Maldita senhorita... 
+27184514	Olha para ela...
+396048766	Parece bem...
+1744219520	Quinze anos...
+1165328381	Quase lá...
+945725228	Um belo tiro...
 374780929	...
-1840045774	And up...
-2083867793	You're heavy...
+1840045774	Para cima...
+2083867793	Você é pesado...
 2030410164	...
-1587572169	...Up...
-2066804657	...Oh... Steady.
+1587572169	...Acima...
+2066804657	...Oh... Firme.
 1850275561	...
-2022753248	...Got 'em.
-1075402183	...All right.
+2022753248	...Peguei eles.
+1075402183	...Tudo certo.
 278499109	...!
-1605667164	...! All right.
-1201647993	...! Okay.
+1605667164	...! Tudo certo.
+1201647993	...! Certo.
 181221205	...!
-1575616967	Whew... Okay.
-407709187	Hah... There.
+1575616967	Ufa... Tudo certo..
+407709187	Hah... Lá.
 929477417	...!
-391849287	...Gotta do it.
-2078338082	...Good enough.
-1882658310	Let's tuck you in.
-1031059096	Don't mind me.
-927424575	Now you stay put.
-977093193	Don't you move, you got it?
-701922350	This better hold.
-1348029465	This one through there... Okay.
-669292182	Stay put.
-1632304374	Don't move.
-1420400526	Don't mind me.
-1432536475	You stay put.
+391849287	...Tenho que fazer.
+2078338082	...Bom o bastante.
+1882658310	Vamos, durma bem.
+1031059096	Não se importe comigo.
+927424575	Agora você fica parado.
+977093193	Não se mexa, entendeu?
+701922350	É melhor esperar.
+1348029465	Este aqui ... Ok.
+669292182	Fique aqui.
+1632304374	Não se mexa.
+1420400526	Não se importe comigo.
+1432536475	Você fica parado.
 1107923919	...!
 241881455	...!
 1081206873	...!
@@ -77,44 +77,44 @@
 823057789	Humm... Preciso afiar.
 1534900751	Eu vou fazer rápido.
 1987268729	É simples.
-375491663	Mantenho afiado.
+375491663	Sempre afiado.
 1815836624	...!
 256976524	...!
 1179149669	...!
-1617564281	No need to get bloody.
-470405903	I'll get close and personal.
-1667889064	Someone's about to lose a few teeth.
-1297460134	Bring it on.
-8101826	I can take 'em.
-1638381450	Right... Bring it on.
-1027386037	Knock out a few teeth.
-1684299276	Gonna take 'em.
+1617564281	Não há necessidade de sangrar.
+470405903	Isso farei de perto.
+1667889064	Alguém está prestes a perder alguns dentes.
+1297460134	Pode vir.
+8101826	Eu posso levá-los.
+1638381450	Certo ... Vamos lá.
+1027386037	Vamos quebrar os dentes.
+1684299276	Vou levá-los.
 11090850	...!
 93383867	...!
 1218256967	...!
-1827539573	Oldest trick in the book.
-1197929841	I just need a few seconds.
-391053769	I got lots of these.
-1872951674	Just a few seconds.
-1329940543	Got lots of these.
-16695866	The oldest trick.
-238770571	Couple of seconds.
+1827539573	O truque mais antigo do livro.
+1197929841	Eu só preciso de alguns segundos.
+391053769	Eu tenho muitos desses.
+1872951674	Apenas alguns segundos.
+1329940543	Tenho muitos destes.
+16695866	O truque mais antigo.
+238770571	Alguns segundos.
 1164756988	...
-373131161	Heads or tails...
-1656692260	Need some change?
+373131161	Cara ou Corôa...
+1656692260	Precisa de alguma mudança?
 905661029	...Ha! 
-2033885432	Okay, let's see.
-1634624341	Go.
-1131305725	Now.
-122763103	Eyes on the target.
-1387574570	Watch and learn.
-2064314191	Who needs a good killing?
-1563062188	Eyes on target.
-323137475	Fifteen paces.
+2033885432	Ok, vamos ver.
+1634624341	Vai.
+1131305725	Agora.
+122763103	Olho no alvo.
+1387574570	Veja e aprenda.
+2064314191	Quem precisa de uma boa matança?
+1563062188	Olho no alvo.
+323137475	Quinze passos.
 163359774	...!
 491462446	...!
 146180398	...!
-1868152664	Catch!
+1868152664	Peguei!
 92628352	Merda, perdi minha faca.
 1075056735	Espera, cadê a faca?
 1875045070	Espera, cadê a faca?
@@ -242,7 +242,7 @@
 1226787952	Ok, mantenha-se junto, Cooper.
 559462246	Isso não é brincadeira.
 1099326977	É melhor se concentrar.
-2057283385	I ain't got time for this.
+2057283385	Eu não tenho tempo para isso.
 336239423	Eu vou te ignorar.
 300773328	Sério? Agora?
 1718684240	Vamos lá, isso não é engraçado.
@@ -336,4 +336,4 @@
 94261056	Muito bem.
 871727664	Mantenha seus olhos abertos.
 1246721726	Claro, amigo.
-1112289709	No meu caminho.
+1112289709	Eu vou.
