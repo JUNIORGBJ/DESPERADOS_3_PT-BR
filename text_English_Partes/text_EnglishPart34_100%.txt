@@ -7,7 +7,7 @@
 1427349549	Volta para o trabalho...
 797396550	Nuh uh. Chamaremos você quando for o seu turno.
 1147526598	Esta área está fora dos limites para os hóspedes.
-197046584	Você se perdeu? A festa é o outro lado.
+197046584	Você se perdeu? A festa é no outro lado.
 1419974059	Se perdeu? A festa é para lá.
 1943876794	Não quer ouvir, hein ?!
 1507348859	Acha que pode me ignorar?
@@ -15,7 +15,7 @@
 966552655	Tentando me provocar?
 495037459	Pare por aí!
 967536671	Ei! Isso não está certo!
-736679735	Espere ... O que você está fazendo aí?
+736679735	Espere... O que você está fazendo aí?
 238695807	você está tramando algo
 1386713752	Tentando chamar atenção, não é?
 416095395	Eu vi isso, brincalhão...
@@ -38,7 +38,7 @@
 164633492	Você viu isso?!
 271027791	Todo mundo olhos atentos!
 1497803566	Vamos derrubá-los, meninos!
-1771342678	Alarme! Alarmereforço
+1771342678	Alarme! Alarme!
 536744783	Merda! Não há backup!
 1557696297	Os reforços acabaram. Droga!
 105752394	Somos nós contra eles, meninos.
@@ -55,7 +55,7 @@
 1358399770	É isso mesmo, fuja!
 83652418	Nada. Bem, porra.
 1311516849	Mantenha os olhos abertos, pessoal.
-761341554	Fiquem atentos - eles podem estar de volta.
+761341554	Fiquem atentos - eles podem volta.
 1035382152	Isso ainda não acabou.
 621571729	Mantenha os olhos abertos, está me ouvindo?
 243309337	Isso ainda não acabou. É melhor você estar preparado.
