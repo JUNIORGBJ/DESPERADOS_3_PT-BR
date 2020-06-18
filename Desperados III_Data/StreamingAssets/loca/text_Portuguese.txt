@@ -1,4 +1,4 @@
-English	Português (Brasil)
+English	Inglês
 German	Alemão
 Chinese	Chinês
 French	Francês
@@ -8,6 +8,7 @@ Russian	Russo
 Korean	Coreano
 Polish	Polonês
 Japanese	Japonês
+Portuguese	Português(BR)
 
 1089572441	Selecionar personagem
 326908463	Cancelar seleção de personagem
