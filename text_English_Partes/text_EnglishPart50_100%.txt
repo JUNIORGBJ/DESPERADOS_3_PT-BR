@@ -149,7 +149,7 @@
 2023952286	Lá vai a empregada para deixar o padre entrar.
 1832990057	Elimine-a antes que chegue a porta, ou você perderá este jogo antes de iniciá-lo.
 198341473	Quando ela estiver fora de cena, você terá tempo para um pouco mais de... travessuras.
-930974379	Heh, heh, heh, bem feito. Este casamento foi um show e tanto. Meus clientes estão satisfeitos.
+930974379	He, he, he, bem feito. Este casamento foi um show e tanto. Meus clientes estão satisfeitos.
 2028174834	Ajude Hector
 715241689	Hector desmaiou atrás do galpão. Ajudem-no.
 713777658	Pegue o Ancinho
@@ -208,7 +208,7 @@
 476829014	Ah, sim, Eagle Falls. Um monumento ao constante avanço do progresso. Da última vez, foi o cenário de sua estréia explosiva. Hoje, no entanto, será preciso um pouco mais de sutileza.
 1908461359	Mova-se discretamente. Entregue a mercadoria. Que os guardas não descobrem nada. E não se esqueça: meus clientes estão assistindo.
 1656235817	Uma foto para colocar na lareira.
-756017590	Heh, heh, heh, ela não é tão livre do pecado, afinal.
+756017590	He, he, he, ela não é tão livre do pecado, afinal.
 808588487	Você matou Higgins.
 1614880222	A empregada deixou o padre entrar.
 1126697719	Acorde Hector
