@@ -181,7 +181,7 @@
 608422099	Vamos falar da mulher de novo.
 1517725670	Fiquem atentos. Eles podem vir por aqui. 
 1294525673	Frank disse que eles são uns malditos sorrateiros. Fiquem preparados.
-1905953505	O que é aquilo?! ... Não. Mas talvez ... Não. Merda ...
+1905953505	O que é aquilo?!... Não. Mas talvez... Não. Merda...
 313671013	Ninguém passa por nós. Você entendeu!? Ninguém!
 33295656	Vou descer. Te vejo na ponte mais tarde.
 484670334	Certo! Mas é melhor você não me deixar esperando.
@@ -221,7 +221,7 @@
 1933370241	Alguém precisa limpar isso aqui.
 1816639178	Que babaca.
 917385025	Tenho a sensação de que Frank não faz manutenção.
-541143520	Hmm, não sei ... acho que gosto desse jeito.
+541143520	Hmm, não sei... acho que gosto desse jeito.
 155206147	Costumavam ter mais coberturas por aqui, isso é fato.
 1859527103	Imagino o que deve ter lá embaixo.
 1634941548	O que temos ali?
@@ -239,7 +239,7 @@
 1542979841	Nós poderíamos estar cavalgando agora.
 435113100	Cavalgamos quando Frank diz para cavalgar.
 1410192652	Quem são esses caras, afinal?  Isso é besteira.
-272270312	Não sei. Ouve-se coisas desagradáveis ??sobre aquele tal de McCoy.
+272270312	Não sei. Ouve-se coisas desagradáveis?? sobre aquele tal de McCoy.
 1109781748	Certo! Mas ele não vai pegar todos nós.
 1049087038	Ele não virá sozinho também.
 1830697416	Eu acho que Frank está ficando louco.
