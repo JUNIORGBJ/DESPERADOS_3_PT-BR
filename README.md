@@ -1,7 +1,7 @@
 [![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discord.gg/HESMuU2)
 
 
-### :warning:Atenção:warning: Tradução em revisão:warning:
+<h1 align="center">:warning:Atenção:warning: Tradução em revisão</h1>
 
 ***Nossa tradução foi feita por Fans e não por profissionais da area. No momento a tradução está em fase de revisão. Agradeço a quem teve a paciência em nos ajudar nesse projeto. Não somos fluente no idioma inglês então podem conter muitos erros. Aguardem as atualizações diárias com correções de diálogos.***
 
