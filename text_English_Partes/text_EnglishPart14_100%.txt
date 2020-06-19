@@ -66,7 +66,7 @@
 1422168245	Ei! Deixe um pouco para nós, sim?
 1958744351	Bastardo bebeu tudo, he, he, he.
 2078299011	Vou me divertir um pouco com aquele cara do Wayne.
-1509218974	Ouvi dizer que ele é um delgado ou algo assim.
+1509218974	Ouvi dizer que ele é um delegado ou algo assim.
 1969518147	Já não é, ele é ele.
 941523875	Você acha que DeVitt está vindo para cá?
 464502605	Não. Pessoas ricas como ele não sujam os sapatos.
@@ -146,11 +146,11 @@
 304756772	Wayne? Não que eu saiba.
 400518916	Faz sentido.
 1452111030	Espere aqui. Deixe quando a costa estiver limpa.
-1196846099	Bem, você é uma visão para olhos doloridos, estranho. Delgado Wayne, ao seu dispor.
+1196846099	Bem, você é uma visão para olhos doloridos, estranho. delegado Wayne, ao seu dispor.
 1192149446	Há uma mulher voodoo te procurando.
-160627544	Espere, você disse "delgado"?!
+160627544	Espere, você disse "delegado"?!
 1119181442	Com certeza, amigo. Vamos sair daqui.
-1677647722	Espero que você tenha alguma sorte, delgado. Vamos esperar até que seja seguro correr.
+1677647722	Espero que você tenha alguma sorte, delegado. Vamos esperar até que seja seguro correr.
 23696602	Isabelle!
 537540583	Wayne! Você parece algo que o gato usa!
 1653558980	Eu sabia que você não me deixaria apodrecer. Vamos sair daqui.
@@ -221,7 +221,7 @@
 2020914219	Agora Frank sabe que estamos chegando.
 144105785	Filho...
 734548261	Realmente não acho que seja uma boa ideia ir atrás dele agora.
-1204234648	Com todo o respeito, delgado, isso não é da sua conta.
+1204234648	Com todo o respeito, delegado, isso não é da sua conta.
 1035161825	Por que não esperar até que as coisas se acalmem?
 91022030	Sim. Estabeleça um plano adequado.
 408664922	Está bem. Hector e eu podemos lidar com isso.
@@ -229,14 +229,14 @@
 1331179360	Hey Kate. Nossa sunshine te encontrou bem?
 1157283445	Não me diga que você teve alguma dúvida.
 310260247	Você deve ser o Wayne. Kate O'Hara.
-753076254	Delgado Wayne, a seu serviço.
-2106651962	Delgado?!
+753076254	delegado Wayne, a seu serviço.
+2106651962	delegado?!
 26992097	Como você nunca nos contou, Isabelle?
-1868225304	Bem, ele não era um delgado na primeira vez que nos conhecemos.
+1868225304	Bem, ele não era um delegado na primeira vez que nos conhecemos.
 524697879	De qualquer forma, eu diria que é melhor começarmos as coisas agora.
 1755033369	Devo muito a todos, senhores.
 1826222432	Eu realmente espero poder retribuir o favor algum dia.
-172605929	Oh, você pode me pagar agora, delgado.
+172605929	Oh, você pode me pagar agora, delegado.
 2101720186	Implore seu perdão?
 1033720154	Bem... acho melhor esclarecer isso.
 998730654	Boa sorte, Cooper.
@@ -278,7 +278,7 @@
 12701244	Quem são esses criminosos?
 1912110629	Atacaram um cidadão íntegro. Mas nós vamos pegá-los.
 710461841	Aposto que eram as pessoas de cor ao lado.
-1312556794	Como é que você está aqui e não o delgado?
+1312556794	Como é que você está aqui e não o delegado?
 1888041617	Eu trabalho para o Sr. DeVitt, senhor. Mas estamos ajudando na aplicação da lei.
 2053058130	DeVitt é um homem tão bom. Sempre cuidando da comunidade.
 1275055805	Ouvi dizer que o Sr. DeVitt estava vindo para cá. Ele já chegou?
