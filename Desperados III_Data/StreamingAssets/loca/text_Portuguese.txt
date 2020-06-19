@@ -965,9 +965,9 @@ Portuguese	Português(BR)
 2024541266	Enquanto agachado ({0}), você pode mover-se com segurança pela área <skill>escura e listrada</skill> da visão de um inimigo./nEnquanto agachado em um <skill>telhado</skill>, você sempre ficara escondido para os guardas.
 645631705	Alarme
 1315509806	Certas ações farão com que os guardas toquem o <skill>alarme</skill>./nIsso faz com que os guardas saiam das <skill>casas de guarda</skill> e ficam marcados com um ícone./nDepois que o alarme disparar, os inimigos sobreviventes <skill>patrulharão a área</skill> permanentemente.
-1683052577	Usando Dynamite
-1385269576	Você pode pegar a <skill>dynamite</skill> do barril e jogá-la./nMire com {2} e jogue a dinamite usando {3}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
-1505140734	Você pode pegar a <skill>dynamite</skill> do barril e jogá-la./nMire com {1} e jogue a dinamite usando {2}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
+1683052577	Usando Dinamite
+1385269576	Você pode pegar a <skill>dinamite</skill> do barril e jogá-la./nMire com {2} e jogue a dinamite usando {3}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
+1505140734	Você pode pegar a <skill>dinamite</skill> do barril e jogá-la./nMire com {1} e jogue a dinamite usando {2}./nTenha cuidado: Ela explodirá na sua mão se você esperar demais.
 986016286	Roubar
 1040402450	Em certas missões, Kate pode <skill>roubar carteiras</skill> de inimigos./nTenha cuidado! Se ela for <skill>avistada</skill>, o alarme soará./nSegure {0} e selecione um alvo com {1}.
 1965673562	Em certas missões, Kate pode <skill>roubar carteiras</skill> de inimigos./nTenha cuidado! Se ela for <skill>avistada</skill>, o alarme soará./nAproxime-se do alvo e use {0} para roubar.
@@ -1257,7 +1257,7 @@ Portuguese	Português(BR)
 1722395276	Merda. Quem perdeu a porra da chave, afinal?
 799306384	Volto mais tarde com um machado.
 200422027	Ainda não vai ceder. Droga.
-960289221	Por que você não abre, seu pedaço de merda.
+960289221	Por que você não abre, seu merdinha.
 1143306891	Tem uísque lá dentro. Eu sei disso.
 967692626	Por que eu tenho que ficar aqui fora?
 677920504	Merda, eu realmente poderia dar um tiro agora.
@@ -1290,7 +1290,7 @@ Portuguese	Português(BR)
 2065162587	Não se atreva a me chutar, entendeu?
 1035198870	Diabo maldito. Estou de olho em você.
 1094668953	Ele quer me chutar. Eu sei isso.
-1860765847	Não Tente nada engraçado, está me ouvindo?
+1860765847	Não tente nada engraçado, está me ouvindo?
 1347961325	Se você me chutar, eu vou dar um tiro em seu traseiro.
 29525659	Eu odeio cavalos, Billy.
 947759493	Deixe-me, estou aqui.
@@ -1306,35 +1306,35 @@ Portuguese	Português(BR)
 1708426917	Bloqueado. Nenhuma surpresa lá.
 961203488	Bloqueado. Não há surpresas lá.
 2121242683	Tudo bem, filho. Hora de um desafio.
-1608020280	Vê aquela escada lá em cima? Eu preciso que você jogue para mim.
+1608020280	Vê aquela escada lá em cima? Eu preciso que você a jogue para mim
 1217893076	Bom trabalho! Esse é o meu garoto!
 669315966	Foi fácil!
 1808677364	Mantenha sua cabeça baixa. Há mais deles.
 1654110603	Você tem que encontrar uma maneira de se esconder.
-1661663094	Você ouviu falar de Lindberg? Foi ele que engoliu a última garrafa de Old Hutch.
-1165105379	Isso explica por que o velho bastardo dá tudo para ele.
-1479050419	O que você acha que ele fará? Chamá-lo para sair... para um duelo?
+1661663094	Você ouviu falar de Lindberg? Ela foi e tomou a última garrafa inteira do velho Hutch.
+1165105379	Isso explica por que o velho desgraçado vive no pé dela.
+1479050419	O que você acha que ele fará? Chamá-la... para um duelo?
 683057496	Você conhece o velho Hutch... O único amigo dele é a garrafa dele.
-679665959	Meu dinheiro estaria em Hutch. Ele é tão mau quanto eles vêm. Rápido também.
-2061201113	sim! E ele também está bêbado como um gambá. E ele tem esses shakes.
-2010416411	Cinco dólares por Hutch! O que me diz?
-710375432	É uma aposta. Uma peça desagradável de Lindberg para o trabalho.
-1586398938	Lindberg! Saia, seu ladrão de uísque!
-1872026001	Estou bem aqui, seu bêbado until. Vamos resolver isso.
+679665959	Eu apostaria no Hutch. Ele é tão mal quanto rápido.
+2061201113	Sim! E ele também é bêbado como um gambá. E ele tem esses tremores.
+2010416411	Eu coloco cinco dólares no Hutch! O que me dizem?
+710375432	É uma aposta. Lindberg é uma rapariga de personalidade bem desagradável.
+1586398938	Lindberg! Saia, sua porca rouba uísque!
+1872026001	Estou bem aqui, seu bêbado inútil. Vamos resolver isso.
 1298793123	Você ouviu isso? Está prestes a cair! Vamos!
 1577121988	Está na hora de você pagar por roubar o que é meu por direito!
-208492544	Você não me assusta, seu imbecil!
+208492544	Você não me assusta, seu pinguço!
 113944635	Aquela garrafa era a MINHA garrafa!
-1288348702	Você vai me matar com seu hálito horrível.
+1288348702	Vai desistir ou vai me matar com esse seu hálito miserável?
 1500668642	Ha! Muito devagar, sua vadia ladra. Tem o que você mereceu.
 58060641	Sim... Leve isso para o seu túmulo, seu bêbado inútil.
 1278130353	Olhos à frente, garoto! Esse duelo não nos diz respeito.
 1500641619	Vê aquele ali no fundo, perto do penhasco?
-867275810	Encontre uma maneira de distraí-lo com sua moeda, para que eu possa pega-los.
+867275810	Encontre uma maneira de distraí-lo com sua moeda, para que eu possa pegá-los.
 173700865	O outro, John.
 788470849	Ele ainda está respirando. Amarre-o rapidamente e antes que ele acorde.
 610402371	Cuidado!
-1693227310	Desculpe.
+1693227310	D-Desculpe.
 270329634	Não é um dia para perder a cabeça, filho. Apenas vá e esconda o corpo.
 6254567	Bom trabalho. Agora esconda-os nos arbustos.
 814465367	Aí garoto. Vamos lá.
@@ -1354,8 +1354,8 @@ Portuguese	Português(BR)
 1181643869	Da próxima vez, quem sabe.
 1437875326	Você disse a mesma coisa da última vez. Por que não posso ir com você? Apenas me dê uma arma!
 352432993	Uma arma, hein?
-503611392	Eu quero ver você espetar naquela árvore a quinze passos.
-205456903	Eu quero ver você espetar naquela árvore a dez passos.
+503611392	Eu quero ver você acertar aquela árvore a quinze passos.
+205456903	Eu quero ver você acertar aquela árvore a dez passos.
 1632727931	Quando você fizer isso, estará pronto para uma arma.
 975014210	Até mais, Johnnie.
 1900598656	VO TRACK
@@ -1379,23 +1379,23 @@ Portuguese	Português(BR)
 154743950	Suba no guindaste e solte a carga nos três guardas abaixo.
 460377644	Encontre seu pai
 1343983716	Seu pai está esperando na estátua. Vá se encontrar com ele. 
-1692289367	Limpe tudo, garotos! Pegue tudo que brilhar e qualquer coisa que um homem possa beber.
+1692289367	Façam a limpa na locomotiva, rapazes! Peguem tudo que brilhar e qualquer coisa que um homem possa beber.
 1929783850	Ha! Outro ponto para Big Ann!
 1205750566	Vamos lá, vamos mostrar quem é que manda!
 767721975	Merda! Proteja-se! 
-1475498398	Vem por aqui. Vamos flanquear ele.
+1475498398	Venha por aqui. Vamos espreitá-lo.
 960148853	Droga! Ele nos viu.
 1019127878	Ele está lá em cima! Pegue ele!
 1051935092	Não o deixe fugir!
 663715900	Atire neles, rapazes!
 2103050132	Ei, deixe um pouco para mim!
-1560468735	Pergunto, oque esta acontecendo aqui...
+1560468735	O que será que há por aqui...
 484933547	...!
-1907256786	Algo me diz que você não veio para acertar contas.
-1373445296	Parece que fizemos uma parada não planejada. É melhor eu descobrir o que está nos aguardando.
+1907256786	Algo me diz que você não está aqui para marcar bilhetes.
+1373445296	Parece que fizemos uma parada não planejada. É melhor eu descobrir o que está nos impedindo de prosseguir viagem.
 1643412661	VO TRACK
-951221264	Vou ter que chegar até a frente do trem.
-713753643	Tenho que tirá-lo daqui. Melhor jogar a faca.
+951221264	Vou ter que ir discretamente até a frente do trem.
+713753643	Tenho que derrubá-lo daqui. Melhor jogar a faca.
 1003845454	Teleféricos, carrinhos de mão. Cara, essas pessoas com certeza vieram preparadas.
 1162303225	Merda! Droga!
 796419796	Melhor chegar ao topo.
@@ -1424,8 +1424,8 @@ Portuguese	Português(BR)
 3876306	Mr. Cooper. Fui contratado para garantir que este trem chegue a Flagstone.
 1529002408	Eu apreciaria se você não estivesse no meu caminho.
 1820710576	Bem, agora Sr.....
-998996917	McCoy. Doctor McCoy.
-2140966376	Correto. Doctor McCoy. A meu ver, só há um caminho a seguir.
+998996917	McCoy. Doutor McCoy.
+2140966376	Correto. Doutor McCoy. A meu ver, só há um caminho a seguir.
 1640528482	E eu tenho que ir para Flagstone também.
 34942661	Como quiser. Mas não diga que eu não avisei.
 475419878	VO TRACK
@@ -1588,8 +1588,8 @@ Portuguese	Português(BR)
 1296821262	VO TRACK
 1076983379	Avance ao longo do trem
 447712959	Bandidos estão vigiando o trem. Vá para a frente.
-2094535640	Obtenha uma Dynamite
-362613368	Pegue um pedaço de dinamite do barril no platô.
+2094535640	Pegue a Dinamite
+362613368	Pegue um bastão de dinamite do barril no platô.
 1139826278	Limpe o túnel
 308496222	Os bandidos bloquearam o túnel. Use a dinamite para limpá-lo.
 1613884632	Encontre-se no ponto de encontro
@@ -3098,11 +3098,11 @@ Portuguese	Português(BR)
 1961107717	Ninguém explode nossa ponte e foge.
 692793106	Fique de olho na porta! 
 283288489	Ninguém está entrando aqui!
-1976578375	Foco, seu pedaço de merda!
+1976578375	Foco, seu merdinha!
 1127203636	Isso não vai acontecer no meu turno.
 1115120634	Garanta o maldito trem!
 78326914	Ligue o motor!
-1276707754	Pegue a Dynamite
+1276707754	Pegue a Dinamite
 1335003154	Encontre uma caixa de dinamite e pegue o que você precisa para explodir a ponte.
 704089349	Pedreira
 1544104025	Eles estão usando dinamite na pedreira. Está sendo armazenado em uma pequena cabana.
@@ -4895,7 +4895,7 @@ Portuguese	Português(BR)
 1711981189	Não podemos deixar que o bom material seja desperdiçado.
 1683647250	Ele vai trabalhar até a morte nas minas.
 710916016	Junto com seus amigos.
-1535498807	Seu pedaço de merda...
+1535498807	Seu merdinha...
 1405023782	...argh...
 528193204	VO TRACK
 660651684	Alcance o píer 9
@@ -6524,7 +6524,7 @@ Portuguese	Português(BR)
 256976524	...!
 1179149669	...!
 1617564281	Não há necessidade de sangrar.
-470405903	Isso farei de perto.
+470405903	Vou ficar mais próximo
 1667889064	Alguém está prestes a perder alguns dentes.
 1297460134	Pode vir.
 8101826	Eu posso levá-los.
@@ -6778,7 +6778,7 @@ Portuguese	Português(BR)
 94261056	Muito bem.
 871727664	Mantenha seus olhos abertos.
 1246721726	Claro, amigo.
-1112289709	Eu vou.
+1112289709	Eu entendi.
 1007467624	Pode fazer.
 127388188	Vamos acender isso!
 188191931	Gostei!
@@ -8409,7 +8409,7 @@ Portuguese	Português(BR)
 2141638710	Isso é... realmente pesado.
 1699288412	Ok, para onde?
 394982435	Certo. Sem problemas.
-2099790094	Deixe para mim.
+2099790094	Deixe comigo.
 1189081317	A caminho.
 763245685	É agora ou nunca.
 557704481	Certo. Vamos lá.
