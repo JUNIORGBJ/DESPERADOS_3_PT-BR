@@ -850,8 +850,8 @@ Portuguese	Português(BR)
 1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da Companhia DeVitt, que estavam aterrorizando os locais. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
 842780950	Propriedade de Higgins
 1899333205	Até que a morte nos separe
-1739483129	O homem que eles chamam de Frank está na propriedade do prefeito Higgins. John Cooper encabeça, sem saber que alguém está se preparando para o casamento dela lá.
-807976695	A meia hora de viagem até a montanha, a partir de Flagstone, fica a recém-construída propriedade do prefeito Higgins./n/nTendo chegado a uma riqueza considerável após certos acordos com a Companhia DeVitt, Higgins não poupou custos para equipar sua humilde morada com os mais modernos confortos e luxos./n/nRecentemente, toda a propriedade está ocupada com os preparativos do casamento. O prefeito Higgins, depois de anos de repreensão, finalmente convenceu o amor de sua vida a dar o nó./n/nSem o conhecimento dele, no entanto, a noiva tem seus próprios planos para o grande dia.
+1739483129	O homem que eles chamam de Frank está na propriedade do prefeito Higgins. John Cooper vai nessa direção, sem saber que um certo alguém por lá está se preparando para o casamento dela.
+807976695	A meia hora de viagem pela montanha, a partir de Flagstone, fica a recém-construída propriedade do prefeito Higgins./n/nTendo chegado a uma riqueza considerável após certos acordos com a Companhia DeVitt, Higgins não poupou custos para equipar sua humilde morada com os mais modernos confortos e luxos./n/nRecentemente, toda a propriedade está ocupada com os preparativos do casamento. Depois de anos de recusa, finalmente o prefeito Higgings convenceu o amor de sua vida a estreitar os laços./n/nSem o conhecimento dele, no entanto, a noiva tem seus próprios planos para o grande dia.
 1283415255	Kate O'Hara enganou o prefeito Higgins, acreditando que ela se casaria com ele. Seu objetivo real é ganhar acesso ao escritório dele, onde ela quer recuperar algo de grande valor./n/nTudo o que ela precisa é uma chave e uma oportunidade./n/nEnquanto isso, Cooper e Hector também estão indo para a propriedade do prefeito. Cooper entra sorrateiramente em busca do homem que eles chamam de Frank. Ele decide ir para o gabinete do prefeito./n/nSe as coisas derem errado, ele terá que fazer uma saída rápida.
 2019794291	Rancho O'Hara
 290492088	Os Cinco Magníficos
@@ -872,7 +872,7 @@ Portuguese	Português(BR)
 1291349659	Um inferno de uma noite
 2081499567	Depois de algumas semanas de viagem, a turma passa a noite em um salão de Baton Rouge. As costas estão descansadas e as histórias são compartilhadas sobre alimentos e bebidas. Muitas e muitas bebidas.
 2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nA turma está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar um salão, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
-418625396	Depois de uma noite selvagem no salão, a gangue acorda apenas para encontrar a cidade de Baton Rouge em desordem e os homens do delegado caçando por eles./n/nNinguém tem idéia do que aconteceu, e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca em massa, eles decidem se concentrar no básico: encontre o Doc e dê o fora daqui.
+418625396	Depois de uma noite selvagem no salão, a gangue acorda apenas para encontrar a cidade de Baton Rouge em desordem e os homens do xerife caçando por eles./n/nNinguém tem idéia do que aconteceu, e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca em massa, eles decidem se concentrar no básico: encontre o Doc e dê o fora daqui.
 458741708	Rio Mississippi
 1471672407	Louisiana Voodoo
 841222571	Após sua pequena pausa em Baton Rouge, a turma está agora em um barco descendo o Mississippi. Seu destino: a movimentada cidade de Nova Orleans.
@@ -1225,7 +1225,7 @@ Portuguese	Português(BR)
 1873777461	Se você deseja navegar rapidamente pelo nível de teste, dê uma olhada no log de dicas. Espero que este pequeno tutorial tenha respondido a todas as perguntas. Para mais perguntas, pergunte a Toby. É isso por agora: testes felizes e que Deus abençoe meu amigo! *Bob Ross quote end*
 941720566	Tutorial
 1934154351	A cena a seguir apresentará uma breve introdução ao nível de teste do controle de qualidade. Em outras perguntas, pergunte a Toby!
-2029272716	Cabeçalho do objetivo
+2029272716	Título do Objetivo
 1576341048	Descrição do objetivo
 1421448555	R1 - Sala de teste
 69348585	Todos os inimigos, formações, zonas neutras.
@@ -1498,7 +1498,7 @@ Portuguese	Português(BR)
 1322432559	Você está demorando ou o quê?
 1410962525	Precisamos dessa chave para o cofre.
 1085771153	Eu posso sentir o cheiro. Aquele, doce, doce dinheiro.
-1638431021	Sem dúvida. Mantenha a cabeça baixa, ou eu vou explodi-lo..
+1638431021	Sem dúvida. Mantenha a cabeça baixa, ou eu vou explodi-la.
 1540093329	Hah, e você pensou que poderia revidar. Agora olhe para você!
 2143608143	É melhor você nos dar tudo ou vamos procurar seus corpos mais tarde.
 1812276984	Você vai conhecer Big Ann em breve. Você não está animado?
@@ -1680,7 +1680,7 @@ Portuguese	Português(BR)
 1852126838	Ótimo plano que você tem lá.
 385726871	guardas demais para um quintal.
 2129972192	Jarvis e seus homens estão por aqui. Certamente ele estará com o touro novamente.
-1962085150	Então é melhor manter a cabeça baixa quando estivermos dentro
+1962085150	Então é melhor mantermos as cabeças baixas assim que entrarmos.
 1251247827	Hah! Ele realmente acha que pode montar esse touro!
 1012726449	Então vocês dois brigaram e agora ele quer você morto?
 868584661	Parece que Jarvis está mexendo com esse touro o dia todo.
@@ -1769,7 +1769,7 @@ Portuguese	Português(BR)
 493464044	Qual de vocês imbecis construiu isso? DeVitt ficará furioso!
 790174616	Você olhou para os planos? Quem fez isso, você está demitido!
 494269375	A mudança acabou, McBane.
-457395387	O delegado não está aqui desta vez, McBane.
+457395387	O xerife não está aqui desta vez, McBane.
 1246625244	É isso aí. Tudo feito.
 229843799	Lá se vai o último.
 180798282	Satisfeito agora? Você será capaz de dormir à noite?
@@ -2064,7 +2064,7 @@ Portuguese	Português(BR)
 2035275044	Droga. Parece que Frank não está mais aqui.
 576632710	Tudo bem, novo plano. Encontre o prefeito e descubra para onde Frank foi.
 1540788717	Parece chique aqui. Quer saber quem vai se casar?
-737427389	Melhor manter minha cabeça baixa. Não quero quebrar nenhuma dessas coisas finas.
+737427389	Melhor manter minha cabeça baixa. Não iria querer quebrar nenhum itens luxuosos.
 1895276229	Bem aconchegante aqui. Parece que o prefeito está se saindo bem. 
 114689045	Algo está acontecendo naquele quarto. Vamos dar uma olhada.
 1932598923	Este é um dos presentes de casamento mais estranhos que já vi em toda a minha vida.
@@ -2328,7 +2328,7 @@ Portuguese	Português(BR)
 2096059088	Vamos derrubar esta casa.
 1696570090	Filho da puta louco.
 600949272	Você não está chegando a lugar nenhum seu merda, seus fodidos corporativos!
-750683171	Deixe vir! Temos muita munição aqui em cima.
+750683171	Deixe-os vir! Temos muita munição aqui em cima.
 848772340	Heh, isso está começando a ficar interessante.
 459879105	Vamos lá, isso é tudo que você tem?!
 1061802792	Sem dúvida! Aqui em cima!
@@ -2349,7 +2349,7 @@ Portuguese	Português(BR)
 2137015596	ouça, aqui está o plano. Vamos fazer uma pilha enorme de palha e acendê-la.
 482458506	Por que não apenas queimar o celeiro?
 434562070	Bem, quem está dando as ordens aqui, você ou eu? 
-67913753	Empilhe aqui em cima. Atear fogo ao estábulo quando terminar.
+67913753	Empilhem aqui em cima. Ateiem fogo no estábulo assim que terminarem.
 193903206	Ei, onde está o Frank? Pensei que ele é o chefe por aqui, não vocês.
 1171499585	Cale a boca! Ele está indo para Nova Orleans. Agora, comece a trabalhar - não temos a noite toda.
 1965000017	Há o galpão. Se ele ainda estiver lá dentro, é melhor eu dar uma olhada lá.
@@ -2998,10 +2998,10 @@ Portuguese	Português(BR)
 519723968	Esses caras não seriam capazes de atingir uma baleia.
 604204655	Suas armas são de baixa qualidade... e enferrujadas.
 260433494	O que me diz cavalheiros? Você acha que encontraremos dinamite naquele pequeno barracão?
-32853892	Teremos que abrir a porta primeiro.
+32853892	Teremos que destrancar a porta primeiro.
 1057538575	Apenas certifiquem-se de me dar cobertura para que eu possa abrir a fechadura.
-2023607830	Você está tentando bater nelas?
-972631478	Vá encontrar uma égua e enfie a cabeça na bunda dela, Mundy!
+2023607830	Você está tentando errar ou acertar as garrafas?
+972631478	Vá encontrar uma égua e cuidar dessa sua vida patética, Mundy.
 1198467201	Sim! Nós estamos praticando.
 1923955990	Bem, então, seja meu convidado. A prática leva à perfeição.
 1362731343	Você acertou na montanha! Já é alguma coisa.
@@ -3115,7 +3115,7 @@ Portuguese	Português(BR)
 2036498134	Encontre-se no trem
 404539240	Hector está esperando por você no trem. Reúna todos lá e fuja.
 1529195657	Vagoneta
-1283000525	Parece que esse essa vagoneta pode ser esvaziado na cabeça de alguém.
+1283000525	Parece que essa vagoneta pode ser esvaziado na cabeça de alguém.
 853128941	Troncos soltos
 1657385379	Estes troncos soltos mal conseguem se sustentar devido à fragilidade da placa de madeira.
 1138078354	Serra automática
@@ -3234,7 +3234,7 @@ Portuguese	Português(BR)
 488904519	Na verdade... eu nem me lembro de como cheguei aqui... ugh...
 1930594328	...ou como nos conhecemos.
 2121783391	Hehe, você não se lembra de nada, lembra?
-1631687239	Sou Rosie, a esposa do delegado.
+1631687239	Sou Rosie, a esposa do xerife.
 693817541	Eu... preciso mesmo encontrar meus amigos agora.
 1981144447	Bianca...
 563836146	O que há de errado, querida? Perdeu alguma coisa no calor da noite?
@@ -3267,7 +3267,7 @@ Portuguese	Português(BR)
 2135184052	O que você é, um moicano?
 310638060	Vá se depilar, Hawkins.
 968169133	Não tem ninguém aqui.
-225376933	Você quer ir ao delegado e dizer isso a ele?
+225376933	Você quer ir ao xerife e dizer isso a ele?
 709127354	De jeito nenhum! Ele está com vontade de enforcar alguém.
 2137721353	Continuamos procurando até encontrar alguém.
 1797298500	Por que eles fizeram isso de qualquer maneira?
@@ -3279,7 +3279,7 @@ Portuguese	Português(BR)
 1021256014	Ugh... Parece que fui chutado por um cavalo.
 530886839	Kate! Acorde.
 1344104697	Ei Kate! Você comigo?
-730046734	Deus! Minha cabeça está aberta.
+730046734	Deus! Minha cabeça vai explodir.
 899359207	Cadê o Doc?
 254775759	Precisamos conversar com parceiros.
 668724194	Ops! Desculpe, senhora.
@@ -3310,7 +3310,7 @@ Portuguese	Português(BR)
 1614108276	Ei! Há um torneio de poker amanhã.
 1917005219	Já pensou em um concorrente?
 1503626948	Eu te venci ontem à noite. Aposto que você esqueceu.
-1985589116	E o canhão do delegado disparou sozinho e explodiu a torre de água.
+1985589116	E o canhão do xerife disparou sozinho e explodiu a torre de água.
 655569411	Por si próprio? Desde quando os canhões disparam por conta própria?
 1248339686	Por que alguém fez uma coisa dessas de propósito?
 2120877139	Chamada sombria, Barney! Os mortos ressuscitam e tudo isso.
@@ -3377,7 +3377,7 @@ Portuguese	Português(BR)
 2024803270	Eu vi o bastardo. Vestindo um casaco preto comprido e grandes chifres, como os do boi.
 136615385	Como vamos trancar o diabo?
 868949280	Deveríamos ligar para o pastor. Ele saberá o que fazer.
-1594392271	Talvez. O delegado parece estar passando por cima de sua cabeça, ignorando nossas teorias e tudo.
+1594392271	Talvez. O xerife parece não estar dando ouvidos, ignorando nossas teorias e tudo.
 1479984106	Bem... Acho que devemos deixar isso onde ele pertence.
 1356569465	Hmm... Vamos deixar isso aqui para guardar em segurança.
 1009113621	É uma pena, mas isso não é nosso para a manutenção.
@@ -3427,9 +3427,9 @@ Portuguese	Português(BR)
 1256672804	NÃO! Nenhuma das suas bobagens é. Vá embora.
 326811039	Joshua, por favor...
 41566168	Eu te disse: Pare!
-1173960067	Então ele é o delegado?
-924426452	Aí está o delegado.
-651354632	Aqui está o delegado.
+1173960067	Então ele é o xerife?
+924426452	Aí está o xerife.
+651354632	Aqui está o xerife.
 329328324	Me pergunto o que ele tem a dizer...
 2133212800	Agora deixe-me ver se entendi...
 705175938	Metade de vocês estão dizendo que o próprio Satanás roubou nosso banco.
@@ -4042,10 +4042,10 @@ Portuguese	Português(BR)
 1855107592	Vamos nos encontrar em um bom lugar e ouvir.
 880438370	Oh, eu conheço esse cheiro.
 1071451308	Cheira a uma casa de ópio.
-1715461989	A toca do dragão. Parece emocionante. Vamos dar uma olhada lá em cima.
+1715461989	A Caverna do Dragão. Parece emocionante. Vamos dar uma olhada no andar de cima.
 789067316	Certo. Apenas não prove a mercadoria. Isso irá mexer com sua cabeça.
 1342473463	Ugh... me sinto tonto.
-1062804395	Te disse que isso iria à sua cabeça.
+1062804395	Eu disse que isso te subiria à cabeça.
 244970856	Vamos pegar o disfarce e sair deste lugar.
 1526696303	Oh hoh! Querida, você veste essa coisa com a classe.
 1442340726	Obrigado, querida.
@@ -4210,7 +4210,7 @@ Portuguese	Português(BR)
 590231831	Temos que consertar isso antes que o chefe apareça, entendeu?
 1328189828	Que tipo de idiota anotou esses números? Consertá logo.
 718126977	É melhor você me explicar isso antes que eu enlouqueça!
-253220439	Alguém tem que cuidar dessa bagunça, você me pegou?
+253220439	Alguém tem que cuidar dessa bagunça, entendeu?
 464338604	Isso ainda não foi feito. Temos que fazer a cota, entendeu?
 463064814	Eu tenho algo. Algum tipo de carta...
 1098183291	Tudo bem... Outra carta.
@@ -4299,7 +4299,7 @@ Portuguese	Português(BR)
 1514509022	Ainda bem que não conseguimos a mudança de porto.
 1309442366	Já esteve no Chez Manu?
 1812567349	Você está me cortejando, Louie?
-808863412	Por que eles chamam de Queen's Nest afinal?
+808863412	Por que eles chamam de Ninho da Rainha afinal?
 2005629159	Nenhuma idéia. Talvez eles tenham vespas lá ou algo assim.
 2103171610	Você sabe, às vezes parece que estamos sendo vigiados.
 1455594738	Você nunca para de falar, não é?
@@ -4322,7 +4322,7 @@ Portuguese	Português(BR)
 1677552956	Bem. Vamos voltar.
 449474010	O que temos então?
 1980407959	Algo sobre uma remessa. Parece que eles trouxeram Wayne para fora da cidade.
-1297036403	Ao "Queen's Nest"!
+1297036403	Ao "Ninho da Rainha"!
 570706827	O que é isso?
 2035999352	Um Pântano. Isso não pode ser bom.
 310911371	Então terminamos aqui?
@@ -4433,7 +4433,7 @@ Portuguese	Português(BR)
 530999012	Estamos quase lá. E há o comitê de boas-vindas.
 391549281	Ei, não é divertido se eles não colocam alguns caras no seu caminho.
 560262577	Oh, você chama isso de alguns? Quem te ensinou a contar?
-230156137	Eu fiz. Lá, essa deve ser a entrada para o Queen's Nest. 
+230156137	Eu fiz. Lá, essa deve ser a entrada para o Ninho da Rainha. 
 1729662051	Não vamos conseguir passar sem os outros.
 987727232	Então é melhor esperar que os outros não se percam.
 923629017	Veja os guardas? Tem que ser isso.
@@ -4499,23 +4499,23 @@ Portuguese	Português(BR)
 566432768	Sabe, pensei que nos livramos da escravidão há um tempo.
 547737395	É por isso que eles chamam de "aluguel de condenado" agora.
 2016914504	O que deveria ser isso?
-1291492756	Digamos que a companhia DeVitt  o tire da estrada e seja condenado por vadiagem. 
-239733619	Como condenado, eles o concedem ao maior lance até que você decida sua sentença.
+1291492756	Digamos que a companhia DeVitt o tire da estrada e consiga que você seja condenado por vadiagem. 
+239733619	Como condenado, eles te alugam a quem ofertar o maior lance até que você cumpra sua pena.
 1659475668	Soa como escravidão para mim.
 1728484103	A diferença é insignificante.
-2083170775	Este lugar me dá vontade.
-594152490	Sim. Certamente contente que tenhamos aquelas paredes ao redor do Nest.
+2083170775	Este lugar me dá calafrios.
+594152490	Sim. Felizmente temos aquelas paredes ao redor do Ninho.
 202155042	Não gostaria de passar uma noite aqui fora.
-1454660690	Que faz de nós dois.
+1454660690	Eu também sinto o mesmo.
 996639398	Você ouviu falar do velho Earl? Pobre rapaz que caiu de um barco?
 2114955412	O que aconteceu com ele?
-747483830	Salpicos na água. Nunca mais voltei. Sem sangue, sem nada.
+747483830	Caiu na água. Nunca mais voltou. Sem sangue, sem nada.
 2087442948	Estranho. Earl é um bom nadador.
 305838969	Você sabe o que? Eu acho que as bruxas do pântano o pegaram.
 445767501	Como os que vieram para Baton Rouge?
-371577210	Uh huh. Talvez eles estejam levando pessoas. Capturá-los para algum propósito sinistro.
-476853523	Eles não estão me pegando sem lutar!
-1615479233	Fácil como torta.
+371577210	Uh huh. Talvez eles estejam levando pessoas. Capturando-as para algum propósito sinistro.
+476853523	Elas não me pegariam sem uma boa luta!
+1615479233	Tão fácil quanto tirar doce de uma criança.
 660148769	Heh, estamos dentro.
 1543987577	Bem, eu não vejo os outros. Significa que chegamos aqui primeiro.
 238910278	Ou talvez eles se perderam.
@@ -4569,10 +4569,10 @@ Portuguese	Português(BR)
 1884614326	Desculpe ser um fardo. Eu estou sem arma.
 414793650	Contanto que você consiga acompanhar, tudo bem.
 1556384979	Se você não precisar agora, pode me emprestar a Buntline.
-1837007047	Se eu levar um tiro na cabeça, é seu. Senão, fica comigo.
+1837007047	Se eu levar um tiro na cabeça, ela será sua. Do contrário, fica comigo.
 2015781415	O River Queen. Deve ter sido uma beleza em seus dias.
 1387989918	Esse é um belo barco a vapor. Como ele ficou presa aqui?
-422182605	Se este é o Queen's Nest, acho que faz dela a Queen.
+422182605	Se este é o Ninho da Rainha, acho que faz dela a Queen.
 1550681455	O River Queen, huh?
 2054753324	Isso é muita madeira velha. Só precisa de um pouco de óleo e uma bela tocha flamejante.
 1264776285	Concordo. Vamos mandar essa cadela para o inferno onde ela pertence.
@@ -4580,7 +4580,7 @@ Portuguese	Português(BR)
 388686307	Faz isso pelo petróleo.
 1234981256	Boa. Agora vamos pegar fogo.
 391215177	Olhe para ele ir!
-14184608	Eu chamaria isso de churrasco da Louisiana.
+14184608	Eu chamaria isso de churrasco a moda Louisiana.
 1947094530	Esse fogo não se apagará por um tempo.
 334527012	A justiça é servida.
 1097581157	Há uma visão para aquecer um coração velho.
@@ -4612,8 +4612,8 @@ Portuguese	Português(BR)
 1448160974	Procure o Wayne aqui.
 880926010	Gaiola C
 910307213	Procure o Wayne aqui.
-1767642942	Colocou o Queen em chamas
-1711852069	O River Queen é o navio mais antigo que funciona como o coração da base. Queime no chão.
+1767642942	Colocar o Queen em chamas
+1711852069	O River Queen é o navio a vapor mais antigo que funciona como o coração da base. Queime-o totalmente.
 1869799317	Quebrar o barril de petróleo
 1699007547	Abra o barril de óleo com o machado de Hector.
 436269072	Pegue uma tocha
@@ -4686,7 +4686,7 @@ Portuguese	Português(BR)
 12701244	Quem são esses criminosos?
 1912110629	Atacaram um cidadão íntegro. Mas nós vamos pegá-los.
 710461841	Aposto que eram as pessoas de cor ao lado.
-1312556794	Como é que você está aqui e não o delegado?
+1312556794	Como é que você está aqui e não o xerife?
 1888041617	Eu trabalho para o Sr. DeVitt, senhor. Mas estamos ajudando na aplicação da lei.
 2053058130	DeVitt é um homem tão bom. Sempre cuidando da comunidade.
 1275055805	Ouvi dizer que o Sr. DeVitt estava vindo para cá. Ele já chegou?
@@ -4771,7 +4771,7 @@ Portuguese	Português(BR)
 80702425	Oh não! Porra, estraguei tudo.
 1152265814	Você está bêbada, senhora?
 1980030479	Sim. Bêbada como um gambá, he, he. Tem algum problema com isso?
-2078706220	Não acredito que você está trabalhando para o delegado.
+2078706220	Não acredito que você está trabalhando para o xerife.
 585620394	Oh, é melhor você acreditar que é parceiro. Temos todos os papéis.
 1321738850	Os bastardos apenas pegaram a fechadura do escritório.
 1229352555	Aposto que Frank não estava contente com isso.
@@ -4801,7 +4801,7 @@ Portuguese	Português(BR)
 714126194	Não devemos conversar sobre isso.
 1806619748	Quero dizer, o homem era burro como um tijolo, mas ainda assim...
 593162373	Frank tem estado estranho ultimamente. Talvez ele esteja finalmente perdendo.
-843777318	Cuidado. Frank disse que eles poderiam vir aqui depois do que aconteceu no Nest.
+843777318	Cuidado. Frank disse que eles poderiam vir aqui depois do que aconteceu no Ninho.
 1366766968	Entendi, chefe. Vou manter meus olhos abertos.
 246484724	Há um grande cara com eles. Cuidado com ele - ouvi dizer que ele é duro.
 1011762172	Tudo bem, eu vou tomar cuidado.
@@ -4809,7 +4809,7 @@ Portuguese	Português(BR)
 1147105472	OK! Eu vou ficar aqui.
 1459970057	Fique alerta! Esses caras estão causando muitos problemas.
 839411700	Vou manter meus olhos abertos.
-1756631365	A última vez que os vimos foi no Nest. Frank diz que eles podem vir aqui. 
+1756631365	A última vez que os vimos foi no Ninho. Frank diz que eles podem vir aqui. 
 2019980298	Espero que sim, he he.
 1435054417	Fique vigilante! Quem sabe o que esses idiotas estão fazendo.
 1871452352	Está sob controle, chefe.
@@ -4851,7 +4851,7 @@ Portuguese	Português(BR)
 300423727	Olha, não vai se mexer. Você pode me ajudar aqui?
 61241591	Ha! De jeito nenhum. Você fez a bagunça, você vai consertar.
 70587762	Tem certeza de que não quer ajudar? O chefe estará aqui em breve.
-1011506189	Não estou com a cabeça na pedra, então é melhor você se apressar.
+1011506189	Estou com a corda no pescoço, então é melhor você se apressar.
 1797514472	Não.
 1917057043	Não é o caminho certo.
 1760949520	Assim não.
@@ -5183,29 +5183,29 @@ Portuguese	Português(BR)
 1688956331	Você achou isso?
 267081196	Ainda não. Tenho certeza que perdi por aqui em algum lugar.
 533668900	Como diabos você "perde" um dente de ouro, seu idiota?
-1344476213	O trem está chegando. Levante seu traseiro da linha.
+1344476213	O trem está chegando. Tire seu traseiro da linha.
 1593569900	Então, como você a perdeu?
-1727713983	Quebrou minha cabeça nos trilhos, duh. Jeesus!
+1727713983	Caí de cabeça nos trilhos, duh. Jeesus!
 1888250129	O que? Quão? Por que diabos você fez isso?
 1455771679	Trem. Trem! Vamos, mexa-se!
 142048326	Então, como diabos você bateu sua cabeça nos trilhos?
 1825482064	Eu estava bêbado, ok? Agora cale a boca - eu preciso do meu dente de ouro. Droga.
 2113775609	Heh heh, pensamos a mesma coisa.
 1467008996	Hah... merda. Estou encharcado. 
-1955545827	Já cansado? Vamos lá, eu vou te mostrar como é feito.
-1765165076	Ei, merda! Você está apenas mudando a sujeira!
+1955545827	Já se cansou? Vamos lá, eu vou te mostrar como se faz.
+1765165076	Ei, merda! Você está apenas trocando a sujeira de lugar!
 381237179	Você acha que pode fazer melhor? Seja meu convidado.
 628505397	Hah... Jesus... me ajude aqui.
 271460853	He, he, reclamando como a minha avó.
 1072556048	Por que temos que cavar esse buraco idiota de qualquer maneira?
 371455958	Não sei, não me importo.
-1606235648	Estavam em.
-34501587	Que lixo. Heh, me lembra de voltar para casa no Texas.
+1606235648	Entramos.
+34501587	Que lixo. Heh, me lembra da minha casa no Texas.
 63273188	Não tinha imaginado que você era do Texas.
-153673205	Nascido e criado. Nenhum lugar como em casa, estou certo?
+153673205	Nascido e criado. Nenhum lugar como nossa casa, não é?
 182200415	Verdade.
 1111178410	Vamos garota. Sou cliente.
-1893836248	Estou fora do turno, imbecil. Recuar.
+1893836248	Estou de folga, imbecil. Cai fora.
 283633755	Você continua ficando mais bonita.
 1472601243	E sua respiração continua ficando mais desagradável.
 588172176	Você não pode ver? Estou com sede aqui fora.
@@ -6223,7 +6223,7 @@ Portuguese	Português(BR)
 1546414395	Lá vai o nosso passeio para Nova Orleans.
 1323253740	Este lugar é um labirinto.
 1954104332	Eu odeio o pântano. Muitas cobras.
-2125316927	Então, esse é o Queen's Nest, não é?
+2125316927	Então, esse é o Ninho da Rainha, não é?
 1873306400	Eu não me importo de destruir este lugar.
 320729088	Hora da vingança.
 639574754	Frank está esperando.
@@ -6590,7 +6590,7 @@ Portuguese	Português(BR)
 481181933	Pegando um peixe em um barril.
 2021715783	Adios, amigos.
 1508336640	Nossa, eu sou bom..
-2007900503	Alguém chama o agente funerário.
+2007900503	Alguém chame o agente funerário.
 1167027459	Nada disso.
 544386625	Nenhum ficou de pé.
 1089710076	Ligue para o agente funerário.
@@ -7066,7 +7066,7 @@ Portuguese	Português(BR)
 1747943942	Oh, eu preciso de um.
 63588442	Não posso ficar mais de ressaca.
 916216833	Um pequeno estímulo.
-2099940469	Um para curar a dor de cabeça.
+2099940469	Um contra a dor de cabeça.
 2105176931	Obrigado Doc.
 2012563396	Agradecido, Doc.
 629545898	Bom trabalho, Doc.
@@ -7660,7 +7660,7 @@ Portuguese	Português(BR)
 1865569410	De jeito nenhum.
 986703905	Não é assim, não.
 1850790560	Talvez haja um atalho?
-57499880	Uh... eu não tenho cabeça para desvios...
+57499880	Uh.. eu não gosto de desvios...
 215288243	Ugh... acho que o caminho está bloqueado.
 1318555555	Estou vendo errado ou esse caminho está bloqueado?
 1302862243	Não é possível fazer isso.
@@ -7760,7 +7760,7 @@ Portuguese	Português(BR)
 1030618357	Sentimento curioso.
 1689531370	Alguém está assistindo.
 148219412	É ela?
-674560741	Fora da minha cabeça, querida.
+674560741	Não faço ideia, querida.
 776871806	Quem é ela?
 1918910746	Algo está errado com ela.
 601932199	Ela tem um segredo.
@@ -9158,7 +9158,7 @@ Portuguese	Português(BR)
 221888240	Tem mais alguém...
 186651866	Você disse meu nome?
 644373676	Não consigo... pensar... direito...
-710509619	Toque em sua cabeça...
+710509619	Bata sua cabeça...
 1177838122	Divida seu crânio...
 2130288067	Quem precisa de armas...
 81023788	Pronto para uma surra...
@@ -10554,7 +10554,7 @@ Portuguese	Português(BR)
 1604851240	É a gangue de Cooper!
 2030696735	Você não está me entendendo!
 1270946047	Você veio até aqui para morrer?!
-984117056	Vejo você, vaqueiro!
+984117056	Vejo você, cowboy!
 1436082882	É o Cooper! Rápido!
 1621166818	É o Grandão, por aqui!
 1595709291	Hector! Ele está aqui!
@@ -10680,7 +10680,7 @@ Portuguese	Português(BR)
 4052396	Você está com medo de mim ou o que?
 1336973318	Fazer uma mulher esperar. Por que você não tem boas maneiras?
 2045956463	Tenha um pouco de respeito próprio e lute com uma dama!
-1172847170	Você quer brincar de vaqueiro, garoto?
+1172847170	Você quer brincar de cowboy, garoto?
 1232002198	Você é comida de abutre, seu moleque.
 1786509530	Você tem coragem, eu te dou isso.
 117686383	Não vou te machucar, prometo!
@@ -12287,7 +12287,7 @@ Portuguese	Português(BR)
 639343686	É a gangue de Cooper!
 804558457	Você não está me entendendo!
 1000019760	Você veio direto pra morte?!
-1155608019	Vejo você, vaqueiro!
+1155608019	Vejo você, cowboy!
 216551203	É Cooper! Rápido!
 2040731076	É o grandalhão!
 679923122	Hector! Ele está aqui!
@@ -12419,7 +12419,7 @@ Portuguese	Português(BR)
 760176937	Você está com medo de mim ou o que?
 1139457216	Deixar uma dama esperando. Você não tem educação?
 1264939014	O quê? Você está com medo de lutar com uma garota.
-1624693527	Você quer brincar de vaqueiro, moleque?
+1624693527	Você quer brincar de cowboy, moleque?
 1979837316	Você é comida de abutre, garoto.
 935753170	Você tem coragem, garoto, e eu quero vê-los no chão!
 1043674957	Eu não vou te machucar, muito!
@@ -13333,7 +13333,7 @@ Portuguese	Português(BR)
 1028617365	Oh, Frank vai gostar de você!
 228687275	Saia, garoto! Eu não mordo.
 939759355	He he, isso vai ser divertido.
-1485394384	O delegado quer falar contigo!
+1485394384	O xerife quer falar contigo!
 1055103250	Esta é uma investigação oficial!
 1932081705	Em nome da lei, apareça.
 752812300	Você sabe o que fazemos com encrenqueiros?!
@@ -13366,7 +13366,7 @@ Portuguese	Português(BR)
 2032919267	O Sr. DeVitt quer que você viria.
 805173068	Você nunca chegará ao Frank!
 371097815	Frank nos disse que você viria.
-1798108135	Eu não desistir sem lutar!
+1798108135	Eu não vou cair sem lutar!
 2066645179	Eu matei a minha parte dos caçadores de recompensa!
 1035280297	Alguém está escondido aí?
 409771881	Tudo bem, eu vou entrar!
@@ -14444,7 +14444,7 @@ Portuguese	Português(BR)
 1635847939	Oooh, eu estou bem...
 1260230884	Com certeza vejo tudo agora...
 299270225	Há mais alguém...
-992477477	Você me chama...
+992477477	Você diz meu nome...
 1387536295	Não consigo... pensar... diretamente...
 1531816012	Estou com medo...
 2130508719	Isso é assustador...
@@ -14977,7 +14977,7 @@ Portuguese	Português(BR)
 1884240485	Hummm, Estou ouvindo.
 1938557662	Prazer em falar com você.
 1132246034	Até a próxima.
-104729214	Cuidar.
+104729214	Cuide-se.
 71991034	Claro, boa sorte para você.
 1413869143	Senhor?
 1508741136	Eu, senhor?
@@ -15368,7 +15368,7 @@ Portuguese	Português(BR)
 1842569723	...
 934848180	...
 1820752068	Ai...
-654885450	Doce Jesus, minha cabeça...
+654885450	Ai meu pai do céu, minha cabeça...
 1304715791	O quê e quem...
 554121962	Uhm...
 1817559867	Um momento...
@@ -15851,7 +15851,7 @@ Portuguese	Português(BR)
 1385968309	...
 70178401	...
 1678350873	Ai...
-1983355356	Doce Jesus, minha cabeça...
+1983355356	Ai meu pai do céu, minha cabeça...
 1287395035	O que... Quem...
 2016920179	Uhm...
 604391259	Um momento...
@@ -16244,7 +16244,7 @@ Portuguese	Português(BR)
 1987592860	Ramona a Suja
 1125227931	Calamity Cem
 628363203	Maze Trapped Simon 
-475530897	delegado Dorian O'Really
+475530897	Xerife Dorian O'Really
 863655585	"Olhos de jaguatirica" Estela
 513846601	Phil Montanha
 948506850	Ol' Horseshoe Phil 
@@ -16493,7 +16493,7 @@ Portuguese	Português(BR)
 580926496	Ei, parceiro! Parece que a nova atualização esmagou seus jogos salvos. Acho que cabe a nós juntar o miserável novamente. Então, por que não nos divertimos um pouco com isso?
 1206716644	Vamos fazer isso!
 1579715971	Reconstruindo seu Jogo salvo
-641641696	Este é o acordo. Todo mundo que você matou ou amarrou em seu antigo Jogo salvo está novamente de volta. Não podemos deixar assim. É por isso que todos agora têm uma marca especial de morte. Assustador, certo?/nO que você pode fazer agora é clicar neles e deixar o fogo do inferno chover sobre suas cabeças. Parece divertido? Se você quiser vê-los bater as botas de uma só vez, basta selecionar "Ligue para o agente funerário!!", E nós faremos o resto./nOh, e não se preocupe com os objetivos da missão ou se sua gangue está segura. Nós já cuidamos disso.
+641641696	Este é o acordo. Todo mundo que você matou ou amarrou em seu antigo jogo salvo está novamente de volta. Não podemos deixar assim. É por isso que todos agora têm uma marca especial de morte. Assustador, certo?/nO que você pode fazer agora é clicar neles e deixar o fogo do inferno cair sobre suas cabeças. Parece divertido? Se você quiser vê-los bater as botas de uma só vez, basta selecionar "Ligue para o agente funerário!!", E nós faremos o resto./nOh, e não se preocupe com os objetivos da missão ou se sua gangue está segura. Nós já cuidamos disso.
 600060266	Ligue para o agente funerário!
 608942036	Dedo da morte
 36247045	Mate qualquer guarda marcado que seja usado.
