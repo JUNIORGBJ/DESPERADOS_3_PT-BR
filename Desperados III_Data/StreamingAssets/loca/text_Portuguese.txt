@@ -847,7 +847,7 @@ Portuguese	Português(BR)
 1786599235	Encrenqueiros em Flagstone
 111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meterem em encrencas.
 180909580	Aninhada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. A taberna que está vazia, exceto por alguns clientes regulares./n/nA garçonete serve um copo de uísque para ele e ele bebe enquanto espera que um velho amigo chegue.
-1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da Companhia DeVitt, que estavam aterrorizando os habitantes da cidade. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
+1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da Companhia DeVitt, que estavam aterrorizando os locais. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
 842780950	Propriedade de Higgins
 1899333205	Até que a morte nos separe
 1739483129	O homem que eles chamam de Frank está na propriedade do prefeito Higgins. John Cooper encabeça, sem saber que alguém está se preparando para o casamento dela lá.
@@ -857,7 +857,7 @@ Portuguese	Português(BR)
 290492088	Os Cinco Magníficos
 85886816	Os invasores da Companhia DeVitt atacarão o rancho O'Hara ao anoitecer. Cooper prometeu a Kate ajudá-la a defendê-lo.
 1643626384	Em um vale rochoso a oeste de Flagstone fica o Rancho O'Hara, uma fazenda considerável com vários tipos de colheitas e gado./n/nO rancho é administrado por Ian O'Hara, tio de Kate, além de vários agricultores. É o orgulho e a alegria do tio Ian, e tem sido a casa de Kate desde os nove anos de idade./n/nAgora esta casa está em perigo. Ao anoitecer, homens enviados pela Companhia DeVitt virão para assumir o rancho. Mas Kate e seu tio não vão cair sem brigar../n/nEnquanto Cooper está indo para Flagstone para obter ajuda, Hector os ajuda a se preparar para o ataque que se aproxima.
-386862158	A DeVitt Company está determinada a expulsar Kate e seu tio do rancho./n/nNão querendo desistir, Kate pede a ajuda de John Cooper, prometendo a ele informações sobre Frank em troca./n/nEnquanto Cooper, Kate e seu tio se fortificam na casa principal, McCoy e Hector ficam do lado de fora./n/nO objetivo deles: pegar os atacantes um por um.
+386862158	A Companhia DeVitt está determinada a expulsar Kate e seu tio do rancho./n/nNão querendo desistir, Kate pede a ajuda de John Cooper, prometendo a ele informações sobre Frank em troca./n/nEnquanto Cooper, Kate e seu tio se fortificam na casa principal, McCoy e Hector ficam do lado de fora./n/nO objetivo deles: pegar os atacantes um por um.
 454130296	Eagle Falls
 2006766685	A ponte em Eagle Falls
 1077297084	O Rancho O'Hara foi defendido, mas o preço foi alto. Determinada a deixar a Companhia DeVitt para sempre, Kate propõe um plano perigoso.
@@ -896,7 +896,7 @@ Portuguese	Português(BR)
 1032927492	Mina de ouro DeVitt
 739256700	Um carrinho cheio de pólvora
 679755953	Mais uma vez, Cooper perdeu seu duelo contra Frank. Então, como agora, outros devem pagar o preço pelo seu fracasso. Ainda resta alguma esperança?
-1630898247	Vincent DeVitt tem os dedos em muitas tortas diferentes. Um império ferroviário próspero, o lucrativo comércio de condenados e, por último mas não menos importante, o negócio de mineração de ouro./n/nDebaixo do sol quente do Novo México, os mineiros extraem metais preciosos da terra, sob os olhos sempre presentes dos guardas da DeVitt Company./n/nEntre os trabalhadores, três rostos familiares se escondem em uma pilha de pedras. Seus corpos estão cansados, sua disposição é de galinhas./n/nSuas mentes, porém, só conhecem um objetivo: escapar.
+1630898247	Vincent DeVitt tem os dedos em muitas tortas diferentes. Um império ferroviário próspero, o lucrativo comércio de condenados e, por último mas não menos importante, o negócio de mineração de ouro./n/nDebaixo do sol quente do Novo México, os mineiros extraem metais preciosos da terra, sob os olhos sempre presentes dos guardas da Companhia DeVitt./n/nEntre os trabalhadores, três rostos familiares se escondem em uma pilha de pedras. Seus corpos estão cansados, sua disposição é de galinhas./n/nSuas mentes, porém, só conhecem um objetivo: escapar.
 1624871096	Depois de serem presos na mina de ouro de DeVitt, a gangue elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem um carrinho de mina cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com o carrinho da mina e escape.
 2029047628	Las Piedras
 796251795	O salário da Dor
@@ -1636,7 +1636,7 @@ Portuguese	Português(BR)
 625254008	Parte da Companhia DeVitt. Eu tenho contas para resolver com alguns deles.
 1298661064	Tudo bem, tudo bem! Mas espero que você tenha um plano.
 1710621721	Uh, claro!
-1710522083	Vamos para a rua. Ninguém nos incomodará se ficarmos entre os habitantes da cidade, com isso teremos espaço para respirar.
+1710522083	Vamos para a rua. Ninguém nos incomodará se ficarmos entre os locais, com isso teremos espaço para respirar.
 1090916079	Por enquanto, tudo bem. Mas quem nós temos que "carregar"?
 743641397	Jarvis é o primeiro. Um cara bastante duro. Agora ele está naquele quintal tentando montar o touro na cidade.
 465329894	Depois, há Wild Marge. Ele está no primeiro andar do bordel de Flagstone, bebendo uísque e assistindo as garotas dançarem.
@@ -1699,7 +1699,7 @@ Portuguese	Português(BR)
 653569855	Esse é o número dois. Diga-me que você não gosta disso.
 247807550	Bem, pelo menos estamos no meio do caminho.
 926318647	Parece que o local está fechado.
-968863431	O prostíbulo. Os habitantes da cidade não podem entrar desde que Wild Marge assumiu.
+968863431	O prostíbulo. Os locais não podem entrar desde que Wild Marge assumiu.
 1016228655	Não é a porta da frente então. Tudo bem, mantenha-o baixo. Vamos encontrar outra maneira de entrar.
 773411105	Aqui embaixo.
 171969419	Ei, Cooper. Aqui embaixo.
@@ -3331,7 +3331,7 @@ Portuguese	Português(BR)
 626605032	Cale a sua armadilha, Freddy! Você está estragando a investigação!
 577082853	Bem, mas por que eles subiram ao telhado do clube?
 814666945	Eles devem ter vigiado lá em cima. Para avisar se as coisas deram errado.
-2050937557	Como é um espião de bruxa do pântano?
+2050937557	Como se parece um espião das bruxas do pântano?
 262680794	Não sei, Francine, mas não estou procurando descobrir.
 547428213	Então eles rolaram o canhão até aqui?
 1004944109	Para o escuro! Roubando para o covil deles.
@@ -3363,7 +3363,7 @@ Portuguese	Português(BR)
 1006373769	O que nos dá força se tornará cinza.
 552648979	Pois o inimigo se levantou! Senhor tenha piedade!
 1392107080	Três dias atrás, em Baton Rouge, ele se revelou.
-1535420739	Ele aterrorizou os bravos habitantes da cidade. 
+1535420739	Ele aterrorizou os bravos locais. 
 589176724	Ele destruiu o banco da cidade. 
 272295453	Isso foi apenas o começo!
 321098349	O tempo do fim está chegando.
@@ -4293,7 +4293,7 @@ Portuguese	Português(BR)
 1807356780	Ouvi dizer que ele é um problema especial. Irritado com a companhia.
 503605740	Frank com certeza está com as mãos cheias esta semana.
 2097086786	Sou só eu ou ele parece velho?
-172821941	Quer ir no Dragon's Den mais tarde?
+172821941	Quer ir à Caverna do Dragão mais tarde?
 102938465	Certo. Somente se você estiver pagando.
 938468677	Ouvi dizer que O'Neill está colocando os garotos na arena.
 1514509022	Ainda bem que não conseguimos a mudança de porto.
@@ -7155,7 +7155,7 @@ Portuguese	Português(BR)
 1453211189	Você me pegou por hoje.
 773959017	Todo mundo se lembra do plano?
 773014088	Deveria ter preparado alguma dinamite.
-575416765	Propriedade da DeVitt Company.
+575416765	Propriedade da Companhia DeVitt.
 1579480194	É preciso se adaptar ao vento aqui.
 337676197	Porra, dor de cabeça...
 875032120	Tenho que me remediar mais tarde.
@@ -7468,7 +7468,7 @@ Portuguese	Português(BR)
 1082223844	Chutamos o ninho de vespas.
 1299458567	Tenho que avisar meu tio.
 1481153901	Até que a morte nos separe.
-1072916069	Muito para flores e champanhe.
+1072916069	Tudo isso para flores e champanhe.
 1222769325	Chegou a hora de sairmos.
 874441010	Não terminamos aqui.
 365062992	Vamos mostrar a empresa DeVitt.
@@ -7496,7 +7496,7 @@ Portuguese	Português(BR)
 1156428242	Eu já amo esse lugar.
 1513200660	Esta chuva... Me lembra de casa.
 461790017	Temos um compromisso com o Frank.
-30484666	Não há meio caminho para a Devitt Company.
+30484666	Não há meio caminho para a Companhia DeVitt.
 1061901531	Vamos procurar uma chance de escapar.
 1747135662	Desta vez, agitamos a colméia.
 1654554408	Você realmente quer fazer isso?
@@ -9356,7 +9356,7 @@ Portuguese	Português(BR)
 1219188071	Heh, bem, isso não ajudou em nada.
 205268684	Você viu Big Ann?
 260125397	Ela está no platô.
-1070234556	Os habitantes da cidade causaram algum problema?
+1070234556	Os locais causaram algum problema?
 1180957643	Ha, você está brincando comigo!
 991808565	Como vai você?
 197932068	Outro dia nesse buraco de merda.
@@ -9384,8 +9384,8 @@ Portuguese	Português(BR)
 1936445947	Eu digo que eles são as bruxas do pântano.
 269945475	Você acha que é verdade? O diabo?
 1029146633	Inferno, eu não quero pensar nisso.
-148340071	Você acha que podemos andar com a garota?
-1755549648	O chefe vai cortar seu pau.
+148340071	Você acha que poderíamos dar uma com essa garota?
+1755549648	O chefe vai cortar seu pau fora.
 840192405	Por que você está demorando tanto?
 2144854809	Ainda temos alguns retardatários.
 648151727	Você recebeu seus pedidos?
@@ -9408,7 +9408,7 @@ Portuguese	Português(BR)
 85149765	DeVitt com certeza pensa assim.
 1472165189	Frank não estava brincando sobre esses caras.
 47033907	Nós vamos pegá-los.
-895861040	Fica nervoso peto de gente rica, hein?
+895861040	Você fica nervoso perto de gente rica, não é?
 1946833463	Cale-se.
 1784476798	Não posso acreditar que receberemos pagamento duplo.
 1892693736	Sim. Frank está perdendo.
@@ -9842,7 +9842,7 @@ Portuguese	Português(BR)
 105389863	Nós vamos queimar este lugar inteiramente.
 634504323	Você teve a chance de desistir!
 1763686719	Vocês são aqueles encrenqueiros de Flagstone, não são?
-1090999474	Você está na propriedade da DeVitt Company.
+1090999474	Você está na propriedade da Companhia DeVitt.
 2102258360	Você com certeza não veio com o trem.
 161046953	Você será um bom alvo para praticar tiro.
 910429965	Pegamos o seu pai. Melhor desistir.
@@ -9857,7 +9857,7 @@ Portuguese	Português(BR)
 672977670	Você dá muito trabalho pelo pouco que vale!
 1830955182	Poderíamos conseguir um bom preço por você!
 374399780	Vou te afogar na porra do rio.
-1690364394	Este é o negócio de DeVitt Company!
+1690364394	Este é o negócio de Companhia DeVitt!
 1512358348	Não gostamos de espiões por aqui.
 836955037	Lugar errado, hora errada, meu amigo.
 130585470	Temos uma boa jaula para você!
@@ -9865,7 +9865,7 @@ Portuguese	Português(BR)
 186195665	Eu vou te alimentar aos jacarés.
 2118249060	Bem-vindo ao Ninho da Rainha, imbecil.
 74362456	Pensou que você escaparia, hein?!
-223465408	Este é o negócio oficial da DeVitt Company!
+223465408	Este é o negócio oficial da Companhia DeVitt!
 592700306	Este distrito está fora dos limites!
 123907633	Estou trabalhando com a lei, imbecil.
 1983109371	Você está indo direto ao buraco do escravo!
@@ -10251,13 +10251,13 @@ Portuguese	Português(BR)
 1956349303	Aposto nas bruxas do pântano.
 1552781195	Você acha que é verdade? O verdadeiro diabo?
 214174165	Não quero pensar nisso.
-1207288509	Você acha que podemos ter a garota?
+1207288509	Você acha que poderíamos dar uma com essa garota?
 1210674820	O chefe cortará seu pau fora.
 1788691191	Por que está demorando tanto?
 1617630769	Ainda temos alguns retardatários.
 463046317	Você recebeu seus pedidos?
 142183412	Claro. Está tudo aqui em cima.
-1736614022	Dragon's Den após o turno?
+1736614022	Quer ir à Caverna do Dragão após o trabalho?
 1816157124	He, He, conte comigo.
 809606388	Você ouviu falar das bruxas do pântano?
 1748943522	Você acredita nessa porcaria?
@@ -10275,7 +10275,7 @@ Portuguese	Português(BR)
 286779195	DeVitt certamente pensa que sim.
 113362329	Frank não estava brincando sobre esses caras.
 1951702357	Nós os pegaremos.
-178772890	Nervoso perto de gente rica, não é?
+178772890	Você fica nervoso perto de gente rica, não é?
 1209879289	Cala a boca.
 943622691	Não acredito que receberemos o dobro do pagamento.
 74774866	Sim. Frank está perdendo.
@@ -10705,7 +10705,7 @@ Portuguese	Português(BR)
 2100439523	O que você está tentando provar aqui?
 1287848403	Vamos lá, não faça isso pior do que já é.
 1919776286	Vocês são os caras de Flagstone, não são?
-1160121113	Você está na propriedade da DeVitt Company.
+1160121113	Você está na propriedade da Companhia DeVitt.
 1838429000	Qual é o seu negócio aqui? Sabotagem?
 1665526397	Vândalos sujos, saiam!
 790672111	Você não quer que machuquemos seu pai, não é?
@@ -10720,7 +10720,7 @@ Portuguese	Português(BR)
 950927763	Vamos, não estrague uma boa caçada.
 719572044	Espero que você se afogue no rio!
 648019389	Ainda temos seus amigos, lembra?
-411701309	Este é o negócio de DeVitt Company!
+411701309	Este é o negócio de Companhia DeVitt!
 1240217714	Não mexa com a empresa DeVitt...
 1564344763	Lugar errado, hora errada, meu amigo.
 744476612	Temos uma boa jaula para você!
@@ -10728,7 +10728,7 @@ Portuguese	Português(BR)
 292523126	Você está pronto para uma boa jaula!
 199043485	Ninguém sai do Ninho da Rainha!
 1228481770	Se atirarmos em você, a culpa é sua!
-256714908	Este é o negócio oficial da DeVitt Company!
+256714908	Este é o negócio oficial da Companhia DeVitt!
 2104741658	Este distrito está fora dos limites!
 557211357	Se atirarmos em você, a culpa é sua!
 1454907918	Esta mina será sua sepultura.
@@ -11009,7 +11009,7 @@ Portuguese	Português(BR)
 1937391094	Heh, entre!
 169360161	Só um gole!
 173424520	Um brinde a isso.
-361402352	Me deixa nervoso, Frank sendo todo feliz...
+361402352	Ver Frank todo feliz me deixa nervoso.
 160221383	O calor está me matando.
 1973442478	Eu gostaria de ter a coragem do grande Ann.
 2031957503	O que comprarei com minha parte?
@@ -11070,7 +11070,7 @@ Portuguese	Português(BR)
 436673110	Heh, não ajudou.
 944957364	Você viu o grande Ann?
 1763918194	Está no platô.
-800888082	Os habitantes da cidade estão causando algum problema?
+800888082	Os locais estão causando algum problema?
 1366707733	Ha, você está brincando comigo!
 2117806888	Como vai você?
 468040288	Outro dia nesse buraco de merda.
@@ -11095,17 +11095,17 @@ Portuguese	Português(BR)
 210292537	Você vê o cara?
 610729880	Sim. Maldito caçador de recompensas.
 2009092597	Alguma idéia do que está acontecendo?
-1589568954	Meu dinheiro está com as bruxas do pântano.
+1589568954	Eu aposto que são as bruxas do pântano.
 822150051	Você acha que é real? O verdadeiro diabo?
 1367509472	Eu não quero pensar nisso.
 1818479778	Você acha que podemos ter a garota?
-472744525	O chefe vai te cortar!
+472744525	O chefe vai cortar seu pau fora.
 618543810	Por que está demorando tanto?
 310654731	Ainda temos alguns retardatários.
 787794134	Você recebeu seus pedidos?
 243459725	Sim. Está tudo aqui.
-1577815376	Dragon's Den depois do turno?
-1224663012	He he, conte comigo.
+1577815376	Quer ir à Caverna do Dragão após o trabalho?
+1224663012	He, he, conte comigo.
 1228421755	Você ouviu falar das bruxas do pântano?
 1554847702	Você acredita nessa porcaria?
 675700753	O que aconteceu com a equipe de Baxter?
@@ -11122,7 +11122,7 @@ Portuguese	Português(BR)
 1236675024	DeVitt tem certeza.
 563860061	Frank não estava brincando sobre esses caras.
 300889509	Nós vamos pegá-los.
-1756467926	Te deixa nervoso estar perto de pessoas ricas, não é?
+1756467926	Você fica nervoso perto de gente rica, não é?
 445057706	Cale-se.
 246663463	Não posso acreditar que receberemos pagamento em dobro.
 1681381248	Sim. Frank está perdendo.
@@ -11546,7 +11546,7 @@ Portuguese	Português(BR)
 997024690	Vou enforcar você de um sino da igreja.
 384829928	Muitos esconderijos nesta merda.
 561488293	Você vai estragar o casamento!
-1275452876	Higgins vai ficar puto!
+1275452876	Higgins vai ficar putaço!
 1919042158	Você não vê que há um casamento aqui?
 1180611629	Você sabe o que o prefeito vai fazer com você?
 697689544	Você estragou o casamento. Isso não foi legal.
@@ -11558,7 +11558,7 @@ Portuguese	Português(BR)
 668811831	Nós vamos queimar este lugar inteiramente.
 1490150029	Você teve a chance de desistir!
 1547398445	Vocês são os encrenqueiros de Flagstone, não são?
-1174485889	Você está na propriedade da DeVitt Company.
+1174485889	Você está na propriedade da Companhia DeVitt.
 370847986	Você com certeza não veio com o trem.
 1534378569	Você será uma alvo para praticar tiro.
 1655546822	Temos seu pai. Melhor desistir.
@@ -11573,7 +11573,7 @@ Portuguese	Português(BR)
 1601813231	Você é mais problema do que vale a pena!
 1407311591	Poderíamos conseguir um bom preço por você!
 1994700680	Vou afogar você na porra do rio.
-1053577355	Este é o negócio de DeVitt Company!
+1053577355	Este é o negócio de Companhia DeVitt!
 500920063	Não gostamos de espiões por aqui.
 1229679277	Lugar errado, hora errada, meu amigo.
 1794936713	Temos uma boa jaula para você!
@@ -11581,7 +11581,7 @@ Portuguese	Português(BR)
 1911997080	Eu vou te alimentar aos jacarés.
 2078068441	Bem-vindo ao Ninho da Rainha, imbecil.
 748363178	Pensou que você escaparia, não é?!
-86370624	Este é o negócio oficial da DeVitt Company!
+86370624	Este é o negócio oficial da Companhia DeVitt!
 1144812539	Este distrito está fora dos limites!
 1791420512	Estou trabalhando com a lei, imbecil.
 1877483082	Você vai pro poço!
@@ -12006,7 +12006,7 @@ Portuguese	Português(BR)
 730942422	DeVitt certamente acha que sim.
 185385555	Frank não estava brincando sobre esses caras.
 879383690	Nós vamos pegá-los.
-2118805611	Nervoso perto de gente rica, não é?
+2118805611	Você fica nervoso perto de gente rica, não é?
 1169516782	Cala a boca.
 1633779178	Não posso acreditar que receberemos o pagamento em dobro.
 1822001912	Sim. Frank está perdendo.
@@ -12444,7 +12444,7 @@ Portuguese	Português(BR)
 1291470231	O que você está tentando provar aqui?
 1234208604	Vamos agora, não faça isso pior do que é.
 1351919880	Vocês são os idiotas de Flagstone, não são?
-2023817769	Você está na propriedade da DeVitt Company.
+2023817769	Você está na propriedade da Companhia DeVitt.
 1554336056	Qual é a sua? Sabotar?
 26700762	Saiam seu vermes asquerosos!
 1875895642	Você não quer que machuquemos seu pai, não é?
@@ -12459,7 +12459,7 @@ Portuguese	Português(BR)
 1514885213	Vamos lá, não estrague esse momento.
 602195283	Espero que você se afogue no rio!
 776591541	Ainda temos seus amigos, lembra?
-892894126	Este é o negócio de DeVitt Company!
+892894126	Este é o negócio de Companhia DeVitt!
 1367188526	Não mexa com a empresa DeVitt...
 124830506	Lugar errado, hora errada, meu amigo.
 726478966	Temos uma boa jaula pronta para você!
@@ -12467,7 +12467,7 @@ Portuguese	Português(BR)
 835051825	Você está pronto para uma boa jaula!
 858895616	Ninguém sai do Ninho da Rainha!
 1512192271	Se atirarmos em você, a culpa é sua!
-487398982	Este é o negócio oficial da DeVitt Company!
+487398982	Este é o negócio oficial da Companhia DeVitt!
 569477498	Este bairro está fora dos seus limites!
 37292293	Não me culpe se levar um tiro.
 667097012	Esta mina será sua sepultura.
@@ -12845,10 +12845,10 @@ Portuguese	Português(BR)
 1813362933	Você vê o cara?
 245320565	Sim. Maldito caçador de recompensas.
 2034542664	Alguma idéia do que está acontecendo?
-811705492	Aposto nas bruxas do pântano.
+811705492	Eu aposto que são as bruxas do pântano.
 150824504	Você acha que as coisas do diabo são verdadeiras?
 1252164735	Corte o papo-furado!
-1079169072	Você acha que podemos aceitar a garota?
+1079169072	Você acha que poderíamos dar uma com essa garota?
 685251376	Não vejo por que não!
 1713138268	Por que está demorando tanto?
 1499603987	Ainda temos alguns caras atrasados.
@@ -12872,7 +12872,7 @@ Portuguese	Português(BR)
 1378046344	DeVitt com certeza pensa assim.
 1074278289	Frank não estava brincando com esses caras.
 1425637737	Nós vamos pegá-los.
-1807860050	Você fica nervoso com gente rica ao redor, não é?
+1807860050	Você fica nervoso perto de gente rica, não é?
 871659451	Cale a boca.
 2085238708	Não posso acreditar que receberemos o pagamento em dobro.
 99920623	Sim. Frank está perdendo.
@@ -13314,7 +13314,7 @@ Portuguese	Português(BR)
 1641411631	Vou pendurá-lo do sino da igreja.
 773741626	Muitos esconderijos nesta merda.
 663366583	Você vai estragar o casamento!
-1274586097	Higgins vai ficar puto!
+1274586097	Higgins vai ficar putaço!
 1072756810	Você não vê que há um casamento aqui?
 1647519956	Você sabe o que o prefeito vai fazer com você?
 1685781093	Você estragou o casamento. Isso não foi legal.
@@ -13326,7 +13326,7 @@ Portuguese	Português(BR)
 207184170	Nós vamos queimar até a última migalha deste lugar.
 1389688790	Você teve a chance de desistir!
 1657689632	Você é daqueles encrenqueiros de Flagstone, não é?
-462135972	Você está na propriedade da DeVitt Company.
+462135972	Você está na propriedade da Companhia DeVitt.
 2088034152	Você com certeza não veio com o trem.
 51884184	Você será um bom alvo na pratica de tiro.
 2101836078	Pegamos o seu pai. Melhor desistir.
@@ -13341,7 +13341,7 @@ Portuguese	Português(BR)
 1091728734	Você não vale tanto trabalho!
 112366679	Poderíamos ter conseguido um bom preço por você!
 27445958	Vou te afogar na porra do rio.
-1095498841	Este é o negócio de DeVitt Company!
+1095498841	Este é o negócio de Companhia DeVitt!
 1945083469	Não gostamos de espiões por aqui.
 1392055051	Lugar errado, hora errada, meu amigo.
 1297569637	Temos uma boa gaiola para você!
@@ -13349,7 +13349,7 @@ Portuguese	Português(BR)
 1904202010	Você vai virar comida de jacaré.
 525993293	Bem-vindo ao Ninho da Rainha, imbecil.
 2025527489	Pensou que você escaparia, hein?!
-85291170	Este é o negócio oficial da DeVitt Company!
+85291170	Este é o negócio oficial da Companhia DeVitt!
 1359493649	Você não pode entrar neste bairro!
 491613928	Estou trabalhando com a lei, imbecil.
 695228402	Você vai descer ao poço dos escravos!
@@ -13769,7 +13769,7 @@ Portuguese	Português(BR)
 726062406	DeVitt pensa que sim.
 647364467	Frank não estava brincando sobre esses caras.
 1897321809	Nós os pegaremos.
-1550068151	Você fica nervoso perto dos ricos, não é?
+1550068151	Você fica nervoso perto de gente rica, não é?
 1294237773	Cala a boca.
 164566410	Não posso acreditar que receberemos o dobro.
 919588120	Sim. Frank está perdendo.
@@ -14628,7 +14628,7 @@ Portuguese	Português(BR)
 584583294	Está congelando!
 140600418	Acho que estou pegando um resfriado.
 2080882179	Você ouviu sobre Flagstone?
-2123720088	Sim. Os habitantes da cidade ficaram nervosos.
+2123720088	Sim. Os locais ficaram nervosos.
 574742714	Você acha que ele estava sozinho?
 933846796	Não há como saber, portanto, esteja alerta.
 1835147000	Você viu aquele cara?
@@ -15108,7 +15108,7 @@ Portuguese	Português(BR)
 1873570525	Está congelando.
 742572414	Acho que estou pegando um resfriado.
 710386254	Você ouve sobre Flagstone?
-205219891	Sim. Os habitantes da cidade estão nervosos.
+205219891	Sim. Os locais estão nervosos.
 1666170682	Você acha que ele estava sozinho?
 268694333	Não posso ter certeza. Seja cuidadoso.
 1548456137	Você vê o cara?
