@@ -1867,13 +1867,13 @@ Portuguese	Português(BR)
 1744955242	Falta de uísque? Que pena.
 283509717	Oh, ei bonitão.
 2136886490	Ainda aqui, bonitão?
-68530541	Bem-vindo ao Flagstone, cowboy.
-1658486925	Bem, ei, cowboy.
+68530541	Bem-vindo ao Flagstone, caubói.
+1658486925	Bem, ei, caubói.
 1185929498	Você é um pistoleiro?
 269530303	Bem-vindo a Flagstone, grandão.
 719554718	Umm o-oi.
 127549407	Ei, cara grande.
-929547097	Ei cowboy.
+929547097	Ei caubói.
 1844286634	Pistoleiro, eh?
 160532248	Oh, Olá!
 368800716	Ei grandão.
@@ -2375,7 +2375,7 @@ Portuguese	Português(BR)
 112793052	Heh, tudo bem, vamos indo. E não se esqueça de continuar contando. Eu coloquei meus olhos naquele uísque.
 1851937666	É o seu funeral.
 1442318204	Quase os peguei.
-1281498890	Olhos no cowboy.
+1281498890	Olhos no caubói.
 1297624675	Droga, essa garota pode atirar.
 1979273179	Desista, O'Hara!
 703200123	Continue atirando até que estejam todos mortos!
@@ -2387,7 +2387,7 @@ Portuguese	Português(BR)
 1794636740	Porra. Continue desaparecido.
 1360160168	Você deve estar brincando comigo.
 1253577766	Eu vou te pegar da próxima vez.
-520767185	Maldito cowboy!
+520767185	Maldito caubói!
 300116359	Eu peguei agora!
 1817428661	Maldita ruiva.
 1544866090	Como eles podem continuar?!
@@ -3578,7 +3578,7 @@ Portuguese	Português(BR)
 1547392648	Ah ah. Você vai me compensar agora.
 1799290202	Consegui. E agora para sondar o térreo.
 853332837	Então, vamos ver o que está acontecendo por lá. Parece que eles pegaram um pequeno barco a vapor.
-1708763328	Aquele cowboy lá está se segurando por enquanto. Ele ficará sem sorte eventualmente.
+1708763328	Aquele caubói lá está se segurando por enquanto. Ele ficará sem sorte eventualmente.
 180287954	Ele estava sozinho? Ou ele tinha uma equipe?
 1775302398	Eles estão procurando alguém naquela casa. Aposto que alguém está escondido lá.
 1521339902	O grande parece ter sido capturado recentemente. Com certeza não foi fácil.
@@ -3586,7 +3586,7 @@ Portuguese	Português(BR)
 972713066	Esses caras serão vendidos para a companhia se não fizermos algo.
 2069640301	A companhia vai vendê-los se não fizermos algo.
 1636805222	*meows*
-1856030066	Realmente não importa quem ajudamos primeiro. Mas começar com aquele cowboy não seria mal.
+1856030066	Realmente não importa quem ajudamos primeiro. Mas começar com aquele caubói não seria mal.
 572815002	Quando salvarmos todos, faremos nossa saída.
 2129583524	*meows tiredly*
 597420665	Bem, você faz a sua parte, se quiser um ensopado hoje à noite.
@@ -3599,7 +3599,7 @@ Portuguese	Português(BR)
 971666701	Talvez eu devesse ter ficado no Colorado.
 301719751	Se eles colocarem a mão em mim...
 649581872	O barco e a casa parecem menos lotados. Talvez eu vá lá primeiro.
-1915152557	Ok, vamos ajudar o cowboy.
+1915152557	Ok, vamos ajudar o caubói.
 609887066	Vamos dar uma olhada naquela casa.
 1960415117	É aqui que eles mantêm o grandalhão.
 718322838	Há a garota em sua gaiola.
@@ -3650,7 +3650,7 @@ Portuguese	Português(BR)
 1749565000	Metralhadora. Uma coisa muito estranha, certo?
 1974939895	Eu não me importaria de jogá-lo no rio.
 1493770634	Talvez possamos tirar proveito disso primeiro.
-182306948	Esses caras são como ratos. Talvez o cowboy. O antes da casa. Alguém pode me ajudar.
+182306948	Esses caras são como ratos. Talvez o caubói. O antes da casa. Alguém pode me ajudar.
 1221124038	Há mais pessoas aqui do que no barco e na casa. Talvez eu deva voltar.
 1553085149	Ei, por que não estamos usando a Metralhadora?!
 900943188	Tirem suas mãos! O chefe enlouquece se você tocar nele!
@@ -3662,7 +3662,7 @@ Portuguese	Português(BR)
 1919633944	O que você disse? Não te entendi!
 687894890	Ei, vamos esperar até o barco afundar!
 1483628369	Foda-se! Nós vamos pegar esse casulo.
-1602215951	Como você está aí em cima, cowboy?
+1602215951	Como você está aí em cima, caubói?
 435631254	Olá senhorita. Você se importa em me ajudar aqui um pouco?
 345409256	Oque tem em mente?
 1871676232	Eliminar aqueles dois que atiraram em mim não seria ruim.
@@ -3681,9 +3681,9 @@ Portuguese	Português(BR)
 850111332	Não estaria aqui se não fosse por ela...
 2144838521	Não me agradeça. Agradeça a ela...
 1852477209	Acho melhor você agradecer a ela...
-555906458	Ei cowboy.
+555906458	Ei caubói.
 1813072875	Uh... ei? Algo errado com você?
-1016937040	Apenas ignore-os, cowboy. Foi eu quem puxou as cordas.
+1016937040	Apenas ignore-os, caubói. Foi eu quem puxou as cordas.
 1007568041	Eu vi coisas estranhas.
 1190809367	Então você é a pessoa que eu vi naquele alto. John Cooper.
 1294028435	Você tem bons olhos, Sr. Cooper. Isabelle Moreau.
@@ -4973,7 +4973,7 @@ Portuguese	Português(BR)
 171464383	O grandalhão? Você está me pegando como um tolo?
 1439672168	Fucker fez a viagem com o ombro cheio de chumbo.
 849787582	Isso é besteira.
-1666976715	Eles também dizem que o cowboy foi quem atirou nele.
+1666976715	Eles também dizem que o caubói foi quem atirou nele.
 702008517	Aquela maldita cascavel. Você sabe por que eles o colocaram em uma gaiola, certo?
 602685612	Bianca! Eu com certeza senti sua falta, garota.
 1036057740	Parece que tudo está em ordem.
@@ -5484,7 +5484,7 @@ Portuguese	Português(BR)
 2094191941	Ninguém mexe com Frank.
 1104217739	Por que ele se foi de repente? Eu não entendo.
 1822335833	Acho que ele finalmente se cansou de DeVitt.
-1067687447	Você ouviu falar daquele cowboy? O cara que veio por Frank.
+1067687447	Você ouviu falar daquele caubói? O cara que veio por Frank.
 1750385929	Claro. Agora já deve ter morrido de gangrena.
 623712389	Nada. Ele está vivo. Escapou da mineradora de DeVitt há duas semanas. 
 750065515	Bem, se ele ainda está atrás do velho Frank, ele não virá aqui.
@@ -8827,7 +8827,7 @@ Portuguese	Português(BR)
 1580870563	Você não está me entendendo!
 1760039550	Hora da vingança!!
 1901150571	É o Cooper!
-147295479	Vejo você, cowboy!
+147295479	Vejo você, caubói!
 1288299809	É Hector!
 383178821	Ei, cara grande!
 1651637570	É O'Hara!
@@ -9693,7 +9693,7 @@ Portuguese	Português(BR)
 1878157068	Você não está me entendendo!
 895082290	Hora da vingança!
 1518753910	É Cooper!
-696870190	Estou te observando, cowboy
+696870190	Estou te observando, caubói
 1662969916	É o Hector!
 833503072	Ei, grandão!
 101386366	É O'Hara!
@@ -10554,7 +10554,7 @@ Portuguese	Português(BR)
 1604851240	É a gangue de Cooper!
 2030696735	Você não está me entendendo!
 1270946047	Você veio até aqui para morrer?!
-984117056	Vejo você, cowboy!
+984117056	Vejo você, caubói!
 1436082882	É o Cooper! Rápido!
 1621166818	É o Grandão, por aqui!
 1595709291	Hector! Ele está aqui!
@@ -10680,7 +10680,7 @@ Portuguese	Português(BR)
 4052396	Você está com medo de mim ou o que?
 1336973318	Fazer uma mulher esperar. Por que você não tem boas maneiras?
 2045956463	Tenha um pouco de respeito próprio e lute com uma dama!
-1172847170	Você quer brincar de cowboy, garoto?
+1172847170	Você quer brincar de caubói, garoto?
 1232002198	Você é comida de abutre, seu moleque.
 1786509530	Você tem coragem, eu te dou isso.
 117686383	Não vou te machucar, prometo!
@@ -11404,7 +11404,7 @@ Portuguese	Português(BR)
 131722094	Você não está me entendendo!
 1939156359	Hora da vingança!
 501676662	É o Cooper!
-1907079180	Eu vejo você, cowboy!
+1907079180	Eu vejo você, caubói!
 1334853821	É o Hector!
 1404855509	Olá, grandão!
 819256392	É O'Hara!
@@ -12287,7 +12287,7 @@ Portuguese	Português(BR)
 639343686	É a gangue de Cooper!
 804558457	Você não está me entendendo!
 1000019760	Você veio direto pra morte?!
-1155608019	Vejo você, cowboy!
+1155608019	Vejo você, caubói!
 216551203	É Cooper! Rápido!
 2040731076	É o grandalhão!
 679923122	Hector! Ele está aqui!
@@ -12419,7 +12419,7 @@ Portuguese	Português(BR)
 760176937	Você está com medo de mim ou o que?
 1139457216	Deixar uma dama esperando. Você não tem educação?
 1264939014	O quê? Você está com medo de lutar com uma garota.
-1624693527	Você quer brincar de cowboy, moleque?
+1624693527	Você quer brincar de caubói, moleque?
 1979837316	Você é comida de abutre, garoto.
 935753170	Você tem coragem, garoto, e eu quero vê-los no chão!
 1043674957	Eu não vou te machucar, muito!
@@ -13164,7 +13164,7 @@ Portuguese	Português(BR)
 1657085831	Você não pode escapar!
 1850115913	Hora de se vingar!
 1929252091	É o Cooper!
-323909951	Vejo você, cowboy!
+323909951	Vejo você, caubói!
 1477413620	É o Hector!
 1626091875	Olá, grandão!
 262155151	É O'Hara!
