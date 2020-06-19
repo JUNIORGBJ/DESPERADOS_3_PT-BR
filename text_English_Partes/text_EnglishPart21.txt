@@ -1,160 +1,160 @@
 1007467624	Pode fazer.
-127388188	Vamos iluminar isso!
-188191931	Eu gosto disso!
-537737020	Fazendo um movimento.
-687059772	Vamos fazer isso.
-1416768657	Come on, amigo.
-2115627036	This way, amigo.
-610283050	You got it, amigo.
-1226941011	Keep a lid on it.
-1682264968	No rush, amigo.
-308241113	Understood.
-2120668698	I'll be there in time.
-1192837881	Sure, no problem.
-987705732	All right, keep it easy.
-1471642586	Coming through.
-13528526	Sure... Sure thing.
-1037870268	Uh, on my way.
-423951352	Heh, a little dizzy.
-2056776782	No problem... Ugh.
-1657462738	Just gotta stay upright.
-1414760920	I can deal with it.
-1638530929	Hrm, my head hurts.
-804821888	Here comes the postman.
-1699178788	Coming through.
-1231660015	Over there? No problem.
-269441290	Heh, I can handle it.
-1694816690	I can do this all day.
-695290729	...! Okay!
-253846311	...! Coming through.
-225638183	Out of my way.
-1406923000	...! No problem for Hector.
-667793286	...! This is heavy.
-80115494	Not like this.
-304695326	Think again.
-349785224	This is bullshit.
-1057311674	Can't do that, amigo.
-1594406766	Uhhh... What?
-2045087313	Yeah... Wait, no!
-1531239806	I don't get it, amigo.
-2069991385	I can't get there.
-235073940	There must be another way.
-843672944	No way, amigo.
-784841452	You see a way, amigo?
-1467598082	Uh, how do I get there?
-1299856943	Ugh, not like this.
-2031243946	I don't like the looks of that.
-760844559	Someone's in there.
-841421886	That's a bad idea.
-321794096	Uh... Someone's in there.
+127388188	Vamos acender isso!
+188191931	Gostei!
+537737020	Movimentando.
+687059772	Vamos nessa.
+1416768657	Qual é, amigo.
+2115627036	Por aqui, amigo.
+610283050	Isso aí, amigo.
+1226941011	Pegue cobertura.. 
+1682264968	Sem pressa, amigo.
+308241113	Entendido.
+2120668698	Eu estarei lá a tempo.
+1192837881	Claro, sem problemas.
+987705732	Certo, fique tranquilo.
+1471642586	Passando.
+13528526	Claro... Tá certo.
+1037870268	Uh, a caminho.
+423951352	Heh, um pouco tonto.
+2056776782	Ugh. Sem problemas... Ugh.
+1657462738	Só tenho que ficar de pé.
+1414760920	Posso lidar com isso.
+1638530929	Hm, minha cabeça dói.
+804821888	Aí vem o carteiro.
+1699178788	Passando.
+1231660015	Por ali? Sem problemas.
+269441290	Heh, Posso lidar com isso.
+1694816690	Posso fazer isso o dia todo.
+695290729	...! Ok! 
+253846311	...! Passando...!
+225638183	Saia do meu caminho.
+1406923000	...! Sem problemas para Hector.
+667793286	...! Isso é pesado.
+80115494	Assim não.
+304695326	Pense de novo.
+349785224	Isso é besteira.
+1057311674	Não posso fazer isso, amigo.
+1594406766	Uhhh... O Que?
+2045087313	Sim... Espere, não!
+1531239806	Eu não entendo, amigo.
+2069991385	Eu não consigo chegar lá.
+235073940	Tem de haver outro caminho.
+843672944	Sem chance, amigo.
+784841452	Você vê algum caminho, amigo?
+1467598082	Uh, como eu chego lá?
+1299856943	Ugh, assim não.
+2031243946	Eu não gosto da cara disso.
+760844559	Alguém está ali.
+841421886	Essa é uma péssima ideia.
+321794096	Uh... Alguém está lá.
 388052284	Full house, amigo.
-185604206	Hrm... Bad idea, amigo.
-365046019	Hrm, locked.
-1912997997	Nope. It's locked.
-1922107468	Won't budge.
-1516699721	Hrm... Locked.
-1979640618	It's locked.
-1276670348	Won't budge.
-399189404	Not ready, amigo.
-782024477	Don't rush me.
-1301244569	This needs more time.
-1318239619	Shit, I'm out.
-442835356	Gun's empty.
-2016384361	What next?
-413100628	All right, what now?
-1711975334	That's it.
-3450358	Uh, now what?
-878608500	That's it, I think.
+185604206	Hrm... péssima ideia, amigo.
+365046019	Hrm, trancado.
+1912997997	Não. Está trancado.
+1922107468	Não vai abrir.
+1516699721	Hrm... Trancado.
+1979640618	Está trancado.
+1276670348	Não abre. 
+399189404	Ainda não, amigo.
+782024477	Não me apresse.
+1301244569	Isso precisa de mais tempo.
+1318239619	Merda, estou fora.
+442835356	Sem munição.
+2016384361	E agora?
+413100628	Tudo bem, e agora?
+1711975334	É isso aí.
+3450358	Uh, e agora?
+878608500	É isso ai, eu acho.
 369453272	Fácil.
 1519662815	Está feito.
 198083130	Tudo feito.
-230799163	No problem.
-452328337	Okay, what now?
-2057854222	Heh, that was easy.
+230799163	Sem problemas.
+452328337	Ok, e agora?
+2057854222	Heh, isso foi fácil.
 310162947	Feito? Feito.
-667426076	Okay...
-1935779871	Okay, they're down.
-1852058158	I live for this.
-1387419723	There goes another.
-1332116681	Hmm, not your lucky day.
-770656415	Oh, I needed that!
+667426076	Ok...
+1935779871	Ok, eles caíram.
+1852058158	Eu vivo para isso.
+1387419723	Lá se vai outro.
+1332116681	Hmm, não foi seu dia de sorte.
+770656415	Oh, eu precisava disso!
 811686421	Heh, whoops.
-1206303774	Uh... Sorry?
-557412956	Bad luck, friend.
-650886594	Who's next?
-650787402	You stay down.
-1455720754	Bedtime!
-2089910937	Oh, I needed that!
-1618737351	Can't stand up, eh?
-654206766	Out of my way!
-640577126	Go to sleep.
-1542097180	Heh, bedtime.
-1673228552	Hrm... Still got it.
-1727695638	Just stay down, okay.
+1206303774	Uh... Desculpa?
+557412956	Que azar, amigo.
+650886594	Quem é o próximo?
+650787402	Fica abaixado.
+1455720754	Hora de dormir!
+2089910937	Oh, eu precisava disso!
+1618737351	Não aguenta, não é?
+654206766	Saia do meu caminho!
+640577126	Vá dormir.
+1542097180	Heh, hora de dormir.
+1673228552	Hrm... Ainda levo jeito.
+1727695638	Apenas fique abaixado, ok.
 1103862048	...!
-1782786920	...! Hey! Who was that?!
-1258989165	...! That all you got?!
+1782786920	...! Ei! Quem era aquele?!
+1258989165	...! Isso é tudo o que você tem?!
 1588416986	...
-1449735250	Looks bad, amigo...
+1449735250	Parece mal, amigo...
 738876371	...!
 2002690239	...!
 1324344459	...!
 641362319	...!
 1649684849	...
 661985394	...
-1473398606	Oh ho ho, bring it on, punk.
-1467638822	All right... Wanna try that again?
-1272052373	Ugn... Real funny, amigo.
+1473398606	Oh ho ho, manda a vê, seu puto.
+1467638822	Tudo bem... Quer tentar de novo?
+1272052373	Ugn... Muito engraçado, amigo.
 748975499	Ugn... What gives?
-802273558	...! Huh? Oh, right!
-1487773027	Heh heh, that tickles.
-1319925661	What's that for?
-1508323024	Uhh, okay.
-1250847421	Heh, feels funny.
-1793463481	Heh, that tickles.
-1530986113	Huh? What?
-1823138492	Who's doing that?
-1590218207	Almost got us.
-132679273	Idiot. Dumbass.
-101563422	Gotta take care of him.
-1900726852	I hate swamps...
-387995025	She's hurting too. 
-1162014817	Damn idiot...
-173980752	Gotta find him...
-1252697643	We're partners...
-1904031594	That's it for DeVitt.
-1082986022	Oh, she misses him.
-374551834	Heh. Doc, you idiot.
-287515230	Been too long.
-1057670608	He's gonna do it.
-629233623	I need a vacation.
+802273558	...! Hã? Oh, certo!
+1487773027	Heh heh, isso faz cócegas.
+1319925661	What's that for? Para que é isso?
+1508323024	Uhh, ok.
+1250847421	Heh, parece engraçado.
+1793463481	Heh, that tickles. Heh, isso faz cócegas.
+1530986113	Hã? O que?
+1823138492	Quem está fazendo isso?
+1590218207	Quase nos pegou.
+132679273	Idiota. Babaca.
+101563422	Tenho que cuidar dele.
+1900726852	Eu odeio pântanos...
+387995025	Ela também está machucada.
+1162014817	Maldito idiota...
+173980752	Tenho que encontrá-lo...
+1252697643	Somos parceiros...
+1904031594	Isso é pelo DeVitt.
+1082986022	Oh, ela sente falta dele.
+374551834	Heh. Doc, seu idiota
+287515230	Faz muito tempo.
+1057670608	Ele vai fazer isso.
+629233623	Eu preciso de férias.
 1273982516	Bianca?
-239428708	I miss you, my love.
-949991015	Bianca, return to me.
+239428708	Eu sinto sua falta, meu amor
+949991015	Bianca, volte para mim.
 782101714	...!
-1998380965	Come to Hector.
-1347339730	This is nothing.
+1998380965	Venha para o Hector.
+1347339730	Isso não é nada.
 1256111026	...! Ugh.
-235460780	Ugh, come here.
-362625999	Hrm, no problem...
-24503883	And another one.
-1982213864	I got plenty of room.
-152480733	Two's better than one.
-874465571	Yeah... I can take two.
-971184415	Yeah... I got it.
-1172827436	Hrm... Steady...
+235460780	Ugh, venha aqui.
+362625999	Hrm, sem problema...
+24503883	E mais outro.
+1982213864	Eu tenho muito espaço.
+152480733	Two's better than one. Dois é melhor que um.
+874465571	Sim... eu posso pegar dois.
+971184415	É, eu consegui.
+1172827436	Hum... Firme...
 578022143	...!
-173665086	This is nada.
-166695025	Ah, good spot.
-182301127	...! Whew.
-29300333	...! My head.
-1723331483	Good. Give me a second.
-1435389838	Don't move, amigo.
-1598955218	I'll make you good and cozy.
-1550452129	Heh, sleep tight.
-625375198	Don't move, friend.
-2092017950	Yeah... That'll hold...
-788238649	Hrm, keep still...
+173665086	Isso não é nada.
+166695025	Ah, bom local.
+182301127	...! Ufa.
+29300333	...! Minha cabeça.
+1723331483	Bom. Me dê um segundo.
+1435389838	Não se mexa, amigo.
+1598955218	Eu vou te fazer bem e te deixar confortável..
+1550452129	Heh, durma bem.
+625375198	Não se mexa, amigo.
+2092017950	Sim... Isso vai aguentar...
+788238649	Hm, fique quieto...
 933667148	...!
 780681512	...!
 289324150	...!
@@ -180,12 +180,12 @@
 1072026535	Então, quem quer ser o primeiro?
 399853762	Deixe-os para mim.
 1306910682	Já escovou os dentes com uma marreta?
-1124824514	Heh, venha para Hector.
+1124824514	Heh, venha para o Hector.
 400530881	Quem quer tentar?
 1684965429	Aí vem o martelo.
 969538124	Ainda posso levá-los...
 1382310737	Hum... Deixe-os para mim.
-1901170403	Bah, venha para Hector.
+1901170403	Bah, venha para o Hector.
 1969492152	...!
 1747988784	...!
 1381216359	...!
@@ -216,7 +216,7 @@
 1596136557	Ela está pronta.
 1234721860	Boa garota.
 156554737	Confie sempre na Bianca.
-130483807	Ela ainda conseguiu.
+130483807	Ela ainda leva jeito.
 989985357	Merda, onde está Bianca?
 55254118	Bianca está me esperando.
 843497225	Eu preciso pegar a Bianca!
@@ -250,90 +250,90 @@
 2122541859	Ei, onde está o ancinho?
 2119985986	Ei, onde você foi?
 610307250	Não tem o ancinho.
-1009892254	Uh... Where's the rake.
-1446488602	Hrm, where'd you go?
-210440527	Uh... Lost the rake.
-1076543859	Heh, found it.
-1254045471	Better keep hold of you.
-1214689864	You're mine.
-866566272	Hrm, found you.
-826916199	Still need you.
-1134295938	Hrm, mine.
-394425750	This is mine.
-375164930	I'll take this.
-329741383	Oh that’s nice!
-1903918795	I'm full.
-1001504622	I got enough.
-1420548068	I'm fine.
-1665737228	Let's get loud!
-200778838	Ready when you are.
-850609924	Say hello to this beauty!
-1246428347	Hah! Got one!
-1758776124	One down!
-503697570	Next!
-1053830907	Hah! You see that?!
-1203058366	Yes! Hahaaaa!
-930502651	On a roll!
-2119893986	My last shot.
-201316300	I'm almost out.
-172763044	Oh no, I'm out!
-1931814842	Heh, who needs guns?
-1401465377	Now I'm thirsty.
-364131989	Just a sip.
-1132678674	One for the road.
-919366449	One for me...
-1747943942	Oh, I need one.
-63588442	Can't get any more hungover.
-916216833	A little pick-me-up.
-2099940469	One against the headache.
-2105176931	Thanks Doc.
-2012563396	Appreciate it, Doc.
-629545898	Nice job, Doc.
-2015568614	That hit the spot.
-1897357532	Keeps you warm.
+1009892254	Onde está o ancinho?
+1446488602	Hrm, onde você foi?
+210440527	Uh... perdeu o ancinho.
+1076543859	Heh, encontrei.
+1254045471	Melhor ficar com você.
+1214689864	Você é meu.
+866566272	Hrm, te encontrei.
+826916199	Ainda preciso de você
+1134295938	Hrm, meu.
+394425750	Isso é meu.
+375164930	Vou levar isso.
+329741383	Oh, isso é legal!
+1903918795	Estou cheio.
+1001504622	Eu tenho o suficiente.
+1420548068	Estou bem.
+1665737228	Vamos fazer barulho!
+200778838	Pronto quando você estiver.
+850609924	Diga olá a essa belezinha!
+1246428347	Hah! Peguei um!
+1758776124	Um já foi!
+503697570	Próximo!
+1053830907	Hah! Você viu isso?!
+1203058366	Sim! Hahaaaa!
+930502651	Rolando!
+2119893986	Meu último tiro.
+201316300	Estou quase fora.
+172763044	Oh no, estou fora!
+1931814842	Heh, quem precisa de armas?
+1401465377	Agora estou com sede.
+364131989	Só um gole.
+1132678674	Um para a estrada.
+919366449	Um para mim...
+1747943942	Oh, eu preciso de um.
+63588442	Não posso ficar mais de ressaca.
+916216833	Um pequeno estímulo.
+2099940469	Um para curar a dor de cabeça.
+2105176931	Obrigado Doc.
+2012563396	Agradecido, Doc.
+629545898	Bom trabalho, Doc.
+2015568614	Acertou em cheio!
+1897357532	Mantém você aquecido.
 2070862391	...Hic!
-397025085	...I needed that.
-221561013	...Ah, good.
+397025085	...Eu precisava disso.
+221561013	...Ah, bom.
 133927167	...Heh heh.
-1371397740	Little more can't hurt.
+1371397740	Um pouco mais não vai doer.
 561535069	...Hic... Ugh.
 638763262	...Ooh.
-1956393684	...Whew, dizzy.
+1956393684	...Caramba, tonto.
 1595148081	...Hmn!
 1915240785	......!
-997375335	What's that... Tastes funny.
-558598886	Hmm... I feel great.
-869625814	Huh... Yeah, not bad.
-342970236	So, uh, what now?
-1775667351	Heh, look at that fuse go.
-2059003475	Light the fuse, and then...
-363477709	Catch!
+997375335	O que é isso... Tem um gosto engraçado.
+558598886	Hmm... me sinto ótimo.
+869625814	Hã... Yeah, nada mal.
+342970236	Então, uh, e agora?
+1775667351	Heh, olhe até onde o estopim.
+2059003475	Acenda o estopim e depois...
+363477709	Pega!
 217093870	Hah hah!
-521512478	Hey assholes!
-69951670	Oh, nice.
-1055002501	Mine.
-1091963526	I have it.
-1866129302	Good find.
-35197261	Hey. Money.
-494724164	That's a lot of money.
-1788848025	Sure. It's mine.
-1816583177	See ya.
-1923523671	Bye bye.
-135242026	Let's try Doc's way.
-84246857	Got an idea...
-1323212137	Uh, all right...
-850532773	Reminds me of Doc...
-1344130215	We got fire.
-218178323	Nice flame.
+521512478	Hey idiotas!
+69951670	Ah legal.
+1055002501	Meu.
+1091963526	Eu tenho.
+1866129302	Boa descoberta.
+35197261	Hey. Dinheiro.
+494724164	Isto é muito dinheiro.
+1788848025	Certo. É meu..
+1816583177	Até mais.
+1923523671	Tchau. Tchau.
+135242026	Vamos tentar fazer ao estilo do Doc.
+84246857	Tive uma ideia..
+1323212137	Uh, tudo bem...
+850532773	Me lembra o Doc...
+1344130215	Temos fogo.
+218178323	Bela chama.
 795116120	Hah!
-594023147	Catch!
-501135140	Lights out.
-578752190	Can't burn our cover.
-1031947388	Hrmm... Dropped it.
-1529253350	Fuck. Dropped it.
-72645431	Right, where was I...
-1920112592	Heh, like I was saying...
-446136274	What were we talking about?
-990991379	Hmm, where was I...
-1545330114	Uh, lost my thought... Ah!
-1911150900	Hehe, that tickles.
+594023147	Pega!
+501135140	Luzes apagadas.
+578752190	Não pode queimar nossa cobertura.
+1031947388	Hrmm... Soltou.
+1529253350	Porra. Deixou cair.
+72645431	Certo, onde eu estava...
+1920112592	Heh, como eu estava dizendo...
+446136274	Sobre o que estamos falando?
+990991379	Hmm, onde eu estava...
+1545330114	Uh, perdi meu pensamento... Ah!
+1911150900	Hehe, isso faz cócegas.
