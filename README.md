@@ -2,8 +2,7 @@
 
 
 ### :warning:Atenção Tradução em revisão:warning:
-- ***Arquivos a serem traduzidos se encontra na pasta*** ```text_English_Partes```
-- ***Use o chat do Discord para informar a parte que queira traduzir.***
+
 - ***Por favor não alterar os Espaços no inicio dos texto.***
 - ***Por favor não alterar o que estiver dentro de asteriscos EX: *laughs*.***
 - ***Por favor não altere quaisquer código do jogo. EX: /n/n ou {0}***
