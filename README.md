@@ -3,9 +3,7 @@
 
 ### :warning:Atenção:warning: Tradução em revisão:warning:
 
-- ***Por favor não alterar os Espaços no inicio dos texto.***
-- ***Por favor não alterar o que estiver dentro de asteriscos EX: *laughs*.***
-- ***Por favor não altere quaisquer código do jogo. EX: /n/n ou {0}***
+***Nossa tradução foi feita por Fans e não por profissionais da area. No momento a tradução está em fase de revisão. Agradeço a quem teve a paciência em nos ajudar nesse projeto. Não somos fluente no idioma inglês então podem conter muitos erros. Aguardem as atualizações diárias com correções de diálogos.***
 
 <h1 align="center"><figure>
   <img src="DesperadosIII.png">
