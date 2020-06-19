@@ -49,7 +49,7 @@
 1883111036	Ainda bem que tenho algo para iluminar.
 1678872220	Novamente a luz.
 1259027863	O que aconteceu?
-1556567824	O quê ?! O que o atingiu?
+1556567824	O quê?! O que o atingiu?
 981926918	I-isso não é normal!
 544594049	Algo está errado com você!
 1283245285	E-ei, isso não é normal!
@@ -89,14 +89,14 @@
 375877512	Está tudo bem?
 1043164579	Quem fez isso com você?
 633166019	Quem te amarrou assim, hum?
-1015034952	Hein ?!
+1015034952	Hein?!
 284439821	Que barulho é esse?
 1127879614	Você ouviu isso?
-42030841	Ei, quem está fazendo isso ?!
+42030841	Ei, quem está fazendo isso?!
 963737563	Isso não é engraçado!
 1426547493	Tudo bem, já chega!
 130649768	De onde veio isso!
-327101215	Quem está atirando ?!
+327101215	Quem está atirando?!
 247373608	Alguém está atirando em nós!
 1082686957	Ei, eu ouvi isso!
 843936458	Quem está aí?

@@ -2,7 +2,7 @@
 1220500200	Traidor. Você vai pagar por isso.
 251100222	Oh, eu vou lembrar disso.
 334838138	Traidor do caralho!
-731312478	Ainda está aqui, hein ?!
+731312478	Ainda está aqui, hein?!
 1544400488	Eu sei o que você fez!
 679080396	Deveria ter corrido, traidor.
 1734379934	Vê o que fazemos com os traidores?...!
@@ -25,22 +25,22 @@
 746090323	Ei! Acorde!
 467029420	Saia daqui seu preguiçoso.
 92484787	Pare de enrolar.
-2098671872	Quem fez isso com você ?!
-284866166	Quem te amarrou assim ?!
-1527521295	Hein ?!
+2098671872	Quem fez isso com você?!
+284866166	Quem te amarrou assim?!
+1527521295	Hein?!
 1840577602	Que barulho é esse?
 673857842	Você ouviu isso?
-1261490535	Quem diabos está fazendo isso ?!
+1261490535	Quem diabos está fazendo isso?!
 1441923207	Isso não é engraçado!
 1785225459	Tudo bem, chega!
 1513924882	Algum imbecil está jogando dinamite!
 1937018255	Eles estão usando dinamite!
 1612252113	Meu Deus!?!
 1769782179	Merda, de onde isso veio!
-690594534	Quem está atirando ?!
+690594534	Quem está atirando?!
 1376314799	Eles estão atirando em nós!
 1595763905	Ei, eu ouvi isso!
-1890754729	Quem está aí ?!
+1890754729	Quem está aí?!
 1133809541	Apareça!
 1103592157	Que diabos foi isso?
 1718006520	Estou ficando louco?
@@ -60,7 +60,7 @@
 717610153	Quem diabos foi isso?
 1911073047	Onde está o palhaço que me bateu?
 1891307292	Oh, você vai pagar por isso, seja quem for!
-1431879126	Não é tão corajoso agora, hein ?!
+1431879126	Não é tão corajoso agora, hein?!
 27806896	Tudo bem, quem está aí?
 571270563	Oh, eu vou te encontrar.
 580688265	Você está encrencado!
@@ -99,7 +99,7 @@
 1803806280	Você matou Higgins. Agora quem vai me pagar?
 1720018647	Vou jogá-lo do penhasco.
 1642077985	Você nunca passará pelo portão da frente.
-320361326	Você se acha esperto, não é ?!
+320361326	Você se acha esperto, não é?!
 1846815054	A empresa é dona do seu rancho agora.
 207184170	Nós vamos queimar até a última migalha deste lugar.
 1389688790	Você teve a chance de desistir!
@@ -114,8 +114,8 @@
 1485394384	O delegado quer falar contigo!
 1055103250	Esta é uma investigação oficial!
 1932081705	Em nome da lei, apareça.
-752812300	Você sabe o que fazemos com encrenqueiros ?!
-2014384756	Achou que vai se livrar dessa ?! Achou errado, otário!
+752812300	Você sabe o que fazemos com encrenqueiros?!
+2014384756	Achou que vai se livrar dessa?! Achou errado, otário!
 1091728734	Você não vale tanto trabalho!
 112366679	Poderíamos ter conseguido um bom preço por você!
 27445958	Vou te afogar na porra do rio.
@@ -126,7 +126,7 @@
 1827793067	Você chegou ao pântano errado!
 1904202010	Você vai virar comida de jacaré.
 525993293	Bem-vindo ao Ninho da Rainha, imbecil.
-2025527489	Pensou que você escaparia, hein ?!
+2025527489	Pensou que você escaparia, hein?!
 85291170	Este é o negócio oficial da DeVitt Company!
 1359493649	Você não pode entrar neste bairro!
 491613928	Estou trabalhando com a lei, imbecil.
@@ -231,16 +231,16 @@
 2076241790	...
 2104445579	...
 1428719966	...
-1700374549	... Quem está aí ?!
+1700374549	... Quem está aí?!
 843975565	... Barulhentos malditos!
-2019033347	... O que... O que está acontecendo ?!
+2019033347	... O que... O que está acontecendo?!
 1124630063	... Barulhentos malditos!
 764695078	Porra... você vai pagar por isso!
 212721756	Hrgh... Onde está você, seu filho da puta?
 1756255237	Merda... Você não vai me deixar tão fácil!
 75560727	De volta aos negócios.
 380855645	Agora estou realmente bravo!
-1866357745	Tudo bem, quem fez isso ?!
+1866357745	Tudo bem, quem fez isso?!
 1196730668	...
 1065450049	...
 1182118006	...

@@ -54,7 +54,7 @@
 1642132927	Seu bandido barato!
 546468416	Você vai se arrepender!
 1433352079	Você deveria ter corrido!
-270675320	O marechal enviou você ?!
+270675320	O marechal enviou você?!
 9628966	Você não pode se esconder de mim!
 128851288	Sr. Cowboy!
 1234596221	É o Sr. Cowboy!
@@ -63,7 +63,7 @@
 1265764464	É a senhorita O'Hara!
 1740516422	Senhorita O'Hara, que surpresa!
 420559250	É o Dr. McCoy!
-1534933692	Veio pelo dinheiro, Dr. McCoy ?!
+1534933692	Veio pelo dinheiro, Dr. McCoy?!
 197923969	Isabelle! Que surpresa!
 910483118	Rastejando de volta para mim, Isabelle? Que pena!
 591259153	O odor do seu corpo o denuncia.
@@ -76,9 +76,9 @@
 1751477529	Agora, onde eu já vi isso antes...
 1784764926	Eu acho que isso pertence a mim.
 1493337522	Para não desperdiçar, acredito.
-1909186069	Ela está dormindo ?!
-647722521	O que ela está fazendo lá ?!
-1737246285	Ele está dormindo ?!
+1909186069	Ela está dormindo?!
+647722521	O que ela está fazendo lá?!
+1737246285	Ele está dormindo?!
 1901815276	O que ele está fazendo lá?
 1412855313	Dormindo no trabalho, não é?
 2007161108	Qual é o seu problema?

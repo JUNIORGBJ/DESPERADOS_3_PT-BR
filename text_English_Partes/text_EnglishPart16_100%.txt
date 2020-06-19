@@ -158,9 +158,9 @@
 1124021518	Aí está o curral de gado.
 2090340079	Então, vamos incendiar o telhado.
 990017966	Heh, vamos assustar esses touros.
-2043144075	Novamente? Que diabos eu me importo com essa porra de animal ?!
+2043144075	Novamente? Que diabos eu me importo com essa porra de animal?!
 1828508821	Raton é um touro premiado. Ele precisa ser forte para a luta amanhã.
-969014820	Quanto feno essa coisa pode comer ?! Tudo bem, pegue outro.
+969014820	Quanto feno essa coisa pode comer?! Tudo bem, pegue outro.
 1492622150	Obrigado, bom senhor.
 2055259032	Você não estava aqui? Não me diga que é o touro de novo?
 1919537805	Raton precisa de mais feno. Ele precisa ser grande e forte, para a luta.
@@ -253,7 +253,7 @@
 1217519499	Quieto lá atrás, Jesus!
 740640140	Quieto! Para o inferno com as pessoas nesta cidade.
 148000275	Espere um minuto...
-1507422999	Eles fugiram de mim ?! Eu não acredito nisso.
+1507422999	Eles fugiram de mim?! Eu não acredito nisso.
 223240633	Alguém vá limpar essa bagunça!
 1590059287	Depois de você, senhorita Moreau.
 202440383	Lá vai você, Belle.

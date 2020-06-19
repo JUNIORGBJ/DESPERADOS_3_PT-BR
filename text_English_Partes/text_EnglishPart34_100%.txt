@@ -9,7 +9,7 @@
 1147526598	Esta área está fora dos limites para os hóspedes.
 197046584	Você se perdeu? A festa é no outro lado.
 1419974059	Se perdeu? A festa é para lá.
-1943876794	Não quer ouvir, hein ?!
+1943876794	Não quer ouvir, hein?!
 1507348859	Acha que pode me ignorar?
 764975081	Eu disse não!
 966552655	Tentando me provocar?
@@ -63,9 +63,9 @@
 1554097924	Cuidado. Temos encrenqueiros aqui.
 1747802112	Olhos abertos. Alguém está se escondendo.
 1511239105	Veja! Lá em cima!
-1981567975	Como eles chegaram lá em cima ?!
+1981567975	Como eles chegaram lá em cima?!
 756909435	Puta merda. Eles estão acima de nós!
-545697767	Oh sim? Por que você não vem aqui ?!
+545697767	Oh sim? Por que você não vem aqui?!
 1247224979	Ei, isso não é justo!
 2071950975	Eu vou te pegar, só espere!
 1651062176	...
@@ -158,14 +158,14 @@
 349916379	Filho da puta!
 1374683519	Te peguei agora!
 109459333	Quem nós temos aqui?
-313084033	Quem diabos é você ?!
+313084033	Quem diabos é você?!
 1045741914	Hah! Encontrei você!
 585488968	Eles nos encontraram!
 971380003	Você está procurando pelo Frank?
 1351776029	Você acha que é forte?
-841504210	Você quer ser um herói ?!
+841504210	Você quer ser um herói?!
 886280733	Pelo grande Ann!
-2075690145	Criando problemas, hein ?!
+2075690145	Criando problemas, hein?!
 1938333875	Este lugar é nosso!
 1577189334	São os dois palhaços!
 164287038	Oh vamos lá!
@@ -177,7 +177,7 @@
 771863377	Há mais deles!
 176005074	Puta merda! Emboscada!
 765574803	Eles estão nos cercando!
-2096268228	Invasão, hein ?!
+2096268228	Invasão, hein?!
 1418627950	Você não tem negócios aqui!
 1532417531	Você não pertence aqui!
 1192178920	Você não é permitido aqui!
@@ -189,11 +189,11 @@
 55548532	Estou te levando!
 311573507	Você está preso!
 1930443670	E-encrenqueiro!
-454602035	Como você saiu ?!
+454602035	Como você saiu?!
 1593210707	Temos uma fuga!
 488029118	Inútil!
 458681609	Espionando a Companhia?!
-236452969	Bisbilhotando, hein ?!
+236452969	Bisbilhotando, hein?!
 358696004	Perdido?! Deixe-me ajudá-lo!
 544464778	Você não está na Companhia!
 398318218	Defenda o ninho!
@@ -201,10 +201,10 @@
 1845621592	Você é comida de jacaré!
 1361819409	Isso é um bloqueio!
 1453000513	Deveria ter ficado em casa!
-230310858	Quem te deixou sair ?!
-203952778	Cansado de cavar, hein ?!
+230310858	Quem te deixou sair?!
+203952778	Cansado de cavar, hein?!
 725059213	Ninguém sai daqui!
-2066113635	Tentando fugir, hein ?!
+2066113635	Tentando fugir, hein?!
 83332111	Fim da estrada!
 841341561	DeVitt quer você morto!
 2039882542	Você não está na lista de convidados!
@@ -289,11 +289,11 @@
 2049087796	Levante essa bunda preguiçosa.
 1854772041	Pare de relaxar.
 1546977281	Quem fez isto para voce?!
-925926933	Quem te amarrou assim ?!
+925926933	Quem te amarrou assim?!
 2100907642	Huh?!
 1388945124	O que é isso?
 1552182251	Você ouviu isso?
-658213559	Quem diabos está fazendo isso ?!
+658213559	Quem diabos está fazendo isso?!
 10535971	Isso não é engraçado!
 814182261	Tudo bem, chega!
 700692365	Merda, de onde isso veio!
@@ -301,7 +301,7 @@
 543918863	Eles estão atirando em nós!
 1540126465	Alguém está jogando dinamite!
 410614831	Eles estão usando dinamite!
-2098930156	Quem fez esse estrondo ?!
+2098930156	Quem fez esse estrondo?!
 1602415572	Ei, eu ouvi isso!
 1221326707	Quem está aí?!
 404807836	Mostre-se!
@@ -326,7 +326,7 @@
 733859229	Que diabos foi isso?
 308117414	Onde está o palhaço que me bateu?
 1694398666	Oh, eles vão pagar por isso.
-1415117126	Não é tão corajoso agora, hein ?!
+1415117126	Não é tão corajoso agora, hein?!
 2111028300	Alguém aqui?
 1837245175	Eu vou te encontrar, você sabe.
 2010243430	Você está com um grande problema!

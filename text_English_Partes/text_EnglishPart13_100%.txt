@@ -5,7 +5,7 @@
 610748151	He, he, eu lembro desse.
 230768875	Também culpado de desfigurar as paredes do tribunal distrital e vários outros escritórios públicos.
 1562964936	Nós terminamos aqui? Eu tenho coisas melhores para fazer.
-878827343	Parece que o Sr. Smolker deseja prosseguir com sua execução. Carrasco... Onde está o carrasco ?!
+878827343	Parece que o Sr. Smolker deseja prosseguir com sua execução. Carrasco... Onde está o carrasco?!
 240168927	Talvez ele tenha dormido demais.
 208998042	A execução deve ser adiada até que um carrasco esteja presente. Portanto, reiterarei a sentença
 849714549	Heh, aqui vamos nós de novo.
@@ -283,15 +283,15 @@
 1483544029	Procure Wayne no escritório. Doc deve abrir a fechadura.
 1015217844	Codenames
 1541996634	Descubra qual suspeito passa pelo qual codename.
-910947410	O Jackal: ???
+910947410	O Jackal:???
 115785275	A verdadeira identidade de "O Jackal" ainda é desconhecido.
 2107795913	O Jackal: Conhecido
 1872910049	A verdadeira identidade de "O Jackal" é o juiz McGain. Ele está no Café Chez Manu.
-265862370	A Spider: ???
+265862370	A Spider:???
 398061130	A verdadeira identidade de "A Spider" ainda é desconhecido.
 1895602694	A Spider: Conhecida
 1220038200	A verdadeira identidade de "A Spider" é o Sr. Irving. Ele pode ser encontrado no Red Lantern.
-986774561	O Hawk: ???
+986774561	O Hawk:???
 80201398	A verdadeira identidade de "O Hawk" ainda é desconhecido.
 438176070	O Hawk: Conhecida
 1333558314	A verdadeira identidade de "O Hawk" é o capataz O'Neill. Ele está localizado no Pier 9.

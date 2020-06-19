@@ -230,7 +230,7 @@
 1504803829	Ahhh, os reforços chegaram! Que bom que vocês dois conseguiram chegar ao nosso pequeno churrasco.
 1981540590	Quem é o espantalho, amigo?
 530391811	O nome é McCoy, amigo.
-234548493	McCoy ?! Nunca imaginei que eu lutaria lado a lado com um escocês. Sem ofensa.
+234548493	McCoy?! Nunca imaginei que eu lutaria lado a lado com um escocês. Sem ofensa.
 1122718315	Negligência
 1484168522	Escute, vimos cavaleiros descendo a passagem da montanha.
 962755699	Tudo bem então, vamos ao que interessa.
@@ -295,9 +295,9 @@
 600949272	Você não está chegando a lugar nenhum seu merda, seus fodidos corporativos!
 750683171	Deixe vir! Temos muita munição aqui em cima.
 848772340	Heh, isso está começando a ficar interessante.
-459879105	Vamos lá, isso é tudo que você tem ?!
+459879105	Vamos lá, isso é tudo que você tem?!
 1061802792	Está certo! Aqui em cima!
-461033642	Você acha que estamos com medo de você ?!
+461033642	Você acha que estamos com medo de você?!
 448504532	É assim que se trata uma dama?!
 606402482	Bem, isso não foi legal, foi!
 614777867	Vamos mantê-los ocupados.

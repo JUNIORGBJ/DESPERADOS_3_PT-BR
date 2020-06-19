@@ -35,7 +35,7 @@
 1853899276	Maldito idiota, você quer criar problema?
 817274780	Este lugar é nosso!
 1280589501	São os dois palhaços!
-256410828	Indo ao casamento, não é ?!
+256410828	Indo ao casamento, não é?!
 403585896	Não precisamos de problemas hoje!
 139174806	Hein? Você não foi convidado!
 1977428016	Encontrei os assassinos!
@@ -56,7 +56,7 @@
 137336679	Mãos para cima!
 630887659	Espere ai! Bandido!
 422368342	Eu vi você, seu fora da lei!
-924509837	Hein ?! Como você escapou?!
+924509837	Hein?! Como você escapou?!
 870085394	Temos um corredor!
 392814218	Você não vai fugir, precioso!
 1318282695	Isso está fora dos seus limites!
@@ -96,13 +96,13 @@
 1572805712	Ei, garoto! Você não deveria estar aqui!
 983666950	Pare onde está, garoto!
 1336641929	Porra! O marechal!
-348504339	O marechal ?! Você não estava trancado ?!
+348504339	O marechal?! Você não estava trancado?!
 1122248226	Espere... quem está atrás de mim?
 509959543	Espere... tem alguém atrás de mim?
 952557106	Alguém está por perto. Eu posso sentir isso...
 58814030	Se me tocar eu te encho de bala!
 15534703	Ai! O que é que foi isso?
-288280525	O que ?! Recuar!!
+288280525	O que?! Recuar!!
 970733501	Whoa! Maldito sorrateiro!
 739591158	Então você estava se escondendo!
 613914824	Se acha esperto, se escondendo aqui?

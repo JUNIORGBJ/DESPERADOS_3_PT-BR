@@ -253,8 +253,8 @@
 1422147188	Você pode <skill>esconder corpos</skill> em arbustos, casas e outros lugares./nSegure {0}, e então aperte {1} pegar um corpo./nAo carregar um corpo, Segure {2} e pressione {3} para largá-lo no local escolhido./n
 70988820	Você pode <skill>esconder corpos</skill> em arbustos, casas e outros lugares./nAproxime-se para pega-los. Se um inimigo estiver inconsciente, você terá que amarrá-lo primeiro./nAo transportar um corpo, pressione {0} para largá-lo.
 685610135	A bolsa do médico
-1817172584	McCoy pode jogar sua <skill>bolsa</skill> para atrair guardas. Ele tem que <skill>recuperá-la</skill> novamente ./nUma armadilha de gás <skill>cega</skill> inimigos que abrem a sacola, o que os leva a <skill>investigar</skill> somente mais tarde./n
-1700272806	McCoy pode jogar sua <skill>bolsa</skill> para atrair guardas. Ele tem que <skill>recuperá-la</skill> novamente ./nUma armadilha de gás <skill>cega</skill> inimigos que abrem a sacola, o que os leva a <skill>investigar</skill> somente mais tarde./n
+1817172584	McCoy pode jogar sua <skill>bolsa</skill> para atrair guardas. Ele tem que <skill>recuperá-la</skill> novamente./nUma armadilha de gás <skill>cega</skill> inimigos que abrem a sacola, o que os leva a <skill>investigar</skill> somente mais tarde./n
+1700272806	McCoy pode jogar sua <skill>bolsa</skill> para atrair guardas. Ele tem que <skill>recuperá-la</skill> novamente./nUma armadilha de gás <skill>cega</skill> inimigos que abrem a sacola, o que os leva a <skill>investigar</skill> somente mais tarde./n
 1804620665	Frasco de gás do pântano
 178798020	McCoy pode lançar um <skill>Frasco de Gás</skill> que <skill>nocauteia</skill> todos os guardas em seu raio./nCasaco longo são <skill>protegidos</skill> pela bandana e só ficam atordoados temporariamente.
 1524919872	Rifle

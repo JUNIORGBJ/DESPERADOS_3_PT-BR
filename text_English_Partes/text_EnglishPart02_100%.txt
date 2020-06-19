@@ -324,7 +324,7 @@
 127821282	---
 1812509848	REDEFINIR
 1366477586	Redefinir todas as ações de entrada para os valores padrão?
-1706772755	Aqui você pode personalizar e criar novos layouts de controle. As alterações são aplicadas automaticamente. Para mudar de layout, selecione-o e pressione {0} para aplicar ./n/nLayout ativo: {1}
+1706772755	Aqui você pode personalizar e criar novos layouts de controle. As alterações são aplicadas automaticamente. Para mudar de layout, selecione-o e pressione {0} para aplicar./n/nLayout ativo: {1}
 152282435	Stick direito
 957749598	Stick esquerdo
 573536425	Zoom da câmera

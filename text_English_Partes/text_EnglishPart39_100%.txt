@@ -129,7 +129,7 @@
 403006449	Lá em cima, seus idiotas!
 803336758	Quem deixou eles subirem?!?
 775445070	Idiotas. Eles estão acima de nós!
-268735172	Ah, sim? Por que você não vem aqui ?!
+268735172	Ah, sim? Por que você não vem aqui?!
 1672574966	Dane-se!
 1391146115	Eu vou te pegar, você vai ver!
 1178671702	...
@@ -223,14 +223,14 @@
 1019155775	Filho da puta!
 43377254	Agora eu te peguei!
 1578354338	Quem temos aqui?
-1372434458	E quem diabos é você ?!
+1372434458	E quem diabos é você?!
 116551045	Ah! Te encontrei!
 37220624	Eles nos encontraram!
 1260902518	Você está procurando pelo Frank?
 1848103134	Você se acha durão?
 1924717696	Você quer se tornar um mártir?!?
 1285205079	Para Big Ann!
-13049574	Criando problemas, hein ?!
+13049574	Criando problemas, hein?!
 1405393317	Este lugar é nosso!
 2026894297	São esses dois palhaços!
 1383597619	Oh, vamos lá!
@@ -242,7 +242,7 @@
 1894939438	Existem outros!
 1785392857	Ah, merda! Emboscada!
 1612688395	Eles estão nos cercando!
-234552194	Invadindo, hein ?!
+234552194	Invadindo, hein?!
 853425242	Você não tem que estar aqui!
 640263523	Você não pode ficar aqui!
 1966777971	Você não tem permissão para ficar aqui!
@@ -254,7 +254,7 @@
 1703341366	Vou levá-lo para dentro!
 1286890586	Você está preso!
 57848842	Encrenqueiro!
-1793053149	Como você saiu ?!
+1793053149	Como você saiu?!
 434271510	Temos um fugitivo!
 1743380973	Lixo sem valor!
 148109999	Você está espionando a empresa?!?
@@ -266,10 +266,10 @@
 1973633271	Você é comida para jacarés!
 1371374806	Este é um confinamento!
 1179380414	Deveria ter ficado em casa!
-368365701	Quem te deixou sair ?!
-410158062	Cansado de cavar, hein ?!
+368365701	Quem te deixou sair?!
+410158062	Cansado de cavar, hein?!
 1726981294	Ninguém sai daqui!
-2022791676	Você estava tentando escapar, hein ?!
+2022791676	Você estava tentando escapar, hein?!
 1691256186	Fim da estrada!
 1409852122	DeVitt quer vê-lo morto!
 1401622610	Você não está na lista de convidados!

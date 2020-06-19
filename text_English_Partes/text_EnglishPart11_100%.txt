@@ -90,7 +90,7 @@
 2145455900	Hã? O que ela está fazendo ali? Espero que ela esteja bem... Vamos acordá-la.
 1894810900	Ok, precisamos conversar...
 1569792280	Tudo bem, você deve se reagrupar e... falar sobre... coisas.
-1051569863	Onde diabos está o Doc ?!
+1051569863	Onde diabos está o Doc?!
 49800793	Ele tem que estar em algum lugar... certo? Você precisa encontrá-lo. Pergunte por aí. Bem, não pergunte por aí, mas... você sabe... Apenas encontre-o, ok?
 2007094801	Vamos dar o fora daqui... 
 396670543	Oh sim, o capitão está esperando... Bem, é melhor você colocar todos a bordo.
@@ -261,7 +261,7 @@
 1493770634	Talvez possamos tirar proveito disso primeiro.
 182306948	Esses caras são como ratos. Talvez o cowboy. O antes da casa. Alguém pode me ajudar.
 1221124038	Há mais pessoas aqui do que no barco e na casa. Talvez eu deva voltar.
-1553085149	Ei, por que não estamos usando a Metralhadora ?!
+1553085149	Ei, por que não estamos usando a Metralhadora?!
 900943188	Tirem suas mãos! O chefe enlouquece se você tocar nele!
 658516183	Eu o peguei Casey! Eu acho que o peguei!
 508731454	Ele ainda está atirando em nós, maldito tolo!

@@ -7,8 +7,8 @@
 445835136	Como nos bons velhos tempos.
 1308192785	Ei, como está indo?
 386837316	Está tudo bem.
-745996483	Olá .
-2015670863	Olá .
+745996483	Olá.
+2015670863	Olá.
 929047574	Como você está indo?
 1850282191	Estou bem.
 733864984	Algo errado?
@@ -235,11 +235,11 @@
 2033444305	Hã?!
 693928559	O que é que foi isso?
 314300688	Você ouviu isso?
-384314385	Ei, quem está fazendo isso ?!
+384314385	Ei, quem está fazendo isso?!
 1869288065	Não tem graça!
 1458802747	Tudo bem, chega!
 321683688	O que!
-1862286260	Quem está atirando ?!
+1862286260	Quem está atirando?!
 744830321	Alguém está atirando em nós!
 206022182	Ei, eu ouvi isso!
 2075538787	Quem está aí?

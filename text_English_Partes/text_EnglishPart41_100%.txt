@@ -14,7 +14,7 @@
 1857645644	Eles devem estar por aqui em algum lugar!
 1706476624	Alguém encontrou alguma coisa?
 56517984	Merda, não os deixe fugir!
-1978223429	Pelo amor de Deus, onde estão eles ?!
+1978223429	Pelo amor de Deus, onde estão eles?!
 237165760	Esses filhos da puta estão se escondendo bem!
 704530974	Chega de surpresas!
 1777892276	Eles estão fugindo!
@@ -302,7 +302,7 @@
 1089977294	...
 1806109170	Para que estou pagando vocês? Peguem eles!
 316290864	Fodam-se todos! Guardas!
-831227044	Olá ?! Guardas!
+831227044	Olá?! Guardas!
 791395241	Homens! Cuidem disso!
 1403579470	Guardas! Livrem-se deles!
 1518169020	Esta festa não é para você!
@@ -311,11 +311,11 @@
 829874037	Não na minha festa!
 1361837692	Você não vai me pegar tão facilmente!
 1114504376	Retire-se da minha propriedade.
-83552788	Você não aprendeu sua lição ?!
+83552788	Você não aprendeu sua lição?!
 1385884705	Eu pensei que você era mais esperto do que isso!
 2063215583	Onde diabos estão meus homens?
 1481387523	Você matou meus guardas?
-852313395	Eu tenho que fazer tudo sozinho ?!
+852313395	Eu tenho que fazer tudo sozinho?!
 2124095848	Estou cercado de incompetência?
 294645845	Não preciso de ajuda para derrubá-lo.
 1534316484	Voltem para seus postos. Continuem patrulhando.
@@ -323,7 +323,7 @@
 776177291	Eles fugiram. Mantenha-os longe dos convidados, entenderam?
 1419293313	Você está se divertindo aí em cima?
 2031447793	Lá em cima! Atire neles!
-814595007	Por que você não vem aqui ?!
+814595007	Por que você não vem aqui?!
 1147097553	Isso não irá mantê-lo seguro!
 1130468245	...!
 12732100	...!

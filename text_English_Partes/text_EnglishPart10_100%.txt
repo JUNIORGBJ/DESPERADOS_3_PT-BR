@@ -205,7 +205,7 @@
 100047546	Minha cabeça está tocando como um sino de igreja.
 1783238342	Lama. Lama significa pegada. E eu tenho pés grandes.
 1673735055	Aquele cara... ele está me procurando?
-1508570502	Ei, o que eu fiz para você ?!
+1508570502	Ei, o que eu fiz para você?!
 40883198	Merda, isso é ruim. É melhor eu encontrar os outros.
 1166266992	Ok... você não é Bianca. O que você pode fazer?
 1223273402	Não é ruim. Você é um guardião!
@@ -250,7 +250,7 @@
 1926548427	Ele fez agora. O bom homem ainda está esperando por nós.
 14030696	Mesmo assim, vamos nos apressar. Este não é um lugar para ser deixado para trás.
 476190830	Tudo bem, tudo bem. Encontramos Doc, embarcamos no barco e esquecemos que isso já aconteceu.
-1710861253	Ei, você viu minha faca? Ou minhas armas ?!
+1710861253	Ei, você viu minha faca? Ou minhas armas?!
 849892578	Estou sentindo falta do machado.
 1640469646	Você viu Bianca? Eu sinto falta dela.
 1939241309	Acho que guardamos nossas armas no barco.

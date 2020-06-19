@@ -150,7 +150,7 @@
 1095455461	Onze.
 1934833708	Treze.
 1441084342	Você pulou doze.
-615032282	Você acha que eu não posso contar até treze ?!
+615032282	Você acha que eu não posso contar até treze?!
 369939346	Não achei que você passaria de três.
 563571499	Tudo bem, agora são treze.
 876337595 	e catorze.
@@ -317,7 +317,7 @@
 396838969	É melhor pensarmos em algo antes que eles destruam a casa.
 493021535	O velho atirou no barril de petróleo. Você está pensando o que eu estou pensando?
 1644492674	Fogo do inferno.
-523802842	O que está errado? Por que parou ?!
+523802842	O que está errado? Por que parou?!
 418595128	Não tenho certeza, deixe-me ver...
 1085566140	Conserte!
 770777228	Estou tentando, chefe!
