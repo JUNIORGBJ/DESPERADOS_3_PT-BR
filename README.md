@@ -1,12 +1,12 @@
 [![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discord.gg/HESMuU2)
 
 
-### :warning:Atenção:warning:
+### :warning:Atenção Tradução em revisão:warning:
 - ***Arquivos a serem traduzidos se encontra na pasta*** ```text_English_Partes```
 - ***Use o chat do Discord para informar a parte que queira traduzir.***
 - ***Por favor não alterar os Espaços no inicio dos texto.***
 - ***Por favor não alterar o que estiver dentro de asteriscos EX: *laughs*.***
-- ***Por favor não altere quaisquer codigo do jogo. EX: /n/n ou {0}***
+- ***Por favor não altere quaisquer código do jogo. EX: /n/n ou {0}***
 
 <h1 align="center"><figure>
   <img src="DesperadosIII.png">
