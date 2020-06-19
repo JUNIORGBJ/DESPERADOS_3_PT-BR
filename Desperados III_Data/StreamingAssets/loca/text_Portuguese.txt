@@ -15,28 +15,28 @@ Portuguese	Português(BR)
 1593035469	Selecionar todos os personagens
 720952508	Cancelar seleção de todos os personagens
 8814543	Usar
-1707401394	Correr
-1228448906	Esconder cadáver
-974031510	Pulo baixo
-1570316501	Pulo
-1281200264	Equipamento que falta
+1707401394	Pegar
+1228448906	Esconder corpo
+974031510	Descer
+1570316501	Pular
+1281200264	Equipamentos ausentes
 1661399895	Soltar
 1970208064	Apontar
 332063575	Usar habilidade
 1642445805	Trocar habilidade
 979623826	Colocar marcador
-1371401178	Remover marcador
+1371401178	Tirar marcador
 14277674	Alternar visual do cone
 1007288526	Alternar ação
 760226682	Executar plano
-623490031	Registro de missões
+623490031	Diário
 1137813917	Pausar
 341979071	Continuar
 1020053951	Salvar rápido
 1985431665	Criar ponto de controle
 1985552838	Reiniciar plano
 735890781	Cancelar
-45909301	Um de seus personagens morreu.
+45909301	Morreu um dos seus personagens.
 1126684877	James Cooper morreu.
 1767301141	Kate foi capturada a caminho do escritório.
 1804249882	Não resta dinamite para destruir o alvo.
@@ -44,22 +44,22 @@ Portuguese	Português(BR)
 2004899354	Câmera
 1848829029	Nenhum
 417700520	Matar
-575344989	Disparar
+575344989	Atirar
 964636690	Substituir este jogo salvo?
 454694763	Reiniciar a missão? Todo o progresso não salvo será perdido.
 1410384205	Sair da missão? Todo o progresso não salvo será perdido.
 426906539	Carregar jogo salvo selecionado
-1455108595	Criar no jogo salvo
+1455108595	Salvar o jogo
 537819092	Tempo de conclusão:
-1033428211	Número de jogo salvo:
-1389622243	Número de carregamentos:
+1033428211	Contagem de registros salvos:
+1389622243	Contagem de registros carregados:
 876575705	Inimigos mortos:
-663721942	Inimigos perdoados:
+663721942	Inimigos poupados:
 1332746099	Civis mortos:
-1918849677	Lesões sofridas:
-341645269	Jogadores detectados:
-1712271163	Cadáveres descobertos:
-1445260513	Número de alarmes:
+1918849677	Danos sofridos:
+341645269	Jogador descoberto:
+1712271163	Corpos descobertos:
+1445260513	Contagem de alarmes:
 2046070127	Mais execuções:
 1305585010	Mais mortes:
 221506391	{0}:{1}:{2}
@@ -146,13 +146,13 @@ Portuguese	Português(BR)
 751714715	4×
 723357853	8×
 543329642	Volume principal
-1806164857	Volume da música
-193405480	Volume SFX
-2076792662	Volume da voz
-506360498	Aumentar ou diminuir o volume geral do jogo.
-636360512	Aumente ou diminua o volume da música do jogo.
-719162085	Aumente ou diminua o volume dos efeitos sonoros.
-1496215659	Aumente ou diminua o volume das vozes dos personagens.
+1806164857	Volume das músicas
+193405480	Volume dos sons
+2076792662	Volume das vozes
+506360498	Aumentar/Diminuir o volume total do jogo
+636360512	Aumentar/Diminuir o volume de música de jogo
+719162085	Aumentar/Diminuir o volume de efeitos sonoros
+1496215659	Aumentar/Diminuir o volume das vozes dos personagem
 1205484016	DISTINTIVOS
 383018457	Dificuldade
 1545645000	Principiante
@@ -655,11 +655,11 @@ Portuguese	Português(BR)
 1190198233	Criar
 1068196803	SELECIONAR
 1445520163	JOGADOR
-580614165	Editar controles do player
+580614165	Editar os controles do jogador
 657216753	CÂMERA
-598043235	Editar controles da câmera
+598043235	Editar os controles de câmera
 745724744	GERAL
-485190448	Editar controles gerais
+485190448	Editar os controles gerais
 101526216	{0}
 127821282	---
 1812509848	REDEFINIR
@@ -1939,7 +1939,7 @@ Portuguese	Português(BR)
 389220884	Eu acho que esse lado é muito mais imponente.
 256272098	Outra placa.
 2031706714	Você gostou do vestido novo, docinho?
-21845656	Querido.
+21845656	É adorável, querida.
 986374359	Excelente! Quero que todos falem sobre esse dia nos próximos anos.
 1065468858	Prefeito Higgins!
 687118702	O que foi agora?
