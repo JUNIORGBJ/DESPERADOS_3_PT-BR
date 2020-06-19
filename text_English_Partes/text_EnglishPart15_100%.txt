@@ -15,7 +15,7 @@
 1724359099	Você tem estado bastante quieta ultimamente.
 1538141028	só pensando. Não se preocupe.
 1993344264	Posso embarcar no meu treinador agora, senhora? Estou encharcado.
-129710443	Medo não. Temos que procurar tudo em tudo ... Completamente ...
+129710443	Medo não. Temos que procurar tudo em tudo... Completamente...
 63074807	Completamente?
 138876612	Sim, essa é a palavra.
 115078417	Eu não entendo o que você quer de mim.
@@ -52,7 +52,7 @@
 1433012591	Prefiro estar em um tiroteio do que essa maldita chuva.
 1075732644	Você ouviu o que Frank fez com o pobre Lewis?
 714126194	Não devemos conversar sobre isso.
-1806619748	Quero dizer, o homem era burro como um tijolo, mas ainda assim ...
+1806619748	Quero dizer, o homem era burro como um tijolo, mas ainda assim...
 593162373	Frank tem estado estranho ultimamente. Talvez ele esteja finalmente perdendo.
 843777318	Cuidado. Frank disse que eles poderiam vir aqui depois do que aconteceu no Nest.
 1366766968	Entendi, chefe. Vou manter meus olhos abertos.
@@ -67,7 +67,7 @@
 1435054417	Fique vigilante! Quem sabe o que esses idiotas estão fazendo.
 1871452352	Está sob controle, chefe.
 1627958694	O Pier 9 está ao virar da esquina.
-163337462	Ali está o porto. Qual era o número novamente ...
+163337462	Ali está o porto. Qual era o número novamente...
 396578546	Lembre-se: todos nós nos encontramos no portão no píer 9. Ninguém entra sozinho.
 1239364360	Não tem problema, Cooper.
 1461662265	Claro, amigo.
@@ -82,7 +82,7 @@
 134435750	Fora do meu caminho, Hector.
 43231532	Pare com isso, vocês dois!
 1901925498	Ouça-me amigo.
-1045394329	Se você for lá sozinho, vai acabar como seu pai ...
+1045394329	Se você for lá sozinho, vai acabar como seu pai...
 858015093	Hector!
 816542941	Que diabos?!
 15435487	Que porra há de errado com você, Cooper?
@@ -113,15 +113,15 @@
 1609886027	Você está se divertindo lá atrás?
 954257301	Olá Frank.
 224421558	Você cresceu, garoto.
-196362913	Um pouco mais magro que seu pai, mas no geral não é ruim ...
+196362913	Um pouco mais magro que seu pai, mas no geral não é ruim...
 1351876617	Quanto tempo faz? Dez anos? Quinze?
 2051399708	Você está ficando velho.
 326573527	...Talvez.
 1648785514	Imagino o que ele diria.
-346461861	Você vive de sujeira e sangue, fazendo um nome para si mesmo ...
+346461861	Você vive de sujeira e sangue, fazendo um nome para si mesmo...
 1049010232	Assim como nós no dia.
 1161837714	Você terminou? Porque eu não tenho o dia todo.
-59352447	Tudo bem garoto ...
+59352447	Tudo bem garoto...
 1689389748	Vamos ver até onde você chegou.
 1856970436	VO TRACK
 2115571404	Gnh...
@@ -148,7 +148,7 @@
 1711981189	Não podemos deixar que o bom material seja desperdiçado.
 1683647250	Ele vai trabalhar até a morte nas minas.
 710916016	Junto com seus amigos.
-1535498807	Seu pedaço de merda ...
+1535498807	Seu pedaço de merda...
 1405023782	...argh...
 528193204	VO TRACK
 660651684	Alcance o píer 9
@@ -173,7 +173,7 @@
 1124817653	Hrm...
 1518677183	Seu ainda doe?
 723975603	Bah. Apenas um pouco somente.
-412202818	Mas se eu não sair daqui em breve ...
+412202818	Mas se eu não sair daqui em breve...
 1788194199	... eu vou matar alguém.
 1980473239	Mantenha junto. Vamos esperar até o próximo intervalo.
 411261535	Tenho que dizer, esse seu plano é bem selvagem.
@@ -230,7 +230,7 @@
 702008517	Aquela maldita cascavel. Você sabe por que eles o colocaram em uma gaiola, certo?
 602685612	Bianca! Eu com certeza senti sua falta, garota.
 1036057740	Parece que tudo está em ordem.
-213539764	Aí estamos ... Poucas folhas ainda estão frescas o suficiente.
+213539764	Aí estamos... Poucas folhas ainda estão frescas o suficiente.
 1761626187	E os pertences do Cooper e Kate?
 2037177346	Na minha bolsa.
 872089983	Agora o carrinho do mineiro.
@@ -245,10 +245,10 @@
 1716104162	Ainda precisamos do carrinho da mina.
 929155596	Ei, não esqueça o carrinho.
 241452100	Ei, e o carrinho da mina?
-933936963	UhHrg ... Aqui vamos nós.
-1162401160	UhHrg ... Carrinho leve, ele diz.
-1992285649	Hum ... heh, fácil.
-304649958	Agora ... agora o que fazemos?
+933936963	UhHrg... Aqui vamos nós.
+1162401160	UhHrg... Carrinho leve, ele diz.
+1992285649	Hum... heh, fácil.
+304649958	Agora... agora o que fazemos?
 880749737	O que vamos fazer agora?
 906973344	Temos que mudar de faixa. Use as alavancas.
 16619315	Aqui vamos nós.
@@ -261,7 +261,7 @@
 257591643	Você pode agradecer a Cooper por isso.
 1995265388	A mina de carvão.
 1732852213	Através da mina de carvão, hein?
-349144287	Bah ... Este é o último carrinho que estou empurrando por aqui.
+349144287	Bah... Este é o último carrinho que estou empurrando por aqui.
 889883823	Ainda melhor do que garimpar ouro no rio.
 1740639474	Continue nisso.
 1659033132	Encaminhar ho.
@@ -315,11 +315,11 @@
 174451128	Cooper.
 1799230920	Conversaremos mais tarde.
 351677477	Pode apostar.
-846142708	Hgn ... droga.
+846142708	Hgn... droga.
 1826544707	Vou ter que ir devagar.
 245698559	Então, qual o plano?
 349376903	Você cale a boca e deixe o mais sábio entre nós descobrir isso.
-1193466608	Sim ... eu tive isso vindo. Eu continuo.
+1193466608	Sim... eu tive isso vindo. Eu continuo.
 526041900	Huh...
 1150084086	Uh...
 318572992	Há mais dinamite naquele barril.

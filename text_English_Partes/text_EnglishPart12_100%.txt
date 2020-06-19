@@ -1,5 +1,5 @@
 1192625616	Obrigado por me lembrar.
-220086571	Então, como você acabou se escondendo naquele buraco, Sr. ....?
+220086571	Então, como você acabou se escondendo naquele buraco, Sr.....?
 853303776	McCoy. Doutor McCoy.
 710070477	Certo. Você não respondeu à pergunta.
 761496402	É chamada de retirada tática.
@@ -29,11 +29,11 @@
 1589604806	Acalme-se. Eu estou trabalhando nisso.
 899864495	Hey Doc! Tire-me daqui, sim!
 825361305	Não é tão alto seu idiota.
-1706790544	Desculpe ... Você pode quebrar a fechadura, certo?
+1706790544	Desculpe... Você pode quebrar a fechadura, certo?
 568519898	Kate! Você conseguiu! Rápido, pegue a chave!
 1921850393	Acalme-se, Hector. Você estará livre em um instante.
 798651870	Ah obrigada. Porra, eu odeio jaulas.
-393895812	Tanto faz. Acho que é melhor falar com ela ...
+393895812	Tanto faz. Acho que é melhor falar com ela...
 1804992490	Bem, agradeça a ela...
 184340124	Então é melhor você agradecer Isabelle aqui...
 412343447	Ei grandão.
@@ -49,7 +49,7 @@
 531851531	Você é daqui, Isabella?
 883147652	Louisiana nascida e criada. E é Isabelle.
 406644960	Eu não sou bom com nomes franceses.
-119973129	Então, Isabella ... É Isabella, certo?
+119973129	Então, Isabella... É Isabella, certo?
 1143413641	Tenho certeza que foi Isabelle da última vez que te contei.
 1740464407	Só vou te chamar de Belle.
 918117087	Eu gosto de você, Hector.
@@ -78,7 +78,7 @@
 413509809	Você veio para mais, não é? Bem, venha aqui.
 1513128327	Calma senhora. Eles são apenas bonecos. Estou aqui.
 908001360	Um boneco? Bem, isso não é nada estranho.
-417370763	Onde estão minhas maneiras ... Kate O'Hara, prazer em conhecê-lo.
+417370763	Onde estão minhas maneiras... Kate O'Hara, prazer em conhecê-lo.
 603155133	Isabelle Moreau. O prazer é todo meu, querida.
 804556869	Vamos conversar no caminho. Estou farto deste lugar.
 158319368	Certo. Outros precisam da nossa ajuda.
@@ -92,7 +92,7 @@
 1881573874	Hah, engraçado? Lembro que você estava no comando!
 906631689	Todo o nosso pagamento extra se foi porque você não tem cérebro.
 1711192605	Se há alguém que tem culpa aqui, é você.
-2088707612	Então ... ficamos aqui até o grandalhão aparecer?
+2088707612	Então... ficamos aqui até o grandalhão aparecer?
 1269672492	Sim. E então dizemos à Baxter que é tudo culpa sua.
 118766212	É a sua primeira vez na Louisiana, querida?
 535305091	Sim. Não posso dizer que falta emoção.
@@ -106,7 +106,7 @@
 1711974230	Apenas um pouco de azaração, querida. Nada para se assustar.
 1819930513	Okay, certo. Eu vi você atirar esses dardos venenosos.
 1579312449	Claaaro! Foi assim que eu fiz.
-1914204443	Mas o que ... O que aconteceu com o outro?
+1914204443	Mas o que... O que aconteceu com o outro?
 1503164335	Não se preocupe. Apenas um pouco de azar.
 422801008	Má sorte? Deve ser muito prático.
 1214013721	Heh, você aposta.
@@ -118,7 +118,7 @@
 1102711948	Você tem que me ensinar como fazer isso.
 1133135825	Pequenos truques são gastos, Srta. Moreau.
 25367564	Não se preocupe. Eu não posso fazer isso com muita frequência.
-1820063252	Essa coisa ... funciona com sangue, né?
+1820063252	Essa coisa... funciona com sangue, né?
 1224752034	Tudo tem seu preço.
 1011953895	Senhorita, você acabou de enfiar uma faca na mão?
 846584187	Eu preciso de um minuto Eu ainda estou tonto.
@@ -129,7 +129,7 @@
 1151122410	O que está errado? O que há com sua mão?
 135221885	Só um pouco de sangue. Acontece o tempo todo.
 2092686027	Era você, não era? Você disse a eles para fazer isso.
-1115531037	Heh, garota inteligente ...
+1115531037	Heh, garota inteligente...
 996745164	Sabe, não posso dizer o que mais me assusta: isso, ou você está cortando sua mão assim.
 58130513	Não deixe que isso te incomode, ok? É o que eu faço.
 764336279	Um gato esperto.
@@ -283,7 +283,7 @@
 146513349	Tanto faz. Alguma ideia brilhante de como encontramos o seu Wayne?
 599156730	Minhas tripas me dizem que é a Companhia DeVitt. Talvez eles tentaram se livrar dele.
 975977912	Faz sentido. Mas como descobrimos o que aconteceu?
-1866657286	Hmm, deixe-me pensar ...
+1866657286	Hmm, deixe-me pensar...
 828060417	Wayne me disse que estava investigando três homens conectados a Devitt.
 1350230044	Arthur McGain, juiz distrital. Passa as noites no Café Chez Manu.
 1364286212	Raymond Irving, assumiu o Lanterna Vermelha depois que o proprietário anterior desapareceu.
@@ -314,7 +314,7 @@
 1071451308	Cheira a uma casa de ópio.
 1715461989	A toca do dragão. Parece emocionante. Vamos dar uma olhada lá em cima.
 789067316	Certo. Apenas não prove a mercadoria. Isso irá mexer com sua cabeça.
-1342473463	Ugh ... me sinto tonto.
+1342473463	Ugh... me sinto tonto.
 1062804395	Te disse que isso iria à sua cabeça.
 244970856	Vamos pegar o disfarce e sair deste lugar.
 1526696303	Oh hoh! Querida, você veste essa coisa com a classe.

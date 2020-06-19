@@ -114,7 +114,7 @@
 1782741770	Então. Quanto ao Frank. Você não saberia para aonde ele foi?
 364637150	Talvez sim. Você pode me oferecer algo em troca, Sr. Cooper?
 1182502649	Que tal minha lealdade eterna até escaparmos?
-92142602	Eu aceito isso ... e o que mais?
+92142602	Eu aceito isso... e o que mais?
 1588798955	Au...
 297422345	O que? Melhor do que uma faca na garganta, eu diria.
 1014899815	Não tenho certeza do que machucaria mais.
@@ -196,7 +196,7 @@
 1959489870	Não seria a primeira vez.
 935716525	Bem, é melhor você se apressar. Estaremos esperando você no rancho.
 163232293	Esperemos.
-1694366016	Então ... por que estamos defendendo um rancho agora?
+1694366016	Então... por que estamos defendendo um rancho agora?
 465742076	É uma longa história. Eu vou explicar no caminho.
 1094394493	Certo.
 1864486523	VO TRACK
@@ -204,7 +204,7 @@
 741079595	Entre pela porta da biblioteca. Você precisará de uma chave.
 1810415810	Procure na mesa
 1310171821	Roube o documento da mesa do prefeito
-435856407	Entre na Salão Principal ... Novamente
+435856407	Entre na Salão Principal... Novamente
 1298498881	Esgueirar-se para o complexo e subir nas videiras para entrar.
 1485659679	Entre no escritório
 718715566	Algo está acontecendo no gabinete do prefeito. Investigar.
@@ -218,7 +218,7 @@
 306521944	Essa pilha de caixas parece instável. Uma pena se isso desabasse sobre a cabeça de alguém.
 1822264759	Pedra solta
 530414943	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
-1453166023	Gah ... merda ...!
+1453166023	Gah... merda...!
 776792294	Esta empregada carrega uma chave mestra com ela. Kate pode pegar
 1748457233	Desculpe, Sr. O'Hara!
 1065855255	Estamos tão prontos quanto estaremos. Diga aos outros para ir para casa.
@@ -285,7 +285,7 @@
 724522486	Nós vamos atirar em você como peixe em um barril.
 950029220	Estou perdendo a paciência, O'Hara!
 271720026	Merda. Eu falhei.
-1352239587	Vamos ... Droga.
+1352239587	Vamos... Droga.
 1419458258	Nós vamos pegar você.
 625259513	Eu preciso de munição.
 147676223	Ufa...eu quase consegui.
@@ -318,7 +318,7 @@
 193903206	Ei, onde está o Frank? Pensei que ele é o chefe por aqui, não vocês.
 1171499585	Cale a boca! Ele está indo para Nova Orleans. Agora, comece a trabalhar - não temos a noite toda.
 1965000017	Há o galpão. Se ele ainda estiver lá dentro, é melhor eu dar uma olhada lá.
-2018922614	Huh ... a porta está trancada. Nada que eu não possa lidar.
+2018922614	Huh... a porta está trancada. Nada que eu não possa lidar.
 730836046	Obrigado por abrir isso. A porta da represa se trancou atrás de mim.
 352574572	Você está me dizendo que um homem grande como você não pode lidar com uma porta trancada?
 564158153	Não é quieto como você. Agora o que eu perdi?

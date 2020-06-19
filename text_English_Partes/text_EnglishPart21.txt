@@ -199,7 +199,7 @@
 256125331	...Yoohoo.
 920161108	...! Ah, merda.
 1459691392	...! Hrm, hombre!
-124316011	...! ...Minha cabeça.
+124316011	...!...Minha cabeça.
 530325714	Quanto mais melhor.
 1508511952	Lá vem eles.
 834403941	Está ficando um pouco cheio aqui.
@@ -300,7 +300,7 @@
 638763262	...Ooh.
 1956393684	...Whew, dizzy.
 1595148081	...Hmn!
-1915240785	... ...!
+1915240785	......!
 997375335	What's that... Tastes funny.
 558598886	Hmm... I feel great.
 869625814	Huh... Yeah, not bad.

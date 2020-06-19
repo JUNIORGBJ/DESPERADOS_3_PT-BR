@@ -17,7 +17,7 @@
 300116359	Eu peguei agora!
 1817428661	Maldita ruiva.
 1544866090	Como eles podem continuar?!
-420055764	Chuva de merda ... Não posso ver!
+420055764	Chuva de merda... Não posso ver!
 1728456799	Você está correndo? Bem, que pena!
 704996784	Eu tenho munição suficiente para todos vocês!
 53336037	Saia da nossa propriedade!
@@ -166,7 +166,7 @@
 1126339019	Vinte e quatro.
 358160500 	Vinte e cinco.
 210860315 	Vinte e seis.
-1650065866 	Vinte e seis ... set ... vinte e sete.
+1650065866 	Vinte e seis... set... vinte e sete.
 1824018816 	Vinte e oito.
 1975487706 	Vinte e nove.
 235618813 	Trinta.
@@ -268,7 +268,7 @@
 247604673	Então, onde você encontrou sua Bianca.
 1799273930	Um velho ferreiro me deu. Disse que ninguém a queria porque ela era grande demais.
 88785221	Mas não para você.
-1301401938	Você deveria tê-la visto. Todo maltratado e enferrujado. Eu tive que polir, limpá-la, lubrificá-la ...
+1301401938	Você deveria tê-la visto. Todo maltratado e enferrujado. Eu tive que polir, limpá-la, lubrificá-la...
 343744116	Acho que já ouvi o suficiente, obrigado.
 742161955	Hah, esta é a vida.
 213146842	Poderia continuar sem chuva.
