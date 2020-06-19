@@ -51,8 +51,8 @@ Portuguese	Português(BR)
 426906539	Carregar jogo salvo selecionado
 1455108595	Salvar o jogo
 537819092	Tempo de conclusão:
-1033428211	Contagem de registros salvos:
-1389622243	Contagem de registros carregados:
+1033428211	Contagem de jogos salvos:
+1389622243	Contagem de jogos carregados:
 876575705	Inimigos mortos:
 663721942	Inimigos poupados:
 1332746099	Civis mortos:
@@ -188,7 +188,7 @@ Portuguese	Português(BR)
 612494481	Idioma do texto
 357458454	Idioma da voz
 1830301241	Determina quanto tempo o Marcador permanecerá ativo:/nDesligado: permanece ativo por alguns segundos./nLigado: permanece ativo até ser desativado.
-1442293416	Ajuste a barra de gama até distinguir todas as etapas do gradiente de textura e visualizar a arma à esquerda.
+1442293416	Ajuste a barra gama até que possa distinguir todos os estágios do gradiente de texturas e quase não poder ver mais a arma à esquerda.
 1093446963	REINICIAR JOGO
 604412219	Isso reiniciará seu jogo. Você perderá todo o progresso da missão, jogos salvos e distintivos desbloqueados. Suas configurações de vídeo, áudio, configurações de jogo e layouts de entrada personalizados NÃO serão redefinidos. Você deseja continuar?
 215104258	Teclado
@@ -224,18 +224,18 @@ Portuguese	Português(BR)
 1371281051	Alto
 102567943	Reflexo da água
 1877893628	Diálogo automático
-2009175530	Completo
-429141927	Metade
-876302356	Um quarto
-9527696	Oito
+2009175530	Total
+429141927	1/2
+876302356	1/4
+9527696	1/8
 1609646037	Carregar jogo salvo?
 915383769	Dificuldade principiante requer alguns cuidados, mas deixa margem para erro. Os inimigos reagem mais devagar e são menos agressivos. Seus personagens têm mais saúde./n/nNOTA: Altamente recomendado para aqueles que não têm experiência com o gênero RTS.
 1332767595	Dificuldade normal. Os inimigos reagem rapidamente e seus personagens têm uma quantidade moderada de pontos de vida./n/nNOTA: Recomendado para jogadores familiarizados com o gênero RTS.
 84533367	Dificuldade difícil é destinada àqueles com um profundo conhecimento da mecânica tática em tempo real. Os inimigos reagem quase instantaneamente e são mais agressivos. Seus personagens têm menos saúde./n/nNOTA: Recomendado para veteranos do gênero RTS.
 995994767	Sincronização vertical
-1700288794	Desligado
-169915306	Taxa de atualização completa
-1506251381	Taxa de Atualização media
+1700288794	Desbloqueado
+169915306	60
+1506251381	30
 74011557	Filtragem anisotrópica
 1269150780	Tela Cheia
 926514941	Qualidade
@@ -259,7 +259,7 @@ Portuguese	Português(BR)
 903136842	Fraco
 214647730	Médio
 1939756145	Forte
-475868445	Correção de gama
+475868445	Correção “gama”
 1552857310	Ajusta a visibilidade dos cones inimigos.
 1320655516	Cones
 1362801099	Este jogo salvo está obsoleto. Carregá-lo não será possível na versão mais recente do jogo.
@@ -290,7 +290,7 @@ Portuguese	Português(BR)
 2074534947	DADOS DO USUÁRIO
 495479490	Controle sem fio desconectado
 1564185545	Sem espaço suficiente no disco. Libere mais espaço para salvar o jogo.
-208516596	corrompido
+208516596	Corrompido
 1080011117	MUDAR USUÁRIO
 1615693186	Por favor, não desligue o seu sistema PlayStation®4 enquanto este símbolo estiver sendo exibido.
 653665833	Por favor, não feche o jogo, suspenda o jogo ou desligue o console Xbox One enquanto este símbolo estiver sendo exibido.
@@ -612,7 +612,7 @@ Portuguese	Português(BR)
 1693433514	Ao sair do modo. Ações planejadas são salvas.
 1262042390	Alcance
 953856822	Duração
-1354711653	Esfriar
+1354711653	Recarga
 538458455	Raio de ruído
 1395075531	Raio de efeito
 1968769858	Tempo de preparação
@@ -721,7 +721,7 @@ Portuguese	Português(BR)
 593481215	Executar o modo de duelo de Hector
 72661506	Executar o modo de duelo de Kate
 1480016166	Executar o modo de duelo de Isabelle
-1434391743	Vista central
+1434391743	Visão de centro
 463301716	Ativar cone
 2134400581	Selecionar Habilidade 1 (inativa)
 471100928	Minimapa
@@ -1939,7 +1939,7 @@ Portuguese	Português(BR)
 389220884	Eu acho que esse lado é muito mais imponente.
 256272098	Outra placa.
 2031706714	Você gostou do vestido novo, docinho?
-21845656	É adorável, querida.
+21845656	É adorável, querido.
 986374359	Excelente! Quero que todos falem sobre esse dia nos próximos anos.
 1065468858	Prefeito Higgins!
 687118702	O que foi agora?
