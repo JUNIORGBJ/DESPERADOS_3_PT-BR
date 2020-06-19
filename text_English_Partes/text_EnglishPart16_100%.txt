@@ -263,7 +263,7 @@
 489276961	Próxima parada: civilização.
 598497005	Ah... eu preciso sentar.
 1699957185	Então, para onde vamos a partir daqui?
-1619326542	Eu diria que visitamos nosso marshal.
+1619326542	Eu diria que visitamos nosso delgado.
 909407458	Bloquear os trilhos do trem
 17797167	Pare um trem bloqueando os trilhos com alguma coisa.
 110556005	Assustar o gado
@@ -305,7 +305,7 @@
 1366589920	Vai ficar tudo bem, mas devemos nos livrar desses ferros.
 1911995687	Eles não combinam com o seu novo visual, Sr. Cooper.
 1353129268	Ora...
-1581921180	... Receio que você tenha razão, marshal.
+1581921180	... Receio que você tenha razão, delgado.
 1689062683	Agora é uma visão com a qual eu poderia me acostumar.
 184271111	Tudo bem, vamos seguir o plano.
 984542604	VO TRACK
@@ -327,13 +327,13 @@
 135070172	Alguém está levando seu papel muito a sério, Sr. Cooper.
 342061846	Estou apenas seguindo o plano.
 909257755	Tudo bem, vamos fazer isso.
-232516660	Um civil morto. marshal não vai gostar disso.
-1808431973	Nós matamos um civil. O que o marshal vai dizer?
-1093574551	Espere, isso não é guarda. O marshal vai ficar chateado.
+232516660	Um civil morto. O delgado não vai gostar disso.
+1808431973	Nós matamos um civil. O que o delgado vai dizer?
+1093574551	Espere, isso não é guarda. O delgado vai ficar chateado.
 1249882110	Isso não era um guarda. Wayne vai arrebentar nossas bundas.
 1764205916	Eu estarei contando com você.
 261744105	Continue. Aproveita a festa.
 1371704781	Vamos pegar o bastardo.
 1784503016	Linha longa. 
-1597495231	Vamos jogar bem. O marshal não gostaria que prejudicássemos convidados.
+1597495231	Vamos jogar bem. O delgado não gostaria que prejudicássemos convidados.
 1788317662	Não significa que não podemos cortar.
