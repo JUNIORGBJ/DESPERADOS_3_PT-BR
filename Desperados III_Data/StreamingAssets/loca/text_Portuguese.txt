@@ -897,7 +897,7 @@ Portuguese	Português(BR)
 739256700	Um carrinho cheio de pólvora
 679755953	Mais uma vez, Cooper perdeu seu duelo contra Frank. Então, como agora, outros devem pagar o preço pelo seu fracasso. Ainda resta alguma esperança?
 1630898247	Vincent DeVitt tem os dedos em muitas tortas diferentes. Um império ferroviário próspero, o lucrativo comércio de condenados e, por último mas não menos importante, o negócio de mineração de ouro./n/nDebaixo do sol quente do Novo México, os mineiros extraem metais preciosos da terra, sob os olhos sempre presentes dos guardas da Companhia DeVitt./n/nEntre os trabalhadores, três rostos familiares se escondem em uma pilha de pedras. Seus corpos estão cansados, sua disposição é de galinhas./n/nSuas mentes, porém, só conhecem um objetivo: escapar.
-1624871096	Depois de serem presos na mina de ouro de DeVitt, a gangue elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem um carrinho de mina cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com o carrinho da mina e escape.
+1624871096	Depois de serem presos na mina de ouro de DeVitt, a gangue elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem uma vagoneta cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com a vagoneta e escape.
 2029047628	Las Piedras
 796251795	O salário da Dor
 246702833	Encalhada no meio do nada, a única chance de sobrevivência da quadrilha é uma estação de trem nas proximidades.
@@ -999,9 +999,9 @@ Portuguese	Português(BR)
 1490757284	Seguir
 1320541830	Kate pode atrair <skill>guardas</skill> para segui-la por um curto período de tempo./nAs mulheres, Ponchos e Casacos Longos são imunes a seus encantos.
 1314573438	Kate pode atrair <skill>guardas</skill> para segui-la por um curto período de tempo./nFlerte com eles e pressione {0} novamente para fazê-los segui-la./nMulheres, Ponchos e Casacos Longos são imunes a seus encantos.
-955787236	Mine vagão
-1847265587	O <skill>Mine vagão</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
-340709910	O <skill>Mine vagão</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
+955787236	Vagoneta
+1847265587	O <skill>Vagoneta</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
+340709910	O <skill>Vagoneta</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
 122918593	Salvar rápido e Carregar rápido
 162479796	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1}./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
 274179946	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1} e selecionando o jogo que você deseja carregar./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
@@ -1574,7 +1574,7 @@ Portuguese	Português(BR)
 766046273	Certo. Qualquer coisa que você diga.
 366179940	Tudo certo. Vamos lidar com o resto deles.
 817921335	Meus pensamentos exatamente.
-1836596718	Acho que você fez a Companhia DeVitt feliz hoje.
+1836596718	Acho que você fez a Companhia DeVitt contente hoje.
 793788117	Quanto você ganha por um emprego como este?
 851137006	Espero que você não queira dividir.
 1837965531	Relaxa. Eu tenho o que eu preciso.
@@ -1659,7 +1659,7 @@ Portuguese	Português(BR)
 2073897713	Odiaria ser esse cara.
 139277608	Entende? Aquela garota nunca me decepciona.
 967180754	Boa jogada. Eu sabia que estava certo em trazê-lo junto.
-936538598	Claro que estou feliz por atender às suas expectativas.
+936538598	Claro que estou contente por atender às suas expectativas.
 1487837025	Você terminou de se exibir?
 1398203994	Alguém precisa fazer as coisas por aqui.
 641296365	Acho que ouvi alguns ossos rangerem.
@@ -1971,7 +1971,7 @@ Portuguese	Português(BR)
 2143813775	Jesus, esse cachorro me odeia. O sentimento é mútuo.
 1464230705	Excelente dia para um casamento, não é?
 2051394225	Você está linda, minha querida.
-747427895	Estou tão feliz por você, querida.
+747427895	Estou tão contente por você, querida.
 1490118977	Eu não te invejo. O prefeito tem um temperamento.
 726029901	Não se preocupe, senhorita. Terminaremos a tempo.
 482674795	Aposto que seu tio está orgulhoso de você.
@@ -2022,7 +2022,7 @@ Portuguese	Português(BR)
 1632570446	Claro. Apenas me dê um momento.
 1559208350	Ouvi corretamente que ontem houve problemas em Flagstone?
 177296743	O de sempre.
-1268031842	Eu posso imaginar o Sr. DeVitt não está muito feliz com isso.
+1268031842	Eu posso imaginar o Sr. DeVitt não está muito contente com isso.
 1403180857	DeVitt não está aqui.
 1027159589	Eu me pergunto se ele gostaria que você deixasse as coisas inacabadas aqui.
 508971626	Ou há algo mais importante em Nova Orleans?
@@ -2030,7 +2030,7 @@ Portuguese	Português(BR)
 2140636003	Talvez você esteja certo. Não quero que a noiva fique nervosa.
 618313073	Bem, ela tem todos os motivos para estar.
 509176289	Desculpe?
-957048501	Não acho que ela ficará feliz quando descobrir que você vendeu a fazenda da família dela.
+957048501	Não acho que ela ficará contente quando descobrir que você vendeu a fazenda da família dela.
 65486749	Bem, ela não precisa descobrir até depois do casamento, certo?
 1577482962	Você sabe...
 1458579540	Eu não acho que isso fará muita diferença no final.
@@ -2059,7 +2059,7 @@ Portuguese	Português(BR)
 471148704	É arriscado, no entanto. O caminho do penhasco parece a escolha sábia.
 445190409	Isso não parece com o Frank, simplesmente sair assim.
 1766187889	Você gostaria de ficar por perto e tomar conta do prefeito, se pudesse sair disso?
-273883946	Justo. Ele com certeza não parecia feliz depois que falou com Higgins.
+273883946	Justo. Ele com certeza não parecia contente depois que falou com Higgins.
 677460149	Eu nunca vi o Frank parecer feliz.
 2035275044	Droga. Parece que Frank não está mais aqui.
 576632710	Tudo bem, novo plano. Encontre o prefeito e descubra para onde Frank foi.
@@ -2756,9 +2756,9 @@ Portuguese	Português(BR)
 1703534974	Mate o Casaco Longo na entrada da fazenda.
 155034382	Curral
 1841005762	Mate o Casaco Longo no curral.
-885664251	Encontro
-1103747779	McCoy quer checar alguma coisa. Encontre-se na posição.
-1356586583	Fogo no rabo
+885664251	Reunião
+1103747779	McCoy quer averiguar algo. Reúnam-se  na posição indicada.
+1356586583	Ateie fogo sob eles
 1182811597	Pegue uma tocha na fogueira e jogue-a na poça de óleo.
 1139956959	Tochas e óleo
 1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lâmpadas derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
@@ -3072,7 +3072,7 @@ Portuguese	Português(BR)
 1001922886	Quem está no comando por aqui?
 767732451	Alguém conserte isso!
 379721079	E o casamento?
-931884521	Sabotar! O casamento está arruinado!
+931884521	Sabotagem! O casamento está arruinado!
 513034060	A companhia saberá disto!
 465358707	É isso aí! Estamos voltando para Nova York.
 1066072200	Construção de má qualidade, tenho certeza.
@@ -3080,7 +3080,7 @@ Portuguese	Português(BR)
 554237110	Hee hee, isso é uma ótima bagunça.
 1964142030	Oh garoto, isso não é bom.
 542120794	Talvez pareça pior do que é.
-2120122482	Oh merda, o chefe não vai ser muito feliz.
+2120122482	Oh merda, o chefe não vai ficar muito contente.
 19146104	Apenas uma pilha de escombros, merda!
 1827785997	Que bagunça.
 1951619030	Alguém estragou tudo.
@@ -3114,14 +3114,14 @@ Portuguese	Português(BR)
 291821293	Tire todos da ponte e faça McCoy atirar na dinamite de longe.
 2036498134	Encontre-se no trem
 404539240	Hector está esperando por você no trem. Reúna todos lá e fuja.
-1529195657	Mine vagão
-1283000525	Parece que esse carrinho de mina pode ser esvaziado na cabeça de alguém.
+1529195657	Vagoneta
+1283000525	Parece que esse essa vagoneta pode ser esvaziado na cabeça de alguém.
 853128941	Troncos soltos
-1657385379	Estes troncos soltos mal conseguem sustentar-se graças a uma prancha de madeira frágil.
+1657385379	Estes troncos soltos mal conseguem se sustentar devido à fragilidade da placa de madeira.
 1138078354	Serra automática
-627733433	A serra pode ser ligada e desligada através deste conduíte. As possibilidades são infinitas... 
+627733433	A serra pode ser ligada e desligada através deste interruptor. As possibilidades são infinitas... 
 979219862	Detonador de dinamite
-1321641468	Os trabalhadores da pedreira usam um detonador para explodir a dinamite. Espero que ninguém tenha detonado antes do tempo...
+1321641468	Os trabalhadores da mina estão usando um detonador para explodir a dinamite. Esperemos que ninguém a detone antes do tempo...
 1648999959	Você tem certeza disso?
 1589189604	Absolutamente. Eu não terminei com DeVitt.
 626579769	Prefiro que você fique no seu rancho.
@@ -3800,7 +3800,7 @@ Portuguese	Português(BR)
 1603571042	Rápido, quebre a fechadura.
 2015338391	Hector! Você conseguiu! Vamos, pegue a chave!
 373719449	Calma, Kate. Nós vamos tirar você daqui.
-773501524	Porra, estou feliz por estar fora dessa coisa.
+773501524	Porra, estou contente por estar fora dessa coisa.
 592102037	Eu acho que você deveria falar com ela...
 1024116081	Você pode agradecer a ela.
 328939377	Vou te escutar. Melhor agradecê-la...
@@ -4281,13 +4281,13 @@ Portuguese	Português(BR)
 2136802715	Você sabe o que? Foi um verdadeiro prazer, Sunshine.
 1871449115	Deve ser isso.
 299238872	Eu acho que nós encontramos.
-1413453238	Pátio de armazenamento da DeVitt companhia. Sim, eu diria que estamos aqui.
+1413453238	Pátio de armazenamento da Companhia DeVitt.
 1447797586	Vamos dar uma olhada, sim?
 1114882330	Bem, isso não é nada obscuro.
 408350654	Bem, isso é sinistro.
 1024511792	Estamos dentro. Não vejo Wayne em lugar algum ainda.
 1023539256	Vamos para o escritório.
-1353614439	Rapaz, estou feliz que a remessa se foi.
+1353614439	Rapaz, estou contente que a remessa se foi.
 1853635034	Sim. Eu poderia dormir um pouco.
 1632449923	Esse cara com certeza me deu nos nervos.
 1807356780	Ouvi dizer que ele é um problema especial. Irritado com a companhia.
@@ -4504,7 +4504,7 @@ Portuguese	Português(BR)
 1659475668	Soa como escravidão para mim.
 1728484103	A diferença é insignificante.
 2083170775	Este lugar me dá vontade.
-594152490	Sim. Certamente feliz que tenhamos aquelas paredes ao redor do Nest.
+594152490	Sim. Certamente contente que tenhamos aquelas paredes ao redor do Nest.
 202155042	Não gostaria de passar uma noite aqui fora.
 1454660690	Que faz de nós dois.
 996639398	Você ouviu falar do velho Earl? Pobre rapaz que caiu de um barco?
@@ -4705,7 +4705,7 @@ Portuguese	Português(BR)
 1010721157	Ele me bateu sem sentido, cara! O que mais você quer!
 1699045499	Algo mais? Pense bem.
 1229887837	Ele carregava duas armas. Um parecia velho, o outro muito novo.
-1367700055	Frank não ficará feliz com isso.
+1367700055	Frank não ficará contente com isso.
 1626019556	Eu disse a ele o que eu te disse. Pelo amor de Deus.
 1986795261	É isso.
 1563044379	Por aqui.
@@ -4774,7 +4774,7 @@ Portuguese	Português(BR)
 2078706220	Não acredito que você está trabalhando para o delegado.
 585620394	Oh, é melhor você acreditar que é parceiro. Temos todos os papéis.
 1321738850	Os bastardos apenas pegaram a fechadura do escritório.
-1229352555	Aposto que Frank não estava feliz com isso.
+1229352555	Aposto que Frank não estava contente com isso.
 1533530238	Certo. Mas ele não está exagerando um pouco?
 968644808	Bem, você nunca sabe o que está acontecendo na cabeça dele.
 1598804511	Tudo certo. Estamos no porto.
@@ -4936,10 +4936,10 @@ Portuguese	Português(BR)
 622664446	Eles estão naquelas caixas no acampamento superior.
 2069419911	Em seguida, vou quebrar a fechadura naquele portão para que possamos sair.
 83151862	Quando sairmos, teremos a dinamite.
-982644464	Certo. Está naquele carrinho da mina. E não é realmente dinamite.
+982644464	Certo. Está naquela vagoneta. E não é realmente dinamite.
 402154637	Do que você está falando?!
-148836862	Não consegui dinamite, então enchi um carrinho da mina com pólvora.
-81531990	Você está me dizendo que precisamos arrastar um carrinho da mina até o portão.
+148836862	Não consegui dinamite, então enchi a vagoneta com pólvora.
+81531990	Você está me dizendo que precisamos arrastar uma vagoneta até o portão.
 1876785264	Ei. É fácil. Nós apenas iluminamos e crescemos, heh heh.
 769820168	É por isso que não trabalho com amadores.
 1079857917	Não vamos esquecer Kate e Cooper. 
@@ -4989,9 +4989,9 @@ Portuguese	Português(BR)
 486357128	Ei Doc, aqui está o carrinho.
 1592873871	Qualquer um de nós pode empurrar o carrinho.
 1144938845	Bom saber.
-1716104162	Ainda precisamos do carrinho da mina.
+1716104162	Ainda precisamos da vagoneta.
 929155596	Ei, não esqueça o carrinho.
-241452100	Ei, e o carrinho da mina?
+241452100	Ei, e a vagoneta?
 933936963	UhHrg... Aqui vamos nós.
 1162401160	UhHrg... Carrinho leve, ele diz.
 1992285649	Hum... heh, fácil.
@@ -5121,11 +5121,11 @@ Portuguese	Português(BR)
 1035068155	Liberte Kate
 115075245	Use Doc para quebrar a fechadura da gaiola de Kate.
 1538004971	Explodir o portão principal
-1142209649	Pegue o carrinho da mina em frente ao portão principal e exploda.
-468192995	Empurre o carrinho da mina
-985713034	Empurre o carrinho da mina até chegar ao portão principal.
-913558866	Obter o carrinho da mina
-230899577	Hector encheu um carrinho da mina com pólvora. Você precisará dele para sair.
+1142209649	Pegue a vagoneta em frente ao portão principal e exploda.
+468192995	Empurre a vagoneta
+985713034	Empurre a vagoneta até chegar ao portão principal.
+913558866	Obtenha a vagoneta
+230899577	Hector encheu uma vagoneta com pólvora. Você precisará dele para sair.
 1454500394	Todo o lugar está cheio de homens DeVitt.
 353737539	Eles devem ter sinalizado com antecedência.
 881422973	Hah. E agora?
@@ -5454,7 +5454,7 @@ Portuguese	Português(BR)
 1570932987	Assim esperamos.
 1972120744	Obrigada por me deixar ajudar.
 537940957	Nós dois sabemos que eu não conseguiria sozinho.
-605139133	O que quero dizer é… Estou feliz por estarmos fazendo isso juntos.
+605139133	O que quero dizer é… Estou contente por estarmos fazendo isso juntos.
 1505054090	Certo...
 958692602	Vamos voltar ao que interessa então, okay?
 1055111395	Certo. Vamos.
@@ -5503,7 +5503,7 @@ Portuguese	Português(BR)
 2009509478	Huh? O que tem aqui atrás?
 199489402	Vê a carroça? É assim que vamos sair daqui.
 1837426009	Oh sim. Com um “pacote” no saco.
-1129178538	Fico feliz em ver que você veio.
+1129178538	Fico contente em ver que você veio.
 1439874856	Como foi a viagem de barco?
 889931331	O sr. Cooper e a srta. O'Hara precisam de você.
 396219001	Espero que isso o satisfaça.
@@ -5537,7 +5537,7 @@ Portuguese	Português(BR)
 1219421044	Certo, eu tenho mais uma. Essa é uma clássica. Espero que gostem.
 203571918	Ho hoo. Olhe só você, amigo.
 1071201345	Sim, sim. Bom te ver também.
-1511974876	Fico feliz em ver que você chegou inteiro aqui.
+1511974876	Fico contente em ver que você chegou inteiro aqui.
 1223108790	Não se preocupe conosco, Cooper.
 1673485033	Bom te ver, Hector.
 132914728	Heh, me ver? Você é que é agradável aos olhos.
@@ -5698,7 +5698,7 @@ Portuguese	Português(BR)
 669798481	Quase deserto.
 114161847	Não tem muita coisa acontecendo lá embaixo agora.
 16344821	Não há muita coisa acontecendo lá embaixo agora.
-1584014028	E DeVitt não está feliz com isso.
+1584014028	E DeVitt não está contente com isso.
 1211808247	Ele provavelmente acha que isso não pode piorar.
 1156378543	Vamos provar a ele o contrário.
 1785098953	Acho que vi a carroça ali embaixo.
@@ -6034,15 +6034,15 @@ Portuguese	Português(BR)
 987097875	Quem? Frank?
 1263595450	Sim. Como ele sabe que eles virão?
 2041476279	Frank é um cachorro velho. Eu confiaria no faro dele se fosse você.
-594351528	Hey, vocês acham que eles têm aquela belezinha com ela?
-691488540	A que matou o noivo dela? Provavelmente.
+594351528	Hey, vocês acham que eles pegaram aquela belezinha com ela?
+691488540	Aquela que matou o noivo dela? Provavelmente.
 1908290552	Você não vai se apaixonar por ela, certo? Porque você tem partes femininas.
 881157558	Volte a patrulhar, seu idiota.
 960853970	Merda. Ainda não está devidamente seguro.
 1691853546	Eu te disse, não é perigoso.
 1260617836	Tenho que ter certeza de que está preso.
 1031366330	Você ao menos está me escutando?
-1844765622	Eu não serei esmagado por um maldito carrinho de mina.
+1844765622	Eu não serei esmagado por um maldita vagoneta.
 1454114103	Não tem inclinação aqui, seu idiota.
 1233256077	Eles não vão me pegar com isso.
 823372472	Você já se acalmou?
@@ -6050,9 +6050,9 @@ Portuguese	Português(BR)
 83005743	Oh sim. Eu me lembro desse lugar.
 397645503	Olha tudo isso.
 1335626615	Olhe para tudo isso enferrujando.
-873851136	Eu não me importaria de dar uma olhada em um daqueles veios.
-1659941219	De jeito nenhum.  Estou farto de minas.
-1648199460	Heh, sim.  Além disso, a veia secou anos atrás.
+873851136	Eu não me importaria de dar uma olhada em um daqueles eixos de mineiração.
+1659941219	De jeito nenhum.  Estou farto de  eixos de mineração.
+1648199460	Heh, sim.  Além disso, o veio secou anos atrás.
 447364667	Ok. Vamos seguir em frente então.
 2119533153	Tem certeza de que não tem nenhum ouro lá?
 261121748	Jesus, McCoy.  Wayne não te pagou o suficiente?
@@ -7796,7 +7796,7 @@ Portuguese	Português(BR)
 1433016217	É melhor você ficar quieto.
 1174254397	Agradável e apertado.
 1885291362	Vamos torcer para que isso ocorra...
-165933546	Fique feliz por poder se deitar...
+165933546	Fique contente por poder se deitar...
 1443058351	Fique lá.
 717847113	Para o próximo.
 1761715981	...!
@@ -8124,7 +8124,7 @@ Portuguese	Português(BR)
 1141433182	Então, foi aqui que aconteceu.
 852681757	Eles sabiam que estamos chegando.
 1028910239	Adoro um desafio.
-2117542934	Fico feliz que você esteja de volta, Sunshine.
+2117542934	Fico contente que você esteja de volta, Sunshine.
 780526017	Para Onde?
 310821931	Estou esperando aqui.
 1970943049	Você quer carregá-los?
@@ -9367,7 +9367,7 @@ Portuguese	Português(BR)
 1703477360	Você viu alguma coisa?
 1660140081	Ainda não. Fique atentos.
 1107573045	Alguma visão dos assassinos?
-1149419162	Não. Estou feliz.
+1149419162	Não. Estou contente.
 110752159	Grande rancho, hein?
 1551734543	Sim. O maior que eu já vi.
 606466086	Tinha que chover, hein?
@@ -11009,7 +11009,7 @@ Portuguese	Português(BR)
 1937391094	Heh, entre!
 169360161	Só um gole!
 173424520	Um brinde a isso.
-361402352	Ver Frank todo feliz me deixa nervoso.
+361402352	Ver Frank todo contente me deixa nervoso.
 160221383	O calor está me matando.
 1973442478	Eu gostaria de ter a coragem do grande Ann.
 2031957503	O que comprarei com minha parte?
@@ -12759,7 +12759,7 @@ Portuguese	Português(BR)
 1597761643	Heh, tomem tudo!
 960400620	Numa virada só!
 362793116	Vamos encher a cara!
-552044498	Ver Frank todo feliz me deixa nervoso.
+552044498	Ver Frank todo contente me deixa nervoso.
 913687008	O calor está me matando.
 51124310	Eu gostaria de ter a coragem de Big Ann.
 2038948507	O que comprar da minha parte...
@@ -16863,8 +16863,8 @@ Portuguese	Português(BR)
 1091804704	Você acorda de repente, seus lençóis úmidos de suor. Fortes chuvas contra a janela do seu quarto de hotel. Sua cabeça está latejando. Algo está errado./n/nUma sombra está em um banquinho ao lado da porta. Um homem, vestido com um terno fino, suas cores profundas silenciadas pela falta de luz, quase indistinguíveis da escuridão de sua pele. Você se lembra dele sorrindo da última vez que se conheceu. Ele não está sorrindo agora./n/n"Algo ruim chegou a New Orleans, amigo ", você ouve sua voz esfumaçada dizer. "Meus clientes não podem interferir, e nem eu. Contamos com sua experiência."/n/nSeus olhos são incrivelmente brilhantes. Você tenta encontrá-los e consegue por alguns breves segundos, mas depois desvia o olhar. Quando seus olhos voltam para o banquinho, o homem se foi.
 383410664	Três pessoas foram assassinadas em New Orleans hoje à noite. Algo de outro mundo está acontecendo aqui. Investigue os assassinatos, encontre o culpado e expulse-os desta terra.
 1348258499	Contato!
-977386753	Você cavalga pelo deserto há dias. Suas roupas estão empoeiradas, seu estômago roncando. O cozinheiro da estação de correios serve um prato grande de feijão e pão. Vem uma carta com o selo do Barão./n/n "Você fez uma boa jornada, amigo. Fico feliz em vê-lo aqui inteiro. Que tal um pouco de diversão enquanto você está aqui. Apenas uma diversão inofensiva Acho que você ganhou."/n/nQuando você pergunta ao cozinheiro que trouxe esta carta, ele apenas dá uma risada mal-humorada antes de deixar você com seu grãos.
-535138508	O Barão enviou você de volta à mina de ouro de DeVitt para o seu mais recente desafio. Um dispositivo especial foi preparado para você, um mine vagão que pode se transformar em uma metralhadora. Perplexo, certamente, mas isso nunca parou o Barão. Ele encarregou você de limpar o mapa dos inimigos. Deve ser divertido, sim?
+977386753	Você cavalga pelo deserto há dias. Suas roupas estão empoeiradas, seu estômago roncando. O cozinheiro da estação de correios serve um prato grande de feijão e pão. Vem uma carta com o selo do Barão./n/n "Você fez uma boa jornada, amigo. Fico contente em vê-lo aqui inteiro. Que tal um pouco de diversão enquanto você está aqui. Apenas uma diversão inofensiva Acho que você ganhou."/n/nQuando você pergunta ao cozinheiro que trouxe esta carta, ele apenas dá uma risada mal-humorada antes de deixar você com seu grãos.
+535138508	O Barão enviou você de volta à mina de ouro de DeVitt para o seu mais recente desafio. Um dispositivo especial foi preparado para você, uma vagoneta que pode se transformar em uma metralhadora. Perplexo, certamente, mas isso nunca parou o Barão. Ele encarregou você de limpar o mapa dos inimigos. Deve ser divertido, sim?
 171688385	Por mais algumas balas
 658505006	Você anda por um cemitério no meio do nada. O vento da pradaria arrasta a fumaça do seu cigarro. Um dos túmulos está aberto e há uma carta para você no caixão. Lembrando memórias antigas? Que tal um pequeno desafio nesse meio tempo. Vamos ver que tipo de pessoa você é.”/n/nVocê levanta os olhos da carta e lê o nome da sepultura. Como você esperava, é seu. Você sorri, apaga o cigarro na lápide e joga a bunda no caixão.
 1844062476	O mundo está dividido em duas categorias: aqueles com um revólver carregado e aqueles que cavam. Vamos ver a qual você pertence. Mate todos no mapa.
@@ -16947,7 +16947,7 @@ Portuguese	Português(BR)
 1275925138	Suas configurações de entrada personalizadas foram corrompidas e não podem ser carregadas. O arquivo será excluído.
 130937372	Ladrão
 1231495639	Transformar
-417414224	Alterne entre os modos de mine vagão e metralhadora.
+417414224	Alterne entre os modos de vagoneta e metralhadora.
 2043069599	Modo de Gráficos
 979342887	Modo de Desempenho
 1061026314	Prioritizes stable performance. Renders the game at 1080p resolution.
