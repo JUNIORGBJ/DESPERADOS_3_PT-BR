@@ -140,7 +140,7 @@ Portuguese	Português(BR)
 1296485339	Sombras
 1373413817	Resolução da textura
 1360711769	Ativar ou desativar sombras.
-1916906986	Aumentar ou diminuir o nível de anti-aliasing.
+1916906986	Aumentar ou diminuir o nível de antisserrilhamento.
 289642533	Aumentar ou diminuir a resolução da textura.
 148167890	2×
 751714715	4×
@@ -244,7 +244,7 @@ Portuguese	Português(BR)
 1132577025	Alto
 904257921	Customizada
 1374150836	Oclusão do Ambiente
-8811852	Anti-Aliasing
+8811852	Antisserrilhamento
 1848427170	Modo daltônico
 431050512	Falha ao salvar
 1338371785	Algo deu errado ao salvar.
@@ -863,7 +863,7 @@ Portuguese	Português(BR)
 1077297084	O Rancho O'Hara foi defendido, mas o preço foi alto. Determinada a deixar a Companhia DeVitt para sempre, Kate propõe um plano perigoso.
 523395751	A alguns quilômetros a nordeste de Flagstone, o poderoso rio Eagle mergulha centenas de metros na grande ravina abaixo./n/nNo passado os viajantes tinham que encontrar uma maneira de contornar esse obstáculo perigoso, e todos os anos alguns deles morriam aqui. ou seja arrastado pelas correntes./n/nEm sua busca por traçar trilhas para o oeste, a Companhia DeVitt construiu uma enorme ponte ferroviária sobre o barranco, completa com uma estação de trem e instalações nas proximidades./n/nOs trens da companhia atravessam a ponte todos os dias e transportam homens e materiais novos em direção a Flagstone.
 826928811	Após a morte de seu tio, Kate quer libertar sua casa das garras da Companhia DeVitt./n/nPara impedir que mais homens cheguem a Flagstone, ela planeja explodir a ponte ferroviária em Eagle Falls./n/nOs outros concordam em ajudar. Juntos, eles viajam para Eagle Falls e se infiltram nas instalações da DeVitt próximo à ponte./n/nO plano é simples: Procure na área por dinamite, depois desça até a fundação e exploda a ponte em migalhas.
-1500406185	Garganta do Diabo/n(Chapter II)
+1500406185	Garganta do Diabo/n(Capítulo II)
 1283981450	Um belo tiro
 1255827485	De volta às memórias passadas, um jovem John Cooper está esperando seu pai retornar…
 99540809	El Cañón del Diablo. A garganta do diabo. É um lugar de muitas histórias. Fiel ao seu nome, poucos deles terminam felizes./n/nPor sua vez, povoado por nativos, colonos, garimpeiros e, mais frequentemente, bandidos, cada um de seus habitantes derramou o sangue de seus predecessores na terra poeirenta./n/nEra uma vez, o homem que eles chamavam de Frank veio com seus homens e tomou esse lugar por conta própria./n/nNos próximos anos, muitos caçadores de recompensas cruzaram a fronteira em busca de Frank. Um deles era James Cooper.
@@ -908,7 +908,7 @@ Portuguese	Português(BR)
 1413452906	Um jantar extravagante está sendo realizado na luxuosa fazenda de DeVitt. No entanto, a noite está prestes a ser descarrilada por alguns convidados inesperados.
 468576441	Tendo escapado com segurança para o trem, a turma recebe um descanso bem merecido./n/nEnquanto Hector e Isabelle dormem exaustos, Cooper e Kate conversam por um longo tempo. As coisas ainda estão tensas, mas os primeiros passos foram dados./n/nDe volta à civilização, a gangue entra em contato com o marechal Wayne, que fica emocionado ao saber que eles ainda estão vivos. Juntos, eles formam um plano para tirar DeVitt e Frank de uma vez por todas./n/nPrimeiro na lista é DeVitt, que está prestes a sediar um jantar exclusivo em sua luxuosa propriedade.
 861610767	A gangue escapa das garras de DeVitt e faz contato com o marechal Wayne. Juntos, eles formam um plano para tirar DeVitt e Frank de fora./n/nDeVitt é o primeiro da lista. Com a ajuda de Wayne, eles garantem convites para o jantar exclusivo de DeVitt./n/nO plano deles: separar DeVitt dos convidados, sequestrá-lo e entregá-lo ao marechal.
-1986610452	Garganta do Diabo/n(Chapter III)
+1986610452	Garganta do Diabo/n(Capítulo III)
 1882495352	O velho e o Novo
 1671544744	Doc voltou e DeVitt está fora de cena. Isso deixa apenas mais uma coisa para cuidar.
 1827622766	Depois de entregar DeVitt ao marechal, a quadrilha segue para o sul através da fronteira. A jornada é longa e o sol do deserto queima impiedosamente nossos cavaleiros./n/nAinda assim, a turma não se intimida. Cooper lidera, Hector conta histórias selvagens enquanto Kate escuta, e Doc e Isabelle brigam como sempre./n/nJuntos, eles cruzam a fronteira com o México e seguem para o deserto rochoso, em direção a Garganta do Diabo..
@@ -1982,7 +1982,7 @@ Portuguese	Português(BR)
 1523934878	Grande dia para você, hein?
 1028481519	Heh heh, o que posso fazer por você?
 388369691	Subindo uma escada com um vestido? Eu te desafio duas vezes, Kate.
-534769664	Hmm...a little more like this... Yes...beautiful.
+534769664	Mmm... um pouco mais assim... Sim... Perfeito.
 1663330515	Ahhh... Ela realmente é alguma coisa.
 581988918	Ahhh, isso não está certo, está? Aqui vamos nós.
 8707816	Como ela é graciosa... Eu gostaria que este fosse o nosso casamento.
@@ -3161,7 +3161,7 @@ Portuguese	Português(BR)
 1433914304	E observe a ponte. Ninguém atravessa.
 1496802357	Maldito caçador de recompensas. Como ele nos encontrou?
 1267055176	Me bater. Esta é uma má notícia.
-1830383815	Talvez eles tenham atravessado o canyon.
+1830383815	Talvez eles tenham atravessado o cânion.
 409548749	Não. Nós os teríamos visto.
 1046132865	Você viu o que ele fez com Jenkins?
 719125003	Sim. Teria sido eu se eu não estivesse mijando.
@@ -4133,7 +4133,7 @@ Portuguese	Português(BR)
 644986387	Acho que "O Hawk" não é o nosso cara.
 2101013785	Parece que "O Jackal" é o que estamos procurando.
 2126909881	O que significa "O Jackal" é o homem que procuramos.
-1453890450	Guess "The Jackal" is the guy we're looking for.
+1453890450	Acho que "The Jackal" é o cara que estamos procurando.
 832160714	Parece que "A Spider" é o que estamos procurando.
 645274602	O que significa "A Spider" é o homem que procuramos.
 85546794	Acho que "O Spider" é o cara que estamos procurando.
@@ -4150,7 +4150,7 @@ Portuguese	Português(BR)
 1938327105	Acho que acabamos de matar nosso informante. Que pena.
 2462133	Merda. Acho que acabamos de matar uma de nossas pistas.
 2140900740	Ops. Acho que matamos nosso informante novamente.
-742463526	Well, there goes another informant. Envergonhado.
+742463526	Bem, lá se vai outro informante. Maldição.
 1132822121	Droga! Também não aprenderá nada com este.
 560160249	Lá se vai o terceiro.
 539421398	Você sabe que, nesse ritmo, é melhor adivinhar quem é nosso objetivo.
@@ -4911,7 +4911,7 @@ Portuguese	Português(BR)
 503009039	Não...
 1699198032	Bom.
 1678548162	Não achava isso.
-927477867	Jogue-os pelo canyon quando terminar.
+927477867	Jogue-os pelo cânion quando terminar.
 972936722	Garoto.
 1836426505	Qual é o seu nome amigo?
 1162383724	John...
@@ -5510,7 +5510,7 @@ Portuguese	Português(BR)
 1602033482	Não se preocupe. Teremos tempo para os negócios depois.
 1547336292	Se estiver interessado, me encontre no meu quarto depois do show.
 1388804315	Como está sua senhora? Tudo certo em casa?
-1819279765	Você tem que experimentar a comida. Meu chef se superou.
+1819279765	Você tem que experimentar a comida. Meu chefe se superou.
 827234220	Você gosta de vinho? Veio direto da Itália.
 930016210	Divirta-se com a música. É a moda por aqui.
 1691927499	Acredite, não poupei despesa.
@@ -5887,7 +5887,7 @@ Portuguese	Português(BR)
 1659278257	Certo. Então vamos mandar Frank para o inferno.
 1207488628	Heh, continua um grande lixo.
 1532902944	Que posto avançado encantador.
-445713930	Gostaria de saber se eles ainda continuam guardando whiskey lá.
+445713930	Gostaria de saber se eles ainda continuam guardando uísque lá.
 900995337	Como se sente voltando aqui?
 94059513	Tudo parece muito menor, isso é fato.
 723002160	O que?! Bobagem!
@@ -7666,7 +7666,7 @@ Portuguese	Português(BR)
 1302862243	Não é possível fazer isso.
 1031975555	Não é possível passar por lá.
 568432083	Isso parece suicídio.
-169385146	Muitas companhiass lá.
+169385146	Muitas companhias lá.
 546607681	Nós nos ferraríamos.
 2022799657	Nós dois sabemos como isso vai acabar, então não.
 1808611176	Prefiro respirar um pouco de ar fresco agora.
@@ -7711,7 +7711,7 @@ Portuguese	Português(BR)
 2146981015	Isso terá que fazer.
 679642602	Vai ter que fazer.
 1911693808	Este melhor trabalho.
-395130537	Então? Qual o proximo?
+395130537	Então? Qual o próximo?
 985439663	Desculpe por isso.
 651681702	Tinha que fazer isso.
 173686364	Deveria saber melhor.
@@ -7872,7 +7872,7 @@ Portuguese	Português(BR)
 576486056	Pronto para minha entrada.
 132539708	Por favor, diga-me que eu pareço convincente.
 143713189	Ah, isso é melhor.
-1541462001	Aqui vamos nós denovo.
+1541462001	Aqui vamos nós de novo.
 598923841	Mais uma vez... 
 442746241	É melhor encontrar algumas roupas primeiro.
 1114639394	Posso perguntar com o que?
@@ -8143,7 +8143,7 @@ Portuguese	Português(BR)
 941173767	Eu cuidarei disso.
 430808166	Sem problemas.
 1405739495	Vamos ser rápidos nisso.
-1077459486	Won't make a sound.
+1077459486	Sem fazer barulho.
 732821568	Apenas dando um passeio.
 1157590785	Mole-mole.
 1183229750	Não vamos chamar atenção.
@@ -8952,7 +8952,7 @@ Portuguese	Português(BR)
 1051130559	Aqui, gatinho gatinho gatinho.
 1607285573	Não no me turno, cusão!
 926075436	Malditos caçadores de recompensa.
-1240390056	Eu vou te jogar no canyon.
+1240390056	Eu vou te jogar no cânion.
 847831940	Frank's vai amar isso.
 56058455	Você está fora da sua liga, garoto!
 592361169	Deveria ter ficado no seu vagão.
@@ -9119,7 +9119,7 @@ Portuguese	Português(BR)
 631995966	Ugh, minha cabeça...
 1018234473	Malditos...
 1834654638	Porra...
-1028810844	Ouch...
+1028810844	Ai...
 1444969703	Uhm...
 1352834255	Espere um segundo...
 1153912441	O que é isso?
@@ -9711,7 +9711,7 @@ Portuguese	Português(BR)
 1714999461	Estranho... como se alguém estivesse bem ao meu lado.
 1029574781	...! Pare com isso!
 1430640138	...! Que diabos?
-1731317051	...! Whoa lá!
+1731317051	...! He, he!
 233457239	...! Ei!
 1376309783	Este não é o lugar para você!
 1715885406	Você estava se escondendo aqui, hein?
@@ -10200,11 +10200,11 @@ Portuguese	Português(BR)
 1360798310	Como está indo?
 836523643	Bom.
 996293235	Ei.
-284118184	Heyah.
-1128227625	Está tudo bem?
+284118184	Como está indo?
+1128227625	Tudo bem ai?
 1615413794	Sim, claro.
 1962349460	Está acontecendo alguma coisa?
-1357936223	Nah.
+1357936223	Não.
 194070151	Você tem um cigarro?
 1945845408	Desculpe.
 286076374	Você quer uma bebida mais tarde?
@@ -10473,7 +10473,7 @@ Portuguese	Português(BR)
 342919589	Franco-atirador! Abaixem-se!
 522719962	Eles têm um franco-atirador!
 2074145047	Cuidado! Há um franco-atirador por perto!
-1056434976	Whoa! Um franco-atirador!
+1056434976	Merda! Um franco-atirador!
 1895324781	Cuidado! Isso é um franco-atirador!
 40079327	E-esse era o diabo!
 895061345	De onde veio isso?
@@ -10575,7 +10575,7 @@ Portuguese	Português(BR)
 2081350342	Se me tocar eu eu te meto bala!
 1085021774	Ai! O que é que foi isso?
 88277665	O que?! Sai fora!!
-533726951	Whoa! Maldito sorrateiro!
+533726951	Merda! Maldito sorrateiro!
 1103717288	Então é aqui que você estava se escondendo!
 464067447	Se achando esperto ao se esconder aqui?
 157864457	Se escondendo? Não comigo!
@@ -10927,34 +10927,34 @@ Portuguese	Português(BR)
 1096803553	Hum? O que eu estou fazendo aqui de novo?
 1146240195	Ah... Minha cabeça. O que aconteceu aqui?
 1356407361	A caçada está iniciada.
-1402749410	Encontre-os antes que eles fuja!
-930510579	Eles não vão longe. Espalhar!
-636774531	All right, let's get 'em for good!
-1394194207	Encurralá-los! Vasculhem todo o lugar!
+1402749410	Encontre-os antes que eles fujam!
+930510579	Eles não vão muito longe. Espalhem!
+636774531	Tudo bem, vamos pegá-los para sempre!
+1394194207	Vamos encurrala-los! Vasculhem todo o lugar!
 850030295	Nós vamos encontrar cada um de vocês!
 844741391	Ok, pessoal! Desta vez, nós os pegamos!
 1190724277	Eles não podem nos enganar. Vamos caçá-los!
-622448319	Eles estavam aqui um segundo atrás. Não podem ter ido longe!
+622448319	Estavam aqui um segundo atrás. Não podem ter ido muito longe!
 275848141	Dividam-se todos! Vá pegá-los!
 2128860172	Continue olhando! Temos que encontrá-los!
 690966405	Eles não podem se esconder para sempre. Vasculhem todo o lugar!
 1954485090	Nós o cercamos. Saiam!
 1757339498	Procure até o último canto!
-324630781	Você está em menor número! Desista!
-1030965119	Desista, covardes! Nós temos a vantagem!
-1811260869	Eles estão aqui! Eu sei isso!
+324630781	Vocês estão em menor número! Desistam!
+1030965119	Desista, covardes! Nós estamos em vantagem!
+1811260869	Eles estão aqui! Eu sei disso!
 2074334905	Não podem terem ido longe. Continue olhando!
 584128661	Vamos! Não podemos deixá-los escapar.
 773253327	Mantenha suas armas prontas. Eles estão aqui!
 591010557	Eu sei que eles estão aqui. Continue procurando.
 316939228	Continuem assim! Quase os pegamos!
 1545641688	Esqueça isso. Vamos pegá-los outra hora.
-541047470	Pare de procurar. Eles estão longe agora.
+541047470	Pare de procurar. Eles já estão longe agora.
 1977821627	Tss... Não adianta. Vamos voltar.
 1111021564	Tarde demais... Eles não estão mais aqui.
 1074666368	Bom trabalho, pessoal... Nós os expulsamos.
 1782283089	Não consigo encontrá-los... Vamos recuar por enquanto.
-621130926	Não estava perdendo mais tempo nisso. Vamos voltar, pessoal.
+621130926	Não vamos perder mais tempo com isso. Vamos voltar, pessoal.
 1151332604	Isso está demorando muito! Temos trabalho a fazer!
 1478727885	Parece que eles se foram. Nós os expulsamos...
 319944193	Eles não vão voltar. Bom trabalho.
@@ -11145,7 +11145,7 @@ Portuguese	Português(BR)
 70634817	A senhorita O'Hara está fugindo! Mantenha seus olhos abertos.
 897644095	Ela realmente matou Higgins? Uau...
 1274573802	Cabelo ruivo, vestido de noiva coberto de sangue...
-646176078	Ain't no mistaking her. Shoot on sight.
+646176078	Não há como confundi-la. Atire assim que vela.
 252037491	Temos que encontrá-la. Higgins está morto, droga.
 1595378364	Sim, ela vai pagar por isso.
 1843352868	Eu te digo, ele é um inútil.
@@ -11988,7 +11988,7 @@ Portuguese	Português(BR)
 1962133591	Ainda temos alguns retardatários.
 849486524	Você recebeu seus pedidos?
 1622261359	Claro. Está tudo aqui em cima.
-123038211	Dragon's Den após o turno?
+123038211	Quer ir à Caverna do Dragão após o trabalho?
 488419234	He, He, conte comigo.
 695425155	Você ouviu falar das bruxas do pântano?
 1704863296	Você acredita nessa porcaria?
@@ -12206,7 +12206,7 @@ Portuguese	Português(BR)
 1837758427	Franco-atirador! Abaixem-se!
 428782854	Eles têm um franco-atirador!
 1466751955	Cuidado! Há um franco-atirador por perto!
-370266864	Whoa! Um franco-atirador!
+370266864	Merda! Um franco-atirador!
 702970744	Cuidado! É um franco-atirador!
 1725682470	E-esse era o diabo!
 1759065085	De onde veio isso?
@@ -12308,7 +12308,7 @@ Portuguese	Português(BR)
 58814030	Se me tocar eu te encho de bala!
 15534703	Ai! O que é que foi isso?
 288280525	O que?! Recuar!!
-970733501	Whoa! Maldito sorrateiro!
+970733501	Merda! Maldito sorrateiro!
 739591158	Então você estava se escondendo!
 613914824	Se acha esperto, se escondendo aqui?
 628018556	Se escondendo? Não de mim!
@@ -12685,10 +12685,10 @@ Portuguese	Português(BR)
 873357622	Continuem procurando! Temos que encontrá-los!
 717294821	Eles não podem se esconder para sempre. Procurem em todo lugar!
 340389872	Nós o cercamos. Saiam daí!
-744807715	Pesquise todos os cantos e recantos!
+744807715	Procure em todos os cantos e recantos!
 136402144	Vocês estão em menor número! Desistam!
 1323208067	Desistam, covardes! Nós estamos em vantagem!
-1540861264	Eles estão aqui! Eu sei isso!
+1540861264	Eles estão aqui! Eu sei disso!
 2061341918	Não podem ter ído longe. Continuem procurando!
 591413658	Vamos lá! Não podemos deixá-los escapar.
 1604681524	Mantenha suas armas prontas. Eles estão aqui!
@@ -12700,8 +12700,8 @@ Portuguese	Português(BR)
 1647219311	Tarde demais... Eles não estão mais aqui.
 1627691353	Bom trabalho, pessoal... Nós os expulsamos.
 758478800	Não é possível encontrá-los... Vamos deixar por enquanto.
-564091734	Não percamos mais tempo nisso. Vamos voltar!
-1803395457	Está demorando demais! Temos trabalho a fazer!
+564091734	Não vamos perder mais tempo com isso. Vamos voltar!
+1803395457	Estamos demorando demais! Temos trabalho a fazer!
 245787015	Parece que eles se foram. Nós os expulsamos...
 1074928023	Eles não vão voltar. Bom trabalho.
 877787157	Boa tentativa, querida. Mas você não é meu tipo.
@@ -12854,7 +12854,7 @@ Portuguese	Português(BR)
 1499603987	Ainda temos alguns caras atrasados.
 1745593257	Você recebeu seus pedidos?
 742237214	Com certeza.
-433235354	Dragon's Den depois do turno?
+433235354	Quer ir à Caverna do Dragão após o trabalho?
 504605925	Sim. Conte comigo.
 1505708822	Você ouviu falar das bruxas do pântano?
 1700564390	Você acredita nessa porcaria?
@@ -13098,7 +13098,7 @@ Portuguese	Português(BR)
 1350590810	Pare!
 163570015	Pare com isso!
 2092782899	Não se atreva!
-1388741859	Oh, não, voce não!
+1388741859	Oh, não, você não!
 1840571270	Não se mexa!
 1868859757	Ei, você!
 903976098	Eu peguei você!
@@ -13751,7 +13751,7 @@ Portuguese	Português(BR)
 1556017382	Alguém foi deixado para trás.
 1609638288	Você recebeu pedidos?
 727568906	Claro. Está tudo aqui em cima.
-104283532	Dragon's Den após o turno?
+104283532	Quer ir à Caverna do Dragão após o trabalho?
 291182726	He, He, conte comigo.
 1616305068	Você ouviu falar das bruxas do pântano?
 1747991805	Você acredita nessa porcaria?
@@ -16692,7 +16692,7 @@ Portuguese	Português(BR)
 1582941244	Meta 2
 835748375	Mate ele.
 1312839292	Espera de Elite
-1490647133	É possível matar com três snipe shots sozinho. A espera de recarga é maior que a recarga de Doc.
+1490647133	É possível matar com três tiros de rifle sozinho. A espera de recarga é maior que a recarga de Doc.
 1340780470	NEW ORLEANS – ISOLAMENTO DA COMPANHIA DEVITT
 1931549038	Um cheiro de algas marinhas envolve o corpo inchado. Ao procurar nos bolsos, você encontra uma pequena estatueta. Uma exibição perturbadora de uma criatura estrangeira, tentáculos ao redor de sua boca aberta. 
 884720503	Algo inexplicável aconteceu em New Orleans hoje à noite. Três assassinatos foram cometidos, exatamente quando o relógio bateu 6h.
@@ -16742,10 +16742,10 @@ Portuguese	Português(BR)
 2012672498	Ele fez um acordo que era demais para ele.
 1297243208	Armeiro Huancarlo
 1923142160	Ele derramou segredos que não eram dele.
-1053368588	Devils Canyon, México
+1053368588	Devils cânion, México
 391525854	Mate Frank
 1809509597	Você acha que está pronto?
-941798258	Vamos dar uma volta pela memória. Vamos nos perguntar "e se...?" Uma última visão de Devil's Canyon. Mais uma chance de redenção.
+941798258	Vamos dar uma volta pela memória. Vamos nos perguntar "e se...?" Uma última visão de Devil's cânion. Mais uma chance de redenção.
 1265043144	Desta vez, duas figuras incompatíveis se aproximam. Um é o garoto, com facas na mão. O outro é o caçador, olhos atentos.
 1996320184	Eles vieram aqui pela mesma razão a qual todos vieram. O homem que eles chamam de Frank está esperando na capela. Não há muito mais para ir.
 2143700932	E num piscar de olhos, acabou. O homem que eles chamam de Frank está morto na areia. O garoto é vitorioso, ele vingou o pai.
@@ -16950,7 +16950,7 @@ Portuguese	Português(BR)
 417414224	Alterne entre os modos de vagoneta e metralhadora.
 2043069599	Modo de Gráficos
 979342887	Modo de Desempenho
-1061026314	Prioritizes stable performance. Renders the game at 1080p resolution.
+1061026314	Prioriza o desempenho deixando estável. Renderiza o jogo na resolução 1080p.
 251777897	Modo de Resolução
 123492416	Prioriza resoluções mais altas. Substitui a sua resolução de tela se ela não suportar 4K.
 20238496	Um civil foi morto.
