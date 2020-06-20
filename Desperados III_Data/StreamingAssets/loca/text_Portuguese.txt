@@ -846,7 +846,7 @@ Portuguese	Português(BR)
 1181215471	Flagstone
 1786599235	Encrenqueiros em Flagstone
 111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meterem em encrencas.
-180909580	Aninhada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. A taberna que está vazia, exceto por alguns clientes regulares./n/nA garçonete serve um copo de uísque para ele e ele bebe enquanto espera que um velho amigo chegue.
+180909580	Localizada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. /n/nTrabalhadores da Companhia DeVitt se misturam entre os locais enquanto continuam construindo a nova ferrovia através da cidade./n/nAssim que Cooper chega em Flagstone, ele vai direto à taberna, que está vazia exceto por alguns clientes regulares./n/nA garçonete lhe serve um copo de uísque, e ele degusta enquanto espera a chegada de um velho amigo.
 1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da Companhia DeVitt, que estavam aterrorizando os locais. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
 842780950	Propriedade de Higgins
 1899333205	Até que a morte nos separe
@@ -1597,12 +1597,12 @@ Portuguese	Português(BR)
 661094834	Pedra solta
 1717845166	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
 220005127	Eles derrubaram a casa do velho William outro dia.
-327290212	Era necessário? Eles não podem colocar os trilhos entre nossas casas?
+327290212	Agora por que eles precisavam fazer isso? Não poderiam instalar os trilhos entre nossas casas?
 468907971	Atenha-se ao jogo, sim?
-434325556	Só estou dizendo que, se eles vierem a minha casa, mostrarei a esses bandidos da ferrovia quem é o chefe.
+434325556	Só estou dizendo que, se porventura eles vierem a minha casa, mostrarei a esses malandros da ferrovia quem é que manda.
 1240800355	Merda...
 873549268	O que posso fazer por vocês, senhores?
-492613005	Oh, chegamos a você em um minuto.
+492613005	Hector, a sua é por conta da casa.
 344462297	Você sabe o que fazer! Todo mundo fora!
 483700298	Sim, Senhor!
 1996050564	Olhe como eles correrem!
@@ -1618,32 +1618,32 @@ Portuguese	Português(BR)
 1095568786	Eu não os culpo. Os pobres tiveram que olhar para o seu rosto feio.
 1282782173	Ah, de nada! Você precisa de uma bebida. Eu também.
 521211476	Hector, você esta em casa.
-892411820	Gracias, senorita. Se eles voltarem, me ligue.
+892411820	Obrigado senhorita. Se eles voltarem, é só me chamar.
 1488340076	Heh, obrigada. Se eles voltarem, você só me liga.
 462607319	Você realmente não deveria. Eles vão te matar da próxima vez.
 1261667122	Eles podem tentar.
 1646631313	Acho que você está aqui há um tempo - gastou seu tempo irritando as pessoas erradas, hein?
-1439920483	Eu sou o que eles irritaram. Mas como você está aqui, talvez possamos trabalhar juntos.
+1439920483	Na realidade eles que me irritaram. Mas como você está aqui, talvez possamos trabalhar juntos.
 1968501055	Oh não, você não está me arrastando para isso. Estou aqui pelo Frank.
-418117848	Cercar o lugar! Não os deixe fugir!
+418117848	Cerquem o lugar! Não os deixe fugir!
 556288454	Amigo, você já está nisso. E além disso, você me deve uma.
 1217092235	Tudo bem, vamos sair daqui.
-265115482	Vamos lá para fora!
+265115482	Vamos, saia pelos fundos!
 1753812082	VO TRACK
 718420870	Rápido, por aqui!
 282643245	Eles estão aqui em algum lugar, e temos todo tempo do mundo.
-1164791611	Esses caras vão matá-lo. Quem diabos são eles?
+1164791611	Esses caras estão com sangue no olho. Quem diabos são eles?
 625254008	Parte da Companhia DeVitt. Eu tenho contas para resolver com alguns deles.
 1298661064	Tudo bem, tudo bem! Mas espero que você tenha um plano.
 1710621721	Uh, claro!
 1710522083	Vamos para a rua. Ninguém nos incomodará se ficarmos entre os locais, com isso teremos espaço para respirar.
-1090916079	Por enquanto, tudo bem. Mas quem nós temos que "carregar"?
-743641397	Jarvis é o primeiro. Um cara bastante duro. Agora ele está naquele quintal tentando montar o touro na cidade.
-465329894	Depois, há Wild Marge. Ele está no primeiro andar do bordel de Flagstone, bebendo uísque e assistindo as garotas dançarem.
-174165267	Depois, há "o duque". Rodando com seus capangas, indo e vindo pelas ruas da igreja.
-1314266132	E o último é o capataz, McBane. Ele é um verdadeiro idiota. Seus homens derrubaram metade da cidade para que ele não precisassem se desviar. 
+1090916079	Por enquanto, tudo bem. Mas quem são os caras que vamos "surrar"?
+743641397	Primeiro temos o Jarvis. Um cara realmente durão. Agora ele está naquele quintal tentando montar o touro na cidade.
+465329894	A próxima é a selvagem Marge. Ele está no primeiro andar do bordel Flagstone, bebendo uísque e assistindo as garotas dançarem.
+174165267	Então há "o Duque". Está dando voltas com seus puxa-sacos, subindo e descendo pela Rua da Igreja.
+1314266132	E o último é o capataz, McBane. Ele é um verdadeiro idiota. Fez seus homens derrubaram metade da cidade para que as obras não tivessem que ser desviadas.
 1883399229	Então nos livramos deles, voltamos para a taberna e terminamos nossas bebidas.
-354756553	Como plano, é uma loucura, Hector.
+354756553	Eles não podem se esconder para sempre, Sam. Agora prepare-se.
 1477743624	Por que você acha que eu esperei por você?
 1977264724	Tudo certo. Vamos acabar logo com isso.
 1859777443	Tem certeza de que eles estão aqui, Murdock?
@@ -1655,66 +1655,66 @@ Portuguese	Português(BR)
 1606933793	Eu digo que é hora de usar Bianca.
 1381111512	Você ainda está carregando essa coisa?
 961267106	Eu tenho uma reputação para manter.
-1164823537	Tudo bem, minha beleza. Vamos atrair alguém para o seu abraço.
+1164823537	Tudo bem, minha belezinha. Vamos atrair alguém para o seu abraço.
 2073897713	Odiaria ser esse cara.
-139277608	Entende? Aquela garota nunca me decepciona.
+139277608	Tá vendo? A velha garota ainda nunca me decepcionou.
 967180754	Boa jogada. Eu sabia que estava certo em trazê-lo junto.
 936538598	Claro que estou contente por atender às suas expectativas.
 1487837025	Você terminou de se exibir?
 1398203994	Alguém precisa fazer as coisas por aqui.
 641296365	Acho que ouvi alguns ossos rangerem.
-840216268	Você deseja amigo! Estou tão em forma como se tivesse vinte anos!
+840216268	Seu sonho, né amigo! Estou tão em forma como se estivesse com vinte anos!
 1872296638	Lembre-se, deixe o grandalhão comigo. Ele já te pegou uma vez.
 1981178347	Ele é todo seu.
 568409435	Deveria ter me deixado terminar minha bebida.
 1932523298	Hah! Não é seu dia de sorte, não é?
-1028846366	Essa é uma. Para a próxima. Você está se divertindo ainda?
-210201627	Um monte.
-1920493164	Um a menos, restam três. Você me colocou em toda bagunça...
+1028846366	Um já foi. Para o próximo. Você está se divertindo ainda?
+210201627	Pra caralho!
+1920493164	Um a menos, restam três. Cada enrascada que você me coloca...
 1025778135	Passamos por coisas piores.
 1768942864	Nós estamos fora. Relaxe.
-450923163	Não há necessidade de se esconder agora.
+450923163	Não precisamos nos esconder agora.
 1511639709	Então, quem é o próximo na sua lista?
 429389325	Então, quem é o primeiro da sua lista?
-99315968	Que tal matá-los na ordem que gostamos.
-1852126838	Ótimo plano que você tem lá.
-385726871	guardas demais para um quintal.
-2129972192	Jarvis e seus homens estão por aqui. Certamente ele estará com o touro novamente.
+99315968	Que tal matá-los na ordem que quisermos.
+1852126838	Ótimo plano que você tem aí.
+385726871	Guardas demais para um quintal de um curral.
+2129972192	Jarvis e seus homens ficam por aqui. Aposto que ele está tentando montar no touro novamente.
 1962085150	Então é melhor mantermos as cabeças baixas assim que entrarmos.
 1251247827	Hah! Ele realmente acha que pode montar esse touro!
 1012726449	Então vocês dois brigaram e agora ele quer você morto?
-868584661	Parece que Jarvis está mexendo com esse touro o dia todo.
-444350566	Você sabe como é. Alguns caras simplesmente não podem deixar as coisas descansarem. Como aquela vez em El Paso.
-864913954	Heh, se esse touro ficar bravo, nós vamos fazer um show. Como aquela vez em El Paso.
+868584661	Parece que o Jarvis aqui ficou trabalhando naquele touro o dia todo.
+444350566	Você sabe como é. Alguns caras simplesmente não conseguem deixar os outros em paz. Como aquela vez em El Paso.
+864913954	Heh, se esse touro ficar furioso, nós vamos ver um espetáculo. Como aquela vez em El Paso.
 1863617101	Mais como sempre em El Paso.
-392132413	Você mostra aquele touro que é o chefe, chefe!
-954104016	Oh, eu vou quebrar esse filho da puta, só espere.
+392132413	Mostre para aquele touro quem é o chefe, chefe!
+954104016	Oh, eu vou dominar esse filho da puta, espere pra ver.
 1743065594	Não deixe que ele te pegue, chefe!
-484357500	Estou apenas me aquecendo, ok?! Da próxima vez será minha, com certeza.
-2119554904	Aquele touro não tem nada para fazer, chefe.
-135762165	Você está certo sobre isso. Eu sou o melhor!
-1296674087	Parece que Jarvis não era um figurão, afinal.
-1934746503	Isso cuida de Jarvis. Eu disse a ele que ele deveria descansar.
-1399763221	Tudo bem, faltam dois.
+484357500	Estou apenas me aquecendo, ok?! Na próxima vez conseguirei, com certeza.
+2119554904	Aquele touro não é páreo para você, chefe.
+135762165	Você pode apostar. Eu sou o melhor!
+1296674087	Parece que Jarvis não era um bom pistoleiro, afinal.
+1934746503	Isso cuida de Jarvis. Eu disse a ele que ele deveria deixar o touro em paz.
+1399763221	Tudo bem, dois já eram.
 653569855	Esse é o número dois. Diga-me que você não gosta disso.
-247807550	Bem, pelo menos estamos no meio do caminho.
+247807550	Bem, pelo menos estamos com meio caminho andado.
 926318647	Parece que o local está fechado.
-968863431	O prostíbulo. Os locais não podem entrar desde que Wild Marge assumiu.
-1016228655	Não é a porta da frente então. Tudo bem, mantenha-o baixo. Vamos encontrar outra maneira de entrar.
+968863431	O prostíbulo. Os locais não podem entrar desde que a selvagem Marge o tomou.
+1016228655	Não iremos pela porta da frente então. Tudo bem, mantenha a discrição. Vamos encontrar outra maneira de entrar.
 773411105	Aqui embaixo.
 171969419	Ei, Cooper. Aqui embaixo.
 1804048600	Podemos entrar no bordel daqui. Melhor ficar abaixado.
-907428322	Olha este prostíbulo. Maior edifício da cidade.
-687956115	Este lugar me lembra aquele em Deadwood.
+907428322	Olha este prostíbulo. O mais largo edifício da cidade.
+687956115	Este lugar me lembra daquele em Deadwood.
 660765928	Há muitos prostíbulos em Deadwood.
 304923026	Você sabe, aquele onde eles me expulsaram.
-1197440159	Isso não ajuda.
+1197440159	Isso não limita as opções.
 785732256	Tudo bem, estamos dentro. Lugar legal.
 1122523221	Será difícil chegar a Marge. Ela está no último andar.
 456580536	Sempre tem um jeito.
 646414453	Menina! Mais uísque!
-1685343001	Eu vou buscá-lo.
-287534887	Mais uísque! Vá em frente!
+1685343001	E-E-Eu vou buscar.
+287534887	Mais uísque! Se mexa!
 1492091083	Sim, senhora!
 726987380	Pare com isso. Vá buscar o uísque.
 1120377451	O-claro. Me desculpe. Eu vou buscá-lo.
@@ -10929,7 +10929,7 @@ Portuguese	Português(BR)
 1356407361	A caçada está iniciada.
 1402749410	Encontre-os antes que eles fujam!
 930510579	Eles não vão muito longe. Espalhem!
-636774531	Tudo bem, vamos pegá-los para sempre!
+636774531	Tudo bem, vamos pegá-los de uma vez por todas!
 1394194207	Vamos encurrala-los! Vasculhem todo o lugar!
 850030295	Nós vamos encontrar cada um de vocês!
 844741391	Ok, pessoal! Desta vez, nós os pegamos!
