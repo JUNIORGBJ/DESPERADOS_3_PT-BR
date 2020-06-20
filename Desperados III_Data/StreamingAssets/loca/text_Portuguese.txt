@@ -861,7 +861,7 @@ Portuguese	Português(BR)
 454130296	Eagle Falls
 2006766685	A ponte em Eagle Falls
 1077297084	O Rancho O'Hara foi defendido, mas o preço foi alto. Determinada a deixar a Companhia DeVitt para sempre, Kate propõe um plano perigoso.
-523395751	A alguns quilômetros a nordeste de Flagstone, o poderoso rio Eagle mergulha centenas de metros na grande ravina abaixo./n/nNo passado os viajantes tinham que encontrar uma maneira de contornar esse obstáculo perigoso, e todos os anos alguns deles morriam aqui. ou seja arrastado pelas correntes./n/nEm sua busca por traçar trilhas para o oeste, a Companhia DeVitt construiu uma enorme ponte ferroviária sobre o barranco, completa com uma estação de trem e instalações nas proximidades./n/nOs trens da empresa atravessam a ponte todos os dias e transportam homens e materiais novos em direção a Flagstone.
+523395751	A alguns quilômetros a nordeste de Flagstone, o poderoso rio Eagle mergulha centenas de metros na grande ravina abaixo./n/nNo passado os viajantes tinham que encontrar uma maneira de contornar esse obstáculo perigoso, e todos os anos alguns deles morriam aqui. ou seja arrastado pelas correntes./n/nEm sua busca por traçar trilhas para o oeste, a Companhia DeVitt construiu uma enorme ponte ferroviária sobre o barranco, completa com uma estação de trem e instalações nas proximidades./n/nOs trens da companhia atravessam a ponte todos os dias e transportam homens e materiais novos em direção a Flagstone.
 826928811	Após a morte de seu tio, Kate quer libertar sua casa da Companhia DeVitt./n/nPara impedir que mais homens cheguem a Flagstone, ela planeja explodir a ponte ferroviária em Eagle Falls./n/nOs outros concordam em ajudar. Juntos, eles viajam para Eagle Falls e se infiltram nas instalações da DeVitt perto da ponte./n/nO plano é simples: procure dinamite na área, depois desça até a fundação e sopre a ponte para o alto céu.
 1500406185	Garganta do Diabo/n(Chapter II)
 1283981450	Um belo tiro
@@ -1526,7 +1526,7 @@ Portuguese	Português(BR)
 852574330	Apressem-se. Precisamos seguir em frente.
 1951044472	Certifiquem-se de que essas pessoas não saiam daqui.
 841434891	Eles tentarão de tudo, atiram neles!
-2055157191	Você verme da empresa. Diga-me onde estão os cofres.
+2055157191	Você verme da companhia. Diga-me onde estão os cofres.
 1159849560	Eu-eu-eu não sei, senhorita. Eu juro.
 1782893817	Eu sei que a Companhia DeVitt tem esse dinheiro neste trem. Cadê?
 1514072165	Como eu iria saber? Eles não me dizem nada.
@@ -4085,7 +4085,7 @@ Portuguese	Português(BR)
 989491626	Seu idiota. Fique longe do Jackal. Agora cale a boca - eu tenho que pensar.
 2110044982	Ei, é o Red Lantern.. O que há para pensar?
 688990229	Estou duro. E o Spider subiu os preços novamente.
-1353097532	Hah, seu idiota! A empresa é dona do Red Lantern. agora! Significa que obtemos um desconto.
+1353097532	Hah, seu idiota! A companhia é dona do Red Lantern. agora! Significa que obtemos um desconto.
 726914357	Você diz que. Não tenho certeza se o Spider vê dessa maneira.
 1977251696	Sim. Ouvi dizer que vai cair no píer 9.
 2053568799	Merda. O Hawk deve estar nervoso agora.
@@ -5057,7 +5057,7 @@ Portuguese	Português(BR)
 402906484	Certo. Obrigado.
 123389086	McCoy. Tire-me daqui.
 314588434	Estes são seus, eu acredito.
-1361774041	Vamos sair daqui. Eu já tive o suficiente deste lugar.
+1361774041	Vamos sair daqui. Já estou farto deste lugar.
 880777560	Hector.
 174451128	Cooper.
 1799230920	Conversaremos mais tarde.
@@ -6186,7 +6186,7 @@ Portuguese	Português(BR)
 1177344540	O que estamos esperando?
 467933390	Qual é o problema com esses caras?
 1099076121	Lugar movimentado, esta cidade.
-739796969	Esses idiotas da empresa estão por toda parte.
+739796969	Esses idiotas da companhia estão por toda parte.
 2047148498	Tenho que entrar naquela casa.
 789707676	Quem vai se casar aqui?
 635220013	Casarão. Prefeito tem dinheiro.
@@ -6721,11 +6721,11 @@ Portuguese	Português(BR)
 235193763	Ninguém mexe com Hector.
 1913867920	Sim,  vamos caçar.
 2028406679	Deixe os grandões comigo.
-1085046995	These company jerks are getting on my nerves.
+1085046995	Esses idiotas da companhia estão me dando nos nervos.
 1578894012	Sim, eles não fazem ideia.
 1433057037	Bianca está com fome.
-580042502	Bwah. Wet beard.
-333168304	Bom tempo para uma caçada.
+580042502	Eca. Barba molhada.
+333168304	Tempo bom para uma caçada.
 1651356698	Ninguém brinca com meus amigos.
 1673905838	Vou ganhar esta aposta.
 809902952	Uh, Quantos?
@@ -6746,7 +6746,7 @@ Portuguese	Português(BR)
 1584913950	Ninguém coloca Hector em uma cela.
 309149042	Alguma idéia de onde estamos?
 284337048	Bianca não gosta de nadar.
-40588927	Heh heh, é hora da vingança.
+40588927	Heh, heh, é hora da vingança.
 38007557	Eu vou estragar este lugar.
 469394834	Pfuah... Mosca do pântano.
 2020555894	Algum réptil por aqui?
@@ -6888,7 +6888,7 @@ Portuguese	Português(BR)
 1272052373	Ugn... Muito engraçado, amigo.
 748975499	Ugn... What gives?
 802273558	...! Hã? Oh, certo!
-1487773027	Heh heh, isso faz cócegas.
+1487773027	Heh, heh, isso faz cócegas.
 1319925661	What's that for? Para que é isso?
 1508323024	Uhh, ok.
 1250847421	Heh, parece engraçado.
@@ -7075,7 +7075,7 @@ Portuguese	Português(BR)
 2070862391	...Hic!
 397025085	...Eu precisava disso.
 221561013	...Ah, bom.
-133927167	...Heh heh.
+133927167	...Heh, heh.
 1371397740	Um pouco mais não vai doer.
 561535069	...Hic... Ugh.
 638763262	...Ooh.
@@ -7117,7 +7117,7 @@ Portuguese	Português(BR)
 446136274	Sobre o que estamos falando?
 990991379	Hmm, onde eu estava...
 1545330114	Uh, perdi meu pensamento... Ah!
-1911150900	Hehe, isso faz cócegas.
+1911150900	Heh, isso faz cócegas.
 2124480034	Heh, tudo suficientemente bem.
 548118344	Ah, Bianca. Como você está, meu amor?
 1188219175	Eu? Não, não se preocupe comigo.
@@ -7171,7 +7171,7 @@ Portuguese	Português(BR)
 967051176	O Ninho da Rainha. Eu serei amaldiçoado.
 825337169	Bem a base de operações.
 1986761098	Este negócio tem rodado já há um tempo.
-1489543067	Então é isso que a empresa está fazendo.
+1489543067	Então é isso que a companhia está fazendo.
 567002511	Estamos saindo agora.
 163795993	Só temos uma chance.
 85488484	Não se distraia.
@@ -7471,7 +7471,7 @@ Portuguese	Português(BR)
 1072916069	Tudo isso para flores e champanhe.
 1222769325	Chegou a hora de sairmos.
 874441010	Não terminamos aqui.
-365062992	Vamos mostrar a empresa DeVitt.
+365062992	Vamos mostrar a companhia DeVitt.
 2114168605	Se esse maldito trem nunca chegasse...
 208234677	Deveria ter se transformado em algo mais quente.
 318068535	Sua ajuda é bem vinda.
@@ -7666,7 +7666,7 @@ Portuguese	Português(BR)
 1302862243	Não é possível fazer isso.
 1031975555	Não é possível passar por lá.
 568432083	Isso parece suicídio.
-169385146	Muitas empresas lá.
+169385146	Muitas companhiass lá.
 546607681	Nós nos ferraríamos.
 2022799657	Nós dois sabemos como isso vai acabar, então não.
 1808611176	Prefiro respirar um pouco de ar fresco agora.
@@ -7734,7 +7734,7 @@ Portuguese	Português(BR)
 1395785862	Desculpe. Meio que precisava.
 1112937803	Ainda tenho meu objetivo, pelo menos.
 1034167158	Ufa. Peguei eles.
-1809840886	Malditos bandidos da empresa.
+1809840886	Malditos bandidos da companhias.
 195100532	Pelo menos isso ainda funciona.
 310277554	Há sempre mais.
 1564345485	...!
@@ -8167,7 +8167,7 @@ Portuguese	Português(BR)
 1488625972	Não vou desistir agora.
 1929519733	Não vou morrer aqui.
 284982281	Não se preocupe. Continue.
-985661758	Eu tinha o suficiente deste lugar.
+985661758	Já estou farto deste lugar.
 998176820	Vamos entreter os convidados.
 398325729	Estava ansioso por isso.
 141655482	Vamos buscar DeVitt.
@@ -8184,7 +8184,7 @@ Portuguese	Português(BR)
 163126714	Não tenho tanta certeza disso.
 1281387733	Não gosto de onde isso está indo.
 970133390	Isso não vai acabar bem.
-517525376	Nuh uh.
+517525376	Nuh, uh.
 839026546	Não está acontecendo.
 277351301	Pense novamente.
 626405494	Não está fazendo isso.
@@ -8192,7 +8192,7 @@ Portuguese	Português(BR)
 1033664241	Não há como.
 1979602655	Não vejo como.
 1335663396	Isso é impossível.
-1036318681	Há empresa lá.
+1036318681	Há companhia lá.
 859806228	Não é seguro lá.
 439249948	Esqueça. Não é seguro.
 1294512249	Bloqueado, não é?
@@ -8275,7 +8275,7 @@ Portuguese	Português(BR)
 1485265207	Aquele.
 1040628537	E esse.
 1724442411	Heh, mal senti.
-1619832780	Vou entrar em mim.
+1619832780	Vou entrar sozinho..
 1859572169	Estamos todos conectados.
 872498356	Quem é meu parceiro de sorte?
 1790406456	O que você não faz a si mesmo...
@@ -8806,7 +8806,7 @@ Portuguese	Português(BR)
 2052802444	Ei! Espionando a companhia?!
 686647701	Bisbilhotando, não é?!
 437254214	Perdido?! Deixe-me ajudá-lo!
-809015705	Você não está na empresa!
+809015705	Você não está na companhia!
 751845527	Defenda o ninho!
 411929008	Veja! Carne fresca!
 1869180769	Você é um jacaré!
@@ -9474,7 +9474,7 @@ Portuguese	Português(BR)
 1703626571	Você não está na lista de convidados.
 2134217577	O prefeito está ocupado. Volte mais tarde.
 70736615	Você não tem um encontro marcado.
-1853436739	Negócios da empresa. Fique ai.
+1853436739	Negócios da companhia. Fique ai.
 2077293618	Você não tem negócios aqui. Vá embora.
 322602354	Somente o pessoal da companhia entra aqui.
 1784616748	A partir daqui você não passa, escória.
@@ -9838,7 +9838,7 @@ Portuguese	Português(BR)
 918882158	Vou jogá-lo do penhasco.
 2076994683	Você nunca passará pelo portão da frente.
 156489526	Você se acha esperto, não é?!
-215603118	A empresa é proprietária do seu rancho agora.
+215603118	A companhia é proprietária do seu rancho agora.
 105389863	Nós vamos queimar este lugar inteiramente.
 634504323	Você teve a chance de desistir!
 1763686719	Vocês são aqueles encrenqueiros de Flagstone, não são?
@@ -10168,7 +10168,7 @@ Portuguese	Português(BR)
 964683128	Quero minha parte.
 1292661900	Que merda.
 622156910	Não confie nessas pessoas...
-3907678	Tch... gente rica.
+3907678	Tch... Riquinhos.
 772754227	É o dia do casamento.
 1290974421	Prefeito está morto, hein.
 1145374930	O assassino ainda está solto.
@@ -10336,12 +10336,12 @@ Portuguese	Português(BR)
 1644650277	O que você está olhando? Chispa daqui!
 1671762905	Aqui e agora, entendeu?
 1401596302	Aww, você quer entrar lá? Que pena.
-1324966735	A empresa possui este lugar agora. Então recue.
+1324966735	A companhia é dona deste lugar agora. Então recue.
 323072639	Cai fora. Caipiras do caralho.
 325318161	Você não está na lista de convidados, amigo.
 829184181	O prefeito está ocupado. Volte mais tarde.
 1378008774	Você não parece ter agendado visita.
-1325910655	Negócios da empresa. Fique longe.
+1325910655	Negócios da companhia. Fique longe.
 1792941813	Não há nada da sua conta aqui. Sai fora.
 2129695484	Não se aproxime. Somente empregados.
 148756671	Você não vai sair daqui, desgraça.
@@ -10533,8 +10533,8 @@ Portuguese	Português(BR)
 182084477	Você não vai fugir, tesouro!
 1900321037	Esta é uma área fora dos limites!
 261030710	Cidade da sua vida!
-324871433	Roubando segredos da empresa, não é?!
-2107549895	Você não é da empresa!
+324871433	Roubando segredos da companhia, não é?!
+2107549895	Você não é da companhia!
 272344768	Eles pagariam uma boa quantia por você!
 1494490460	Olha! Carne fresca!
 563174000	Vamos prendê-lo para sempre!
@@ -10688,7 +10688,7 @@ Portuguese	Português(BR)
 224694172	Perdeu sua chance de ficar quieto!
 1564626914	Fique longe do nossos pertences!
 1344683649	Somos a gangue da Big Ann! É melhor você correr!
-267236721	Você começou uma briga com uma garota da empresa.
+267236721	Você começou uma briga com uma garota da companhia.
 1139045779	É melhor você deixar Flagstone antes que eu te encontre.
 1313728608	Nós vamos enforcar você no sino da igreja.
 343351255	Sim, vá se esconder na lama...
@@ -10701,7 +10701,7 @@ Portuguese	Português(BR)
 860976323	Poderia ter sido um dia tão bom...
 490179201	Também não teria se casado com ele. Mas isso não é desculpa!
 622464132	Este lugar é nosso agora. É melhor você correr...
-917893438	A empresa é proprietária do seu rancho agora.
+917893438	A companhia é proprietária do seu rancho agora.
 2100439523	O que você está tentando provar aqui?
 1287848403	Vamos lá, não faça isso pior do que já é.
 1919776286	Vocês são os caras de Flagstone, não são?
@@ -10721,7 +10721,7 @@ Portuguese	Português(BR)
 719572044	Espero que você se afogue no rio!
 648019389	Ainda temos seus amigos, lembra?
 411701309	Este é o negócio de Companhia DeVitt!
-1240217714	Não mexa com a empresa DeVitt...
+1240217714	Não mexa com a companhia DeVitt...
 1564344763	Lugar errado, hora errada, meu amigo.
 744476612	Temos uma boa jaula para você!
 905694226	Lugar perigoso para se esconder!
@@ -11541,7 +11541,7 @@ Portuguese	Português(BR)
 969805200	Este é o nosso trem agora!
 315442761	Fique longe dos nossos pertences!
 546119706	Somos a gangue da Big Ann! É melhor você correr!
-1739849271	Você brigou com um homem da empresa.
+1739849271	Você brigou com um homem da companhia.
 1958267839	É melhor você deixar Flagstone antes que eu te encontre.
 997024690	Vou enforcar você de um sino da igreja.
 384829928	Muitos esconderijos nesta merda.
@@ -11554,7 +11554,7 @@ Portuguese	Português(BR)
 9781326	Vou jogá-lo do penhasco.
 508025913	Você nunca passará pelo portão da frente.
 374691503	Você se acha esperto, não é?!
-1151030685	A empresa é dona do seu rancho agora.
+1151030685	A companhia é dona do seu rancho agora.
 668811831	Nós vamos queimar este lugar inteiramente.
 1490150029	Você teve a chance de desistir!
 1547398445	Vocês são os encrenqueiros de Flagstone, não são?
@@ -12067,14 +12067,14 @@ Portuguese	Português(BR)
 2068989547	O que você está olhando? Vaza!
 980239797	Aqui e agora, sacou?
 1667774997	Aww, você quer entrar lá? Que pena.
-1008449212	A empresa possui este lugar agora. Rala peito.
+1008449212	A companhia possui este lugar agora. Rala peito.
 1988533693	Se afastem. Caipiras do caralho.
 1826065498	Você não está na lista de convidados, amigo.
 975352923	O prefeito está ocupado. Volte mais tarde.
 1271531463	Você não parece ter um agendamento prévio.
-72625259	Negócios da empresa. Não se aproxime.
+72625259	Negócios da companhia. Não se aproxime.
 2080317567	Vocês não têm negócios aqui. Afaste-se.
-682819404	Recue. Somente homens da empresa.
+682819404	Recue. Somente homens da companhia.
 1305094070	Você não vai sair daqui, seu bosta.
 318248945	Volte para sua barraca, imbecil.
 1388502790	Nuh uh. Ligaremos para você quando for o seu turno.
@@ -12460,7 +12460,7 @@ Portuguese	Português(BR)
 602195283	Espero que você se afogue no rio!
 776591541	Ainda temos seus amigos, lembra?
 892894126	Este é o negócio de Companhia DeVitt!
-1367188526	Não mexa com a empresa DeVitt...
+1367188526	Não mexa com a companhia DeVitt...
 124830506	Lugar errado, hora errada, meu amigo.
 726478966	Temos uma boa jaula pronta para você!
 601155407	Local perigoso para se esconder!
@@ -12717,9 +12717,9 @@ Portuguese	Português(BR)
 767417200	Sim, sim, divirta-se...
 1538087279	Oh, querida. Ele não vale a pena, acredite em mim.
 242843179	Oh não, você não.
-1345682987	 Ela está apenas brincando com você.
-1298658606	 Não a deixe te enganar.
-240207425	 Senhor?
+1345682987	Ela está apenas brincando com você.
+1298658606	Não a deixe te enganar.
+240207425	Senhor?
 226937274	Eu, senhor?
 1126608176	Sim, chefe?
 1724141645	Você quer dizer eu, chefe?
@@ -12836,7 +12836,7 @@ Portuguese	Português(BR)
 1788278542	Eu já vi maior.
 900358378	Tinha que chover, hein?
 1272745437	Sim, eu odeio isso.
-1934115128	Você está bem aqui?
+1934115128	Você está bem?
 1518190448	Acho que estou com cólicas.
 707758255	Você já ouviu falar sobre Flagstone?
 1188609121	Sim. Caipiras do caralho.
@@ -12932,13 +12932,13 @@ Portuguese	Português(BR)
 741158221	Meia-volta. Isto é propriedade privada.
 1218652985	Eu nunca te vi. Dê o fora!
 1570889121	Ouça, não queremos gente da tua laia aqui.
-544253280	Esta é a propriedade da empresa. Portanto dê o fora.
+544253280	Esta é a propriedade da companhia. Portanto dê o fora.
 1480988993	Propriedade privada. Saia.
 655960218	Este lugar não é para você.
 186691657	Ah... não encontro você na lista de convidados...
 1966815297	O prefeito está ocupado. Volte mais tarde.
 510076770	Você não se parece muito com um hóspede.
-469289520	Negócios da empresa. Não se aproxime.
+469289520	Negócios da companhia. Não se aproxime.
 1803604810	Não posso deixar você passar.
 921209635	Desapareça, seu idiota. Você não é um dos nossos.
 1566657529	Ei, você não tem permissão para estar aqui.
@@ -13140,10 +13140,10 @@ Portuguese	Português(BR)
 1793053149	Como você saiu?!
 434271510	Temos um fugitivo!
 1743380973	Lixo sem valor!
-148109999	Você está espionando a empresa?!?
+148109999	Você está espionando a companhia?!?
 1073318165	Bisbilhotando, hein?!?
 2117049256	Você está perdido?!? Deixe-me ajudá-lo!
-686959158	Você não é da empresa!
+686959158	Você não é da companhia!
 1209521388	Defenda o ninho!
 1762908277	Olha! Carne fresca!
 1973633271	Você é comida para jacarés!
@@ -13309,7 +13309,7 @@ Portuguese	Português(BR)
 865498061	Este é o nosso trem!
 1801027145	Fique longe do nosso saque!
 1450078597	Somos a gangue da Big Ann! É melhor você correr!
-101248001	Você brigou com um homem da empresa.
+101248001	Você brigou com um homem da companhia.
 555135062	É melhor você deixar Flagstone antes que eu te encontre.
 1641411631	Vou pendurá-lo do sino da igreja.
 773741626	Muitos esconderijos nesta merda.
@@ -13322,7 +13322,7 @@ Portuguese	Português(BR)
 1720018647	Vou jogá-lo do penhasco.
 1642077985	Você nunca passará pelo portão da frente.
 320361326	Você se acha esperto, não é?!
-1846815054	A empresa é dona do seu rancho agora.
+1846815054	A companhia é dona do seu rancho agora.
 207184170	Nós vamos queimar até a última migalha deste lugar.
 1389688790	Você teve a chance de desistir!
 1657689632	Você é daqueles encrenqueiros de Flagstone, não é?
@@ -13830,12 +13830,12 @@ Portuguese	Português(BR)
 387444895	O que você está olhando? Saia!
 1691889353	Foda-se, entendeu?
 978811524	Aww, você quer entrar lá? Que pena.
-1485337258	A empresa é dona deste lugar agora. Saia.
+1485337258	A companhia é dona deste lugar agora. Saia.
 1912490676	Recue. Malditos idiotas.
 1356432825	Você não está na lista de convidados, amigo.
 1223311281	Eles prefeito está ocupado. Volte mais tarde.
 928160567	Você não parece ter um agendamento prévio.
-1327942117	Negócios da empresa. Fodam-se.
+1327942117	Negócios da companhia. Fodam-se.
 418477261	Não tem nada da sua conta aqui. Saia.
 541324382	Somente funcionários.
 1919899929	Você não vai sair daqui, escória.
@@ -15571,7 +15571,7 @@ Portuguese	Português(BR)
 1593204090	Teremos que esperar e ver.
 1545312537	Eu desprezo bandidos.
 1966318731	Que faz de nós dois.
-1924533883	Os homens da empresa estão causando problemas?
+1924533883	Os homens da companhia estão causando problemas?
 106819391	Não é mais do que o habitual.
 387042911	Você está bem, amigo?
 432249676	Não se preocupe. Eu me viro.
@@ -16052,7 +16052,7 @@ Portuguese	Português(BR)
 491522944	Teremos que esperar e ver.
 991875847	Eu desprezo bandidos.
 945648983	Que faz de nós dois.
-770265890	Os homens da empresa estão causando problemas?
+770265890	Os homens da companhia estão causando problemas?
 1059918480	Não é mais do que o habitual.
 1119741147	Você está bem, amigo?
 2005417954	Não se preocupe. Eu me viro.
