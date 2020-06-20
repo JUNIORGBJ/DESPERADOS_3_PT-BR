@@ -3,7 +3,7 @@
 
 <h1 align="center">:warning:Atenção:warning: Tradução em revisão</h1>
 
-***Nossa tradução foi feita por Fans e não por profissionais desta área. No momento a tradução está em fase de revisão. Agradeço a quem teve a paciência em nos ajudar nesse projeto. Não somos fluente no idioma inglês então, podem conter muitos erros. Por favor aguardem a versão final. Terá novas realeas diáriamente com correções de diálogos.***
+***Nossa tradução foi feita por Fãns e não por profissionais desta área. Não somos fluentes no idioma inglês por isso podem conter muitos erros. No momento a tradução está em fase de revisão. Agradeço a todos que estão ajudando nesse projeto. Por favor aguardem a versão final. Lançaremos novas versões diáriamente com correções de diálogos.***
 
 <h1 align="center"><figure>
   <img src="DesperadosIII.png">
