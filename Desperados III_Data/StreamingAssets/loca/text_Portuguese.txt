@@ -1096,8 +1096,8 @@ Portuguese	Português(BR)
 663666488	Cooper
 421750801	Casaco Longo
 639273516	Jarvis
-1745974188	Wild Marge
-1598571356	O duque
+1745974188	Marge Selvagem
+1598571356	O Duque
 844354073	McBane
 614728443	Tio O'Hara
 1070272398	Cão de guarda
@@ -1112,7 +1112,7 @@ Portuguese	Português(BR)
 998679126	Bum Spencer
 1321434840	Andy "Desenho rápido" Hegyes
 568378835	Dolores
-1661613942	Sly Wingman
+1661613942	O braço direito de Sly
 1246909675	Jane Três Dedos
 963694914	Prefeito Higgins
 61180315	Rosie
@@ -1640,7 +1640,7 @@ Portuguese	Português(BR)
 1090916079	Por enquanto, tudo bem. Mas quem são os caras que vamos "surrar"?
 743641397	Primeiro temos o Jarvis. Um cara realmente durão. Agora ele está naquele quintal tentando montar o touro na cidade.
 465329894	A próxima é a selvagem Marge. Ele está no primeiro andar do bordel Flagstone, bebendo uísque e assistindo as garotas dançarem.
-174165267	Então há "o Duque". Está dando voltas com seus puxa-sacos, subindo e descendo pela Rua da Igreja.
+174165267	Então há "O Duque". Está dando voltas com seus puxa-sacos, subindo e descendo pela Rua da Igreja.
 1314266132	E o último é o capataz, McBane. Ele é um verdadeiro idiota. Fez seus homens derrubaram metade da cidade para que as obras não tivessem que ser desviadas.
 1883399229	Então nos livramos deles, voltamos para a taberna e terminamos nossas bebidas.
 354756553	Eles não podem se esconder para sempre, Sam. Agora prepare-se.
@@ -1717,16 +1717,16 @@ Portuguese	Português(BR)
 287534887	Mais uísque! Se mexa!
 1492091083	Sim, senhora!
 726987380	Pare com isso. Vá buscar o uísque.
-1120377451	O-claro. Me desculpe. Eu vou buscá-lo.
+1120377451	Cla-cla-claro. Me-Me desculpe. Eu vou já buscá-lo.
 687649935	O que você quer?
 1652250045	O que você acha? Uísque para a dama.
 449459114	Tudo certo. Suba as escadas.
-978446912	Enuncie seu negocio.
+978446912	Qual é a tua? O que você quer?
 1332490340	Mesmo? Ela quer mais uísque.
 118126660	Bem. Você pode subir.
 2042492765	Seu uísque, senhora.
-1886486558	Foda-se, pode também...
-993296811	Ahh... coisas boas.
+1886486558	Ah que se dane, poderia também...
+993296811	Ahh... coisa boa.
 1640929120	Hum... só um gole.
 1147999977	Mhh... oh sim.
 472276261	Hmm... talvez possamos colocar alguma coisa no uísque?
@@ -1735,9 +1735,9 @@ Portuguese	Português(BR)
 1989642541	Precisamos de coisas mais fortes se quisermos matá-la.
 1690003240	Aqui está uma garrafa de...
 1357892389	Ei amigo. O que diz nesta garrafa?
-1726962301	Láudano! Tome muito disso e é tão bom quanto veneno. Vamos pegar.
+1726962301	Láudano! Tome muito disso e é tão bom quanto veneno. Esperamos que sim.
 533733250	Bah! Se você diz.
-518116007	Felicidades.
+518116007	Grato.
 785736607	Vergonha pelo uísque.
 1823097407	Eu não sei amigo. Você mata um homem, olha nos olhos dele.
 1681482582	Como quando você usa sua armadilha gigante de urso?
@@ -1747,49 +1747,49 @@ Portuguese	Português(BR)
 408677718	Que diabos!
 1892649360	Merda! Ela está morta! Talvez fosse o uísque...
 1721722381	Eu tenho que avisar os outros!
-433108508	Até mais, Wild Marge.
+433108508	Até mais, Marge Selvagem.
 772149685	É isso para Marge.
 711013061	São três a menos.
 243224828	Com isso são três. 
-1462366558	Como é que você luta com todos os imbecis da cidade?
-957382233	Talvez eu não consiga suportar os idiotas bundões.
+1462366558	Como é que você arruma briga com todo pistoleiro imbecil da cidade?
+957382233	Talvez eu não consiga dar conta dos pistoleiros imbecis.
 400273429	O que está acontecendo lá?
 579796830	É aqui que eles estão colocando os trilhos. McBane é o capataz e não deixa ninguém no local.
-1604301042	Então vamos ficar calados quando entrarmos.
+1604301042	Então vamos ficar silenciosos quando entrarmos.
 1458208472	Por isso, o trem teve que parar fora da cidade.
 1550994567	Você pensava que a ferrovia seria boa para as pessoas daqui. Mas metade do local foi destruído. Quem ordenou isso quer que essas pessoas saiam.
 1441992625	Você quer dizer Vincent DeVitt, o chefe da ferrovia.
-2083311056	Se você diz. Homens como ele são a razão pela qual tudo vai cagar.
+2083311056	Se você diz. Homens como ele são a razão pela qual tudo está ficando uma merda.
 308963957	Claro, porque ele tem homens como nós que fazem seu trabalho sujo. 
 253997050	Você está matando o clima, amigo.
 1327133639	Oh merda, precisamos de alguns trabalhadores de verdade, porra.
 290619400	Aqueles idiotas. Nós nunca terminaremos a tempo.
 1290020865	O que eu faço? DeVitt não vai gostar disso.
-635295399	Você acha isso engraçado?! Olhe para esta parede! Totalmente errado! 
+635295399	Você acha isso engraçado?! Olhe para esta parede! Totalmente errada!
 493464044	Qual de vocês imbecis construiu isso? DeVitt ficará furioso!
-790174616	Você olhou para os planos? Quem fez isso, você está demitido!
-494269375	A mudança acabou, McBane.
+790174616	Você olhou para a planta? Quem quer que tenha feito isso, você está demitido!
+494269375	O turno acabou, McBane.
 457395387	O xerife não está aqui desta vez, McBane.
 1246625244	É isso aí. Tudo feito.
 229843799	Lá se vai o último.
 180798282	Satisfeito agora? Você será capaz de dormir à noite?
 1309747097	Estou bem, Cooper. Vamos voltar para a taberna. Nossas bebidas ainda estão esperando.
 533890864	Cavalheiros!
-1478476489	Guardei uísque para você.
-720073865	Gracias, senorita! Não se preocupe mais com esses homens. Nós cuidaremos deles.
-510662556	Heh, obrigada! Não se preocupe mais com esses homens. Nós cuidaremos deles.
-34839288	Oh, isso é gentil da sua parte, Hector. Com certeza poderíamos usar um pouco mais de calma por aqui.
-332701184	Bem, pessoal, eu tenho que sair. Você se importaria de ficar de olho no lugar?
+1478476489	Guardei o uísque para vocês.
+720073865	Obrigado, senhorita! Não se preocupe mais com esses homens. Nós cuidamos deles.
+510662556	Heh, obrigado! Não se preocupe mais com esses homens. Nós cuidamos deles.
+34839288	Oh, isso é gentil da sua parte, Hector. Com certeza poderíamos ter um pouco de paz por aqui.
+332701184	Bem queridos, eu tenho que dar uma saidinha. Vocês se importariam de ficar de olho no lugar?
 1030933173	Deixe isso conosco!
-610893039	Sirva-se. Volto em seguida.
+610893039	Sirvam-se. Volto logo.
 1485738270	Então, há quanto tempo você está aqui?
 1946867206	Alguns dias. Porque perguntas?
 77927463	Você o encontrou? Você sabe onde ele está?
 571840546	Você tem que trazer isso à tona agora?
 963763010	Que diabos, Hector?
-617268813	Vai cara. Nós apenas nos divertimos, então por que estragar tudo, hein?
-1148053107	Ei, olha, eu não estou aqui para jogar o bom samaritano. Nós dois sabemos que ele está trabalhando para DeVitt. Então, apenas me diga onde ele está.
-303088882	Calma, amigo... A última vez que ouvi ele estava na casa do prefeito. É apenas uma curta viagem até a montanha.
+617268813	Só to dizendo. Acabamos de ter um momento agradável, então por que estragá-lo, hein?
+1148053107	Ei, olha, eu não estou aqui para bancar o bom samaritano. Nós dois sabemos que ele está trabalhando para DeVitt. Então, apenas me diga onde ele está.
+303088882	Calma, amigo... A última vez que ouvi ele estava na casa do prefeito. É apenas uma curta viagem subindo a montanha.
 177756232	Não há razão para perder mais tempo então.
 1480880844	Tem certeza de que é uma boa ideia? Está ficando tarde.
 1468771553	Eu adiei isso por tempo suficiente.
@@ -1903,10 +1903,10 @@ Portuguese	Português(BR)
 874828944	Jarvis está tentando montar o touro nos estábulos. 
 1933258732	McBane
 714422562	McBane é o capataz no canteiro de obras.
-1691779768	Wild Marge
-1513187451	Wild Marge fica no bordel no andar superior.
-1881451099	O duque
-677991508	O duque está patrulhando as ruas com seus capangas.
+1691779768	Marge Selvagem
+1513187451	Marge Selvagem fica no último andar do bordel.
+1881451099	O Duque
+677991508	O Duque está patrulhando as ruas com seus capangas.
 919104746	Voltar a taberna
 1033282544	Seu trabalho aqui está feito. Bebidas estão esperando por você na taberna.
 795688174	Láudano
@@ -1918,7 +1918,7 @@ Portuguese	Português(BR)
 115814410	Sinal instável
 1101779295	Um trabalhador não tão talentoso construiu esse letreiro. Só é mantido no lugar por um pedaço fino de madeira.
 902105076	Uísque
-183908969	Wild Marge bebe muito uísque. A donzela traz para ele deste barril.
+183908969	Marge Selvagem bebe muito uísque. A donzela serve para ela deste barril.
 541866882	Sino
 832290859	O sino da igreja caiu recentemente. Seria uma pena se isso acontecesse novamente.
 1017964628	Ah, laje. Um lugar como muitos outros. A vida fica quieta aqui até que problemas surjam. Hoje não será um dia calmo.
@@ -2987,7 +2987,7 @@ Portuguese	Português(BR)
 782355437	Habilidades com armas!
 948571304	Vamos recuperar a cidade, fácil.
 880261538	Bem, você vai. Eu fico aqui.
-626700481	Você não quer vingança por Jarvis? Wild Marge? McBain?
+626700481	Você não quer vingança por Jarvis? Marge Selvagem? McBain?
 1225172522	Ah, deixe-os ficar com a cidade de merda.
 1406020804	Covardes, todos vocês!
 1560359473	Venha, antes que um urso te pegue.
