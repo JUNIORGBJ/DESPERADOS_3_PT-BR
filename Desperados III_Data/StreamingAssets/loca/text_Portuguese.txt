@@ -1096,7 +1096,7 @@ Portuguese	Português(BR)
 663666488	Cooper
 421750801	Casaco Longo
 639273516	Jarvis
-1745974188	Marge Selvagem
+1745974188	Wild Marge
 1598571356	O Duque
 844354073	McBane
 614728443	Tio O'Hara
@@ -1747,7 +1747,7 @@ Portuguese	Português(BR)
 408677718	Que diabos!
 1892649360	Merda! Ela está morta! Talvez fosse o uísque...
 1721722381	Eu tenho que avisar os outros!
-433108508	Até mais, Marge Selvagem.
+433108508	Até mais, Wild Marge.
 772149685	É isso para Marge.
 711013061	São três a menos.
 243224828	Com isso são três. 
@@ -1903,8 +1903,8 @@ Portuguese	Português(BR)
 874828944	Jarvis está tentando montar o touro nos estábulos. 
 1933258732	McBane
 714422562	McBane é o capataz no canteiro de obras.
-1691779768	Marge Selvagem
-1513187451	Marge Selvagem fica no último andar do bordel.
+1691779768	Wild Marge
+1513187451	Wild Marge fica no último andar do bordel.
 1881451099	O Duque
 677991508	O Duque está patrulhando as ruas com seus capangas.
 919104746	Voltar a taberna
@@ -1918,7 +1918,7 @@ Portuguese	Português(BR)
 115814410	Sinal instável
 1101779295	Um trabalhador não tão talentoso construiu esse letreiro. Só é mantido no lugar por um pedaço fino de madeira.
 902105076	Uísque
-183908969	Marge Selvagem bebe muito uísque. A donzela serve para ela deste barril.
+183908969	Wild Marge bebe muito uísque. A donzela serve para ela deste barril.
 541866882	Sino
 832290859	O sino da igreja caiu recentemente. Seria uma pena se isso acontecesse novamente.
 1017964628	Ah, laje. Um lugar como muitos outros. A vida fica quieta aqui até que problemas surjam. Hoje não será um dia calmo.
@@ -2254,41 +2254,41 @@ Portuguese	Português(BR)
 1822264759	Pedra solta
 530414943	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
 1453166023	Gah... merda...!
-776792294	Esta empregada carrega uma chave mestra com ela. Kate pode pegar
+776792294	Pare de martelar o seu polegar.
 1748457233	Desculpe, Sr. O'Hara!
-1065855255	Estamos tão prontos quanto estaremos. Diga aos outros para ir para casa.
+1065855255	Estamos prontos, não podemos fazer mais nada. Diga aos outros para irem para casa.
 1364684202	Entendi. Boa sorte, senhor.
 831879383	Hector! Esse é o último óleo de alcatrão?
 600220325	Claro que é. Despejamos os outros como você pediu.
-1684722420	Nós vamos colocar fogo em suas bundas, ha ha!
-293604418	Ei! Olha quem está aí!
+1684722420	Nós vamos tacar fogo nesses bundões, ha, ha!
+293604418	Ei! Olha quem está aqui!
 1504803829	Ahhh, os reforços chegaram! Que bom que vocês dois conseguiram chegar ao nosso pequeno churrasco.
 1981540590	Quem é o espantalho, amigo?
 530391811	O nome é McCoy, amigo.
 234548493	McCoy?! Nunca imaginei que eu lutaria lado a lado com um escocês. Sem ofensa.
-1122718315	Negligência
-1484168522	Escute, vimos cavaleiros descendo a passagem da montanha.
-962755699	Tudo bem então, vamos ao que interessa.
-1454919041	Dois de vocês ficam aqui e levam esses malditos um por um.
-2029985056	Eu tenho uma garrafa de uísque bom para quem mata mais. Feito?
-1100291314	Uísque, não é? Concordo. Eu vou me esconder no galpão.
-1755941760	Bom homem, bom homem.
+1122718315	Imagine
+1484168522	Ouça, nós vimos cavaleiros descendo através do desfiladeiro..
+962755699	Tudo bem, vamos pegá-los.
+1454919041	Vocês dois vão e matam aqueles malditos um por um.
+2029985056	Quem matar mais ganha uma garrafa de uísque. Certo
+1100291314	Uísque, é? Certo. Eu vou me esconder no galpão.
+1755941760	Tudo bem, tudo bem.
 187223591	E você, Sr. McCoy? Você acha que pode fazer melhor que o Sr. Hector?
-26243217	Como se eu fosse perder para um neandertal assim.
-1242732138	Mantenha esse uísque pronto.
+26243217	Como se eu fosse perder para um homem das cavernas como ele.
+1242732138	Espero que seu uísque já esteja pronto.
 1029958115	Você nunca me disse que seu amigo tinha o charme de uma cascavel.
 1175549796	Não se preocupe com ele. É melhor entrarmos antes que eles cheguem aqui.
 741279526	Muito bem. Vamos mostrar aos malditos quem é o chefe deste rancho.
 1246422449	Tio Ian?
-896266522	O que aconteceu, Kate?
+896266522	O que foi, Kate?
 1379256824	Isso é tudo culpa minha, não é?
 1855239468	Que diabos você está falando?
 254762468	Se eu não tivesse perdido minha escritura...
 1849885691	Kate! Higgins roubou todo mundo, não apenas você.
 1117551598	Sim mas...
-818355494	Sem desculpas. Nós vamos sair disso. Como sempre.
-754928013	Hmm, você provavelmente está certo.
-794437469	Vamos lá, vamos mostrar a esses cães da companhia por que você não mexe com um O'Hara.
+818355494	Sem desculpas. Nós vamos resolver isso. Como sempre.
+754928013	Hum, Provavelmente você está certo.
+794437469	Vamos lá, vamos mostrar a esses cães da companhia, o porque eles não deviam ter mexido com um O'Hara.
 229379485	VO TRACK
 856640671	Desista, O'Hara! Este lugar pertence a nós agora!
 1733682931	Esta é a nossa terra, pedaço de lixo!
@@ -2987,7 +2987,7 @@ Portuguese	Português(BR)
 782355437	Habilidades com armas!
 948571304	Vamos recuperar a cidade, fácil.
 880261538	Bem, você vai. Eu fico aqui.
-626700481	Você não quer vingança por Jarvis? Marge Selvagem? McBain?
+626700481	Você não quer vingança por Jarvis? Wild Marge? McBain?
 1225172522	Ah, deixe-os ficar com a cidade de merda.
 1406020804	Covardes, todos vocês!
 1560359473	Venha, antes que um urso te pegue.
