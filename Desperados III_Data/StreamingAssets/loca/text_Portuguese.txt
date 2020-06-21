@@ -511,10 +511,10 @@ Portuguese	Português(BR)
 1879142254	Martelo primeiro
 771797553	Derrube um inimigo à queima-roupa. Pode nocautear casacos longos.
 1245144391	Bianca
-1307582697	Coloque Bianca (armadilha para urso). Mata o primeiro inimigo que pisar nela. Precisa ser recuperado novamente.
-1246149011	Apito
-823392386	Apito para criar ruído. Os inimigos ao alcance se moverão para o local de Hector.
-1909121017	As coisas boas
+1307582697	Coloque Bianca (armadilha para urso). Mata o primeiro inimigo que pisar nela. Precisa ser recuperada novamente.
+1246149011	Assovio
+823392386	Assovio para criar ruído. Os inimigos ao alcance se moverão para o local de Hector.
+1909121017	A da Boa
 473693194	Tome um gole para curar Hector. Forte demais para todo mundo.
 2029916213	Espingarda Serrada
 930899656	Atire nos inimigos com a serrada. Atinge todos os alvos dentro do cone de dano.
@@ -1648,7 +1648,7 @@ Portuguese	Português(BR)
 1977264724	Tudo certo. Vamos acabar logo com isso.
 1859777443	Tem certeza de que eles estão aqui, Murdock?
 655992159	Eles não poderiam ter escapado.
-50795188	O que acontece quando eles aparecem?
+50795188	O que acontece quando eles aparecerem?
 535869234	Nós atiramos neles e depois vamos a taberna.
 969948446	Inferno, estou ficando com sede, Murdock.
 964505631	Eles não podem se esconder para sempre, Sam. Agora prepare-se. 
@@ -1800,13 +1800,13 @@ Portuguese	Português(BR)
 444461650	Nós nos reunimos aqui porque nosso bom amigo Bill faleceu, esmagado por um muro que algum idiota não ergueu corretamente.
 409318720	Não fui eu!
 878016439	Cale a boca, Josh.
-929043127	Estamos aqui para devolver seus restos esmagados à terra, cinzas em cinzas, pó em pó e todas essas coisas.
+929043127	Estamos aqui para devolver seus restos esmagados à terra, das cinzas às cinzas, do pó ao pó e todas essas coisas.
 1508246087	Caras, isso é tudo que consigo me lembrar. Algum de vocês quer dizer alguma coisa?
-903238742	Sim, eu tenho uma coisa. Bill... era um bom homem. Nunca machucou uma mosca, mas batia na esposa como se não houvesse amanhã, mas quem não, não é? Descanse em paz, Bill.
-1293668422	Vou sentir falta do Bill. Ele era capaz, sim, ele era. Ninguém poderia erguer um muro tão rápido e direto quanto Billy. Especialmente Josh, como todos sabemos agora.
+903238742	Sim, eu tenho uma coisa. Bill... era um bom homem. Nunca machucou uma mosca, mas batia na esposa como se não houvesse amanhã, mas quem nunca, hein? Você descanse em paz aí, Bill.
+1293668422	Vou sentir falta do Bill. Ele era capaz, sim, ele era. Ninguém poderia erguer um muro tão rápido e reto quanto Billy. Especialmente não o Josh, como todos estamos sabendo agora.
 34616657	Eu disse, não fui eu!
 1617731165	E eu disse cala a maldita boca.
-955829136	Sim, sim, tanto faz. Acho que todos já falamos o bastante. Vocês dois, comecem a trabalhar com pá. Eu acho que preciso de uma bebida.
+955829136	Sim, sim, tanto faz. Acho que todos já falamos o bastante. Vocês dois, comecem a tapar a cova. Eu acho que preciso de uma bebida.
 1152530045	Isso é ultrajante! Você não pode simplesmente derrubar minha casa!
 241605746	Ordens da companhia. A ferrovia tem que passar por aqui.
 1069749397	Para o inferno com sua companhia!
@@ -1827,28 +1827,28 @@ Portuguese	Português(BR)
 1438218330	É o cara que dirige a companhia. Sim, ele quer nos ver embora. Não dá a mínima para nós.
 1235977052	Sim, e você ouviu o que eles fizeram com o velho William?
 6558978 	Ultimamente estou ouvindo todo tipo de coisa. E você?
-1794071182	Você sabe que o prefeito Higgins vai se casar com Miss Kate amanhã.
+1794071182	Você sabia que o prefeito Higgins vai se casar com senhorita Kate amanhã.
 301471330	Sim, aquela pobre garota. O homem é um porco.
 886425050	Aposto que ela está atrás do dinheiro dele.
 1677873621	Não diga isso!
-80192741	Você pensaria que ele teria mais cuidado com esse tipo de dinheiro.
+80192741	Você pensaria que ele seria mais cuidadoso com aquele tipo de dinheiro.
 1135368470	Eu lhe digo, o prefeito Higgins está gastando uma fortuna em seu casamento. Quase comprou minha loja inteira.
 656289935	Ele está atrás de Kate há anos. Provavelmente tinha tudo planejado, caso ela finalmente dissesse que sim.
 303879504	Hah! Assim como com Suzanne! Lembra quando aquele garimpeiro tentou se casar com ela?
-1294148656	Sim, claro, mas eu não sei como tudo isso vai acontecer.
-251907330	Sim. Você conhece aquele homem que veio com os trabalhadores. Ele está na prefeitura agora, certo?
-611456286	Oh, agora que alguém tem olhos como se não houvesse vida neles. Olhou diretamente para mim quando ele passou. Eu quase me cago.
-1284719727	Amaldiçoe o prefeito que ele trouxe essas pessoas aqui.
-2065455987	Você acertou! Sim. E a Betty? É verdade que ela ficou doente?
-2051936206	Mas eles nunca disseram a ninguém que o destruíram. Essas pessoas pobres.
+1294148656	Sim, claro, mas eu não sei como tudo isso vai terminar.
+251907330	Sim. Você conhece aquele homem que veio junto aos trabalhadores. Ele está na casa do prefeito agora, certo?
+611456286	Oh, agora aquele cara tem olhos como se não houvesse vida neles. Olhou diretamente para mim quando ele passou. Eu quase me caguei.
+1284719727	Maldito o prefeito que trouxe essas pessoas aqui.
+2065455987	Você está certa! Sim. E a Betty? É verdade que ela ficou doente?
+2051936206	Mas eles nunca disseram a ninguém que a derrubaram. Essas pobres pessoas.
 1459256018	Você me pergunta, a ferrovia é uma coisa boa.
-1540856498	Eles querem que todos nós sejamos, Earl. Você não pode ver isso?
+1540856498	Eles querem que todos nós vamos embora, Earl. Você não enxerga isso?
 1125952649	Essas ferrovias passam pela minha loja. Na minha opinião, isso é realmente bom para os negócios.
 260168679	Oh, você deveria ter vergonha de si mesmo.
 2139771842	Você ouviu o que aconteceu com o sino da igreja outro dia?
 171777025	Sim. Imagine se ele caísse no domingo, com metade da cidade embaixo.
 682214325	Eu nem quero pensar nisso...
-1656128365	Veja... estamos construindo algo apropriado nesta represa. É assim que se faz.
+1656128365	Veja... estamos construindo algo apropriado nesse fim de mundo. É assim que se faz.
 1400404384	Sim exatamente, senhor.
 1286619312	Você está absolutamente certo, senhor.
 531548043	Dê uma boa olhada. Em alguns meses, este lugar será civilizado.
@@ -2908,7 +2908,7 @@ Portuguese	Português(BR)
 116064958	Haverá consequências!
 9719693	E de que consequências estamos falando?
 900767901	Enviaremos uma carta para a companhia. Marque minhas palavras!
-1078604639	Não se corte, senhora. Não se corte.
+1078604639	Você faz isso madame, você faz isso.
 148871231	E o que eles dizem sobre uma revolta em Flagstone? 
 1239414576	Rumores, senhora. Preciso voltar ao trabalho ou você nunca mais vai embora.
 1107055388	Você não vai a lugar algum, senhor! Eu preciso de respostas!
@@ -6175,7 +6175,7 @@ Portuguese	Português(BR)
 379630895	Vamos ver o que está acontecendo aqui.
 1544431828	Estou me aquecendo.
 1274084592	Está cidade ficou brutal.
-516373232	Tive que me arrastar para isso.
+516373232	Você tinha que me arrastar pra isso.
 2037770180	No meio do nada.
 993530816	Podemos acabar com isso?
 1124133034	Vamos eliminar esses caras.
@@ -6784,7 +6784,7 @@ Portuguese	Português(BR)
 188191931	Gostei!
 537737020	Movimentando.
 687059772	Vamos nessa.
-1416768657	Qual é, amigo.
+1416768657	Vamos, amigo.
 2115627036	Por aqui, amigo.
 610283050	Isso aí, amigo.
 1226941011	Pegue cobertura.. 
@@ -11502,9 +11502,9 @@ Portuguese	Português(BR)
 550247435	O que eu estou fazendo?
 1077324200	Deixa pra lá.
 1419908295	Isso é estúpido.
-1207272647	Não se corte.
+1207272647	Claro, fique a vontade.
 1758522976	Não vale o meu tempo.
-1255156747	Já!
+1255156747	Acabe logo com isso!
 1058052522	Não pense que você pode se esconder!
 1197274195	Ok, vamos acabar logo com isso!
 1419824739	Vamos dar uma olhada.
