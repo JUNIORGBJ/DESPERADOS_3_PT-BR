@@ -2795,37 +2795,37 @@ Portuguese	Português(BR)
 1094818449	Alarme
 316293683	Você não pode acionar o alarme.
 521411584	Eu odeio funerais.
-1848347822	Quem não?
-612157698	Que porra é essa. Nós éramos muito lentos.
-296559256	Você fez bem. Eu deveria ter ficado com ele.
-76027002	Então enterramos dois corpos hoje.
+1848347822	Quem não odeia?
+612157698	Isso é besteira. Nós demoramos muito para agir.
+296559256	Você se saiu bem. Eu deveria ter ficado com ele.
+76027002	Então hoje enterraríamos dois corpos.
 44546673	Kate!
-615451680	Como você está indo?
+615451680	Como está se sentindo?
 733306503	Ainda não acredito que ele se foi.
-819823984	Eu sei. Como eu gostaria de matar aqueles malditos novamente.
+819823984	Eu sei. Só queria poder matar aqueles malditos novamente.
 1010048128	Obrigado, Hector.
-532568269	Eu odeio dizer isso a você, mas isso está longe de terminar.
-1164037571	O que você quer dizer?
-1114307721	A companhia só precisa enviar mais homens no próximo trem.
-1429595592	Ele tem razão. Nós não podemos ganhar isso. Talvez seja a hora de cortar nossas perdas.
+532568269	Eu odeio dizer isso, mas isso está longe de terminar.
+1164037571	O quis com isso?
+1114307721	Tudo que a companhia tem que fazer é enviar mais homens com o próximo trem.
+1429595592	Ele está certo. Não podemos ganhar isso. Talvez seja hora de cortarmos nossas perdas.
 714421692	Não.
-835385637	Então o que?
+835385637	O que tem em mente?
 885227267	Vamos explodir a ponte.
 1408309784	Que ponte?
 2027617074	A ponte em Eagle Falls.
-1006380252	Sem uma ponte, não há trem, não há mais dor e miséria para o povo de Flagstone.
-1413203826	Vou a Eagle Falls e rasgarei sua maldita ponte, mesmo que seja a última coisa a fazer.
-871378757	Essa é uma tarefa difícil, senhorita.
+1006380252	Sem ponte, sem trem, sem dor e miséria para o povo de Flagstone.
+1413203826	Vou para Eagle Falls e explodirei aquela maldita ponte, mesmo que seja última coisa que eu faça.
+871378757	Essa vai ser uam tarefa difícil, senhorita.
 348563740	Farei sozinha se for preciso.
-969953473	Eu já vi esse lugar. É enorme, bem vigiado.
-1894985836	Vai ser um empreendimento arriscado.
-221281587	Vamos Doc. Kate precisa de nós. Você não pode se afastar agora.
-1019647664	Não, claro que não. Você me pagou. Sou todo seu.
-1382510156	É isso que eu quero ouvir.
-165942666	Vou preparar minhas provisões.
+969953473	Eu já vi esse lugar antes. É enorme e bem vigiado.
+1894985836	Vai ser um aventura arriscada.
+221281587	Vamos Doc. Kate precisa de nós. Não podemos deixá-la agora.
+1019647664	Não, claro que não. Você me pagou. Estou ao seu serviço.
+1382510156	Exatamente o que eu queria ouvir.
+165942666	Vou preparar minhas coisas.
 1659437782	Vou selar os cavalos.
-1538176386	Podemos cuidar da ponte, senhorita. Você apenas fique aqui, está bem?
-1440900464	De jeito nenhum, Sr. Cooper. Esta é a minha luta. Eu não vou deixar você lutar por mim.
+1538176386	Podemos cuidar da ponte, senhorita. Você fica aqui, certo?
+1440900464	Negativo, Sr. Cooper. Esta luta é minha. Eu não vou deixar você lutar por mim.
 212712471	Como quiser.
 1083969188	VO TRACK
 889048379	Eu verifiquei este lugar. Passamos pelo campo e chegamos à ponte.
