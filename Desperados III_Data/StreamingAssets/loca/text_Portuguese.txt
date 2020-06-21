@@ -1478,9 +1478,9 @@ Portuguese	Português(BR)
 1155934742	E você sabe disso porque...
 2126919349	Confie em mim. Eu sei conheço o tipo.
 1317692460	Nada ainda. Por que está demorando tanto?
-1680411418	O bastardo provavelmente está escondido em algum lugar. Não se preocupe, eles o encontrarão.
+1680411418	O maldito provavelmente está escondido em algum lugar. Não se preocupe, eles o encontrarão.
 1699565207	Eles não deveriam estar de volta agora?
-268746474	Não, eu aposto que eles estão demorando com ele. O bastardo merece isso.
+268746474	Não, eu aposto que eles estão demorando com ele. O maldito merece isso.
 143066108	E se ele os matou...Talvez eu seja o próximo.
 1916520478	Heh, relaxe. Um cara como ele não vai desperdiçar uma bala em você.
 1529165791	Adoro quando um plano funciona.
@@ -1508,7 +1508,7 @@ Portuguese	Português(BR)
 782751206	Os passageiros certamente poderiam usar nossa ajuda.
 271645073	Por que perder tempo? Vamos continuar. 
 1374310770	Vai? Sem perder tempo.
-131212092	Você é um bastardo frio, Sr. McCoy.
+131212092	Você é um desgraçado frio, Sr. McCoy.
 357527990	Cada um na sua, Sr. Cooper.
 766710338	Seja você quem for, obrigado.
 75578718	Nada disso. Agora fique parado.
@@ -3166,7 +3166,7 @@ Portuguese	Português(BR)
 1046132865	Você viu o que ele fez com Jenkins?
 719125003	Sim. Teria sido eu se eu não estivesse mijando.
 1470063504	Espero que Frank dê a ele tudo que ele merece.
-55717411	Sim. Espero que ele apressem-se com o bastardo.
+55717411	Sim. Espero que ele apressem-se com o maldito.
 258047790	É isso mesmo, continue procurando.
 409357586	Ninguém está passando por nós.
 951814132	Você ouviu Frank. Continue olhando.
@@ -3374,7 +3374,7 @@ Portuguese	Português(BR)
 1327253338	Que ele tenha piedade de nossas almas.
 2006344400	O cofre foi arrancado da parede. O chão está coberto de pegadas.
 538003243	Então é verdade. O próprio Satanás esteve aqui ontem à noite.
-2024803270	Eu vi o bastardo. Vestindo um casaco preto comprido e grandes chifres, como os do boi.
+2024803270	Eu vi o maldito. Vestindo um casaco preto comprido e grandes chifres, como os do boi.
 136615385	Como vamos trancar o diabo?
 868949280	Deveríamos ligar para o pastor. Ele saberá o que fazer.
 1594392271	Talvez. O xerife parece não estar dando ouvidos, ignorando nossas teorias e tudo.
@@ -3705,7 +3705,7 @@ Portuguese	Português(BR)
 221837581	Tudo bem, como o cara era?
 2045347558	Memorize isso. Alto, casaco longo, mau como o pecado.
 1813812817	Temos que encontrá-lo. Estamos aqui a noite toda.
-1237361987	Por que ele não está ajudando, o gordo bastardo?
+1237361987	Por que ele não está ajudando, o gordo maldito?
 1100169350	Não conte com nenhuma ajuda dele. Como você o carrega?
 1719301491	Não sei o que vai me comer primeiro, insetos ou jacarés.
 1192359471	Eu vou morrer de tédio aqui.
@@ -5396,7 +5396,7 @@ Portuguese	Português(BR)
 184271111	Tudo bem, vamos seguir o plano.
 984542604	VO TRACK
 383101198	A festa de DeVitt está em andamento. Naturalmente, ele se tornou o centro das atenções.
-2084697177	Você precisará entrar lá, nocautear o bastardo e, bem, extraí-lo das instalações.
+2084697177	Você precisará entrar lá, nocautear o maldito e, bem, extraí-lo das instalações.
 658204526	Lembre-se, eu o quero vivo. Portanto, não seja muito duro com ele.
 72267178	Eu também não quero que nenhum dos convidados seja prejudicado, entendeu?
 613008332	Arraste-o para a carroça, depois sente-se e dê o fora dali.
@@ -5419,7 +5419,7 @@ Portuguese	Português(BR)
 1249882110	Isso não era um guarda. Wayne vai arrebentar nossas bundas.
 1764205916	Eu estarei contando com você.
 261744105	Continue. Aproveita a festa.
-1371704781	Vamos pegar o bastardo.
+1371704781	Vamos pegar o maldito.
 1784503016	Linha longa. 
 1597495231	Vamos jogar bem. O delegado não gostaria que prejudicássemos convidados.
 1788317662	Não significa que não podemos cortar.
@@ -8392,7 +8392,7 @@ Portuguese	Português(BR)
 661354426	Eu disse para parar. Você acha que eu não sei quem você é?
 1418039439	Estou perdendo minha paciência com você. Último aviso.
 786260379	Bem, você pediu.
-211269754	Hgnn... Lá. Você é meu. Agora vamos ver...
+211269754	Hgnn... Lá. Você é meu. Vamos ver agora...
 175033187	Abra o menu de opções.
 860753893	Vá para os jogos salvos
 1327277550	Pressione excluir tudo... Faça isso. Agora.
@@ -8871,7 +8871,7 @@ Portuguese	Português(BR)
 1643319938	Sim, ela é a única.
 260523217	Você é o traidor.
 1149841042	Era você, não era?.
-431189211	Aqui está o bastardo.
+431189211	Aqui está o maldito.
 89735425	Te encontrei, idiota.
 485741451	Eu vou lidar com ele mais tarde.
 1816268758	Vou deixá-lo aqui por enquanto.
@@ -10966,7 +10966,7 @@ Portuguese	Português(BR)
 2087661599	Desculpe garota. Deixe crescer barba—então poderemos conversar novamente.
 503081441	Hoje não, querida.
 103687019	Desculpe, não estou de bom humor.
-936252275	Seu sortudo bastardo.
+936252275	Seu sortudo maldito.
 1493741192	Ela é boa demais para você!
 1569485127	Sim, sim, você vai se divertir...
 937947480	Oh, querida. Ele não vale a pena, acredite em mim.
@@ -11447,7 +11447,7 @@ Portuguese	Português(BR)
 1305656810	Sim, ela é a única.
 624192392	Você é o traidor.
 517148735	Era você, não era?
-2019251121	Aqui está o bastardo.
+2019251121	Aqui está o maldito.
 1737631263	Encontrei você, idiota.
 1822710443	Vamos lidar com ele mais tarde.
 405846824	Vamos deixá-lo aqui por enquanto.
@@ -14995,7 +14995,7 @@ Portuguese	Português(BR)
 2074797965	Sim, você não é meu tipo.
 1564611961	Você deveria ter vergonha.
 566600254	Não, acho que não.
-931485723	Seu bastardo louco.
+931485723	Seu maldito louco.
 28463321	Ela é boa demais para você!
 1315404468	Sim, sim, você vai se divertir...
 296351444	Oh, querida. Ele não vale a pena, acredite em mim.
@@ -15958,7 +15958,7 @@ Portuguese	Português(BR)
 300023923	Você se superestima, minha querida.
 157253991	Isso não vai acontecer, senhora.
 1205381688	Isso está indo longe demais.
-1455994893	Seu bastardo sortudo.
+1455994893	Seu maldito sortudo.
 1799624607	Ela é boa demais para você!
 1136043908	Sim Sim. Você vai se divertir...
 1622906240	Oh, querida. Ele não vale a pena, acredite em mim.
@@ -16235,7 +16235,7 @@ Portuguese	Português(BR)
 224526852	Felicity, "Mão direita do diabo"
 356379514	Ann' McGull
 112931937	Detetive Mo von Presswald
-459512988	John "Operador bastardo" McRoth
+459512988	John "Operador maldito" McRoth
 405965771	Dom Lyn o Baixo
 133398481	Florence Smolker
 1173975773	Ray Farewell
