@@ -363,7 +363,7 @@ Portuguese	Português(BR)
 949271593	Movendo corpos mortos
 1671046303	Os personagens movem os corpos de maneira diferente. Alguns focam na velocidade; outros ficam perto do chão para evitar a detecção.
 1628782004	Matar e Carregar
-1344684890	Segure <hotkey>{0}</hotkey> ao solicitar uma morte corpo a corpo para carregar o corpo automaticamente.
+1344684890	Segure <hotkey>{0}</hotkey> ao ordenar uma morte corpo a corpo para carregar o corpo automaticamente.
 1476567941	Segure <hotkey>{0}</hotkey> durante uma morte corpo a corpo para carregar o corpo automaticamente.
 520060613	Marcador de cone
 3333633	Não apressem-se ao verificar um local com o marcador de cone. Alguns guardas têm longas rotas de patrulha.
@@ -1937,35 +1937,35 @@ Portuguese	Português(BR)
 1359697944	Magnífico!
 1559499210	Mais uma?!
 389220884	Eu acho que esse lado é muito mais imponente.
-256272098	Outra placa.
-2031706714	Você gostou do vestido novo, docinho?
+256272098	Certo, eu vou buscar outra placa.
+2031706714	O que você achou do novo vestido, docinho de caju?
 21845656	É adorável, querido.
-986374359	Excelente! Quero que todos falem sobre esse dia nos próximos anos.
+986374359	Excelente! Quero que todos lembrem e falem desse dia nos próximos anos que virão.
 1065468858	Prefeito Higgins!
 687118702	O que foi agora?
 1301008775	Frank diz que está ficando impaciente.
 1758863038	Merda! Agora não! Você não vê que estamos ocupados?
-1308103675	Me desculpe, docinho. Isso é algo que eu realmente tenho que cuidar.
+1308103675	Me desculpe, docinho de caju. Isso é algo que eu realmente tenho que cuidar.
 1296826008	Não se preocupe comigo, querida.
-952763125	Fique aqui. Volto em um instante.
+952763125	Fique bem aqui. Voltarei em um instante.
 2110419620	Eu preciso de mais tempo. Tente distrair Frank. Eu realmente preciso verificar os arranjos de flores.
 1015183357	Sim senhor.
 1297511042	VO TRACK
 855950524	Finalmente. Eu pensei que ele nunca iria embora.
-820816475	Precisa trabalhar rápido. Pegue o que eu preciso e saia antes de ser arrastada para o altar.
+820816475	Preciso trabalhar rápido. Pegar o que eu preciso e sair antes de ser arrastada para o altar.
 98129895	Primeiro eu preciso de uma chave para o andar superior.
-1561478639	Eu acho que ela carrega uma sobressalente. Aposto que ela não vai se importar se eu pedir emprestado por um feitiço.
+1561478639	Eu acho que ela carrega uma sobressalente. Aposto que ela não vai se importar se eu pegar emprestado por um instante.
 533676105	Os guardas não vão me incomodar desde que eu não me comporte mal.
 452495515	Assim que eu conseguir, eu vou esgueirar-me pela porta da biblioteca.
-877447584	O piso superior está fora dos limites. Vou ter que evitar os guardas até chegar ao escritório.
+877447584	O piso superior inacessível. Vou ter que evitar os guardas até chegar ao escritório.
 332350569	Vou virar o lugar de cabeça para baixo até encontrar o que estou procurando.
-898990293	O resto é simples: pule pela varanda da frente, roube um cavalo e faça uma pausa.
-1371716073	Tudo bem então. Preciso sair daqui antes que o noivo decida verificar a noiva dele.
+898990293	O resto é simples: pular pela varanda da frente, roubar um cavalo e escapar.
+1371716073	Tudo bem então. Preciso sair daqui antes que o noivo decida procurar pela sua noiva.
 1322652543	Eu realmente deveria me virar e pegar essa chave.
-1028129373	Eu tenho que dar uma coisa a ele - o vestido é lindo.
+1028129373	Eu realmente tenho que dar crédito a ele por uma coisa - o vestido é lindo.
 2133829287	Hmm... duvido que eu poderia escalar isso.
 1400608010	Oh, será maravilhoso! Ele tem esperado há tanto tempo que ela crescesse.
-100557936	Eu queria ser casado com ele. Esse acordo com a Companhia DeVitt o tornou rico.
+100557936	Eu queria que eu fosse casada com ele. Esse acordo com a Companhia DeVitt o tornou rico.
 1064942264	Bem, nem todos podemos ter a mesma sorte que Miss O'Hara.
 1759505699	Você está com ciúmes ou inveja?
 2143813775	Jesus, esse cachorro me odeia. O sentimento é mútuo.
@@ -1996,7 +1996,7 @@ Portuguese	Português(BR)
 355457615	Hah... as palavras me falham, e por isso vou continuar assistindo.
 1136573202	Um pouco de retoque... Sim... Agora você está simplesmente deslumbrante.
 120801768	Hah... Mary. Você é o única.
-1750395949	Eu levanto a chave para ela. Mas o cara na varanda parece um pouco fixado nela.
+1750395949	Eu eu vou roubar a chave dela. Mas o cara na varanda parece um pouco fixado nela.
 461350108	Vamos cegá-lo um pouco com este perfume.
 1306362270	Higgins deve ter planejado este casamento há anos.
 251910601	Nunca conseguia tirar os olhos de mim, o velho cão imundo.
@@ -2018,7 +2018,7 @@ Portuguese	Português(BR)
 1348339021	Me desculpe por isso. O casamento, você entende.
 1857532016	Claro.
 901135896	Tem a comida, as decorações, os parentes malditos...
-1234949161	Vamos fazer isso. Eu tenho um trem para pegar.
+1234949161	Vamos fazer isso logo. Eu tenho um trem para pegar.
 1632570446	Claro. Apenas me dê um momento.
 1559208350	Ouvi corretamente que ontem houve problemas em Flagstone?
 177296743	O de sempre.
@@ -2027,7 +2027,7 @@ Portuguese	Português(BR)
 1027159589	Eu me pergunto se ele gostaria que você deixasse as coisas inacabadas aqui.
 508971626	Ou há algo mais importante em New Orleans?
 1686580200	Talvez você deva voltar ao seu casamento, Higgins.
-2140636003	Talvez você esteja certo. Não quero que a noiva fique nervosa.
+2140636003	Talvez você esteja certo. Não iria querer que a noiva ficasse nervosa.
 618313073	Bem, ela tem todos os motivos para estar.
 509176289	Desculpe?
 957048501	Não acho que ela ficará contente quando descobrir que você vendeu a fazenda da família dela.
@@ -2041,15 +2041,15 @@ Portuguese	Português(BR)
 430507432	Tem certeza de que quer fazer isso sozinho?
 336265342	Isso não é uma discussão.
 190550738	Então, qual é o seu plano?
-193984684	Entre. Encontre o Frank. Faça o que você veio fazer.
+193984684	Entrar. Encontrar o Frank. Fazer o que eu vim fazer.
 1758912559	No meio de um maldito casamento.
 1070686913	Só vou fazer uma visita à mansão. Se ele não estiver lá, encontrarei alguém que saiba seu paradeiro.
-498101810	Marcha pelo portão da frente?
+498101810	Entrada pelo portão da frente?
 2104851491	Há um caminho por aqueles penhascos.
-974842030	Vou seguir isso e depois subir as videiras. De lá, eu voarei.
+974842030	Vou seguir isso e depois subir as videiras. De lá, eu me viro.
 1043880601	Isso não é um plano, amigo.
-428475223	Eu tirei os mais frágeis.
-2069318595	Se eu achar que algo está acontecendo, eu irei buscá-lo.
+428475223	Já fiz coisa pior.
+2069318595	Se eu achar que tem algo estranho, eu vou e te ajudo.
 1667387460	Não, você fica parado. Esta é a minha luta.
 1423983679	O que você disser, amigo.
 991484945	VO TRACK
@@ -2058,9 +2058,9 @@ Portuguese	Português(BR)
 449006391	Se eu quiser ir na frente, devo tentar a varanda.
 471148704	É arriscado, no entanto. O caminho do penhasco parece a escolha sábia.
 445190409	Isso não parece com o Frank, simplesmente sair assim.
-1766187889	Você gostaria de ficar por perto e tomar conta do prefeito, se pudesse sair disso?
+1766187889	Você gostaria de ficar por perto e tomar conta do prefeito, se pudesse?
 273883946	Justo. Ele com certeza não parecia contente depois que falou com Higgins.
-677460149	Eu nunca vi o Frank parecer feliz.
+677460149	Eu nunca vi o Frank contente.
 2035275044	Droga. Parece que Frank não está mais aqui.
 576632710	Tudo bem, novo plano. Encontre o prefeito e descubra para onde Frank foi.
 1540788717	Parece chique aqui. Quer saber quem vai se casar?
@@ -2068,24 +2068,24 @@ Portuguese	Português(BR)
 1895276229	Bem aconchegante aqui. Parece que o prefeito está se saindo bem. 
 114689045	Algo está acontecendo naquele quarto. Vamos dar uma olhada.
 1932598923	Este é um dos presentes de casamento mais estranhos que já vi em toda a minha vida.
-636323351	Sim... quero dizer, é tudo muito caro, mas para uma dama?
+636323351	Sim... quero dizer, é caro e tal, mas para uma mulher?
 1995670140	O que uma noiva faria com essa coisa? 
 1855027666	Você não pode pendurá-lo sobre a lareira, isso é certo.
 717136598	Queria ter visto o rosto dela quando ele contou a ela.
 1086193121	Provavelmente o mesmo rosto que ela fará em sua consumação, heh.
 1911861564	Heh, vamos dar uma volta neste presente de casamento. Esta pronto?
-589429187	Eu estou trabalhando nisso! Não me empurre!
+589429187	Tô dentro! Mas não me apresse!
 1594987651	Rápido, sim? Quem se importa agora se você fizer alguns arranhões?
 1034382140	Eu sei, eu sei. Ainda assim... é um lindo pedaço de aço.
-617116496	Ainda não consigo acreditar que ele daria a ela uma metralhadora de todas as coisas. Você terminou?
+617116496	Ainda não consigo acreditar que dentre tantas coisas ele daria a ela uma metralhadora à ela. Você já terminou?
 1055613052	Eu disse que estou trabalhando nisso!
-1474974179	Você não tem decência, está roubando uma desculpa bizarra para um homem.
-862254333	Docinho, por favor. Eu só quero o melhor para você.
+1474974179	Você não tem decência com essas desculpinhas esfarrapadas, seu ladrão.
+862254333	Docinho de caju, por favor. Eu só quero o que é de melhor para você.
 1545196577	Você nos vendeu para a Companhia DeVitt, seu imbecil!
-1126450539	Estou oferecendo a você mais do que seu tio poderia lhe dar.
+1126450539	Estou oferecendo a você mais do que seu tio jamais poderia lhe dar.
 1217112426	Sim, menos a dignidade! Você realmente acha que eu me casaria com um charlatão conivente?
 388367484	Claro que você vai se casar comigo! Você só precisa se acalmar um pouco.
-72594872	Você não passa de uma merdinha gananciosa!
+72594872	Você não passa de um maldito ganancioso!
 1002971965	Por favor, Kate. Este não é a hora nem o lugar.
 1864219994	O que está acontecendo lá fora?
 1881586802	Não mude de assunto.
@@ -2248,7 +2248,7 @@ Portuguese	Português(BR)
 23442853	Obter um disfarce
 1982850193	Roube as roupas da empregada. Kate pode usá-los para se mover livremente e distrair os guardas.
 344950642	Use a metralhadora
-197460425	Você pode assumir o controle da arma da metralhadora para limpar os guardas.
+197460425	Você pode assumir o controle da metralhadora para limpar os guardas.
 1086187692	Pilha de caixas
 306521944	Essa pilha de caixas parece instável. Uma pena se isso desabasse sobre a cabeça de alguém.
 1822264759	Pedra solta
@@ -7440,7 +7440,7 @@ Portuguese	Português(BR)
 171706901	A propósito, eu sou o único homem vivo que pode conhecer o conteúdo desta bolsa.
 1230028845	Então... com quem você vai ficar, amigo?
 1789870355	Quando você quiser.
-1706662279	Bastante a emoção.
+1706662279	Bem excitante.
 524890511	Não se preocupe comigo.
 88413609	Vamos continuar, sim?
 268180849	Temos que esperar para sempre?
@@ -7893,7 +7893,7 @@ Portuguese	Português(BR)
 1328000473	Coisa atrevida.
 204105715	Tem que funcionar.
 305564457	Vamos deslumbrá-los.
-70898988	Eu interpreto o encantador.
+70898988	Ei bancarei a encantadora.
 791004134	Vou trabalhar meus encantos.
 1152256895	Todos os olhos em mim.
 761927444	Hora da minha entrada.
@@ -7938,7 +7938,7 @@ Portuguese	Português(BR)
 648944505	Não terminei com você.
 788277731	Eu sei o que você está pensando.
 123778068	Vejo você por aí, querida.
-1314560198	Adeus por enquanto.
+1314560198	Tchauzinho por enquanto.
 1266898621	Prazer em falar com você.
 1984119015	Até mais tarde, querida.
 540417029	Vamos fazer isso novamente algum dia.
@@ -8930,7 +8930,7 @@ Portuguese	Português(BR)
 807861649	Isso vai ser doloroso.
 413690976	Tudo bem, quem era aquele?
 1355395483	Que diabos foi isso?
-576987870	Ok, onde está o curinga que me bateu?
+576987870	Ok, onde está o palhaço que me bateu? 
 747216756	Oh, você vai pagar por isso.
 454064382	Não é tão corajoso agora, hein?!
 1970403084	Alguém aqui?
@@ -9049,7 +9049,7 @@ Portuguese	Português(BR)
 1896137410	Pois muito bem! Nem pense em voltar!
 1488734937	Você teve sorte desta vez!
 2034003308	Que diabos estou fazendo?
-1924610248	Maldito! Coringas do caralho.
+1924610248	Porra! Palhaços do caralho!
 659364084	Merda. Eu estava pronto para uma briga.
 451963850	Droga, toda vez!
 1991080102	Estou cansado demais para essa merda.
@@ -9493,7 +9493,7 @@ Portuguese	Português(BR)
 717860675	Voce esta falando serio?
 1935007016	Pare com isso, imbecil!
 1817230699	Você se acha muito engraçado.
-1227873196	Temos um curinga aqui!
+1227873196	Temos um palhaço aqui!
 1157137170	...
 1130164839	...
 1234092309	...
@@ -16245,7 +16245,7 @@ Portuguese	Português(BR)
 1125227931	Calamity Cem
 628363203	Maze Trapped Simon 
 475530897	Xerife Dorian O'Really
-863655585	"Olhos de jaguatirica" Estela
+863655585	Estela"Olhos de jaguatirica"
 513846601	Phil Montanha
 948506850	Ol' Horseshoe Phil 
 511230854	Violão Slingin 'Peccoz Phil
