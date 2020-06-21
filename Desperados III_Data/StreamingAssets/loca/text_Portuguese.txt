@@ -905,7 +905,7 @@ Portuguese	Português(BR)
 166306906	Após a fuga da mina de DeVitt, Doc está farto da situação atual e decide continuar por conta própria. Os outros vão para a estação ferroviária mais próxima. Na chegada, eles encontram o lugar ocupado pelos homens do DeVitt. Além disso, parece que nenhum dos trens realmente para na estação./n/nEnquanto Isabelle cura a perna de Cooper, Kate e Hector procuram uma maneira de parar o trem./n/nO plano deles é bloquear os trilhos e depois pegar carona uma carona no próximo trem para que todos possam ir para casa.
 609111573	Casa DeVitt
 2006494126	Capitão da Indústria
-1413452906	Um jantar extravagante está sendo realizado na luxuosa fazenda de DeVitt. No entanto, a noite está prestes a ser descarrilada por alguns convidados inesperados.
+1413452906	Um jantar extravagante está sendo realizado no luxuoso rancho de DeVitt. No entanto, a noite está prestes a ser descarrilada por alguns convidados inesperados.
 468576441	Tendo escapado com segurança para o trem, a turma recebe um descanso bem merecido./n/nEnquanto Hector e Isabelle dormem exaustos, Cooper e Kate conversam por um longo tempo. As coisas ainda estão tensas, mas os primeiros passos foram dados./n/nDe volta à civilização, a gangue entra em contato com o marechal Wayne, que fica emocionado ao saber que eles ainda estão vivos. Juntos, eles formam um plano para tirar DeVitt e Frank de uma vez por todas./n/nPrimeiro na lista é DeVitt, que está prestes a sediar um jantar exclusivo em sua luxuosa propriedade.
 861610767	A gangue escapa das garras de DeVitt e faz contato com o marechal Wayne. Juntos, eles formam um plano para tirar DeVitt e Frank de fora./n/nDeVitt é o primeiro da lista. Com a ajuda de Wayne, eles garantem convites para o jantar exclusivo de DeVitt./n/nO plano deles: separar DeVitt dos convidados, sequestrá-lo e entregá-lo ao marechal.
 1986610452	Garganta do Diabo/n(Capítulo III)
@@ -2030,7 +2030,7 @@ Portuguese	Português(BR)
 2140636003	Talvez você esteja certo. Não iria querer que a noiva ficasse nervosa.
 618313073	Bem, ela tem todos os motivos para estar.
 509176289	Desculpe?
-957048501	Não acho que ela ficará contente quando descobrir que você vendeu a fazenda da família dela.
+957048501	Não acho que ela ficará contente quando descobrir que você vendeu a rancho da família dela.
 65486749	Bem, ela não precisa descobrir até depois do casamento, certo?
 1577482962	Você sabe...
 1458579540	Eu não acho que isso fará muita diferença no final.
@@ -2363,7 +2363,7 @@ Portuguese	Português(BR)
 1862633060	Jesus, eu tenho que fazer tudo por aqui?
 858682549	Você, vem comigo, vamos pegar essa maldita munição.
 276827080	O resto de vocês, idiotas, os mantém ocupados até então.
-392024934	As coisas estão esquentando na casa da fazenda. É melhor nos apressarmos.
+392024934	As coisas estão esquentando na casa do rancho. É melhor nos apressarmos.
 2111169794	Qual é o nosso plano?
 2076913082	Bem, meu plano é matar os casacos longos. Eles são responsáveis daqui. Se eles morrerem, podemos ter uma chance.
 1352145573	Você está com o cara certo! Caras grandes são minha especialidade.
@@ -2753,7 +2753,7 @@ Portuguese	Português(BR)
 756952832	Cabana de madeira
 813882251	Mate o Casaco Longo na cabana de madeira.
 973882311	Entrada do Rancho
-1703534974	Mate o Casaco Longo na entrada da fazenda.
+1703534974	Mate o Casaco Longo na entrada do rancho.
 155034382	Curral
 1841005762	Mate o Casaco Longo no curral.
 885664251	Reunião
@@ -10173,7 +10173,7 @@ Portuguese	Português(BR)
 1290974421	Prefeito está morto, hein.
 1145374930	O assassino ainda está solto.
 1671442724	Porra de chuva.
-563897637	...! Grande fazenda.
+563897637	...! Grande rancho.
 655177414	Estou congelando...
 575942559	Hah... Está frio aqui fora;...
 514845570	Tenho que manter meus olhos abertos.
@@ -10235,7 +10235,7 @@ Portuguese	Português(BR)
 780151102	Ainda não. Fique atento.
 649828033	Alguma visão dos assassinos?
 1878894272	Eles não passaram por mim.
-2047179372	Grande fazenda, hein?
+2047179372	Grande rancho, hein?
 475254796	Já vi maiores.
 284886531	Tinha que chover, hein?
 934623264	Você é feito de açúcar ou o que?
@@ -11082,7 +11082,7 @@ Portuguese	Português(BR)
 1687480936	Ainda não. Fique alerta.
 1083592175	Alguma visão dos assassinos?
 1056231024	Eles não vão passar por aqui.
-1167284684	Grande fazenda, hein?
+1167284684	Grande rancho, hein?
 1405604961	Eu já vi maior.
 1707192343	Teve que chover, hein?
 631803191	Você é feito de açúcar ou algo assim?
@@ -11904,7 +11904,7 @@ Portuguese	Português(BR)
 2108471699	O prefeito está morto, hein.
 1776642151	O assassino ainda está solto.
 1843484263	Chuva de merda.
-1259761449	...! Grande fazenda.
+1259761449	...! Grande rancho.
 1491836876	Estou congelando...
 2026383469	Hah... Está frio aqui fora...
 49935527	Tenho que ficar de olho.
@@ -11966,7 +11966,7 @@ Portuguese	Português(BR)
 1065722413	Ainda não. Fique atento.
 783281928	Alguma visão dos assassinos?
 1385766874	Eles não estão passando por mim.
-1136064546	Grande fazenda, hein?
+1136064546	Grande rancho, hein?
 1611676252	Já vi maiores.
 748100038	Tinha que chover, hein?
 1043958707	Você é feito açúcar ou que?
@@ -12770,7 +12770,7 @@ Portuguese	Português(BR)
 428528347	Você poderia imaginar arruinar esse dia especial. Desgraçados malignos.
 1368690655	Porra, alguém já os pegou?
 1056632610	Lama e chuva... Sinto falta da cidade.
-753158192	Hm... Muito o que fazer em uma fazenda como esta.
+753158192	Hm... Muito o que fazer em um rancho como esta.
 1962434139	Com tempo vai acabar me dando frieira.
 1001246624	Não posso atirar com os dedos frios...
 178231558	Tenho que manter meus olhos abertos.
@@ -13729,7 +13729,7 @@ Portuguese	Português(BR)
 736102210	Ainda não. Fique atento.
 897276918	Algum sinal dos assassinos?
 1319797596	Eles não passaram por mim.
-1813152440	Grande fazenda, hein?
+1813152440	Grande rancho, hein?
 526989031	Já vi maiores.
 798994880	Tinha que chover, hein?
 751290997	Você é feito de açúcar ou o que?
@@ -14557,7 +14557,7 @@ Portuguese	Português(BR)
 1815168417	Os morte do prefeito...
 160027609	O assassino ainda está solto.
 931554045	Maldita chuva.
-1016882657	...! Grande fazenda.
+1016882657	...! Grande rancho.
 941744069	Ah, o turno está quase no fim.
 775101418	Hah... Está frio aqui fora...
 761304060	Estamos presos aqui.
@@ -14621,7 +14621,7 @@ Portuguese	Português(BR)
 331920333	Não, e eu também não quero.
 253343907	Prefeito Higgins, morto.
 1490816363	É uma tragédia.
-665822463	Grande fazenda, hein?
+665822463	Grande rancho, hein?
 1516948694	Eu já vi maior.
 1884707244	Tinha que chover, hein?
 942095769	Você é feito de açúcar ou algo assim?
@@ -15037,7 +15037,7 @@ Portuguese	Português(BR)
 1821853543	O prefeito está morto...
 1662303859	O assassino ainda está solto.
 337962660	Chuva maldita.
-2077189993	...! Grande fazenda.
+2077189993	...! Grande rancho.
 1399324926	A mudança está quase no fim...
 1976109245	Hah... Está frio aqui fora...
 658994837	Estamos presos aqui.
