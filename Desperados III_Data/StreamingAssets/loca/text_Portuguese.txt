@@ -94,7 +94,7 @@ Portuguese	Português(BR)
 1136054151	Matar
 2009903160	Derrubar
 404800528	Bloqueado
-98960900	Distintivos inacabados não são mostrados na primeira vez que uma missão é jogada.
+98960900	Distintivos inacabados não são mostrados na primeira vez que você joga uma missão.
 143561912	{0} (Segure)
 1031727861	Centralizar
 1317422898	Alterar saída
@@ -193,9 +193,9 @@ Portuguese	Português(BR)
 604412219	Isso reiniciará seu jogo. Você perderá todo o progresso da missão, jogos salvos e distintivos desbloqueados. Suas configurações de vídeo, áudio, configurações de jogo e layouts de entrada personalizados NÃO serão redefinidos. Você deseja continuar?
 215104258	Teclado
 1327985646	Velocidade da câmera
-405449256	Velocidade do controlador de alvo
-1606175245	Velocidade do controlador de eixo
-600213007	Ajusta a velocidade de movimento do cursor para apontar habilidades.
+405449256	Sensibilidade do mouse
+1606175245	Sensib. dos eixos do controle
+600213007	Ajusta a Sensib. dos eixos do controle
 824998259	Rolagem da borda da câmera
 666387157	Alternar avanço rápido
 1162764950	CINEMÁTICA
@@ -274,10 +274,10 @@ Portuguese	Português(BR)
 1154410071	Zoom da câmera
 1062301022	Eixo X da câmera
 122559663	Eixo Y da câmera
-444678528	Arrastar eixo X da câmera
-1512099547	Arrastar eixo Y da câmera
-724136998	Visão eixo X
-1114573338	Visão eixo Y
+444678528	Arrastar câmera no eixo X
+1512099547	Arrastar câmera no eixo Y
+724136998	Eixo X da mira
+1114573338	Eixo Y da mira
 415969457	Invertido
 888640053	Normal
 469052433	Controle desconectado
@@ -306,8 +306,8 @@ Portuguese	Português(BR)
 488026919	Visite nossa página da loja se você deseja comprar {0}
 289232529	Ir para Xbox Store
 1024096936	Ir para PlayStation®Store
-1609842196	Ocorreu um erro ao carregar.
-1893923580	Desculpa. Algo deu errado.
+1609842196	Ocorreu um erro ao tentar carregar.
+1893923580	Desculpa. Ocorreu um erro.
 339664616	Desperado
 2136073159	Dificuldade desperado requer planejamento e execução perfeitos. Os inimigos têm reflexos como raios. Os personagens quase não têm vida ou munição./n/nNOTA: NÃO RECOMENDADO PARA PRIMEIRA PARTIDA, independentemente da habilidade do jogador.
 1627962200	Controle ativo
@@ -318,15 +318,15 @@ Portuguese	Português(BR)
 1575082279	Usuário trocado
 306408042	Usuário trocado {0}. Voltando ao menu principal agora.
 1429086435	(+{0} mais)
-1409730632	Pressione qualquer tecla
+1409730632	‹Traduções GBJ›/nAperte qualquer tecla para começar
 648045773	Aguardando a PlayStation®Store
 442800743	Aguardando a Xbox Store
 128141297	Ocorreu um erro de rede.
-681487417	Configurações de vídeo
-1052460126	Configurações de jogabilidade
-2087751746	Configurações de áudio
+681487417	Opções de vídeo
+1052460126	Opções de jogabilidade
+2087751746	Opções de áudio
 25224588	Dados de inicialização
-1739078801	Layout de entrada
+1739078801	Esquema de botões
 442535890	O jogo salvo está corrompido. A missão será reiniciada.
 830724165	Configurações de rastreamento ocular
 75518517	Espaço insuficiente disponível. Libere mais espaço para salvar seu jogo.
@@ -629,7 +629,7 @@ Portuguese	Português(BR)
 597313321	<passiveAbilityCannot>Não sabe nadar.</passiveAbilityCannot>
 825544575	Clássico RTS
 1269477099	Desperados III
-1358490674	Aqui você pode personalizar e criar novos layouts de controle. As alterações são aplicadas automaticamente. Você pode alternar entre os layouts selecionando o botão ao lado./n/nLayout Ativo: {0}
+1358490674	Aqui, você pode personalizar e criar novas configurações de controle. As mudanças entram em efeito automaticamente. É possível alternar entre as configurações de controle pelas caixas de seleção à direita./n/nAtivo: {0}
 971883982	Otimizado para jogar Desperados III e para fãs do gênero de táticas em tempo real.
 2057998057	Otimizado para jogadores RTS. Mover e selecionar são trocados. As habilidades estão no QWERT.
 1602189665	Seu layout personalizado.
@@ -1892,7 +1892,7 @@ Portuguese	Português(BR)
 1861377146	Avance agora.
 1910319475	Que porra é essa?
 66447633	Acho que você conseguiu.
-239742081	Estou apenas navegando.
+239742081	Estou apenas olhando.
 1454583597	Vejo você mais tarde... ou não.
 1549815304	Com licença?
 1861490142	Nós temos negócios?
@@ -16525,7 +16525,7 @@ Portuguese	Português(BR)
 455511559	Cancelar: {0}
 294017721	Executar: {0}
 2031709440	Desafio do Barão
-1867437729	Ajusta a velocidade de movimento do cursor para apontar habilidades.
+1867437729	Ajusta a Sensibilidade do mouse
 1779818369	Determina como o Avanço rápido é usado: /nDesativado: Mantenha pressionado para acelerar o tempo, solte o botão para parar./nLigado: Pressione o botão para ativar e desativar o Avanço rápido.
 471601378	Ajusta a velocidade de rolagem da sua câmera.
 558622535	Permite a rolagem da câmera movendo o cursor para a borda da tela.
@@ -16534,8 +16534,8 @@ Portuguese	Português(BR)
 89601639	Ativa legendas para instruções.
 1423012840	Ativa legendas para conversas durante o jogo.
 193233307	Selecione o idioma do texto escrito.
-1544447732	Selecione o layout do teclado.
-776918688	Selecione o idioma do texto falado.
+1544447732	Selecione o idioma do teclado.
+776918688	Selecione o idioma da voz.
 406098029	Estéreo
 354244378	Surround 5.1
 1693017002	Surround 7.1
