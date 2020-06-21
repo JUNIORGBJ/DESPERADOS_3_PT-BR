@@ -418,7 +418,7 @@ Portuguese	Português(BR)
 822878847	Pegadas e Fuga
 1971769156	Se um guarda seguir suas pegadas, você pode subir escadas ou atravessar edifícios para cortar suas pegadas.
 1050777356	Apagando luzes
-63767177	Você pode colocar pequenas fontes de luz, como lâmpadas e tochas. Os guardas os reacenderão quando os virem. 
+63767177	Você pode colocar pequenas fontes de luz, como Lampiões e tochas. Os guardas os reacenderão quando os virem. 
 1615453610	Corpos como iscas
 126865505	Você pode usar um cadáver para atrair outro guarda para a desgraça. Apenas certifiquem-se de tirá-los antes que eles disparem o alarme.
 1685026057	Trajetos em arco
@@ -433,10 +433,10 @@ Portuguese	Português(BR)
 1020868379	Os inimigos não podem escalar trepadeiras ou saltar buracos. Use essas vantagens ao tentar fugir.
 1108269139	Canto dos olhos
 1137613639	Os inimigos podem detecta-lo pelos cantos dos olhos, se você ficar ao lado deles por muito tempo.
-1338931543	Lâmpadas como iscas
-509385294	Você pode usar lâmpadas extintas para atrair inimigos para armadilhas ou emboscadas.
-158140971	Guardas com lâmpadas
-1255254891	Se você matar um guarda com um ataque à distância, a lâmpada que ele carrega não se apagará. Aproxime-se da lâmpada para apagá-la.
+1338931543	Lampiões como iscas
+509385294	Você pode usar Lampiões extintos para atrair inimigos para armadilhas ou emboscadas.
+158140971	Guardas com Lampiões
+1255254891	Se você matar um guarda com um ataque à distância, o Lampião que ele carrega não se apagará. Aproxime-se do lampião para apagá-la.
 2070314948	Civis
 210762969	Os civis hostis não o atacarão, mas se o virem infringir a lei, eles fugirão e buscarão o guarda mais próximo.
 2142535667	Modo Duelo
@@ -761,12 +761,12 @@ Portuguese	Português(BR)
 1406208931	Super Veloz: Complete a missão em menos de {0} minutos.
 14063527	Não mate ninguém e não acione nenhum alarme.
 1148110388	Esconda todos os corpos em arbustos, poços, casas, etc.
-1428790442	Não apague nenhuma luz, incluindo lâmpadas transportadas por guardas.
+1428790442	Não apague nenhuma luz, incluindo lampiões transportadas por guardas.
 650066362	Não toque na água.
 82324557	Não mate civis.
 256810044	Não pise em superfícies barulhentas.
-888490653	Mate todos os guardas que carregam lâmpadas.
-950140396	Apague todas as fontes de luz, incluindo lâmpadas transportadas por guardas.
+888490653	Mate todos os guardas que carregam lampiões.
+950140396	Apague todas as fontes de luz, incluindo lampiões transportadas por guardas.
 1295376244	Faça um guarda seguir suas pegadas por {0} metros.
 1061741433	Não toque em arbustos ou palheiros.
 413325399	Complete a missão na dificuldade Difícil.
@@ -1608,7 +1608,7 @@ Portuguese	Português(BR)
 1996050564	Olhe como eles correrem!
 1927673309	Tem algo em seus ouvidos?
 1784449216	Apenas terminando minha bebida.
-2055948310	Ouça idiota, agora a cidade é nossa. Então, quando ele diz, é melhor você...
+2055948310	Ouça idiota, agora a cidade é nossa. Então, quando ele diz pra sair, é melhor você...
 442865048	Não gostamos de encrenqueiros por aqui.
 437383994	Ha! Quem nós temos aqui?!
 941942434	Bem, você tem problemas em dobro agora.
@@ -1639,11 +1639,11 @@ Portuguese	Português(BR)
 1710522083	Vamos para a rua. Ninguém nos incomodará se ficarmos entre os locais, com isso teremos espaço para respirar.
 1090916079	Por enquanto, tudo bem. Mas quem são os caras que vamos "surrar"?
 743641397	Primeiro temos o Jarvis. Um cara realmente durão. Agora ele está naquele quintal tentando montar o touro na cidade.
-465329894	A próxima é a selvagem Marge. Ele está no primeiro andar do bordel Flagstone, bebendo uísque e assistindo as garotas dançarem.
+465329894	A próxima é a Wild Marge. Ele está no primeiro andar do bordel Flagstone, bebendo uísque e assistindo as garotas dançarem.
 174165267	Então há "O Duque". Está dando voltas com seus puxa-sacos, subindo e descendo pela Rua da Igreja.
 1314266132	E o último é o capataz, McBane. Ele é um verdadeiro idiota. Fez seus homens derrubaram metade da cidade para que as obras não tivessem que ser desviadas.
 1883399229	Então nos livramos deles, voltamos para a taberna e terminamos nossas bebidas.
-354756553	Eles não podem se esconder para sempre, Sam. Agora prepare-se.
+354756553	Isso não é bem um plano Hector.
 1477743624	Por que você acha que eu esperei por você?
 1977264724	Tudo certo. Vamos acabar logo com isso.
 1859777443	Tem certeza de que eles estão aqui, Murdock?
@@ -1651,7 +1651,7 @@ Portuguese	Português(BR)
 50795188	O que acontece quando eles aparecem?
 535869234	Nós atiramos neles e depois vamos a taberna.
 969948446	Inferno, estou ficando com sede, Murdock.
-964505631	Eles não podem se esconder para sempre, Sam. Agora junte suas coisas. 
+964505631	Eles não podem se esconder para sempre, Sam. Agora prepare-se. 
 1606933793	Eu digo que é hora de usar Bianca.
 1381111512	Você ainda está carregando essa coisa?
 961267106	Eu tenho uma reputação para manter.
@@ -1699,7 +1699,7 @@ Portuguese	Português(BR)
 653569855	Esse é o número dois. Diga-me que você não gosta disso.
 247807550	Bem, pelo menos estamos com meio caminho andado.
 926318647	Parece que o local está fechado.
-968863431	O prostíbulo. Os locais não podem entrar desde que a selvagem Marge o tomou.
+968863431	O prostíbulo. Os locais não podem entrar desde que a Wild Marge o tomou.
 1016228655	Não iremos pela porta da frente então. Tudo bem, mantenha a discrição. Vamos encontrar outra maneira de entrar.
 773411105	Aqui embaixo.
 171969419	Ei, Cooper. Aqui embaixo.
@@ -2291,14 +2291,14 @@ Portuguese	Português(BR)
 794437469	Vamos lá, vamos mostrar a esses cães da companhia, o porque eles não deviam ter mexido com um O'Hara.
 229379485	VO TRACK
 856640671	Desista, O'Hara! Este lugar pertence a nós agora!
-1733682931	Esta é a nossa terra, pedaço de lixo!
+1733682931	Esta é a nossa terra, seu pedaço de lixo!
 849210324	Volte para DeVitt e diga isso a ele! 
 1485037340	Bem, parece que eles estão ocupados. Acho que é hora de ganhar meu pagamento.
-1948453459	Homens da companhia em todo o lugar. Ainda bem que é a noite.
+1948453459	Há homens da companhia por todo o lugar. Ainda bem que está de noite.
 994406047	Tudo o que tenho que fazer é ficar abaixado e evitar a luz.
 326169072	O que esse tolo está esperando? Não me diga que ele ainda está escondido no galpão.
-118888914	Vou ter que ir lá para dar uma olhada. 
-2008600207	Primeiro, porém, tenho que lidar com esses palhaços.
+118888914	Vou ter que ir lá dar uma olhada. 
+2008600207	Primeiro, tenho que lidar com esses palhaços.
 367014084	Tudo bem, senhores. Estamos todos prontos para invadir o galinheiro?
 249927159	Como vamos passar pela porta?
 1771865139	Nenhum de vocês teve o bom senso de trazer um pé de cabra?
@@ -2340,40 +2340,40 @@ Portuguese	Português(BR)
 1054793456	Tranquilo.
 760359633	Melhor manter a cabeça baixa.
 455661388	Ainda bem que eu guardei. Um único frasco deve ajudar.
-581166614	Eu deveria lidar com eles antes que eles acordassem.
+581166614	Eu deveria acabar com eles antes que eles acordassem.
 211008066	Um problema resolvido. Agora vamos para o galpão.
-1122305374	Eles vão me ver se eu pisar na luz. Melhor ficar com as sombras.
-237203124	Difícil de passar na luz. Eu deveria apagar a lâmpada. Pode até atrair o guarda.
-2072621635	Tenho que tomar cuidado com o guarda com a lâmpada.
-752518149	Parece que os casacos longos estão dando o que falar. É melhor evitá-los por enquanto.
+1122305374	Eles vão me ver se eu pisar na luz. Melhor ficar nas sombras.
+237203124	Muito perigoso passar na luz. Eu deveria apagar o lampião. Pode até atrair o guarda.
+2072621635	Tenho que tomar cuidado com os que possuem lampiões.
+752518149	Parece que os casacos longos estão bem animados. É melhor evitá-los por enquanto.
 2137015596	Ouça, aqui está o plano. Vamos fazer uma pilha enorme de palha e acendê-la.
 482458506	Por que não apenas queimar o celeiro?
 434562070	Bem, quem está dando as ordens aqui, você ou eu? 
 67913753	Empilhem aqui em cima. Ateiem fogo no estábulo assim que terminarem.
 193903206	Ei, onde está o Frank? Pensei que ele é o chefe por aqui, não vocês.
 1171499585	Cale a boca! Ele está indo para New Orleans. Agora, comece a trabalhar - não temos a noite toda.
-1965000017	Há o galpão. Se ele ainda estiver lá dentro, é melhor eu dar uma olhada lá.
-2018922614	Huh... a porta está trancada. Nada que eu não possa lidar.
-730836046	Obrigado por abrir isso. A porta da represa se trancou atrás de mim.
+1965000017	Há, o galpão. Acho que ele ainda está lá dentro, é melhor eu dar uma olhada lá.
+2018922614	Huh... A porta está trancada. Nada que eu não possa lidar.
+730836046	Obrigado por abrir. A maldita porta se trancou.
 352574572	Você está me dizendo que um homem grande como você não pode lidar com uma porta trancada?
-564158153	Não é quieto como você. Agora o que eu perdi?
-709353041	Tudo bem, O'Hara! Você pediu por isso!
-857210151	Vamos pegar as armas grandes.
-1838980389	Desculpe chefe, ainda estamos esperando por munição.
+564158153	Não sem fazer barulho. O que eu perdi?
+709353041	Certo, O'Hara! Você pediu por isso!
+857210151	Vamos pegar essa armas grandes.
+1838980389	Desculpe chefe, estamos esperando por munição.
 1862633060	Jesus, eu tenho que fazer tudo por aqui?
-858682549	Você vem comigo para pegar a maldita munição.
+858682549	Você, vem comigo, vamos pegar essa maldita munição.
 276827080	O resto de vocês, idiotas, os mantém ocupados até então.
 392024934	As coisas estão esquentando na casa da fazenda. É melhor nos apressarmos.
 2111169794	Qual é o nosso plano?
-2076913082	Bem, meu plano era tirar os casacos longos. Eles são os caras responsáveis. Se eles caírem, podemos ter uma hance aqui.
-1352145573	Você veio ao homem certo! Caras grandes são minha especialidade.
-328109224	Claro que eles são... 
-1367306084	Eu tenho outra coisa que pode ajudar.
-2136646058	Veja aquele brilho no chão. Isso é óleo de alcatrão. Queima como o inferno, mesmo na chuva.
+2076913082	Bem, meu plano é matar os casacos longos. Eles são responsáveis daqui. Se eles morrerem, podemos ter uma chance.
+1352145573	Você está com o cara certo! Caras grandes são minha especialidade.
+328109224	Bom saber disso... 
+1367306084	Eu sei de outra coisa que pode ajudar.
+2136646058	Está vendo aquele brilho no chão. Aquilo é óleo de alcatrão. Queima como o inferno, mesmo na chuva.
 1903521803	Pegamos uma tocha da fogueira, esperamos alguém entrar e acendemos.
 741949541	Bem, acho que vale a pena tentar.
-112793052	Heh, tudo bem, vamos indo. E não se esqueça de continuar contando. Eu coloquei meus olhos naquele uísque.
-1851937666	É o seu funeral.
+112793052	Heh, tudo bem, vamos indo. E não se esqueça de continuar contando. Não quero perder aquele uísque.
+1851937666	Isso é seu funeral.
 1442318204	Quase os peguei.
 1281498890	Olhos no caubói.
 1297624675	Droga, essa garota pode atirar.
@@ -2412,16 +2412,16 @@ Portuguese	Português(BR)
 1625668423	Bom para você.
 1462016211	O primeiro vai para mim.
 1444993407	Hrm, o próximo é meu
-659797290	Essa é uma.
+659797290	Esse é uma.
 175665438	Dois a menos.
-301673563	Isso faz três.
+301673563	Com esse três.
 1958539560	E agora quatro.
 72423646	Número cinco
 1377852766	Seis.
 1372046456	Sete.
 1036354872	Oito.
 389336902 	Esse é o número nove.
-439989574 	E faz para dez.
+439989574 	E com esse dez.
 1310290895	Onze.
 2084489457 	Uma dúzia.
 125828977 	Uma dúzia de padeiros.
@@ -2534,7 +2534,7 @@ Portuguese	Português(BR)
 984603814 	Dezoito.
 1216389532 	Dezenove.
 564020677 	Vinte.
-709692731 	Vinte e um. Isso faz o blackjack!
+709692731 	Vinte e um. Fiz um Blackjack!
 589656482 	Vinte e dois.
 1243041379 	Vinte e três.
 1126339019	Vinte e quatro.
@@ -2627,22 +2627,22 @@ Portuguese	Português(BR)
 1257414093	Isso faz cem. Qual é a sua conta?
 483252041	Acho que perdi a conta. Digamos que é um empate.
 946595501	Isso soa mais como capitular, Sr. Hector.
-1873893821	Então, McCoy, é?
+1873893821	Então, é McCoy?
 654750945	Doutor McCoy, na verdade.
 984738874	Heh, com certeza. Você não é realmente médico, certo?
 435477998	Se você tiver sorte um dia, descobrirá.
 909921615	Então você é médico. Realmente?
-1945803513	Você tem um problema com isso?
+1945803513	Você tem algum problema com isso?
 94561977	Abrir fechaduras. Tiro a longa distância. Você aprendeu isso na faculdade de medicina?
 492046563	Eu sou um homem de muitos talentos.
-318284280	Sério, qual é o problema da armadilha gigante para ursos?
+318284280	Sério, qual é o problema com a armadilha gigante de ursos?
 607534953	Ah Bianca. O amor da minha vida.
 1408124644	Você deu um nome para essa coisa?
 307143757	Você ouviu isso, Bianca. Ele está com ciúmes.
 247604673	Então, onde você encontrou sua Bianca.
-1799273930	Um velho ferreiro me deu. Disse que ninguém a queria porque ela era grande demais.
+1799273930	Um velho ferreiro me deu. Disse que ninguém a queria, porque ela era grande demais.
 88785221	Mas não para você.
-1301401938	Você deveria tê-la visto. Todo maltratado e enferrujado. Eu tive que polir, limpá-la, lubrificá-la...
+1301401938	Você deveria ter visto. Toda maltratada e enferrujada. Eu tive que polir, limpá-la, lubrificá-la...
 343744116	Acho que já ouvi o suficiente, obrigado.
 742161955	Hah, esta é a vida.
 213146842	Poderia continuar sem chuva.
@@ -2662,35 +2662,35 @@ Portuguese	Português(BR)
 604169385	Primeiro casaco longo para mim.
 958345947	Pego o segundo casaco longo.
 306293937	Lá se vai o terceiro Casaco Longo.
-1536962921	Com isso são quatro casacos longos.
+1536962921	E agora são quatro casacos longos.
 1410937923	Eu peguei o primeiro casaco longo!
 137940519	Hah! O segundo casaco longo é meu.
 839847499	Esse é o terceiro casaco longo, certo?
-921485834	Com isso são quatro casacos longos.
+921485834	E agora são quatro casacos longos.
 960604760	E outro.
 1970225901	Hah! E outro.
-1922131533	Quantos mais restam?
-716207941	Acho que é o bastante. Vamos ficar juntos, eu quero verificar uma coisa.
-137656861	Acho que é o bastante. Vamos encontrar uma posição. Eu quero verificar uma coisa.
+1922131533	Restam quantos, ainda?
+716207941	Acho que é o suficiente. Vamos ficar juntos, eu quero verificar uma coisa.
+137656861	Acho que é o suficiente. Vamos encontrar uma posição. Eu quero verificar uma coisa.
 1452286693	O que diabos aconteceu aqui?
 1882275598	O que está acontecendo lá em baixo?
-672272883	Talvez eles tenham O'Hara suficiente por um dia, ha ha!
+672272883	Talvez eles já tiveram O'Hara o suficiente por hoje, ha ha!
 1824706243	Idiotas!
 761689047	Por que diabos está demorando tanto?
 1867214104	Mova sua bunda para cá!
 1334097764	Eles vão usar a metralhadora!
 997861838	Para dentro da casa!
-1858029009	Vamos lá!
+1858029009	Vão!
 1457965198	O que...
-1141883258	...Tire!
-1085889851	Vamos, O'Hara...
-174501637	Que merda é essa...
+1141883258	...Atire!
+1085889851	Vamos lá, O'Hara...
+174501637	Que merda foi essa...
 1428756778	Argh!
 1220725301	Merda...
 1469171959	VO TRACK
 396838969	É melhor pensarmos em algo antes que eles destruam a casa.
 493021535	O velho atirou no barril de petróleo. Você está pensando o que eu estou pensando?
-1644492674	Fogo do inferno.
+1644492674	É o fogo do inferno.
 523802842	O que está errado? Por que parou?!
 418595128	Não tenho certeza, deixe-me ver...
 1085566140	Conserte!
@@ -2712,16 +2712,16 @@ Portuguese	Português(BR)
 849650212	De volta à briga.
 908833840	Ok, vamos acabar logo com isso.
 1840939788	Desta vez com sentimento.
-509918061	Que diabos? Estou pirando!
+509918061	Que diabos? Vou dar o fora daqui!
 1529098867	Salve-se quem puder!
 1852101788	Aww, já terminamos? Eu estava apenas me aquecendo.
 1630601283	Não foi o suficiente, hein?
-977121288	Venha agora, McCoy. Nunca é o suficiente!
+977121288	Vamos, McCoy. Nunca é o suficiente!
 1077800171	Parece que vocês dois se divertiram.
-59786473	Tem certeza de que está bem, Sr. O'Hara?
-387009686	Não se preocupe filho. Parece pior do que é.
+59786473	Tem certeza de que está tudo bem, Sr. O'Hara?
+387009686	Não se preocupe, filho, não é tão ruim quanto parece.
 1151243254	Você realmente nos ajudou com esse barril, heh.
-1786779120	De nada, grande homem. O pão de cada dia, como se costuma dizer.
+1786779120	Tudo certo grandão. O pão de cada dia, como se costuma dizer.
 871380817	Ei, Sr. O'Hara - e o uísque?
 664888354	Certo, certo...
 588280517	Eu acho que todos nós ganhamos um copo como melhores de O'Hara.
@@ -2731,11 +2731,11 @@ Portuguese	Português(BR)
 246974710	Tio?
 811397586	O que aconteceu?
 1395639857	Quieto!
-1513047555	Maldito estúpido.
+1513047555	Maldito.
 1542774687	Tio...
 1805250660	Nós realmente mostramos a eles, não mostramos?
 941575829	Tio... me desculpe...
-2079104040	Não seja estúpido.
+2079104040	Não seja estúpida.
 125265372	Não é sua culpa... Você entendeu, Katey?
 69624517	VO TRACK
 969888385	Encontre Hector
@@ -2761,7 +2761,7 @@ Portuguese	Português(BR)
 1356586583	Ateie fogo sob eles
 1182811597	Pegue uma tocha na fogueira e jogue-a na poça de óleo.
 1139956959	Tochas e óleo
-1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lâmpadas derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
+1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lâmpiões derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
 1017498960	Pedra solta
 76768848	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
 1455844339	Cano quebrado
@@ -2786,8 +2786,8 @@ Portuguese	Português(BR)
 819876528	Todos os meios diretos de violência são proibidos. Faça uso da natureza para matar sua presa.
 1533858659	Cavalos
 1086409056	Cavalos dão coices quando atingidos pelas moedas de Cooper. Use isso para nocautear os guardas.
-230713070	Guardas com lâmpada
-1708127694	Os guardas largam suas lâmpadas quando são nocauteados.
+230713070	Guardas com lampião
+1708127694	Os guardas largam seus lampiões quando são nocauteados.
 230369068	Acidente
 2137124214	Seria uma pena ficar cego enquanto ele trabalha.
 915142163	Tochas e óleo
@@ -16194,7 +16194,7 @@ Portuguese	Português(BR)
 1491777208	Estados atordoado
 1324369933	Se um guarda encontrar um outro atordoado, ele o acordará e não tocará o alarme. No entanto, se testemunharem o nocaute ou encontrarem a vítima amarrada, eles irão acionar o alarme.
 242717582	Isca casacos longos
-841587656	Os casacos longos são imunes às iscas, mas você ainda pode atraí-los com pegadas ou lâmpadas apagadas.
+841587656	Os casacos longos são imunes às iscas, mas você ainda pode atraí-los com pegadas ou lampiões apagados.
 230296262	Tiros como isca
 1005629954	Se você se sente ousado, pode usar o ruído dos seus tiros como isca. Isso dispara o alarme, mas pode atrair grandes grupos de inimigos, incluindo Casacos Longos, para um local de sua escolha.
 2134260994	Mente que controla casacos longos
@@ -16872,7 +16872,7 @@ Portuguese	Português(BR)
 1778221076	Doc McCoy está sentado em uma sala privada na taberna. Ele desmontou o rifle e está inspecionando e limpando cada peça com um sorriso sinistro no rosto./n/nMcCoy remexe na bolsa e encontra um pedaço de pano com óleo. Esfregou a mão em algo que não deveria estar lá. Uma carta. Ele puxa-o lentamente, examina-o por todos os lados e abriu com um bisturi. Os detalhes estão incluídos dentro do envelope. Meus clientes esperam apenas qualidade, Sr. McCoy. Considerarei parte de sua dívida paga. ”/n/nMcCoy lê a carta com cuidado e depois a queima com uma chama de vela. Enquanto queima, ele remonta sua arma com movimentos rápidos que denotam prática. Ele sai pela porta antes que as cinzas esfriem.
 326727781	Você retornou à Casa DeVitt, onde Doc McCoy deve concluir um contrato pessoal para o Barão. Fique no telhado da mansão, você deve eliminar vários alvos com seu rifle sem acionar o alarme. Kate e Hector estão lá para ajudá-lo no chão.
 395418561	E se?
-603403823	Uma carruagem vermelha para diante de você. A porta se abre silenciosamente. No interior, a luz intensa de uma lâmpada e alguns assentos acolchoados esperam por você. Ao montar, um profundo sentimento de déjà vu./n/ninvade você. O Barão o recebe com um sorriso agradável. Usando roupas caras, como sempre; as cores brilhantes contrastam notavelmente com sua pele fuligem. Seus dentes são brancos como marfim. Os olhos dele brilham com... algo muito diferente./n/n Você provou ser um homem de muitos talentos, meu amigo. Meus clientes estão muito satisfeitos. Na verdade, você se tornou o novo favorito deles. Mas essa não é a razão pela qual eu vim./n/nHoje apenas conversaremos. Digamos... Quero satisfazer minha curiosidade. Ele olha para você com os olhos brilhando e você sente que se perde neles. Sorriso. "Podemos começar?"
+603403823	Uma carruagem vermelha para diante de você. A porta se abre silenciosamente. No interior, a luz intensa de um lampião e alguns assentos acolchoados esperam por você. Ao montar, um profundo sentimento de déjà vu./n/ninvade você. O Barão o recebe com um sorriso agradável. Usando roupas caras, como sempre; as cores brilhantes contrastam notavelmente com sua pele fuligem. Seus dentes são brancos como marfim. Os olhos dele brilham com... algo muito diferente./n/n Você provou ser um homem de muitos talentos, meu amigo. Meus clientes estão muito satisfeitos. Na verdade, você se tornou o novo favorito deles. Mas essa não é a razão pela qual eu vim./n/nHoje apenas conversaremos. Digamos... Quero satisfazer minha curiosidade. Ele olha para você com os olhos brilhando e você sente que se perde neles. Sorriso. "Podemos começar?"
 1129809586	Outra hora, outro lugar. Um jovem rapaz veio para acertar contas. Frank está esperando na capela. O garoto estará pronto desta vez? Vamos descobrir.
 1159153718	Sim Olá. Vá para o cara do telhado.
 1760209947	Este é ele, sim.
