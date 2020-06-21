@@ -3461,7 +3461,7 @@ Portuguese	Português(BR)
 1089721530	Eu me cansei desta cidade. Vamos pegar aquele barco no rio.
 407763384	Eles pegaram leve.
 393908923	Apenas tire-nos daqui.
-1651580696	Um Bbm dia para um passeio no rio.
+1651580696	Um bom dia para um passeio no rio.
 1426800689	Obrigado senhor, por nos esperar.
 902999577	Agora vou cobrar em dobro.
 1467735642	Todos a bordo!
@@ -6773,7 +6773,7 @@ Portuguese	Português(BR)
 1013565478	Pense, Hector, pense.
 1178653186	Porra, eu tenho que sair.
 942971735	Vamos lá!
-1631900250	Oh, Eu vejo.
+1631900250	Oh, entendi.
 408136858	Sim, entendo.
 94261056	Muito bem.
 871727664	Mantenha seus olhos abertos.
@@ -8138,7 +8138,7 @@ Portuguese	Português(BR)
 928614151	Vamos ver o que podemos fazer.
 1291138300	Oh Sim.
 394268050	Heh, legal.
-679843745	Oh, eu vejo aonde isso está indo.
+679843745	Oh, entendi aonde isso vai chegar.
 1053526745	Não é uma má ideia.
 941173767	Eu cuidarei disso.
 430808166	Sem problemas.
@@ -8765,7 +8765,7 @@ Portuguese	Português(BR)
 1396165962	Não se mexa!
 1971811160	Ei você!
 1738804484	Eu entendi você!
-1339834557	Eu vejo você, cusão!
+1339834557	Eu vejo você, cuzão!
 19502126	Filho da puta!
 643255474	Te peguei agora!
 1816725278	Bem, quem nós temos aqui?
@@ -8916,7 +8916,7 @@ Portuguese	Português(BR)
 1173205208	Mostre-se!
 645325076	Tudo bem, eu estou indo para você!
 800031298	Oh, você está com problemas agora!
-836498997	Eu sei onde você está, cusão.
+836498997	Eu sei onde você está, cuzão.
 477376984	Que diabos foi isso?
 725489667	Estou ficando louco?
 2079312076	Ah! Uh... o que?
@@ -8950,7 +8950,7 @@ Portuguese	Português(BR)
 742385626	Isso está ficando velho.
 1703385108	Aww, está assustado?
 1051130559	Aqui, gatinho gatinho gatinho.
-1607285573	Não no me turno, cusão!
+1607285573	Não no me turno, cuzão!
 926075436	Malditos caçadores de recompensa.
 1240390056	Eu vou te jogar no cânion.
 847831940	Frank's vai amar isso.
@@ -9053,7 +9053,7 @@ Portuguese	Português(BR)
 659364084	Merda. Eu estava pronto para uma briga.
 451963850	Droga, toda vez!
 1991080102	Estou cansado demais para essa merda.
-1440621554	Foda-se, eu não vou dar um passeio.
+1440621554	Foda-se, eu não vou andar até lá.
 39873246	Muito longe.
 1850053063	Eu não vou até lá.
 1901671755	Eu não vou lá.
@@ -9132,7 +9132,7 @@ Portuguese	Português(BR)
 1254746512	O que...?
 548902491	Hmmm...
 604969825	Que porra...
-560854789	Ei, mouser!
+560854789	Ei, Mouser!
 1965921825	Você não é um cara bonito.
 219820202	Ho! Ei! De onde você veio?
 354564704	He, he, caçando ratos, não é?
