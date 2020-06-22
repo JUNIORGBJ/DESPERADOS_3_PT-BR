@@ -3052,7 +3052,7 @@ Portuguese	Português(BR)
 1464740422	Que merda foi isso? Traga-me os malditos que fizeram isso!
 686524713	Obrigado, garotos. Agora vamos nos apressar, temos que pegar o trem.
 727099477	E não há mais razão para ir com calma.
-837828466	As coisas ficou séria.
+837828466	A coisa ficou séria.
 900039237	Agora devemos ir no galpão nos reabastecer.
 160884714	Se quisermos reabastecer no galpão, agora é a hora.
 2137734687	Última chance de visitar o galpão de munição.
@@ -3152,11 +3152,11 @@ Portuguese	Português(BR)
 76782430	Apenas não é bem temperado.
 1956219847	VO TRACK
 236941690	...
-2061939657	Papai...
+2061939657	Pai...
 911979634	VO TRACK
-1398730384	Eu tenho que chegar ao pai.
-1903729066	De jeito nenhum eu posso levá-los para perto.
-497952242	Eu tenho que tentar jogar a faca.
+1398730384	tenho que chegar ao papai.
+1903729066	Não serei capaz de derrotá-los de perto.
+497952242	Tenho que tentar jogar a faca.
 1653273505	Ele não poderia ter vindo sozinho. Espalhar!
 1433914304	E observe a ponte. Ninguém atravessa.
 1496802357	Maldito caçador de recompensas. Como ele nos encontrou?
@@ -3183,9 +3183,9 @@ Portuguese	Português(BR)
 726025267	Não faz muita diferença agora.
 680930686	Você acha que há mais por aí?
 864070314	Se assim for, eles provavelmente já se foram.
-1964889272	Ok, o pai deve estar lá.
-1661680174	Não há como passar por esse portão.
-73252538	Eu tenho que encontrar outro jeito.
+1964889272	Ok, o papai deve estar aqui.
+1661680174	Não consigo passar por aquele portão.
+73252538	Tenho que achar outra maneira.
 1179369332	Estou indo, pai.
 662144497	James Cooper, não é? Nunca ouvi falar de você.
 6099812	Pergunto quem o recrutou. Foi aquele tolo, do delegado?
@@ -3195,31 +3195,31 @@ Portuguese	Português(BR)
 689138457	Eu tenho uma pergunta para você que poderia acabar com seu sofrimento.
 496735119	Você é um tolo, mas não o suficiente para vir sozinho.
 993438516	Diga-me, quantos vieram com você?
-580223186	Esta é a sua última chance.
+580223186	É sua última chance.
 663168774	Eu vim sozinho.
 1616650886	Besteira.
 1112519194	Elliot.
 651456391	Você matou meu amigo.
-250763909	Tenha certeza e diga olá para ele, no inferno.
+250763909	Não se esqueça de dizer olá para ele no inferno.
 652483574	...!
 925633400	Johnnie!
 1683143520	Ora ora...
 104755187	Deixe-o em paz!
-491008808	Agora quem diabos é você?
-1157756567	O nome é John Cooper e eu vou matar você!
-652495633	Isso está certo? E como você vai fazer isso?
-1228726418	Apenas deixe-o fora disso.
-1546012519	Você sabe, no meu tempo...
-1226585155	... a primeira coisa que um pai ensinou ao filho foi como disparar um Colt.
-815966713	Seu desgraçado! 
-2079824983	Um bom tiro, garoto.
-721607770	Isso é tudo o que preciso.
+491008808	E quem é você?
+1157756567	Meu nome é John Cooper e eu vou te matar!
+652495633	O que? E como você vai fazer isso?
+1228726418	Deixe-o fora disso.
+1546012519	Sabe, no meu tempo...
+1226585155	... A primeira coisa que ensinava para um filho era atirar com uma Colt.
+815966713	Maldito! 
+2079824983	Basta um tiro, garoto.
+721607770	Isso é tudo o que é preciso.
 1391241714	Vamos lá, eu não tenho o dia todo.
-1517922562	Eu vou contar até três.
+1517922562	Vou contar até três.
 1480808491	Um.
 1591580887	Dois.
 1869267036	Pai... 
-1183621720	Eu sei Johnnie...
+1183621720	Eu sei, Johnnie...
 260618180	Três.
 720854915	VO TRACK
 479913659	Chegar à Capela
