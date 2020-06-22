@@ -3154,7 +3154,7 @@ Portuguese	Português(BR)
 236941690	...
 2061939657	Pai...
 911979634	VO TRACK
-1398730384	tenho que chegar ao papai.
+1398730384	Tenho que chegar ao papai.
 1903729066	Não serei capaz de derrotá-los de perto.
 497952242	Tenho que tentar jogar a faca.
 1653273505	Ele não poderia ter vindo sozinho. Espalhar!
@@ -3224,27 +3224,27 @@ Portuguese	Português(BR)
 720854915	VO TRACK
 479913659	Chegar à Capela
 1518553472	Seu pai está com problemas. Vá para a capela e encontre-o
-132779930	Ugh... minha cabeça...
+132779930	Ugh... Minha cabeça...
 1786629121	Onde estou?
-1470247001	E onde diabos estão os outros?
-210326211	Tudo bem, primeiro as necessidades.
+1470247001	E onde estão os outros?
+210326211	Certo, primeiro as necessidades.
 1083621896	Bom dia Hector.
-1766685889	Bom dia... senhorita.
-251244019	Essa foi uma noite infernal.
-488904519	Na verdade... eu nem me lembro de como cheguei aqui... ugh...
-1930594328	...ou como nos conhecemos.
-2121783391	Hehe, você não se lembra de nada, lembra?
+1766685889	Bom dia... Senhorita.
+251244019	Que noite incrível.
+488904519	Realmente... Nem me lembro como cheguei aqui...
+1930594328	...e como nos conhecemos.
+2121783391	Você não se lembra de nada, não é?
 1631687239	Sou Rosie, a esposa do xerife.
-693817541	Eu... preciso mesmo encontrar meus amigos agora.
+693817541	Eu... Eu realmente tenho que encontrar meus amigos.
 1981144447	Bianca...
-563836146	O que há de errado, querida? Perdeu alguma coisa no calor da noite?
-324536951	Você se importa se eu emprestar isso?
-923270363	Claro, mas apenas se você prometer devolvê-lo.
-2059420659	Ok Hector... você pode fazer isso...
-439696658	Uh... ouça, me desculpe, mas... você sabe... eu realmente tenho que...
+563836146	O que foi, querido? Você perdeu alguma coisa ontem, no calor da noite?
+324536951	Você se importa se eu levar isso?
+923270363	Não, mas só se prometer me devolver.
+2059420659	Tudo bem, Hector... Você pode fazer isso...
+439696658	... Olha, me desculpe, mas... Você sabe... Eu realmente tenho que...
 725255672	Tchau, Hector.
 1042899231	Tchau.
-1399123022	Tudo bem, vamos encontrar o resto do pacote.
+1399123022	Bem, agora vamos encontrar o resto do pacote.
 1841183449	E Bianca.
 1532588613	VO TRACK
 461225303	Vai embora, agora! corra!
@@ -3255,13 +3255,13 @@ Portuguese	Português(BR)
 1104810743	Fique longe de Baton Rouge por um tempo.
 156226262	Espero que nos encontremos novamente algum dia.
 100047546	Minha cabeça está tocando como um sino de igreja.
-1783238342	Lama. Lama significa pegada. E eu tenho pés grandes.
-1673735055	Aquele cara... ele está me procurando?
-1508570502	Ei, o que eu fiz para você?!
-40883198	Merda, isso é ruim. É melhor eu encontrar os outros.
+1783238342	Lama. Lama significa pegadas. E eu tenho pés grandes.
+1673735055	Aquele cara... Você está procurando por mim?
+1508570502	Ei, o que eu fiz com você?
+40883198	Merda, isso não é bom. Tenho que encontrar os outros.
 1166266992	Ok... você não é Bianca. O que você pode fazer?
 1223273402	Não é ruim. Você é um guardião!
-1958053994	Espere... Aqui é onde nos separamos...
+1958053994	Espera... Foi aqui que nos separamos...
 949532076	Você tem certeza que isso está certo?
 1907330953	Todos os sinais apontam para aqui.
 2135184052	O que você é, um moicano?
@@ -3270,19 +3270,19 @@ Portuguese	Português(BR)
 225376933	Você quer ir ao xerife e dizer isso a ele?
 709127354	De jeito nenhum! Ele está com vontade de enforcar alguém.
 2137721353	Continuamos procurando até encontrar alguém.
-1797298500	Por que eles fizeram isso de qualquer maneira?
-752847137	Eles eram estranhos. Quem sabe?
-1803490372	Claro que me parece que estamos perdendo alguma coisa.
-189560826	Não se preocupe com isso. Nós os encontramos, atiramos neles.
+1797298500	Por que fizeram isso?
+752847137	Eram estrangeiros. Quem sabe.
+1803490372	Acho que estamos perdendo algo.
+189560826	Não se preocupe. Assim que os encontrarmos, atiramos neles.
 461826097	Ei amigo!
 478403291	Vamos Cooper! Levante-se e brigue!
-1021256014	Ugh... Parece que fui chutado por um cavalo.
+1021256014	Ugh... Sinto como se tivesse sido chutado por um cavalo.
 530886839	Kate! Acorde.
-1344104697	Ei Kate! Você comigo?
-730046734	Deus! Minha cabeça vai explodir.
-899359207	Cadê o Doc?
-254775759	Precisamos conversar com parceiros.
-668724194	Ops! Desculpe, senhora.
+1344104697	Ei Kate! Aí estão vocês?
+730046734	Ah... Deus! Minha cabeça está estourando.
+899359207	Onde está o Doutor?
+254775759	Precisamos conversar.
+668724194	Ops! Sinto muito, senhora.
 1826510593	Alguém pode me dizer por que eu dei um soco nela?
 699751414	Ela aparenta ser suspeita para você
 1134149982	Essa mulher é um banco ambulante!
@@ -3291,25 +3291,25 @@ Portuguese	Português(BR)
 2144249786	Heh, porque não?
 752645794	Nós também podemos.
 194532124	Pode ser útil.
-211093556	O que diabos aconteceu? Cadê o Doc?
-1340885963	Tudo o que me lembro é de beber no salão.
+211093556	O que diabos aconteceu? Cadê o Doutor?
+1340885963	Só me lembro que estávamos bebendo na taberna.
 46517177	Aquele mijo não poderia nos deixar bêbados.
-541275585	Bem, o que quer que tenha acontecido aqui, causamos uma boa impressão nos habitantes locais.
-517556967	Vamos encontrar Doc e dar o fora daqui.
-338942374	Eu também poderia usar um disfarce enquanto estamos nisso.
-437235839	Não parece que estamos negligenciando algo realmente importante...
-439599327	O barco! Ele disse que vai partir de manhã!
-1926548427	Ele fez agora. O bom homem ainda está esperando por nós.
-14030696	Mesmo assim, vamos nos apressar. Este não é um lugar para ser deixado para trás.
-476190830	Tudo bem, tudo bem. Encontramos Doc, embarcamos no barco e esquecemos que isso já aconteceu.
+541275585	Bem, o que quer que tenha acontecido, certamente impressionamos os moradores.
+517556967	Vamos encontrar o Doutor e sair daqui rápido.
+338942374	Enquanto estivermos aqui, eu poderia usar um disfarce.
+437235839	Tenho a impressão de que estamos esquecendo algo muito importante...
+439599327	O barco! Ele disse que ia sair esta manhã!
+1926548427	É verdade, é verdade. Aquele bom homem ainda está esperando por nós.
+14030696	Vamos nos mexer. Eu não gosto deste lugar.
+476190830	Tudo bem, tudo bem. Se encontrarmos o Doutor, entramos no barco e fingimos que isso nunca aconteceu.
 1710861253	Ei, você viu minha faca? Ou minhas armas?!
 849892578	Estou sentindo falta do machado.
 1640469646	Você viu Bianca? Eu sinto falta dela.
-1939241309	Acho que guardamos nossas armas no barco.
-1471959315	De quem foi a boa ideia?
-1614108276	Ei! Há um torneio de poker amanhã.
-1917005219	Já pensou em um concorrente?
-1503626948	Eu te venci ontem à noite. Aposto que você esqueceu.
+1939241309	Lembro-me que deixamos as armas no barco.
+1471959315	Quem teve essa brilhante ideia?
+1614108276	Ei! Amanhã tem um torneio de poker.
+1917005219	Gostaria de participar?
+1503626948	Eu ganhei de você ontem à noite. Aposto que já esqueceu.
 1985589116	E o canhão do xerife disparou sozinho e explodiu a torre de água.
 655569411	Por si próprio? Desde quando os canhões disparam por conta própria?
 1248339686	Por que alguém fez uma coisa dessas de propósito?
@@ -3321,10 +3321,10 @@ Portuguese	Português(BR)
 2104481270	O cofre foi arrastado para cá? Ou... foi... caiu de algum lugar?
 193170982	Eu não acho que este é o trabalho dos humanos. Algo parece realmente errado.
 81079969	Isso é um canhão.
-930411529	Dê uma olhada naquele canhão. Ela é uma beleza.
-2010098878	Para que serve o canhão?
-1089594563	É um banco seguro. Parece pesado como o pecado.
-63030906	Eu suo só de olhar.
+930411529	Dê uma olhada naquele canhão. Ele é uma beleza.
+2010098878	O que está apontando?
+1089594563	É um cofre de banco. Parece pesado como uma pedra.
+63030906	Fico suado só de olhar.
 1308121975	Pobre e doce Rosie. É a maldição do diabo, eu lhe digo.
 24326689	Eu digo que as bruxas do pântano a pegaram. A transformou em palha.
 410986488	Oh, por favor! É apenas um espantalho, seus tolos!
@@ -6800,7 +6800,7 @@ Portuguese	Português(BR)
 2056776782	Ugh. Sem problemas... Ugh.
 1657462738	Só tenho que ficar de pé.
 1414760920	Posso lidar com isso.
-1638530929	Hm, minha cabeça dói.
+1638530929	Hrm, minha cabeça dói.
 804821888	Aí vem o carteiro.
 1699178788	Passando.
 1231660015	Por ali? Sem problemas.
