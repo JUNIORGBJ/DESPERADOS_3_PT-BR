@@ -2828,23 +2828,23 @@ Portuguese	Português(BR)
 1440900464	Negativo, Sr. Cooper. Esta luta é minha. Eu não vou deixar você lutar por mim.
 212712471	Como quiser.
 1083969188	VO TRACK
-889048379	Eu verifiquei este lugar. Passamos pelo campo e chegamos à ponte.
-2078135170	Que ponte! Será necessário um carrinho de dinamite inteiro para destruí-lo.
+889048379	Eu verifiquei o local. Passamos pelo acampamento e chegamos até a ponte.
+2078135170	Isso sim é uma ponte. Será preciso um vagonete cheio de dinamite para derrubá-la.
 1957043161	Não necessariamente.
 1743660643	Existe um ponto fraco. Destrua ele e o resto tombará como um baralho.
-1419916468	Gosto desse plano, Dr. McCoy. Mas ainda precisamos de dinamite.
-1252686345	Eles são obrigados a ter algumas armazenadas por aqui em algum lugar. 
+1419916468	Agora já temos um plano, Dr. McCoy. Mas ainda não temos de dinamite.
+1252686345	Eles devem ter alguns armazenados por aqui em algum lugar.
 359357962	Eu poderia usar um disfarce, e acho que acabei de encontrar um.
 1753537232	Faria sentido haver dinamite naquela cabana na pedreira.
-473627906	Além disso, há um galpão de armas no campo de tiro.
-581421147	Se eu estivesse no comando por aqui, manteria a dinamite trancada.
-1826368698	Sim, não se preocupe. Locks e eu somos velhos parceiros de dança.
+473627906	Também há um galpão de armas no campo de tiro.
+581421147	Se eu estivesse no comando por aqui, certamente manteria a dinamite trancada.
+1826368698	Sim, não se preocupe. Eu e as fechaduras somos velhos amigos.
 60159046	Então, pegamos a dinamite e voltamos para a ponte.
-1164491433	Plantamos a dinamite e nos protegemos. Vou reservar uma bala para pegá-la de longe.
-48647367	E fim da história, senhoras e senhores!
-982561129	Então teremos que ir para o trem para encontrar Hector.
-1563084130	Você acha que ele estará no encontro a tempo?
-837850874	Por nada no mundo você sentiria falta desses fogos de artifício!
+1164491433	Colocamos a dinamite e procuramos um abrigo. Vou reservar uma bala para acerta-la de longe.
+48647367	E é isso aí, senhoras e senhores!
+982561129	Então teremos que ir para o trem, onde vamos encontrar Hector.
+1563084130	Tem certeza que ele estará no ponto de encontro a tempo?
+837850874	Ele não perderia este show por nada neste mundo!
 1273876159	Senhoras e senhores, é hora do show!
 546845066	Os passageiros estão ficando inquietos novamente.
 1311290023	Tenho pena daqueles pobres malditos na estação.
@@ -2866,10 +2866,10 @@ Portuguese	Português(BR)
 833802834	A maioria dos trabalhadores estão ocupados. Esses caras estão isolados.
 760751371	O que significa que ninguém ouvirá seus pedidos de ajuda.
 1585813531	Uma mistura muito poderosa.
-1631007758	É útil de tempos em tempos. Eu o encontrei em um pântano perto de Jennings.
-379797080	Como superamos esse grandalhão?
+1631007758	É bem útil as vezes. Encontrei-o em um pântano perto de Jennings.
+379797080	Como passamos pelo grandalhão?
 2052913718	Casaco longo em pé guarda à frente.
-1971869485	Não vamos nos arriscar com o Casaco Longo. Primeiro alguém o enfraquece com um tiro, depois o outro o tira por trás.
+1971869485	Não vamos nos arriscar com o Casaco Longo. Primeiro alguém o enfraquece com um tiro, depois o outro o pega por trás.
 169622226	Fantástico. Temos um plano para nós mesmos!
 269413787	Olhos no horizonte, Katey. Não olhe para baixo.
 1092167375	Você está com medo da altura?
@@ -2879,28 +2879,28 @@ Portuguese	Português(BR)
 720065703	Agora encontramos dinamite, seguimos para lá e enviamos a ponte para o Todo-Poderoso!
 405118588	Eu nunca vi alguém carregar tanta bagagem.
 937834666	Não gostaria de ser seu carregador.
-368972319	Uma oportunidade perfeita para pedir emprestado um vestido. Ela provavelmente nem sentira falta.
+368972319	Uma oportunidade perfeita para pedir um vestido emprestado. Ela provavelmente nem sentira falta.
 1886668339	Estamos aqui há três dias, James! Isso é insuportável!
 589968197	O quê você espera que eu faça? Eu não sou um reparador de pontes. Eles falam que não é seguro.
 1487325896	A ponte parece bem! 
 1248641012	O casamento foi ontem. Perdemos a cerimônia... Seremos os últimos a chegar.
 2124596877	Metade da família também está presa aqui... Tenho certeza de que nosso primo não se casará em uma igreja meio vazia.
 970763803	Você é melhor!
-1805756371	Veja se eu posso distrair esse guarda de seus deveres.
+1805756371	Vamos ver se consigo distrair esse guarda.
 1781218184	Não me diga que você vai até ele?
 2213502	Assista e aprenda, Dr. McCoy.
 177836789	Nada mal para a sobrinha inocente de um pequeno fazendeiro.
-702906308	Eu nunca conheci uma garota de fazenda inocente nessas partes.
+702906308	Nunca vi uma garota da fazenda inocente por aqui.
 694538370	Não me diga.
 1106042257	Qual o tamanho deste lugar?
 1127199583	Este lugar não tem fim.
-22539155	Olhe para tudo isso! A Companhia DeVitt é muito rica.
-70144024	Falando nisso, você não estava sob contrato com a companhia?
-2135950230	E assim continuaria, se os malditos tivessem se preocupado em me pagar pelo trem.
-164193422	Isto é como déjà vu
+22539155	Olhe para esse lugar! A Companhia DeVitt é muito rica.
+70144024	A propósito, você não estava sob contrato com a companhia?
+2135950230	Eu ainda estaria se aqueles malditos me pagassem pelo trabalho no trem.
+164193422	Isso me lembra de alguma coisa.
 958208112	Somos como bandidos roubando um trem.
 627433891	Cada dia um trem diferente.
-162783975	Essas mulheres não vão se apaixonar pelos meus encantos. Vou precisar ter cuidado.
+162783975	Essas senhoras não cederão ao meu charme. Tenho que ter cuidado.
 1030207198	Quanto tempo isso vai levar?
 1347156913	É como eu tenho dito, é difícil dizer com certeza.
 240429791	Como você pode não saber? Você é o capataz, pelo amor de Deus!
@@ -2950,9 +2950,9 @@ Portuguese	Português(BR)
 1372339404	Desculpa. Não pude resistir.
 2083757734	Acidentes acontecem.
 868947400	Ops. Foi mal.
-470667403	Deveríamos ver se a serraria está escondendo algo útil.
+470667403	Podemos encontrar algo útil na serraria.
 12095694	Olhe para este lugar. É um lugar em seu aspecto industrial.
-1963914594	Você quer saber com que frequência acidentes acontecem ao redor dessa serra.
+1963914594	Eu me pergunto, quantos acidentes acontecem ao redor desta serra.
 767817700	Pensando em causar um acidente?
 305308674	Com certeza parece muito afiado.
 1514308810	Ok, serra desconectada.
@@ -2991,10 +2991,10 @@ Portuguese	Português(BR)
 1225172522	Ah, deixe-os ficar com a cidade de merda.
 1406020804	Covardes, todos vocês!
 1560359473	Venha, antes que um urso te pegue.
-1175221139	Eu vou dar uma olhada. Mantenha seus olhos abertos.
+1175221139	Vou dar uma olhada. Mantenha os olhos abertos.
 1207002502	Você sempre usa jeans tão justos, Sr. Cooper?
 173073461	Desculpa?
-175856799	Apenas mantendo meus olhos abertos.
+175856799	Tenho que manter meus olhos abertos.
 519723968	Esses caras não seriam capazes de atingir uma baleia.
 604204655	Suas armas são de baixa qualidade... e enferrujadas.
 260433494	O que me diz cavalheiros? Você acha que encontraremos dinamite naquele pequeno barracão?
