@@ -1921,7 +1921,7 @@ Portuguese	Português(BR)
 183908969	Wild Marge bebe muito uísque. A donzela serve para ela deste barril.
 541866882	Sino
 832290859	O sino da igreja caiu recentemente. Seria uma pena se isso acontecesse novamente.
-1017964628	Ah, laje. Um lugar como muitos outros. A vida fica quieta aqui até que problemas surjam. Hoje não será um dia calmo.
+1017964628	Ah, Flagstone. Um lugar como tantos outros. A vida fica quieta aqui até que problemas surjam. Hoje não será um dia calmo.
 1031286426	O homem que você vê aqui é Chester Goodwill: um homem de pouco valor e uma vítima perfeita para o nosso desafio hoje.
 522016773	Meus clientes querem que você remova o Sr. Goodwill e entregue seu corpo à igreja. Pena que metade da cidade o esteja observando agora.
 869608647	Talvez uma visita ao bordel de Flagstone estivesse em ordem. Tenho certeza de que a senhorita O'Hara apreciaria as opções extras.
@@ -2996,10 +2996,10 @@ Portuguese	Português(BR)
 173073461	Desculpa?
 175856799	Tenho que manter meus olhos abertos.
 519723968	Esses caras não seriam capazes de atingir uma baleia.
-604204655	Suas armas são de baixa qualidade... e enferrujadas.
-260433494	O que me diz cavalheiros? Você acha que encontraremos dinamite naquele pequeno barracão?
-32853892	Teremos que destrancar a porta primeiro.
-1057538575	Apenas certifiquem-se de me dar cobertura para que eu possa abrir a fechadura.
+604204655	As armas deles são de má qualidade... e enferrujadas.
+260433494	O que me dizem, garotos? Vamos encontrar dinamite naquele galpão?
+32853892	Primeiro precisamos abrir a porta.
+1057538575	Certifique-se de que não há ninguém para que eu possa abrir a fechadura.
 2023607830	Você está tentando errar ou acertar as garrafas?
 972631478	Vá encontrar uma égua e cuidar dessa sua vida patética, Mundy.
 1198467201	Sim! Nós estamos praticando.
@@ -3013,26 +3013,26 @@ Portuguese	Português(BR)
 774427399	Sim! Não queremos que tudo se exploda.
 920378594	Muito atencioso da sua parte.
 1443350370	Isso vai servir.
-64719891	Essas pequenas coisas fazem muito estrago.
-1313763565	Ok, um pacote de dinamite. Agora vamos voltar para a ponte.
-347539793	Somos bons parceiros, você não acha?
+64719891	Tão pequena, mas tão perigosa.
+1313763565	Certo, um pacote de dinamite. Agora vamos voltar para a ponte.
+347539793	Somos bons parceiros, não acha?
 1370436802	Parceiros é uma palavra forte, senhorita.
-364038933	Oh, venha agora, Sr. Cooper. Nós juntos, contra o mundo.
-1284435012	Bem, quando isso acabar, será você sozinha, de volta ao seu rancho.
+364038933	Oh, Vamos, Sr. Cooper. Nós, juntos, contra o mundo.
+1284435012	Bem, quando isso acabar, você voltara sozinha ao seu rancho.
 1293942551	Sim... 
 715967375	Deveríamos voltar aqui quando tivermos dinamite.
 1149243390	O ponto fraco da ponte é aqui. Ainda precisamos de dinamite.
 567326433	Bem, vamos lá quando tivermos dinamite.
 1959106679	Tudo bem, vamos lá.
 910584940	Aqui embaixo.
-1179515340	Vamos entregar o pacote, senhores. 
-1542172045	Ei, McCoy. Tem certeza de que pode acertar esse pavio?
+1179515340	Vamos entregar o pacote, garotos. 
+1542172045	Ei, McCoy. Tem certeza que é um bom atirador para acertar o pavio?
 1812456212	Assista e aprenda, Sr. Cooper.
 568001835	Gostaria de saber o que há naquele galpão?
-1944227285	O que há naquele galpão lá em baixo?
-1795827190	Parece um depósito. Talvez seja uma boa ideia estocar.
-264359659	Sim, este lugar será em chamas em alguns minutos.
-1953104794	Se encontrarmos dinamite lá, ficarei com raiva.
+1944227285	O que tem nesse galpão?
+1795827190	Parece um depósito. Podemos dar uma olhada.
+264359659	Sim, este lugar estará em chamas em alguns minutos.
+1953104794	Se encontrarmos dinamite, ficarei puto.
 1187055807	Eu gostaria que tivéssemos dinamite.
 1086767789	Acho que ainda precisamos de dinamite.
 629756946	Esse é o local. Agora é melhor buscarmos essa dinamite.
@@ -3044,26 +3044,26 @@ Portuguese	Português(BR)
 1498994161	Dr. McCoy, acredito que você tenha dinamite.
 851862061	Tudo pronto.
 563175063	Pacote entregue.
-543245308	Tudo bem então. É o seu show, doutor.
-621623831	Vamos para algum lugar com uma boa visão. 
-706512754	Veja como cai
+543245308	Certo. É a sua vez, Doutor.
+621623831	Sugiro que encontre um lugar com uma boa visão.
+706512754	Olha como cai.
 1149997624	Santo inferno!
-1444349089	Você não estava brincando, doutor.
-1464740422	Que porra é essa. Traga-me os malditos que fizeram isso!
-686524713	Obrigado, senhores. Agora, vamos nos apressar - temos que pegar o trem.
-727099477	E não há mais razão para ficar quieto
-837828466	Isso vai ficar selvagem.
-900039237	Agora pode ser uma boa hora para estocar no galpão.
-160884714	e você quer estocar no galpão, agora é a hora.
+1444349089	Você não estava brincando, Doutor.
+1464740422	Que merda foi isso? Traga-me os malditos que fizeram isso!
+686524713	Obrigado, garotos. Agora vamos nos apressar, temos que pegar o trem.
+727099477	E não há mais razão para ir com calma.
+837828466	As coisas ficou séria.
+900039237	Agora devemos ir no galpão nos reabastecer.
+160884714	Se quisermos reabastecer no galpão, agora é a hora.
 2137734687	Última chance de visitar o galpão de munição.
 508171541	Droga, nós nos separamos!
-1412696367	Hah! Eles fizeram isso! Hora do Hector fazer uma entrada.
-923656247	Aww, ninguém aqui ainda? Parece que tenho algum tempo para matar.
-412402408	Olha quem já está aqui!
+1412696367	Hah! Eles conseguiram!É aqui que eu entro.
+923656247	Aww, ninguém aqui ainda? Tenho que achar um jeito de passar o tempo.
+412402408	Olha quem está aqui!
 1857699596	Olá Hector!
 1526833903	Você é uma visão para os olhos doloridos.
 528508594	Não sei como cheguei aqui tão rápido.
-1461714705	Todo mundo, no trem! Vamos lá!
+1461714705	Todo mundo no trem! Vamos!
 1872561895	Isso é inaceitável.
 649134575	Eu exijo uma explicação!
 774090547	A ponte precisava de reparos, afinal.
