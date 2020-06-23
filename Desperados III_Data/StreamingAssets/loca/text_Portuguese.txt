@@ -833,22 +833,22 @@ Portuguese	Português(BR)
 347856056	Chegue à capela pela entrada da direita.
 32670292	Não selecione {0}.
 1663542660	Sem sobreviventes.
-1223921571	Garganta do Diabo/n(Capítulo I)
+1223921571	Cânion do Diabo/n(Capítulo I)
 961120359	Era Uma Vez
 266826627	Em algum lugar no deserto do México, dois cavaleiros se aproximam do esconderijo de um infame fora-da-lei.
-1864224566	A alguns quilômetros da fronteira com o México, nas ruínas de uma antiga vila às margens dos penhascos da Garganta do Diabo./n/nHá rumores que um infame fora-da-lei se esconde aqui, um homem que só atende pelo nome de Frank./n/nHoje, dois cavaleiros do deserto estão se aproximando, caçadores de recompensas empenhados em entregar Frank, vivo ou morto.
-773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam a Garganta do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
-681032158	Passagem Byers
+1864224566	A alguns quilômetros da fronteira com o México, nas ruínas de uma antiga vila às margens dos penhascos do Cânion do Diabo./n/nHá rumores que um infame fora-da-lei se esconde aqui, um homem que só atende pelo nome de Frank./n/nHoje, dois cavaleiros do deserto estão se aproximando, caçadores de recompensas empenhados em entregar Frank, vivo ou morto.
+773201330	O experiente caçador de recompensas James Cooper e seu filho John chegam ao Cânion do Diabo. O objetivo deles: esgueirar-se pelos muitos bandidos que guardam a área e eliminar o infame fora-da-lei Frank./n/nJames continua, dizendo a John para seguir e manter a cabeça baixa.
+681032158	Vale Byers
 2097221155	Atrasado no dia de pagamento
-1657883687	Um trem de propriedade da influente Companhia DeVitt está a caminho da cidade de Flagstone. Passando por Byers Pass ele encontrou um obstáculo inesperado.
-801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo das paisagens das Montanhas Rochosas./n/nSeus vagões - com a marca da Companhia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entrou em Byers Pass, os passageiros ficaram inquieto. Bandidos estão perambulando por essas partes, e a Companhia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
-1457201141	John Cooper está sentado no trem indo para Flagstone, até que em Byers Pass, o trem é emboscado por bandidos. Ele permanece sem ser detectado, mas a tarefa que está pela frente é clara./n/nSe Cooper quiser manter seu compromisso em Flagstone, ele terá que cuidar primeiro dos bandidos.
+1657883687	Um trem de propriedade da influente Companhia DeVitt está a caminho da cidade de Flagstone. Passando por Vale Byers ele encontrou um obstáculo inesperado.
+801719185	Correndo em trilhos recém-montados, um trem muito carregado serpenteia ao longo das paisagens das Montanhas Rochosas./n/nSeus vagões - com a marca da Companhia DeVitt - foram recentemente carregados em Denver e agora transportam pessoas e mercadorias para a pequena cidade montanhosa de Flagstone./n/nÀ medida que o trem entrou no Vale Byers, os passageiros ficaram inquieto. Bandidos estão perambulando por essas partes, e a Companhia perdeu mais de um trem nos últimos meses./n/nTalvez os mercenários contratados para escoltar o trem sejam suficientes para deter qualquer ataque dessa vez.
+1457201141	John Cooper está sentado no trem indo para Flagstone, até que no Vale Byers, o trem é emboscado por bandidos. Ele permanece sem ser detectado, mas a tarefa que está pela frente é clara./n/nSe Cooper quiser manter seu compromisso em Flagstone, ele terá que cuidar primeiro dos bandidos.
 1181215471	Flagstone
 1786599235	Encrenqueiros em Flagstone
 111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meterem em encrencas.
 180909580	Localizada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. /n/nTrabalhadores da Companhia DeVitt se misturam entre os locais enquanto continuam construindo a nova ferrovia através da cidade./n/nAssim que Cooper chega em Flagstone, ele vai direto à taberna, que está vazia exceto por alguns clientes regulares./n/nA garçonete lhe serve um copo de uísque, e ele degusta enquanto espera a chegada de um velho amigo.
 1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da Companhia DeVitt, que estavam aterrorizando os locais. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
-842780950	Propriedade de Higgins
+842780950	Propriedade Higgins
 1899333205	Até que a morte nos separe
 1739483129	O homem que eles chamam de Frank está na propriedade do prefeito Higgins. John Cooper vai nessa direção, sem saber que um certo alguém por lá está se preparando para o casamento dela.
 807976695	A meia hora de viagem pela montanha, a partir de Flagstone, fica a recém-construída propriedade do prefeito Higgins./n/nTendo chegado a uma riqueza considerável após certos acordos com a Companhia DeVitt, Higgins não poupou custos para equipar sua humilde morada com os mais modernos confortos e luxos./n/nRecentemente, toda a propriedade está ocupada com os preparativos do casamento. Depois de anos de recusa, finalmente o prefeito Higgings convenceu o amor de sua vida a estreitar os laços./n/nSem o conhecimento dele, no entanto, a noiva tem seus próprios planos para o grande dia.
@@ -863,60 +863,60 @@ Portuguese	Português(BR)
 1077297084	O Rancho O'Hara foi defendido, mas o preço foi alto. Determinada a deixar a Companhia DeVitt para sempre, Kate propõe um plano perigoso.
 523395751	A alguns quilômetros a nordeste de Flagstone, o poderoso rio Eagle mergulha centenas de metros na grande ravina abaixo./n/nNo passado os viajantes tinham que encontrar uma maneira de contornar esse obstáculo perigoso, e todos os anos alguns deles morriam aqui. ou seja arrastado pelas correntes./n/nEm sua busca por traçar trilhas para o oeste, a Companhia DeVitt construiu uma enorme ponte ferroviária sobre o barranco, completa com uma estação de trem e instalações nas proximidades./n/nOs trens da companhia atravessam a ponte todos os dias e transportam homens e materiais novos em direção a Flagstone.
 826928811	Após a morte de seu tio, Kate quer libertar sua casa das garras da Companhia DeVitt./n/nPara impedir que mais homens cheguem a Flagstone, ela planeja explodir a ponte ferroviária em Eagle Falls./n/nOs outros concordam em ajudar. Juntos, eles viajam para Eagle Falls e se infiltram nas instalações da DeVitt próximo à ponte./n/nO plano é simples: Procure na área por dinamite, depois desça até a fundação e exploda a ponte em migalhas.
-1500406185	Garganta do Diabo/n(Capítulo II)
+1500406185	Cânion do Diabo/n(Capítulo II)
 1283981450	Um belo tiro
 1255827485	De volta às memórias passadas, um jovem John Cooper está esperando seu pai retornar…
-99540809	El Cañón del Diablo. A garganta do diabo. É um lugar de muitas histórias. Fiel ao seu nome, poucos deles terminam felizes./n/nPor sua vez, povoado por nativos, colonos, garimpeiros e, mais frequentemente, bandidos, cada um de seus habitantes derramou o sangue de seus predecessores na terra poeirenta./n/nEra uma vez, o homem que eles chamavam de Frank veio com seus homens e tomou esse lugar por conta própria./n/nNos próximos anos, muitos caçadores de recompensas cruzaram a fronteira em busca de Frank. Um deles era James Cooper.
+99540809	El Cañón del Diablo. O Cânion do Diabo. É um lugar de muitas histórias. Fiel ao seu nome, poucos deles terminam felizes./n/nPor sua vez, povoado por nativos, colonos, garimpeiros e, mais frequentemente, bandidos, cada um de seus habitantes derramou o sangue de seus predecessores na terra poeirenta./n/nEra uma vez, o homem que eles chamavam de Frank veio com seus homens e tomou esse lugar por conta própria./n/nNos próximos anos, muitos caçadores de recompensas cruzaram a fronteira em busca de Frank. Um deles era James Cooper.
 1582007492	O jovem John Cooper ainda está esperando o pai voltar. Então ele ouve tiros./n/nMomentos depois, vários homens de Frank vêm correndo por seu esconderijo e começam a procurar na área. Algo deu errado./n/nCooper pega a faca que seu pai lhe deu e vai até a capela.
 1581878624	Baton Rouge
 1291349659	Um inferno de uma noite
 2081499567	Depois de algumas semanas de viagem, a turma passa a noite em um salão de Baton Rouge. As costas estão descansadas e as histórias são compartilhadas sobre alimentos e bebidas. Muitas e muitas bebidas.
-2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nA turma está a caminho de New Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar um salão, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
+2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nA turma está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar um salão, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
 418625396	Depois de uma noite selvagem no salão, a gangue acorda apenas para encontrar a cidade de Baton Rouge em desordem e os homens do xerife caçando por eles./n/nNinguém tem idéia do que aconteceu, e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca em massa, eles decidem se concentrar no básico: encontre o Doc e dê o fora daqui.
 458741708	Rio Mississippi
 1471672407	Louisiana Voodoo
-841222571	Após sua pequena pausa em Baton Rouge, a turma está agora em um barco descendo o Mississippi. Seu destino: a movimentada cidade de New Orleans.
-183066190	Mais de cem quilômetros do poderoso rio Mississippi ficam entre Baton Rouge e New Orleans./n/nNavios que viajam por esse caminho virão por vilarejos ocasionais ou cabanas de pesca./n/nEntre esses, no entanto, há longos trechos da terra de ninguém, onde qualquer coisa - ou alguém - possa estar à espera.
-708762326	Isabelle Moreau foi capturada por traficantes enquanto investigava desaparecimentos na área. Ela está presa em uma gaiola, mas essas nunca a mantiveram por muito tempo./n/nO caminho é claro: Escape, ajude qualquer pessoa que tenha sido levada pelos traficantes de escravos e depois volte para New Orleans.
-1838068478	New Orleans
-351229472	Back Alley Jazz
-1009387880	A gangue finalmente chega em New Orleans. Enquanto Cooper está ansioso para procurar Frank, Isabelle tem seu próprio conjunto de problemas.
-86592984	Depois que Isabelle os resgata de uma emboscada da Companhia DeVitt, a turma retoma sua jornada para New Orleans juntos./n/nO resto da jornada é agradavelmente tranquilo, exceto pelas constantes queixas de Doc./n/nNa noite do dia seguinte, eles finalmente chegaram a New Orleans. Hector e Doc estocam suas provisões em um mercado local, enquanto os outros discutem o que fazer em seguida.
-622275391	Tendo finalmente chegado a New Orleans, a gangue decide se separar./n/nCooper e Hector vão caçar Frank. Enquanto isso, Isabelle quer procurar seu amigo Wayne, que desapareceu sem deixar rasto. Kate e Doc decidem ajudá-la./n/nIsabelle suspeita que algumas pessoas estejam envolvidas no desaparecimento de Wayne. Ela acredita que um deles carrega uma carta de instruções./n/nOs três têm que pôr as mãos nessa carta, esperando que seu conteúdo os leve a Wayne.
+841222571	Após sua pequena pausa em Baton Rouge, a turma está agora em um barco descendo o Mississippi. Seu destino: a movimentada cidade de Nova Orleans.
+183066190	Mais de cem quilômetros do poderoso rio Mississippi ficam entre Baton Rouge e Nova Orleans./n/nNavios que viajam por esse caminho virão por vilarejos ocasionais ou cabanas de pesca./n/nEntre esses, no entanto, há longos trechos da terra de ninguém, onde qualquer coisa - ou alguém - possa estar à espera.
+708762326	Isabelle Moreau foi capturada por traficantes enquanto investigava desaparecimentos na área. Ela está presa em uma gaiola, mas essas nunca a mantiveram por muito tempo./n/nO caminho é claro: Escape, ajude qualquer pessoa que tenha sido levada pelos traficantes de escravos e depois volte para Nova Orleans.
+1838068478	Nova Orleans
+351229472	Marcha nos becos
+1009387880	A gangue finalmente chega em Nova Orleans. Enquanto Cooper está ansioso para procurar Frank, Isabelle tem seu próprio conjunto de problemas.
+86592984	Depois que Isabelle os resgata de uma emboscada da Companhia DeVitt, a turma retoma sua jornada para Nova Orleans juntos./n/nO resto da jornada é agradavelmente tranquilo, exceto pelas constantes queixas de Doc./n/nNa noite do dia seguinte, eles finalmente chegaram a Nova Orleans. Hector e Doc estocam suas provisões em um mercado local, enquanto os outros discutem o que fazer em seguida.
+622275391	Tendo finalmente chegado a Nova Orleans, a gangue decide se separar./n/nCooper e Hector vão caçar Frank. Enquanto isso, Isabelle quer procurar seu amigo Wayne, que desapareceu sem deixar rasto. Kate e Doc decidem ajudá-la./n/nIsabelle suspeita que algumas pessoas estejam envolvidas no desaparecimento de Wayne. Ela acredita que um deles carrega uma carta de instruções./n/nOs três têm que pôr as mãos nessa carta, esperando que seu conteúdo os leve a Wayne.
 50642152	Ninho da rainha
 876556836	Queime a Rainha
-1811558593	Seguindo a trilha do amigo desaparecido de Isabelle, a turma descobre o Ninho da Rainha, uma base escondida nas profundezas da baía de New Orleans. 
-28351309	Os bayous de New Orleans são o lar de muitas coisas perigosas. Jacarés, areia movediça, moscas do pântano que espalham doenças e, é claro, seu companheiro sempre à procura./n/nSeguindo a orientação de Isabelle, a gangue se aventura nos pântanos traiçoeiros para encontrar o ninho da rainha e resgatar o amigo desaparecido de Isabelle, Wayne./n/nA jornada é longa e tediosa. A turma se move devagar, para não atrair atenção indesejada./n/nQuando Isabelle se sente próxima, eles se separam para se aproximar do Ninho por dois lados.
-1656931729	Enquanto Kate fica para trás em New Orleans para ficar de olho em Frank, Isabelle e os outros vão para os bayous para resgatar Wayne./n/nDepois de uma longa jornada, eles descobrem o esconderijo dos velhos escravos conhecido como Ninho da Rainha, onde Wayne é mantido prisioneiros./n/nEles decidem se separar e atacar o Ninho por dois lados, e depois se reencontram quando estão dentro./n/nDepois disso, eles precisam encontrar Wayne, libertá-lo, atear fogo na base e fuga.
-1584369694	New Orleans/nDocas
+1811558593	Seguindo a trilha do amigo desaparecido de Isabelle, a turma descobre o Ninho da Rainha, uma base escondida nas profundezas da baía de Nova Orleans. 
+28351309	Os bayous de Nova Orleans são o lar de muitas coisas perigosas. Jacarés, areia movediça, moscas do pântano que espalham doenças e, é claro, seu companheiro sempre à procura./n/nSeguindo a orientação de Isabelle, a gangue se aventura nos pântanos traiçoeiros para encontrar o Ninho da rainha e resgatar o amigo desaparecido de Isabelle, Wayne./n/nA jornada é longa e tediosa. A turma se move devagar, para não atrair atenção indesejada./n/nQuando Isabelle se sente próxima, eles se separam para se aproximar do Ninho por dois lados.
+1656931729	Enquanto Kate fica para trás em Nova Orleans para ficar de olho em Frank, Isabelle e os outros vão para os bayous para resgatar Wayne./n/nDepois de uma longa jornada, eles descobrem o esconderijo dos velhos escravos conhecido como Ninho da Rainha, onde Wayne é mantido prisioneiros./n/nEles decidem se separar e atacar o Ninho por dois lados, e depois se reencontram quando estão dentro./n/nDepois disso, eles precisam encontrar Wayne, libertá-lo, atear fogo na base e fuga.
+1584369694	Porto de/nNova Orleans
 1600676289	Sujeira e Sangue
-1884452242	De volta a New Orleans, a gangue encontra a cidade em um estado muito diferente do que antes. Independentemente disso, Cooper permanece determinado em sua missão.
-1265907159	Com o marechal Wayne a reboque, a gangue volta para New Orleans enquanto o Ninho da Rainha arde atrás deles./n/nNo caminho, Cooper fica muito quieto. Ele sabe o que o espera em New Orleans. Ele estará pronto desta vez? Ele terá que estar. /n/ no entanto, ao voltar, eles descobrem que as circunstâncias mudaram para pior. Enquanto Doc está procurando Kate, o marechal Wayne quer discutir o próximo passo.
-265401901	De volta a New Orleans, a gangue se reúne com Kate, que revela que Frank está atualmente no píer 9, nas docas./n/nDespite os protestos de Cooper, Kate se junta a ele e Hector em busca de Frank. Os três vão para as docas./n/nCooper quer que todos se encontrem no portão do Pier 9. Depois disso, a única coisa que resta a fazer é terminar o que ele veio aqui.
+1884452242	De volta a Nova Orleans, a gangue encontra a cidade em um estado muito diferente do que antes. Independentemente disso, Cooper permanece determinado em sua missão.
+1265907159	Com o marechal Wayne a reboque, a gangue volta para Nova Orleans enquanto o Ninho da Rainha arde atrás deles./n/nNo caminho, Cooper fica muito quieto. Ele sabe o que o espera em Nova Orleans. Ele estará pronto desta vez? Ele terá que estar. /n/ no entanto, ao voltar, eles descobrem que as circunstâncias mudaram para pior. Enquanto Doc está procurando Kate, o marechal Wayne quer discutir o próximo passo.
+265401901	De volta a Nova Orleans, a gangue se reúne com Kate, que revela que Frank está atualmente no píer 9, nos porto./n/nDespite os protestos de Cooper, Kate se junta a ele e Hector em busca de Frank. Os três vão para o porto./n/nCooper quer que todos se encontrem no portão do Pier 9. Depois disso, a única coisa que resta a fazer é terminar o que ele veio aqui.
 1032927492	Mina de ouro DeVitt
 739256700	Um carrinho cheio de pólvora
 679755953	Mais uma vez, Cooper perdeu seu duelo contra Frank. Então, como agora, outros devem pagar o preço pelo seu fracasso. Ainda resta alguma esperança?
 1630898247	Vincent DeVitt tem os dedos em muitas tortas diferentes. Um império ferroviário próspero, o lucrativo comércio de condenados e, por último mas não menos importante, o negócio de mineração de ouro./n/nDebaixo do sol quente do Novo México, os mineiros extraem metais preciosos da terra, sob os olhos sempre presentes dos guardas da Companhia DeVitt./n/nEntre os trabalhadores, três rostos familiares se escondem em uma pilha de pedras. Seus corpos estão cansados, sua disposição é de galinhas./n/nSuas mentes, porém, só conhecem um objetivo: escapar.
-1624871096	Depois de serem presos na mina de ouro de DeVitt, a gangue elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem uma vagoneta cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com a vagoneta e escape.
+1624871096	Depois de serem presos na mina de ouro DeVitt, a gangue elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem uma vagoneta cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com a vagoneta e escape.
 2029047628	Las Piedras
 796251795	O salário da Dor
 246702833	Encalhada no meio do nada, a única chance de sobrevivência da quadrilha é uma estação de trem nas proximidades.
-327079711	Tendo escapado recentemente da mina de ouro de DeVitt, a gangue se vê agredida, machucada e com pouco moral./n/nA partida de Doc pesa sobre todos, e o fato de ele ter levado o único cavalo disponível com ele também não ajuda as coisas./n/nIndependentemente disso, eles precisam ir para a cidade mais próxima com uma estação de trem, progredindo lentamente devido à perna machucada de Cooper./n/nQuando eles chegam, eles se abrigam em uma casa em ruínas nos arredores da cidade.
+327079711	Tendo escapado recentemente da mina de ouro DeVitt, a gangue se vê agredida, machucada e com pouco moral./n/nA partida de Doc pesa sobre todos, e o fato de ele ter levado o único cavalo disponível com ele também não ajuda as coisas./n/nIndependentemente disso, eles precisam ir para a cidade mais próxima com uma estação de trem, progredindo lentamente devido à perna machucada de Cooper./n/nQuando eles chegam, eles se abrigam em uma casa em ruínas nos arredores da cidade.
 166306906	Após a fuga da mina de DeVitt, Doc está farto da situação atual e decide continuar por conta própria. Os outros vão para a estação ferroviária mais próxima. Na chegada, eles encontram o lugar ocupado pelos homens do DeVitt. Além disso, parece que nenhum dos trens realmente para na estação./n/nEnquanto Isabelle cura a perna de Cooper, Kate e Hector procuram uma maneira de parar o trem./n/nO plano deles é bloquear os trilhos e depois pegar carona uma carona no próximo trem para que todos possam ir para casa.
 609111573	Casa DeVitt
 2006494126	Capitão da Indústria
 1413452906	Um jantar extravagante está sendo realizado no luxuoso rancho de DeVitt. No entanto, a noite está prestes a ser descarrilada por alguns convidados inesperados.
 468576441	Tendo escapado com segurança para o trem, a turma recebe um descanso bem merecido./n/nEnquanto Hector e Isabelle dormem exaustos, Cooper e Kate conversam por um longo tempo. As coisas ainda estão tensas, mas os primeiros passos foram dados./n/nDe volta à civilização, a gangue entra em contato com o marechal Wayne, que fica emocionado ao saber que eles ainda estão vivos. Juntos, eles formam um plano para tirar DeVitt e Frank de uma vez por todas./n/nPrimeiro na lista é DeVitt, que está prestes a sediar um jantar exclusivo em sua luxuosa propriedade.
 861610767	A gangue escapa das garras de DeVitt e faz contato com o marechal Wayne. Juntos, eles formam um plano para tirar DeVitt e Frank de fora./n/nDeVitt é o primeiro da lista. Com a ajuda de Wayne, eles garantem convites para o jantar exclusivo de DeVitt./n/nO plano deles: separar DeVitt dos convidados, sequestrá-lo e entregá-lo ao marechal.
-1986610452	Garganta do Diabo/n(Capítulo III)
+1986610452	Cânion do Diabo/n(Capítulo III)
 1882495352	O velho e o Novo
 1671544744	Doc voltou e DeVitt está fora de cena. Isso deixa apenas mais uma coisa para cuidar.
-1827622766	Depois de entregar DeVitt ao marechal, a quadrilha segue para o sul através da fronteira. A jornada é longa e o sol do deserto queima impiedosamente nossos cavaleiros./n/nAinda assim, a turma não se intimida. Cooper lidera, Hector conta histórias selvagens enquanto Kate escuta, e Doc e Isabelle brigam como sempre./n/nJuntos, eles cruzam a fronteira com o México e seguem para o deserto rochoso, em direção a Garganta do Diabo..
-1141398023	A gangue atravessa a fronteira mexicana e cavalga em direção a Garganta do Diabo./n/nO velho esconderijo de Frank está cheio de atividades. Cooper tem a sensação de que Frank estará esperando por eles na capela./n/nO plano é simples: encontre-se no portão do cemitério e convide Frank para um confronto final.
+1827622766	Depois de entregar DeVitt ao marechal, a quadrilha segue para o sul através da fronteira. A jornada é longa e o sol do deserto queima impiedosamente nossos cavaleiros./n/nAinda assim, a turma não se intimida. Cooper lidera, Hector conta histórias selvagens enquanto Kate escuta, e Doc e Isabelle brigam como sempre./n/nJuntos, eles cruzam a fronteira com o México e seguem para o deserto rochoso, em direção ao Cânion do Diabo..
+1141398023	A gangue atravessa a fronteira mexicana e cavalga em direção ao Cânion do Diabo./n/nO velho esconderijo de Frank está cheio de atividades. Cooper tem a sensação de que Frank estará esperando por eles na capela./n/nO plano é simples: encontre-se no portão do cemitério e convide Frank para um confronto final.
 2017302914	Moeda
 1323949238	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nPressione {0}, e então aperte {1} para jogá-la.
 1838518536	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nSegure {2} aponte e pressione {3} para jogar a <skill>moeda</skill>.
-1476362018	Faca / Nocaute
+1476362018	Faca/Nocaute
 875975871	Você pode derrubar inimigos de perto usando sua <skill>faca</skill> ou nocauteá-los./nPressione {0} para selecionar a <skill>faca</skill>, e então {1} para atacar./nPara <skill>Nocautear</skill> troque a habilidade na barra de habilidades ou use {2}.
 923056148	Você pode derrubar inimigos de perto usando sua <skill>faca</skill> ou nocauteá-los./nAnde perto de um inimigo e pressione {0} para atacá-lo./nPara <skill>Nocautear</skill> pressione {1} para abrir a roda do personagem, e pressione {2} para mudar para não-letal.
 1412381580	Faca de Arremesso
@@ -2025,7 +2025,7 @@ Portuguese	Português(BR)
 1268031842	Eu posso imaginar o Sr. DeVitt não está muito contente com isso.
 1403180857	DeVitt não está aqui.
 1027159589	Eu me pergunto se ele gostaria que você deixasse as coisas inacabadas aqui.
-508971626	Ou há algo mais importante em New Orleans?
+508971626	Ou há algo mais importante em Nova Orleans?
 1686580200	Talvez você deva voltar ao seu casamento, Higgins.
 2140636003	Talvez você esteja certo. Não iria querer que a noiva ficasse nervosa.
 618313073	Bem, ela tem todos os motivos para estar.
@@ -2351,7 +2351,7 @@ Portuguese	Português(BR)
 434562070	Bem, quem está dando as ordens aqui, você ou eu? 
 67913753	Empilhem aqui em cima. Ateiem fogo no estábulo assim que terminarem.
 193903206	Ei, onde está o Frank? Pensei que ele é o chefe por aqui, não vocês.
-1171499585	Cale a boca! Ele está indo para New Orleans. Agora, comece a trabalhar - não temos a noite toda.
+1171499585	Cale a boca! Ele está indo para Nova Orleans. Agora, comece a trabalhar - não temos a noite toda.
 1965000017	Há, o galpão. Acho que ele ainda está lá dentro, é melhor eu dar uma olhada lá.
 2018922614	Huh... A porta está trancada. Nada que eu não possa lidar.
 730836046	Obrigado por abrir. A maldita porta se trancou.
@@ -3135,13 +3135,13 @@ Portuguese	Português(BR)
 978657549	Uh oh... finalmente!
 1761512886	Confie em mim, vale a pena esperar.
 615469602	Então, e o trem?
-57342294	Descartado. Não precisamos ir a New Orleans.
-1468187789	O que há em New Orleans?
+57342294	Descartado. Não precisamos ir a Nova Orleans.
+1468187789	O que há em Nova Orleans?
 1559859946	Apenas uma recompensa antiga que eu quero alcançar.
 271702602	Frank, não é? Eu conheço esse rosto. Trabalha para a Companhia Devitt.
 352808776	Deixe-me ver.
 1142906383	É uma foto antiga. Quanto tempo durou essa caçada?
-1774780375	Longo o suficiente. Vou terminar em New Orleans.
+1774780375	Longo o suficiente. Vou terminar em Nova Orleans.
 2014707239	Acho que todos temos nossos problemas...
 1863626746	Hector, tem um sabor incrível.
 241596674	Ahhh... eu te disse!
@@ -3628,7 +3628,7 @@ Portuguese	Português(BR)
 860018648	Olhe para aquela remessa. Os "negócios" estão indo bem esta semana.
 1217862018	Merda... Já era hora de Wayne fazer algo a respeito.
 1958100788	Wayne? Você tem mais alguém com você?
-1696961317	Ele está me esperando em New Orleans. Eu estaria a caminho agora se não tivesse visto vocês.
+1696961317	Ele está me esperando em Nova Orleans. Eu estaria a caminho agora se não tivesse visto vocês.
 305241267	Wayne, não é? Seus amigos?
 1543882089	Amigo? Heh, sim, com certeza. Posso apresentá-lo se sairmos vivos daqui.
 415367732	Wayne? Tenho certeza que já ouvi esse nome antes.
@@ -3690,7 +3690,7 @@ Portuguese	Português(BR)
 479043166	Bem, obrigado pela ajuda, senhorita Moreau. Vamos lá, vamos conversar no caminho.
 424948428	Sim, é melhor seguirmos em frente. Alguns de seus amigos ainda estão presos.
 1840783524	O que o leva a essas partes, Sr. Cooper?
-2095268698	Eu estou indo para New Orleans. Não me lembro da rota ser tão acolhedora.
+2095268698	Eu estou indo para Nova Orleans. Não me lembro da rota ser tão acolhedora.
 62785543	Você não está aqui há um tempo.
 1472532422	Então, como você entrou nessa confusão, senhorita Moreau?
 1365157573	Apenas olhando o que está acontecendo aqui. O pessoal está desaparecendo.
@@ -3785,11 +3785,11 @@ Portuguese	Português(BR)
 918117087	Eu gosto de você, Hector.
 1240223034	Você é uma encanto. Que pena que eles vão te mandar para o Ninho da Rainha.
 1894284377	Deveríamos nos divertir um pouco com ela no caminho, hein garotos?
-890894308	É um longo caminho até New Orleans. Você pode nos fazer companhia, hehe.
+890894308	É um longo caminho até Nova Orleans. Você pode nos fazer companhia, hehe.
 1376940702	Tenha cuidado! Ela é muito atrevida. E da bons chutes também.
 1443389901	Você sabe o que eles fazem com garotas como você no Ninho da Rainha?
 788401811	Não me olhe, querida. São apenas negócios.
-1336357020	Você veio ver New Orleans, não é? Aposto que não foi como você esperava.
+1336357020	Você veio ver Nova Orleans, não é? Aposto que não foi como você esperava.
 1080931051	Eu me pergunto o que DeVitt dirá sobre este. Talvez ele a guarde para si.
 810178116	Olá! Você se importaria de pegar a chave e me deixar sair?
 1024056574	Bem, olá para você também. Não se preocupe. Eu peguei você.
@@ -3915,7 +3915,7 @@ Portuguese	Português(BR)
 270830879	E daí? Frank não vai se incomodar.
 2112444917	Você ouviu o que aconteceu no Colorado?
 1119380749	Quem se importa com o Colorado?
-2031131537	Você já viu o ninho da rainha?
+2031131537	Você já viu o Ninho da Rainha?
 2077031686	Nah. É território da companhia. Eles não deixam gente como nós lá.
 937461547	Eu ouvi histórias sobre esse marechal. Ele está atrás da companhia há anos.
 367154930	Bem, ele vai ver, do interior de uma jaula, heh heh heh.
@@ -3925,7 +3925,7 @@ Portuguese	Português(BR)
 1161078991	Não estou tão interessado em receber favores.
 2046471173	Oh, não se preocupe, Sunshine. É por conta da casa.
 686362228	Então, qual é o seu plano agora?
-190516923	New Orleans.
+190516923	Nova Orleans.
 1280239266	Bem, acho que estamos seguindo o mesmo caminho então.
 1535934154	Por que você não se junta a nós? Eu adoraria uma acompanhante.
 1167784740	Claro, por que não.
@@ -3979,7 +3979,7 @@ Portuguese	Português(BR)
 172753097	Feliz caça, meu amigo. E lembre-se: meus clientes estão assistindo.
 703840751	Vale a pena ver. Mas talvez seja bom que haja apenas uma Bianca real.
 1507855381	Então você tem seguido esse cara?
-1501963814	A última vez que soubemos ele estava indo para New Orleans.
+1501963814	A última vez que soubemos ele estava indo para Nova Orleans.
 192433283	Eu o vi. Ele trabalha para a Companhia DeVitt.
 1428101056	Mas não sei onde ele está. Desculpa.
 2142838867	Vamos perguntar por aí.
@@ -4008,7 +4008,7 @@ Portuguese	Português(BR)
 2056450478	Como eu disse antes, não gosto de favores.
 397429678	Para ser claro: Encontramos o seu Wayne, o que nos deixa quites.
 830699354	Tente se acalmar, Sunshine.
-1652314598	Você está em New Orleans.
+1652314598	Você está em Nova Orleans.
 2140280330	VO TRACK
 146513349	Tanto faz. Alguma ideia brilhante de como encontramos o seu Wayne?
 599156730	Minhas tripas me dizem que é a Companhia DeVitt. Talvez eles tentaram se livrar dele.
@@ -4050,7 +4050,7 @@ Portuguese	Português(BR)
 1526696303	Oh hoh! Querida, você veste essa coisa com a classe.
 1442340726	Obrigado, querida.
 1076888900	Você sabe o que fazer, senhorita Moreau.
-1306739217	Claro que sim. Passei boa parte da minha vida em New Orleans.
+1306739217	Claro que sim. Passei boa parte da minha vida em Nova Orleans.
 642807447	Não consigo imaginar morar em um lugar como este.
 1924424184	Oh, você se acostuma, querida.
 2094816434	Me pergunto como Cooper e Hector estão indo.
@@ -4380,7 +4380,7 @@ Portuguese	Português(BR)
 1109918015	Alguém ligou "O Hawk" não tem a carta.
 1325523223	Elite Conectar o Stun
 1411729772	Você pode atordoar uma Elite conectando-o a outro guarda e matando esse guarda.
-1898258470	Mhh... New Orleans. Uma cidade segundo o meu coração. Algumas pessoas aqui até se lembram do meu nome. Eles fazem bem para não esquecer.
+1898258470	Mhh... Nova Orleans. Uma cidade segundo o meu coração. Algumas pessoas aqui até se lembram do meu nome. Eles fazem bem para não esquecer.
 1756528912	O homem que você vê aqui passa por Louis, a Mão. Ele é um jogador, você vê, e um atrevido. Ele não sabe meu nome, e é por isso que ele tentou me enganar.
 1357129663	Um ato equivocado, mas não algo que meus clientes deixaram escapar. Eles querem uma palavra com ele. Seja gentil e entregue-o ao meu barco no píer 9.
 1589160504	Ah, e não se preocupe em manter o homem vivo. De qualquer forma, não será uma reunião agradável para ele.
@@ -4603,7 +4603,7 @@ Portuguese	Português(BR)
 1084459754	Heh, olha aquela coisa queimar.
 1866910761	Já era hora de alguém derrubar este lugar. Esses malditos podem queimar no inferno.
 1886773831	Vamos voltar para a cidade. Eu tive pântano suficiente por um dia.
-1800566241	Você está certo. De volta a New Orleans.
+1800566241	Você está certo. De volta a Nova Orleans.
 503426413	Encontre Wayne
 672030005	Wayne está trancado em uma daquelas gaiolas. Abra as fechaduras com Doc e encontre-o.
 996230318	Gaiola A
@@ -5528,7 +5528,7 @@ Portuguese	Português(BR)
 1819878868	A próxima música é sobre as pontes que construímos e as pontes que queimamos.
 998399739	Para aqueles que curtem um bom drink. A próxima música é para vocês.
 1561246608	A próxima favorita é sobre cavalgar pelo Mississipi. 
-949126592	Se você já esteve em New Orleans, essa aqui vai te lembrar daquele lugar adorável.
+949126592	Se você já esteve em Nova Orleans, essa aqui vai te lembrar daquele lugar adorável.
 1740787153	Essa é sobre um antigo barco a vapor e sua última viagem pelo ribeiro.
 2045210435	Essa é mais de meu gosto pessoal. É sobre velhos rancores e novos amigos... e traição.
 1524490966	Essa aqui é inspirada em uma antiga canção de mineradores de ouro.
@@ -5831,7 +5831,7 @@ Portuguese	Português(BR)
 1469160685	Nós conseguimos mesmo. Pegamos o cretino.
 1040973513	Seu tio ficaria orgulhoso.
 1370671344	É gentileza sua.
-763470705	Sabe… lá em New Orleans...
+763470705	Sabe… lá em Nova Orleans...
 2069859642	Está tudo bem.
 1507501123	Você fez o que tinha que fazer...
 264764159	Tá bom.
@@ -5941,7 +5941,7 @@ Portuguese	Português(BR)
 1722620505	Se tomar, ela será uma mulher ocupada.
 2997346	Frank tem certeza que esses caras vão aparecer.
 747700383	Eles não vão passar por aqui, pode ter certeza.
-1787464558	Quem são esses caras mesmo? Você sabe o que fizeram em New Orleans?
+1787464558	Quem são esses caras mesmo? Você sabe o que fizeram em Nova Orleans?
 608422099	Vamos falar da mulher de novo.
 1517725670	Fiquem atentos. Eles podem vir por aqui. 
 1294525673	Frank disse que eles são uns malditos sorrateiros. Fiquem preparados.
@@ -5971,7 +5971,7 @@ Portuguese	Português(BR)
 1233534215	Melhor olhar por onde pisa então.
 452671297	Já ouvi todo tipo de boatos sobre esses caras.
 519557456	Tipo o que?
-251265714	Que eles acabaram com os negócios de DeVitt em Flagstone e New Orleans.
+251265714	Que eles acabaram com os negócios de DeVitt em Flagstone e Nova Orleans.
 30008912	Foda-se o DeVitt. Se vierem aqui, eles vão ter que lidar com a gangue de Frank.
 916158040	Eu estou ficando nervoso.
 1873753470	Dá pra você ficar calmo?
@@ -6220,7 +6220,7 @@ Portuguese	Português(BR)
 644137467	Malditos colocam pessoas em jaulas.
 1760990193	Terceira emboscada que encontro neste mês.
 2103844227	Não estamos salvando aquele barco, isso é certo.
-1546414395	Lá vai o nosso passeio para New Orleans.
+1546414395	Lá vai o nosso passeio para Nova Orleans.
 1323253740	Este lugar é um labirinto.
 1954104332	Eu odeio o pântano. Muitas cobras.
 2125316927	Então, esse é o Ninho da Rainha, não é?
@@ -6459,7 +6459,7 @@ Portuguese	Português(BR)
 679122831	Qual é o problema... 
 1524744942	Que você?
 364562200	Não faça isso.
-147418805	Vá para New Orleans...
+147418805	Vá para Nova Orleans...
 1062063506	Outro...
 852077701	Não estrague tudo...
 1353908759	Esteja lá amanhã...
@@ -7492,7 +7492,7 @@ Portuguese	Português(BR)
 1903070920	Deveríamos ensinar a esses caras algumas maneiras.
 54106666	Temos tempo para um passeio?
 1853543106	Que pena que estamos aqui a negócios.
-966809227	New Orleans. Assim como as histórias da minha mãe.
+966809227	Nova Orleans. Assim como as histórias da minha mãe.
 1156428242	Eu já amo esse lugar.
 1513200660	Esta chuva... Me lembra de casa.
 461790017	Temos um compromisso com o Frank.
@@ -8100,8 +8100,8 @@ Portuguese	Português(BR)
 1260220584	Somos todos amigos aqui, certo?
 1801040190	Escravos. Isso parece familiar?
 727216055	Ninguém vai ser colocado em uma gaiola.
-2123964952	Depois disso, volte a New Orleans.
-298129523	Nada como New Orleans à noite.
+2123964952	Depois disso, volte a Nova Orleans.
+298129523	Nada como Nova Orleans à noite.
 391591642	Eu sei o que fazer.
 626070730	Todo lugar tem seus segredos.
 639297125	DeVitt assumiu mais da metade do trimestre.
@@ -9402,7 +9402,7 @@ Portuguese	Português(BR)
 1212097843	Ele está pensando em alguma coisa.
 2050328114	O que há com os novos caras?
 1247060918	Frank disse que haveria problemas.
-460043815	Você ouviu falar de New Orleans?
+460043815	Você ouviu falar de Nova Orleans?
 1765158267	Não.
 1082462987	Você acha que eles virão por aqui?
 85149765	DeVitt com certeza pensa assim.
@@ -10269,7 +10269,7 @@ Portuguese	Português(BR)
 1084552811	Ele está pensando em alguma coisa.
 233433875	O que há com os novos caras?
 1307966936	Frank disse que eles poderiam ser um problema.
-1487915946	Você ouviu algo sobre New Orleans?
+1487915946	Você ouviu algo sobre Nova Orleans?
 1601427539	Eu ouço todo tipo de coisa ultimamente.
 692845507	Você acha que eles virão por aqui?
 286779195	DeVitt certamente pensa que sim.
@@ -11116,7 +11116,7 @@ Portuguese	Português(BR)
 32783462	Ele está pensando em alguma coisa.
 1140526318	O que há com os novos caras?
 122221149	Frank disse que eles poderiam ser um problema.
-1616212481	Você ouviu falar de New Orleans?
+1616212481	Você ouviu falar de Nova Orleans?
 1843123998	Eu ouço todo tipo de coisa.
 879105841	Você acha que eles virão por aqui?
 1236675024	DeVitt tem certeza.
@@ -12000,7 +12000,7 @@ Portuguese	Português(BR)
 1965962487	Ele está pensando em alguma coisa.
 53168163	O que há com os novos caras?
 108571901	Frank disse que eles poderiam ser um problema.
-109506602	Você escutou sobre New Orleans?
+109506602	Você escutou sobre Nova Orleans?
 1073579370	Eu escuto todo tipo de coisa ultimamente.
 1701757314	Você acha que eles passarão por aqui?
 730942422	DeVitt certamente acha que sim.
@@ -12866,7 +12866,7 @@ Portuguese	Português(BR)
 607631772	Ele é apenas um idiota.
 1356180627	O que há com os novos caras?
 1043070066	Frank disse que eles podem ser um problema.
-39554420	Você já ouviu falar sobre New Orleans?
+39554420	Você já ouviu falar sobre Nova Orleans?
 2139639107	Eu ouço todo tipo de merda ultimamente.
 165938375	Você acha que eles virão por aqui?
 1378046344	DeVitt com certeza pensa assim.
@@ -13763,7 +13763,7 @@ Portuguese	Português(BR)
 1910622701	Ele está pensando em alguma coisa.
 1939765259	O que há com os novos caras?
 1837604258	Eles parecem que darão trabalho.
-1159826515	Você já ouviu falar sobre New Orleans?
+1159826515	Você já ouviu falar sobre Nova Orleans?
 115889478	Eu ouço todos os tipos de coisas.
 1394351873	Você acha que eles vão passar por aqui?
 726062406	DeVitt pensa que sim.
@@ -14568,7 +14568,7 @@ Portuguese	Português(BR)
 2075295432	Malditos sejam esses estranhos.
 1921866497	Terceira captura este mês.
 1327397898	Heh, eu gosto da garota.
-776336185	Ah, New Orleans.
+776336185	Ah, Nova Orleans.
 797864828	Eu amo a cidade à noite.
 1639378646	Eu quero sair daqui.
 1967487301	Você não pode fazer isso comigo.
@@ -15048,7 +15048,7 @@ Portuguese	Português(BR)
 1005387535	Aqueles estranhos Malditos.
 456942412	Terceira captura este mês.
 257248617	Eu gosto da garota.
-513018954	Ah, New Orleans.
+513018954	Ah, Nova Orleans.
 1726806938	Tenho que amar a cidade à noite.
 874532731	Eu tenho que sair daqui.
 1649831488	Você não pode fazer isso comigo.
@@ -15530,7 +15530,7 @@ Portuguese	Português(BR)
 298519570	Esses estranhos malditos.
 978720618	Estamos com sorte. Terceira captura este mês.
 1865469161	Ofereceram um bom preço pela menina.
-1164868044	Noite movimentada em New Orleans.
+1164868044	Noite movimentada em Nova Orleans.
 1827810284	Que adorável cidade à noite.
 1707018182	Eu preciso sair daqui.
 291656638	Isso deve ser um erro.
@@ -16011,7 +16011,7 @@ Portuguese	Português(BR)
 1229775573	Aqueles malditos estranhos.
 1786729789	Estamos com sorte. Terceira captura este mês.
 658494238	A menina vai buscar um bom preço.
-1290257057	Noite movimentada em New Orleans.
+1290257057	Noite movimentada em Nova Orleans.
 1184606581	Amei a cidade à noite.
 1097770410	Eu preciso sair daqui.
 1160507109	Isto é um erro.
@@ -16272,12 +16272,12 @@ Portuguese	Português(BR)
 555230222	Você pode pegar e soltar a dinamite do barril de dinamite.
 1749127563	THQ NORDIC APRESENTA
 688311701	UM JOGO DA MIMIMI
-196965312	MONTANHAS ROCHOSAS – BYERS PASS, COLORADO
+196965312	MONTANHAS ROCHOSAS – VALE BYERS, COLORADO
 2035300658	Alguns anos depois...
 678734013	Mais tarde naquele dia – Flagstone Saloon, Colorado
 1104443749	Alguns dias depois
 1382634260	CAPÍTULO I – O MÉDICO E A NOIVA
-24572610	A manhã seguinte – Prefeito Higgins' Estate, Colorado
+24572610	A manhã seguinte – Propriedade do Prefeito Higgins, Colorado
 1815180464	A manhã do seu grande dia.
 13709330	RANCHO DE O'HARA
 116573738	Mais tarde no mesmo dia
@@ -16288,7 +16288,7 @@ Portuguese	Português(BR)
 1767019463	Chave mestra
 740760431	Esta empregada carrega uma chave mestra nela. Kate pode cortá-la.
 834792124	CAPÍTULO II - O OFICIAL E A BRUXA
-984401475	NÃO LONGE DE NEW ORLEANS - RIO MISSISSIPPI
+984401475	NÃO LONGE DE Nova Orleans - RIO MISSISSIPPI
 740638988	Alguns dias depois
 400429742	CAPÍTULO III - A ARMADILHA E O garoto
 681903459	Desperados III
@@ -16477,8 +16477,8 @@ Portuguese	Português(BR)
 2094260086	Caminhando ao longo da costa, você encontra uma velha garrafa de uísque meio enterrada na areia. Dentro há um pedaço de papel molhado, marcado com o selo do Barão./n/n “Nas margens do Mississippi, você pode encontrar muitas coisas. Escravos, emboscadas, novos aliado... E se desta vez eu fizer um novo desafio para você?/n/nVocê olha em sua volta procurando alguém que possa ter colocado a garrafa, mas não vê ninguém.
 1982537406	Mais uma vez, você se encontra no meio do nada, nas margens do Mississippi. Em seu último desafio, o Barão forneceu a Hector duas novas armadilhas de ursos e encarregou você de matar um grupo de alvos com elas.
 343104554	Servido a frio
-478081862	Você mal terminou sua refeição quando o garçom lhe traz a conta e sai. Ao abrir a pasta de couro, você descobre o selo do Barão gravado dentro dela, junto com uma carta./n/nEspero que você goste da culinária local. New Orleans tem muitos sabores para descobrir. Que tal um pequeno desafio depois de uma refeição saudável? Não se preocupe, convite da casa./n/nVocê espera muito tempo para o garçom voltar, mas ele não aparece novamente.
-1933087629	Sua tão esperada visita a New Orleans é interrompida quando o Barão chega com um novo desafio para você. Ele quer que você remova um ex-parceiro do lotado mercado e o leve, vivo ou morto, para o barco a vapor particular do Barão no Pier 9.
+478081862	Você mal terminou sua refeição quando o garçom lhe traz a conta e sai. Ao abrir a pasta de couro, você descobre o selo do Barão gravado dentro dela, junto com uma carta./n/nEspero que você goste da culinária local. Nova Orleans tem muitos sabores para descobrir. Que tal um pequeno desafio depois de uma refeição saudável? Não se preocupe, convite da casa./n/nVocê espera muito tempo para o garçom voltar, mas ele não aparece novamente.
+1933087629	Sua tão esperada visita a Nova Orleans é interrompida quando o Barão chega com um novo desafio para você. Ele quer que você remova um ex-parceiro do lotado mercado e o leve, vivo ou morto, para o barco a vapor particular do Barão no Pier 9.
 530958809	Aviso de Atualização
 1025484101	Vamos lançar uma atualização em breve. Os jogos salvos no meio da missão antes do dia da atualização ficarão obsoletos. O progresso total do jogo não será afetado, por isso recomendamos que você termine a missão atual antes do dia da atualização.
 409216633	Vamos lançar uma atualização em breve. Os jogos salvos no meio da missão antes do dia da atualização ficarão obsoletos e deverão ser convertidos para a versão mais recente. O progresso total do jogo não será afetado, por isso recomendamos que você termine a missão atual antes do dia da atualização.
@@ -16679,7 +16679,7 @@ Portuguese	Português(BR)
 855286556	Caixa de munição D
 1266293286	Cortesia dos meus clientes.
 1903450712	Ah, minha querida, doce Isabelle. Que bom tê-la de volta ao meu estabelecimento. E tão longe de casa. Vamos aproveitar ao máximo, certo?
-379908304	Como você pode ver, este trem está prestes a ser roubado por bandidos. Me disseram que Acontece o tempo todo. É uma pena.
+379908304	Como você pode ver, este trem está prestes a ser roubado por bandidos. Me disseram que acontece o tempo todo. É uma pena.
 1076275563	Meus clientes querem que você mate cada um deles sem despertar o alarme. Você sabe que não deve decepcioná-los, não sabe?
 253701574	Boa sorte, Isabelle. E lembre-se: meus clientes estão assistindo.
 958676168	Kate e Trapper têm apenas distrações e disfarce.
@@ -16693,13 +16693,13 @@ Portuguese	Português(BR)
 835748375	Mate ele.
 1312839292	Espera de Elite
 1490647133	É possível matar com três tiros de rifle sozinho. A espera de recarga é maior que a recarga de Doc.
-1340780470	NEW ORLEANS – ISOLAMENTO DA COMPANHIA DEVITT
+1340780470	Nova Orleans – ISOLAMENTO DA COMPANHIA DEVITT
 1931549038	Um cheiro de algas marinhas envolve o corpo inchado. Ao procurar nos bolsos, você encontra uma pequena estatueta. Uma exibição perturbadora de uma criatura estrangeira, tentáculos ao redor de sua boca aberta. 
-884720503	Algo inexplicável aconteceu em New Orleans hoje à noite. Três assassinatos foram cometidos, exatamente quando o relógio bateu 6h.
+884720503	Algo inexplicável aconteceu em Nova Orleans hoje à noite. Três assassinatos foram cometidos, exatamente quando o relógio bateu 6h.
 9708345	A primeira vítima: um capitão que queria escapar de seu destino. Seu navio enferrujado era a única coisa que o mantinha à tona. Abaixo dele, a escuridão do rio. E dentro dele uma escuridão ainda maior. 
-1450293716	Acabou-se. O açougueiro está morto diante de você, a chama avassaladora dentro dele é extinta. Sua alma está além da redenção, por enquanto New Orleans resistiu à tempestade. Bom trabalho.
+1450293716	Acabou-se. O açougueiro está morto diante de você, a chama avassaladora dentro dele é extinta. Sua alma está além da redenção, por enquanto Nova Orleans resistiu à tempestade. Bom trabalho.
 526570151	Investigar cenas de crime
-2089925091	O fedor da morte paira sobre New Orleans. Três vítimas, três cenas de crime horríveis. Investigue-os.
+2089925091	O fedor da morte paira sobre Nova Orleans. Três vítimas, três cenas de crime horríveis. Investigue-os.
 190779572	Mate o assassino
 888392974	Depois de unificar os artefatos, ele apareceu. Cercado por um rebanho de bestas infames rondando as ruas. Mate-o, termine este pesadelo.
 577617173	As profundidades
@@ -16720,8 +16720,8 @@ Portuguese	Português(BR)
 1262534177	À medida que você procura nos bolsos do cadáver, o cacarejo das galinhas se torna cada vez mais alto. Ocasionalmente, elas bicam a ferida aberta do cadáver e devoram sua carne. 
 2036902556	Ao abrir o frango, você encontra uma pequena moeda. Está coberto de sangue e tripas, mas parece estar brilhando como um sol radiante em miniatura. Você quase pode ouvi-lo zumbindo enquanto o segura.
 772586931	Ao entrar na loja, o aroma refrescante de diferentes especiarias entra em sua cabeça. Instantaneamente, você sabe onde procurar. Você abre um pequeno aparador no canto mais escuro da sala.
-1232845740	Quando você coloca o terceiro artefato no bolso, um arrepio aterrador percorre seu corpo. Sua visão começa a embaçar quando você tenta manter o equilíbrio. Algo em New Orleans... mudou.   
-1103300527	No dia seguinte - Bayous de New Orleans, Louisiana
+1232845740	Quando você coloca o terceiro artefato no bolso, um arrepio aterrador percorre seu corpo. Sua visão começa a embaçar quando você tenta manter o equilíbrio. Algo em Nova Orleans... mudou.   
+1103300527	No dia seguinte - Bayous de Nova Orleans, Louisiana
 2086026573	Você fez isso!
 114163874	MINA DE OURO DEVITT – EM ALGUM LUGAR EM NEW MEXICO
 1000891151	Aparentemente, ficamos sem oque fazer. Bem feito. Uma exibição elegante de humor moderno. Meus clientes estão satisfeitos.
@@ -16785,10 +16785,10 @@ Portuguese	Português(BR)
 908928645	Disfarce
 1915489141	Um dos alvos tem um disfarce para Kate.
 424335212	CASA DEVITT – PERTO DA FRONTEIRA MEXICANA
-1268195084	ÚLTIMA PARADA ANTES NEW ORLEANS – BATON ROUGE
-1991332465	NEW ORLEANS – ARMAZÉM DEVITT
-853251353	Na tarde do mesmo dia – New Orleans French Quarter, Louisiana
-1092576883	De manhã cedo – New Orleans French Quarter, Louisiana
+1268195084	ÚLTIMA PARADA ANTES Nova Orleans – BATON ROUGE
+1991332465	Nova Orleans – ARMAZÉM DEVITT
+853251353	Na tarde do mesmo dia – Nova Orleans French Quarter, Louisiana
+1092576883	De manhã cedo – Nova Orleans French Quarter, Louisiana
 1818463186	Mais tarde – Antiga estação de correios, New Mexico
 1079064569	Algumas horas depois – Antiga estação de correios, New Mexico
 792045766	Soltar dinheiro
@@ -16848,8 +16848,8 @@ Portuguese	Português(BR)
 1416198937	Novas missões de desafio foram adicionadas. Você vai responder ao convite do barão?
 1184618820	Novas missões de desafio foram adicionadas. Progrida ainda mais na história para desbloqueá-los.
 522358041	Exército de uma mulher
-495027837	Isabelle está comprando suprimentos em uma loja de fitoterapeutas, quando descobre um envelope lacrado nas prateleiras. O nome dela está escrito./n/n"Minha querida Isabelle. Faz um tempo desde que trabalhamos juntos pela última vez. Meus clientes têm uma tarefa muito simples para você. É melhor não deixá-los esperando. Quando o dono volta da sala dos fundos com as ervas que ela havia pedido, Isabelle já saiu pela porta.
-394270854	O Barão convocou Isabelle para Byers para uma demonstração especial. Outro trem está sendo atacado por bandidos, e a tarefa de Isabelle é eliminar todos eles. Cada um. Simples assim.
+495027837	Isabelle está comprando suprimentos em uma loja de fitoterapeutas, quando descobre um envelope lacrado nas prateleiras. O nome dela está escrito./n/n"Minha querida Isabelle. Faz um tempo desde que trabalhamos juntos pela última vez. Meus clientes têm uma tarefa muito simples para você. É melhor não deixá-los esperando. Quando o dono volta da sala dos fundos com as ervas que ela havia pedido, Isabelle já havia saindo pela porta.
+394270854	O Barão convocou Isabelle para Vale Byers para uma demonstração especial. Outro trem está sendo atacado por bandidos, e a tarefa de Isabelle é eliminar todos eles. Cada um. Simples assim.
 1607897920	Missão do Voodoo sem titulo
 1032735083	Você está visitando uma biblioteca pública em busca de novo material de leitura. Você pega um livro aleatório da seção de romance e o abre. Lá dentro, você encontra uma carta com um selo que você conhece: vejo que você está interessado em amor verdadeiro. Sua presença é urgentemente necessária no casamento do prefeito Higgins. Não se atrase./n/nVocê pergunta se alguém pegou emprestado o livro recentemente, mas eles respondem que o livro chegou ontem.
 1482246535	Você entrou furtivamente na propriedade do prefeito Higgins, onde Kate está prestes a se casar contra sua vontade. O Barão elaborou uma lista de tarefas, que você deverá concluir para impedir o casamento.
@@ -16860,11 +16860,11 @@ Portuguese	Português(BR)
 928595687	A gata Stella, está seguindo Isabelle por uma movimentada rua do mercado. De repente, ela percebe um cachorro e uma galinha de pé um ao lado do outro, observando-a de longe./n/nEla para de seguir e olha para eles. Eles deram os sinais, mensagens secretas de paz e urgência, entregues em odor e linguagem corporal. Algo deu errado. Eles precisam dela./n/nQuando Isabelle percebe que Stella se foi, ela já está a caminho do pântano.
 1183930706	A gata Stella e seus aliados, foram ao Ninho da Rainha para resgatar Doc McCoy. Eles devem garantir uma chave para sua gaiola, libertá-lo e acompanhá-lo até um cavalo próximo para que ele possa escapar. Vamos torcer para que ele colabore com seus... socorristas incomuns.
 1378373304	O diabo está nos detalhes
-1091804704	Você acorda de repente, seus lençóis úmidos de suor. Fortes chuvas contra a janela do seu quarto de hotel. Sua cabeça está latejando. Algo está errado./n/nUma sombra está em um banquinho ao lado da porta. Um homem, vestido com um terno fino, suas cores profundas silenciadas pela falta de luz, quase indistinguíveis da escuridão de sua pele. Você se lembra dele sorrindo da última vez que se conheceu. Ele não está sorrindo agora./n/n"Algo ruim chegou a New Orleans, amigo ", você ouve sua voz esfumaçada dizer. "Meus clientes não podem interferir, e nem eu. Contamos com sua experiência."/n/nSeus olhos são incrivelmente brilhantes. Você tenta encontrá-los e consegue por alguns breves segundos, mas depois desvia o olhar. Quando seus olhos voltam para o banquinho, o homem se foi.
-383410664	Três pessoas foram assassinadas em New Orleans hoje à noite. Algo de outro mundo está acontecendo aqui. Investigue os assassinatos, encontre o culpado e expulse-os desta terra.
+1091804704	Você acorda de repente, seus lençóis úmidos de suor. Fortes chuvas contra a janela do seu quarto de hotel. Sua cabeça está latejando. Algo está errado./n/nUma sombra está em um banquinho ao lado da porta. Um homem, vestido com um terno fino, suas cores profundas silenciadas pela falta de luz, quase indistinguíveis da escuridão de sua pele. Você se lembra dele sorrindo da última vez que se conheceu. Ele não está sorrindo agora./n/n"Algo ruim chegou a Nova Orleans, amigo ", você ouve sua voz esfumaçada dizer. "Meus clientes não podem interferir, e nem eu. Contamos com sua experiência."/n/nSeus olhos são incrivelmente brilhantes. Você tenta encontrá-los e consegue por alguns breves segundos, mas depois desvia o olhar. Quando seus olhos voltam para o banquinho, o homem se foi.
+383410664	Três pessoas foram assassinadas em Nova Orleans hoje à noite. Algo de outro mundo está acontecendo aqui. Investigue os assassinatos, encontre o culpado e expulse-os desta terra.
 1348258499	Contato!
 977386753	Você tem cavalgado pelo deserto há dias. Suas roupas estão empoeiradas, seu estômago roncando. O cozinheiro da estação de correios serve um grande prato de feijões e pão. Vem uma carta junto, com o selo do Barão./n/n "Você fez uma boa jornada, amigo. Fico contente em vê-lo aqui inteiro. Que tal um pouco de diversão enquanto você está aqui. Apenas um pouco de diversão inofensiva. Acho que você  mereceu."/n/nQuando você pergunta ao cozinheiro quem trouxe esta carta, ele apenas dá uma risada grunhenta antes deixar você com seu feijões.
-535138508	O Barão enviou você de volta à mina de ouro de DeVitt para o seu mais recente desafio. Um dispositivo especial foi preparado para você, uma vagoneta que pode se transformar em uma metralhadora. Perplexo, certamente, mas isso nunca parou o Barão. Ele encarregou você de limpar o mapa dos inimigos. Deve ser divertido, sim?
+535138508	O Barão enviou você de volta à mina de ouro DeVitt para o seu mais recente desafio. Um dispositivo especial foi preparado para você, uma vagoneta que pode se transformar em uma metralhadora. Perplexo, certamente, mas isso nunca parou o Barão. Ele encarregou você de limpar o mapa dos inimigos. Deve ser divertido, sim?
 171688385	Por mais algumas balas
 658505006	Você anda por um cemitério no meio do nada. O vento da pradaria arrasta a fumaça do seu cigarro. Um dos túmulos está aberto e há uma carta para você no caixão. Lembrando memórias antigas? Que tal um pequeno desafio nesse meio tempo. Vamos ver que tipo de pessoa você é.”/n/nVocê levanta os olhos da carta e lê o nome da sepultura. Como você esperava, é seu. Você sorri, apaga o cigarro na lápide e joga a bunda no caixão.
 1844062476	O mundo está dividido em duas categorias: aqueles com um revólver carregado e aqueles que cavam. Vamos ver a qual você pertence. Mate todos no mapa.
