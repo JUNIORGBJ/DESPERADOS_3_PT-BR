@@ -3526,9 +3526,9 @@ Portuguese	Português(BR)
 174109963	Agora volte ao seu posto.
 1573593877	Bruxas do pântano...
 2026062108	Então? Você vai lançar um feitiço em mim?
-2060987128	Como eu pensava.
+2060987128	Como eu pensei.
 1824889548	VO TRACK
-887394692	Merda. Vou envelhecer. Aquele maldito gato até me abandonou.
+887394692	Merda. Vou envelhecer. Aquele maldito gato me deixou aqui.
 515828510	Tudo bem, Isabelle, concentre-se. Você precisa voltar para Wayne agora.
 1395829384	Vamos ver...
 1738446069	Os homens de DeVitt estão por toda parte. É melhor fazer isso com calma.
