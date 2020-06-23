@@ -885,34 +885,34 @@ Portuguese	Português(BR)
 622275391	Tendo finalmente chegado a Nova Orleans, a turma decide se separar./n/nCooper e Hector vão caçar Frank. Enquanto isso, Isabelle quer procurar seu amigo Wayne, que desapareceu sem deixar rasto. Kate e Doc decidem ajudá-la./n/nIsabelle suspeita que algumas pessoas estejam envolvidas no desaparecimento de Wayne. Ela acredita que um deles carrega uma carta de instruções./n/nOs três têm que pôr as mãos nessa carta, esperando que seu conteúdo os leve a Wayne.
 50642152	Ninho da rainha
 876556836	Queime a Rainha
-1811558593	Seguindo os passos do amigo desaparecido de Isabelle, a gangue descobre o Ninho da Rainha, uma base secreta nos pântanos de Nova Orleans 
+1811558593	Seguindo os passos do amigo desaparecido de Isabelle, a turma descobre o Ninho da Rainha, uma base secreta nos pântanos de Nova Orleans 
 28351309	Os pântanos de Nova Orleans são o lar de tantos perigos. Jacarés, areia movediça, doenças infecciosas e, claro, outros homens prontos para pegá-lo./n/nSeguindo a orientação de Isabelle, a gangue se aventura nos pântanos traiçoeiros para encontrar o Ninho da rainha e resgatar o amigo desaparecido de Isabelle, Wayne./n/nA viagem é longa e chata. A turma se move lentamente para não atrair atenção indesejada./n/nQuando Isabelle se sente próxima, eles se separam para se aproximar do Ninho por dois lados.
 1656931729	Enquanto Kate fica em Nova Orleans para ficar de olho em Frank, Isabelle e os outros vão para os pântanos para salvar Wayne./n/nDepois de uma longa jornada, eles encontram um velho esconderijo de escravos chamado "Ninho da Rainha", onde Wayne é mantido em cativeiro./n/nEles decidem separar e atacar a base de dois lados, e depois se encontram novamente dentro./n/nEles têm que encontrar Wayne, libertá-lo, colocar fogo na base e escapar.
 1584369694	Porto de/nNova Orleans
 1600676289	Sujeira e Sangue
-1884452242	De volta a Nova Orleans, a gangue encontra a cidade em um estado muito diferente do que antes. Independentemente disso, Cooper permanece determinado em sua missão.
-1265907159	Com o marechal Wayne a reboque, a gangue volta para Nova Orleans enquanto o Ninho da Rainha arde atrás deles./n/nNo caminho, Cooper fica muito quieto. Ele sabe o que o espera em Nova Orleans. Ele estará pronto desta vez? Ele terá que estar. /n/ no entanto, ao voltar, eles descobrem que as circunstâncias mudaram para pior. Enquanto Doc está procurando Kate, o marechal Wayne quer discutir o próximo passo.
-265401901	De volta a Nova Orleans, a gangue se reúne com Kate, que revela que Frank está atualmente no píer 9, nos porto./n/nDespite os protestos de Cooper, Kate se junta a ele e Hector em busca de Frank. Os três vão para o porto./n/nCooper quer que todos se encontrem no portão do Pier 9. Depois disso, a única coisa que resta a fazer é terminar o que ele veio aqui.
+1884452242	De volta a Nova Orleans, a turma encontra a cidade em um estado muito diferente do que antes. Independentemente disso, Cooper permanece determinado em sua missão.
+1265907159	Com o delegado Wayne a reboque, a turma volta para Nova Orleans enquanto o Ninho da Rainha arde atrás deles./n/nNo caminho, Cooper fica muito quieto. Ele sabe o que o espera em Nova Orleans. Ele estará pronto desta vez? Ele terá que estar. /n/ no entanto, ao voltar, eles descobrem que as circunstâncias mudaram para pior. Enquanto Doc está procurando Kate, o delegado Wayne quer discutir o próximo passo.
+265401901	De volta a Nova Orleans, a turma se reúne com Kate, que revela que Frank está atualmente no píer 9, nos porto./n/nDespite os protestos de Cooper, Kate se junta a ele e Hector em busca de Frank. Os três vão para o porto./n/nCooper quer que todos se encontrem no portão do Pier 9. Depois disso, a única coisa que resta a fazer é terminar o que ele veio aqui.
 1032927492	Mina de ouro DeVitt
 739256700	Um carrinho cheio de pólvora
 679755953	Mais uma vez, Cooper perdeu seu duelo contra Frank. Então, como agora, outros devem pagar o preço pelo seu fracasso. Ainda resta alguma esperança?
 1630898247	Vincent DeVitt tem os dedos em muitas tortas diferentes. Um império ferroviário próspero, o lucrativo comércio de condenados e, por último mas não menos importante, o negócio de mineração de ouro./n/nDebaixo do sol quente do Novo México, os mineiros extraem metais preciosos da terra, sob os olhos sempre presentes dos guardas da Companhia DeVitt./n/nEntre os trabalhadores, três rostos familiares se escondem em uma pilha de pedras. Seus corpos estão cansados, sua disposição é de galinhas./n/nSuas mentes, porém, só conhecem um objetivo: escapar.
-1624871096	Depois de serem presos na mina de ouro DeVitt, a gangue elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem uma vagoneta cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com a vagoneta e escape.
+1624871096	Depois de serem presos na mina de ouro DeVitt, a turma elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem uma vagoneta cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com a vagoneta e escape.
 2029047628	Las Piedras
 796251795	O salário da Dor
 246702833	Encalhada no meio do nada, a única chance de sobrevivência da quadrilha é uma estação de trem nas proximidades.
-327079711	Tendo escapado recentemente da mina de ouro DeVitt, a gangue se vê agredida, machucada e com pouco moral./n/nA partida de Doc pesa sobre todos, e o fato de ele ter levado o único cavalo disponível com ele também não ajuda as coisas./n/nIndependentemente disso, eles precisam ir para a cidade mais próxima com uma estação de trem, progredindo lentamente devido à perna machucada de Cooper./n/nQuando eles chegam, eles se abrigam em uma casa em ruínas nos arredores da cidade.
-166306906	Após a fuga da mina de DeVitt, Doc está farto da situação atual e decide continuar por conta própria. Os outros vão para a estação ferroviária mais próxima. Na chegada, eles encontram o lugar ocupado pelos homens do DeVitt. Além disso, parece que nenhum dos trens realmente para na estação./n/nEnquanto Isabelle cura a perna de Cooper, Kate e Hector procuram uma maneira de parar o trem./n/nO plano deles é bloquear os trilhos e depois pegar carona uma carona no próximo trem para que todos possam ir para casa.
+327079711	Tendo escapado recentemente da mina de ouro DeVitt, a turma se vê agredida, machucada e com pouco moral./n/nA partida de Doc pesa sobre todos, e o fato de ele ter levado o único cavalo disponível com ele também não ajuda as coisas./n/nIndependentemente disso, eles precisam ir para a cidade mais próxima com uma estação de trem, progredindo lentamente devido à perna machucada de Cooper./n/nQuando eles chegam, eles se abrigam em uma casa em ruínas nos arredores da cidade.
+166306906	Após a fuga da mina de DeVitt, Doc está farto da situação atual e decide continuar por conta própria. Os outros vão para a estação ferroviária mais próxima. Na chegada, eles encontram o lugar ocupado pelos homens do DeVitt. Além disso, parece que nenhum dos trens realmente para na estação./n/nEnquanto Isabelle cura a perna de Cooper, Kate e Hector procuram uma maneira de parar o trem./n/nO plano deles é bloquear os trilhos e depois pegar carona no próximo trem para que todos possam ir para casa.
 609111573	Casa DeVitt
 2006494126	Capitão da Indústria
-1413452906	Um jantar extravagante está sendo realizado no luxuoso rancho de DeVitt. No entanto, a noite está prestes a ser descarrilada por alguns convidados inesperados.
-468576441	Tendo escapado com segurança para o trem, a turma recebe um descanso bem merecido./n/nEnquanto Hector e Isabelle dormem exaustos, Cooper e Kate conversam por um longo tempo. As coisas ainda estão tensas, mas os primeiros passos foram dados./n/nDe volta à civilização, a gangue entra em contato com o marechal Wayne, que fica emocionado ao saber que eles ainda estão vivos. Juntos, eles formam um plano para tirar DeVitt e Frank de uma vez por todas./n/nPrimeiro na lista é DeVitt, que está prestes a sediar um jantar exclusivo em sua luxuosa propriedade.
-861610767	A gangue escapa das garras de DeVitt e faz contato com o marechal Wayne. Juntos, eles formam um plano para tirar DeVitt e Frank de fora./n/nDeVitt é o primeiro da lista. Com a ajuda de Wayne, eles garantem convites para o jantar exclusivo de DeVitt./n/nO plano deles: separar DeVitt dos convidados, sequestrá-lo e entregá-lo ao marechal.
+1413452906	Uma estranha festa está acontecendo na vila de DeVitt, mas a noite está prestes a ser arruinada por alguns convidados inesperados.
+468576441	Depois de fugir a bordo do trem, os membros da gangue finalmente conseguem descansar/n/nEnquanto Hector e Isabelle dormem profundamente, Cooper e Kate conversam. As coisas ainda estão tensas, mas os primeiros passos estão começando a ser tomados./n/nDe volta à civilização, a turma entra em contato com o delegado Wayne, que fica emocionado ao saber que eles ainda estão vivos. Juntos, eles estudam um plano para afundar DeVitt e Frank de uma vez por todas./n/nO primeiro da lista é DeVitt, que está planejando uma festa exclusiva em sua luxuosa propriedade.
+861610767	A turma consegue escapar das garras de DeVitt e contatar o delegado Wayne. Juntos, eles estudam um plano para eliminar DeVitt e Frank/n/nDeVitt é o primeiro da lista. Com a ajuda de Wayne, eles conseguem garantir convites para a festa exclusiva/n/nO plano: separar DeVitt dos convidados, sequestrá-lo e entregá-lo ao delegado.
 1986610452	Cânion do Diabo/n(Capítulo III)
 1882495352	O velho e o Novo
-1671544744	Doc voltou e DeVitt está fora de cena. Isso deixa apenas mais uma coisa para cuidar.
-1827622766	Depois de entregar DeVitt ao marechal, a quadrilha segue para o sul através da fronteira. A jornada é longa e o sol do deserto queima impiedosamente nossos cavaleiros./n/nAinda assim, a turma não se intimida. Cooper lidera, Hector conta histórias selvagens enquanto Kate escuta, e Doc e Isabelle brigam como sempre./n/nJuntos, eles cruzam a fronteira com o México e seguem para o deserto rochoso, em direção ao Cânion do Diabo..
-1141398023	A gangue atravessa a fronteira mexicana e cavalga em direção ao Cânion do Diabo./n/nO velho esconderijo de Frank está cheio de atividades. Cooper tem a sensação de que Frank estará esperando por eles na capela./n/nO plano é simples: encontre-se no portão do cemitério e convide Frank para um confronto final.
+1671544744	Doc voltou, e DeVitt não é mais um problema. Só há uma coisa para consertar.
+1827622766	Depois de entregar DeVitt ao delegado, a turma vai para o sul através da fronteira.. A jornada é longa e o sol do deserto queima impiedosamente nossos viajantes./n/nAinda assim, a turma não se intimida. Cooper lidera, Hector conta histórias selvagens enquanto Kate escuta, e Doc e Isabelle brigam como sempre./n/nJuntos, eles cruzam a fronteira com o México e seguem para o deserto rochoso, em direção ao Cânion do Diabo..
+1141398023	A turma atravessa a fronteira mexicana e cavalga em direção ao Cânion do Diabo./n/nO velho esconderijo do Frank está cheio de gente. Cooper tem a sensação de que Frank estará esperando por eles na capela./n/nO plano é simples: encontrar-se na entrada do cemitério e atrair Frank para o confronto final.
 2017302914	Moeda
 1323949238	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nPressione {0}, e então aperte {1} para jogá-la.
 1838518536	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nSegure {2} aponte e pressione {3} para jogar a <skill>moeda</skill>.
@@ -3493,7 +3493,7 @@ Portuguese	Português(BR)
 62092261	Nada como uma boa caçada para alegrar os espíritos. Meus clientes estão mais entretidos. Muito bem.
 1903982346	Olhe para todos aqueles objetos roubados.
 1740736829	Tudo bem, DeVitt. Vamos ver o que você guarda aqui.
-41497864	Marechal Wayne.
+41497864	Delegado Wayne.
 362786850	Vejo que você está invadindo propriedades particulares.
 1217983166	Que eu saiba, é necessário um mandado de busca para isso.
 2078537816	Não preciso de um mandado para bandidos como você, Frank.
@@ -3502,14 +3502,14 @@ Portuguese	Português(BR)
 1304765288	Pena que não é mais assim que é feito.
 975110150	Eu acho que é a corda em volta do seu pescoço falando.
 606901809	Isso está certo?
-537400045	Ei, DeVitt quer o marechal vivo, lembra?
+537400045	Ei, DeVitt quer o delegado vivo, lembra?
 1017739857	Cale-se.
 633924663	Vamos, Frank, pense no dinheiro.
 898817121	Certo... o dinheiro.
 280696478	Agh!
 636272268	É só isso que importa?
 1788403313	Frank, por favor, eu apenas...
-623899726	Leve o marechal com os outros.
+623899726	Leve o delegado com os outros.
 604011281	Andando...
 635756145	*tosse*
 1027025207	Lembro dos velhos tempos.
@@ -3917,7 +3917,7 @@ Portuguese	Português(BR)
 1119380749	Quem se importa com o Colorado?
 2031131537	Você já viu o Ninho da Rainha?
 2077031686	Nah. É território da companhia. Eles não deixam gente como nós lá.
-937461547	Eu ouvi histórias sobre esse marechal. Ele está atrás da companhia há anos.
+937461547	Eu ouvi histórias sobre esse delegado. Ele está atrás da companhia há anos.
 367154930	Bem, ele vai ver, do interior de uma jaula, heh heh heh.
 2048956823	Muito obrigado, senhorita Moreau. Agora temos uma grande dívida com você.
 938025439	Esse é um ponto de vista.
@@ -4637,8 +4637,8 @@ Portuguese	Português(BR)
 1331179360	Hey Kate. Nossa sunshine te encontrou bem?
 1157283445	Não me diga que você teve alguma dúvida.
 310260247	Você deve ser o Wayne. Kate O'Hara.
-753076254	delegado Wayne, a seu serviço.
-2106651962	delegado?!
+753076254	Delegado Wayne, a seu serviço.
+2106651962	Delegado?!
 26992097	Como você nunca nos contou, Isabelle?
 1868225304	Bem, ele não era um delegado na primeira vez que nos conhecemos.
 524697879	De qualquer forma, eu diria que é melhor começarmos as coisas agora.
@@ -4882,7 +4882,7 @@ Portuguese	Português(BR)
 1128086836	... Então você deve ser o idiota rico.
 822621	Adorável.
 845007003	E quanto aos outros?
-769165645	Quatro capturados. delegado escapou.
+769165645	Quatro capturados. Delegado escapou.
 1814878794	Fugiu?
 872656828	Nós o pegaremos. Não se preocupe, senhor.
 1463726551	Tudo bem, lá vai você então.
@@ -4958,7 +4958,7 @@ Portuguese	Português(BR)
 654581953	Bloqueado. Por que não seria?
 44168461	Eu vou precisar do meu kit de abrir fechadura.
 27612010	Se eles se recusarem a trabalhar, atire em um deles. Sempre há mais por vir.
-539013740	Sim, mas pode haver problemas chegando. Algum marechal enfiou a orelha no chão.
+539013740	Sim, mas pode haver problemas chegando. Algum delegado enfiou a orelha no chão.
 1648501021	Assim? O que a lei vai fazer aqui?
 62545439	Mas se eles encontrassem este lugar?
 895602896	Então nós os colocamos para trabalhar também, hah hah! Agora me dê essa garrafa!
@@ -8564,7 +8564,7 @@ Portuguese	Português(BR)
 1393832655	Certo, onde estávamos...
 771952356	Então, como eu estava dizendo...
 22126072	Voltar ao ponto...
-363767535	Marechal Wayne, ao seu dispor.
+363767535	Delegado Wayne, ao seu dispor.
 1496994253	Receio que eu seja de pouca utilidade agora.
 1228969627	Eu estou ouvindo, filho.
 1927766807	O lugar dele é uma desgraça..
@@ -8838,7 +8838,7 @@ Portuguese	Português(BR)
 1032137676	É o Moreau!
 333117989	Te vejo, garoto!
 408434802	Ei garoto! Venha aqui!
-1867529917	É o marechal!
+1867529917	É o delegado!
 1994364935	Ei! Como você saiu?
 24635553	Algo não está certo... Quem está aí?
 616948554	Espere... Tem alguém atrás de mim?
@@ -11415,7 +11415,7 @@ Portuguese	Português(BR)
 540381285	É Moreau!
 1054660919	Te vejo garoto!
 1163134820	Ei garoto! Venha aqui!
-191715115	É o marechal!
+191715115	É o delegado!
 2144813290	Ei! Como você saiu?
 398764663	Algo não está certo... Quem está aí?
 1861281985	Espera... tem alguém atrás de mim?
@@ -12300,8 +12300,8 @@ Portuguese	Português(BR)
 14896856	É Moreau!
 1572805712	Ei, garoto! Você não deveria estar aqui!
 983666950	Pare onde está, garoto!
-1336641929	Porra! O marechal!
-348504339	O marechal?! Você não estava trancado?!
+1336641929	Porra! O delegado!
+348504339	O delegado?! Você não estava trancado?!
 1122248226	Espere... quem está atrás de mim?
 509959543	Espere... tem alguém atrás de mim?
 952557106	Alguém está por perto. Eu posso sentir isso...
@@ -13954,7 +13954,7 @@ Portuguese	Português(BR)
 1642132927	Seu bandido barato!
 546468416	Você vai se arrepender!
 1433352079	Você deveria ter corrido!
-270675320	O marechal enviou você?!
+270675320	O delegado enviou você?!
 9628966	Você não pode se esconder de mim!
 128851288	Sr. Cowboy!
 1234596221	É o Sr. Cowboy!
@@ -16287,7 +16287,7 @@ Portuguese	Português(BR)
 1348386178	Algumas horas depois
 1767019463	Chave mestra
 740760431	Esta empregada carrega uma chave mestra nela. Kate pode cortá-la.
-834792124	CAPÍTULO II - O OFICIAL E A BRUXA
+834792124	CAPÍTULO II - O DELEGADO E A BRUXA
 984401475	NÃO LONGE DE Nova Orleans - RIO MISSISSIPPI
 740638988	Alguns dias depois
 400429742	CAPÍTULO III - A ARMADILHA E O garoto
