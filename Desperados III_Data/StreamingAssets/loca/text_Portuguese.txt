@@ -3518,25 +3518,25 @@ Portuguese	Português(BR)
 1657864457	Tire isso da minha frente...
 213060420	VO TRACK
 1912159611	Ei Daryll. Olha o que eu achei no mato!
-86365993	Tire suas malditas mãos de mim!
-946623598	Você vai se arrepender disso.
-1341354661	Sim, sim, tanto faz.
-1531361559	Cuidado, Daryll. Talvez ela seja uma dessas bruxas do pântano.
-886565052	Sim, e eu sou a porra do presidente.
+86365993	Tire essas mãos de mim!
+946623598	Você vai se arrepender amargamente.
+1341354661	Sim, sim, claro.
+1531361559	Cuidado, Daryll. Ela pode ser uma bruxa do pântano.
+886565052	Sim, e eu sou o presidente.
 174109963	Agora volte ao seu posto.
 1573593877	Bruxas do pântano...
-2026062108	Que tal isso? Você vai me enfeitiçar?
-2060987128	Eu já imaginava.
+2026062108	Então? Você vai lançar um feitiço em mim?
+2060987128	Como eu pensava.
 1824889548	VO TRACK
-887394692	Merda. Eu devo estar ficando velho. E o maldito gato me deixou pendurado.
-515828510	Tudo bem, Isabelle, foco. Você tem que voltar para Wayne.
-1395829384	Hmm, vamos ver...
-1738446069	Os homens de DeVitt estão por toda parte. Melhor não se apressar.
-2054698991	Não vai doer se familiarizar com o terreno. Esse morrinho parece ser um bom ponto estratégico.
-716578289	Mas primeiro eu tenho que sair dessa jaula.
-927238604	Vamos ver quem vai me ajudar com isso.
-1273773824	Não se preocupe - nós cuidaremos de você em breve, heh heh.
-1997127505	Olhe para você, toda irritada nessa pequena gaiola, hahaha.
+887394692	Merda. Vou envelhecer. Aquele maldito gato até me abandonou.
+515828510	Tudo bem, Isabelle, concentre-se. Você precisa voltar para Wayne agora.
+1395829384	Vamos ver...
+1738446069	Os homens de DeVitt estão por toda parte. É melhor fazer isso com calma.
+2054698991	Uma vista panorâmica nunca dói. Esse cume parece ser um bom ponto estratégico.
+716578289	Mas primeiro tenho que sair dessa jaula.
+927238604	Vamos ver quem pode me ajudar.
+1273773824	Não se preocupe... Nós vamos cuidar de você, hein.
+1997127505	Olhe para você, toda irritada nessa pequena gaiola, ha ha ha.
 1241511868	Vá em frente, bruxa! Ponha uma maldição em mim, se tiver coragem! Hah!
 1488386937	Prepare o barco, Liz.
 438357744	Estou tentando. Preciso consertar esse buraco primeiro.
@@ -3550,7 +3550,7 @@ Portuguese	Português(BR)
 1394711310	Eu tenho que pegar um deles. Isto vai doer.
 49604125	Vamos garota. Você não vai sair daqui por conta própria.
 377166474	Eu preciso de um fantoche. Só tenho que descobrir quem escolher...
-433826434	Peguei vocês. Agora, o que você pode fazer por mim...
+433826434	Aqui. O que você pode fazer por mim...
 799766794	Durma bem. Você não vai se lembrar de nada.
 1965927973	Não fui bem. Precisa tentar novamente.
 1472513839	Merda! Perdeu novamente.
@@ -3559,8 +3559,8 @@ Portuguese	Português(BR)
 1751378118	Estou ficando sem pessoas aqui.
 1497677336	Lá se vai minha última chance. Como diabos eu vou sair agora?
 436142430	E muito obrigado!
-728288178	Eu me pergunto o que mais eu posso fazer...
-963212677	Tudo certo. Agora vamos subir ali no cume...
+728288178	O que mais posso fazer você...
+963212677	Bem. Agora vamos para aquele cume...
 2043091614	Porra, estou esgotada. eu preciso de um estramônio.
 1893654894	Vou me curar.
 2072218224	Vou precisar de mais dardos de veneno se quiser fazer mais bonecos.
@@ -3570,28 +3570,28 @@ Portuguese	Português(BR)
 134414187	Não não não! onde diabos ela está?
 1114252122	Temos que encontrá-la!
 101664155	Espere! Preciso subir ali no cume primeiro.
-1505814395	Um aqui em baixo, outro lá em cima. Eu vou pegar os dois.
+1505814395	Um aqui em baixo, outro lá em cima. Tenho que pegar os dois.
 607767100	Stella! Aí está você!
-1324229316	*meows*
-1340327729	Você tem coragem de me deixar pendurada assim.
+1324229316	*Miau*
+1340327729	Você tinha muito o que fazer, para me deixar assim.
 710285020	*purrs*
-1547392648	Ah ah. Você vai me compensar agora.
-1799290202	Consegui. E agora para sondar o térreo.
+1547392648	Não, não. Agora você vai ter que compensar isso.
+1799290202	Feito, Agora vamos ver onde estamos.
 853332837	Então, vamos ver o que está acontecendo por lá. Parece que eles pegaram um pequeno barco a vapor.
-1708763328	Aquele caubói lá está se segurando por enquanto. Ele ficará sem sorte eventualmente.
-180287954	Ele estava sozinho? Ou ele tinha uma equipe?
-1775302398	Eles estão procurando alguém naquela casa. Aposto que alguém está escondido lá.
-1521339902	O grande parece ter sido capturado recentemente. Com certeza não foi fácil.
-819339280	E eles têm uma menina bonita! Que grupo estranho daquele navio.
-972713066	Esses caras serão vendidos para a companhia se não fizermos algo.
+1708763328	Aquele caubói está se segurando por enquanto. Ele ficará sem sorte eventualmente.
+180287954	Ele estava sozinho? Ou havia mais alguém com ele?
+1775302398	Estão procurando alguém naquela casa. Aposto que alguém está escondido lá.
+1521339902	O grande parece que eles acabaram de pegar. Deve ter sido difícil. Eles não o perdem de vista.
+819339280	Eles têm uma jovem senhorita também! Variedade estranha para um barco.
+972713066	Essas pessoas serão vendidas para a companhia se não fizermos algo.
 2069640301	A companhia vai vendê-los se não fizermos algo.
-1636805222	*meows*
-1856030066	Realmente não importa quem ajudamos primeiro. Mas começar com aquele caubói não seria mal.
-572815002	Quando salvarmos todos, faremos nossa saída.
-2129583524	*meows tiredly*
-597420665	Bem, você faz a sua parte, se quiser um ensopado hoje à noite.
-676580666	*meows enthusiastically*
-462644112	Isso está melhor.
+1636805222	*Miau*
+1856030066	Não importa com quem começamos. Mas talvez seja melhor focar no caubói primeiro.
+572815002	Depois de salvarmos todos, vamos embora.
+2129583524	*Miau Cansada*
+597420665	Faça sua parte se quiser comer hoje à noite.
+676580666	*Miau Animado*
+462644112	Aqui vamos nós.
 956686779	Hrrr, eu odeio gaiolas.
 762618179	Por que todos eles têm tanto medo de mim.
 234061572	Juro que eles atirariam em mim se eu peidasse.
@@ -3865,7 +3865,7 @@ Portuguese	Português(BR)
 764336279	Um gato esperto.
 1811135212	Heh, pequena armadilha de rato.
 2084736654	Coisa fofa.
-1693832557	*meows happily*
+1693832557	*Miau happily*
 880901776	Não a encoraje, isso irá subir à sua cabeça.
 994615414	Você fica longe de mim, gato.
 1709952513	*hisses angrily*
@@ -4969,7 +4969,7 @@ Portuguese	Português(BR)
 1698589942	Vamos ficar em silêncio.
 1138515417	Feito isso. Agora, precisa fazer isso direito.
 320200121	Que bom que você ainda está conosco, querida.
-1859915880	*meows proudly*
+1859915880	*Miau proudly*
 171464383	O grandalhão? Você está me pegando como um tolo?
 1439672168	Maldito fez a viagem com o ombro cheio de chumbo.
 849787582	Isso é besteira.
