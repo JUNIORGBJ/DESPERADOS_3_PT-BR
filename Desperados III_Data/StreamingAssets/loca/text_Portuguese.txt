@@ -789,8 +789,8 @@ Portuguese	Português(BR)
 1715221562	Ganhe a aposta com Hector.
 844798888	Queime {0} guardas em poças de óleo.
 618964374	Não use a Metralhadora.
-678675062	Obtenha a dinamite do campo de tiro.
-1582186343	Obtenha a dinamite da pedreira.
+678675062	Pegue a dinamite do campo de tiro.
+1582186343	Pegue a dinamite da pedreira.
 803215006	Mate {0} guardas com toras rolantes.
 722051751	Mate {0} guardas ao mesmo tempo em uma explosão da pedreira.
 838084772	Mate {0} guardas ao destruir a ponte.
@@ -2832,7 +2832,7 @@ Portuguese	Português(BR)
 2078135170	Isso sim é uma ponte. Será preciso um vagonete cheio de dinamite para derrubá-la.
 1957043161	Não necessariamente.
 1743660643	Existe um ponto fraco. Destrua ele e o resto tombará como um baralho.
-1419916468	Agora já temos um plano, Dr. McCoy. Mas ainda não temos de dinamite.
+1419916468	Agora já temos um plano, Dr. McCoy. Mas ainda não temos dinamite.
 1252686345	Eles devem ter alguns armazenados por aqui em algum lugar.
 359357962	Eu poderia usar um disfarce, e acho que acabei de encontrar um.
 1753537232	Faria sentido haver dinamite naquela cabana na pedreira.
@@ -3935,7 +3935,7 @@ Portuguese	Português(BR)
 712805849	Escape da jaula
 599043079	Isabelle foi colocada em uma jaula. Felizmente, ela tem maneiras de sair de situações como essa.
 804209469	Ir para a posição elevada
-837398733	Vá até lá e obtenha uma visão geral da situação.
+837398733	Vá até lá e Pegue uma visão geral da situação.
 657203406	Liberte o grupo
 1519058110	A gangue está com problemas. Ajude-os.
 1258390362	Ajude Cooper
@@ -3958,8 +3958,8 @@ Portuguese	Português(BR)
 1597562743	Essa pilha de caixas parece instável. Uma pena se isso desabasse sobre a cabeça de alguém.
 1457455127	Mate a Patrulha
 711876426	Use várias armadilhas para matar todos os três guardas ao mesmo tempo.
-1438130694	Obtenha as armadilhas
-439330376	Obtenha duas armadilhas adicionais para matar a patrulha.
+1438130694	Pegue as armadilhas
+439330376	Pegue duas armadilhas adicionais para matar a patrulha.
 1569638234	Bianca
 2030125916	Pegue Bianca.
 870301240	Camilla
@@ -5124,7 +5124,7 @@ Portuguese	Português(BR)
 1142209649	Pegue a vagoneta em frente ao portão principal e exploda.
 468192995	Empurre a vagoneta
 985713034	Empurre a vagoneta até chegar ao portão principal.
-913558866	Obtenha a vagoneta
+913558866	Pegue a vagoneta
 230899577	Hector encheu uma vagoneta com pólvora. Você precisará dele para sair.
 1454500394	Todo o lugar está cheio de homens DeVitt.
 353737539	Eles devem ter sinalizado com antecedência.
@@ -8643,7 +8643,7 @@ Portuguese	Português(BR)
 1475557669	Precisamos de auxílio!
 2144584419	Ei! Me dê alguma auxílio!
 894382108	Precisamos de mais homens aqui!
-1649830376	Obtenha algum auxílio aqui!
+1649830376	Pegue algum auxílio aqui!
 1842948575	Ajuda!
 1582762676	Por aqui!
 1355199311	Me proteja!
@@ -10371,7 +10371,7 @@ Portuguese	Português(BR)
 968230554	Preciso de reforços!
 1324765054	Gostaria de receber reforços!
 1950842680	Venha aqui rápido!
-803033645	Obtenha reforços aqui!
+803033645	Pegue reforços aqui!
 910372573	Socorro!!
 750660786	Aqui, pessoal!
 2137109490	Temos uma pequena situação aqui!
@@ -16934,7 +16934,7 @@ Portuguese	Português(BR)
 1338189044	Liberte-o.
 517534915	Hector está amarrado.
 1637125480	Reagrupar
-952742878	Obtenha uma visão geral da situação.
+952742878	Pegue uma visão geral da situação.
 768062827	(Opcional) Liberte os outros
 1475641737	Kate e Isabelle também foram levadas. Ajude-as.
 553591077	Isabelle livre.
@@ -16965,4 +16965,4 @@ Portuguese	Português(BR)
 1029811449	Desculpe querida, não posso agora.
 529306080	Obrigado por jogar o Desperados III Demostração!
 641702397	Siga sua aventura no jogo de onde você parou!/nVá para o menu de opções e digite <b><hotkey>"lonerider"</hotkey></b> para ativar a trapaça, ou use o D-Pad: <b><hotkey> "DIREITA, DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
-1247312339	Obtenha a versão completa do Desperados III agora!
+1247312339	Pegue a versão completa do Desperados III agora!
