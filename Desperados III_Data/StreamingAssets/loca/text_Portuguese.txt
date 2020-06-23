@@ -865,19 +865,19 @@ Portuguese	Português(BR)
 826928811	Após a morte de seu tio, Kate quer libertar sua casa das garras da Companhia DeVitt./n/nPara impedir que mais homens cheguem a Flagstone, ela planeja explodir a ponte ferroviária em Eagle Falls./n/nOs outros concordam em ajudá-la. Juntos, eles vão para Eagle Falls e se infiltram nas instalações de DeVitt perto da ponte./n/nO plano é simples: vasculhar a área para encontrar dinamite, depois chegar à base da ponte e explodi-la de uma vez por todas.
 1500406185	Cânion do Diabo/n(Capítulo II)
 1283981450	Um belo tiro
-1255827485	De volta às memórias passadas, um jovem John Cooper está esperando seu pai retornar…
+1255827485	De volta às memórias passadas, um jovem John Cooper está esperando o retorno de seu pai...
 99540809	El Cañón del Diablo. É o cenário de muitas histórias. Como o nome sugere, não há final feliz./n/nHabitado por sua vez por nativos, colonos, garimpeiros e ultimamente bandidos, cada um de seus habitantes derramou o sangue de seus predecessores na terra poeirenta./n/nHá muito tempo, o homem chamado Frank chegou com seus homens reivindicando este lugar para si mesmo./n/nNos anos seguintes, muitos caçadores de recompensas cruzaram a fronteira em busca de Frank. Um deles era James Cooper.
-1582007492	O jovem John Cooper ainda está esperando o pai voltar. Então ele ouve tiros./n/nMomentos depois, vários homens de Frank vêm correndo por seu esconderijo e começam a procurar na área. Algo deu errado./n/nCooper pega a faca que seu pai lhe deu e vai até a capela.
+1582007492	O jovem John Cooper ainda está esperando o retorno de seu pai. De repente, ele ouve um tiro./n/nSegundos depois, vários homens de Frank correm para seu esconderijo e começam a vasculhar a área. Algo deu errado./n/nCooper pega a faca dada a ele pelo pai e vai para a capela.
 1581878624	Baton Rouge
 1291349659	Um inferno de uma noite
-2081499567	Depois de algumas semanas de viagem, a turma passa a noite em uma taberna de Baton Rouge. As costas estão descansadas e as histórias são compartilhadas sobre alimentos e bebidas. Muitas e muitas bebidas.
+2081499567	Depois de algumas semanas na estrada, a turma passa a noite em uma taberna de Baton Rouge. Eles descansam e contam histórias entre uma mordida e um copo. Muitas e muitas bebidas.
 2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nA turma está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar uma taberna, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
-418625396	Depois de uma noite na selvagem taberna, a gangue acorda apenas para encontrar a cidade de Baton Rouge em desordem e os homens do xerife caçando por eles./n/nNinguém tem idéia do que aconteceu, e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca em massa, eles decidem se concentrar no básico: encontre o Doc e dê o fora daqui.
+418625396	Depois de uma noite na selvagem taberna, a gangue acorda com a cidade de Baton Rouge no caos e os homens do xerife caçando por eles./n/nNinguém faz idéia do que aconteceu e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca e enormes dores de cabeça, eles decidem se concentrar no básico: Encontrar o Doc e dar o fora de lá.
 458741708	Rio Mississippi
 1471672407	Louisiana Voodoo
 841222571	Após sua pequena pausa em Baton Rouge, a turma está agora em um barco descendo o Mississippi. Seu destino: a movimentada cidade de Nova Orleans.
-183066190	Mais de cem quilômetros do poderoso rio Mississippi ficam entre Baton Rouge e Nova Orleans./n/nNavios que viajam por esse caminho virão por vilarejos ocasionais ou cabanas de pesca./n/nEntre esses, no entanto, há longos trechos da terra de ninguém, onde qualquer coisa - ou alguém - possa estar à espera.
-708762326	Isabelle Moreau foi capturada por traficantes enquanto investigava desaparecimentos na área. Ela está presa em uma gaiola, mas essas nunca a mantiveram por muito tempo./n/nO caminho é claro: Escape, ajude qualquer pessoa que tenha sido levada pelos traficantes de escravos e depois volte para Nova Orleans.
+183066190	O Mississipi se estende por mais de 150 quilômetros entre Baton Rouge e Nova Orleans./n/nOs navios que passam por ele encontram-se em seu caminho apenas algumas aldeias e algumas cabanas de pesca./n/nFora isso, há longos trechos desolados, onde qualquer coisa, ou pessoa, poderia esperar à espreita.
+708762326	Isabelle Moreau foi capturada por traficantes enquanto investigava desaparecimentos na área. Eles a colocaram em uma jaula, mas ainda têm que inventar a gaiola que possa impedi-la./n/nO caminho é claro: Escape, ajude qualquer um em apuros, e retorne a Nova Orleans.
 1838068478	Nova Orleans
 351229472	Marcha nos becos
 1009387880	A gangue finalmente chega em Nova Orleans. Enquanto Cooper está ansioso para procurar Frank, Isabelle tem seu próprio conjunto de problemas.
@@ -3343,8 +3343,8 @@ Portuguese	Português(BR)
 804922990	Parece que sim. Eu mal posso acreditar nisso.
 200960381	Satanás, o ladrão de bancos. Deve ter sido uma visão para ver.
 342965924	Para que ele precisa de dinheiro?
-1406510762	Para que alguém precisa de dinheiro? A taberna.
-843420653	Aposto que o uísque é ainda mais caro no inferno do que aqui em cima na Terra.
+1406510762	Para que alguém precisa de dinheiro? Para a taberna, é claro..
+843420653	Aposto que o uísque é ainda mais caro no inferno do que aqui na Terra.
 39489661	Satanás roubando nosso pequeno banco. Isso não é apenas uma bobagem?
 56293856	Eu tenho um palpite de que está tudo conectado. Ele, as galinhas, Rosie...
 1916294871	Whoa, whoa, espera aí. Agora você está deixando sua imaginação te assustar.
