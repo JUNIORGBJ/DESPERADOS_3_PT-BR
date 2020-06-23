@@ -861,18 +861,18 @@ Portuguese	Português(BR)
 454130296	Eagle Falls
 2006766685	A ponte em Eagle Falls
 1077297084	O Rancho O'Hara foi defendido, mas o preço foi alto. Determinada a deixar a Companhia DeVitt para sempre, Kate propõe um plano perigoso.
-523395751	A alguns quilômetros a nordeste de Flagstone, o poderoso rio Eagle mergulha centenas de metros na grande ravina abaixo./n/nNo passado os viajantes tinham que encontrar uma maneira de contornar esse obstáculo perigoso, e todos os anos alguns deles morriam aqui. ou seja arrastado pelas correntes./n/nEm sua busca por traçar trilhas para o oeste, a Companhia DeVitt construiu uma enorme ponte ferroviária sobre o barranco, completa com uma estação de trem e instalações nas proximidades./n/nOs trens da companhia atravessam a ponte todos os dias e transportam homens e materiais novos em direção a Flagstone.
-826928811	Após a morte de seu tio, Kate quer libertar sua casa das garras da Companhia DeVitt./n/nPara impedir que mais homens cheguem a Flagstone, ela planeja explodir a ponte ferroviária em Eagle Falls./n/nOs outros concordam em ajudar. Juntos, eles viajam para Eagle Falls e se infiltram nas instalações da DeVitt próximo à ponte./n/nO plano é simples: Procure na área por dinamite, depois desça até a fundação e exploda a ponte em migalhas.
+523395751	A alguns quilômetros a nordeste de Flagstone, o poderoso rio Eagle mergulha centenas de metros na enorme fenda abaixo./n/nNo passado os viajantes tiveram que encontrar uma maneira de contornar esse obstáculo perigoso, e todos os anos alguns deles morriam ali ou eram arrastado pelas correntezas./n/nEm seu esforço incansável para criar novas linhas ferroviárias, a Companhia DeVitt construiu uma enorme ponte ferroviária sobre a fenda, completa com uma estação de trem e instalações nas proximidades./n/nOs trens da empresa passam na ponte todos os dias, levando pessoas e mercadorias para Flagstone.
+826928811	Após a morte de seu tio, Kate quer libertar sua casa das garras da Companhia DeVitt./n/nPara impedir que mais homens cheguem a Flagstone, ela planeja explodir a ponte ferroviária em Eagle Falls./n/nOs outros concordam em ajudá-la. Juntos, eles vão para Eagle Falls e se infiltram nas instalações de DeVitt perto da ponte./n/nO plano é simples: vasculhar a área para encontrar dinamite, depois chegar à base da ponte e explodi-la de uma vez por todas.
 1500406185	Cânion do Diabo/n(Capítulo II)
 1283981450	Um belo tiro
 1255827485	De volta às memórias passadas, um jovem John Cooper está esperando seu pai retornar…
-99540809	El Cañón del Diablo. O Cânion do Diabo. É um lugar de muitas histórias. Fiel ao seu nome, poucos deles terminam felizes./n/nPor sua vez, povoado por nativos, colonos, garimpeiros e, mais frequentemente, bandidos, cada um de seus habitantes derramou o sangue de seus predecessores na terra poeirenta./n/nEra uma vez, o homem que eles chamavam de Frank veio com seus homens e tomou esse lugar por conta própria./n/nNos próximos anos, muitos caçadores de recompensas cruzaram a fronteira em busca de Frank. Um deles era James Cooper.
+99540809	El Cañón del Diablo. É o cenário de muitas histórias. Como o nome sugere, não há final feliz./n/nHabitado por sua vez por nativos, colonos, garimpeiros e ultimamente bandidos, cada um de seus habitantes derramou o sangue de seus predecessores na terra poeirenta./n/nHá muito tempo, o homem chamado Frank chegou com seus homens reivindicando este lugar para si mesmo./n/nNos anos seguintes, muitos caçadores de recompensas cruzaram a fronteira em busca de Frank. Um deles era James Cooper.
 1582007492	O jovem John Cooper ainda está esperando o pai voltar. Então ele ouve tiros./n/nMomentos depois, vários homens de Frank vêm correndo por seu esconderijo e começam a procurar na área. Algo deu errado./n/nCooper pega a faca que seu pai lhe deu e vai até a capela.
 1581878624	Baton Rouge
 1291349659	Um inferno de uma noite
-2081499567	Depois de algumas semanas de viagem, a turma passa a noite em um salão de Baton Rouge. As costas estão descansadas e as histórias são compartilhadas sobre alimentos e bebidas. Muitas e muitas bebidas.
-2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nA turma está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar um salão, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
-418625396	Depois de uma noite selvagem no salão, a gangue acorda apenas para encontrar a cidade de Baton Rouge em desordem e os homens do xerife caçando por eles./n/nNinguém tem idéia do que aconteceu, e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca em massa, eles decidem se concentrar no básico: encontre o Doc e dê o fora daqui.
+2081499567	Depois de algumas semanas de viagem, a turma passa a noite em uma taberna de Baton Rouge. As costas estão descansadas e as histórias são compartilhadas sobre alimentos e bebidas. Muitas e muitas bebidas.
+2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nA turma está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar uma taberna, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
+418625396	Depois de uma noite na selvagem taberna, a gangue acorda apenas para encontrar a cidade de Baton Rouge em desordem e os homens do xerife caçando por eles./n/nNinguém tem idéia do que aconteceu, e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca em massa, eles decidem se concentrar no básico: encontre o Doc e dê o fora daqui.
 458741708	Rio Mississippi
 1471672407	Louisiana Voodoo
 841222571	Após sua pequena pausa em Baton Rouge, a turma está agora em um barco descendo o Mississippi. Seu destino: a movimentada cidade de Nova Orleans.
@@ -2235,11 +2235,11 @@ Portuguese	Português(BR)
 465742076	É uma longa história. Eu vou explicar no caminho.
 1094394493	Certo.
 1864486523	VO TRACK
-1990009555	Entre na Salão Principal
+1990009555	Entre no Salão Principal
 741079595	Entre pela porta da biblioteca. Você precisará de uma chave.
 1810415810	Procure na mesa
 1310171821	Roube o documento da mesa do prefeito
-435856407	Entre na Salão Principal... Novamente
+435856407	Entre no Salão Principal... Novamente
 1298498881	Esgueirar-se para o complexo e subir nas videiras para entrar.
 1485659679	Entre no escritório
 718715566	Algo está acontecendo no gabinete do prefeito. Investigar.
@@ -3343,7 +3343,7 @@ Portuguese	Português(BR)
 804922990	Parece que sim. Eu mal posso acreditar nisso.
 200960381	Satanás, o ladrão de bancos. Deve ter sido uma visão para ver.
 342965924	Para que ele precisa de dinheiro?
-1406510762	Para que alguém precisa de dinheiro? O salão.
+1406510762	Para que alguém precisa de dinheiro? A taberna.
 843420653	Aposto que o uísque é ainda mais caro no inferno do que aqui em cima na Terra.
 39489661	Satanás roubando nosso pequeno banco. Isso não é apenas uma bobagem?
 56293856	Eu tenho um palpite de que está tudo conectado. Ele, as galinhas, Rosie...
