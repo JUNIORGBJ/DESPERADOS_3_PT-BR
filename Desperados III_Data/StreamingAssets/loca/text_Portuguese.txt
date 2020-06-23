@@ -3381,7 +3381,7 @@ Portuguese	Português(BR)
 1479984106	Acho que é melhor deixá-los onde estão.
 1356569465	Hmm... Vamos deixá-los aqui em segurança.
 1009113621	É uma pena, mas eles não são nossos.
-1567772064	Se eu fosse o Doutor, onde me esconderia?
+1567772064	Se eu fosse o Doc, onde me esconderia?
 1577477175	Ei, doutor. Você está aqui?
 2129400880	Onde você está, McCoy?
 1554146086	Doc! Você precisa acordar!
@@ -5115,7 +5115,7 @@ Portuguese	Português(BR)
 789078812	Equipamento da Isabelle
 267005513	Pegue o equipamento da Isabelle na caixa.
 1347083076	Liberte os Outros
-2008741532	Cooper e Kate foram colocados em gaiolas. Abrir as fechaduras com Doc e libertá-los.
+2008741532	Cooper e Kate foram colocados em gaiolas. Abrar as fechaduras com Doc e liberte-os.
 1199039024	Liberte Cooper
 472209626	Use Doc para abrir a fechadura da gaiola de Cooper.
 1035068155	Liberte Kate
