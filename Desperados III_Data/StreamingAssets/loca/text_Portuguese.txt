@@ -1424,8 +1424,8 @@ Portuguese	Português(BR)
 3876306	Mr. Cooper. Fui contratado para garantir que este trem chegue a Flagstone.
 1529002408	Eu apreciaria se você não estivesse no meu caminho.
 1820710576	Bem, agora Sr.....
-998996917	McCoy. Doutor McCoy.
-2140966376	Correto. Doutor McCoy. A meu ver, só há um caminho a seguir.
+998996917	McCoy. Doc McCoy.
+2140966376	Correto. Doc McCoy. A meu ver, só há um caminho a seguir.
 1640528482	E eu tenho que ir para Flagstone também.
 34942661	Como quiser. Mas não diga que eu não avisei.
 475419878	VO TRACK
@@ -2628,7 +2628,7 @@ Portuguese	Português(BR)
 483252041	Acho que perdi a conta. Digamos que é um empate.
 946595501	Isso soa mais como capitular, Sr. Hector.
 1873893821	Então, é McCoy?
-654750945	Doutor McCoy, na verdade.
+654750945	Doc McCoy, na verdade.
 984738874	Heh, com certeza. Você não é realmente médico, certo?
 435477998	Se você tiver sorte um dia, descobrirá.
 909921615	Então você é médico. Realmente?
@@ -3044,11 +3044,11 @@ Portuguese	Português(BR)
 1498994161	Dr. McCoy, acredito que você tenha dinamite.
 851862061	Tudo pronto.
 563175063	Pacote entregue.
-543245308	Certo. É a sua vez, Doutor.
+543245308	Certo. É a sua vez, Doc.
 621623831	Sugiro que encontre um lugar com uma boa visão.
 706512754	Olha como cai.
 1149997624	Santo inferno!
-1444349089	Você não estava brincando, Doutor.
+1444349089	Você não estava brincando, Doc.
 1464740422	Que merda foi isso? Traga-me os malditos que fizeram isso!
 686524713	Obrigado, garotos. Agora vamos nos apressar, temos que pegar o trem.
 727099477	E não há mais razão para ir com calma.
@@ -3280,7 +3280,7 @@ Portuguese	Português(BR)
 530886839	Kate! Acorde.
 1344104697	Ei Kate! Aí estão vocês?
 730046734	Ah... Deus! Minha cabeça está estourando.
-899359207	Onde está o Doutor?
+899359207	Onde está o Doc?
 254775759	Precisamos conversar.
 668724194	Ops! Sinto muito, senhora.
 1826510593	Alguém pode me dizer por que eu dei um soco nela?
@@ -3291,17 +3291,17 @@ Portuguese	Português(BR)
 2144249786	Heh, porque não?
 752645794	Nós também podemos.
 194532124	Pode ser útil.
-211093556	O que diabos aconteceu? Cadê o Doutor?
+211093556	O que diabos aconteceu? Cadê o Doc?
 1340885963	Só me lembro que estávamos bebendo na taberna.
 46517177	Aquele mijo não poderia nos deixar bêbados.
 541275585	Bem, o que quer que tenha acontecido, certamente impressionamos os moradores.
-517556967	Vamos encontrar o Doutor e sair daqui rápido.
+517556967	Vamos encontrar o Doc e sair daqui rápido.
 338942374	Enquanto estivermos aqui, eu poderia usar um disfarce.
 437235839	Tenho a impressão de que estamos esquecendo algo muito importante...
 439599327	O barco! Ele disse que ia sair esta manhã!
 1926548427	É verdade, é verdade. Aquele bom homem ainda está esperando por nós.
 14030696	Vamos nos mexer. Eu não gosto deste lugar.
-476190830	Tudo bem, tudo bem. Se encontrarmos o Doutor, entramos no barco e fingimos que isso nunca aconteceu.
+476190830	Tudo bem, tudo bem. Se encontrarmos o Doc, entramos no barco e fingimos que isso nunca aconteceu.
 1710861253	Ei, você viu minha faca? Ou minhas armas?!
 849892578	Estou sentindo falta do machado.
 1640469646	Você viu Bianca? Eu sinto falta dela.
@@ -3375,22 +3375,22 @@ Portuguese	Português(BR)
 2006344400	O cofre foi arrancado da parede. O chão está coberto de pegadas.
 538003243	Então é verdade. O próprio Satanás esteve aqui ontem à noite.
 2024803270	Eu vi o maldito. Vestindo um casaco preto comprido e grandes chifres, como os do boi.
-136615385	Como vamos trancar o diabo?
+136615385	Como pegamos o diabo?
 868949280	Deveríamos ligar para o pastor. Ele saberá o que fazer.
-1594392271	Talvez. O xerife parece não estar dando ouvidos, ignorando nossas teorias e tudo.
-1479984106	Bem... Acho que devemos deixar isso onde ele pertence.
-1356569465	Hmm... Vamos deixar isso aqui para guardar em segurança.
-1009113621	É uma pena, mas isso não é nosso para a manutenção.
-1567772064	Se eu fosse Doc, onde estaria me segurando?
+1594392271	Talvez. O Xerife tem muito o que fazer, ele nem ouve nossas teorias.
+1479984106	Acho que é melhor deixá-los onde estão.
+1356569465	Hmm... Vamos deixá-los aqui em segurança.
+1009113621	É uma pena, mas eles não são nossos.
+1567772064	Se eu fosse o Doutor, onde me esconderia?
 1577477175	Ei, doutor. Você está aqui?
-2129400880	Cadê você, McCoy?
+2129400880	Onde você está, McCoy?
 1554146086	Doc! Você precisa acordar!
-254795236	McCoy! Acorde, senhor!
-1726557802	Hey Doc! Levante-se e brigue!
+254795236	Mccoy! Acorde!
+1726557802	Ei, Doc! Hora de se levantar!
 377597252	...
-133096306	Isso é uma pegada no rosto dele?
+133096306	Isso no rosto dele é uma pegada?
 88700969	Ele não vai acordar tão cedo.
-1606989506	Bem, então nós o carregamos. O barco não vai esperar.
+1606989506	Então temos que levá-lo. O barco não vai esperar por nós.
 1881620348	...
 3526963	...
 1732022279	...
@@ -3398,12 +3398,12 @@ Portuguese	Português(BR)
 601364948	...
 1440495828	...
 328688949	Rnn... Rosa... Rosas...
-1514831626	O que ela está dizendo? Algo sobre rosas?
+1514831626	O que ele está dizendo? Alguma coisa sobre rosas?
 1660233075	Talvez ele esteja sonhando.
 845827971	Rrnn... Bebida... Bebidas...
 402891133	Agora ele está com sede. Deve ser um sonho salgado.
-496985104	Acha que seus sonhos estão tentando nos dizer algo?
-2004312653	E como eles a pegariam? Rosie é uma garota inteligente.
+496985104	Talvez seus sonhos estejam tentando nos dizer algo?
+2004312653	Como eles conseguiram? Rosie é uma garota inteligente.
 96204554	Talvez fosse algum tipo de feitiço de voodoo? Ouvi dizer que eles podem controlar a mente das pessoas.
 1846003513	Controle mental? Essa é a coisa mais estúpida que já ouvi em toda a minha vida.
 819462486	Apenas algo que ouvi, só isso. Coisas estranhas estão acontecendo.
@@ -3429,7 +3429,7 @@ Portuguese	Português(BR)
 41566168	Eu te disse: Pare!
 1173960067	Então ele é o xerife?
 924426452	Aí está o xerife.
-651354632	Aqui está o xerife.
+651354632	O xerife está vindo.
 329328324	Me pergunto o que ele tem a dizer...
 2133212800	Agora deixe-me ver se entendi...
 705175938	Metade de vocês estão dizendo que o próprio Satanás roubou nosso banco.
@@ -3459,11 +3459,11 @@ Portuguese	Português(BR)
 661332741	Essa mulher é uma das minhas.
 165532200	Aposto que ela colocou algo em nossas bebidas. Essa foi uma noite infernal.
 1089721530	Eu me cansei desta cidade. Vamos pegar aquele barco no rio.
-407763384	Eles pegaram leve.
-393908923	Apenas tire-nos daqui.
+407763384	Demorou um pouco.
+393908923	Tire-nos daqui.
 1651580696	Um bom dia para um passeio no rio.
-1426800689	Obrigado senhor, por nos esperar.
-902999577	Agora vou cobrar em dobro.
+1426800689	Obrigado por esperar por nós, senhor.
+902999577	Estou cobrando o dobro.
 1467735642	Todos a bordo!
 550166924	Conhece alguém com dor de dente?
 242393163	Eu posso arrancar seus dentes sem problemas.
@@ -3730,7 +3730,7 @@ Portuguese	Português(BR)
 628719802	De qualquer forma, acho que alguns de seus amigos ainda estão esperando para serem resgatados.
 1192625616	Obrigado por me lembrar.
 220086571	Então, como você acabou se escondendo naquele buraco, Sr.....?
-853303776	McCoy. Doutor McCoy.
+853303776	McCoy. Doc McCoy.
 710070477	Certo. Você não respondeu à pergunta.
 761496402	É chamada de retirada tática.
 893316439	Por que você ainda está me seguindo?
@@ -5115,11 +5115,11 @@ Portuguese	Português(BR)
 789078812	Equipamento da Isabelle
 267005513	Pegue o equipamento da Isabelle na caixa.
 1347083076	Liberte os Outros
-2008741532	Cooper e Kate foram colocados em gaiolas. Quebrar as fechaduras com Doc e libertá-los.
+2008741532	Cooper e Kate foram colocados em gaiolas. Abrir as fechaduras com Doc e libertá-los.
 1199039024	Liberte Cooper
-472209626	Use Doc para quebrar a fechadura da gaiola de Cooper.
+472209626	Use Doc para abrir a fechadura da gaiola de Cooper.
 1035068155	Liberte Kate
-115075245	Use Doc para quebrar a fechadura da gaiola de Kate.
+115075245	Use Doc para abrir a fechadura da gaiola de Kate.
 1538004971	Explodir o portão principal
 1142209649	Pegue a vagoneta em frente ao portão principal e exploda.
 468192995	Empurre a vagoneta
@@ -16258,8 +16258,8 @@ Portuguese	Português(BR)
 512238242	Essa chave abre a gaiola de Isabelle.
 1848671995	Chave da gaiola (Kate & Hector)
 929034836	Essa chave abre as gaiolas de Kate e Hector.
-892470627	Forçar fechadura
-1781485589	Doc pode forçar qualquer fechadura.
+892470627	Abrir fechadura
+1781485589	Doc pode abrir qualquer fechadura.
 1239789683	Todos os alvos devem morrer ao mesmo tempo.
 1820626305	"Heh, você se acha inteligente, hein? Bem, brincadeira com você!" - Isabelle
 318843873	Não, obrigado
