@@ -3636,8 +3636,8 @@ Portuguese	Português(BR)
 1944581676	Eu vou descobrir em breve.
 2062664918	Wayne? Alguém que eu deveria conhecer?
 1542455237	Foi ele quem me enviou aqui. Acho que sem ele, você ainda estaria nessa gaiola.
-1901270877	Metralhadora, hein? Fez um pequeno trabalho daquele pequeno bote.
-605424394	Talvez possamos provar o próprio remédio.
+1901270877	Uma metralhadora? Ela rasgaria aquele pequeno barco em pedaços.
+605424394	Talvez lhes dêmos um gostinho do seu próprio remédio.
 2031867883	Bah, isso de novo.
 882846551	Acho que você está familiarizado com essa Metralhadora
 1846748898	Sim, e estou com cede de vingança.
@@ -3675,22 +3675,22 @@ Portuguese	Português(BR)
 1890359735	Heh, claro. Você fica aí.
 1660272438	Certo. Espere aí.
 1587325192	Pareço estar indo a algum lugar?
-1370896943	Tudo certo! Quem estiver lá fora, encontre-me no convés.
-331485005	Bom trabalho lá fora. Encontre-me no convés.
-1033613334	Uau, obrigado. Eu estava ficando nervoso lá em cima.
-850111332	Não estaria aqui se não fosse por ela...
+1370896943	Obrigado! Quem quer que seja, vejo você no convés.
+331485005	Bom trabalho. Encontre-me no convés.
+1033613334	Uau, obrigado. Eu estava começando a ficar nervoso.
+850111332	Eu não estaria aqui se não fosse por ela...
 2144838521	Não me agradeça. Agradeça a ela...
 1852477209	Acho melhor você agradecer a ela...
 555906458	Ei caubói.
 1813072875	Uh... ei? Algo errado com você?
 1016937040	Apenas ignore-os, caubói. Foi eu quem puxou as cordas.
 1007568041	Eu vi coisas estranhas.
-1190809367	Então você é o cara que eu vi ali em cima no cume. John Cooper.
+1190809367	Eu já vi você antes, no cume. John Cooper.
 1294028435	Você tem bons olhos, Sr. Cooper. Isabelle Moreau.
-479043166	Bem, obrigado pela ajuda, senhorita Moreau. Vamos lá, vamos conversar no caminho.
+479043166	Bem, obrigado pela ajuda, senhorita Moreau. Vamos conversar a caminho.
 424948428	Sim, é melhor seguirmos em frente. Alguns de seus amigos ainda estão presos.
-1840783524	O que o leva a essas partes, Sr. Cooper?
-2095268698	Eu estou indo para Nova Orleans. Não me lembro da rota ser tão acolhedora.
+1840783524	O que o traz aqui, Sr. Cooper?
+2095268698	Vou para Nova Orleans. Não me lembrava dessa rota ser tão perigosa.
 62785543	Você não está aqui há um tempo.
 1472532422	Então, como você entrou nessa confusão, senhorita Moreau?
 1365157573	Apenas olhando o que está acontecendo aqui. O pessoal está desaparecendo.
