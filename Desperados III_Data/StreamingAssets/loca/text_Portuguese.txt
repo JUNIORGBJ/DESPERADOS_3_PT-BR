@@ -4447,7 +4447,7 @@ Portuguese	Português(BR)
 2056886389	Como você acha?
 835921626	Primeiro destruímos os barris de petróleo no telhado.
 1628167094	Parece um trabalho para o machado.
-1763541953	Certo. Assim que o óleo sair, teremos um tocha.
+1763541953	Certo. Assim que o óleo sair, teremos uma tocha.
 1106934862	Acendemos e depois corremos.
 295892134	Eu gosto disso. Mas como nos afastamos?
 1377308491	Vamos pegar um desses barcos naquele píer e voltar para a cidade.
