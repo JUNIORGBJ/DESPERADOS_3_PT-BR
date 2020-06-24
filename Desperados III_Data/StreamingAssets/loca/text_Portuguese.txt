@@ -591,7 +591,7 @@ Portuguese	Português(BR)
 1333667769	Destaque
 1891512789	Destaque inimigos (em vermelho) e objetos interativos (em branco).
 1384505437	Zonas de alarme
-2101249610	Mostrar zonas de alarme./n Informa quais guardas aparecerão se o alarme tocar.
+2101249610	Mostrar zonas de alarme./nInforma quais guardas aparecerão se o alarme tocar.
 511438133	Avanço rápido
 583532999	Mantenha o botão pressionado para acelerar o tempo.
 210755940	Expandir mapa
@@ -846,7 +846,7 @@ Portuguese	Português(BR)
 1181215471	Flagstone
 1786599235	Encrenqueiros em Flagstone
 111549301	John Cooper veio a Flagstone para encontrar um velho amigo. Não demorou muito para se meterem em encrencas.
-180909580	Localizada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários. /n/nTrabalhadores da Companhia DeVitt se misturam entre os locais enquanto continuam construindo a nova ferrovia através da cidade./n/nAssim que Cooper chega em Flagstone, ele vai direto à taberna, que está vazia exceto por alguns clientes regulares./n/nA garçonete lhe serve um copo de uísque, e ele degusta enquanto espera a chegada de um velho amigo.
+180909580	Localizada entre os picos das Montanhas Rochosas do Colorado, fica a pequena cidade de Flagstone. Lojistas, fazendeiros, ferreiros e taberneiros mantêm seus negócios diários./n/nTrabalhadores da Companhia DeVitt se misturam entre os locais enquanto continuam construindo a nova ferrovia através da cidade./n/nAssim que Cooper chega em Flagstone, ele vai direto à taberna, que está vazia exceto por alguns clientes regulares./n/nA garçonete lhe serve um copo de uísque, e ele degusta enquanto espera a chegada de um velho amigo.
 1776442636	Em uma taberna em Flagstone, Cooper se encontra com seu velho amigo Hector./n/nOs dois imediatamente se metem em confusão quando espancam alguns trabalhadores da Companhia DeVitt, que estavam aterrorizando os locais. Não demorou muito para.../n/nCooper e Hector saem pela porta dos fundos e decidem ensinar uma lição aos trabalhadores da DeVitt... eliminando seus líderes.
 842780950	Propriedade Higgins
 1899333205	Até que a morte nos separe
@@ -870,49 +870,49 @@ Portuguese	Português(BR)
 1582007492	O jovem John Cooper ainda está esperando o retorno de seu pai. De repente, ele ouve um tiro./n/nSegundos depois, vários homens de Frank correm para seu esconderijo e começam a vasculhar a área. Algo deu errado./n/nCooper pega a faca dada a ele pelo pai e vai para a capela.
 1581878624	Baton Rouge
 1291349659	Um inferno de uma noite
-2081499567	Depois de algumas semanas na estrada, a turma passa a noite em uma taberna de Baton Rouge. Eles descansam e contam histórias entre uma mordida e um copo. Muitas e muitas bebidas.
-2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nA turma está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar uma taberna, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
-418625396	Depois de uma noite na selvagem taberna, a turma acorda com a cidade de Baton Rouge no caos e os homens do xerife caçando por eles./n/nNinguém faz idéia do que aconteceu e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca e enormes dores de cabeça, eles decidem se concentrar no básico: Encontrar o Doc e dar o fora de lá.
+2081499567	Depois de algumas semanas na estrada, o grupo passa a noite em uma taberna de Baton Rouge. Eles descansam e contam histórias entre uma mordida e um copo. Muitas e muitas bebidas.
+2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nO grupo está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar uma taberna, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
+418625396	Depois de uma noite na selvagem taberna, o grupo acorda com a cidade de Baton Rouge no caos e os homens do xerife caçando por eles./n/nNinguém faz idéia do que aconteceu e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca e enormes dores de cabeça, eles decidem se concentrar no básico: Encontrar o Doc e dar o fora de lá.
 458741708	Rio Mississippi
 1471672407	Louisiana Voodoo
-841222571	Depois de uma pequena pausa em Baton Rouge, a turma está agora em um barco navegando sobre o Mississipi. Destino: A agitada Nova Orleans.
+841222571	Depois de uma pequena pausa em Baton Rouge, o grupo está agora em um barco navegando sobre o Mississipi. Destino: A agitada Nova Orleans.
 183066190	O Mississipi se estende por mais de 150 quilômetros entre Baton Rouge e Nova Orleans./n/nOs navios que passam por ele encontram-se em seu caminho apenas algumas aldeias e algumas cabanas de pesca./n/nFora isso, há longos trechos desolados, onde qualquer coisa, ou pessoa, poderia esperar à espreita.
 708762326	Isabelle Moreau foi capturada por traficantes enquanto investigava desaparecimentos na área. Eles a colocaram em uma jaula, mas ainda têm que inventar a gaiola que possa impedi-la./n/nO caminho é claro: Escape, ajude qualquer um em apuros, e retorne a Nova Orleans.
 1838068478	Nova Orleans
 351229472	Marcha nos becos
-1009387880	A turma finalmente chega em Nova Orleans. Enquanto Cooper está ansioso para procurar Frank, Isabelle tem seu próprio conjunto de problemas.
-86592984	Depois que Isabelle resgata a turma de uma emboscada da Companhia DeVitt, os protagonistas, juntamente com seus novos aliados, retomam sua jornada para Nova Orleans./n/nO resto da jornada é agradavelmente tranquila, exceto pelas constantes queixas de Doc./n/nNa noite do dia seguinte eles finalmente chegam a Nova Orleans. Hector e Doc são encarregados de encontrar suprimentos no mercado, enquanto os outros discutem como proceder.
-622275391	Tendo finalmente chegado a Nova Orleans, a turma decide se separar./n/nCooper e Hector vão caçar Frank. Enquanto isso, Isabelle quer procurar seu amigo Wayne, que desapareceu sem deixar rasto. Kate e Doc decidem ajudá-la./n/nIsabelle suspeita que algumas pessoas estejam envolvidas no desaparecimento de Wayne. Ela acredita que um deles carrega uma carta de instruções./n/nOs três têm que pôr as mãos nessa carta, esperando que seu conteúdo os leve a Wayne.
+1009387880	O grupo finalmente chega em Nova Orleans. Enquanto Cooper está ansioso para procurar Frank, Isabelle tem seu próprio conjunto de problemas.
+86592984	Depois que Isabelle resgata o grupo de uma emboscada da Companhia DeVitt, os protagonistas, juntamente com seus novos aliados, retomam sua jornada para Nova Orleans./n/nO resto da jornada é agradavelmente tranquila, exceto pelas constantes queixas de Doc./n/nNa noite do dia seguinte eles finalmente chegam a Nova Orleans. Hector e Doc são encarregados de encontrar suprimentos no mercado, enquanto os outros discutem como proceder.
+622275391	Tendo finalmente chegado a Nova Orleans, o grupo decide se separar./n/nCooper e Hector vão caçar Frank. Enquanto isso, Isabelle quer procurar seu amigo Wayne, que desapareceu sem deixar rasto. Kate e Doc decidem ajudá-la./n/nIsabelle suspeita que algumas pessoas estejam envolvidas no desaparecimento de Wayne. Ela acredita que um deles carrega uma carta de instruções./n/nOs três têm que pôr as mãos nessa carta, esperando que seu conteúdo os leve a Wayne.
 50642152	Ninho da rainha
 876556836	Queime a Rainha
-1811558593	Seguindo os passos do amigo desaparecido de Isabelle, a turma descobre o Ninho da Rainha, uma base secreta nos pântanos de Nova Orleans 
-28351309	Os pântanos de Nova Orleans são o lar de tantos perigos. Jacarés, areia movediça, doenças infecciosas e, claro, outros homens prontos para pegá-lo./n/nSeguindo a orientação de Isabelle, a gangue se aventura nos pântanos traiçoeiros para encontrar o Ninho da rainha e resgatar o amigo desaparecido de Isabelle, Wayne./n/nA viagem é longa e chata. A turma se move lentamente para não atrair atenção indesejada./n/nQuando Isabelle se sente próxima, eles se separam para se aproximar do Ninho por dois lados.
+1811558593	Seguindo os passos do amigo desaparecido de Isabelle, o grupo descobre o Ninho da Rainha, uma base secreta nos pântanos de Nova Orleans 
+28351309	Os pântanos de Nova Orleans são o lar de tantos perigos. Jacarés, areia movediça, doenças infecciosas e, claro, outros homens prontos para pegá-lo./n/nSeguindo a orientação de Isabelle, a gangue se aventura nos pântanos traiçoeiros para encontrar o Ninho da rainha e resgatar o amigo desaparecido de Isabelle, Wayne./n/nA viagem é longa e chata. O grupo se move lentamente para não atrair atenção indesejada./n/nQuando Isabelle se sente próxima, eles se separam para se aproximar do Ninho por dois lados.
 1656931729	Enquanto Kate fica em Nova Orleans para ficar de olho em Frank, Isabelle e os outros vão para os pântanos para salvar Wayne./n/nDepois de uma longa jornada, eles encontram um velho esconderijo de escravos chamado "Ninho da Rainha", onde Wayne é mantido em cativeiro./n/nEles decidem separar e atacar a base de dois lados, e depois se encontram novamente dentro./n/nEles têm que encontrar Wayne, libertá-lo, colocar fogo na base e escapar.
 1584369694	Porto de/nNova Orleans
 1600676289	Sujeira e Sangue
-1884452242	De volta a Nova Orleans, a turma encontra a cidade em um estado muito diferente do que antes. Independentemente disso, Cooper permanece determinado em sua missão.
-1265907159	Com o delegado Wayne a reboque, a turma volta para Nova Orleans enquanto o Ninho da Rainha arde atrás deles./n/nNo caminho, Cooper fica muito quieto. Ele sabe o que o espera em Nova Orleans. Ele estará pronto desta vez? Ele terá que estar. /n/ no entanto, ao voltar, eles descobrem que as circunstâncias mudaram para pior. Enquanto Doc está procurando Kate, o delegado Wayne quer discutir o próximo passo.
-265401901	De volta a Nova Orleans, a turma se reúne com Kate, que revela que Frank está atualmente no píer 9, nos porto./n/nDespite os protestos de Cooper, Kate se junta a ele e Hector em busca de Frank. Os três vão para o porto./n/nCooper quer que todos se encontrem no portão do Pier 9. Depois disso, a única coisa que resta a fazer é terminar o que ele veio aqui.
+1884452242	De volta a Nova Orleans, o grupo encontra a cidade em um estado muito diferente de antes. Apesar disso, Cooper está determinado a completar sua missão.
+1265907159	Com o delegado Wayne a reboque, o grupo volta para Nova Orleans enquanto o Ninho da Rainha arde em chamas atrás deles./n/nNo caminho, Cooper está muito quieto. Ele sabe o que o espera em Nova Orleans. Ele estará pronto desta vez? Ele terá que estar./n/nAssim que chegam, descobrem que as circunstâncias mudaram para pior. Enquanto Doc está procurando Kate, o delegado Wayne quer falar sobre os próximos passos.
+265401901	De volta a Nova Orleans, o grupo se reúne com Kate, que descobriu que Frank está no porto, no Pier 9./n/nEmbora Cooper discorde, Kate se junta a ele e Hector para caçar Frank. Os três vão para o porto./n/nCooper quer que todos se encontrem na entrada do Pier 9. Depois disso, a única coisa que resta a fazer é terminar o que ele veio fazer aqui.
 1032927492	Mina de ouro DeVitt
 739256700	Um carrinho cheio de pólvora
 679755953	Mais uma vez, Cooper perdeu seu duelo contra Frank. Então, como agora, outros devem pagar o preço pelo seu fracasso. Ainda resta alguma esperança?
 1630898247	Vincent DeVitt tem os dedos em muitas tortas diferentes. Um império ferroviário próspero, o lucrativo comércio de condenados e, por último mas não menos importante, o negócio de mineração de ouro./n/nDebaixo do sol quente do Novo México, os mineiros extraem metais preciosos da terra, sob os olhos sempre presentes dos guardas da Companhia DeVitt./n/nEntre os trabalhadores, três rostos familiares se escondem em uma pilha de pedras. Seus corpos estão cansados, sua disposição é de galinhas./n/nSuas mentes, porém, só conhecem um objetivo: escapar.
-1624871096	Depois de serem presos na mina de ouro DeVitt, a turma elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem uma vagoneta cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com a vagoneta e escape.
+1624871096	Depois de serem presos na mina de ouro DeVitt, o grupo elabora um plano de fuga./n/nDurante o intervalo, Doc, Hector e Isabelle devem recuperar seus equipamentos e sair do campo dos trabalhadores./n/nEntão eles garantem uma vagoneta cheio de pólvora, que eles trarão consigo até chegarem ao portão principal./n/nO plano é simples: Liberte Kate e Cooper, exploda o portão com a vagoneta e escape.
 2029047628	Las Piedras
 796251795	O salário da Dor
 246702833	Encalhada no meio do nada, a única chance de sobrevivência da quadrilha é uma estação de trem nas proximidades.
-327079711	Tendo escapado recentemente da mina de ouro DeVitt, a turma se vê agredida, machucada e com pouco moral./n/nA partida de Doc pesa sobre todos, e o fato de ele ter levado o único cavalo disponível com ele também não ajuda as coisas./n/nIndependentemente disso, eles precisam ir para a cidade mais próxima com uma estação de trem, progredindo lentamente devido à perna machucada de Cooper./n/nQuando eles chegam, eles se abrigam em uma casa em ruínas nos arredores da cidade.
+327079711	Tendo escapado recentemente da mina de ouro DeVitt, o grupo se vê agredida, machucada e com pouco moral./n/nA partida de Doc pesa sobre todos, e o fato de ele ter levado o único cavalo disponível com ele também não ajuda as coisas./n/nIndependentemente disso, eles precisam ir para a cidade mais próxima com uma estação de trem, progredindo lentamente devido à perna machucada de Cooper./n/nQuando eles chegam, eles se abrigam em uma casa em ruínas nos arredores da cidade.
 166306906	Após a fuga da mina de DeVitt, Doc está farto da situação atual e decide continuar por conta própria. Os outros vão para a estação ferroviária mais próxima. Na chegada, eles encontram o lugar ocupado pelos homens do DeVitt. Além disso, parece que nenhum dos trens realmente para na estação./n/nEnquanto Isabelle cura a perna de Cooper, Kate e Hector procuram uma maneira de parar o trem./n/nO plano deles é bloquear os trilhos e depois pegar carona no próximo trem para que todos possam ir para casa.
 609111573	Casa DeVitt
 2006494126	Capitão da Indústria
 1413452906	Uma estranha festa está acontecendo na vila de DeVitt, mas a noite está prestes a ser arruinada por alguns convidados inesperados.
-468576441	Depois de fugir a bordo do trem, os membros da gangue finalmente conseguem descansar/n/nEnquanto Hector e Isabelle dormem profundamente, Cooper e Kate conversam. As coisas ainda estão tensas, mas os primeiros passos estão começando a ser tomados./n/nDe volta à civilização, a turma entra em contato com o delegado Wayne, que fica emocionado ao saber que eles ainda estão vivos. Juntos, eles estudam um plano para afundar DeVitt e Frank de uma vez por todas./n/nO primeiro da lista é DeVitt, que está planejando uma festa exclusiva em sua luxuosa propriedade.
-861610767	A turma consegue escapar das garras de DeVitt e contatar o delegado Wayne. Juntos, eles estudam um plano para eliminar DeVitt e Frank/n/nDeVitt é o primeiro da lista. Com a ajuda de Wayne, eles conseguem garantir convites para a festa exclusiva/n/nO plano: separar DeVitt dos convidados, sequestrá-lo e entregá-lo ao delegado.
+468576441	Depois de fugir a bordo do trem, os membros da gangue finalmente conseguem descansar/n/nEnquanto Hector e Isabelle dormem profundamente, Cooper e Kate conversam. As coisas ainda estão tensas, mas os primeiros passos estão começando a ser tomados./n/nDe volta à civilização, o grupo entra em contato com o delegado Wayne, que fica emocionado ao saber que eles ainda estão vivos. Juntos, eles estudam um plano para afundar DeVitt e Frank de uma vez por todas./n/nO primeiro da lista é DeVitt, que está planejando uma festa exclusiva em sua luxuosa propriedade.
+861610767	O grupo consegue escapar das garras de DeVitt e contatar o delegado Wayne. Juntos, eles estudam um plano para eliminar DeVitt e Frank/n/nDeVitt é o primeiro da lista. Com a ajuda de Wayne, eles conseguem garantir convites para a festa exclusiva/n/nO plano: separar DeVitt dos convidados, sequestrá-lo e entregá-lo ao delegado.
 1986610452	Cânion do Diabo/n(Capítulo III)
 1882495352	O velho e o Novo
 1671544744	Doc voltou, e DeVitt não é mais um problema. Só há uma coisa para consertar.
-1827622766	Depois de entregar DeVitt ao delegado, a turma vai para o sul através da fronteira.. A jornada é longa e o sol do deserto queima impiedosamente nossos viajantes./n/nAinda assim, a turma não se intimida. Cooper lidera, Hector conta histórias selvagens enquanto Kate escuta, e Doc e Isabelle brigam como sempre./n/nJuntos, eles cruzam a fronteira com o México e seguem para o deserto rochoso, em direção ao Cânion do Diabo..
-1141398023	A turma atravessa a fronteira mexicana e cavalga em direção ao Cânion do Diabo./n/nO velho esconderijo do Frank está cheio de gente. Cooper tem a sensação de que Frank estará esperando por eles na capela./n/nO plano é simples: encontrar-se na entrada do cemitério e atrair Frank para o confronto final.
+1827622766	Depois de entregar DeVitt ao delegado, o grupo vai para o sul através da fronteira.. A jornada é longa e o sol do deserto queima impiedosamente nossos viajantes./n/nAinda assim, o grupo não se intimida. Cooper lidera, Hector conta histórias selvagens enquanto Kate escuta, e Doc e Isabelle brigam como sempre./n/nJuntos, eles cruzam a fronteira com o México e seguem para o deserto rochoso, em direção ao Cânion do Diabo..
+1141398023	O grupo atravessa a fronteira mexicana e cavalga em direção ao Cânion do Diabo./n/nO velho esconderijo do Frank está cheio de gente. Cooper tem a sensação de que Frank estará esperando por eles na capela./n/nO plano é simples: encontrar-se na entrada do cemitério e atrair Frank para o confronto final.
 2017302914	Moeda
 1323949238	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nPressione {0}, e então aperte {1} para jogá-la.
 1838518536	Cooper pode jogar uma <skill>moeda</skill> para distrair os inimigos dentro do raio azul./nSegure {2} aponte e pressione {3} para jogar a <skill>moeda</skill>.
@@ -1015,8 +1015,8 @@ Portuguese	Português(BR)
 137511216	Fontes de luz
 758335557	Algumas <skill>fontes de luz</skill> podem ser <skill>eliminadas</skill>. Se os guardas virem luzes apagadas, eles irão reacendê-las.
 630348001	Armadilhas de óleo
-966811184	As <skill>armadilhas de óleo</skill> podem ser incendiadas, o que mata todos ao alcance sem disparar o alarme./n Pegue uma <skill>tocha</skill> de uma das grandes fogueiras e jogue-a no óleo. /nCuidado: Carregar uma tocha o torna visível e ao entrar em arbustos a tocha é se apaga.
-229242698	As <skill>armadilhas de óleo</skill> podem ser incendiadas, o que mata todos ao alcance sem disparar o alarme./n Pegue uma <skill>tocha</skill> de uma das grandes fogueiras e jogue-a no óleo. /nCuidado: Carregar uma tocha o torna visível e ao entrar em arbustos a tocha é se apaga.
+966811184	As <skill>armadilhas de óleo</skill> podem ser incendiadas, o que mata todos ao alcance sem disparar o alarme./n Pegue uma <skill>tocha</skill> de uma das grandes fogueiras e jogue-a no óleo./nCuidado: Carregar uma tocha o torna visível e ao entrar em arbustos a tocha é se apaga.
+229242698	As <skill>armadilhas de óleo</skill> podem ser incendiadas, o que mata todos ao alcance sem disparar o alarme./n Pegue uma <skill>tocha</skill> de uma das grandes fogueiras e jogue-a no óleo./nCuidado: Carregar uma tocha o torna visível e ao entrar em arbustos a tocha é se apaga.
 39295875	Disfarce de Kate
 508374419	Depois que Kate pegar um <skill>disfarce</skill>, ela poderá colocá-lo pressionando {0}./nEnquanto disfarçada, ela pode atravessar o território inimigo quase <skill>não detectada</skill>./n<skill>Casacos Longos</skill> e <skill>cães</skill> verão o disfarce.
 966230627	Depois que Kate pegar um <skill>disfarce</skill>, ela pode vesti-lo selecionando-a na roda de habilidades e pressionando {0}.Enquanto disfarçada, ela pode atravessar o território inimigo quase <skill>não detectada</skill>./n<skill>Casacos longos</skill> e <skill>cães</skill> verão através do disfarce.
@@ -3592,19 +3592,19 @@ Portuguese	Português(BR)
 597420665	Faça sua parte se quiser comer hoje à noite.
 676580666	*Miau Animado*
 462644112	Aqui vamos nós.
-956686779	Hrrr, eu odeio gaiolas.
+956686779	Hrrr, eu odeio jaulas.
 762618179	Por que todos eles têm tanto medo de mim.
 234061572	Juro que eles atirariam em mim se eu peidasse.
 842489044	Isso com certeza não parece bom.
 971666701	Talvez eu devesse ter ficado no Colorado.
 301719751	Se eles colocarem a mão em mim...
-649581872	O barco e a casa parecem menos lotados. Talvez eu vá lá primeiro.
+649581872	O barco e a casa parecem menos lotados. Talvez eu deva ir lá primeiro.
 1915152557	Ok, vamos ajudar o caubói.
 609887066	Vamos dar uma olhada naquela casa.
 1960415117	É aqui que eles mantêm o grandalhão.
-718322838	Há a garota em sua gaiola.
-1034632180	Aqui está Cooper. Parece que eles o prenderam.
-194195716	Veja! Aqui está Cooper. Esses malditos o prenderam.
+718322838	Aqui está a garota enjaulada..
+1034632180	Aqui está Cooper. Eles devem tê-lo prendido.
+194195716	Veja! Aqui está Cooper. Aqueles malditos o prenderam.
 618721931	Ali! Cooper! Eles ainda estão atirando nele.
 655586820	Ele está aguentando por enquanto. Vamos dar-lhe algum espaço para respirar.
 1124333373	Acho que vi Doc seguir nessa direção.
@@ -3619,12 +3619,12 @@ Portuguese	Português(BR)
 1824816580	Parece que a senhorita O'Hara também foi presa.
 1611056678	Merda. Eles colocaram Kate em uma gaiola também.
 1685392268	Uma gaiola não é lugar para uma garota assim. Vamos tirá-la daqui.
-293793449	Esses idiotas têm seu próprio posto avançado aqui.
+293793449	Esses idiotas têm um pequeno posto avançado.
 2018308304	Wayne vai amar isso.
-970766807	Bom lugar para pescar. Eu me pergunto o que aconteceu com o proprietário.
-681296385	Mais uma coisa para Wayne descobrir.
-958848154	Há uma vigia lá em cima. Nenhum navio poderia passar por aqueles olhos.
-1619837431	Wayne estava certo. Essas pessoas são bem organizadas.
+970766807	Bom lugar para pescar. Eu me pergunto o que aconteceu com o dono.
+681296385	Outro mistério a ser revelado por Wayne.
+958848154	Há uma vigia lá em cima. Verificando todos os barcos que passam.
+1619837431	Wayne estava certo. Eles se organizaram muito bem.
 860018648	Olhe para aquela remessa. Os "negócios" estão indo bem esta semana.
 1217862018	Merda... Já era hora de Wayne fazer algo a respeito.
 1958100788	Wayne? Você tem mais alguém com você?
@@ -16854,7 +16854,7 @@ Portuguese	Português(BR)
 1032735083	Você está visitando uma biblioteca pública em busca de novo material de leitura. Você pega um livro aleatório da seção de romance e o abre. Lá dentro, você encontra uma carta com um selo que você conhece: vejo que você está interessado em amor verdadeiro. Sua presença é urgentemente necessária no casamento do prefeito Higgins. Não se atrase./n/nVocê pergunta se alguém pegou emprestado o livro recentemente, mas eles respondem que o livro chegou ontem.
 1482246535	Você entrou furtivamente na propriedade do prefeito Higgins, onde Kate está prestes a se casar contra sua vontade. O Barão elaborou uma lista de tarefas, que você deverá concluir para impedir o casamento.
 1089068432	Transporte público
-316216979	Você está aproveitando a viagem confortavelmente no compartimento de trens e acabou de tomar o café da manhã. Quando você abre o jornal de hoje, um envelope com o selo do Barão cai no chão. /n/n “Espero que você esteja gostando dos luxos do transporte moderno. Não se preocupe, seu próximo desafio não está longe. Ele pega você no caminho. ”/n/nVocê pergunta sobre o garçom que trouxe o jornal para você, mas aparentemente ninguém o conhece.
+316216979	Você está aproveitando a viagem confortavelmente no compartimento de trens e acabou de tomar o café da manhã. Quando você abre o jornal de hoje, um envelope com o selo do Barão cai no chão./n/n “Espero que você esteja gostando dos luxos do transporte moderno. Não se preocupe, seu próximo desafio não está longe. Ele pega você no caminho. ”/n/nVocê pergunta sobre o garçom que trouxe o jornal para você, mas aparentemente ninguém o conhece.
 1291436241	O Barão enviou você para Eagle Falls para seu último desafio. Você recebeu permissão para acessar a instalação, o que significa que os guardas não atirarão em você ao vê-lo, a menos que você aja com suspeita. O problema é que você precisa arrastar dois corpos para um vagão de trem próximo.
 994286661	O clube de resgate
 928595687	A gata Stella, está seguindo Isabelle por uma movimentada rua do mercado. De repente, ela percebe um cachorro e uma galinha de pé um ao lado do outro, observando-a de longe./n/nEla para de seguir e olha para eles. Eles deram os sinais, mensagens secretas de paz e urgência, entregues em odor e linguagem corporal. Algo deu errado. Eles precisam dela./n/nQuando Isabelle percebe que Stella se foi, ela já está a caminho do pântano.
