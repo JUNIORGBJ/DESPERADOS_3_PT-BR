@@ -4222,7 +4222,7 @@ Portuguese	Português(BR)
 547770477	O que é isso... "Querida Agnes, meu coração queima por você, e meu..." Que diabos!
 664926887	Tudo bem... "Querida Agnes, meu coração queima por você, e meu..." Whoa!
 832226714	Acho que não recebemos a carta certa.
-2020516747	Direita. Vamos queimar isso e lavar os olhos com sabão.
+2020516747	Certo. Vamos queimar isso e lavar os olhos com sabão.
 352064117	Tudo bem... "Cabeçadas de cavalo, tiras de couro, gordura de porco, pepinos..." Mas que merda!
 1042598642	Vamos ver... "Cabeçadas de cavalo, tiras de couro, gordura de porco, pepinos..."!
 1966524943	Hmm... "Cabeçadas de cavalo, tiras de couro, gordura de porco, pepinos..."
@@ -4391,7 +4391,7 @@ Portuguese	Português(BR)
 1936143579	Entregue Louis
 1651889979	Entregue Louis ao barco designado no Píer 9.
 1075231710	Como eu disse, estamos quites.
-726889046	Vamos, Sunshine. Tecnicamente, ainda não encontramos o Wayne ainda.
+726889046	Vamos, Sunshine. Tecnicamente, ainda não encontramos o Wayne.
 794767794	Minha ardósia está limpa.
 853016272	Você quer dinheiro, certo? Wayne pode pagar em espadas.
 1814242977	De quanto estamos falando?
@@ -4426,7 +4426,7 @@ Portuguese	Português(BR)
 744276640	Esperemos.
 1760714323	Kate.
 314368980	Só uma coisa.
-1836841578	Você vê Frank... 
+1836841578	Sabe, Frank...
 747524990	... fique longe dele.
 1636053587	Sim claro.
 1618556394	VO TRACK
@@ -4440,14 +4440,14 @@ Portuguese	Português(BR)
 1636836732	Estava na hora. Este pântano é imundo.
 577485680	Vamos abrir caminho e conhecer os outros lá dentro.
 1583145713	Então Belle, onde você acha que eles estão mantendo seu amigo?
-68532589	Aposto que Wayne está em uma daquelas jaulas. Vamos abrir todos eles até encontrá-lo.
+68532589	Aposto que Wayne está em uma dessas jaulas. Temos que abri-las todas até encontrá-lo.
 1509161406	Vamos precisar do McCoy para trancar as fechaduras.
 2130325518	E depois que libertarmos o seu Wayne?
 1919762542	Nós vamos queimar aquele barco a vapor. Coloque-os fora do negócio.
 2056886389	Como você acha?
-835921626	Primeiro, esmagamos o barril de petróleo no telhado.
+835921626	Primeiro destruímos os barris de petróleo no telhado.
 1628167094	Parece um trabalho para o machado.
-1763541953	Direita. E quando o óleo vaza, pegamos uma pequena lanterna.
+1763541953	Certo. Assim que o óleo sair, teremos um lampião.
 1106934862	Acendemos e depois corremos.
 295892134	Eu gosto disso. Mas como nos afastamos?
 1377308491	Vamos pegar um desses barcos naquele píer e voltar para a cidade.
@@ -4669,7 +4669,7 @@ Portuguese	Português(BR)
 1293480776	...!...!...! olá!
 1154784819	Do que eu senti falta?
 1648054498	Apenas o plano. Vou te informar no caminho.
-345719109	Direita. Pronto para a ação.
+345719109	Certo. Pronto pra a ação.
 1424107471	Vamos evitar o bloqueio.
 921127699	É melhor ficarmos longe desse ponto de verificação.
 837549036	Eles não estão brincando sobre o bloqueio.
