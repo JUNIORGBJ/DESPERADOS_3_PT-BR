@@ -796,7 +796,7 @@ Portuguese	Português(BR)
 838084772	Mate {0} guardas ao destruir a ponte.
 318564945	Liberte Kate ou Hector primeiro.
 1156310251	Mate {0} guardas ao mesmo tempo.
-1858403590	Mate {0} guardas com uma morte por ambiente.
+1858403590	Mate {0} guardas com morte pelo ambiente.
 2025392807	Termine a missão sem cruzar os trilhos do trem.
 2133820715	Termine a missão sem largar Isabelle.
 178577080	Use a carroça para bloquear os trilhos do trem.
@@ -16288,7 +16288,7 @@ Portuguese	Português(BR)
 1767019463	Chave mestra
 740760431	Esta empregada carrega uma chave mestra nela. Kate pode cortá-la.
 834792124	CAPÍTULO II - O DELEGADO E A BRUXA
-984401475	NÃO LONGE DE Nova Orleans - RIO MISSISSIPPI
+984401475	NÃO MUITO LONGE DE NOVA ORLEANS - RIO MISSISSIPPI
 740638988	Alguns dias depois
 400429742	CAPÍTULO III - A ARMADILHA E O garoto
 681903459	Desperados III
