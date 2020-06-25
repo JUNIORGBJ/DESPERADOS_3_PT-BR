@@ -3491,31 +3491,31 @@ Portuguese	Português(BR)
 1310209373	Uma dica: todo mundo está vestindo as mesmas roupas. Uma tradição familiar, que será bastante letal... para eles.
 91495061	Mantenha seus olhos abertos. Certifiquem-se de pegar todos eles. Tenha certeza: meus clientes estarão assistindo.
 62092261	Nada como uma boa caçada para alegrar os espíritos. Meus clientes estão mais entretidos. Muito bem.
-1903982346	Olhe para todos aqueles objetos roubados.
-1740736829	Tudo bem, DeVitt. Vamos ver o que você guarda aqui.
+1903982346	Olhe para esse roubo.
+1740736829	Tudo bem, DeVitt. Vamos ver o que você está escondendo aqui.
 41497864	Delegado Wayne.
-362786850	Vejo que você está invadindo propriedades particulares.
-1217983166	Que eu saiba, é necessário um mandado de busca para isso.
+362786850	Vejo que está invadindo uma propriedade privada.
+1217983166	Pelo que sei, você precisa de um mandado.
 2078537816	Não preciso de um mandado para bandidos como você, Frank.
-1045160565	Apenas venha conosco em silêncio.
+1045160565	Venha conosco sem fazer barulho.
 175133016	Eu preferiria resolver isso como nos bons velhos tempos.
-1304765288	Pena que não é mais assim que é feito.
+1304765288	Pena que não funciona mais assim.
 975110150	Eu acho que é a corda em volta do seu pescoço falando.
-606901809	Isso está certo?
+606901809	É isso?
 537400045	Ei, DeVitt quer o delegado vivo, lembra?
-1017739857	Cale-se.
+1017739857	Cale a boca.
 633924663	Vamos, Frank, pense no dinheiro.
 898817121	Certo... o dinheiro.
 280696478	Agh!
 636272268	É só isso que importa?
-1788403313	Frank, por favor, eu apenas...
+1788403313	Frank, por favor, eu...
 623899726	Leve o delegado com os outros.
 604011281	Andando...
 635756145	*tosse*
-1027025207	Lembro dos velhos tempos.
-138737026	Os bons velhos tempos já se foram, oficial.
+1027025207	E dizer que estávamos falando sobre os velhos tempos.
+138737026	Os velhos tempos acabaram, delegado.
 630355938	Você realmente acredita nisso, hein.
-1657864457	Tire isso da minha frente...
+1657864457	Tire-o da minha frente...
 213060420	VO TRACK
 1912159611	Ei Daryll. Olha o que eu achei no mato!
 86365993	Tire essas mãos de mim!
@@ -3978,59 +3978,59 @@ Portuguese	Português(BR)
 556228268	Estamos falando de matar com armadilhas para ursos, é claro. Tomei a liberdade de tirar os outros meios ofensivos.
 172753097	Feliz caça, meu amigo. E lembre-se: meus clientes estão assistindo.
 703840751	Vale a pena ver. Mas talvez seja bom que haja apenas uma Bianca real.
-1507855381	Então você tem seguido esse cara?
-1501963814	A última vez que soubemos ele estava indo para Nova Orleans.
-192433283	Eu o vi. Ele trabalha para a Companhia DeVitt.
+1507855381	Então você está procurando por esse cara?
+1501963814	Pelo que sabemos, ele estava indo para Nova Orleans.
+192433283	Eu conheço-o. Ele trabalha para a Companhia DeVitt.
 1428101056	Mas não sei onde ele está. Desculpa.
 2142838867	Vamos perguntar por aí.
 43510847	Então, qual é o seu plano agora?
 1242051853	Eu deveria me encontrar com Wayne, mas não consigo encontrá-lo em lugar nenhum.
-511639318	Você acha que algo aconteceu com ele?
-1165235131	Talvez. Acho melhor procurar por ele.
-136989762	Então conte conosco. Ainda lhe devemos sua ajuda lá.
+511639318	Acha que algo aconteceu com ele?
+1165235131	Possivelmente. Acho melhor procurar por ele.
+136989762	Então conte com a gente. Ainda lhe devemos uma.
 1873580448	Você não me deve nada.
 918226040	Olá pessoal
 1652818583	Você tem tudo o que precisa?
-513565066	Bianca está com óleo e pronta para a ação.
+513565066	Bianca está lubrificada e pronta para ação.
 1608044066	Bem, vamos encontrar o Frank.
-1076949057	E Isabelle e sua amiga?
-229128354	Escuta...
+1076949057	O que vamos fazer com Isabelle e seu amigo?
+229128354	Escute...
 1229627458	Por que não nos separamos?
-1231336393	Tenho certeza que você pode lidar com isso sozinho.
-899842538	Nós nos encontraremos aqui mais tarde, está bem?
+1231336393	Tenho certeza que você pode lidar com isso sozinha.
+899842538	Nos encontramos mais tarde, certo?
 1464031914	Certo...
 754289243	Vamos lá, Hector.
 1699491377	Até mais, senhoritas.
 34392205	Bem... 
 1211196005	Então, o que está acontecendo aqui?
-1137491574	Estamos procurando a amiga de Isabelle. Quer participar?
-173864141	Não vou segurá-lo se você recusar.
+1137491574	Estamos procurando o amigo de Isabelle. Quer participar?
+173864141	Eu não vou levá-lo se você não quiser vir.
 2056450478	Como eu disse antes, não gosto de favores.
-397429678	Para ser claro: Encontramos o seu Wayne, o que nos deixa quites.
-830699354	Tente se acalmar, Sunshine.
+397429678	Vamos deixar as coisas claras: encontramos esse Wayne e estamos quites.
+830699354	Relaxe um pouco, querido.
 1652314598	Você está em Nova Orleans.
 2140280330	VO TRACK
-146513349	Tanto faz. Alguma ideia brilhante de como encontramos o seu Wayne?
-599156730	Minhas tripas me dizem que é a Companhia DeVitt. Talvez eles tentaram se livrar dele.
+146513349	Como quiser. Temos alguma ideia para encontrar seu Wayne?
+599156730	O instinto me diz que é a Companhia DeVitt. Talvez quisessem se livrar dele.
 975977912	Faz sentido. Mas como descobrimos o que aconteceu?
-1866657286	Hmm, deixe-me pensar...
-828060417	Wayne me disse que estava investigando três homens conectados a Devitt.
-1350230044	Arthur McGain, juiz distrital. Passa as noites no Café Chez Manu.
+1866657286	Deixe-me pensar...
+828060417	Wayne me disse que estava investigando três homens ligados ao DeVitt.
+1350230044	Arthur McGain, um juiz. Passa as noites no Café Chez Manu.
 1364286212	Raymond Irving, assumiu o Lanterna Vermelha depois que o proprietário anterior desapareceu.
-1665672023	E Ted O'Neill, que costumava ser contrabandista, agora de alguma forma conseguiu um emprego como capataz no Pier 9.
+1665672023	E Ted O'Neill, um ex-contrabandista, agora trabalha como capataz no Pier 9.
 1840729988	Aposto que um desses caras está envolvido. Provavelmente carrega uma carta de instruções com ele.
 101243554	Uma carta, hein? Então, como sabemos quem é o culpado?
-557427967	Boa pergunta. Deveríamos dar um passeio pelo bairro.
-1809967679	Muitos homens DeVitt lá. Se mantivermos nossos ouvidos abertos, poderemos pegar algumas pistas.
-293872870	Isso é empolgante. Deveríamos ter um disfarce também. Então, encontraremos nosso culpado em pouco tempo.
+557427967	Boa pergunta. Precisamos fazer um tour pela vizinhança.
+1809967679	Há muitos homens de DeVitt. Se mantivermos os ouvidos abertos, podemos ouvir algumas pistas.
+293872870	Que emocionante. Devemos encontrar um disfarce, também. Então vamos encontrar o culpado imediatamente.
 1127581865	Ou apenas escolhemos nossos alvos até encontrarmos quem tem a carta.
-985932825	Venha agora, McCoy. Eu acho que uma pequena investigação pode ser divertida.
+985932825	Vamos, McCoy. Vai ser divertido investigar um pouco.
 177290138	Eu não fui colocado nesta terra para me divertir.
-1934499197	Veremos. Agora vamos seguir em frente. Wayne está esperando.
-1445125768	O mercado está animado hoje à noite.
-1164344156	Heh, o mercado está cheio como sempre.
+1934499197	Veremos. Agora vamos seguir em frente. Wayne está esperando por nós.
+1445125768	O mercado está animado esta noite.
+1164344156	O mercado está tão lotado como sempre.
 705833719	Vamos continuar. Nós estamos perdendo tempo aqui.
-2144361835	Você nunca sabe, Sunshine. Pode pagar para ouvir algumas conversas.
+2144361835	Nunca se sabe, querido. Pode ser útil ter algumas conversas.
 1584209694	O que está acontecendo aqui?
 314763280	O que temos aqui?
 292395596	Vamos apenas manter a cabeça baixa. Eu gostaria de evitar problemas desnecessários.
@@ -4083,40 +4083,40 @@ Portuguese	Português(BR)
 494204231	Que porra é essa! Você quer beijar a bunda do Jackal?
 276097611	N-n-não, não, não, mas... o Chez Manu. Gostaria de saber como é o sabor da comida.
 989491626	Seu idiota. Fique longe do Jackal. Agora cale a boca - eu tenho que pensar.
-2110044982	Ei, é o Red Lantern.. O que há para pensar?
+2110044982	Ei, é o Lanterna Vermelha.. O que há para pensar?
 688990229	Estou duro. E o Spider subiu os preços novamente.
-1353097532	Hah, seu idiota! A companhia é dona do Red Lantern. agora! Significa que obtemos um desconto.
+1353097532	Hah, seu idiota! A companhia é dona do Lanterna Vermelha. agora! Significa que obtemos um desconto.
 726914357	Você diz que. Não tenho certeza se o Spider vê dessa maneira.
 1977251696	Sim. Ouvi dizer que vai cair no píer 9.
 2053568799	Merda. O Hawk deve estar nervoso agora.
 1961504817	O Hawk é um motorista de escravos. Acho que ele até dorme no píer 9.
 358638545	Os tempos estão mudando. Costumava ser ele e eu estávamos em bares juntos.
-1890835691	"O Jackal." No Chez Manu.
-698279061	"O Jackal." No Chez Manu.
-241146415	"O Jackal." No Chez Manu.
-1189890684	"A Spider." No Red Lantern.
-1789887418	"A Spider." No Red Lantern.
-1976053532	"A Spider." No Red Lantern.
-62156202	"O Hawk." No cais 9.
-658358907	"O Hawk." No cais 9.
-2112717841	"O Hawk." No cais 9.
-2144548116	Acho que eles estão usando codinomes.
+1890835691	"O Jackal." Do Chez Manu.
+698279061	"O Jackal." Do Chez Manu.
+241146415	"O Jackal." Do Chez Manu.
+1189890684	"O Spider." Do Lanterna Vermelha.
+1789887418	"O Spider." Do Lanterna Vermelha.
+1976053532	"O Spider." Do Lanterna Vermelha.
+62156202	"O Hawk." Do Pier 9.
+658358907	"O Hawk." Do Pier 9.
+2112717841	"O Hawk." Do Pier 9.
+2144548116	Acho que eles estão usando CodiNomes.
 116469683	Como está o "Jackal"?
 535718792	Ele está apenas bebendo. Diz que está esperando ordens.
 1418858924	Ele não recebeu a carta dessa vez, então está esperando pedidos.
 837665109	Bom.
-267296907	Conte-me sobre "A Spider".
+267296907	Conte-me sobre "O Spider".
 583428114	O negócio é bom. Diz que ele vai alcançar a próxima cota.
 59054748	Não era a vez dele de receber a carta. Os negócios são bons.
 1329417561	Eu vou passar adiante. Isso é tudo.
-317979344	"O Falcão." Conte-me.
+317979344	"O Hawk." Conte-me.
 21810915	Ainda trabalhando duro. Grande dia amanhã.
 155153336	Nenhuma carta para ele. Ele tem as mãos cheias de qualquer maneira. Grande dia amanhã.
 2051686385	É melhor ele entregar. Isso é tudo.
 326455119	Como está o "Jackal"?
 1812596916	Ele recebeu suas instruções. Diz que o Sr. Wayne é atendido.
 1904009637	Isso é bom.
-1664909010	Conte-me sobre "A Spider."
+1664909010	Conte-me sobre "O Spider."
 938941370	Ele recebeu suas instruções. Diz que o Sr. Wayne é atendido.
 1787437340	Isso é bom.
 943241867	"O Hawk." Conte-me.
@@ -4125,17 +4125,17 @@ Portuguese	Português(BR)
 1317712413	Parece que "O Jackal" não é nosso homem.
 48220368	O que significa "O Jackal" não é nosso homem.
 1526442995	Acho que "O Jackal" não é o nosso cara.
-1615136001	Parece que "A Spider" não é o nosso homem.
+1615136001	Parece que "O Spider" não é o nosso homem.
 1509969468	O que significa "O Spider" não é o nosso homem.
-489966514	Acho que "A Spider" não é o nosso cara.
+489966514	Acho que "O Spider" não é o nosso cara.
 686464143	Parece que "O Hawk" não é o nosso homem.
 1706082026	O que significa "O Hawk" não é o nosso homem.
 644986387	Acho que "O Hawk" não é o nosso cara.
 2101013785	Parece que "O Jackal" é o que estamos procurando.
 2126909881	O que significa "O Jackal" é o homem que procuramos.
-1453890450	Acho que "The Jackal" é o cara que estamos procurando.
-832160714	Parece que "A Spider" é o que estamos procurando.
-645274602	O que significa "A Spider" é o homem que procuramos.
+1453890450	Acho que "O Jackal" é o cara que estamos procurando.
+832160714	Parece que "O Spider" é o que estamos procurando.
+645274602	O que significa "O Spider" é o homem que procuramos.
 85546794	Acho que "O Spider" é o cara que estamos procurando.
 1969048349	Parece que "O Hawk" é o que estamos procurando.
 154678638	O que significa "O Hawk" é o homem que procuramos.
@@ -4163,9 +4163,9 @@ Portuguese	Português(BR)
 1285884194	Esse deve ser o McGain.
 273159847	Então esse é o McGain.
 1603112552	Aqui está McGain.
-57560143	O Red Lantern.
-1771295977	O Red Lantern.
-347908982	O Red Lantern.
+57560143	O Lanterna Vermelha.
+1771295977	O Lanterna Vermelha.
+347908982	O Lanterna Vermelha.
 2135074413	O prostíbulo mais extravagante do bairro. Meninas lá farão seus sonhos se tornarem realidade.
 628126091	Embora pelo que ouvi, os tempos sejam difíceis desde que Irving assumiu.
 582098837	Essa deve ser Irving.
@@ -4337,9 +4337,9 @@ Portuguese	Português(BR)
 1995559175	O capataz do píer 9 não conhece Wayne.
 2112551760	O capataz do píer 9 pode levar a carta. Você deveria procurar nos bolsos?
 1766442165	Senhora Irving
-1897383367	A dona do Red Lantern conhece Wayne. Procure nos bolsos dela.
-1067719672	A dona do Red Lantern não conhece o Wayne.
-1038786402	A dona do Red Lantern pode levar a carta. Procure nos bolsos dela?
+1897383367	A dona do Lanterna Vermelha conhece Wayne. Procure nos bolsos dela.
+1067719672	A dona do Lanterna Vermelha não conhece o Wayne.
+1038786402	A dona do Lanterna Vermelha pode levar a carta. Procure nos bolsos dela?
 744676866	Juiz McGain
 975885369	O juiz de Chez Manu knows conhece Wayne. Procure nos bolsos dele.
 1674888421	O juiz de Chez Manu não conhece Wayne.
@@ -4356,10 +4356,10 @@ Portuguese	Português(BR)
 115785275	A verdadeira identidade de "O Jackal" ainda é desconhecido.
 2107795913	O Jackal: Conhecido
 1872910049	A verdadeira identidade de "O Jackal" é o juiz McGain. Ele está no Café Chez Manu.
-265862370	A Spider:???
-398061130	A verdadeira identidade de "A Spider" ainda é desconhecido.
-1895602694	A Spider: Conhecida
-1220038200	A verdadeira identidade de "A Spider" é o Sr. Irving. Ele pode ser encontrado no Red Lantern.
+265862370	O Spider:???
+398061130	A verdadeira identidade de "O Spider" ainda é desconhecido.
+1895602694	O Spider: Conhecida
+1220038200	A verdadeira identidade de "O Spider" é o Sr. Irving. Ele pode ser encontrado no Lanterna Vermelha.
 986774561	O Hawk:???
 80201398	A verdadeira identidade de "O Hawk" ainda é desconhecido.
 438176070	O Hawk: Conhecida
@@ -4368,15 +4368,15 @@ Portuguese	Português(BR)
 1216766042	Descubra qual suspeito leva uma carta de instruções.
 869863646	O Jackal: Carta
 1403263577	Alguém ligou "O Jackal" tem a letra.
-170532765	O Jackal: Nenhuma carta
+170532765	O Jackal: Sem carta
 326485373	Alguém ligou "O Jackal" não tem a carta.
-1499747208	A Spider: Carta
-929415149	Alguém ligou "A Spider" tem a letra.
-1558373128	A Spider: Nenhuma carta
-412038303	Alguém ligou "The Spider" não tem a carta.
+1499747208	O Spider: Carta
+929415149	Alguém ligou "O Spider" tem a letra.
+1558373128	O Spider: Sem carta
+412038303	Alguém ligou "O Spider" não tem a carta.
 2034919749	O Hawk: Carta
 1876282703	Alguém ligou "O Hawk" tem a letra.
-1367827212	The Hawk: No Letter
+1367827212	O Hawk: Sem carta
 1109918015	Alguém ligou "O Hawk" não tem a carta.
 1325523223	Elite Conectar o Stun
 1411729772	Você pode atordoar uma Elite conectando-o a outro guarda e matando esse guarda.
@@ -4663,7 +4663,7 @@ Portuguese	Português(BR)
 96392486	O que aconteceu?
 417453428	Digamos que ainda tenho algumas coisas a aprender sobre poker.
 57838474	De qualquer forma, acho que posso encontrar um novo no bordel.
-1829053166	De qualquer forma, acho que posso encontrar um novo no Red Lantern.
+1829053166	De qualquer forma, acho que posso encontrar um novo no Lanterna Vermelha.
 179603340	Podemos parar no caminho para o píer.
 407267459	Tudo certo. Vamos nos mexer antes que Frank rodeie novamente.
 1293480776	...!...!...! olá!
@@ -4713,11 +4713,11 @@ Portuguese	Português(BR)
 114443374	Funcionou. Agora vamos lá - Frank está esperando.
 1128538110	No meio do caminho.
 1489257316	Onde agora?
-430255386	Por que não parar noRed Lantern? Eu realmente poderia usar um disfarce.
+430255386	Por que não parar no Lanterna Vermelha? Eu realmente poderia usar um disfarce.
 1832326260	Não importa. Todas as estradas levam ao porto.
 1149630617	Tudo certo. está aqui o prostíbulo.
 1764674115	Hmm, este é o prostíbulo.
-1815809576	Parece que o Red Lantern está fechado por hoje.
+1815809576	Parece que o Lanterna Vermelha está fechado por hoje.
 1893706550	Tanto faz. Vamos ser rápidos aqui.
 1532694153	Heh, este lugar me lembra aquele em Deadwood.
 2047439447	Agora não Hector.
@@ -4903,7 +4903,7 @@ Portuguese	Português(BR)
 708988117	Face Frank
 1295369277	É agora ou nunca. Vá para o arco e encare o seu destino.
 1937582108	Disfarce
-864823784	Kate perdeu o disfarce enquanto você estava fora, mas ela pode encontrar um sobressalente no Red Lantern.
+864823784	Kate perdeu o disfarce enquanto você estava fora, mas ela pode encontrar um sobressalente no Lanterna Vermelha.
 1554793200	Que pena, garoto. Parece que vocês dois não vão para casa hoje.
 1390422920	Ele é apenas uma criança, Frank.
 1968294381	Huh...
