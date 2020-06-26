@@ -806,7 +806,7 @@ Portuguese	Português(BR)
 1404372168	Mate {0} bandidos ao mesmo tempo.
 1091331607	Mate bandidos usando dinamite.
 1720218840	Distraia {0} bandidos ao mesmo tempo usando a moeda de Cooper.
-1383672889	Reúna os nomes de código e os locais de todos os possíveis suspeitos.
+1383672889	Descubra os CodiNomes e localizações de todos os suspeitos.
 455186100	Mate todos os suspeitos.
 1825898325	Não mate nenhum suspeito.
 2098414280	Nenhum nocaute ou morte corpo a corpo, exceto no caso de Isabelle.
@@ -880,7 +880,7 @@ Portuguese	Português(BR)
 708762326	Isabelle Moreau foi capturada por traficantes enquanto investigava desaparecimentos na área. Eles a colocaram em uma jaula, mas ainda têm que inventar a jaula que possa impedi-la./n/nO caminho é claro: Escape, ajude qualquer um em apuros, e retorne a Nova Orleans.
 1838068478	Nova Orleans
 351229472	Marcha nos becos
-1009387880	O grupo finalmente chega em Nova Orleans. Enquanto Cooper está ansioso para procurar Frank, Isabelle tem seu próprio conjunto de problemas.
+1009387880	O grupo finalmente chega em Nova Orleans. Enquanto Cooper está ansioso para procurar Frank, Isabelle tem que lidar com seus problemas..
 86592984	Depois que Isabelle resgata o grupo de uma emboscada da Companhia DeVitt, os protagonistas, juntamente com seus novos aliados, retomam sua jornada para Nova Orleans./n/nO resto da jornada é agradavelmente tranquila, exceto pelas constantes queixas de Doc./n/nNa noite do dia seguinte eles finalmente chegam a Nova Orleans. Hector e Doc são encarregados de encontrar suprimentos no mercado, enquanto os outros discutem como proceder.
 622275391	Tendo finalmente chegado a Nova Orleans, o grupo decide se separar./n/nCooper e Hector vão caçar Frank. Enquanto isso, Isabelle quer procurar seu amigo Wayne, que desapareceu sem deixar rasto. Kate e Doc decidem ajudá-la./n/nIsabelle suspeita que algumas pessoas estejam envolvidas no desaparecimento de Wayne. Ela acredita que um deles carrega uma carta de instruções./n/nOs três têm que pôr as mãos nessa carta, esperando que seu conteúdo os leve a Wayne.
 50642152	Ninho da rainha
