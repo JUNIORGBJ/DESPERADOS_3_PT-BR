@@ -189,8 +189,8 @@ Portuguese	Português(BR)
 357458454	Idioma da voz
 1830301241	Determina quanto tempo o Marcador permanecerá ativo:/nDesligado: permanece ativo por alguns segundos./nLigado: permanece ativo até ser desativado.
 1442293416	Ajuste a barra gama até que possa distinguir todos os estágios do gradiente de texturas e quase não poder ver mais a arma à esquerda.
-1093446963	REINICIAR JOGO
-604412219	Isso reiniciará seu jogo. Você perderá todo o progresso da missão, jogos salvos e distintivos desbloqueados. Suas configurações de vídeo, áudio, configurações de jogo e layouts de entrada personalizados NÃO serão redefinidos. Você deseja continuar?
+1093446963	APAGAR PROGRESSO
+604412219	Esta ação vai apagar o seu jogo atual. Você vai perder todo o progresso em missões, jogos salvos e distintivos desbloqueados. Suas opções de vídeo, áudio, jogabilidade e esquema de botões personalizado NÃO vai ser redefinido. Deseja mesmo continuar?
 215104258	Teclado
 1327985646	Velocidade da câmera
 405449256	Sensibilidade do mouse
@@ -329,7 +329,7 @@ Portuguese	Português(BR)
 1739078801	Esquema de botões
 442535890	O jogo salvo está corrompido, a missão vai ser reiniciada.
 830724165	Configurações de rastreamento ocular
-75518517	Espaço insuficiente disponível. Libere mais espaço para salvar seu jogo.
+75518517	Espaço em disco insuficiente. Libere mais espaço para salvar o jogo.
 1883515290	Para ver uma visão geral de todas as ações vinculáveis, vá para Opções e abra o menu Controles.
 1865076062	Legendas das Instruções
 1993831770	Legendas da conversa
@@ -370,7 +370,7 @@ Portuguese	Português(BR)
 822402292	Marcador
 890170653	Pressione <hotkey>{0}</hotkey> para destacar inimigos e objetos interativos no ambiente.
 63047757	Pressione <hotkey>{0}</hotkey> para destacar inimigos e objetos interativos no ambiente.
-137001150	Mortes pela natureza
+137001150	Mortes pelo ambiente
 1981927858	Se um guarda for morto pela queda de um objeto, sua morte aparecerá como um acidente e ninguém soará o alarme.
 1066015511	Tipos de inimigos
 1716596328	Passe o mouse sobre os guardas para ver que tipo de inimigo eles são.
@@ -584,8 +584,8 @@ Portuguese	Português(BR)
 1365900095	Execute todas as ações salvas. Interrompe o jogo.
 1493216623	Execute uma única ação.
 1420882900	Execute apenas esta ação.
-426824287	Redefinir o modo duelo
-1929244517	Redefina todas as ações salvas.
+426824287	Reiniciar plano
+1929244517	Reinicia todas as ações salvas.
 910575029	Registro
 999285904	Encontre: objetivos da missão, dicas, registro de conversas e distintivos.
 1333667769	Destaque
@@ -596,7 +596,7 @@ Portuguese	Português(BR)
 583532999	Mantenha o botão pressionado para acelerar o tempo.
 210755940	Expandir mapa
 1306747757	Expanda o minimapa. Também mostra as posições dos guardas.
-1029619217	Redefinir câmera
+1029619217	Reiniciar câmera
 600743980	Centralize a câmera no personagem atualmente selecionado e reposicione-o na rotação recomendada.
 1848674402	Gire no sentido anti-horário
 1807927786	Mantenha o botão pressionado para girar a câmera no sentido anti-horário.
@@ -632,7 +632,7 @@ Portuguese	Português(BR)
 1358490674	Aqui, você pode personalizar e criar novas configurações de controle. As mudanças entram em efeito automaticamente. É possível alternar entre as configurações de controle pelas caixas de seleção à direita./n/nAtivo: {0}
 971883982	Otimizado para jogar Desperados III e para fãs do gênero de táticas em tempo real.
 2057998057	Otimizado para jogadores RTS. Mover e selecionar são trocados. As habilidades estão no QWERT.
-1602189665	Seu layout personalizado.
+1602189665	Seu esquema de botões.
 1524376688	Jogador
 1873916024	Cam
 766903264	Menu
@@ -650,7 +650,7 @@ Portuguese	Português(BR)
 584715733	Stick direito
 1284445229	Stick esquerdo
 1561855749	---
-116814068	Crie um novo layout para alterar as ações de entrada
+116814068	Crie um novo esquema para alterar as ações de entrada
 1362329991	Personalizado {0}
 1190198233	Criar
 1068196803	SELECIONAR
@@ -738,7 +738,7 @@ Portuguese	Português(BR)
 197477233	Mover a câmera para baixo
 850968016	Mover a câmera para baixo
 661448433	Mirar
-1487160716	Mover
+1487160716	Mover-se
 1327285847	Girar / Zoom
 1412174204	Cursor do cone
 195564649	Cancelar ação
@@ -761,7 +761,7 @@ Portuguese	Português(BR)
 1406208931	Super Veloz: Complete a missão em menos de {0} minutos.
 14063527	Não mate ninguém e não acione nenhum alarme.
 1148110388	Esconda todos os corpos em arbustos, poços, casas, etc.
-1428790442	Não apague nenhuma luz, incluindo lampiões transportadas por guardas.
+1428790442	Não apague nenhuma fonte de luz, incluindo lampiões transportados por guardas.
 650066362	Não toque na água.
 82324557	Não mate civis.
 256810044	Não pise em superfícies barulhentas.
@@ -772,7 +772,7 @@ Portuguese	Português(BR)
 413325399	Complete a missão na dificuldade Difícil.
 477910365	Mate todos, exceto os civis.
 1889045333	Não pule e não use escadas, cordas ou trepadeiras.
-121027725	Não mate Casacos Longos.
+121027725	Não mate casacos longos.
 1666736140	Mate todos os casacos longos.
 1895505204	Não use um disfarce.
 1511084033	Não use a capacidade de conexão de Isabelle.
@@ -2761,7 +2761,7 @@ Portuguese	Português(BR)
 1356586583	Ateie fogo sob eles
 1182811597	Pegue uma tocha na fogueira e jogue-a na poça de óleo.
 1139956959	Tochas e óleo
-1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lâmpiões derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
+1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lampiões derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
 1017498960	Pedra solta
 76768848	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
 1455844339	Cano quebrado
@@ -2783,7 +2783,7 @@ Portuguese	Português(BR)
 1272242783	El Pollo Mateo
 212114340	A galinha está por trás de tudo. Ponha um fim em seus esquemas.
 1108060531	Morte natural
-819876528	Todos os meios diretos de violência são proibidos. Faça uso da natureza para matar sua presa.
+819876528	Todos os meios diretos de violência são proibidos. Faça uso do ambiente para matar sua presa.
 1533858659	Cavalos
 1086409056	Cavalos dão coices quando atingidos pelas moedas de Cooper. Use isso para nocautear os guardas.
 230713070	Guardas com lampião
@@ -4350,18 +4350,18 @@ Portuguese	Português(BR)
 932214144	A trilha de Wayne leva ao pátio de armazenamento privado de DeVitt. Vá lá e investigue.
 1776168268	Procure no escritório
 1483544029	Procure Wayne no escritório. Doc deve abrir a fechadura.
-1015217844	Codenames
-1541996634	Descubra qual suspeito passa pelo qual codename.
+1015217844	CodeNomes
+1541996634	Descubra qual suspeito passa pelo qual codenome.
 910947410	O Jackal:???
-115785275	A verdadeira identidade de "O Jackal" ainda é desconhecido.
-2107795913	O Jackal: Conhecido
+115785275	A verdadeira identidade de "O Jackal" ainda é desconhecida.
+2107795913	O Jackal: Conhecida
 1872910049	A verdadeira identidade de "O Jackal" é o juiz McGain. Ele está no Café Chez Manu.
 265862370	O Spider:???
-398061130	A verdadeira identidade de "O Spider" ainda é desconhecido.
+398061130	A verdadeira identidade de "O Spider" ainda é desconhecida.
 1895602694	O Spider: Conhecida
 1220038200	A verdadeira identidade de "O Spider" é o Sr. Irving. Ele pode ser encontrado no Lanterna Vermelha.
 986774561	O Hawk:???
-80201398	A verdadeira identidade de "O Hawk" ainda é desconhecido.
+80201398	A verdadeira identidade de "O Hawk" ainda é desconhecida.
 438176070	O Hawk: Conhecida
 1333558314	A verdadeira identidade de "O Hawk" é o capataz O'Neill. Ele está localizado no Pier 9.
 1812055617	A carta
@@ -16176,7 +16176,7 @@ Portuguese	Português(BR)
 860201247	Oh, cale a boca McCoy.
 1810121494	O arquivo de dados do usuário está corrompido. Os dados podem ser recuperados.
 901336057	O arquivo de dados do usuário está corrompido e não pode ser recuperado. Os dados do usuário serão redefinidos para o padrão.
-1649511477	Suas configurações de entrada personalizadas foram corrompidas e serão substituídas pelas configurações padrão.
+1649511477	Seu esquema de botões personalizado foi corrompido e será substituído pelo esquema padrão.
 617153358	Josh
 1063320780	Parar no meio do caminho
 1755510902	Pressione <hotkey>{0}</hotkey> para parar no meio de escadas, cordas e trepadeiras.
@@ -16565,8 +16565,8 @@ Portuguese	Português(BR)
 1266674654	Selecione qual controle sem fio você deseja usar.
 669018033	Esse esquema de controle alternativo é relevante apenas para usuários de mouse e teclado.
 1875520036	Disfarce
-1489351884	Kate pode obter um disfarce aqui.
-1839200631	Morte pela natureza
+1489351884	Kate pode pegar um disfarce aqui.
+1839200631	Morte pelo ambiente
 1427780181	Este objeto pode ser usado para criar um acidente.
 1236964701	Salvar/Carregar sons
 750239754	Ativa efeitos sonoros para salvar e carregar o jogo.
@@ -16668,7 +16668,7 @@ Portuguese	Português(BR)
 1951547925	Este desafio apresenta Kate O'Hara, uma personagem jogável que você ainda não encontrou na história. Para evitar spoilers, recomendamos que você volte aqui depois de terminar a Missão 4.
 1029874240	O Barão espera por você
 1157655411	Você encontrou todos os cinco personagens jogáveis. Os desafios do Barão agora estão livres de spoilers. Aproveitar.
-176535250	Meanwhile – Casa DeVitt, New Mexico
+176535250	Meanwhile – Casa DeVitt, Novo Mexico
 1699332835	Use-os para dar a McCoy uma chance limpa e distrair qualquer testemunha. Se alguém tocar o alarme, meus clientes ficarão decepcionados.
 517076075	Caixa de munição A
 1083151072	Cortesia dos meus clientes.
@@ -16716,14 +16716,14 @@ Portuguese	Português(BR)
 1200022366	As galinhas estão bicando a carcaça em decomposição. Você tem a sensação de que algo está lhe chamando. De... dentro das galinhas. Sua voz se torna cada vez mais intensa, até que se torna um grito insuportável dentro de sua cabeça.
 1879106691	O doce cheiro da decomposição invade suas narinas. Examinando o corpo do porco, você percebe algo no canto dos olhos. Um objeto brilhante escondido nos bolsos do cadáver humano ao lado dele. 
 707546696	Quando você pega o corpo, um pequeno distintivo de metal cai no chão. Nele está escrito: "Especiarias Orientais de Florence Smolker".
-115228868	O doce cheiro da decomposição invade suas narinas. Você examina o corpo do porco, mas não encontra nada. As insígnias no seu bolso começam a vibrar, como se quisessem lhe dizer: "Esqueça os corpos sujos. ENCONTRE. A. FECHADURA".
+115228868	O doce cheiro da decomposição invade suas narinas. Você examina o corpo do porco, mas não encontra nada. OS distintivos no seu bolso começam a vibrar, como se quisessem lhe dizer: "Esqueça os corpos sujos. ENCONTRE. A. FECHADURA".
 1262534177	À medida que você procura nos bolsos do cadáver, o cacarejo das galinhas se torna cada vez mais alto. Ocasionalmente, elas bicam a ferida aberta do cadáver e devoram sua carne. 
 2036902556	Ao abrir o frango, você encontra uma pequena moeda. Está coberto de sangue e tripas, mas parece estar brilhando como um sol radiante em miniatura. Você quase pode ouvi-lo zumbindo enquanto o segura.
 772586931	Ao entrar na loja, o aroma refrescante de diferentes especiarias entra em sua cabeça. Instantaneamente, você sabe onde procurar. Você abre um pequeno aparador no canto mais escuro da sala.
 1232845740	Quando você coloca o terceiro artefato no bolso, um arrepio aterrador percorre seu corpo. Sua visão começa a embaçar quando você tenta manter o equilíbrio. Algo em Nova Orleans... mudou.   
 1103300527	No dia seguinte - Bayous de Nova Orleans, Louisiana
 2086026573	Você fez isso!
-114163874	MINA DE OURO DEVITT – EM ALGUM LUGAR EM NEW MEXICO
+114163874	MINA DE OURO DEVITT – EM ALGUM LUGAR EM NOVO MEXICO
 1000891151	Aparentemente, ficamos sem oque fazer. Bem feito. Uma exibição elegante de humor moderno. Meus clientes estão satisfeitos.
 1872830447	Mais tarde naquele dia – Eagle Falls Bridge, Colorado
 665079477	Muito bem. Tudo pronto e seguro para o transporte. Eu sabia que poderia contar com sua ajuda.
@@ -16755,7 +16755,7 @@ Portuguese	Português(BR)
 503346124	Cooper só pode matar, nada mais
 43397628	O agente Trotter e o agente Mare estão esperando do lado de fora.
 1466265946	Ajudamos o homem rabugento a chegar a um dos cavalos. Então ele estará salvo.
-246912015	Nesse mesmo dia, à tarde – Outskirts of Las Piedras, New Mexico
+246912015	Nesse mesmo dia, à tarde – Outskirts of Las Piedras, Novo Mexico
 1311511664	O aguilhão da traição. O cheiro de pólvora. Sangue vermelho sobre lençóis brancos. Muitas vertentes do destino cruzaram-se neste lugar. Hoje não será exceção.
 209249049	Parece que a senhorita O'Hara foi presa no altar novamente. A cerimônia já começou. Assim que o padre chegar, seu destino será selado.
 2023952286	Lá vai a empregada para deixar o padre entrar.
@@ -16789,8 +16789,8 @@ Portuguese	Português(BR)
 1991332465	Nova Orleans – ARMAZÉM DEVITT
 853251353	Na tarde do mesmo dia – Nova Orleans French Quarter, Louisiana
 1092576883	De manhã cedo – Nova Orleans French Quarter, Louisiana
-1818463186	Mais tarde – Antiga estação de correios, New Mexico
-1079064569	Algumas horas depois – Antiga estação de correios, New Mexico
+1818463186	Mais tarde – Antiga estação de correios, Novo Mexico
+1079064569	Algumas horas depois – Antiga estação de correios, Novo Mexico
 792045766	Soltar dinheiro
 281411138	Coloque dinheiro no chão. O primeiro inimigo a detectá-lo chegará a ele.
 1132826674	Mate os guardas ({0} de 130)
