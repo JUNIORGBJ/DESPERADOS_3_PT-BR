@@ -14,18 +14,18 @@ Portuguese	Português(BR)
 326908463	Cancelar seleção de personagem
 1593035469	Selecionar todos os personagens
 720952508	Cancelar seleção de todos os personagens
-8814543	Usar
+8814543	Subir
 1707401394	Pegar
 1228448906	Esconder corpo
 974031510	Descer
 1570316501	Pular
-1281200264	Equipamentos ausentes
+1281200264	Em falta
 1661399895	Soltar
 1970208064	Apontar
 332063575	Usar habilidade
 1642445805	Trocar habilidade
 979623826	Colocar marcador
-1371401178	Tirar marcador
+1371401178	Remover marcador
 14277674	Alternar visual do cone
 1007288526	Alternar ação
 760226682	Executar plano
@@ -33,7 +33,7 @@ Portuguese	Português(BR)
 1137813917	Pausar
 341979071	Continuar
 1020053951	Salvar rápido
-1985431665	Criar ponto de controle
+1985431665	Criar um ponto de referência
 1985552838	Reiniciar plano
 735890781	Cancelar
 45909301	Morreu um dos seus personagens.
@@ -45,10 +45,10 @@ Portuguese	Português(BR)
 1848829029	Nenhum
 417700520	Matar
 575344989	Atirar
-964636690	Substituir este jogo salvo?
+964636690	Substituir registro salvo?
 454694763	Reiniciar a missão? Todo o progresso não salvo será perdido.
 1410384205	Sair da missão? Todo o progresso não salvo será perdido.
-426906539	Carregar jogo salvo selecionado
+426906539	Carregar registro salvo?
 1455108595	Salvar o jogo
 537819092	Tempo de conclusão:
 1033428211	Contagem de jogos salvos:
@@ -118,7 +118,7 @@ Portuguese	Português(BR)
 1351320459	+{0} (Apenas Isabelle)
 60305594	Mergulho
 2000969630	Amarrar
-635175699	Último jogo salvo:
+635175699	Último registro salvo:
 225439770	TUTORIAIS
 61553626	Info. global
 1564195777	Derrubar
@@ -180,8 +180,8 @@ Portuguese	Português(BR)
 435550555	CONTROLES
 1956330395	CRÉDITOS
 876312009	DESENVOLVEDOR
-486633304	Lembrete de jogo salvo
-367072283	Ativa o lembrete de jogo salvo na borda superior da tela./n Ajuste também o tempo para que o lembrete reapareça após seu último jogo salvo.
+486633304	Lembrete de registro salvo
+367072283	Ativa o lembrete de registro salvo na borda superior da tela./n Ajuste também o tempo para que o lembrete reapareça após seu último registro salvo.
 904565450	Legendas NPC
 1016841846	Habilita legendas para NPCs no mundo do jogo.
 1140205606	Alternar marca-texto
@@ -200,14 +200,14 @@ Portuguese	Português(BR)
 666387157	Alternar avanço rápido
 1162764950	CINEMÁTICA
 1225642196	Deseja assistir à cena novamente?
-1718054198	Jogo salvo (Rápido)
-234100204	Jogo salvo (Normal)
+1718054198	Registro salvo (Rápido)
+234100204	Registro salvo (Normal)
 738261692	Arquivo obsoleto!
 753130424	NOVO JOGO
 1238399001	CONFIRMAR
 1063145121	COMEÇAR UM NOVO JOGO?
 1171586678	DELETAR
-620746292	Deletar jogo salvo? {0}
+620746292	Excluir registro salvo? {0}
 66585026	OK
 1382966912	Levantar automaticamente
 2021839866	Determina se os personagens levantam automaticamente ao clicar duas vezes.
@@ -228,7 +228,7 @@ Portuguese	Português(BR)
 429141927	1/2
 876302356	1/4
 9527696	1/8
-1609646037	Carregar jogo salvo?
+1609646037	Carregar registro salvo?
 915383769	Dificuldade principiante requer alguns cuidados, mas deixa margem para erro. Os inimigos reagem mais devagar e são menos agressivos. Seus personagens têm mais saúde./n/nNOTA: Altamente recomendado para aqueles que não têm experiência com o gênero RTS.
 1332767595	Dificuldade normal. Os inimigos reagem rapidamente e seus personagens têm uma quantidade moderada de pontos de vida./n/nNOTA: Recomendado para jogadores familiarizados com o gênero RTS.
 84533367	Dificuldade difícil é destinada àqueles com um profundo conhecimento da mecânica tática em tempo real. Os inimigos reagem quase instantaneamente e são mais agressivos. Seus personagens têm menos saúde./n/nNOTA: Recomendado para veteranos do gênero RTS.
@@ -262,12 +262,12 @@ Portuguese	Português(BR)
 475868445	Correção “gama”
 1552857310	Ajusta a visibilidade dos cones inimigos.
 1320655516	Cones
-1362801099	Este jogo salvo está obsoleto. Carregá-lo não será possível na versão mais recente do jogo.
+1362801099	Aviso: este registro de jogo salvo está obsoleto! Carregá-lo o converterá para a última versão.
 595402552	Escolha o idioma da voz
 1894310156	Por favor, selecione seu idioma preferido para o diálogo falado. Você sempre pode alterar essa configuração posteriormente no menu de opções.
 1031410729	Aplicar
 1175167657	As configurações foram alteradas. Aplicar mudanças?
-1937172350	Este jogo salvo foi criado em outro nível. Carregá-lo sairá do nível atual. Todo o progresso não salvo será perdido! Continuar?
+1937172350	Este registro do jogo salvo foi criado em outro nível. Ao carregá-lo, você sairá do nível atual e todo o progresso não salvo será perdido! Quer continuar?
 692943060	Modo Alto-falante
 1727566288	Selecione o modo de alto-falante que você deseja usar. Esta opção está disponível apenas no menu principal.
 2012998024	Rotação da câmera
@@ -285,7 +285,7 @@ Portuguese	Português(BR)
 1072918770	Vibração
 510496150	Permite vibração do Controle sem fio.
 1726656013	Carregando dados salvos do usuário
-604825608	Jogo salvo corrompido
+604825608	O jogo salvo está corrompido.
 1072627118	O arquivo que você tentou carregar estava corrompido e será substituído pelas configurações padrão.
 2074534947	DADOS DO USUÁRIO
 495479490	Controle sem fio desconectado
@@ -298,7 +298,7 @@ Portuguese	Português(BR)
 1308428726	Falha ao inicializar o armazenamento. Para jogar, você precisa de um espaço de armazenamento conectado.
 1459825798	Tentar Novamente
 1825071464	O seu último jogo salvo está obsoleto ou corrompido. Deseja reiniciar a missão atual?
-906613780	Você atingiu o número máximo de jogo salvo. Exclua ou substitua um jogo salvo existente. Nota: Salvamento rápido não contam para esse limite
+906613780	Você atingiu o número máximo de jogos salvos. Exclua um jogo salvo existente ou escolha um jogo salvo para substituir.
 2114202035	Reconecte seu controlador sem fio ou use outro controlador sem fio conectado e alterne para o usuário que iniciou o aplicativo.
 962072658	Salvando: não feche o jogo, suspenda o jogo ou desligue o console Xbox One enquanto este símbolo estiver sendo exibido
 1499250081	Salvando: não desligue seu PlayStation®4 enquanto este símbolo estiver sendo exibido.
@@ -327,7 +327,7 @@ Portuguese	Português(BR)
 2087751746	Opções de áudio
 25224588	Dados de inicialização
 1739078801	Esquema de botões
-442535890	O jogo salvo está corrompido. A missão será reiniciada.
+442535890	O jogo salvo está corrompido, a missão vai ser reiniciada.
 830724165	Configurações de rastreamento ocular
 75518517	Espaço insuficiente disponível. Libere mais espaço para salvar seu jogo.
 1883515290	Para ver uma visão geral de todas as ações vinculáveis, vá para Opções e abra o menu Controles.
@@ -464,8 +464,8 @@ Portuguese	Português(BR)
 1220564156	Seleção múltipla de personagens
 1610317847	Segure <hotkey>{0}</hotkey> e arraste uma caixa sobre todos os personagens que você deseja selecionar. Ou então, segure <hotkey>{1}</hotkey> e clique em <hotkey>{2}</hotkey> em seus respectivos retratos.
 42793480	Enquanto segura <hotkey>{0}</hotkey>, use <hotkey>{1}</hotkey> para selecionar mais de um personagem ou <hotkey>{2}</hotkey> para selecionar todos os caracteres disponíveis. Você controlará o primeiro personagem que selecionou e os outros o seguirão.
-1356113339	Vários pontos intermediários
-1387195571	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para definir vários pontos intermediários para os personagens.
+1356113339	Pontos de referência múltiplos
+1387195571	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para estabelecer pontos de referência múltiplos para o personagem seguir.
 2070609971	Modo visão
 878634208	Segure <hotkey>{0}</hotkey> para entrar no Modo Visão e selecione cones inimigos. Enquanto estiver no modo visão, você também pode definir um marcador de cone, exibir zonas de alarme ou usar o avanço rápido para reduzir o tempo de espera.
 765451162	Avanço rápido
@@ -512,8 +512,8 @@ Portuguese	Português(BR)
 771797553	Derrube um inimigo à queima-roupa. Pode nocautear casacos longos.
 1245144391	Bianca
 1307582697	Coloque Bianca (armadilha para urso). Mata o primeiro inimigo que pisar nela. Precisa ser recuperada novamente.
-1246149011	Assovio
-823392386	Assovio para criar ruído. Os inimigos ao alcance se moverão para o local de Hector.
+1246149011	Assobiar
+823392386	Assobiar para criar ruído. Os inimigos ao alcance se moverão para o local de Hector.
 1909121017	A da Boa
 473693194	Tome um gole para curar Hector. Forte demais para todo mundo.
 2029916213	Espingarda Serrada
@@ -636,7 +636,7 @@ Portuguese	Português(BR)
 1524376688	Jogador
 1873916024	Cam
 766903264	Menu
-960651577	RodaUI
+960651577	IndicadorIU
 1421349032	Cinemática
 1080899783	Geral
 613153956	Cone
@@ -671,56 +671,56 @@ Portuguese	Português(BR)
 960958096	Gira a câmera para direita
 583071028	Gira a câmera para esquerda
 1170656858	Selecionar personagem
-1200479920	Roda do personagem
-1593199432	Mover
-1603400940	Mover
-1551263779	Corre
-1436388833	Agachar-se
-422031039	Ação contextual
-565815288	Solta
-1466895198	Morte por ação contextual
-490857043	Selecionar Habilidade 1 (ativa)
-509373635	Selecionar Habilidade 2
-2050968303	Selecionar Habilidade 3
-92430955	Selecionar Habilidade 4
-771827029	Selecionar Habilidade 5
-582026003	Apontar
-1290681060	Habilidade
-1833998590	Execução avançada de habilidades
+1200479920	Indicador de personagem
+1593199432	Mover-se
+1603400940	Mover-se
+1551263779	Correr
+1436388833	Agachar
+422031039	Ação de contexto
+565815288	Derrubar
+1466895198	Morte por Ação de contexto
+490857043	Escolher habilidade 1 (ativa)
+509373635	Escolher habilidade 2
+2050968303	Escolher habilidade 3
+92430955	Escolher habilidade 4
+771827029	Escolher habilidade 5
+582026003	Mirando
+1290681060	Fazer habilidade
+1833998590	Executar Habilidade Avançada
 2038493822	Modo de visão
 958235635	Continuar a Conversa
 644524852	Alterar ação contextual
-1803048083	Selecionar Isabelle
-463150884	Selecionar Hector
-1778733118	Selecionar Cooper
-2041969087	Selecionar McCoy
-1943500125	Selecionar Kate
-657133353	Selecionar Other
-1531102395	Destacar tudo
-1187336011	Ativar o modo de duelo
-1076844111	Salvar pontos intermediários
-1242391234	Executar o modo de duelo
-1784416254	Redefinir o modo Duelo de todos
-1997124204	Redefinir o modo Duelo de Cooper
-2122390231	Redefinir o modo Duelo de McCoy
-2075995503	Redefinir o modo Duelo de Hector
-164389443	Redefinir o modo Duelo de Kate
-889853637	Redefinir o modo Duelo de Isabelle
-1889610530	Giro livre da câmera
-2020784017	Marcador de cone
-1412335462	Salvar jogo
-1246022481	Carregamento rápido
-2102361814	Pular cinemática
-885289735	Redefinir câmera
-1274816296	Remover o marcador de cone
+1803048083	Escolher Isabelle
+463150884	Escolher Hector
+1778733118	Escolher Cooper
+2041969087	Escolher McCoy
+1943500125	Escolher Kate
+657133353	Escolher Other
+1531102395	Destacar todos
+1187336011	Ativar modo duelo
+1076844111	Salvar ponto de referência
+1242391234	Executar modo duelo
+1784416254	Reiniciar modo Duelo de todos
+1997124204	Reiniciar modo Duelo de Cooper
+2122390231	Reiniciar modo Duelo de McCoy
+2075995503	Reiniciar modo Duelo de Hector
+164389443	Reiniciar modo Duelo de Kate
+889853637	Reiniciar modo Duelo de Isabelle
+1889610530	Giro de câmera livre
+2020784017	Marcador do cone
+1412335462	Salvar registro rápido
+1246022481	Carregar registro rápido
+2102361814	Ignorar cinemática
+885289735	Reiniciar câmera
+1274816296	Remover marcador do cone
 934400398	Registro da Missão
-93003420	Alterar habilidade contextual
-1209272936	Roda de Habilidade
-592088716	Executar o modo de duelo de Cooper
-194697378	Executar o modo de duelo de McCoy
-593481215	Executar o modo de duelo de Hector
-72661506	Executar o modo de duelo de Kate
-1480016166	Executar o modo de duelo de Isabelle
+93003420	Alternar habilidade de contexto
+1209272936	Indicador de habilidade
+592088716	Executar o modo duelo de Cooper
+194697378	Executar o modo duelo de McCoy
+593481215	Executar o modo duelo de Hector
+72661506	Executar o modo duelo de Kate
+1480016166	Executar o modo duelo de Isabelle
 1434391743	Visão de centro
 463301716	Ativar cone
 2134400581	Selecionar Habilidade 1 (inativa)
@@ -1003,8 +1003,8 @@ Portuguese	Português(BR)
 1847265587	O <skill>Vagoneta</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
 340709910	O <skill>Vagoneta</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
 122918593	Salvar rápido e Carregar rápido
-162479796	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1}./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
-274179946	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último jogo salvo pressionando {1} e selecionando o jogo que você deseja carregar./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
+162479796	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último registro de jogo salvo pressionando {1}./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
+274179946	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último registro de jogo salvo pressionando {1} e selecionando o registro que você deseja carregar./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
 1897236503	Frascos de perfume
 488427544	Kate tem um suprimento ilimitado de <skill>Frascos de perfume</skill>. Um frasco cega temporariamente todos os <skill>guardas</skill> ao alcance./nEsta é uma das poucas habilidades que tem efeito total em todos os tipos de guardas, incluindo <skill>Casacos Longos</skill> e <skill>Ponchos</skill>.
 896736163	Nocaute
@@ -5080,14 +5080,14 @@ Portuguese	Português(BR)
 294584919	Não. Vamos pegar os outros primeiro.
 1710937578	Ainda não. Os outros ainda estão trancados.
 1586099081	Tudo bem, vamos sair!
-1302353218	*yawns*
+1302353218	*Suspiro*
 1481639880	Hmph!
 1641689256	Calma, amigo.
 815690801	Qual o caminho para a próxima estação de trem?
 1520189872	... Na estrada... algumas milhas...
 1444952461	Hmph!
 757917807	Obrigado.
-1469280115	Você nunca fica parada, Sunshine?
+1469280115	Você nunca fica parado, Querido?
 414423421	Bem, ele está de mau humor.
 170833790	Não posso realmente culpá-lo.
 398258641	Saímos vivos, não é?
@@ -5287,9 +5287,9 @@ Portuguese	Português(BR)
 693567082	Merda, sim. Talvez eu não atire em você, afinal.
 2102922976	Mais bebida, menos tiros.
 1051775363	Heh, homem inteligente. Deixe vir.
-1121339698	(hic) Finalmente!
+1121339698	(Soluço) Finalmente!
 527118112	Que tal outro para a senorita?
-2093372229	(hic) Huh? Wha?
+2093372229	(Soluço) Huh? O que?
 89932817	E aqui está outro para a senorita.
 1050081051	Minha cabeça... girando... 
 581065887	Mais um para você.
@@ -16182,7 +16182,7 @@ Portuguese	Português(BR)
 1755510902	Pressione <hotkey>{0}</hotkey> para parar no meio de escadas, cordas e trepadeiras.
 1836583362	Movendo corpos no modo Duelo
 68164799	Se você pegar um corpo no modo Duelo, poderá reservar uma ação adicional para movê-lo e largá-lo. Isso também funciona ao Matar e Mover.
-240081232	Pontos intermediários no modo Duelo
+240081232	Pontos de referência no modo Duelo
 321945412	No modo Duelo, você pode traçar um único ponto para cada personagem.
 1843019443	Informações de Reforços
 72136199	Pressione <hotkey>{0}</hotkey> ou passe o mouse sobre o ícone de um quartel para ver o número e o tipo de reforços que serão implantados durante um alarme, bem como o número total de reservas.
