@@ -40,7 +40,7 @@ Portuguese	Português(BR)
 1126684877	James Cooper morreu.
 1767301141	Kate foi capturada a caminho do escritório.
 1804249882	Não resta dinamite para destruir o alvo.
-729436862	Redefinir câmera
+729436862	Reiniciar câmera
 2004899354	Câmera
 1848829029	Nenhum
 417700520	Matar
@@ -51,8 +51,8 @@ Portuguese	Português(BR)
 426906539	Carregar registro salvo?
 1455108595	Salvar o jogo
 537819092	Tempo de conclusão:
-1033428211	Contagem de jogos salvos:
-1389622243	Contagem de jogos carregados:
+1033428211	Contagem de registros salvos:
+1389622243	Contagem de registros carregados:
 876575705	Inimigos mortos:
 663721942	Inimigos poupados:
 1332746099	Civis mortos:
@@ -67,13 +67,13 @@ Portuguese	Português(BR)
 1238875375	{0}s
 1003502670	ESTATÍSTICAS
 1350143852	PERSONAGENS
-1519278145	Execuções:
+1519278145	Mortes executadas:
 1771961771	Tempo:
 1898824317	Menu
 1808595989	Salvar rápido
 316165492	Carregar rápido
-553774258	Pular {0}
-763728597	Pular
+553774258	Ignorar {0}
+763728597	Ignorar
 1607540763	FIM DE JOGO
 134572073	OBJETIVOS
 684574630	DICAS
@@ -166,8 +166,8 @@ Portuguese	Português(BR)
 256619881	PAUSADO
 327085024	LISTA RÁPIDA
 1630446124	{0} hoje
-499301031	{0} m antes
-1535055933	{0}m {1}s antes
+499301031	Há {0} min.
+1535055933	Há {0} min. {1} seg.
 375658126	SUBSTITUIR
 919197944	CARREGAR
 1273710227	SAIR DO JOGO
@@ -200,8 +200,8 @@ Portuguese	Português(BR)
 666387157	Alternar avanço rápido
 1162764950	CINEMÁTICA
 1225642196	Deseja assistir à cena novamente?
-1718054198	Registro salvo (Rápido)
-234100204	Registro salvo (Normal)
+1718054198	Registros rápidos salvos
+234100204	Registros salvos normais
 738261692	Arquivo obsoleto!
 753130424	NOVO JOGO
 1238399001	CONFIRMAR
@@ -354,17 +354,17 @@ Portuguese	Português(BR)
 310268606	Legendas
 348832845	CARREGAR DICAS
 1514049626	Dicas das ferramentas
-163742262	Todos os personagens e habilidades têm dicas que ajudam a descobrir novas estratégias.
-605453809	Ataques corpo a corpo não-letais
-482668800	Todos os ataques corpo a corpo têm uma opção não-letal. Pressione <hotkey>{0}</hotkey> para mudar para não-letal ou use o modificador na barra de habilidades.
-1798452257	Todos os ataques corpo a corpo têm uma opção não-letal. aguarde <hotkey>{0}</hotkey> para abrir sua roda de personagem e pressione <hotkey>{1}</hotkey> para alternar entre os modos.
+163742262	Todas as habilidades e personagens têm dicas que podem ajudá-lo a descobrir novas estratégias.
+605453809	Ataques físicos não-letais
+482668800	Todos os ataques físicos têm uma opção não-letal. Pressione <hotkey>{0}</hotkey> para mudar para não-letal ou use o modificador na barra de habilidades.
+1798452257	Todos os ataques físicos têm uma opção não-letal. aguarde <hotkey>{0}</hotkey> para abrir sua roda de personagem e pressione <hotkey>{1}</hotkey> para alternar entre os modos.
 1907007791	Ataques não letais de pulo
-124657665	Quando seu ataque corpo a corpo é mudado para não-letal, o ataque contra seus guardas o derrubará em vez de matá-los.
+124657665	Quando seu ataque físicos é mudado para não-letal, o ataque contra seus guardas o derrubará em vez de matá-los.
 949271593	Movendo corpos mortos
-1671046303	Os personagens movem os corpos de maneira diferente. Alguns focam na velocidade; outros ficam perto do chão para evitar a detecção.
+1671046303	Cada personagem move os cadáveres de maneira diferente. Alguns transportam mais rápido, os outros os deixam mais próximos do chão para evitar serem detectados.
 1628782004	Matar e Carregar
-1344684890	Segure <hotkey>{0}</hotkey> ao ordenar uma morte corpo a corpo para carregar o corpo automaticamente.
-1476567941	Segure <hotkey>{0}</hotkey> durante uma morte corpo a corpo para carregar o corpo automaticamente.
+1344684890	Segure <hotkey>{0}</hotkey> ao ordenar uma morte física para carregar o corpo automaticamente.
+1476567941	Segure <hotkey>{0}</hotkey> durante uma morte física para carregar o corpo automaticamente.
 520060613	Marcador de cone
 3333633	Não apressem-se ao verificar um local com o marcador de cone. Alguns guardas têm longas rotas de patrulha.
 822402292	Marcador
@@ -381,8 +381,8 @@ Portuguese	Português(BR)
 545151036	Girar a câmera
 68323806	Segure <hotkey>{0}</hotkey> e mova o mouse para girar livremente a câmera.
 573759884	Segure <hotkey>{0}</hotkey> e use <hotkey>{1}</hotkey> para girar livremente a câmera.
-141599116	Redefinir a câmera
-1856158476	Pressione <hotkey>{0}</hotkey> para centralizar a câmera no personagem selecionado e redefinir o giro da câmera para o padrão.
+141599116	Reiniciar a câmera
+1856158476	Pressione <hotkey>{0}</hotkey> para centralizar a câmera no personagem selecionado e reiniciar o giro da câmera para o padrão.
 490202928	Entrar no cone
 751421264	Não tenha medo de entrar no cone de um inimigo se necessário. Contanto que você possa voltar rápido o suficiente e não ser despercebido.
 1535817616	Passar pelo cone
@@ -809,7 +809,7 @@ Portuguese	Português(BR)
 1383672889	Descubra os CodiNomes e localizações de todos os suspeitos.
 455186100	Mate todos os suspeitos.
 1825898325	Não mate nenhum suspeito.
-2098414280	Nenhum nocaute ou morte corpo a corpo, exceto no caso de Isabelle.
+2098414280	Nenhum nocaute ou morte física, exceto no caso de Isabelle.
 2137533299	Não mate ninguém com McCoy.
 634442317	Abra todas as jaulas.
 891213051	Escolha o caminho à esquerda.
@@ -994,15 +994,15 @@ Portuguese	Português(BR)
 1558125949	O <skill>Marcador de cone</skill> mostra se um local é vigiado pelos guardas./nSegure {0} para colocá-lo em um <skill>local</skill> ou em um <skill>guarda</skill>./n
 1351644456	O <skill>Marcador de cone</skill> mostra se um local é vigiado pelos guardas./nSegure {0}, e depois use o cursor e pressione {1} para colocá-lo em um <skill>local</skill> ou em um <skill>guarda</skill>./n
 474395380	Realçar objetos
-205196585	Você pode <skill>destacar</skill> todos os objetos e inimigos interativos pressionando {0}.
-1238248782	Você pode <skill>destacar</skill> todos os objetos e inimigos interativos pressionando {0}.
+205196585	Pressione {0} para <skill>destacar</skill> os inimigos e objetos interativos no ambiente.
+1238248782	Pressione {0} para <skill>destacar</skill> os inimigos e objetos interativos no ambiente.
 1490757284	Seguir
 1320541830	Kate pode atrair <skill>guardas</skill> para segui-la por um curto período de tempo./nAs mulheres, Ponchos e Casacos Longos são imunes a seus encantos.
 1314573438	Kate pode atrair <skill>guardas</skill> para segui-la por um curto período de tempo./nFlerte com eles e pressione {0} novamente para fazê-los segui-la./nMulheres, Ponchos e Casacos Longos são imunes a seus encantos.
 955787236	Vagoneta
 1847265587	O <skill>Vagoneta</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
 340709910	O <skill>Vagoneta</skill> pode ser <skill>movido</skill> pelas trilhas. Os <skill>Trocadores de vias</skill> podem ser operados através de alavancas ao lado deles./nVocê pode <skill>liberar</skill> o carrinho pressionando {0}/nTenha cuidado! Se o carrinho for atingido por alguma bala, ele explodirá.
-122918593	Salvar rápido e Carregar rápido
+122918593	Salvar ou Carregar registro rápido
 162479796	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último registro de jogo salvo pressionando {1}./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
 274179946	Você pode salvar o jogo a qualquer momento pressionando {0}./nCarregue seu último registro de jogo salvo pressionando {1} e selecionando o registro que você deseja carregar./nUse-o <skill>frequentemente</skill>! Falhar e tentar novamente é <skill>normal</skill> e faz parte do jogo.
 1897236503	Frascos de perfume
@@ -1046,24 +1046,24 @@ Portuguese	Português(BR)
 2011726767	Mover /n {0}
 2015399734	Correr /n <hotkey>2 x</hotkey> {0}
 1130591802	Correr {0}
-1352061002	Agachar-se/n {0}
-451565714	Agachar-se/n {0}
+1352061002	Agachar/n {0}
+451565714	Agachar/n {0}
 818918724	Exibir cone /n {0}
 1803911677	Exibir cone /nSegure {0}
 1329201872	Cone /n {0}
 546518967	Cone /nSegure {0}
 1734509107	Exibir cone /n Segure {0}/n Selecione{1}
-1468795448	Salvar rápido /n {0}
-805677071	Salvar rápido/n {0}
+1468795448	Salvar registro rápido /n {0}
+805677071	Salvar registro rápido/n {0}
 30740186	Zoom /n {0}
 991590334	Zoom/n Segure {0}
 1218799266	Girar câmera/n Segure {0}
 126308928	Girar câmera/n Segure {0}, Girar {1}
-869364089	Redefinir câmera /n{0}
-32296457	Redefinir câmera/n {0}
+869364089	Reiniciar câmera /n{0}
+32296457	Reiniciar câmera/n {0}
 1976065184	Pegar corpo/n {0}
-1076383443	Soltar Corpo/n Segure {0}, Posição para Soltar {1}
-1617048422	Soltar Corpo/n {0}
+1076383443	Derrubar Corpo/n Segure {0}, na posição para Derrubar {1}
+1617048422	Derrubar Corpo/n {0}
 631295312	Arremesso/n {0}
 1168533264	Arremesso
 210459605	Usar/n {0}
@@ -1072,8 +1072,8 @@ Portuguese	Português(BR)
 520147263	Selecionar personagem/n {0}
 741847450	Modo Duelo /n {0}
 1638392578	Modo Duelo/n {0}
-100908021	Pular/nPule aqui
-2083201227	Pular/nPule aqui
+100908021	Pular/nAtravessar
+2083201227	Pular/nAtravessar
 2001093994	Recolher faca /n Caminhe até o <hotkey>CADÁVER</hotkey>
 2113789918	Recolher faca /n <hotkey>Caminhe até o CADÁVER</hotkey>
 436268579	Realçar/n {0}
