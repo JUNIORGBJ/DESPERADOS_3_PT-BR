@@ -1639,9 +1639,9 @@ Portuguese	Português(BR)
 1710522083	Vamos para a rua. Ninguém nos incomodará se ficarmos entre os locais, com isso teremos espaço para respirar.
 1090916079	Por enquanto, tudo bem. Mas quem são os caras que vamos "surrar"?
 743641397	Primeiro temos o Jarvis. Um cara realmente durão. Agora ele está naquele quintal tentando montar o touro na cidade.
-465329894	A próxima é a Wild Marge. Ele está no primeiro andar do bordel Flagstone, bebendo uísque e assistindo as garotas dançarem.
+465329894	A próxima é a Wild Marge. Ela está no primeiro andar do bordel Flagstone, bebendo uísque e assistindo as garotas dançarem.
 174165267	Então há "O Duque". Está dando voltas com seus puxa-sacos, subindo e descendo pela Rua da Igreja.
-1314266132	E o último é o capataz, McBane. Ele é um verdadeiro idiota. Fez seus homens derrubaram metade da cidade para que as obras não tivessem que ser desviadas.
+1314266132	E o último é o capataz, McBane. Ele é um verdadeiro idiota. Fez seus homens derrubarem metade da cidade para que as obras não tivessem que ser desviadas.
 1883399229	Então nos livramos deles, voltamos para a taberna e terminamos nossas bebidas.
 354756553	Isso não é bem um plano Hector.
 1477743624	Por que você acha que eu esperei por você?
