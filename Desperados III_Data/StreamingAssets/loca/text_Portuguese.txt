@@ -1440,7 +1440,7 @@ Portuguese	Português(BR)
 1694409325	Bem bem. Um médico de verdade, afinal.
 1751704381	Não pareça tão surpreso.
 1898403668	Alguma ideia sobre este?
-1554018004	Vou usar minha bolsa como isca. Você apenas se esconde e aprende algo.
+1554018004	Vou usar minha bolsa como isca. Apenas se esconda e aprenda.
 639337317	Armadilha de gás, hein? Não é ruim. Como você abre essa coisa com segurança?
 272489015	Você não consegue, Sr. Cooper, a menos que você seja eu.
 1869689713	Big Ann fez isso de novo.
@@ -1458,13 +1458,13 @@ Portuguese	Português(BR)
 2021481338	Não sei para onde foi, mas não era seu alvo.
 1212423052	Você não impressionou até agora, Sr. McCoy.
 1122724759	Vamos lá, McCoy. Não temos o dia todo.
-251747283	Bem, eu vou ser amaldiçoado.
+251747283	Por esta eu não esperava.
 1669130534	Rifle de longo alcance. Coronha e projeteis personalizados.
 1272865861	Espero que não se importe, Sr. McCoy.
-1105231492	Bem. Eu salvo uma bala.
+1105231492	Bem. Eu economizo uma bala.
 1236950567	Vamos la.
 520419993	Meus dias de escalada ficaram para trás, Sr. Cooper.
-1671694831	Bem, vamos descobrir algo.
+1671694831	Bem, vamos descobrir.
 1511114845	Eu ainda estou esperando aqui, Sr. Cooper!
 1661976841	É melhor levantá-lo antes de seguir em frente!
 486887981	Espero que você possa escalar essa escada de corda, Sr. McCoy.
@@ -1528,8 +1528,8 @@ Portuguese	Português(BR)
 841434891	Eles tentarão de tudo, atiram neles!
 2055157191	Você verme da companhia. Diga-me onde estão os cofres.
 1159849560	Eu-eu-eu não sei, senhorita. Eu juro.
-1782893817	Eu sei que a Companhia DeVitt tem esse dinheiro neste trem. Onde está?
-1514072165	Como eu iria saber? Eles não me dizem nada.
+1782893817	Eu sei que a Companhia DeVitt tem dinheiro neste trem. Onde está?
+1514072165	Como eu vou saber? Eles não me dizem nada.
 993876529	Não adianta esconder isso de mim, querido. Meus homens vão encontrar.
 1144006518	Não estou escondendo nada, senhorita.
 1116280026	Os cofres. Qual vagão? Diga-me ou eu vou atirar em você na cara.
@@ -1573,7 +1573,7 @@ Portuguese	Português(BR)
 1092787853	Agora, de volta à tarefa em questão.
 766046273	Certo. Qualquer coisa que você diga.
 366179940	Tudo certo. Vamos lidar com o resto deles.
-817921335	Meus pensamentos exatamente.
+817921335	Exatamente o que pensei.
 1836596718	Acho que você fez a Companhia DeVitt contente hoje.
 793788117	Quanto você ganha por um emprego como este?
 851137006	Espero que você não queira uma parte.
@@ -1584,7 +1584,7 @@ Portuguese	Português(BR)
 1683520205	Como quiser.
 1183665302	Não foi tão ruim trabalhar com você, McCoy.
 1137118737	Certo. Se você precisar de um profissional, já sabe a quem chamar.
-869904866	Bom dia, Sr. Cooper.
+869904866	Tenha um Bom dia, Sr. Cooper.
 1296821262	VO TRACK
 1076983379	Avance ao longo do trem
 447712959	Bandidos estão vigiando o trem. Vá para a frente.
@@ -5087,7 +5087,7 @@ Portuguese	Português(BR)
 1520189872	... Na estrada... algumas milhas...
 1444952461	Hmph!
 757917807	Obrigado.
-1469280115	Você nunca fica parado, Querido?
+1469280115	Você nunca fica parada, Querido?
 414423421	Bem, ele está de mau humor.
 170833790	Não posso realmente culpá-lo.
 398258641	Saímos vivos, não é?
@@ -5287,9 +5287,9 @@ Portuguese	Português(BR)
 693567082	Merda, sim. Talvez eu não atire em você, afinal.
 2102922976	Mais bebida, menos tiros.
 1051775363	Heh, homem inteligente. Deixe vir.
-1121339698	(Soluço) Finalmente!
+1121339698	(soluço) Finalmente!
 527118112	Que tal outro para a senorita?
-2093372229	(Soluço) Huh? O que?
+2093372229	(soluço) Huh? O que?
 89932817	E aqui está outro para a senorita.
 1050081051	Minha cabeça... girando... 
 581065887	Mais um para você.
@@ -5365,7 +5365,7 @@ Portuguese	Português(BR)
 778998063	Espero que todos tenham o seu melhor comportamento quando os convidados chegarem.
 1659846400	Faça-me a cortesia e olhe para mim quando eu falar com você.
 1553043809	Eu só estava pensando.
-1782845682	Estou meio cansada de você, Vincent.
+1782845682	Estou meio cansado de você, Vincent.
 1258618146	Por favor, Frank.
 578298804	Eu realmente acho que você é velho demais para esse tipo de coisa.
 1753186492	Talvez você esteja certo.
