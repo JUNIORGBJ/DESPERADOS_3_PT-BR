@@ -1946,7 +1946,7 @@ Portuguese	Português(BR)
 1301008775	Frank diz que está ficando impaciente.
 1758863038	Merda! Agora não! Você não vê que estamos ocupados?
 1308103675	Me desculpe, docinho de caju. Isso é algo que eu realmente tenho que cuidar.
-1296826008	Não se preocupe comigo, querida.
+1296826008	Não se preocupe comigo, querido.
 952763125	Fique bem aqui. Voltarei em um instante.
 2110419620	Eu preciso de mais tempo. Tente distrair Frank. Eu realmente preciso verificar os arranjos de flores.
 1015183357	Sim senhor.
@@ -2224,10 +2224,10 @@ Portuguese	Português(BR)
 2075204433	Hector, você vai com a senhorita O'Hara.
 1532121296	Acho que teremos até o pôr do sol antes que os homens DeVitt venham para o rancho.
 428872947	Eu te vejo lá.
-353004801	Você conseguiu, amigo.
+353004801	Entendido, amigo.
 1396775620	Obrigado, Sr. Cooper.
 1049066160	Não precisa me agradecer. Temos um acordo, não temos?
-1690792622	Esse Frank deve ser um cara infernal se você arriscar sua vida assim para encontrá-lo.
+1690792622	Esse Frank deve ser um demônio, se você arrisca sua vida assim para encontrá-lo
 1959489870	Não seria a primeira vez.
 935716525	Bem, é melhor você se apressar. Estaremos esperando você no rancho.
 163232293	Esperemos.
@@ -2270,7 +2270,7 @@ Portuguese	Português(BR)
 1484168522	Ouça, nós vimos cavaleiros descendo através do desfiladeiro..
 962755699	Tudo bem, vamos pegá-los.
 1454919041	Vocês dois vão e matam aqueles malditos um por um.
-2029985056	Quem matar mais ganha uma garrafa de uísque. Certo
+2029985056	Quem matar mais ganha uma garrafa de uísque. Certo!?
 1100291314	Uísque, é? Certo. Eu vou me esconder no galpão.
 1755941760	Tudo bem, tudo bem.
 187223591	E você, Sr. McCoy? Você acha que pode fazer melhor que o Sr. Hector?
@@ -2362,10 +2362,10 @@ Portuguese	Português(BR)
 1838980389	Desculpe chefe, estamos esperando por munição.
 1862633060	Jesus, eu tenho que fazer tudo por aqui?
 858682549	Você, vem comigo, vamos pegar essa maldita munição.
-276827080	O resto de vocês, idiotas, os mantém ocupados até então.
+276827080	O resto de vocês, idiotas, os mantém ocupados.
 392024934	As coisas estão esquentando na casa do rancho. É melhor nos apressarmos.
 2111169794	Qual é o nosso plano?
-2076913082	Bem, meu plano é matar os casacos longos. Eles são responsáveis daqui. Se eles morrerem, podemos ter uma chance.
+2076913082	Bem, meu plano é matar os casacos longos. Eles são os responsáveis daqui. Se eles morrerem, podemos ter uma chance.
 1352145573	Você está com o cara certo! Caras grandes são minha especialidade.
 328109224	Bom saber disso... 
 1367306084	Eu sei de outra coisa que pode ajudar.
