@@ -2616,7 +2616,7 @@ Portuguese	Português(BR)
 1561130345	Parece que você está ficando para trás.
 1067616533	Estou apenas me aquecendo.
 2071346198	Qual é o problema? Você está ficando para trás!
-1386900202	Estou apenas tomando meu tempo.
+1386900202	Apenas não estou com pressa.
 1847947834	Hah, eu estou alcançando!
 843642707	Você ainda está arrastando.
 1779438194	Parece que eu estou lhe alcançando, Sr. Hector.
@@ -2631,7 +2631,7 @@ Portuguese	Português(BR)
 654750945	Doc McCoy, na verdade.
 984738874	Heh, com certeza. Você não é realmente médico, certo?
 435477998	Se você tiver sorte um dia, descobrirá.
-909921615	Então você é médico. Realmente?
+909921615	Então você é médico, sério?
 1945803513	Você tem algum problema com isso?
 94561977	Abrir fechaduras. Tiro a longa distância. Você aprendeu isso na faculdade de medicina?
 492046563	Eu sou um homem de muitos talentos.
@@ -2640,7 +2640,7 @@ Portuguese	Português(BR)
 1408124644	Você deu um nome para essa coisa?
 307143757	Você ouviu isso, Bianca. Ele está com ciúmes.
 247604673	Então, onde você encontrou sua Bianca.
-1799273930	Um velho ferreiro me deu. Disse que ninguém a queria, porque ela era grande demais.
+1799273930	Um velho ferreiro me deu. Disse que ninguém a queria porque ela era grande demais.
 88785221	Mas não para você.
 1301401938	Você deveria ter visto. Toda maltratada e enferrujada. Eu tive que polir, limpá-la, lubrificá-la...
 343744116	Acho que já ouvi o suficiente, obrigado.
