@@ -10,18 +10,18 @@ Polish	Polonês
 Japanese	Japonês
 Portuguese	Português(BR)
 
-1089572441	Selecionar personagem
-326908463	Cancelar seleção de personagem
+1089572441	Escolher personagem
+326908463	Desmarcar personagem
 1593035469	Selecionar todos os personagens
-720952508	Cancelar seleção de todos os personagens
+720952508	Desmarcar todos os personagens
 8814543	Subir
 1707401394	Pegar
 1228448906	Esconder corpo
 974031510	Descer
 1570316501	Pular
-1281200264	Em falta
-1661399895	Soltar
-1970208064	Apontar
+1281200264	Equipamentos ausentes
+1661399895	Derrubar
+1970208064	Mirar
 332063575	Usar habilidade
 1642445805	Trocar habilidade
 979623826	Colocar marcador
@@ -757,22 +757,22 @@ Portuguese	Português(BR)
 1221439810	Não acione nenhum alarme.
 627762489	Não mate ninguém (exceto alvos de missão).
 2049843189	Não seja visto por ninguém.
-1081723203	Mate todos.
-1406208931	Super Veloz: Complete a missão em menos de {0} minutos.
-14063527	Não mate ninguém e não acione nenhum alarme.
+1081723203	Mate todos os inimigos.
+1406208931	Conclua a missão em menos de {0} minutos.
+14063527	Não mate ninguém e não dispare nenhum alarme.
 1148110388	Esconda todos os corpos em arbustos, poços, casas, etc.
-1428790442	Não apague nenhuma fonte de luz, incluindo lampiões transportados por guardas.
-650066362	Não toque na água.
-82324557	Não mate civis.
+1428790442	Não apague nenhuma luz, inclusive as tochas carregadas pelos inimigos.
+650066362	Não entre na água.
+82324557	Não mate nenhum civil.
 256810044	Não pise em superfícies barulhentas.
-888490653	Mate todos os guardas que carregam lampiões.
-950140396	Apague todas as fontes de luz, incluindo lampiões transportadas por guardas.
-1295376244	Faça um guarda seguir suas pegadas por {0} metros.
-1061741433	Não toque em arbustos ou palheiros.
-413325399	Complete a missão na dificuldade Difícil.
+888490653	Mate todos os inimigos que carregam tochas.
+950140396	Apague todas as tochas, inclusive as tochas carregadas pelos inimigos.
+1295376244	Faça um inimigo seguir as suas pegadas por {0} metros.
+1061741433	Não toque em nenhum arbustos ou palheiros.
+413325399	Conclua a missão na dificuldade Difícil.
 477910365	Mate todos, exceto os civis.
 1889045333	Não pule e não use escadas, cordas ou trepadeiras.
-121027725	Não mate casacos longos.
+121027725	Não mate nenhum casacos longos.
 1666736140	Mate todos os casacos longos.
 1895505204	Não use um disfarce.
 1511084033	Não use a capacidade de conexão de Isabelle.
@@ -1053,8 +1053,8 @@ Portuguese	Português(BR)
 1329201872	Cone /n {0}
 546518967	Cone /nSegure {0}
 1734509107	Exibir cone /n Segure {0}/n Selecione{1}
-1468795448	Salvar registro rápido /n {0}
-805677071	Salvar registro rápido/n {0}
+1468795448	Salvar registro /n rápido {0}
+805677071	Salvar registro /n rápido {0}
 30740186	Zoom /n {0}
 991590334	Zoom/n Segure {0}
 1218799266	Girar câmera/n Segure {0}
