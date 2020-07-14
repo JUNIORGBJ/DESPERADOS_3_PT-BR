@@ -4260,35 +4260,35 @@ Portuguese	Português(BR)
 219174940	Ele é melhor não. Se ele faz isso, é quando você está com problemas, parceiro.
 708043211	Ah Merda...
 1237352316	Heh, isso parece promissor.
-1402218786	Temos certeza que não somos bem-vindos aqui.
-264824954	Estou começando a me perguntar o quão profunda é essa toca de coelho.
-1584283256	Não me culpe, Sunshine.
+1402218786	Nós certamente não somos bem-vindos.
+264824954	Estou começando a me perguntar em que tipo de problema estamos nos metendo.
+1584283256	Não me culpe, querido.
 1106473105	Mais guardas na rua.
-166424142	Eu vejo mais deles na rua.
-465289283	Você vai ter muitos problemas para encontrar esse Wayne.
-1400108595	Que parte do "amigo" você não entende, Sunshine?
-1395639115	Esses malditos de DeVitt não são bons.
-1559167070	Gostaria de saber o que todos os homens DeVitt estão fazendo aqui.
+166424142	Eu vejo mais na rua.
+465289283	Está se arriscando muito para encontrar esse Wayne.
+1400108595	Que parte do "amigo" você não entende, querido?
+1395639115	Esses malditos do DeVitt estão tramando algo.
+1559167070	Eu me pergunto o que todos os homens de DeVitt estão fazendo aqui.
 1314045123	Então, como você e esse Wayne se conectam a tudo isso?
-1912928322	Como eu disse, estamos vendo pessoas desaparecendo.
-1051106575	Ele foi pego e você está arriscando seu pescoço para arrastá-lo para fora.
-1372638422	Difícil de entender, tenho certeza.
+1912928322	Como eu disse, estávamos investigando o desaparecimento de algumas pessoas.
+1051106575	Ele foi pego e você está arriscando a sua vida para salvá-lo.
+1372638422	Entendo que é difícil para você entender.
 1384066380	Quase lá. Na mesma rua.
 31944297	Quase lá. Na mesma rua.
-2111191640	Você tem sorte de termos vindo. Você nunca teria feito isso sozinho.
-1190377016	E se você não me devia, acho que teria que pagar agora.
-1938896468	Claro. Na minha experiência, bons samaritanos só se saem bem nas histórias da Bíblia.
-2136802715	Você sabe o que? Foi um verdadeiro prazer, Sunshine.
-1871449115	Deve ser isso.
-299238872	Eu acho que nós encontramos.
-1413453238	Pátio de armazenamento da Companhia DeVitt.
-1447797586	Vamos dar uma olhada, sim?
-1114882330	Bem, isso não é nada obscuro.
+2111191640	Você tem sorte de termos vindo com você. Você nunca poderia ter feito isso sozinha.
+1190377016	E se eu não estivesse endividada, teria que te pagar agora.
+1938896468	Claro. Bons samaritanos só trabalham em histórias bíblicas.
+2136802715	Você sabe o quê? Você é tão legal, querido.
+1871449115	Ele tem que estar aqui.
+299238872	Acho que o encontramos.
+1413453238	Depósito da Companhia DeVitt.
+1447797586	Vamos dar uma olhada, certo?
+1114882330	Bem, isso não é suspeito.
 408350654	Bem, isso é sinistro.
-1024511792	Estamos dentro. Não vejo Wayne em lugar algum ainda.
+1024511792	Estamos dentro. Ainda não vejo o Wayne.
 1023539256	Vamos para o escritório.
-1353614439	Rapaz, estou contente que a remessa se foi.
-1853635034	Sim. Eu poderia dormir um pouco.
+1353614439	Ainda bem que a remessa se foi.
+1853635034	Sim. Quero ter uma boa noite de sono.
 1632449923	Esse cara com certeza me deu nos nervos.
 1807356780	Ouvi dizer que ele é um problema especial. Irritado com a companhia.
 503605740	Frank com certeza está com as mãos cheias esta semana.
@@ -4303,35 +4303,35 @@ Portuguese	Português(BR)
 2005629159	Nenhuma idéia. Talvez eles tenham vespas lá ou algo assim.
 2103171610	Você sabe, às vezes parece que estamos sendo vigiados.
 1455594738	Você nunca para de falar, não é?
-1630811472	O que há sob essa lona?
-1664353329	O que há sob essa lona?
-1252177924	O que há sob essa lona.
-1259929839	Bando de jaulas vazias.
-1352757938	Parece que eles trouxeram pessoas por aqui. Merda.
+1630811472	O que tem debaixo da lona?
+1664353329	O que tem debaixo da lona?
+1252177924	O que tem debaixo da lona.
+1259929839	Um monte de jaulas vazias.
+1352757938	Eles trouxeram todas aquelas pessoas aqui. Merda.
 1927222652	Este deve ser o escritório.
 2142681034	Eu vejo o escritório.
 1214468340	Aqui está o escritório.
 1524391183	Vou deixar você entrar, mas minha ficha está limpa.
-410420010	Você continua dizendo isso, Sunshine.
+410420010	Você continua dizendo isso, querido.
 1129445588	Parece que seu amigo não está aqui.
-1168794026	Merda. Onde diabos você está, Wayne?
-249802973	Talvez encontremos outra pista aqui.
+1168794026	Merda. Onde você está, Wayne?
+249802973	Talvez possamos encontrar outra pista.
 219140629	Hmm... acho que encontrei algo... Outra carta.
 873332129	O que é isso... Outra carta... Parece promissora.
 1249595933	O que é isso... outra lista de instruções, hein?
-1677552956	Bem. Vamos voltar.
-449474010	O que temos então?
-1980407959	Algo sobre uma remessa. Parece que eles trouxeram Wayne para fora da cidade.
-1297036403	Ao "Ninho da Rainha"!
+1677552956	Tudo bem, vamos voltar.
+449474010	O que encontramos?
+1980407959	Algo sobre uma remessa. Eles tiraram wayne da cidade.
+1297036403	Para o "Ninho da Rainha"!
 570706827	O que é isso?
-2035999352	Um Pântano. Isso não pode ser bom.
-310911371	Então terminamos aqui?
+2035999352	Um lugar antigo no pântano. Isso não é uma boa notícia.
+310911371	Já terminamos aqui?
 1454501434	McCoy!
-1182921693	Não, ele está certo. Eu tenho o que eu preciso. Hora de voltarmos.
-352835152	Investigar o desaparecimento de Wayne
-1036897823	Alguém fez Wayne desaparecer. Encontre o culpado e roube sua carta de instruções.
+1182921693	Não, ele está certo. Encontrei o que estava procurando. Vamos voltar.
+352835152	Investigue o desaparecimento de Wayne
+1036897823	Alguém fez Wayne desaparecer. Encontre o culpado e roube a carta com instruções.
 423518213	Mercado
-1261331645	Você pode ouvir no mercado para obter pistas.
+1261331645	Você pode ouvir conversas no mercado para reunir pistas.
 1820840122	Capataz O'Neill
 627294928	O capataz do píer 9 conhece Wayne. Procure nos bolsos dele.
 1995559175	O capataz do píer 9 não conhece Wayne.
