@@ -4391,85 +4391,85 @@ Portuguese	Português(BR)
 1936143579	Entregue Louis
 1651889979	Entregue Louis ao barco designado no Píer 9.
 1075231710	Como eu disse, estamos quites.
-726889046	Vamos, Sunshine. Tecnicamente, ainda não encontramos o Wayne.
-794767794	Minha ardósia está limpa.
-853016272	Você quer dinheiro, certo? Wayne pode pagar em espadas.
+726889046	Vamos, querido. Tecnicamente, ainda não encontramos o Wayne.
+794767794	Minha ficha está limpa.
+853016272	Você quer dinheiro, certo? Wayne pode pagar o quanto quiser.
 1814242977	De quanto estamos falando?
-1900965950	Bem, quanto custa uma arma de aluguel experiente hoje em dia?
-735007346	E como eu sei que tudo isso não é apenas conversa.
-63736693	Você conheceria um blefe ao ver um, certo Sunshine?
-1537679916	Meu, olhe para vocês dois.
-637499074	Apenas um acordo comercial.
-1645316606	Não se preocupe, encontraremos Wayne em breve.
+1900965950	Quanto custa um mercenário experiente hoje em dia?
+735007346	Como sei que não são apenas promessas?
+63736693	Você entenderia imediatamente se estivesse blefando, não é, querido?
+1537679916	Meu Deus, olhe para vocês.
+637499074	Era só uma questão de negócios.
+1645316606	Não se preocupe, vamos encontrar Wayne em breve.
 1191059120	Sim.
-1529350450	Obrigada novamente.
+1529350450	Obrigado, de novo.
 1405998789	Olá senhoras.
 1767901328	Olá.
 1751712070	Finalmente. Alguma notícia sobre Frank?
-604259569	Ah, nós apenas levantamos poeira.
+604259569	Ah, nós mudamos as coisas um pouco.
 480260808	E?
-16045425	Parece que algo grande vai acontecer aqui em breve.
-714800923	E Frank estará no meio disso.
-1254625748	Tudo o que precisamos fazer é esperar que ele apareça.
-510442306	E você? Alguma sorte em encontrar seu Wayne?
-592739093	Eles o trouxeram para um lugar secreto, um Pântano.
+16045425	Parece que algo grande está prestes a acontecer.
+714800923	E Frank está no centro de tudo.
+1254625748	Só temos que esperar que ele apareça.
+510442306	Você? Você encontrou o seu Wayne?
+592739093	Levaram-no para um lugar secreto no pântano.
 1327266590	Eu com certeza poderia usar alguma ajuda para tirá-lo de lá.
-1206896571	A menos que você queira deixar toda a diversão para mim e Sunshine.
-1528463808	Os pântanos, hein? Como você está a bordo, Doc?
+1206896571	A menos que você queira deixar toda a diversão para mim e ele.
+1528463808	O pântano, hein? Como você está, Doutor?
 371658829	Me prometeram uma compensação adequada.
-1737140275	O que você diz amigo?
-554453436	Tudo certo. 
-1401730595	Mas um de nós deve ficar para trás e tentar descobrir mais.
-928787085	Você pode deixar isso comigo.
+1737140275	O que me diz, amigo?
+554453436	Certo.
+1401730595	Mas um de nós tem que ficar para trás e tentar descobrir mais.
+928787085	Pode deixar isso comigo.
 347154777	Ótimo, vamos indo.
 63572737	Está quase acabando.
-744276640	Esperemos.
+744276640	Espero.
 1760714323	Kate.
 314368980	Só uma coisa.
-1836841578	Sabe, Frank...
+1836841578	Se você ver Frank...
 747524990	... fique longe dele.
 1636053587	Sim claro.
 1618556394	VO TRACK
-530999012	Estamos quase lá. E há o comitê de boas-vindas.
-391549281	Ei, não é divertido se eles não colocam alguns caras no seu caminho.
-560262577	Oh, você chama isso de alguns? Quem te ensinou a contar?
-230156137	Eu fiz. Lá, essa deve ser a entrada para o Ninho da Rainha. 
-1729662051	Não vamos conseguir passar sem os outros.
-987727232	Então é melhor esperar que os outros não se percam.
-923629017	Veja os guardas? Tem que ser isso.
-1636836732	Estava na hora. Este pântano é imundo.
-577485680	Vamos abrir caminho e conhecer os outros lá dentro.
-1583145713	Então Belle, onde você acha que eles estão mantendo seu amigo?
-68532589	Aposto que Wayne está em uma dessas jaulas. Temos que abri-las todas até encontrá-lo.
-1509161406	Vamos precisar do McCoy para trancar as fechaduras.
-2130325518	E depois que libertarmos o seu Wayne?
-1919762542	Nós vamos queimar aquele barco a vapor. Coloque-os fora do negócio.
-2056886389	Como você acha?
+530999012	Estamos quase lá. Vamos esperar um comitê de boas-vindas.
+391549281	Ei, não seria divertido sem um par de guardas.
+560262577	Oh, isso parece um casal para você? Quem te ensinou a contar?
+230156137	Deve ser a entrada do Ninho da Rainha. 
+1729662051	Não podemos continuar sem os outros.
+987727232	Vamos esperar que os outros não estejam perdidos.
+923629017	Vê quantos guardas? Nós estamos aqui.
+1636836732	Já não era sem tempo. Este pântano é imundo.
+577485680	Vamos nos encontrar com os outros.
+1583145713	Então Belle, onde acha que eles mantêm seu amigo?
+68532589	Aposto que Wayne está em uma dessas jaulas. Temos que abri-los todos até encontrá-lo.
+1509161406	Vamos precisar do McCoy para as fechaduras.
+2130325518	E depois de libertarmos Wayne?
+1919762542	Vamos incendiar o barco. Nós os fechamos de uma vez por todas.
+2056886389	Como você vai fazer isso?
 835921626	Primeiro destruímos os barris de petróleo no telhado.
-1628167094	Parece um trabalho para o machado.
+1628167094	Parece um trabalho apropriado para o meu machado.
 1763541953	Certo. Assim que o óleo sair, teremos uma tocha.
 1106934862	Acendemos e depois corremos.
-295892134	Eu gosto disso. Mas como nos afastamos?
-1377308491	Vamos pegar um desses barcos naquele píer e voltar para a cidade.
+295892134	Eu gostei disso. Mas como vamos fugir?
+1377308491	Roubamos um desses barcos no píer e voltamos para a cidade.
 487083302	Parece um bom plano.
-2034311477	Tudo certo. Entramos, pegamos Wayne, incendia toda a bagunça e saímos daqui.
+2034311477	Tudo certo. Vamos entrar, encontrar Wayne, colocar fogo em tudo e saímos daqui.
 973473391	Aqui vamos nós.
-1079709068	Tem que ter cuidado por aqui. Se você andar em poças, fará barulho.
+1079709068	Temos que ter cuidado aqui. Se quisermos atravessar a água
 349939198	Com certeza.
-348731245	E não esqueça a lama. Você vai deixar pegadas.
+348731245	E não vamos esquecer a lama. Vamos deixar pegadas.
 2048014237	Eu odeio pântanos.
 195707661	Tudo bem, por aqui.
-779454957	Vamos nos mexer. Quero entrar antes que McCoy chegue lá.
-515244566	Vocês dois estão fazendo apostas agora ou algo assim?
-118011838	Não, eu só quero ver o olhar no rosto dele.
-967276896	Fazendo progresso. Nós vamos ser os primeiros.
-1303117509	Qual seu problema com o Doc? Ele não é tão ruim
-1352835939	Eu não gosto da atitude dele. Ele faria qualquer coisa pelo preço certo. 
-301921037	Me lembra demais alguém que eu conheci.
-201567580	Existe o caminho. Wayne tem que estar lá dentro.
-9762025	Que Wayne deve ser um bom amigo se você estiver enfrentando todo esse problema.
-1537149592	Houve um tempo em que eu teria feito qualquer coisa por dinheiro. Eu quero dizer qualquer coisa!
-870743775	Wayne me tirou daquele buraco. Eu devo a ele.
+779454957	Vamos. Quero entrar antes que McCoy chegue lá.
+515244566	Você fez uma aposta?
+118011838	Não, quero ver a cara dele quando ele nos ver.
+967276896	Estamos indo bem. Vamos chegar lá primeiro.
+1303117509	Qual seu problema com o Doc? Ele não é tão ruim assin
+1352835939	Não gosto do jeito que ele se comporta. Faria qualquer coisa pelo preço certo. 
+301921037	Isso me lembra muito alguém que eu conhecia.
+201567580	Por aqui. Wayne deve estar lá dentro.
+9762025	Este Wayne tem que ser um bom amigo para arriscar tanto por ele.
+1537149592	Uma vez eu faria qualquer coisa por dinheiro, realmente qualquer coisa!
+870743775	Wayne me fez parar. Eu devo a ele.
 1950692778	Ahh! Nada como o bom e velho uísque Magull.
 1422168245	Ei! Deixe um pouco para nós, sim?
 1958744351	Bastardo bebeu tudo, he, he, he.
@@ -4483,16 +4483,16 @@ Portuguese	Português(BR)
 1667671119	Besteira. Ele só foi atingido na cabeça, só isso.
 356011784	He he he he he he he he he.
 1008994962	Melhor manter a cabeça baixa.
-394342275	Isabelle mencionou aquele riacho. Deve estar no caminho certo.
-1942497857	Eu diria que a abundância de guardas é uma oferta inoperante.
-414612662	Vamos nos mexer. Eu gostaria de estar lá primeiro.
-1966048323	Tenho a impressão de que você não gosta muito da Isabelle.
+394342275	Isabelle falou sobre aquele riacho. Estamos no caminho certo.
+1942497857	Eu diria que a quantidade de guardas é uma pista forte.
+414612662	Vamos. Quero chegar lá antes deles.
+1966048323	Tenho a impressão de que não gosta muito da Isabelle.
 1887668967	Eu acho que o sentimento é mútuo. 
-1768172355	Bem, que bom que você ainda está ajudando.
-1742429876	Isso é apenas negócio. 
-1715622344	Acho que vejo o muro ali.
-144811573	Ela está passando por muitos problemas para resgatar esse Wayne. Isso é algo pessoal.
-714123754	Quando as coisas se tornam pessoais, as pessoas erradas geralmente acabam mortas. É por isso que eu mantenho simples.
+1768172355	Fico feliz que esteja nos ajudando.
+1742429876	É só trabalho.
+1715622344	Acho que vejo um muro ali.
+144811573	Ela está correndo muitos riscos para salvar este Wayne. Isso é algo pessoal.
+714123754	Quando as coisas se tornam pessoais, as pessoas erradas geralmente acabam mortas. É por isso que nunca me comporto.
 409515846	Mhm.
 1375335870	Vamos abrir as jaulas.
 1618727316	Vamos abrir as jaulas.
@@ -4521,9 +4521,9 @@ Portuguese	Português(BR)
 238910278	Ou talvez eles se perderam.
 1230300097	Finalmente.
 1596514092	Ok, estamos dentro.
-1341400201	Parece que chegamos aqui primeiro.
-1216673648	Talvez eles tenham tido problemas.
-1053210360	Lá estão eles.
+1341400201	Chegamos primeiro.
+1216673648	Talvez eles tiveram problemas.
+1053210360	Aqui estão eles.
 255975754	Hah, são eles.
 1144857004	Olá, pessoal.
 1547221140	Olha quem está aqui.
