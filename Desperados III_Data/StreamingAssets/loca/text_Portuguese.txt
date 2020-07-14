@@ -4044,10 +4044,10 @@ Portuguese	Português(BR)
 1071451308	Cheira a uma casa de ópio.
 1715461989	A Caverna do Dragão. Parece emocionante. Vamos dar uma olhada no andar de cima.
 789067316	Certo. Apenas não prove a mercadoria. Isso irá mexer com sua cabeça.
-1342473463	Ugh... me sinto tonto.
+1342473463	Ugh... eu me sinto tonta.
 1062804395	Eu disse que isso te subiria à cabeça.
 244970856	Vamos pegar o disfarce e sair deste lugar.
-1526696303	Oh hoh! Querida, você veste essa coisa com a classe.
+1526696303	Oh, hoh! Querida, você vai levá-lo com classe.
 1442340726	Obrigado, querida.
 1076888900	Você sabe o que fazer, senhorita Moreau.
 1306739217	Claro que sim. Passei boa parte da minha vida em Nova Orleans.
@@ -4166,10 +4166,10 @@ Portuguese	Português(BR)
 57560143	O Lanterna Vermelha.
 1771295977	O Lanterna Vermelha.
 347908982	O Lanterna Vermelha.
-2135074413	O prostíbulo mais extravagante do bairro. Meninas lá farão seus sonhos se tornarem realidade.
-628126091	Embora pelo que ouvi, os tempos sejam difíceis desde que Irving assumiu.
-582098837	Essa deve ser Irving.
-1245268098	Então essa é Irving.
+2135074413	O bordel mais elegante do bairro. Há garotas que você só viu em sonhos.
+628126091	Embora, pelo que ouvi, as coisas não estão indo bem desde que Irving está aqui.
+582098837	Deve ser Irving.
+1245268098	É o Irving.
 715680263	Aqui está Irving.
 1368265650	Esse é o Pier 9.
 1548829488	Esse é o Pier 9.
@@ -4177,11 +4177,11 @@ Portuguese	Português(BR)
 8401912	Me disseram que há uma grande remessa da DeVitt agendada para amanhã.
 1127584948	Acho que isso explica por que o Sr. O'Neill ainda está por aí.
 1184918724	Deve ser O'Neill.
-968141999	Então esse é O'Neill.
+968141999	É o O'Neill.
 491318181	Aqui está O'Neill.
-629052053	Se ele é nosso cara, ele deve ter uma carta de instruções com ele.
-879618324	Eu posso pegar os bolsos dele, se você quiser.
-906077924	Ou fazemos isso da maneira antiga.
+629052053	Se ele é o alvo, ele deve ter uma carta com instruções.
+879618324	Se quiser, posso roubá-lo dele.
+906077924	Ou podemos fazer à moda antiga.
 97201466	He, He, He *hic* Exatamente.
 1871590909	Eu sou o juiz, querida. *hic*
 2084648243	Mais uísque! *hic* Serviço!
@@ -4240,17 +4240,17 @@ Portuguese	Português(BR)
 1477183034	É isso! Bom trabalho, pessoal.
 1187460674	Vamos nos reagrupar. Eu quero dar uma olhada.
 297958742	Tudo bem, o que temos...
-1590176834	Parece que os malditos sequestraram Wayne. Levou-o a algum lugar privado.
-792444059	Há um endereço aqui... Algum pátio de armazenamento. 
-1799017065	Bem perto, na verdade. No final da rua, passando por esses obstáculos.
-1966029408	Portanto, temos que passar por mais homens da Companhia DeVitt. Tudo certo.
-397094070	Então esse é o lugar. Você acha que o encontraremos lá?
-445038948	Nós temos que.
-1605672764	Aquele galpão parece um escritório. Eu tenho a sensação de que eles o mantêm lá.
-1390377140	Vou abrir a fechadura para você. Depois disso, estamos quites.
-1130895071	Vamos continuar libertando seu Wayne, desde que ele ainda esteja vivo.
-215966879	Ele é melhor que seja. Se eles colocaram um dedo nele, por Deus haverá um inferno a pagar.
-1010561192	Então, ele realmente virá amanhã?
+1590176834	Parece que os malditos sequestraram Wayne. Levaram-no para algum lugar.
+792444059	Há um endereço... algum tipo de depósito.
+1799017065	É bem perto. Logo abaixo da rua, depois dos quarteirões.
+1966029408	Temos que passar pelos homens da companhia de DeVitt. Certo.
+397094070	Este é o lugar. Acha que vamos encontrá-lo lá?
+445038948	Nós.
+1605672764	Esse galpão é uma espécie de escritório. Tenho a sensação de que estão mantendo-o lá.
+1390377140	Posso abrir a fechadura. Depois disso, estamos quites.
+1130895071	Vamos libertar seu Wayne, supondo que ele ainda esteja vivo.
+215966879	Ele é melhor que esteja. Se eles colocaram um dedo nele, eles vão pagar por isso..
+1010561192	Então, vem amanhã?
 1317093524	Por que você acha que todo mundo aqui está cagando nas calças?
 88746304	Ah, é por isso que...
 1949360642	Alguma razão para ele vir agora?
