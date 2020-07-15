@@ -1468,7 +1468,7 @@ Portuguese	Português(BR)
 1511114845	Eu ainda estou esperando aqui, Sr. Cooper!
 1661976841	É melhor levantá-lo antes de seguir em frente!
 486887981	Espero que você possa escalar essa escada de corda, Sr. McCoy.
-1030677372	Eu prefiro o doutor McCoy.
+1030677372	Eu prefiro o Doutor McCoy.
 916815113	Tenho certeza que sim.
 758812215	Fique de olho. O amigo dele vai procurá-lo.
 2027247329	Cuidado. O amigo dele vai descobrir que ele não está no posto dele.
@@ -3382,7 +3382,7 @@ Portuguese	Português(BR)
 1356569465	Hmm... Vamos deixá-los aqui em segurança.
 1009113621	É uma pena, mas eles não são nossos.
 1567772064	Se eu fosse o Doc, onde me esconderia?
-1577477175	Ei, doutor. Você está aqui?
+1577477175	Ei, Doc. Você está aqui?
 2129400880	Onde você está, McCoy?
 1554146086	Doc! Você precisa acordar!
 254795236	Mccoy! Acorde!
@@ -4415,7 +4415,7 @@ Portuguese	Português(BR)
 592739093	Levaram-no para um lugar secreto no pântano.
 1327266590	Eu com certeza poderia usar alguma ajuda para tirá-lo de lá.
 1206896571	A menos que você queira deixar toda a diversão para mim e ele.
-1528463808	O pântano, hein? Como você está, Doutor?
+1528463808	O pântano, hein? Como você está, Doc?
 371658829	Me prometeram uma compensação adequada.
 1737140275	O que me diz, amigo?
 554453436	Certo.
@@ -4497,13 +4497,13 @@ Portuguese	Português(BR)
 1375335870	Vamos abrir as jaulas.
 1618727316	Vamos abrir as jaulas.
 566432768	Sabe, pensei que nos livramos da escravidão há um tempo.
-547737395	É por isso que eles chamam de "aluguel de condenado" agora.
-2016914504	O que deveria ser isso?
-1291492756	Digamos que a companhia DeVitt o tire da estrada e consiga que você seja condenado por vadiagem. 
+547737395	Na verdade, agora chamam de "aluguel de prisão".
+2016914504	E o que isso significa?
+1291492756	Digamos que a companhia DeVitt o tire de circulação e consiga que você seja condenado por vadiagem. 
 239733619	Como condenado, eles te alugam a quem ofertar o maior lance até que você cumpra sua pena.
-1659475668	Soa como escravidão para mim.
-1728484103	A diferença é insignificante.
-2083170775	Este lugar me dá calafrios.
+1659475668	Parece escravidão para mim.
+1728484103	A diferença é muito sutil.
+2083170775	Esse lugar me assusta.
 594152490	Sim. Felizmente temos aquelas paredes ao redor do Ninho.
 202155042	Não gostaria de passar uma noite aqui fora.
 1454660690	Eu também sinto o mesmo.
@@ -4530,13 +4530,13 @@ Portuguese	Português(BR)
 1306748513	Por que demorou tanto?
 554557884	Você ainda está aqui fora?
 1079425902	Não sabia que isso era uma corrida.
-857683934	Sim, eu também senti sua falta, Sunshine.
-1866457909	Você com certeza demorou um bom tempo.
-256514254	Vocês dois ainda estão aqui fora?
-1477069799	Com licença, tomamos o caminho mais difícil!
-210017879	Sim, e também o mais curto.
-118707927	São muitas as pessoas que enjaularam aqui.
-1500034521	Então, abrimos as jaulas até encontrarmos seu amigo.
+857683934	Sim, eu também senti sua falta, querido.
+1866457909	Você teve calma.
+256514254	Vocês ainda está lá fora?
+1477069799	Sinto muito, passamos pelo caminho mais difícil!
+210017879	Sim, mas foi o mais curto.
+118707927	Há muita gente nessas jaulas.
+1500034521	Vamos abrir as jaulas até encontrarmos seu amigo.
 265717227	Aqui estão as jaulas. Ainda bem que eu arrumei um conjunto para abrir fechaduras.
 476624086	Wayne deve estar em uma daquelas jaulas. Nós apenas teremos que passar por todos eles.
 1884905362	Aww, olhe para você. Você assustado? Você deveria estar.
@@ -4545,48 +4545,48 @@ Portuguese	Português(BR)
 415611479	Talvez eles te mandem para o noroeste. Ouvi dizer que eles têm uma ponte para reconstruir.
 475557256	Bem-vindo à companhia DeVitt, senhoras e senhores, He, he..
 2063499326	Obrigado, estranho.
-1251041711	Sim. Existe um homem chamado Wayne aqui?
+1251041711	Imagina. Há um Wayne por aqui?
 1494454137	Acho que não.
 1405948237	Deixa pra lá.
 1676285114	Espere até que a costa esteja limpa e corra para o pântano.
-781402605	O céu deve ter enviado você.
-318311583	Eu duvido disso. Alguém aqui se chama Wayne?
-304756772	Wayne? Não que eu saiba.
-400518916	Faz sentido.
-1452111030	Espere aqui. Deixe quando a costa estiver limpa.
-1196846099	Bem, você é uma visão para olhos doloridos, estranho. delegado Wayne, ao seu dispor.
-1192149446	Há uma mulher voodoo te procurando.
+781402605	Você é um presente do céu.
+318311583	Eu duvido. Você conhece um Wayne?
+304756772	Wayne? Não. Eu não o conheço.
+400518916	Imaginei.
+1452111030	Espere aqui. Assim que a costa estiver livre, vá embora.
+1196846099	É bom vê-lo, estranho. Delegado Wayne, ao seu dispor.
+1192149446	Há algum tipo de bruxa voodoo procurando por você.
 160627544	Espere, você disse "delegado"?!
-1119181442	Com certeza, amigo. Vamos sair daqui.
-1677647722	Espero que você tenha alguma sorte, delegado. Vamos esperar até que seja seguro correr.
+1119181442	É isso mesmo. Vamos embora agora.
+1677647722	Espero que esteja com sorte, Delegado. Vamos esperar o momento certo para escapar.
 23696602	Isabelle!
-537540583	Wayne! Você parece algo que o gato usa!
-1653558980	Eu sabia que você não me deixaria apodrecer. Vamos sair daqui.
-1045505533	Heh, você apostou.
-421858296	Esse é o último deles.
-1234617061	Você fez bem, amigo. Essas pessoas sempre se lembrarão de você.
-553760005	Não tenho certeza se é algo que eu quero.
-1884614326	Desculpe ser um fardo. Eu estou sem arma.
-414793650	Contanto que você consiga acompanhar, tudo bem.
-1556384979	Se você não precisar agora, pode me emprestar a Buntline.
-1837007047	Se eu levar um tiro na cabeça, ela será sua. Do contrário, fica comigo.
-2015781415	O River Queen. Deve ter sido uma beleza em seus dias.
-1387989918	Esse é um belo barco a vapor. Como ele ficou presa aqui?
-422182605	Se este é o Ninho da Rainha, acho que faz dela a Queen.
-1550681455	O River Queen, huh?
+537540583	Wayne! Você não parece bem!
+1653558980	Sabia que não me deixaria apodrecer. Vamos.
+1045505533	Pode apostar.
+421858296	Esse foi o último.
+1234617061	Ótimo. Essas pessoas nunca vão te esquecer.
+553760005	Não sei se isso é uma coisa boa.
+1884614326	Desculpe ser um fardo. Estou sem arma.
+414793650	Se você puder acompanhar, não será um problema.
+1556384979	Já que você não está usando, você poderia me emprestar essa Buntline.
+1837007047	Se eu levar um tiro, ela será sua. Do contrário, fica comigo.
+2015781415	O Rainha do Rio. Deve ter sido uma beleza em seus dias.
+1387989918	Esse é um belo barco a vapor. Como ele ficou preso aqui?
+422182605	Já que estamos no Ninho da Rainha, o nome parece apropriado.
+1550681455	O Rainha do Rio, huh?
 2054753324	Isso é muita madeira velha. Só precisa de um pouco de óleo e uma bela tocha flamejante.
-1264776285	Concordo. Vamos mandar essa cadela para o inferno onde ela pertence.
+1264776285	Concordo. Vamos mandar essa cadela para o inferno.
 1297900288	...!
-388686307	Faz isso pelo petróleo.
-1234981256	Boa. Agora vamos pegar fogo.
+388686307	E o óleo está resolvido.
+1234981256	Bom. Agora precisamos de fogo.
 391215177	Olhe para ele ir!
 14184608	Eu chamaria isso de churrasco a moda Louisiana.
-1947094530	Esse fogo não se apagará por um tempo.
-334527012	A justiça é servida.
-1097581157	Há uma visão para aquecer um coração velho.
-1848331215	Agora temos que pegar o Wayne.
-2029422069	Santo inferno! A Queen está pegando fogo!
-879665245	A Queen está queimando!
+1947094530	Esse fogo vai ficar por um tempo.
+334527012	A justiça está feita.
+1097581157	Uma visão que aquece o coração.
+1848331215	Agora só precisamos encontrar Wayne.
+2029422069	Santo inferno! A Rainha está queimando!
+879665245	A Rainha está pegando fogo!
 1691191266	Pegue um pouco de água, porra.
 1651797763	Onde conseguimos água?
 984070505	É um pântano, seu idiota!
@@ -4599,21 +4599,21 @@ Portuguese	Português(BR)
 1660271882	Uísque Magull! Oho, venha para Hector.
 196742734	Hmm...
 549644638	Uísque Magull! Oho, venha para Hector.
-1223509762	Parece que todos nós fizemos isso.
-1084459754	Heh, olha aquela coisa queimar.
-1866910761	Já era hora de alguém derrubar este lugar. Esses malditos podem queimar no inferno.
-1886773831	Vamos voltar para a cidade. Eu tive pântano suficiente por um dia.
+1223509762	Todos nós conseguimos.
+1084459754	Heh, olha como queima.
+1866910761	Já era hora de alguém destruir este lugar. Deixe-os queimar no inferno.
+1886773831	Vamos voltar para a cidade. Estou farto de pântano por hoje.
 1800566241	Você está certo. De volta a Nova Orleans.
 503426413	Encontre Wayne
 672030005	Wayne está trancado em uma daquelas jaulas. Abra as fechaduras com Doc e encontre-o.
-996230318	jaula A
+996230318	Jaula A
 1377345476	Procure o Wayne aqui.
-1681441679	jaula B
+1681441679	Jaula B
 1448160974	Procure o Wayne aqui.
-880926010	jaula C
+880926010	Jaula C
 910307213	Procure o Wayne aqui.
 1767642942	Colocar o Queen em chamas
-1711852069	O River Queen é o navio a vapor mais antigo que funciona como o coração da base. Queime-o totalmente.
+1711852069	O Rainha do Rio é o navio a vapor mais antigo que funciona como o coração da base. Queime-o totalmente.
 1869799317	Quebrar o barril de petróleo
 1699007547	Abra o barril de óleo com o machado de Hector.
 436269072	Pegue uma tocha
