@@ -4612,7 +4612,7 @@ Portuguese	Português(BR)
 1448160974	Procure o Wayne aqui.
 880926010	Jaula C
 910307213	Procure o Wayne aqui.
-1767642942	Colocar o Queen em chamas
+1767642942	Colocar o Rainha em chamas
 1711852069	O Rainha do Rio é o navio a vapor mais antigo que funciona como o coração da base. Queime-o totalmente.
 1869799317	Quebrar o barril de petróleo
 1699007547	Abra o barril de óleo com o machado de Hector.
