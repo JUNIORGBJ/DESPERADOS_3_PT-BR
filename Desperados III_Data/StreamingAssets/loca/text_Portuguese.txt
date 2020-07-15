@@ -4440,7 +4440,7 @@ Portuguese	Português(BR)
 1636836732	Já não era sem tempo. Este pântano é imundo.
 577485680	Vamos nos encontrar com os outros.
 1583145713	Então Belle, onde acha que eles mantêm seu amigo?
-68532589	Aposto que Wayne está em uma dessas jaulas. Temos que abri-los todos até encontrá-lo.
+68532589	Aposto que Wayne está em uma dessas jaulas. Temos que abri-las todas até encontrá-lo.
 1509161406	Vamos precisar do McCoy para as fechaduras.
 2130325518	E depois de libertarmos Wayne?
 1919762542	Vamos incendiar o barco. Nós os fechamos de uma vez por todas.
@@ -4463,7 +4463,7 @@ Portuguese	Português(BR)
 515244566	Você fez uma aposta?
 118011838	Não, quero ver a cara dele quando ele nos ver.
 967276896	Estamos indo bem. Vamos chegar lá primeiro.
-1303117509	Qual seu problema com o Doc? Ele não é tão ruim assin
+1303117509	Qual seu problema com o Doc? Ele não é tão ruim assim
 1352835939	Não gosto do jeito que ele se comporta. Faria qualquer coisa pelo preço certo. 
 301921037	Isso me lembra muito alguém que eu conhecia.
 201567580	Por aqui. Wayne deve estar lá dentro.
