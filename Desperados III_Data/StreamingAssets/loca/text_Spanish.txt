@@ -243,7 +243,7 @@ Portuguese	Portugués(BR)
 529741173	Capítulo I
 213395621	Capítulo II
 1849150576	Capítulo III
-621937644	
+621937644	Contenido descargable
 396044400	Estadísticas globales
 42023172	Visor de repeticiones
 1655725184	Tutoriales
@@ -1019,15 +1019,6 @@ Portuguese	Portugués(BR)
 1671544744	Doc ha regresado y DeVitt ya no estorbará. Ya solo queda una cosa más por hacer.
 1827622766	Tras entregar a DeVitt al oficial, el grupo se dirige al sur a través de la frontera. El viaje es largo y el sol del desierto chamusca inclemente a nuestros jinetes. /n/nAun así, el grupo no se amilana. Cooper va delante, Hector explica historias de las suyas con Kate bien atenta, y Doc e Isabelle discuten como de costumbre./n/nJuntos cruzan la frontera a México y se dirigen al desierto rocoso, hacia el Cañón del Diablo.
 1141398023	El grupo cruza la frontera mexicana y cabalga hacia el Cañón del Diablo. /n/nEl antiguo escondrijo de Frank bulle de actividad. A Cooper le da que Frank los estará esperando en la capilla. /n/nEl plan es sencillo: encontrarse a las puertas del cementerio y hacer salir a Frank para un último enfrentamiento.
-831023586	
-713446544	
-106877485	
-1221080576	
-392609880	
-1438007870	
-1247782491	
-695077169	
-265455246	
 2017302914	Moneda
 1323949238	Cooper puede lanzar una <skill>moneda</skill> para distraer a los enemigos que se hallen dentro del radio azul./nPulsa {0}, y luego pulsa {1} para arrojarla.
 1838518536	Cooper puede lanzar una <skill>moneda</skill> para distraer a los enemigos que se hallen dentro radio azul./nMantén pulsado {2} y pulsa {3} para arrojarla.
@@ -16884,3 +16875,34 @@ Portuguese	Portugués(BR)
 529306080	¡Gracias por jugar a la demo de Desperados III!
 641702397	¡Sigue tu aventura en el juego donde la dejaste!/nVe al menú de opciones y teclea <b><hotkey>"lonerider"</hotkey></b> para activar el truco, o pulsa en la cruceta del mando: <b><hotkey>»DERECHA DERECHA DERECHA ARRIBA ABAJO"</hotkey></b>
 1247312339	¡Consigue ya la versión completa de Desperados III!
+1555130932	Tobii Eye Tracking
+123505325	Activar Tobii Eye Tracking
+1638544670	Tienes que activar esto para usar las características de Tobii Eye Tracking.
+1206649537	Apuntar al p. de fijación de mirada
+1425293381	Cuando miras una habilidad, el cursor inicia en el punto al que miras en ese momento.
+143139655	Inicia Cono de visión en el p. de fij. de mirada
+86680120	Al entrar en el modo Cono de visión, el cursor comienza en el punto en el que estás mirando en ese momento.
+498472190	Cambia el blanco de Cono con la mirada
+351595635	Muestra la visión cónica de un PNJ manteniendo pulsado el botón de modo de visión cónica y mirando al blanco deseado.
+1926123846	Cambia el blanco de habilidad con la mirada
+2116585726	Apunta a habilidades de blanco único (como el shuriken) manteniendo pulsado el botón de apuntar y mirando al objetivo deseado.
+57531926	Zoom en el punto de mira
+1533352335	El zoom enfoca al punto al que estás mirando en vez de al centro de la pantalla.
+1198785285	Zoom de puenting
+673198960	Mantén pulsado el botón de acción de seguimiento ocular al alejar la pantalla para pasar al zoom máximo, y suelta el botón para acercar la vista al punto que estés mirando en ese momento.
+52689560	Cám. central de seguimiento ocular
+603671891	Pulsa el botón de la cámara central del seguimiento ocular para centrar la cámara en el punto al que estés mirando en ese momento.
+36432925	Interacción con IU de seg. ocular
+948556182	Pulsa el botón de acción de seguimiento ocular para usar el elemento de la IU que estés mirando en ese momento.
+400069303	Seguimiento ocular
+636728468	Acción de seguimiento ocular
+1746116910	Cámara central del seguimiento ocular
+1139426011	Saber más
+1024099543	
+1843809048	
+161000147	
+994917734	
+898458907	
+920178939	
+1103895872	Aviso de destripe
+913219151	

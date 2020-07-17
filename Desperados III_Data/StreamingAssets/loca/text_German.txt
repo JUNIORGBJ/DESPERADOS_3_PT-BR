@@ -3187,7 +3187,7 @@ Portuguese	Portugiesisch(BR)
 16045425	Offenbar wird hier bald etwas Großes passieren.
 714800923	Und Frank wird mittendrin stecken.
 1254625748	Wir müssen also nur abwarten, bis er sich zeigt.
-510442306	Und ihr? Hatte ihr schon Glück bei der Suche nach Wayne?
+510442306	Und ihr? Hattet ihr schon Glück bei der Suche nach Wayne?
 592739093	Die haben ihn an einen geheimen Ort im Bayou gebracht.
 1327266590	Ich könnte schon etwas Hilfe gebrauchen, wenn ich ihn dort rausholen will.
 1206896571	Außer ihr wollt den ganzen Spaß mir unserm Schätzchen überlassen.
@@ -3344,7 +3344,7 @@ Portuguese	Portugiesisch(BR)
 553760005	Ich bin mir nicht sicher, ob ich das will.
 1884614326	Tut mir leid, so eine Last zu sein. Ich habe keine Waffe.
 414793650	Solange Sie mithalten können, ist alles gut.
-1556384979	Falls Sie sie gerade nicht brauchen, könnten Sie mir diese Bluntline leihen.
+1556384979	Falls Sie sie gerade nicht brauchen, könnten Sie mir diese Buntline leihen.
 1837007047	Falls ich eine Kugel in den Kopf bekomme, gehört sie Ihnen. Sonst bleibt sie bei mir.
 2015781415	Die River Queen. Muss zu ihrer Zeit eine Schönheit gewesen sein.
 1387989918	Was für ein prächtiges Dampfschiff. Wie konnte es hier nur steckenbleiben?
@@ -15878,7 +15878,7 @@ Portuguese	Portugiesisch(BR)
 166306906	Nach der Flucht aus DeVitts Mine hat Doc die Nase voll von der aktuellen Situation und beschließt, alleine weiterzumachen. Die anderen machen sich auf den Weg zum nächsten Bahnhof./n/nBei ihrer Ankunft stellen sie fest, dass der ganze Ort von DeVitts Männern besetzt ist. Und mehr noch: Keiner der Züge scheint tatsächlich am Bahnhof Halt zu machen./n/nWährend Isabelle Coopers Bein verarztet, suchen Kate und Hector nach einer Möglichkeit, den Zug aufzuhalten./n/nIhr Plan ist es, die Schienen zu blockieren und dann auf den nächsten Zug aufzusteigen, damit sie alle nach Hause können.
 609111573	Casa DeVitt
 2006494126	Ein führender Industrieller
-1413452906	DeVitt hält auf seiner schicken Hazienda eine extravagante Dinner Party ab. Dank einiger ungeladener Gäste wird der Abend jedoch bald aus dem Ruder zu laufen.
+1413452906	DeVitt hält auf seiner schicken Hazienda eine extravagante Dinner Party ab. Dank einiger ungeladener Gäste wird der Abend jedoch bald aus dem Ruder laufen.
 468576441	Nachdem sie sicher in den Zug entkommen ist, bekommt die Gang endlich ihre redlich verdiente Erholung./n/nWährend Hector und Isabelle ihre Erschöpfung ausschlafen, führen Cooper und Kate lange Gespräche. Die Stimmung ist immer noch angespannt, aber die ersten Schritte sind gemacht./n/nZurück in der Zivilisation kontaktiert die Gang Marshal Wayne, der begeistert ist, zu erfahren, dass sie noch leben. Gemeinsam schmieden sie einen Plan, um DeVitt und Frank endgültig zu erledigen./n/nDer Erste auf der Liste ist DeVitt, der in seinem schicken Anwesen gerade eine exklusive Dinner Party veranstalten will.
 861610767	Die Gang entkommt DeVitts Fängen und wendet sich an Marshal Wayne. Gemeinsam schmieden sie einen Plan, um DeVitt und Frank von der Bildfläche verschwinden zu lassen./n/nDeVitt steht als Erster auf der Liste. Mit Waynes Hilfe können sie sich Einladungen zu DeVitts exklusiver Feier verschaffen./n/nIhr Plan: DeVitt von den Gästen trennen, ihn entführen und an den Marshal überstellen.
 1986610452	Teufels-Canyon/n(Kapitel III)
@@ -16538,15 +16538,6 @@ Portuguese	Portugiesisch(BR)
 1097308533	Kamerabewegung mit WASD
 1871084952	Dies basiert in Bezug auf Bewegung und Charakter-Auswahl auf der Tastenbelegung von Desperados III. Eine Änderung wurde vorgenommen, damit die Kamerabewegung mit den Tasten WASD anstatt mit den Pfeiltasten möglich ist.
 16149401	Zielen abbrechen
-831023586	Eagles Nest Shortname
-713446544	Eagles Nest Fullname
-106877485	Eagles Nest Description
-1221080576	Plantation Shortname
-392609880	Plantation Fullname
-1438007870	Plantation Description
-1247782491	Hacienda Daylight Shortname
-695077169	Hacienda Daylight Fullname
-265455246	Hacienda Daylight Description
 621937644	DLC
 439942642	Wireless-Controller-Zielgeschwindigkeit
 2027151249	Wireless-Controller-Achsschwelle
@@ -16602,7 +16593,7 @@ Portuguese	Portugiesisch(BR)
 1473429113	Munitionskiste
 971301613	Halte immer Ausschau nach Munitionskisten. Die zusätzliche Munition wirst du brauchen.
 2014096389	Zugfahrt
-1517526124	Du kannst auch auf dem Dach des Zuges mitfahren. Vorausgesetzt, du bist schnell genug.
+1517526124	Du kannst im Zug mitfahren, vorausgesetzt, du bist schnell genug.
 1320314897	Ha, gut gemacht, mein Freund. Gut gemacht. Offenbar bist du nicht der Typ, der buddelt.
 383490229	Agent Traber
 1645958402	Wahrer Name: Tommy der Mustang. Hobbys: Gegen Bezahlung Menschen treten.
@@ -16616,7 +16607,7 @@ Portuguese	Portugiesisch(BR)
 325248477	Tierfreunde! Unser menschlicher Begleiter steckt in der Klemme. Wir müssen ihn befreien.
 905645659	Zunächst brauchen wir einen Schlüssel. Wir legen die Wache um und schnappen uns den Schlüssel. Dann öffnen wir den Käfig des mürrischen Mannes.
 2087849535	Der mürrische Mann hat keine Ausrüstung und ist vor lauter Hunger ganz schwach, daher kann er selbst nicht viel machen.
-261369455	Ah, das Kohlebergwerk. Erinnerungen an eine verzweifelte Flucht, an offene Wunden und an gebrochene Knochen kommen auf. Aber keine Sorge. Wir sind nicht hier, um in Erinnerungen zu schwelgen.
+261369455	Ah, die Goldmine. Erinnerungen an eine verzweifelte Flucht, an offene Wunden und an gebrochene Knochen kommen auf. Aber keine Sorge. Wir sind nicht hier, um in Erinnerungen zu schwelgen.
 110326174	Für die heutige Herausforderung habe ich eine Kleinigkeit besorgt. Eine besondere Erfindung. Sie ist einmalig. Ausschließlich für die heutige Unterhaltung entworfen.
 967995022	Ein Knopf darin kann sie in eine Maschine der Zerstörung verwandeln. Benutze sie, um an den Meistern dieser Mine Rache zu üben. Vernichte sie alle.
 1724821859	Gatling-Lore
@@ -16682,7 +16673,7 @@ Portuguese	Portugiesisch(BR)
 835748375	
 1312839292	
 1490647133	
-1340780470	NEW ORLEANS – ABGERIEGELTE DEVITT-GESELLSCHAFT
+1340780470	NEW ORLEANS – DEVITT COMPANY AUSGANGSSPERRE
 1931549038	Der Geruch von Seetang umgibt den aufgeschwemmten Leichnam. Du durchsuchst seine Taschen und findest eine kleine Figur. Es ist die verstörende Darstellung einer fremden Kreatur, deren klaffendes Maul von Tentakeln umgeben ist. 
 884720503	Heute Abend ist in New Orleans etwas Unerklärliches passiert. Drei Morde wurden begangen. Alle um Punkt 6 Uhr.
 9708345	Das erste Opfer: Ein Käpt’n, der seinem Schicksal entkommen wollte. Sein verrostetes Schiff war das Einzige, was ihn noch am Leben hielt. Unter ihm die Dunkelheit des Flusses. In ihm eine noch tiefere Dunkelheit. Er hat es nicht geschafft.
@@ -16884,3 +16875,34 @@ Portuguese	Portugiesisch(BR)
 529306080	Vielen Dank fürs Spielen der Demo von Desperados III!
 641702397	Setze dein Abenteuer im Spiel fort, wo du jetzt aufgehört hast!/nGehe ins Optionsmenü und gib <b><hotkey>„lonerider“</hotkey></b> ein, um den Cheat zu aktivieren, oder drücke auf den Richtungstasten des Controllers: <b><hotkey>„RECHTS, RECHTS, RECHTS, HOCH, RUNTER“</hotkey></b>.
 1247312339	Hole dir jetzt die Vollversion von Desperados III!
+1555130932	Tobii Eye Tracking
+123505325	Tobii Eye Tracking aktivieren
+1638544670	Diese Option muss aktiv sein um Tobii Eye Tracking benutzen zu können.
+1206649537	Zielen am Gaze Point starten
+1425293381	Beim Zielen einer Fähigkeit startet dein Cursor dort wo sich dein Blick gerade befindet.
+143139655	Sichtkegel-Modus an Gaze Point starten
+86680120	Wenn du in den Sichtkegel-Modus gehst startet dein Cursor dort wo sich dein Blick gerade befindet.
+498472190	Sichtkegel über Gaze wechseln
+351595635	Zeige den Sichtkegel eines NPC an indem du den Sichtkegel-Modus-Knopf gedrückt hältst und deinen Blick auf das gewünschte Ziel richtest.
+1926123846	Ziel über Gaze wechseln
+2116585726	Visiere Einzelziele an (z.B. mit Shuriken) indem du den Zielen-Knopf gedrückt hältst und deinen Blick auf das gewünschte Ziel richtest.
+57531926	Zoom auf Gaze Point
+1533352335	Zoomen fokussiert auf den Punkt an dem sich dein Blick befindet anstatt auf die Bilschirmmitte.
+1198785285	Bungie Zoom
+673198960	Halte beim Zoomen die Eye-Tracking-Action-Taste gedrückt um auf die Maximalestufe herauszuzoomen, und lasse sie los um auf den Punkt hineinzuzoomen an dem sich dein Blick gerade befindet.
+52689560	Eye Tracking Kamera zentrieren
+603671891	Drücke die Eye-Tracking-Center-Camera-Taste um die Kamera auf den Punkt zu zentrieren an dem sich dein Blick gerade befindet.
+36432925	Eye Tracking UI Interaktion
+948556182	Drücke die Eye-Tracking-Action-Taste um das UI-Element zu benutzen auf dem sich dein Blick gerade befindet.
+400069303	Eye Tracking
+636728468	Eye Tracking Action
+1746116910	Eye Tracking Center Camera
+1139426011	Mehr erfahren
+1024099543	
+1843809048	
+161000147	
+994917734	
+898458907	
+920178939	
+1103895872	Spoiler-Warnung
+913219151	

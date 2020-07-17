@@ -1080,15 +1080,6 @@ Portuguese	Portugalski(BR)
 1671544744	Doktor powrócił, a DeVitt nie jest już zagrożeniem. Pozostaje już tylko jedna sprawa do załatwienia.
 1827622766	Po dostarczeniu DeVitta szeryfowi grupa wyrusza wzdłuż granicy na południe. Podróż jest długa, a pustynne słońce pali jeźdźców niemiłosiernie./n/nGrupa jest jednak nieugięta. Cooper prowadzi, Hektor opowiada niestworzone historie, podczas gdy Kate słucha, a Doktor i Isabelle sprzeczają się jak zwykle./n/nRazem przekraczają granicę z Meksykiem i wyruszają na kamienistą pustynię w kierunku Diabelskiego Kanionu.
 1141398023	Grupa przekracza granicę z Meksykiem, kierując się do Diabelskiego Kanionu./n/nW starej kryjówce Franka aż wre. Cooper nabiera przeczucia, że Frank czeka na nich w kaplicy. /n/nPlan jest prosty: zebrać się przy cmentarnej bramie, a następnie wywabić Franka do ostatecznej konfrontacji.
-831023586	Orle Gniazdo - skrót
-713446544	Orle Gniazdo - pełna nazwa
-106877485	Orle Gniazdo - opis
-1221080576	Plantacja - skrót
-392609880	Plantacja - pełna nazwa
-1438007870	Plantacja - opis
-1247782491	Hacjenda (dzień) - skrót
-695077169	Hacjenda (dzień) - pełna nazwa
-265455246	Hacjenda (dzień) - opis
 2017302914	Moneta
 1323949238	Cooper może rzucać <skill>monetą</skill>, by odwracać uwagę wrogów w zasięgu niebieskiego pola./nNaciśnij {0}, a następnie {1}, by nią rzucić.
 1838518536	Cooper może rzucać <skill>monetą</skill> w celu odwrócenia uwagi wrogów w zasięgu niebieskiego pola./nPrzytrzymaj {2}, by wycelować, a następnie naciśnij {3}, by rzucić <skill>monetą</skill>.
@@ -16884,3 +16875,34 @@ Portuguese	Portugalski(BR)
 529306080	Dziękujemy za grę w Desperados III Demo!
 641702397	Kontynuuj swoją przygodę!/nWejdź do menu opcji i wpisz <b><hotkey>„lonerider”</hotkey></b>, aby aktywować kod, lub użyj pada kierunkowego na kontrolerze: <b><hotkey>W PRAWO, W PRAWO, W PRAWO, W GÓRĘ, W DÓŁ</hotkey></b>
 1247312339	Już teraz kup pełną wersję Desperados III!
+1555130932	Tobii Eye Tracking
+123505325	Wł. Tobii Eye Tracking
+1638544670	Włącz, aby używać opcji Tobii Eye Tracking.
+1206649537	Celuj spojrzeniem
+1425293381	Podczas posługiwania się umiejętnością kursor znajdzie się w punkcie, na który kierujesz spojrzenie.
+143139655	Wł. pole widz. dla cel. spoj.
+86680120	Po przejściu w tryb pola widzenia kursor pojawi się w punkie, na który kierujesz spojrzenie.
+498472190	Wł. pole widz. celu spojrz.
+351595635	Pokaż pole widzenia BN, przytrzymując przycisk trybu pola widzenia i spoglądając na cel.
+1926123846	Zmiana celu umiejętn. spojrz.
+2116585726	Pokaż cel umiejętności (np. shuriken) spojrzeniem, przytrzymując przycisk celu i spoglądając na cel.
+57531926	Przybliżanie spojrzenia
+1533352335	Opcja przybliżania dotyczy punktu, na który spoglądasz, a nie środka ekranu.
+1198785285	Przybliżanie bungee
+673198960	Przytrzymaj przycisk działania spojrzeniem, oddalając i przybliżając maksymalnie w trybie skokowym, a następnie zwolnij przycisk, aby przybliżyć punkt, na który spoglądasz.
+52689560	Kier. kamerą spojrzeniem
+603671891	Przyciśnij przycisk kierowania kamerą spojrzeniem, aby w centrum ekranu znalazł się punkt, na który spoglądasz.
+36432925	Korzyst. z interfejsu spojrzeniem
+948556182	Przyciśnij przycisk działania spojrzeniem, aby użyć elementu interfejsu, na który spoglądasz.
+400069303	Podążanie za spojrzeniem
+636728468	Działanie spojrzeniem
+1746116910	Kierowanie kamerą spojrzeniem
+1139426011	Dowiedz się więcej
+1024099543	
+1843809048	
+161000147	
+994917734	
+898458907	
+920178939	
+1103895872	Ostrzeżenie przed spoilerem
+913219151	

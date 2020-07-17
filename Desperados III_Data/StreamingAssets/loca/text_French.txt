@@ -243,7 +243,7 @@ Portuguese	Portugais(BR)
 529741173	Chapitre I
 213395621	Chapitre II
 1849150576	Chapitre III
-621937644	
+621937644	CONTENU TÉLÉCHARGEABLE
 396044400	Statistiques globales
 42023172	Navigateur de replays
 1655725184	Tutoriels
@@ -1022,15 +1022,6 @@ Portuguese	Portugais(BR)
 1671544744	Doc est revenu, et DeVitt est hors d’état de nuire. Il ne reste plus qu’une chose à régler.
 1827622766	Après avoir remis DeVitt au Marshal, la bande se dirige vers le sud, de l’autre côté de la frontière. Le voyage est long, et l’impitoyable soleil du désert brûle la peau nos cavaliers. /n/nNéanmoins, la bande ne se laisse pas décourager. Cooper ouvre la voie, Hector raconte des histoires improbables pendant que Kate écoute, et Doc et Isabelle se chamaillent comme d’habitude./n/nEnsemble, ils franchissent la frontière avec le Mexique et se dirigent vers le désert rocheux, vers Devil’s Canyon.
 1141398023	Le gang franchit la frontière mexicaine et se dirige vers Devil’s Canyon. /n/nL’ancien repaire de Frank est pleine effervescence. Cooper a le pressentiment que Frank les attend à la chapelle. /n/nLe plan est simple : se retrouver devant le portail du cimetière, puis faire sortir Frank pour un ultime affrontement.
-831023586	
-713446544	
-106877485	
-1221080576	
-392609880	
-1438007870	
-1247782491	
-695077169	
-265455246	
 2017302914	Pièce
 1323949238	Cooper peut lancer une <skill>pièce</skill> pour distraire les ennemis présents dans le rayon bleu./nAppuyez sur {0}, puis sur {1} pour la lancer.
 1838518536	Cooper peut lancer une <skill>pièce</skill> pour distraire les ennemis présents dans le rayon bleu./nAppuyez longuement sur {2} pour viser, puis sur {3} pour lancer la <skill>pièce</skill>.
@@ -16884,3 +16875,34 @@ Portuguese	Portugais(BR)
 529306080	Merci d’avoir joué à la démo de Desperados III !
 641702397	Reprenez votre aventure là où vous l’avez arrêtée !/nRendez-vous dans le menu Options et saisissez <b><hotkey>"lonerider"</hotkey></b> pour activer le cheat, ou utilisez le BMD de la manette : <b><hotkey>"DROITE DROITE DROITE HAUT BAS"</hotkey></b>
 1247312339	Téléchargez maintenant la version intégrale de Desperados III !
+1555130932	Tobii Eye Tracking
+123505325	Activer Tobii Eye Tracking
+1638544670	Vous devez l'activer pour pouvoir utiliser les fonctionnalités du Tobii Eye Tracking.
+1206649537	Visez au Point de regard
+1425293381	Lorsque vous pointez une compétence, le curseur se place sur le point que vous regardez.
+143139655	Lancez le mode Cône de vision au Point de regard
+86680120	Lorsque vous êtes en mode Cône de vision, le curseur se place sur le point que vous regardez.
+498472190	Changez cible Cône de vision en Regard
+351595635	Affichez le cône de vision du PNJ en maintenant enfoncé le bouton mode Point de vue et en fixant la cible choisie.
+1926123846	Changez la comp. cible en Regard
+2116585726	Visez les compétences à cibles uniques (comme les shurikens) en maintenant enfoncé le bouton Viser et en fixant la cible choisie.
+57531926	Zoomer sur le Point de regard
+1533352335	Zoomer sur le point que vous regardez et non pas sur le centre de l'écran.
+1198785285	Zoom de saut
+673198960	Maintenez enfoncé le bouton Action de suivi oculaire lorsque vous effectuez un zoom arrière pour déclencher un zoom maximum. Puis, relâchez le bouton afin de zoomer sur le point que vous regardez.
+52689560	Caméra centrée de suivi oculaire
+603671891	Appuyez sur le bouton Caméra centrée de suivi oculaire afin de centrer la caméra sur le point que vous regardez.
+36432925	Interaction IU avec le Suivi oculaire 
+948556182	Appuyez sur le bouton Action de suivi oculaire pour utiliser l'élément d'IU que vous fixez.
+400069303	Suivi oculaire
+636728468	Action de suivi oculaire
+1746116910	Caméra centrée de suivi oculaire
+1139426011	En savoir plus
+1024099543	
+1843809048	
+161000147	
+994917734	
+898458907	
+920178939	
+1103895872	Avertissement : spoiler
+913219151	

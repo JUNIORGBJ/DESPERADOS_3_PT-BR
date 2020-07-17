@@ -8088,7 +8088,7 @@ Portuguese	Portuguese(BR)
 1280821733	You get scared easy?
 172821210	Oh, I know what I'm doing.
 1220634359	Let's cut to the chase.
-745386213	Well, well…
+745386213	Well, well...
 1096298385	Uh huh?
 836724243	Heh, look at you.
 455563196	What's up?
@@ -8220,50 +8220,50 @@ Portuguese	Portuguese(BR)
 82122588	Who's next?
 151943541	Aww, tired?
 1548839610	That all you got?
-1162137679	…!
-718930136	…! Hey!
-670654216	…! That really hurts.
-1994905694	…
-517850093	…No… Not yet…
-1816613697	…!
-156610241	…!
-2029968742	…!
-165766059	…!
-2057969559	…
-481090440	…
-1516744320	…Yeah sure… Real funny.
-1329375010	…Oh, I'm gonna get you.
-1663065043	…Hey… Careful.
-1645812927	…Oh, you want to be jinxed, huh?
+1162137679	...!
+718930136	...! Hey!
+670654216	...! That really hurts.
+1994905694	...
+517850093	...No... Not yet...
+1816613697	...!
+156610241	...!
+2029968742	...!
+165766059	...!
+2057969559	...
+481090440	...
+1516744320	...Yeah sure... Real funny.
+1329375010	...Oh, I'm gonna get you.
+1663065043	...Hey... Careful.
+1645812927	...Oh, you want to be jinxed, huh?
 1691141857	Gotcha.
 242524463	Where to?
 626775936	Ready. Where to?
 951280403	Whew. Done.
 1198499341	Let's put you here.
 1285283961	Let's drop you off.
-2136759918	Not heavy at all…
+2136759918	Not heavy at all...
 1884184145	Nice and tight.
 320308234	Not a peep, got it?
 1207475747	Too tight? Good.
-923382311	…!
-1538151701	…!
-1377324306	…!
-707188080	…
-276522467	…
-110218475	…
+923382311	...!
+1538151701	...!
+1377324306	...!
+707188080	...
+276522467	...
+110218475	...
 2031362824	Let's cut some weeds.
 1157289741	Razor sharp.
 1792824638	I'll send 'em to the other side.
 1296679714	A soul for Papa Ghede.
-1956181890	…!
-1774737883	…!
-2035379083	…!
+1956181890	...!
+1774737883	...!
+2035379083	...!
 577203227	Time to sleep.
 2074291579	Let me at 'em.
 485460720	Sweet dreams, coming up.
-888374702	…!
-1321257463	…!
-2071021781	…!
+888374702	...!
+1321257463	...!
+2071021781	...!
 123607556	Just a tiny prick.
 1801719307	Let's stick a pin in them.
 454889175	They won't feel a thing.
@@ -8278,12 +8278,12 @@ Portuguese	Portuguese(BR)
 1619832780	Gonna go in myself.
 1859572169	We're all connected.
 872498356	Who's my lucky partner?
-1790406456	What you don't do yourself…
-1066427828	And now we just…
-653938542	Just a little blood…
-930706022	Don't need much…
+1790406456	What you don't do yourself...
+1066427828	And now we just...
+653938542	Just a little blood...
+930706022	Don't need much...
 414503893	One and the other.
-2098572022	Just like sewing…
+2098572022	Just like sewing...
 1377700400	Let's change things up.
 284308200	That's much better.
 72118034	Now I like it.
@@ -8305,10 +8305,10 @@ Portuguese	Portuguese(BR)
 163779763	I need a new puppet.
 1540791117	I'll pull some strings.
 1419141583	Don't get spooked now.
-341591720	Going for it…
-752888387	Here we go…
-63333186	Deep breath…
-4377793	Here goes…
+341591720	Going for it...
+752888387	Here we go...
+63333186	Deep breath...
+4377793	Here goes...
 1062250236	Listen.
 1313429763	Listen up.
 2065177712	Gotcha.
@@ -8326,13 +8326,13 @@ Portuguese	Portuguese(BR)
 971476442	That's right.
 277989932	No regrets.
 836730851	Go for it.
-1228782321	…! Back in action.
-1238073356	…! Hope that was worth it.
-720260906	…! Whew. All done.
-1550753356	…! Shit that hurts.
-641028331	…! Too strong…
-575562138	…! He pushed me out…
-624963726	…! That's a strong one…
+1228782321	...! Back in action.
+1238073356	...! Hope that was worth it.
+720260906	...! Whew. All done.
+1550753356	...! Shit that hurts.
+641028331	...! Too strong...
+575562138	...! He pushed me out...
+624963726	...! That's a strong one...
 637326336	Never doing that again.
 10014101	I know the inside of my own head, thank you.
 2049343867	That's not how it works.
@@ -8385,18 +8385,18 @@ Portuguese	Portuguese(BR)
 2070988801	Gotta lose the fire.
 998814425	Shit. Dropped it.
 1408005813	Fuck. Dropped it.
-720245240	Where were we before…
-1625285637	Like I was saying…
-7662523	So, about that…
+720245240	Where were we before...
+1625285637	Like I was saying...
+7662523	So, about that...
 649615649	Mhhh... Stop it.
 661354426	I said stop it. You think I don't know who you are?
 1418039439	I'm losing my patience with you. Last warning.
 786260379	Well, you asked for it.
-211269754	Hgnn… There. You're mine. Now let's see…
+211269754	Hgnn... There. You're mine. Now let's see...
 175033187	Open the options menu.
 860753893	Go to savegames.
-1327277550	Press delete all… Do it. Now.
-514413215	Oops… Look what you did, silly.
+1327277550	Press delete all... Do it. Now.
+514413215	Oops... Look what you did, silly.
 2036930682	Is it time?
 1475892683	Eyes open, Johnny.
 739688853	Tight as a bowstring.
@@ -16538,15 +16538,6 @@ Portuguese	Portuguese(BR)
 1097308533	WASD Camera Movement
 1871084952	This is based on the Desperados III control scheme regarding movement and character selection. It has been changed to allow Camera Movement with the WASD keys instead of arrow keys.
 16149401	Cancel Aiming
-831023586	Eagles Nest Shortname
-713446544	Eagles Nest Fullname
-106877485	Eagles Nest Description
-1221080576	Plantation Shortname
-392609880	Plantation Fullname
-1438007870	Plantation Description
-1247782491	Hacienda Daylight Shortname
-695077169	Hacienda Daylight Fullname
-265455246	Hacienda Daylight Description
 621937644	DLC
 439942642	Wireless Controller Aim Speed
 2027151249	Wireless Controller Axis Threshold
@@ -16602,7 +16593,7 @@ Portuguese	Portuguese(BR)
 1473429113	Ammo Crate
 971301613	Keep an eye out for ammo crates. You'll need the extra rounds.
 2014096389	Train Ride
-1517526124	You might be able to ride on top of the train. If you are fast enough, that is.
+1517526124	You might be able to ride the train. If you are fast enough, that is.
 1320314897	Heh, well done friend. Well done. Looks like you're not a digger. 
 383490229	Agent Trotter
 1645958402	Real name: Tommy the Mustang. Hobbies: Kicking humans for coin.
@@ -16884,3 +16875,34 @@ Portuguese	Portuguese(BR)
 529306080	Thank you for playing the Desperados III Demo!
 641702397	Pick up the adventure in the game where you left off!/nGo to the options menu and type <b><hotkey>"lonerider"</hotkey></b> to activate the cheat, or use the Controller D-Pad: <b><hotkey>"RIGHT RIGHT RIGHT UP DOWN"</hotkey></b>
 1247312339	Get the full version of Desperados III now!
+1555130932	Tobii Eye Tracking
+123505325	Enable Tobii Eye Tracking
+1638544670	You need to enable this in order to use Tobii Eye Tracking features.
+1206649537	Start Aiming at Gaze Point
+1425293381	When you aim a skill, the cursor starts at the point  you are currently looking at.
+143139655	Start Viewcone Mode at Gaze Point
+86680120	When going into Viewcone Mode, the cursor starts at the point you are currently looking at.
+498472190	Switch Viewcone Target by Gaze
+351595635	Show an NPC's viewcone by holding the Viewcone Mode button and looking at the desired target.
+1926123846	Switch Skill Target by Gaze
+2116585726	Aim single target skills (like Shuriken) by holding the Aim button and looking at the desired target.
+57531926	Zoom on Gaze Point
+1533352335	Zooming focusses on the point you are looking at instead of the center of the screen.
+1198785285	Bungie Zoom
+673198960	Hold the Eye Tracking Action button when zooming out to jump to maximum zoom, then release the button to zoom in on the point you are currently looking at.
+52689560	Eye Tracking Center Camera
+603671891	Press the Eye Tracking Center Camera button to center the camera on the point you are currently looking at.
+36432925	Eye Tracking UI Interaction
+948556182	Press the Eye Tracking Action button to use the UI element you are looking at.
+400069303	Eye Tracking
+636728468	Eye Tracking Action
+1746116910	Eye Tracking Center Camera
+1139426011	Learn more
+1024099543	Go to Store
+1843809048	Main Story
+161000147	DLC Missions
+994917734	Coming Soon
+898458907	Buy
+920178939	New DLC available!
+1103895872	Spoiler Warning
+913219151	DLC Missions might take place after the events of the main game. If you want to avoid spoilers, we recommend finishing the main story first.

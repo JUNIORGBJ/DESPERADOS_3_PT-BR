@@ -243,7 +243,7 @@ Portuguese	Portoghese(BR)
 529741173	Capitolo I
 213395621	Capitolo II
 1849150576	Capitolo III
-621937644	
+621937644	DLC
 396044400	Statistiche generali
 42023172	Finestra replay
 1655725184	Tutorial
@@ -1019,15 +1019,6 @@ Portuguese	Portoghese(BR)
 1671544744	Doc è tornato e DeVitt non è più un problema. Rimane solo una cosa da sistemare.
 1827622766	Dopo aver consegnato DeVitt allo sceriffo, la banda si dirige verso a sud, oltre il confine. Il viaggio è lungo e il sole del deserto scortica senza pietà la pelle dei nostri viaggiatori. /n/nMa la banda non si fa scoraggiare. Cooper fa strada, Hector racconta storie incredibili che Kate ascolta, mentre Doc e Isabelle bisticciano come sempre./n/nInsieme attraversano il confine con il Messico e si dirigono verso il deserto roccioso, alla volta del Canyon del diavolo.
 1141398023	La banda attraversa il confine con il Messico e si dirige verso il Canyon del diavolo. /n/nIl vecchio nascondiglio di Frank brulica di gente. Cooper ha la sensazione che Frank li stia aspettando in chiesa. /n/nIl piano è semplice: incontrarsi all'entrata del cimitero e attirare fuori Frank per lo scontro finale.
-831023586	
-713446544	
-106877485	
-1221080576	
-392609880	
-1438007870	
-1247782491	
-695077169	
-265455246	
 2017302914	Moneta
 1323949238	Cooper può lanciare una <skill>moneta</skill> per distrarre i nemici all'interno dell'area blu./nPremi {0} e poi premi {1} per lanciarla.
 1838518536	Cooper può lanciare una <skill>moneta</skill> per distrarre i nemici all'interno dell'area blu./nTieni premuto {2} per mirare e premi {3} per lanciare la <skill>moneta</skill>.
@@ -16884,3 +16875,34 @@ Portuguese	Portoghese(BR)
 529306080	Grazie per aver giocato alla demo di Desperados III!
 641702397	Riprendi l'avventura da dove l'hai lasciata!/nVai nel menu delle opzioni e scrivi <b><hotkey>"lonerider"</hotkey></b> per attivare il trucco, oppure usa le frecce direzionali e premi: <b><hotkey>"DESTRA DESTRA SU GIÙ"</hotkey></b>
 1247312339	Ottieni subito la versione completa di Desperados III!
+1555130932	Tobii Eye Tracking
+123505325	Attiva Tobii Eye Tracking
+1638544670	Devi attivare quest'opzione per poter usare le funzionalità del Tobii Eye Tracking
+1206649537	Inizia Modalità Mira sul Punto dello sguardo
+1425293381	Quando miri con un'abilità, il cursore parte nel punto in cui stai guardando al momento.
+143139655	Inizia Modalità Cono Visivo sul punto dello sguardo
+86680120	Quando accedi alla Modalità Cono Visivo, il cursore parte nel punto in cui stai guardando al momento.
+498472190	Cambia bersaglio Cono Visivo con lo sguardo
+351595635	Mostra il cono visivo di un NPC tenendo premuto il pulsante Modalità Cono Visivo e guardando il bersaglio desiderato.
+1926123846	Cambia Bersaglio Abilità con lo sguardo
+2116585726	Mira le abilità a bersaglio unico (come lo Shuriken) tenendo premuto il tasto di Mira e guardando il bersaglio desiderato.
+57531926	Zoom sul punto dello sguardo
+1533352335	Zooma sul punto che stai guardando invece che al centro dello schermo.
+1198785285	Zoom a salto
+673198960	Tieni premuto il tasto Azione Eye Tracking quando dezoomi per passare al massimo zoom, poi lascia il pulsante per zoomare sul punto che stai attualmente guardando.
+52689560	Centra Camera Eye Tracking
+603671891	Premi il pulsante Centra Camera Eye Tracking per centrare la camera sul punto che stai attualmente guardando.
+36432925	Interazione Interfaccia Eye Tracking
+948556182	Premi il pulsante Azione Eye Tracking per usare l'elemento dell'interfaccia che stai guardando.
+400069303	Eye Tracking
+636728468	Azione Eye Tracking
+1746116910	Centra Camera Eye Tracking
+1139426011	Maggiori informazioni
+1024099543	
+1843809048	
+161000147	
+994917734	
+898458907	
+920178939	
+1103895872	Avviso spoiler
+913219151	
