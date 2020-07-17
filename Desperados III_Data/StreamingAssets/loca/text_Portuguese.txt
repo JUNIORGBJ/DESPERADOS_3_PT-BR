@@ -695,7 +695,7 @@ Portuguese	Português(BR)
 1778733118	Escolher Cooper
 2041969087	Escolher McCoy
 1943500125	Escolher Kate
-657133353	Escolher Other
+657133353	Escolher Mais
 1531102395	Destacar todos
 1187336011	Ativar modo duelo
 1076844111	Salvar ponto de referência
@@ -16966,3 +16966,34 @@ Portuguese	Português(BR)
 529306080	Obrigado por jogar o Desperados III Demostração!
 641702397	Siga sua aventura no jogo de onde você parou!/nVá para o menu de opções e digite <b><hotkey>"lonerider"</hotkey></b> para ativar a trapaça, ou use o D-Pad: <b><hotkey> "DIREITA, DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
 1247312339	Pegue a versão completa do Desperados III agora!
+1555130932	Rastreamento ocular do Tobii
+123505325	Habilitar o rastreamento ocular do Tobii
+1638544670	Você deve habilitar esta opção para usar o rastreamento ocular do Tobii
+1206649537	Iniciar o Modo Mira no ponto da mira
+1425293381	Quando você escolhe uma habilidade, o cursor inicia no ponto em que você está olhando.
+143139655	Iniciar o Modo Cone no ponto da mira
+86680120	Ao entrar no Modo Cone, o cursor inicia no ponto em que você está olhando.
+498472190	Alterar o Cone do alvo com a mira
+351595635	Mostre o cone de um NPC segurando o botão Modo Cone e olhando para o alvo desejado.
+1926123846	Alterar a habilidade do alvo pela mira
+2116585726	Mire as habilidades de um único alvo (como Shuriken), segurando o botão de Mira e olhando para o alvo desejado.
+57531926	Zoom no ponto da mira
+1533352335	O zoom focaliza o ponto que você está vendo, em vez do centro da tela.
+1198785285	Saltar Zoom
+673198960	Segure o botão Ação de rastreamento ocular ao diminuir o zoom e pular para o zoom máximo e em seguida, solte o botão para aumentar o zoom no ponto em que você está vendo.
+52689560	Câmera do centro do rastreamento ocular
+603671891	Pressione o botão Câmera do centro de rastreamento ocular para centralizar a câmera no ponto em que você está olhando.
+36432925	Interação da interface do usuário de rastreamento ocular
+948556182	Pressione o botão Ação do rastreamento ocular para usar o elemento da interface do usuário que você está vendo.
+400069303	Rastreamento ocular
+636728468	Ação de rastreamento ocular
+1746116910	Câmera do centro de rastreamento ocular
+1139426011	Mais informações
+1024099543	Ir para a loja
+1843809048	História principal
+161000147	Missões da DLC
+994917734	Em breve
+898458907	Comprar
+920178939	Nova DLC disponível!
+1103895872	Aviso de spoiler
+913219151	As Missões da DLC podem acontecer após eventos da história principal. Se você quiser evitar spoilers, recomendamos primeiro terminar a história principal.
