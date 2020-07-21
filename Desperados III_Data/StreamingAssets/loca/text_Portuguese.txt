@@ -1211,9 +1211,9 @@ Portuguese	Português(BR)
 1323360165	Difícil
 773723552	Desafios
 231357304	Garçonete
-423656608	Jogador de pôquer 1
-1117150295	Jogador de pôquer 2
-169451094	Jogador de pôquer 3
+423656608	Jogador de Pôquer 1
+1117150295	Jogador de Pôquer 2
+169451094	Jogador de Pôquer 3
 215441153	Bruto da Companhia
 889456816	Guarda da Companhia
 1603078355	Bem-vindo ao nível de teste do controle de qualidade! Neste nível de teste, você pode executar testes limpos de caracteres, NPCs utilizáveis e muito mais. Alguns recursos podem estar ausentes, mas serão adicionados em futuras iterações deste nível.
@@ -3290,7 +3290,7 @@ Portuguese	Português(BR)
 980119931	Onde diabos ela estava escondendo todos aqueles dólares?
 2144249786	Heh, porque não?
 752645794	Nós também podemos.
-194532124	Pode ser ú1833083206til.
+194532124	Pode ser útil.
 211093556	O que diabos aconteceu? Cadê o Doc?
 1340885963	Só me lembro que estávamos bebendo na taberna.
 46517177	Aquele mijo não poderia nos deixar bêbados.
