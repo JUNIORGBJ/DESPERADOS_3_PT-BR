@@ -1211,9 +1211,9 @@ Portuguese	Português(BR)
 1323360165	Difícil
 773723552	Desafios
 231357304	Garçonete
-423656608	Jogador de Poker 1
-1117150295	Jogador de Poker 2
-169451094	Jogador de Poker 3
+423656608	Jogador de pôquer 1
+1117150295	Jogador de pôquer 2
+169451094	Jogador de pôquer 3
 215441153	Bruto da Companhia
 889456816	Guarda da Companhia
 1603078355	Bem-vindo ao nível de teste do controle de qualidade! Neste nível de teste, você pode executar testes limpos de caracteres, NPCs utilizáveis e muito mais. Alguns recursos podem estar ausentes, mas serão adicionados em futuras iterações deste nível.
@@ -3290,7 +3290,7 @@ Portuguese	Português(BR)
 980119931	Onde diabos ela estava escondendo todos aqueles dólares?
 2144249786	Heh, porque não?
 752645794	Nós também podemos.
-194532124	Pode ser útil.
+194532124	Pode ser ú1833083206til.
 211093556	O que diabos aconteceu? Cadê o Doc?
 1340885963	Só me lembro que estávamos bebendo na taberna.
 46517177	Aquele mijo não poderia nos deixar bêbados.
@@ -3307,7 +3307,7 @@ Portuguese	Português(BR)
 1640469646	Você viu Bianca? Eu sinto falta dela.
 1939241309	Lembro-me que deixamos as armas no barco.
 1471959315	Quem teve essa brilhante ideia?
-1614108276	Ei! Amanhã tem um torneio de poker.
+1614108276	Ei! Amanhã tem um torneio de pôquer.
 1917005219	Gostaria de participar?
 1503626948	Eu ganhei de você ontem à noite. Aposto que já esqueceu.
 1985589116	E o canhão do xerife disparou sozinho e explodiu a torre de água.
@@ -4624,48 +4624,48 @@ Portuguese	Português(BR)
 361164267	Você pode pegar tochas nas fogueiras e carregá-las. Jogue-os para inflamar áreas cobertas de óleo.
 216101306	Wayne
 1976141749	Você encontrou Wayne. Verifique se ele permanece vivo.
-788724665	Parece que as coisas foram de mal a pior aqui.
-787748742	Bem, isso não é surpresa depois da nossa pequena fogueira no lago.
-2020914219	Agora Frank sabe que estamos chegando.
+788724665	Parece que as coisas foram de mal a pior.
+787748742	Era de se esperar depois da nossa fogueira no pântano.
+2020914219	Agora Frank sabe que estamos a caminho.
 144105785	Filho...
-734548261	Realmente não acho que seja uma boa ideia ir atrás dele agora.
-1204234648	Com todo o respeito, delegado, isso não é da sua conta.
-1035161825	Por que não esperar até que as coisas se acalmem?
-91022030	Sim. Estabeleça um plano adequado.
+734548261	Não acho que seja uma boa ideia caçá-lo agora.
+1204234648	Delegado, Com todo o respeito, isso não é da sua conta.
+1035161825	Por que não espera que a situação se acalme?
+91022030	Sim, você vai chegar a um plano.
 408664922	Está bem. Hector e eu podemos lidar com isso.
 647570020	Olá, pessoal!
-1331179360	Hey Kate. Nossa sunshine te encontrou bem?
-1157283445	Não me diga que você teve alguma dúvida.
+1331179360	Ei Kate. Nosso querido te encontrou, certo?
+1157283445	Não me diga que tinha dúvidas.
 310260247	Você deve ser o Wayne. Kate O'Hara.
-753076254	Delegado Wayne, a seu serviço.
+753076254	Delegado Wayne, a seu dispor.
 2106651962	Delegado?!
-26992097	Como você nunca nos contou, Isabelle?
-1868225304	Bem, ele não era um delegado na primeira vez que nos conhecemos.
-524697879	De qualquer forma, eu diria que é melhor começarmos as coisas agora.
+26992097	Por que não nos contou, Isabelle?
+1868225304	Ele não era xerife quando o conheci.
+524697879	De qualquer forma, faríamos bem começar a agir.
 1755033369	Devo muito a todos, senhores.
-1826222432	Eu realmente espero poder retribuir o favor algum dia.
-172605929	Oh, você pode me pagar agora, delegado.
-2101720186	Implore seu perdão?
-1033720154	Bem... acho melhor esclarecer isso.
+1826222432	Espero poder lhe pagar algum dia.
+172605929	Pode me pagar agora mesmo, Delegado.
+2101720186	Peço perdão?
+1033720154	Bem... Acho que tenho algo para explicar.
 998730654	Boa sorte, Cooper.
 1226876160	O que você está fazendo?
-59166717	Você acha que eu vou deixar você ir sozinho?
+59166717	Acha que vou deixá-lo ir sozinho?
 9606538	Você deveria ir com eles.
-1200174825	Prefiro ir com você, se estiver tudo bem.
-252754292	Adapte-se.
+1200174825	Eu prefiro ir com você, se você não se importa.
+252754292	Faça o que quiser.
 1158997095	VO TRACK
-266443030	Tudo certo. Então, onde está o Frank?
+266443030	Certo. Onde está o Frank?
 1268483996	No porto, Pier 9.
-1833083206	O que quer que esteja acontecendo lá, ele está lidando com isso.
-577818914	Então é onde nós devemos estar. Vamos nos encontrar no portão.
-1586362491	Muitas patrulhas nas ruas.
-314533104	Com certeza existem. Mas eu perdi meu disfarce.
+1833083206	O que quer que esteja acontecendo, ele está executando.
+577818914	Então temos que ir. Encontre-me no portão.
+1586362491	Há muitas patrulhas na rua.
+314533104	É verdade. Mas eu perdi meu disfarce.
 96392486	O que aconteceu?
-417453428	Digamos que ainda tenho algumas coisas a aprender sobre poker.
+417453428	Digamos que ainda tenho algumas coisas para aprender sobre pôquer.
 57838474	De qualquer forma, acho que posso encontrar um novo no bordel.
 1829053166	De qualquer forma, acho que posso encontrar um novo no Lanterna Vermelha.
-179603340	Podemos parar no caminho para o píer.
-407267459	Tudo certo. Vamos nos mexer antes que Frank rodeie novamente.
+179603340	Podemos passar por aqui antes de chegarmos ao Pier.
+407267459	Está bem. Vamos embora antes que Frank desapareça de novo.
 1293480776	...!...!...! olá!
 1154784819	Do que eu senti falta?
 1648054498	Apenas o plano. Vou te informar no caminho.
@@ -12808,7 +12808,7 @@ Portuguese	Português(BR)
 2000416627	Conte comigo.
 1818653764	Algum problema?
 1354442175	Não. Nada.
-1017059575	Você quer jogar poker mais tarde?
+1017059575	Você quer jogar pôquer mais tarde?
 948616721	Heh, sempre.
 191460630	Como está a vida?
 1982182301	... Não comece.
@@ -13705,7 +13705,7 @@ Portuguese	Português(BR)
 745406027	Claro.
 1806694325	Algum problema?
 1324931094	Não. Nada.
-404974940	Você quer jogar poker mais tarde?
+404974940	Você quer jogar pôquer mais tarde?
 1494348749	Heh, sempre.
 1676281527	Como foi?
 1458298050	... Não pergunte.
@@ -14597,7 +14597,7 @@ Portuguese	Português(BR)
 1396553097	Claro.
 297516615	Algum problema?
 634412588	Nah.
-675115197	Você quer jogar poker mais tarde?
+675115197	Você quer jogar pôquer mais tarde?
 1220737273	Heh, sempre.
 678278154	Como foi?
 1285460911	...Não pergunte.
@@ -15077,7 +15077,7 @@ Portuguese	Português(BR)
 421142466	Claro que sou.
 1865588823	Qualquer problema?
 793717695	Nah, nada.
-836637711	Você vai jogar poker mais tarde?
+836637711	Você vai jogar pôquer mais tarde?
 571639356	Por que não.
 715152438	Como foi?
 203221805	...Não pergunte.
@@ -16040,7 +16040,7 @@ Portuguese	Português(BR)
 1949789269	Certamente.
 1554566593	Qualquer problema?
 210397664	Felizmente não.
-1695715331	Você quer jogar poker mais tarde?
+1695715331	Você quer jogar pôquer mais tarde?
 1892589894	Você precisa perguntar?
 576168993	Como foi?
 2147364375	Foi uma coisa fácil.
