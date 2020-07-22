@@ -4640,7 +4640,7 @@ Portuguese	Português(BR)
 753076254	Delegado Wayne, a seu dispor.
 2106651962	Delegado?!
 26992097	Por que não nos contou, Isabelle?
-1868225304	Ele não era xerife quando o conheci.
+1868225304	Ele não era Delegado quando o conheci.
 524697879	De qualquer forma, faríamos bem começar a agir.
 1755033369	Devo muito a todos, senhores.
 1826222432	Espero poder lhe pagar algum dia.
