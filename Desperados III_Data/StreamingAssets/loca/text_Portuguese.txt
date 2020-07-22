@@ -4665,27 +4665,27 @@ Portuguese	Português(BR)
 57838474	De qualquer forma, acho que posso encontrar um novo no bordel.
 1829053166	De qualquer forma, acho que posso encontrar um novo no Lanterna Vermelha.
 179603340	Podemos passar por aqui antes de chegarmos ao Pier.
-407267459	Está bem. Vamos embora antes que Frank desapareça de novo.
-1293480776	...!...!...! olá!
-1154784819	Do que eu senti falta?
-1648054498	Apenas o plano. Vou te informar no caminho.
-345719109	Certo. Pronto pra a ação.
+407267459	Certo. Vamos embora antes que Frank desapareça novamente.
+1293480776	...!...!...! Ei!
+1154784819	O que eu perdi?
+1648054498	Apenas o plano. Vou explicar ao longo do caminho.
+345719109	Certo. Pronto para ação.
 1424107471	Vamos evitar o bloqueio.
-921127699	É melhor ficarmos longe desse ponto de verificação.
+921127699	Temos que ficar longe daquele posto de controle.
 837549036	Eles não estão brincando sobre o bloqueio.
-1241250391	Frank deve estar nervoso com alguma coisa.
-255654356	Significa que Frank está ficando nervoso. Isso é bom.
-1366938416	Mais homens DeVitt pela frente.
-180571989	Ah, eu vejo muito trabalho para Bianca.
+1241250391	Frank deve estar muito nervoso.
+255654356	Isso significa que Frank está ficando nervoso. Isso é bom.
+1366938416	Mais homens de DeVitt à frente.
+180571989	Há muito para Bianca fazer.
 194022756	Cuidado. Há postos de controle em todos os lugares.
 352018647	Como passamos por eles?
 1245413102	Há mais cobertura no mercado. Eu passaria por lá.
 2034006796	Então eles ainda estão soltos? Existe algum perigo?
 572142553	Temo que sim. Devo pedir-lhe para ficar atrás da barreira.
-2130247634	Você ouviu isso, Howard? Que legal.
+2130247634	Você ouviu isso, Howard? Que emocionante.
 12701244	Quem são esses criminosos?
-1912110629	Atacaram um cidadão íntegro. Mas nós vamos pegá-los.
-710461841	Aposto que eram as pessoas de cor ao lado.
+1912110629	Eles atacaram um cidadão honesto. Mas vamos pegá-los.
+710461841	Aposto que eram aqueles negros.
 1312556794	Como é que você está aqui e não o xerife?
 1888041617	Eu trabalho para o Sr. DeVitt, senhor. Mas estamos ajudando na aplicação da lei.
 2053058130	DeVitt é um homem tão bom. Sempre cuidando da comunidade.
@@ -4711,15 +4711,15 @@ Portuguese	Português(BR)
 1563044379	Por aqui.
 778651497	Direto através do posto de controle. Um pouco ousado, você não acha?
 114443374	Funcionou. Agora vamos lá - Frank está esperando.
-1128538110	No meio do caminho.
+1128538110	Estamos na metade do caminho.
 1489257316	Onde agora?
-430255386	Por que não parar no Lanterna Vermelha? Eu realmente poderia usar um disfarce.
+430255386	Por que não paramos no Lanterna Vermelha? Eu poderia usar um disfarce.
 1832326260	Não importa. Todas as estradas levam ao porto.
-1149630617	Tudo certo. está aqui o prostíbulo.
-1764674115	Hmm, este é o prostíbulo.
-1815809576	Parece que o Lanterna Vermelha está fechado por hoje.
-1893706550	Tanto faz. Vamos ser rápidos aqui.
-1532694153	Heh, este lugar me lembra aquele em Deadwood.
+1149630617	Certo. Aqui está o bordel.
+1764674115	Hmm, Aqui está o bordel.
+1815809576	Parece que o Lanterna Vermelha está fechado hoje.
+1893706550	Paciência. Vamos ser rápidos.
+1532694153	Heh, esse lugar me lembra Deadwood.
 2047439447	Agora não Hector.
 1273162532	Quanto tempo isso vai levar! Temos reservas para hoje!
 1352318700	Heh, como eu disse. O local está bloqueado devido à investigação.
@@ -4749,20 +4749,20 @@ Portuguese	Português(BR)
 2094576614	Olhe para todo esse lixo.
 1823804974	Acho que nem todas as estradas levam ao porto.
 440601529	Eu tenho o que eu preciso.
-1871149542	Então vamos movê-lo.
+1871149542	Então vamos embora.
 851670999	Por aqui.
 1818043732	Por aqui, amigo.
-423452625	O porto não está longe agora. Na mesma rua.
-2110783539	O porto não está longe agora. Apenas através do beco.
-32736333	Acho que sua perseguição terminará em breve.
+423452625	O porto não é muito longe. Descendo a rua.
+2110783539	O porto não é muito longe. No beco.
+32736333	Logo sua caçada acabará.
 1261584198	Mhm.
 1853430813	Olhe para frente.
-1181533852	Eu sinto o cheiro do rio.
-361861253	Veja a cerca? Esse é o porto.
-1724359099	Você tem estado bastante quieta ultimamente.
-1538141028	só pensando. Não se preocupe.
-1993344264	Posso embarcar no meu treinador agora, senhora? Estou encharcado.
-129710443	Medo não. Temos que procurar tudo em tudo... Completamente...
+1181533852	Eu posso sentir o cheiro do rio.
+361861253	Vê a cerca? Esse é o porto.
+1724359099	Você não tem falado muito ultimamente.
+1538141028	Estou pensando, não se preocupe.
+1993344264	Posso entrar na carruagem, senhora? Estou encharcado.
+129710443	Temo que não. Precisamos inspecionar... Completamente...
 63074807	Completamente?
 138876612	Sim, essa é a palavra.
 115078417	Eu não entendo o que você quer de mim.
@@ -4779,16 +4779,16 @@ Portuguese	Português(BR)
 968644808	Bem, você nunca sabe o que está acontecendo na cabeça dele.
 1598804511	Tudo certo. Estamos no porto.
 1468679126	Ah, este é o porto.
-1167952505	Não está longe agora. Nós o pegaremos, Cooper. Não se preocupe.
-1565595358	Não fique convencido. Ainda temos um longo caminho a percorrer.
+1167952505	Não está longe. Vamos pegá-lo, Cooper. Não se preocupe.
+1565595358	Não vamos exagerar. Ainda temos muito o que fazer.
 885220465	Passamos por coisas piores, não passamos?
-312617706	Você nunca pode ter certeza.
-1726825296	Quase lá.
+312617706	Nunca se sabe.
+1726825296	Estamos quase lá.
 1556929191	Estamos quase lá, amigo.
 1555000561	Você nunca me contou o que aconteceu entre você e Frank.
 83081385	É uma longa história.
-463462753	Geralmente é.
-1860391705	Vou lhe dizer quando terminarmos, ok?
+463462753	É sempre assim.
+1860391705	Eu vou te dizer quando terminarmos, certo?
 1562553822	Ainda há fumaça sobre o pântano.
 3072081	Quem se importa. Ainda estamos de pé aqui na chuva.
 1903911585	Você quer reclamar, leve para o Frank. 
@@ -4813,27 +4813,27 @@ Portuguese	Português(BR)
 2019980298	Espero que sim, he he.
 1435054417	Fique vigilante! Quem sabe o que esses idiotas estão fazendo.
 1871452352	Está sob controle, chefe.
-1627958694	O Pier 9 está ao virar da esquina.
-163337462	Ali está o porto. Qual era o número novamente...
-396578546	Lembre-se: todos nós nos encontramos no portão no píer 9. Ninguém entra sozinho.
-1239364360	Não tem problema, Cooper.
+1627958694	O Píer 9 está virando a esquina.
+163337462	Aqui é o porto. Qual era o número
+396578546	Lembre-se, nos encontramos no portão do Pier 9. Ninguém entra sozinho.
+1239364360	Sem problemas, Cooper.
 1461662265	Claro, amigo.
 1592874094	Aqui estamos. Pier 9.
 1971851449	Abre-te Sésamo, he he.
-251973098	Qual o plano agora?
-471402247	Eu vou sozinho.
-1299927685	Como você está, Cooper.
-142722208	Você sabe como tem que ser.
-1763287543	Não desta vez, Cooper.
-1740614320	O que está acontecendo aqui?
-134435750	Fora do meu caminho, Hector.
-43231532	Pare com isso, vocês dois!
+251973098	Qual é o plano?
+471402247	Vou entrar sozinho.
+1299927685	Não estamos falando sobre isso, Cooper.
+142722208	Você sabe que tem que ser assim.
+1763287543	Desta vez não, Cooper.
+1740614320	O que está acontecendo?
+134435750	Saia do caminho, Hector.
+43231532	Parem com isso, vocês dois!
 1901925498	Ouça-me amigo.
-1045394329	Se você for lá sozinho, vai acabar como seu pai...
+1045394329	Se você entrar sozinho, você vai fazer o mesmo que o seu pa...
 858015093	Hector!
 816542941	Que diabos?!
 15435487	Que porra há de errado com você, Cooper?
-1042226063	Você deve encontrar um lugar para se esconder.
+1042226063	Esconda-se em algum lugar.
 1586046057	Maldito.
 204539558	VO TRACK
 1109648303	Temos certeza de que isso vai funcionar?
@@ -4860,42 +4860,42 @@ Portuguese	Português(BR)
 1609886027	Você está se divertindo aí atrás?
 954257301	Olá Frank.
 224421558	Você cresceu, garoto.
-196362913	Um pouco mais magro que seu pai, mas no geral não é ruim...
+196362913	Um pouco mais magro que seu pai, mas não é ruim...
 1351876617	Quanto tempo faz? Dez anos? Quinze?
 2051399708	Você está ficando velho.
 326573527	...Talvez.
-1648785514	Imagino o que ele diria.
-346461861	Você vive de sujeira e sangue, fazendo um nome para si mesmo...
-1049010232	Assim como nós no dia.
-1161837714	Você terminou? Porque eu não tenho o dia todo.
+1648785514	O que será que ele diria?
+346461861	Você vive de sujeira e sangue, tenta fazer um nome para si mesmo...
+1049010232	Assim como nós nos velhos tempos.
+1161837714	Você já terminou? Não tenho o dia todo.
 59352447	Tudo bem garoto...
-1689389748	Vamos ver até onde você chegou.
+1689389748	Vamos ver se você fez algum progresso.
 1856970436	VO TRACK
 2115571404	Gnh...
 632140661	Você é rápido, garoto.
 987480715	Assim como seu pai.
-2096777083	É o bastante!
-1454144765	Frank! Vejo que você está se entregando a velhos hábitos.
-924815410	Meio surpreso em vê-lo aqui, DeVitt.
-1561106598	Bem, eu tenho que supervisionar meus investimentos.
-609407692	E esse homem me causou muitos problemas ultimamente.
-1128086836	... Então você deve ser o idiota rico.
+2096777083	Isso é o suficiente!
+1454144765	Frank! Vejo que voltou aos seus velhos hábitos.
+924815410	Estou surpreso em vê-lo aqui, DeVitt.
+1561106598	Bem, eu tenho que verificar meus investimentos.
+609407692	E este homem me causou muitos problemas.
+1128086836	... Você deve ser aquele idiota rico.
 822621	Adorável.
-845007003	E quanto aos outros?
-769165645	Quatro capturados. Delegado escapou.
+845007003	Onde estão os outros?
+769165645	Pegamos quatro. O Delegado fugiu.
 1814878794	Fugiu?
-872656828	Nós o pegaremos. Não se preocupe, senhor.
-1463726551	Tudo bem, lá vai você então.
-1639818221	Eu realmente não te invejo, tendo que me misturar com lixo assim.
-1141387201	Oh, não é tão ruim. Mas duvido que você entenda.
-1303454431	Eu não preciso.
-1666716055	É para isso que tenho você, afinal.
+872656828	Nós vamos pegá-lo. Não se preocupe, senhor.
+1463726551	Tudo bem, você pode ir.
+1639818221	Eu não invejo você, você está sempre no meio deste lixo.
+1141387201	Não é tão ruim. Mas não espero que entenda.
+1303454431	Eu não preciso disso.
+1666716055	É por isso que trabalha para mim.
 1352388126	Certo.
-1330111570	Então, o que vai acontecer com a criança agora?
-1711981189	Não podemos deixar que o bom material seja desperdiçado.
-1683647250	Ele vai trabalhar até a morte nas minas.
+1330111570	Agora, o que vai acontecer com o garoto?
+1711981189	Não podemos desperdiçar nossa força de trabalho.
+1683647250	Ele vai trabalhar nas minas até morrer.
 710916016	Junto com seus amigos.
-1535498807	Seu merdinha...
+1535498807	Seu pedaço de merda...
 1405023782	...argh...
 528193204	VO TRACK
 660651684	Alcance o píer 9
