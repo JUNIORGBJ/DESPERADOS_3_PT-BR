@@ -2805,9 +2805,9 @@ Portuguese	Português(BR)
 819823984	Eu sei. Só queria poder matar aqueles malditos novamente.
 1010048128	Obrigado, Hector.
 532568269	Eu odeio dizer isso, mas isso está longe de terminar.
-1164037571	O quis com isso?
-1114307721	Tudo que a companhia tem que fazer é enviar mais homens com o próximo trem.
-1429595592	Ele está certo. Não podemos ganhar isso. Talvez seja hora de cortarmos nossas perdas.
+1164037571	O que você quis dizer?
+1114307721	Tudo que a companhia tem que fazer é enviar mais homens no próximo trem.
+1429595592	Ele está certo. Não podemos ganhar. Talvez devêssemos limitar os danos.
 714421692	Não.
 835385637	O que tem em mente?
 885227267	Vamos explodir a ponte.
@@ -2815,7 +2815,7 @@ Portuguese	Português(BR)
 2027617074	A ponte em Eagle Falls.
 1006380252	Sem ponte, sem trem, sem dor e miséria para o povo de Flagstone.
 1413203826	Vou para Eagle Falls e explodirei aquela maldita ponte, mesmo que seja a última coisa que eu faça.
-871378757	Essa vai ser uam tarefa difícil, senhorita.
+871378757	Essa vai ser uma tarefa difícil, senhorita.
 348563740	Farei sozinha se for preciso.
 969953473	Eu já vi esse lugar antes. É enorme e bem vigiado.
 1894985836	Vai ser um aventura arriscada.
@@ -5185,7 +5185,7 @@ Portuguese	Português(BR)
 533668900	Como diabos você "perde" um dente de ouro, seu idiota?
 1344476213	O trem está chegando. Tire seu traseiro da linha.
 1593569900	Então, como você a perdeu?
-1727713983	Caí de cabeça nos trilhos, duh. Jeesus!
+1727713983	Caí de cabeça nos trilhos, duh. Jesus!
 1888250129	O que? Quão? Por que diabos você fez isso?
 1455771679	Trem. Trem! Vamos, mexa-se!
 142048326	Então, como diabos você bateu sua cabeça nos trilhos?
@@ -5252,7 +5252,7 @@ Portuguese	Português(BR)
 1919537805	Raton precisa de mais feno. Para o combate, para ficar grande e forte.
 1259704800	Sim, sim, para a luta. Pegue seu feno antes que eu perca a paciência.
 1651156154	Muito obrigado, bom senhor.
-981648462	Você está brincando comigo? Denovo com a merda do touro?
+981648462	Você está brincando comigo? De novo com a merda do touro?
 969053577	Sinto muito, senhor, mas Raton tem que comer. Se Raton não comer, ele não ganha.
 1387508682	Nem se passaram cinco minutos... droga, pegue esse feno.
 1263701317	Raton ficará agradecido, senhor.
@@ -5261,11 +5261,11 @@ Portuguese	Português(BR)
 1108018588	Então traga água para ele. O que há com vocês?
 1708713104	Vou lhe trazer água.
 742499765	Eu sei que você está me encarando, sua maldita bruxa! O que é isso?
-417326690	No que me diz respeito, você pode afogar aquele touro também.
+417326690	No que me diz respeito, você pode afogar aquele touro.
 310665764	Pare de me encarar! Você quer trazer água para ele.
 321519532	Raton está com sede. Eu trago água para ele.
 585996427	Jesus, preciso de uma pausa. Me deixe em paz!
-1300607775	Parece que esqueceram de você., he he he.
+1300607775	Parece que esqueceram de você. he he he.
 705556329	Animal estúpido.
 1872556597	Aww, não há mais comida e água? Pobre coisa.
 1193242844	He he he he.
@@ -6050,7 +6050,7 @@ Portuguese	Português(BR)
 83005743	Oh sim. Eu me lembro desse lugar.
 397645503	Olha tudo isso.
 1335626615	Olhe para tudo isso enferrujando.
-873851136	Eu não me importaria de dar uma olhada em um daqueles eixos de mineiração.
+873851136	Eu não me importaria de dar uma olhada em um daqueles eixos de mineração.
 1659941219	De jeito nenhum.  Estou farto de  eixos de mineração.
 1648199460	Heh, sim.  Além disso, o veio secou anos atrás.
 447364667	Ok. Vamos seguir em frente então.
@@ -12920,7 +12920,7 @@ Portuguese	Português(BR)
 1676503866	Isso é novidade pra mim.
 1829619572	Mmm, de onde paramos?
 1083386674	Perdi o fio... ah, sim.
-687909159	Onde estávamos denovo...?
+687909159	Onde estávamos de novo...?
 749133177	Bem, voltando ao assunto anterior...
 2128551285	Você estava dizendo...
 1093274812	Outro passo e você está morto.
@@ -14957,7 +14957,7 @@ Portuguese	Português(BR)
 1600337869	Oh Deus!
 1652711869	Aaaah!
 1385909977	Socorro! Socorro!
-281149472	Alguem AJUDE!
+281149472	Alguém AJUDE!
 635793022	Socorro! Qualquer pessoa!
 929966367	...
 1946834458	...
