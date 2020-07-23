@@ -5360,94 +5360,94 @@ Portuguese	Português(BR)
 118152795	Leve todos a bordo do trem.
 339265412	Disfarce
 555424721	Há uma prostituta na cidade. Kate pode precisar de um disfarce.
-2108537596	Ah, Frank, você está aí.
-1260959731	Você já informou os homens para a noite?
-778998063	Espero que todos tenham o seu melhor comportamento quando os convidados chegarem.
-1659846400	Faça-me a cortesia e olhe para mim quando eu falar com você.
-1553043809	Eu só estava pensando.
-1782845682	Estou meio cansado de você, Vincent.
-1258618146	Por favor, Frank.
-578298804	Eu realmente acho que você é velho demais para esse tipo de coisa.
+2108537596	Ah, Frank, aqui está você.
+1260959731	Você já deu instruções aos homens para esta noite?
+778998063	Espero que eles se comportem bem quando os convidados chegarem.
+1659846400	Por favor, olhe na minha cara quando eu falar com você.
+1553043809	Eu estava pensando.
+1782845682	Estou cansado de você, Vincent.
+1258618146	Mas, por favor, Frank.
+578298804	Acho que está velho demais para isso agora.
 1753186492	Talvez você esteja certo.
-446897044	Estou velho demais para me misturar com lixo como você.
+446897044	Sou velho demais para lidar com pessoas como você.
 1019580857	Frank.
-1056529862	Não fique parado, seu búfalo.
+1056529862	Não fique aí parado, seu tolo.
 395160447	Vamos, Frank.
-326060142	Você acha que tem o que é preciso, Bill?
-374421595	Não achava isso.
-424427652	Aproveite sua festa, Vincent.
+326060142	Você acha que está a atura, Bill?
+374421595	Como eu pensava.
+424427652	Aproveite a festa, Vincent.
 1022877229	Aproveite como se não houvesse amanhã.
 1893174963	E agora senhor?
 1352081880	Nada.
-466600239	Prosseguimos como planejado.
-286916777	Não aceitarei mais interrupções.
+466600239	Vamos continuar como planejado.
+286916777	Mas não tolerarei mais interrupções.
 1053507609	VO TRACK
 918851178	Posso ajudá-la, senhorita O'Hara?
-259808903	Acho que ninguém está nos observando aqui.
-2042271898	Apenas tentando entrar no clima.
-1460644068	Você está.
-1345250752	Eu digo que vocês fazem um belo casal.
-767993458	Talvez seja um pouco demais.
-1366589920	Vai ficar tudo bem, mas devemos nos livrar desses ferros.
-1911995687	Eles não combinam com o seu novo visual, Sr. Cooper.
+259808903	Ninguém está olhando para nós ainda.
+2042271898	Estou tentando entrar no clima.
+1460644068	Eu posso vê-lo.
+1345250752	Vocês dois são um belo casal.
+767993458	Talvez seja um pouco exagerado.
+1366589920	Vai ficar tudo bem, mas precisamos tirar as armas.
+1911995687	Elas não combinam com o seu novo visual, Sr. Cooper.
 1353129268	Ora...
-1581921180	... Receio que você tenha razão, delegado.
-1689062683	Agora é uma visão com a qual eu poderia me acostumar.
+1581921180	... Temo que esteja certo, delegado.
+1689062683	É melhor eu me acostumar com essa visão.
 184271111	Tudo bem, vamos seguir o plano.
 984542604	VO TRACK
-383101198	A festa de DeVitt está em andamento. Naturalmente, ele se tornou o centro das atenções.
-2084697177	Você precisará entrar lá, nocautear o maldito e, bem, extraí-lo das instalações.
+383101198	A festa de DeVitt está em andamento. Naturalmente, ele é o centro das atenções.
+2084697177	Você precisará entrar lá, nocautear o maldito e tirá-lo das instalações.
 658204526	Lembre-se, eu o quero vivo. Portanto, não seja muito duro com ele.
-72267178	Eu também não quero que nenhum dos convidados seja prejudicado, entendeu?
-613008332	Arraste-o para a carroça, depois sente-se e dê o fora dali.
-1437837658	DeVitt tem dois grandes eventos planejados para esta noite.
-63699860	Nos jardins da frente, há um show de fogos de artifício em preparação.
-2111270962	Você não precisa acender os dois esconderijos. Basta escolher um e acender o pavio.
-1863947050	E no quintal, DeVitt vai mostrar uma nova invenção para os convidados.
+72267178	Eu não quero nenhum convidado ferido, ok?
+613008332	Leve-o para a carroça, depois vá embora.
+1437837658	DeVitt agendou dois eventos para hoje à noite.
+63699860	No jardim da frente, eles estão preparando uma exibição de fogos de artifício.
+2111270962	Não há necessidade de ligar ambas as ações, escolha uma e acenda o pavio.
+1863947050	No jardim dos fundos, DeVitt mostrará uma nova invenção aos seus convidados.
 87798289	Você vai precisar de um cara forte como Hector para ligar o gerador antes de ligar o interruptor.
-997303326	Se você gerencia tudo isso, deve ser o suficiente para afastar os convidados do DeVitt.
-1967667379	Seus amigos já deveriam ter chegado à costa agora. Eles vão fazer o seu próprio caminho.
-392671691	E é sobre isso. Mostre seus convites no portão da frente e aproveite a festa.
-1209422243	Eu vou sair daqui a pouco. Vejo você de volta ao local da reunião. E boa sorte.
+997303326	Desta forma, você deve desviar a atenção dos convidados da DeVitt.
+1967667379	Seus amigos já deveriam ter desembarcado. Eles vão encontrar uma maneira de entrar.
+392671691	E é isso. Mostre os convites para o portão principal e aproveite a festa.
+1209422243	Vou entrar em breve. Vejo você no ponto da encontro. E boa sorte.
 1905302755	Devemos entrar, senhorita O'Hara?
-135070172	Alguém está levando seu papel muito a sério, Sr. Cooper.
-342061846	Estou apenas seguindo o plano.
-909257755	Tudo bem, vamos fazer isso.
-232516660	Um civil morto. O delegado não vai gostar disso.
-1808431973	Nós matamos um civil. O que o delegado vai dizer?
-1093574551	Espere, isso não é guarda. O delegado vai ficar chateado.
-1249882110	Isso não era um guarda. Wayne vai arrebentar nossas bundas.
-1764205916	Eu estarei contando com você.
+135070172	Está levando seu papel muito a sério, Sr. Cooper.
+342061846	Só estou seguindo o plano.
+909257755	Tudo bem, vamos embora.
+232516660	Um civil morreu. O delegado não ficará feliz com isso.
+1808431973	Matamos um civil. O que o delegado vai dizer?
+1093574551	Espere, isso não era um guarda. O delegado vai ficar chateado.
+1249882110	Ele não era um guarda. Wayne vai nos fazer pagar.
+1764205916	Estou contando com você.
 261744105	Continue. Aproveita a festa.
-1371704781	Vamos pegar o maldito.
-1784503016	Linha longa. 
-1597495231	Vamos jogar bem. O delegado não gostaria que prejudicássemos convidados.
-1788317662	Não significa que não podemos cortar.
+1371704781	Vamos pegar aquele maldito.
+1784503016	Que fila.
+1597495231	Vamos ser bons. O delegado não quer que machuquemos os convidados.
+1788317662	Mas podemos cortar a fila.
 658016637	Posso ver seu convite?
 1673198202	Seu convite por favor.
 992364733	Obrigado, madame. Aprecie o banquete.
-726227056	Obrigada, senhor. Tenha uma noite agradável.
+726227056	Obrigado, senhor. Tenha uma noite agradável.
 2017930339	Nós estávamos aqui primeiro.
 1171645227	Que grosseiro.
 1319204336	Quem são eles?
 516745338	Devem ser os novos riquinhos.
-883809050	Bem, lá se vai nossa entrada.
-927645009	Qual é. Ele não deveria ter nos deixado entrar?
-1204959319	Acho que vamos ter de encontrar outro jeito.
-1249683220	Nós cabemos aqui.
-1447453001	Tenho que dizer, me sinto meio nu sem meu coldre.
-237954651	Talvez você devesse tentar ficar sem mais vezes.
-554930580	Estou com um pouco de inveja porque você pôde ficar com sua pequena atiradora de ervilhas.
-933550077	Bem, o que vale é saber para quem apontar.
+883809050	Adeus ao nosso plano de entrar.
+927645009	Pode entrar. Ele não tinha que nos deixar entrar?
+1204959319	Temos que encontrar outro jeito.
+1249683220	Nós nos misturamos bem.
+1447453001	Sinto-me nu sem o meu coldre.
+237954651	Talvez você devesse tentar mais vezes.
+554930580	Estou com um pouco de inveja que você guardou seu pequeno brinquedo.
+933550077	Isso é porque eu sei em quem apontar.
 1486085774	Mhm.
 67172205	Esse lugar é… impressionante.
-1526774279	Então, vamos entrar? Nos entrosar com essa gente chique?
-1912676651	Qual é, Cooper. Não vamos nos esquecer porquê estamos aqui. Primeiro as distrações, depois DeVitt.
+1526774279	Então, vamos entrar? Vamos socializar com essa gente chique?
+1912676651	Vamos Cooper. Não podemos esquecer porquê estamos aqui. Primeiro as distrações, depois DeVitt.
 873168970	Um labirinto, huh?
-1885391290	O delegado disse que haveriam fogos de artifício ali. Vamos ver.
-1555792696	Estou logo atrás de você, senhorita O'Hara.
-501325046	Belo jardim silencioso.
-801218685	De acordo com o delegado tem fogos de artifício perto da lagoa.
+1885391290	O delegado disse que haveriam fogos de artifício ali. Vamos procurar.
+1555792696	Estou atrás de você, Srta. O'Hara.
+501325046	Um belo jardim tranquilo.
+801218685	De acordo com o delegado os fogos de artifício estão perto da lagoa.
 901675205	Bem, não temos muito o que percorrer então.
 1089249859	Belo lugar. Pena que pertence a um homem tão horrível.
 1594908787	Mhm. Não por muito tempo.
@@ -16596,7 +16596,7 @@ Portuguese	Português(BR)
 538080267	Pegue a chave
 909577338	Pegue a chave da jaula do guarda.
 1113321471	Liberte o homem rabugento
-1778748410	Eles colocaram o homem rabugento em uma jaula. Tire-o lá.
+1778748410	Eles colocaram o homem rabugento em uma jaula. Liberte-o.
 837906021	Chegue a um cavalo
 297038480	Ajude o homem rabugento a montar em um dos cavalos para que ele possa escapar.
 857259210	Veja, neste mundo, existem dois tipos de pessoas - aqueles com armas carregadas e aqueles que cavam. Alguém me disse isso, há muito tempo. Seu nome sempre vem na minha mente.
