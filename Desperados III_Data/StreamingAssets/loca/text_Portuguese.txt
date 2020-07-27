@@ -5421,7 +5421,7 @@ Portuguese	Português(BR)
 261744105	Continue. Aproveita a festa.
 1371704781	Vamos pegar aquele maldito.
 1784503016	Que fila.
-1597495231	Vamos ser bons. O delegado não quer que machuquemos os convidados.
+1597495231	Vamos ser bonzinhos. O delegado não quer que machuquemos os convidados.
 1788317662	Mas podemos cortar a fila.
 658016637	Posso ver seu convite?
 1673198202	Seu convite por favor.
@@ -5465,20 +5465,20 @@ Portuguese	Português(BR)
 2016360406	Devemos nos apresentar para o anfitrião?
 618550959	Não vamos ser tão pretensiosos.
 168477056	Bem quieto aqui atrás.
-303836523	O delegado mencionou algum tipo de invenção sendo preparada no quintal.
-417392981	Ok então, vamos dar uma olhada.
-1153453160	Aqui deve ser onde os funcionários moram.
-60855948	Acho que vi a carroça. Então é assim que vamos sair daqui.
+303836523	O delegado falou sobre algum tipo de invenção no jardim dos fundos.
+417392981	Ok então, vamos dar uma olhada ao redor.
+1153453160	Deve ser aqui que os criados vivem.
+60855948	Acho que vejo a carroça. É nossa saída.
 699061992	Certo. Com DeVitt no saco.
-1498793038	Tudo certo. Estamos aqui.
-497704934	Uh, você poderia baixar essa escada?
-1907508189	Heh, não se preocupe grandão, pode deixar.
+1498793038	Certo. Aqui estamos.
+497704934	Você pode baixar a escada?
+1907508189	Heh, não se preocupe grandão, deixa comigo.
 93544555	Obrigado.
-1812948111	Sabe… isso seria muito mais fácil se você soubesse nadar.
-958036718	Uh…Eu sei nadar … mas tenho que carregar a Bianca. 
-723560253	Isso parece fácil.
-1866936801	Patrulhas individuais, rotas longas, vista limpa. McCoy teria um dia de treinamento aqui.
-666346151	Parece que sente falta do velho rabugento.
+1812948111	Sabe, seria muito mais fácil se você pudesse nadar.
+958036718	Uh… Eu sei nadar… Mas tenho que pensar na Bianca 
+723560253	Parece muito fácil.
+1866936801	Patrulhas individuais, rotas longas, vista livre. Seria uma caminhada para McCoy.
+666346151	Vejo que sente falta daquele velho mal-humorado.
 1742579761	Sim, pra cacete.
 1151020941	Bill estava lá quando ele se foi. Disse que ele não conseguia mover um músculo.
 2094191941	Ninguém mexe com Frank.
@@ -5491,15 +5491,15 @@ Portuguese	Português(BR)
 662181392	Heh, entramos.
 1379795607	Lembre-se do que Wayne nos disse. Não podemos matar nenhum dos convidados.
 1542228241	Certo. Ao invés disso só vou colocá-los para dormir.
-1002334850	Ora, ora, olha esse lugar.
-673672528	Ali está a festa. Eu posso sentir o cheiro da comida daqui.
+1002334850	Ora, ora, olhe para aquele lugar.
+673672528	Aqui está a festa. Eu posso sentir o cheiro da comida daqui.
 959790353	Controle-se, Hector.
-424716704	Um labirinto, não é? Chique.
-826972201	Eu odeio labirintos. Nós realmente vamos lá!?
-1533758169	Eu acho que você pode lidar com isto.
-1069120319	Ei, para que serve esse lugar?
-1508659987	Isso sim é um belo jardim de pedra. DeVitt tem tudo.
-1660180216	O que você quer dizer? É só um grande quadrado com uma poça.
+424716704	Um labirinto de cercas, não é?.
+826972201	Odeio labirintos. Temos que entrar?
+1533758169	Vamos, não é assim tão difícil.
+1069120319	Ei, para que é esse lugar?
+1508659987	Olhe para aquele lindo jardim zen. DeVitt pensou em tudo.
+1660180216	O que isso significa? É só um quadrado com uma poça.
 2009509478	Huh? O que tem aqui atrás?
 199489402	Vê a carroça? É assim que vamos sair daqui.
 1837426009	Oh sim. Com um “pacote” no saco.
@@ -5541,13 +5541,13 @@ Portuguese	Português(BR)
 1223108790	Não se preocupe conosco, Cooper.
 1673485033	Bom te ver, Hector.
 132914728	Heh, me ver? Você é que é agradável aos olhos.
-1583162982	Ei Kate. Está pronta para sequestrar um cara rico?
+1583162982	Ei Kate. Pronta para sequestrar um homem rico?
 1094152163	Pode apostar.
-1825854098	Parece que encontramos os fogos de artifícios.
-1130256363	Ali. Aqueles devem ser os fogos de artifício.
-1213693394	Vamos precisar de um pouco de privacidade antes de acendermos o pavio.
-1532728162	Ei, acho que encontramos os fogos.
-1764558911	Ali. Os fogos de artifícios que Wayne nos falou.
+1825854098	Encontramos os fogos de artifício.
+1130256363	Ali. Esses devem ser os fogos de artifício.
+1213693394	Precisamos de privacidade antes de ligar o pavio.
+1532728162	Ei, esses são os fogos de artifício.
+1764558911	Ali. Os fogos de artifício que Wayne estava falando.
 1373581082	Vamos acendê-los.
 1783398701	Tudo pronto?
 1914135370	Sim. Relaxe.
@@ -5589,14 +5589,14 @@ Portuguese	Português(BR)
 1635449484	Acenda-os.
 243727080	Vamos dar um show a eles.
 1287838523	Aí vamos nós.
-1951732879	Olhe para cima.
+1951732879	Olhos para o céu.
 1458496835	Hrm. Parece que a equipe dos fogos de artifício perdeu o horário.
-433683055	Você poderia olhar para aquilo!
-311955387	Vamos para fora ver!
-605339567	Admito, é muito bonito.
-222351628	Parece que metade dos convidados concorda com você.
-1431323880	Significa que estamos no meio do caminho.
-2089889703	Heh, então é a hora do troco.
+433683055	Olhe para aquilo!
+311955387	Vamos sair e ver!
+605339567	Tenho que admitir, são muito bonitos.
+222351628	Metade dos convidados concordam com você.
+1431323880	Significa que estamos na metade do caminho.
+2089889703	Heh, e então podemos nos vingar.
 1598006555	Parece bom, huh?
 618442596	Com certeza. Metade dos convidados parecem pensar assim também.
 1691883871	Um já foi, falta o outro.
@@ -5627,22 +5627,22 @@ Portuguese	Português(BR)
 1433994186	Deseja mais vinho? Ou um pouco de música?
 1266921645	Está menos cheio agora, não é?
 1535120832	Nada como um pouco de entretenimento no começo da noite, né?
-1998599449	Vê aquilo? É algum tipo de balão de vidro.
-1212910311	Essa deve ser a invenção que Wayne estava falando.
-1438719643	Ele também disse que precisamos de Hector no gerador.
-1459273202	Pode deixar comigo, amigo.
-907258221	Qual é dessa bola de vidro?
-1856615947	Aquele deve ser o novo brinquedo de DeVitt. Wayne disse que você teria de aumentar a força do gerador.
+1998599449	Você viu isso? Parece um balão de vidro.
+1212910311	Deve ser a invenção que Wayne estava falando.
+1438719643	Ele também disse que precisamos do Hector para o gerador.
+1459273202	Eu cuido disso, amigo.
+907258221	O que é essa bola de vidro?
+1856615947	Deve ser o novo brinquedo do DeVitt. Wayne disse para ligar o gerador.
 1128272690	Heh, deixa comigo.
-541925172	Pronto quando você estiver, Hector.
+541925172	Pronto quando quiser, Hector.
 370559760	Ok, algo está acontecendo.
-1998560206	Algo está acontecendo. Tente o interruptor.
-2134087233	Muito devagar.
-1611897409	Muito devagar. De novo.
-1053329122	Morreu. Precisamos do gerador primeiro.
-184350688	Nada. Eu acho que precisamos do gerador primeiro.
-549858308	Uh, nada. Eu vou tentar o gerador.
-1444807405	Não está acontecendo nada… Isso nos leva ao gerador.
+1998560206	Alguma coisa está acontecendo. Tente o interruptor.
+2134087233	Muito lento.
+1611897409	Muito lento. De novo.
+1053329122	Nada. Precisamos do gerador primeiro.
+184350688	Nada. Primeiro temos que ligar o gerador.
+549858308	Uh, nada. Vou tentar o gerador.
+1444807405	Nada acontece... Precisamos do gerador.
 2056788017	Eu já vi isso! Mais brilhante que o fogo do inferno.
 2074717416	Mentira. Mostre-me então.
 1004794332	Eu não tenho forças para aumentar o gerador.
@@ -5660,8 +5660,8 @@ Portuguese	Português(BR)
 277373840	Minhas instruções foram claras...
 1084776472	Minha nossa! Que espetacular.
 646406926	Vamos ver de perto.
-1013880880	Parece que a festa mudou.
-998001442	O que significa que podemos começar o evento principal.
+1013880880	A festa se mudou.
+998001442	Então podemos começar com o show principal
 720082183	Hah, bom trabalho vocês dois!
 445795804	Hector, Isabelle. Que agradável encontrar vocês aqui.
 401358094	Heh,digo o mesmo.
@@ -5698,25 +5698,25 @@ Portuguese	Português(BR)
 669798481	Quase deserto.
 114161847	Não tem muita coisa acontecendo lá embaixo agora.
 16344821	Não há muita coisa acontecendo lá embaixo agora.
-1584014028	E DeVitt não está contente com isso.
-1211808247	Ele provavelmente acha que isso não pode piorar.
-1156378543	Vamos provar a ele o contrário.
+1584014028	E DeVitt não está feliz com isso.
+1211808247	Ele vai pensar que não pode ficar pior.
+1156378543	Vamos provar que ele está errado.
 1785098953	Acho que vi a carroça ali embaixo.
 1671420536	Hm, posso ver a carroça ali embaixo.
 1823263670	Ali embaixo. Estou vendo a carroça.
 443779208	Você pode ver a carroça ali embaixo.
-127900034	Foi bem estiloso como o delegado preparou tudo isso.
-1493995054	Wayne geralmente é o cara dos planos.
-1526576723	Ainda assim, por que eu não ganhei um terno elegante?
+127900034	O delegado arranjou tudo perfeitamente.
+1493995054	Wayne sempre tem um plano para tudo.
+1526576723	Por que não me deu um terno elegante?
 609802937	Aww, não fica assim, Hector.
 1905479749	A estrada dos ladrões.
-2056089867	O topo do mundo.
-1735223757	Uh...muito alto.
-841474490	Então é assim que DeVitt gasta seu dinheiro. 
-1877114534	Sim. O prédio é impressionante.
+2056089867	No topo do mundo.
+1735223757	Uh... Nós somos muito altos.
+841474490	É assim que DeVitt gasta seu dinheiro.
+1877114534	Sim. Este prédio é impressionante.
 236408482	E muito grande.
-1831234351	Deve estar compensando alguma coisa.
-110845566	Bela vista. Você pode ver o lago inteiro daqui.
+1831234351	Ele vai ter que compensar outra coisa.
+110845566	Bela vista. Daqui você pode ver o lago inteiro.
 142193377	Wow, você parece até culto!
 1229304922	Eu posso apreciar coisas assim.
 811565412	Ali está DeVitt. Ele está pronto para ser pego.
@@ -5754,29 +5754,29 @@ Portuguese	Português(BR)
 2123798270	Peguei você, maldito.
 1357074830	Melhor ficar quieto, sr. DeVitt.
 1539217259	Ei você. Ele está pronto para a estrada.
-1463148158	Vamos deixar isso mais apertado.
+1463148158	Vamos espremer.
 685985368	Hrm... Peguei você, seu maldito.
 2060295198	Ei. Você está bem aí?
 290167613	Nunca estive melhor.
 958075556	Conseguimos. Pegamos o maldito.
-1655765715	Tudo em um dia de trabalho.
+1655765715	Um dia normal de trabalho.
 1412284541	Sim. Sem problema.
-60990168	Gosto mais dele desse jeito.
+60990168	Eu gosto mais assim.
 1883028320	Okay, vamos levá-lo para a carroça.
 1913966354	Estamos nos divertindo.
 1991932564	Não falta muito agora.
 1749814141	Estamos chegando lá.
 1421320260	Heh... mole-mole.
-747356456	Se ao menos tio Ian pudesse nos ver agora.
-1422512761	O que quer dizer?
-1949499521	Sequestrar DeVitt de sua própria mansão. Ele acharia isso hilário.
+747356456	Se ao menos o tio Ian pudesse nos ver...
+1422512761	O que você quer dizer?
+1949499521	Sequestrar DeVitt de sua própria mansão. Rolaria de riso.
 1761273905	Bem, então vamos torcer para que ele esteja vendo.
 1380498207	E ali está a carroça.
 291986284	Eu posso ver a carroça.
 585863495	Ah, ali está a carroça.
 2037499362	Muito bom. A carroça está perto.
 1816773264	A carroça… não está longe.
-1878566244	Último trecho. Pegamos DeVitt lá e damos o fora.
+1878566244	Último trecho. Vamos colocar DeVitt lá em cima e ir embora.
 1860386437	Quase pronto. Realmente, difícil de acreditar.
 1363611135	Como se sente?
 2125225756	Melhor. Obrigado Cooper.
@@ -5788,9 +5788,9 @@ Portuguese	Português(BR)
 1509761340	Vamos esperar pelos outros antes de irmos.
 1988633774	Ok pessoal, vamos dar o fora daqui.
 467219153	Entrando Na Festa.
-1319022999	Você tem as roupas, você tem os convites. Hora de participar da festa.
-975466653	Distraindo Os Convidados
-908275987	Você não poderá levar DeVitt enquanto ele estiver entretendo os convidados. Crie distrações para atrair os convidados para longe dele.
+1319022999	Você tem as roupas e os convites. É hora de se juntar à festa.
+975466653	Distraia os Convidados
+908275987	Você não pode sequestrar DeVitt enquanto ele estiver entretendo os convidados. Crie distrações para atrair os convidados para longe dele.
 26479540	Fogos De Artifício
 504684216	Acenda os fogos de artifício no labirinto ou no lago para manter os convidados longe de DeVitt.
 1025877990	Engenhoca
@@ -5814,21 +5814,21 @@ Portuguese	Português(BR)
 701354613	Gerador
 666223160	Antes que você possa ligar o interruptor da engenhoca, Hector deve ligar o gerador. 
 1618469470	Você não pode matar civis nessa missão.
-228316702	Ele está se divertindo.
+228316702	Ele está indo com calma.
 368956181	Heh. Wayne não é o cavalo mais novo do galpão.
-758825814	Acho que teremos que esperar então.
+758825814	Temos que esperar, então.
 1553066782	Hphm!
 1937180756	Ei ei!
 1384042418	Eu sugiro que você fique quieto sr. DeVitt ou Hector vai te colocar para dormir.
 706765557	Não se preocupe. Ele só vai tentar nos subornar.
 347712331	Hphm! Hphm!
-173158409	Vamos ouvir.
+173158409	Vamos ouvir o que ele tem a dizer.
 325694438	...Eu preciso dar uma “aliviada”.
 1050952151	Sério?
 145756330	Sim, sério, seu imbecil! 
 1885428638	Certo! Leve-o para trás.
-1898142263	Hrm, vamos.
-1469160685	Nós conseguimos mesmo. Pegamos o cretino.
+1898142263	Vamos embora.
+1469160685	Nós conseguimos. Pegamos o cretino.
 1040973513	Seu tio ficaria orgulhoso.
 1370671344	É gentileza sua.
 763470705	Sabe… lá em Nova Orleans...
@@ -5837,21 +5837,21 @@ Portuguese	Português(BR)
 264764159	Tá bom.
 466023997	Eu fui um tremendo idiota.
 1229941762	Verdade.
-2056124374	E o que você é agora, John Cooper?
-1255340643	A qual é...
+2056124374	E agora o que você é, John Cooper?
+1255340643	Ah, qual é...
 374962282	Silêncio! Todos vão para lá ou eu vou explodi-lo em pedacinhos!
-459428926	Você acha que nunca fui deixado de lado antes?
-1744939186	Nunca tive que sujar as mãos para subir na hierarquia.
-684306120	Já tive minhas mãos tão mergulhadas em merda que vocês nem poderiam imaginar.
+459428926	Acha que nunca fui encurralado?
+1744939186	Que eu nunca sujaria minhas mãos para chegar ao topo.
+684306120	Você não tem ideia do que eu tive que fazer.
 1733879247	Desculpa. Eu fodi com tudo...
 215003338	Eu disse silêncio!
 2143841398	Vou mostrar o que acontece quando ficam contra mim...
 1023272476	AGH!
 1805056164	Ugh...
 1446748664	Você?!
-622903884	Eu tive um pressentimento de que você ficaria perdido sem mim.
+622903884	Tive a sensação de que não sobreviveria sem mim.
 2005456417	Como sempre eu estava certo.
-963444610	Heh, quer saber? Vou te dar essa, Sunshine.
+963444610	Heh, quer saber? Você não estava errado desta vez, querido.
 1241478166	VO TRACK
 1150577824	Pra ser honesto, eu estava esperando encontrá-lo em melhor condição.
 590958068	Não se preocupe. McCoy disse que ele vai sobreviver.
