@@ -5853,72 +5853,72 @@ Portuguese	Português(BR)
 2005456417	Como sempre eu estava certo.
 963444610	Heh, quer saber? Você não estava errado desta vez, querido.
 1241478166	VO TRACK
-1150577824	Pra ser honesto, eu estava esperando encontrá-lo em melhor condição.
+1150577824	Pra ser honesto, eu pensei que ele estava em melhor condição.
 590958068	Não se preocupe. McCoy disse que ele vai sobreviver.
 136765841	Vou acreditar na palavra dele.
-519762925	Agora, acho que estes são seus.
-1429164747	Colt Navy 51. Já tiveram dias melhores se quer saber.
-402068794	Estou apegado a isso.
+519762925	Agora, estes devem ser seus.
+1429164747	Colt Navy 51. Já vi dias melhores, se quer saber.
+402068794	Eu gosto disso.
 1912305919	Agora, se me dá licença. Eu tenho um “pacote” para entregar.
-1867244858	E você também tem algo para resolver, estou certo?
+1867244858	E você também tem algo para resolver, se não me engano.
 1016527966	Certo.
 177826815	Boa sorte, filho.
-725650914	Pronto quando você estiver, amigo.
-837981845	Então como encontramos Frank?
+725650914	Pronto quando quiser, amigo.
+837981845	Como encontramos frank?
 2146263122	Apenas me siga.
 1559753706	VO TRACK
 2071875988	Você vem?
-1158993043	Qual é, amigo. Você está começando a agir como um chefão.
-1459108587	Não é minha culpa se você está levando séculos para subir aqui.
+1158993043	Qual é, amigo. Você está começando a agir como um mandão.
+1459108587	Não é minha culpa se você leva um séculos para chegar até aqui.
 193011974	Calma, rapazes. Nós estamos todos aqui pela mesma razão.
-834789043	Ali está a capela. O lugar não mudou muito.
-858126338	E você tem certeza de que Frank está lá?
+834789043	Ali está capela. Este lugar não mudou muito.
+858126338	Tem certeza que Frank está lá?
 1172816432	Oh, certeza absoluta.
-1469677172	Lembre-se Cooper, ninguém entra sozinho.Todos nos encontramos no portão.
-401110194	Heh, não se preocupe. Eu vou seguir o plano.
+1469677172	Lembre-se cooper, ninguém entra sozinho. Vejo todos vocês no portão.
+401110194	Heh, Não se preocupe. Vou seguir o plano.
 2102348602	Falando nisso, ali estão Doc e Isabelle.
-1662801551	Bom. Vamos encontrá-los no caminho.
-1216793812	Certo. E mais uma coisa...
-1850715202	Aquela mulher lá embaixo, no desfiladeiro.
-2109716145	Aposto que eu poderia passar despercebida se eu tivesse a roupa dela.
-894524071	Ótimo, então vamos nos certificar de pegá-la.
-241450609	Mais alguma coisa? Tudo certo?
-1068443101	Pronto quando você estiver, amigo.
+1662801551	Bom. Vamos nos encontrar no caminho.
+1216793812	Certo. Mais uma coisa...
+1850715202	Aquela mulher ali no desfiladeiro.
+2109716145	Eu poderia andar por aí calmamente com as roupas dela.
+894524071	Ótimo, então vamos lembrar de pegá-las.
+241450609	Mais alguma coisa? Estamos prontos?
+1068443101	Pronto quando você quiser, amigo.
 1659278257	Certo. Então vamos mandar Frank para o inferno.
-1207488628	Heh, continua um grande lixo.
-1532902944	Que posto avançado encantador.
-445713930	Gostaria de saber se eles ainda continuam guardando uísque lá.
-900995337	Como se sente voltando aqui?
-94059513	Tudo parece muito menor, isso é fato.
-723002160	O que?! Bobagem!
-396695495	Que inferno, Williams. Como podemos ser tão ruins assim?
-869726789	É a arma! Pedaço oxidado de merda.
+1207488628	Heh, Sempre o mesmo lixo.
+1532902944	Que lugar fascinante.
+445713930	Eu me pergunto se eles ainda guardam uísque aqui.
+900995337	Como é voltar aqui?
+94059513	Tudo parece menor, isso é fato.
+723002160	O que?! Besteira!
+396695495	Que inferno, Williams. Como você é tão ruim assim?
+869726789	É essa arma! Pedaço de sucata enferrujada.
 1074427449	A qual é!
-1860944481	Ha ha! Não é a arma que tem culpa.
-2111207716	Quem pediu sua opinião?
+1860944481	Ha ha! O problema não é a arma.
+2111207716	Perguntei sua opinião?
 842365619	Merda!
-1449201902	Nesse ritmo você não estará pronto.
-2070241680	Cala a boca. Eu estarei pronto.
-436719742	Merda merda merda!
-58061221	Esquece a arma. Chega perto e ataca.
-846733911	O caramba, Frank disse que Hector está com eles. Jesus Cristo!
-257146736	Então, qual o plano?
-1785019522	Qual o plano, amigo?
-320418139	Seguimos o caminho e chegamos a Frank. Ou descemos o desfiladeiro e pegamos a roupa.
-469766072	É o seu show, Cooper.
-1419377760	Vamos nos esconder.
-26377535	É melhor nos escondermos.
-1669382652	As coisas estão ficando mesmo mais tumultuadas.
-550384682	Conheço alguns desses patifes. A velha gangue do Frank.
+1449201902	Nesse ritmo, você não estará pronto.
+2070241680	Cale a boca. Eu vou estar pronto.
+436719742	Merda, merda, merda!
+58061221	Esquece a arma. Lute com as mãos.
+846733911	Frank disse que Hector está aqui. Meu Deus!
+257146736	Então, qual é o plano?
+1785019522	Qual é o plano, amigo?
+320418139	Podemos seguir a trilha e chegar ao Frank, ou descemos até o desfiladeiro e pegamos o disfarce.
+469766072	Você tem que escolher, Cooper.
+1419377760	Nós ficamos escondidos.
+26377535	É melhor ficarmos escondidos.
+1669382652	Está começando a haver muita gente.
+550384682	Conheço alguns deles. É a velha gangue do Frank.
 206981119	Espero que você não esteja ficando sentimental.
-1072954615	Animem-se, rapazes! Vamos dar-lhes uma recepção calorosa.
+1072954615	Olhos abertos, pessoal! Vamos dar-lhe boas-vindas 
 1729459055	Preparem-se, rapazes. Uma hora eles vão aparecer.
-982746874	He heh, ninguém vai conseguir passar por aqui. Deixe que venham.
-1496161796	Ah, eu adoro o cheiro de pólvora na noite.
-324861897	Você acha que vai cair?
-1391648668	Apenas uma questão de tempo.
-1443254413	Você acha que devemos avisar os outros?
-382875840	Nah.Trabalho demais.
+982746874	He heh, ninguém passa por aqui. Deixe-os vir.
+1496161796	Ah, gosto do cheiro de pólvora à noite.
+324861897	Você acha que ele vai cair?
+1391648668	É só uma questão de tempo.
+1443254413	Acha que devemos contar aos outros?
+382875840	Não. Muito esforço
 74747016	Isso me lembra daquele trabalho em Eagle Falls.
 2047922084	Merda! Aquela maldita ponte ainda me dá pesadelos.
 1524477808	Você deveria olhar para aquilo. Finalmente caiu.
@@ -5933,9 +5933,9 @@ Portuguese	Português(BR)
 1961986198	Aí está o McCoy que eu conheço.
 1767359387	Hrm.
 648291760	O que?
-1488931636	Eu odeio o deserto. A areia fica fodendo com tudo.
+1488931636	Eu odeio o deserto. Você encontra areia por toda parte.
 1093594089	Quem diria. Temos algo em comum.
-1397871176	Ouvi dizer que ela era uma paixão antiga de Frank.
+1397871176	Ouvi dizer que ela era a paixão antiga de Frank.
 534582613	Besteira. Ela não parece ter nem metade da idade dele.
 770113302	Você acha que vou tomar um tiro?
 1722620505	Se tomar, ela será uma mulher ocupada.
@@ -5948,8 +5948,8 @@ Portuguese	Português(BR)
 1905953505	O que é aquilo?!... Não. Mas talvez... Não. Merda...
 313671013	Ninguém passa por nós. Você entendeu!? Ninguém!
 33295656	Vou descer. Te vejo na ponte mais tarde.
-484670334	Certo! Mas é melhor você não me deixar esperando.
-593251260	Olha só quem fala.
+484670334	Certo! Mas não me decepcione.
+593251260	Olha quem está falando.
 1480992121	Posso pagar. Está vendo?
 766591345	Oh querido. Isso não chega nem perto.
 1569949258	Você acha que não sou bom o bastante para você?
