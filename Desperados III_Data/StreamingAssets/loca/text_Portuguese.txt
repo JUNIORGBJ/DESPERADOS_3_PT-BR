@@ -200,7 +200,7 @@ Portuguese	Português(BR)
 666387157	Alternar avanço rápido
 1162764950	CINEMÁTICA
 1225642196	Deseja assistir à cena novamente?
-1718054198	Registros rápidos salvos
+1718054198	Registros salvos rápidos
 234100204	Registros salvos normais
 738261692	Arquivo obsoleto!
 753130424	NOVO JOGO
