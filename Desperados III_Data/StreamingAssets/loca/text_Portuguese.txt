@@ -5864,14 +5864,14 @@ Portuguese	Português(BR)
 1016527966	Certo.
 177826815	Boa sorte, filho.
 725650914	Pronto quando quiser, amigo.
-837981845	Como encontramos frank?
+837981845	Como encontraremos frank?
 2146263122	Apenas me siga.
 1559753706	VO TRACK
 2071875988	Você vem?
 1158993043	Qual é, amigo. Você está começando a agir como um mandão.
 1459108587	Não é minha culpa se você leva um séculos para chegar até aqui.
 193011974	Calma, rapazes. Nós estamos todos aqui pela mesma razão.
-834789043	Ali está capela. Este lugar não mudou muito.
+834789043	Ali está a capela. Este lugar não mudou muito.
 858126338	Tem certeza que Frank está lá?
 1172816432	Oh, certeza absoluta.
 1469677172	Lembre-se cooper, ninguém entra sozinho. Vejo todos vocês no portão.
@@ -5879,7 +5879,7 @@ Portuguese	Português(BR)
 2102348602	Falando nisso, ali estão Doc e Isabelle.
 1662801551	Bom. Vamos nos encontrar no caminho.
 1216793812	Certo. Mais uma coisa...
-1850715202	Aquela mulher ali no desfiladeiro.
+1850715202	Aquela mulher no desfiladeiro.
 2109716145	Eu poderia andar por aí calmamente com as roupas dela.
 894524071	Ótimo, então vamos lembrar de pegá-las.
 241450609	Mais alguma coisa? Estamos prontos?
@@ -5962,12 +5962,12 @@ Portuguese	Português(BR)
 492973538	Não há necessidade para isso, querido. Deixe-me ficar na sombra enquanto ainda posso.
 1176321028	Diga-me: o que quer?
 1733437873	Por que você só não me faz uma oferta, querido?
-461527655	Está aí uma coisa para se tirar da lista.
-791803555	Lembre-se, só será útil até chegarmos ao Frank.
-1257223832	Então, vamos fazer bom uso disso.
-1483186961	Você acha que eles virão por aqui?
+461527655	Podemos tirá-lo da lista.
+791803555	Lembre-se, você só pode usá-lo até encontrarmos Frank.
+1257223832	Vamos fazer bom uso dele, então.
+1483186961	Você acha que eles vão passar por aqui?
 1302296881	Se vierem, nós estaremos prontos.
-1864283092	Eu não sei. Ouvi dizer que aquele tal de Hector tem uma enorme armadilha para ursos. 
+1864283092	Eu não sei. Ouvi dizer que Hector está carregando uma enorme armadilha de urso.
 1233534215	Melhor olhar por onde pisa então.
 452671297	Já ouvi todo tipo de boatos sobre esses caras.
 519557456	Tipo o que?
@@ -5979,15 +5979,15 @@ Portuguese	Português(BR)
 1304284863	Vamos encher eles de chumbo. Que pergunta idiota é essa?
 1220253082	Não vejo aquela escada de corda em lugar nenhum...
 864933468	Escada de corda?
-1421217508	Esqueça. Deve haver muitos outros caminhos.
-409956380	Este lugar já teve dias melhores.
-1855344224	Heh, olha só o que eles fizeram com o lugar.
-1933370241	Alguém precisa limpar isso aqui.
-1816639178	Que babaca.
-917385025	Tenho a sensação de que Frank não faz manutenção.
-541143520	Hmm, não sei... acho que gosto desse jeito.
-155206147	Costumavam ter mais coberturas por aqui, isso é fato.
-1859527103	Imagino o que deve ter lá embaixo.
+1421217508	Esqueça. Vamos encontrar outra maneira de entrar.
+409956380	Este lugar já viu dias melhores.
+1855344224	Heh, Olha o que eles fizeram com este lugar.
+1933370241	Alguém deveria limpar isso aqui.
+1816639178	Que buraco de merda.
+917385025	Tenho a impressão de que Frank não se importa muito com este lugar.
+541143520	Hmm, não sei... Acho que gosto assim.
+155206147	Antes, havia mais lugares para se esconder.
+1859527103	Eu me pergunto o que há lá em baixo.
 1634941548	O que temos ali?
 31363583	O que há aí atrás?
 1318594572	O que temos ali?
@@ -6021,19 +6021,19 @@ Portuguese	Português(BR)
 124097593	Nunca passei por aqui.
 1346907690	Oh sim. Eu lembro desse lugar.
 1254737121	Bem, tudo isso parece bastante industrial.
-1762988771	Me pergunto para que serve toda essa merda.
-1403348187	Parece uma mina de muitas coisas.
-1534619609	Antigamente Frank cuidava desse lugar por causa da mina de ouro.
+1762988771	Eu me pergunto para que são todas essas coisas.
+1403348187	Parece uma mina.
+1534619609	No passado, Frank cuidava desse lugar por causa da mina de ouro.
 1884731109	Você disse ouro?
 1927887843	Foco McCoy. Temos um trabalho a fazer.
 2081326651	Sabe, dizem que ele é rápido. Muito rápido.
-2090072411	Não foi rápido o bastante para Frank.
-526605160	Claro, mas e a gente?
+2090072411	Não rápido o suficiente para Frank.
+526605160	Claro, mas para nós?
 293171659	Aww, não se preocupe. Se ele vier atrás de você, eu salvo seu traseiro.
-1191994580	E como é que ele sabe mesmo?
+1191994580	Mas então como você sabe?
 987097875	Quem? Frank?
-1263595450	Sim. Como ele sabe que eles virão?
-2041476279	Frank é um cachorro velho. Eu confiaria no faro dele se fosse você.
+1263595450	Sim. Como sabe que eles estão vindo?
+2041476279	Frank é um cachorro velho. Confio em seus instintos.
 594351528	Hey, vocês acham que eles pegaram aquela belezinha com ela?
 691488540	Aquela que matou o noivo dela? Provavelmente.
 1908290552	Você não vai se apaixonar por ela, certo? Porque você tem partes femininas.
@@ -6048,13 +6048,13 @@ Portuguese	Português(BR)
 823372472	Você já se acalmou?
 1825708499	Nunca passei por aqui.
 83005743	Oh sim. Eu me lembro desse lugar.
-397645503	Olha tudo isso.
-1335626615	Olhe para tudo isso enferrujando.
-873851136	Eu não me importaria de dar uma olhada em um daqueles eixos de mineração.
-1659941219	De jeito nenhum.  Estou farto de  eixos de mineração.
-1648199460	Heh, sim.  Além disso, o veio secou anos atrás.
-447364667	Ok. Vamos seguir em frente então.
-2119533153	Tem certeza de que não tem nenhum ouro lá?
+397645503	Olhe para isso.
+1335626615	Olhe para isso, tudo está enferrujando.
+873851136	Eu não me importaria de dar uma olhada em um desses túneis.
+1659941219	De maneira nenhuma. Estou farto de minas.
+1648199460	Heh, sim.  Além disso, a vertente acabou há muitos anos.
+447364667	Ok. Seguindo em frente.
+2119533153	Tem certeza de que não tem ouro lá?
 261121748	Jesus, McCoy.  Wayne não te pagou o suficiente?
 1492818609	Não para isso. Um homem precisa cobrir os seus gastos.
 426920849	Okay, estamos no meio do caminho.
@@ -6064,97 +6064,97 @@ Portuguese	Português(BR)
 1513828514	Ainda temos um longo caminho a percorrer.
 2128859310	Como estão todos?
 710950701	Estou pronto.
-4403149	Também.
+4403149	Eu Também.
 1677025007	Não me diga que você está receoso.
-1427121985	Sim. Vamos fazer isso ou o que?
+1427121985	Sim. Vamos ou ainda vamos esperar?
 76931277	Certo. Para a capela.
-1578996480	Ah, já vejo a capela.
-203454982	Acho que estou vendo a capela daqui.
+1578996480	Ah, eu já vejo a capela.
+203454982	Acho que vejo a capela daqui.
 866253972	Ali. Você pode ver a capela daqui.
 2025261914	Certo. Estamos vendo a capela.
-758095571	Não falta muito agora. Só temos que passar por aqueles caras.
+758095571	Falta pouco. Só temos que passar por aqueles caras.
 660922703	Jesus, quantos homens o Frank tem?
-932227896	Não importa. Só temos que diminuir o grupo.
-1412931661	Chegando perto, amigo.
+932227896	Não importa. Só precisamos diminuir o grupo.
+1412931661	Estamos chegando perto, amigo.
 51392618	Não está muito longe.
 115558138	Estamos nos aproximando.
 1118476791	Parece que estamos quase lá.
 1262640139	Lembrem-se, todos nós vamos nos encontrar no portão do cemitério. Ninguém entra sozinho.
-1514833812	Claro. Mas é melhor você atirar no cara certo dessa vez.
-384662888	Vou pensar sobre isso.
+1514833812	Claro. Mas desta vez, vamos atirar na pessoa certa.
+384662888	Eu vou tentar.
 1209646247	Você acha mesmo que eles virão?
-788946975	Frank disse que sim. Frank costuma estar certo.
+788946975	Frank disse que sim. E Frank geralmente está certo.
 176763436	Sabe… dessa vez espero que ele esteja enganado.
-560781998	Eu também.
+560781998	Somos dois.
 1677861338	Vê alguém lá embaixo?
-406158556	Nah. Não acho que eles vão aparecer por aqui.
+406158556	Não. Eu não acho que eles vão aparecer por aqui.
 1009920076	Sério? Por que não?
 773969835	Porque Frank disse que eles são espertos.
-1182469128	Meu Deus, esse lugar é uma merda.
+1182469128	Meu Deus, este lugar é um lixo.
 850235308	Não deixe Frank ouvir isso. Ele realmente gosta daqui.
 2064127421	Sim. Mas Frank está envelhecendo.
-1405621038	Sei não. Consigo ver de onde ele está vindo.
+1405621038	Sei não. Acho que entendo o que quer dizer.
 786535949	É isso. Vamos esperar até que todos estejam aqui.
 1197556868	É isso. Vamos esperar até que todos estejam aqui.
 14666978	Tudo bem por enquanto. Vamos esperar até que todos estejam aqui.
 1342962711	É isso. Vamos esperar até todos chegarem aqui.
 1106784327	É isso. Vamos esperar até que todo mundo esteja aqui. 
-972536573	Então é isso.
-246074666	Apenas siga o plano.
-1015045220	Como você veio com isso.
-1189483124	Nós te protegemos, amigo.
-1898961321	Tudo bem então...
+972536573	Aqui vamos nós.
+246074666	Vamos seguir o plano.
+1015045220	Do jeito que você pensou que era.
+1189483124	Vamos cobrir você, amigo.
+1898961321	Certo então...
 1300492355	John...
 542269657	Hm...
-1808647292	Da um esporro nele
+1808647292	Mostre a ele.
 496136658	Frank!
-1638498635	Você me deixou esperando, garoto.
-147343473	Espero que você não se importe com a minha companhia aqui.
-1230337671	Agora, isso não é um pouco injusto?
-699744065	Vamos garoto. Nós dois sabemos o que está acontecendo aqui.
-1363026705	Mas esse é um jogo que dois podem jogar.
-1981356010	Então, como vai ser?
-709923328	Calma, gente.
+1638498635	Eu estava esperando por você, garoto.
+147343473	Espero que não se importe, mas trouxe alguns amigos.
+1230337671	Isso não soa um pouco injusto para você?
+699744065	Vamos garoto. Ambos sabemos como vai acabar.
+1363026705	Mas é um jogo que você pode jogar a dois.
+1981356010	Então, o que vamos fazer?
+709923328	Calma, pessoal.
 859964106	Um bom tiro.
-1089007962	É tudo o que é preciso, certo?
-1521570876	Assim como nos bons velhos tempos, hein garoto.
-427592624	Tudo certo.
-994610395	Vamos fazer isso.
+1089007962	Não precisa de mais nada, certo?
+1521570876	Como nos velhos tempos, garoto.
+427592624	Certo.
+994610395	Vamos lá.
 2126222479	VO TRACK
-1479806138	Tudo bem, o que estamos vendo aqui?
-161493972	Eu não gosto do olhar dos caras vestido de azul
+1479806138	Certo, o que nós temos aqui?
+161493972	Não gosto desses caras vestidos de azul.
 40445990	Os antigos tenentes do Frank. Eles não vão cair nos nossos truques.
-165644794	Se um deles entender, Cooper ferrado.
-1976217240	Então temos que tirá-los de uma só vez.
-1640516891	Como vai ser, garoto?
-1293366771	Você tem bolas, garoto. Eu te dou isso.
-605982068	Espero que você não tenha pensado que eu facilitaria isso.
+165644794	Se um deles assumir a liderança, Cooper está condenado.
+1976217240	Então temos que tirá-los agora.
+1640516891	Então? O que vamos fazer, garoto?
+1293366771	Você tem coragem, garoto. Eu admito.
+605982068	Espero que saiba que não vou facilitar sua vida.
 1155764965	Parece que seus amigos estão demorando.
 1122444210	Imagino o que seu velho diria agora.
-203020302	Como nos bons velhos tempos, hein garoto?
+203020302	Como nos velhos tempos, garoto.
 125050405	Estou contando com você, garoto. Não me decepcione.
 865953531	Sem ressentimentos, garoto.
 1076843851	Fique abaixado desta vez, garoto.
 448543546	Perto, garoto, mas sem charuto.
-1187322924	Ainda há muito a aprender, garoto.
+1187322924	Você ainda tem muito a aprender, garoto.
 1008428375	Heh... nada mal...
-1068855608	...Nada mau garoto...
+1068855608	...Nada mal, garoto...
 1600044611	Hmph...
 895512173	Aposto que ele ficaria orgulhoso.
 1043485365	Você tem mais alguma coisa a dizer?
-805246975	Heh... o que resta dizer?
+805246975	Heh... O que mais há para dizer?
 1790702708	Um de nós morre...
 1786402724	... o outro vive...
 1447460447	... é assim que tem que ser...
 1939865023	Um bom tiro, Frank.
 1089400164	Heh... Sem dúvida.
-547085163	Faça valer a pena.
+547085163	Não desperdice.
 1268457782	VO TRACK
 1635724028	Chegar ao portão
-437322338	Limpe a área em frente ao portão do cemitério e reúna todos para o confronto final.
-1648934017	Derrote Frank
-1433246038	Mate Frank e sua gangue em um único ataque. Se algum deles perceber que algo está acontecendo, Cooper morrerá.
-2102198443	Agora é a hora.
+437322338	Limpe a área em frente à entrada do cemitério e reúna todos para o duelo final.
+1648934017	Derrotar Frank
+1433246038	Mate Frank e sua gangue em um único ataque. Se um deles perceber que algo está acontecendo, Cooper morrerá.
+2102198443	Está na hora.
 698416794	Estou aqui.
 954946304	Olhos abertos.
 1340980068	Sim, Estou pronto.
