@@ -1244,25 +1244,25 @@ Portuguese	Português(BR)
 715430043	Isabelle
 530774733	Mover para Isabelle.
 1678000250	Johnnie. Você está ficando para trás! Anda logo.
-220997359	Logo atrás de você, Pai.
+220997359	Estou atrás de você, pai.
 469298229	Eu vou na frente. Me siga e mantenha a cabeça baixa.
 1426237520	Sim, senhor.
 1299558651	VO TRACK
 1006428758	VO TRACK
 1472201416	VO TRACK
-1184634196	Há o primeiro guarda. Eu preciso ser cauteloso.
-1345089562	Vamos! Abra, seu monte de merda!
-52315649	Abrar! Droga, estou morrendo de sede aqui.
-1708575428	Não é justo. Eu posso sentir o cheiro do uísque daqui.
+1184634196	Aqui está o primeiro guarda. Eu preciso ser cauteloso.
+1345089562	Vamos! Abra, sua maldita porta!
+52315649	Abrar! Droga, estou morrendo de sede.
+1708575428	Isso não é justo. Eu posso sentir o cheiro de uísque daqui.
 1722395276	Merda. Quem perdeu a porra da chave, afinal?
 799306384	Volto mais tarde com um machado.
-200422027	Ainda não vai ceder. Droga.
+200422027	Não abre. Droga.
 960289221	Por que você não abre, seu merdinha.
-1143306891	Tem uísque lá dentro. Eu sei disso.
+1143306891	Tem uísque lá dentro. Eu sei.
 967692626	Por que eu tenho que ficar aqui fora?
 677920504	Merda, eu realmente poderia dar um tiro agora.
-444229462	Foda-se... Essa sede está me matando.
-1273054320	Quem vai passar por aqui de qualquer maneira?
+444229462	Foda-se... Estou morrendo de sede.
+1273054320	Mas então, quem deve passar por aqui?
 678736588	O que diabos aconteceu?!
 1561295358	Desculpe... eu escorreguei.
 1989147937	John!
