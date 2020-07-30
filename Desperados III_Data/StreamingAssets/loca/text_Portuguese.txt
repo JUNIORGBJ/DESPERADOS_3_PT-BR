@@ -3956,10 +3956,10 @@ Portuguese	Português(BR)
 1259070992	Esta plataforma é muito alta. E se alguém tiver um machado?
 997256851	Pilha de caixas
 1597562743	Essa pilha de caixas parece instável. Seria uma pena se caísse na cabeça de alguém.
-1457455127	Mate a Patrulha
-711876426	Use várias armadilhas para matar todos os três guardas ao mesmo tempo.
+1457455127	Mate os guardas.
+711876426	Use várias armadilhas para matar os três guardas ao mesmo tempo.
 1438130694	Pegue as armadilhas
-439330376	Pegue duas armadilhas adicionais para matar a patrulha.
+439330376	Pegue mais duas armadilhas para matar os guardas.
 1569638234	Bianca
 2030125916	Pegue Bianca.
 870301240	Camilla
@@ -4900,10 +4900,10 @@ Portuguese	Português(BR)
 528193204	VO TRACK
 660651684	Alcance o píer 9
 105618621	Reúna todos no portão do píer 9.
-708988117	Face Frank
-1295369277	É agora ou nunca. Vá para o arco e encare o seu destino.
+708988117	Enfrentar Frank.
+1295369277	Agora ou nunca.. Tome coragem e enfrente seu destino.
 1937582108	Disfarce
-864823784	Kate perdeu o disfarce enquanto você estava fora, mas ela pode encontrar um sobressalente no Lanterna Vermelha.
+864823784	Kate perdeu o disfarce enquanto você estava fora, mas ela pode encontrar outro no Lanterna Vermelha.
 1554793200	Isso é uma pena, garoto. Parece que você não vai voltar para casa hoje.
 1390422920	Ele é apenas uma criança, Frank.
 1968294381	Huh...
@@ -5107,7 +5107,7 @@ Portuguese	Português(BR)
 1110419048	Você deveria me conhecer melhor agora.
 730467693	VO TRACK
 1953153072	Recupere seu equipamento
-2013642566	Suas ferramentas estão sendo mantidas no acampamento superior. Prisioneiros não são permitidos lá em cima.
+2013642566	Suas ferramentas estão sendo mantidas no acampamento superior. Os prisioneiros não podem entrar.
 8469579	Equipamento do Hector
 1153542495	Pegue o equipamento do Hector na caixa.
 712349743	Equipamento do Doc
@@ -8678,16 +8678,16 @@ Portuguese	Português(BR)
 1724059193	Oh sim? Por que você não vem aqui?!
 1439359208	Ei, isso não é justo!
 302017184	Eu vou te pegar, só espere!
-989506616	*short death sound*
-1238709804	*short death sound*
-1172329669	*short death sound*
-994582367	*short death sound*
-335144274	*short death sound*
-1885539291	*short muffled death sound*
-144716479	*short muffled death sound*
-755237440	*short muffled death sound*
-1146584509	*short muffled death sound*
-117329784	*short muffled death sound*
+989506616	*som de morte curto*
+1238709804	*som de morte curto*
+1172329669	*som de morte curto*
+994582367	*som de morte curto*
+335144274	*som de morte curto*
+1885539291	*som de morte abafada*
+144716479	*som de morte abafada*
+755237440	*som de morte abafada*
+1146584509	*som de morte abafada*
+117329784	*som de morte abafada*
 1373388105	...
 384866470	...
 352819165	...
@@ -8780,7 +8780,7 @@ Portuguese	Português(BR)
 1288819981	Esse lugar é nosso!
 365194639	São os dois palhaços!
 2136379232	Oh vamos lá!
-1856890725	Nem hoje de todos os dias!
+1856890725	Hoje não!
 609117964	Perturbador!
 1786707583	Assassinos!
 639425684	Eles mataram o prefeito!
@@ -8914,7 +8914,7 @@ Portuguese	Português(BR)
 1907993693	Ei, eu ouvi isso!
 1787681285	Quem está aí?!
 1173205208	Mostre-se!
-645325076	Tudo bem, eu estou indo para você!
+645325076	Tudo bem, eu vou buscá-lo!!
 800031298	Oh, você está com problemas agora!
 836498997	Eu sei onde você está, cuzão.
 477376984	Que diabos foi isso?
