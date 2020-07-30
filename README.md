@@ -1,5 +1,6 @@
 [![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/HESMuU2)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/DESPERADOS_3_PT-BR)](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR/releases/latest)
+[![GBJ Traduções](https://img.shields.io/badge/‹%20Tradução%20GBJ›-blue?style=flat&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
 <h1 align="center">:construction:Tradução em revisão:construction:</h1>
 
