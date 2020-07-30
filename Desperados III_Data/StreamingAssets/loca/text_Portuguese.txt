@@ -1257,7 +1257,7 @@ Portuguese	Português(BR)
 1722395276	Merda. Quem perdeu a porra da chave, afinal?
 799306384	Volto mais tarde com um machado.
 200422027	Não abre. Droga.
-960289221	Por que você não abre, seu merdinha.
+960289221	Por que você não abre, sua maldita porta.
 1143306891	Tem uísque lá dentro. Eu sei.
 967692626	Por que eu tenho que ficar aqui fora?
 677920504	Merda, eu realmente poderia dar um tiro agora.
@@ -2237,22 +2237,22 @@ Portuguese	Português(BR)
 1864486523	VO TRACK
 1990009555	Entre no Salão Principal
 741079595	Entre pela porta da biblioteca. Você precisará de uma chave.
-1810415810	Procure na mesa
+1810415810	Inspecione sua mesa
 1310171821	Roube o documento da mesa do prefeito
 435856407	Entre no Salão Principal... Novamente
-1298498881	Esgueirar-se para o complexo e subir nas videiras para entrar.
+1298498881	Aproxime-se do prédio e suba nas videiras para entrar.
 1485659679	Entre no escritório
-718715566	Algo está acontecendo no gabinete do prefeito. Investigar.
+718715566	Algo está acontecendo no gabinete do prefeito. Vá dar uma olhada.
 1710934054	Escape
-1341117719	Os guardas sabem que você está aqui. Fuja do complexo.
-23442853	Obter um disfarce
+1341117719	Os guardas sabem onde você está. Corra para fora do prédio.
+23442853	Encontre um disfarce
 1982850193	Roube as roupas da empregada. Kate pode usá-los para se mover livremente e distrair os guardas.
 344950642	Use a metralhadora
-197460425	Você pode assumir o controle da metralhadora para limpar os guardas.
+197460425	Você pode assumir o controle da metralhadora para eliminar os guardas.
 1086187692	Pilha de caixas
-306521944	Essa pilha de caixas parece instável. Uma pena se isso desabasse sobre a cabeça de alguém.
+306521944	Essa pilha de caixas parece instável. Seria uma pena se caísse na cabeça de alguém.
 1822264759	Pedra solta
-530414943	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
+530414943	Esta rocha parece solta. Seria uma pena se isso caísse na cabeça de alguém.
 1453166023	Gah... merda...!
 776792294	Pare de martelar o seu polegar.
 1748457233	Desculpe, Sr. O'Hara!
@@ -2741,21 +2741,21 @@ Portuguese	Português(BR)
 969888385	Encontre Hector
 186064563	Hector ainda está na casa dos barcos. Descubra porque ele está demorando tanto.
 1249601770	Mortes de Casacos Longos ({0} de 5)
-1144541248	Mate 5 Casacos Longos para assustar os invasores. Você escolhe.
+1144541248	Mate 5 Casacos Longos para assustar os invasores. Há sua escolha.
 186837690	Campos
-796807187	Mate o casaco longo nos campos.
+796807187	Mate o casaco longo dos campos.
 2068426836	Estábulo
-1967232135	Mate o casaco longo no estábulo.
+1967232135	Mate o casaco longo do estábulo.
 785639623	Silo de grãos
-268239813	Mate o Casaco Longo no silo de grãos.
+268239813	Mate o Casaco Longo do silo de grãos.
 2148324	Galinheiro
-886660634	Mate o casaco longo no galinheiro.
+886660634	Mate o casaco longo do galinheiro.
 756952832	Cabana de madeira
-813882251	Mate o Casaco Longo na cabana de madeira.
+813882251	Mate o Casaco Longo da cabana de madeira.
 973882311	Entrada do Rancho
-1703534974	Mate o Casaco Longo na entrada do rancho.
+1703534974	Mate o Casaco Longo da entrada do rancho.
 155034382	Curral
-1841005762	Mate o Casaco Longo no curral.
+1841005762	Mate o Casaco Longo do curral.
 885664251	Reunião
 1103747779	McCoy quer averiguar algo. Reúnam-se  na posição indicada.
 1356586583	Ateie fogo sob eles
@@ -2764,8 +2764,8 @@ Portuguese	Português(BR)
 1604157719	A tocha pode ser usada para acender poças de óleo. Você pode pega-las nas fogueiras. Lampiões derrubadas por guardas mortos ou nocauteados também incendiarão o óleo.
 1017498960	Pedra solta
 76768848	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
-1455844339	Cano quebrado
-1901536544	Parece que o cano está mal pendurado no silo.
+1455844339	Tubo quebrado
+1901536544	Esse tubo está preso ao silo por milagre.
 2103704041	Uma noite de tempestade. Uma lembrança trágica. Qual o melhor lugar para testar a sua determinação. Bem-vindo de volta ao rancho O'Hara.
 1862619689	Quatro vítimas aguardam seu fim inevitável. Espero que encontre um método para matá-los.
 1768873308	Meus clientes querem ver espetáculo. Pedras sendo esmagadas, fogos ardentes - suas ferramentas são limitadas, mas extremamente eficazes.
@@ -3933,29 +3933,29 @@ Portuguese	Português(BR)
 458849405	Apenas mantenha distância.
 165232390	VO TRACK
 712805849	Escape da jaula
-599043079	Isabelle foi colocada em uma jaula. Felizmente, ela tem maneiras de sair de situações como essa.
-804209469	Ir para a posição elevada
-837398733	Vá até lá e Pegue uma visão geral da situação.
+599043079	Isabelle foi colocada em uma jaula. Felizmente, ele sabe o que fazer em situações como esta.
+804209469	Chegar ao ponto elevado
+837398733	Vá para o ponto elevado para obter uma visão geral da situação.
 657203406	Liberte o grupo
 1519058110	A gangue está com problemas. Ajude-os.
 1258390362	Ajude Cooper
-2033151969	Cooper está preso no navio que está afundando.
+2033151969	Cooper estava preso no barco afundando.
 2103457548	Liberte Doc
-37759921	Doc evitou a captura e está escondido em algum lugar da cabana.
+37759921	Doc não foi pego e está escondido na cabana.
 1634996819	Liberte Kate
-1973661711	Kate foi capturada e colocada em uma jaula. Encontre uma chave ou feche a fechadura.
+1973661711	Kate foi capturada e colocada em uma jaula. Encontre a chave ou arrombe a fechadura.
 150633749	Liberte Hector
-959242649	Hector foi capturado e colocado em uma jaula. Encontre uma chave ou quebre a fechadura.
+959242649	Hector foi capturado e colocado em uma jaula. Encontre a chave ou arrombe a fechadura.
 1917575343	Escape
 595109735	Leve todos para os cavalos e vá embora.
 276503151	Mate os Ponchos
 1238109013	Dê a Cooper algum espaço para respirar matando os dois ponchos que estão atirando nele.
 1980903253	Pedra solta
-1563635315	Esta rocha parece solta. Uma pena se isso caísse sobre alguém.
+1563635315	Esta rocha parece solta. Seria uma pena se caísse na cabeça de alguém.
 1598776947	Posto de observação
-1259070992	Essa torre de vigia é bem alta. E se alguém pegasse um machado...
+1259070992	Esta plataforma é muito alta. E se alguém tiver um machado?
 997256851	Pilha de caixas
-1597562743	Essa pilha de caixas parece instável. Uma pena se isso desabasse sobre a cabeça de alguém.
+1597562743	Essa pilha de caixas parece instável. Seria uma pena se caísse na cabeça de alguém.
 1457455127	Mate a Patrulha
 711876426	Use várias armadilhas para matar todos os três guardas ao mesmo tempo.
 1438130694	Pegue as armadilhas
