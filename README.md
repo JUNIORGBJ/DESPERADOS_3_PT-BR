@@ -33,6 +33,13 @@ Se tiver alguma dúvida clique na imagem abaixo para abrir o vídeo tutorial
 
 Assim que a tradução for finalizada criaremos um instalador para automatizar a instalação.
 
+
+## Ferramentas Ultilizadas
+
+:link: [Visual Studio Code](https://code.visualstudio.com)
+:link: [Notepad++](https://notepad-plus-plus.org)
+:link: [Simple Text Splitter](https://sourceforge.net/projects/simpletextsplit/)
+
 ## Doações
 
 [![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)
