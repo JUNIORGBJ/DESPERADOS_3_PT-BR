@@ -8887,7 +8887,7 @@ Portuguese	Português(BR)
 108286794	Ei! Quem te amarrou?
 146519274	Onde ela está?
 1972526709	Para onde ela foi?
-2130211668	Ela não estava lá agora?
+2130211668	Ela não estava aqui antes?
 707386571	Onde ele está?
 1981679407	Para onde ele foi?
 623639997	Ele não estava aqui antes?
@@ -8913,48 +8913,48 @@ Portuguese	Português(BR)
 200294909	O que foi esse estrondo?!
 1907993693	Ei, eu ouvi isso!
 1787681285	Quem está aí?!
-1173205208	Mostre-se!
-645325076	Tudo bem, eu vou buscá-lo!!
+1173205208	Apareça!
+645325076	Tudo bem, eu vou buscá-lo!
 800031298	Oh, você está com problemas agora!
-836498997	Eu sei onde você está, cuzão.
+836498997	Eu sei onde você está, imbecil.
 477376984	Que diabos foi isso?
-725489667	Estou ficando louco?
+725489667	Eu estou ficando louco?
 2079312076	Ah! Uh... o que?
 477292955	O que eu estou fazendo?
 1049005536	Deixa pra lá.
-169936907	Isso é estúpido.
+169936907	Isso é ridículo.
 1523781371	Não pense que você pode se esconder!
 1677782556	Ok, vamos acabar logo com isso!
 200240766	Vamos dar uma olhada.
 1196600760	Oh, eu não sou enganado tão fácil.
 807861649	Isso vai ser doloroso.
 413690976	Tudo bem, quem era aquele?
-1355395483	Que diabos foi isso?
-576987870	Ok, onde está o palhaço que me bateu? 
-747216756	Oh, você vai pagar por isso.
+1355395483	Quem diabos fez isso?
+576987870	Ok, Onde está o palhaço que me bateu?
+747216756	Oh, você vai me pagar.
 454064382	Não é tão corajoso agora, hein?!
 1970403084	Alguém aqui?
 686765178	Eu vou te encontrar, você sabe.
 1831445337	Você está com um grande problema!
-1852156045	Quem você é, saia agora!
+1852156045	Quem quer que seja, saia agora!
 1265322671	Melhor fugir antes que eu te machuque!
 1448740758	Você só está piorando!
-1983148373	He he, apenas espere...
+1983148373	He, he, apenas espere...
 1998060968	Filho da puta! Onde você está!
 1651967252	Você não está me enganando!
 1648573205	Saia, saia!
 1618962374	Seu traseiro é meu!
 2046446964	Pare de se esconder, seu covarde!
-871541653	Vamos! Me mostre que tem bolas!
+871541653	Vamos! Seja homem!
 1467041725	Oh, eu vou me divertir com você!
-742385626	Isso está ficando velho.
-1703385108	Aww, está assustado?
-1051130559	Aqui, gatinho gatinho gatinho.
-1607285573	Não no me turno, cuzão!
+742385626	Estou ficando cansado disso.
+1703385108	Aww, você está com medo?
+1051130559	Aqui, gatinho, gatinho, gatinho.
+1607285573	Não comigo aqui, imbecil!
 926075436	Malditos caçadores de recompensa.
-1240390056	Eu vou te jogar no cânion.
-847831940	Frank's vai amar isso.
-56058455	Você está fora da sua liga, garoto!
+1240390056	Vou jogá-lo no desfiladeiro.
+847831940	Frank vai amar isso.
+56058455	Essa situação está fora do seu alcance, garoto!
 592361169	Deveria ter ficado no seu vagão.
 235504557	Este é o nosso trem agora!
 1099518600	Fique longe do nosso saque!
@@ -8964,7 +8964,7 @@ Portuguese	Português(BR)
 959940217	Vou pendurá-lo do sino da igreja.
 408168009	Muitos esconderijos nesta merda.
 30910347	Você vai estragar o casamento!
-429936377	Higgins vai ficar chateado!
+429936377	Higgins vai ficar muito puto!
 310375543	Você não está vendo que há um casamento aqui?
 494601798	Você sabe o que o prefeito vai fazer com você?
 41084250	Você estragou o casamento. Isso não foi legal.
@@ -8978,7 +8978,7 @@ Portuguese	Português(BR)
 366562380	Vocês são aqueles encrenqueiros de Flagstone, não são?
 1492194609	Você está na propriedade da companhia DeVitt.
 1117768722	Você com certeza não veio com o trem.
-794874247	Você será uma boa prática de tiro ao alvo.
+794874247	Você será um bom alvo na pratica de tiro ao alvo.
 2048628440	Nós pegamos seu pai. Melhor desistir.
 246410298	Oh, Frank vai gostar de você!
 1856540338	Saia garoto! Eu não mordo.
@@ -9753,7 +9753,7 @@ Portuguese	Português(BR)
 406620721	Ei! Quem te amarrou?
 1562312478	Onde ela está?
 1186727701	Para onde ela foi?
-840634581	Ela não estava lá agora?
+840634581	Ela não estava aqui antes?
 803478765	Onde ele está?
 321579858	Para onde ele foi?
 143565168	Ele não estava aqui antes?
@@ -9780,24 +9780,24 @@ Portuguese	Português(BR)
 1299218361	Ei, eu ouvi isso!
 1055567682	Quem está aí?!
 142901817	Apareça!
-1846020812	Tudo bem, eu estou indo para você!
+1846020812	Tudo bem, eu vou buscá-lo!
 1436567014	Oh, você está com problemas agora!
-1329859631	Eu sei onde você está, imbecil!
-1450140891	Que raio foi aquilo?
+1329859631	Eu sei onde você está, imbecil.
+1450140891	Que diabos foi isso?
 396526931	Eu estou ficando louco?
-678634942	Ah! Uh o quê?
+678634942	Ah! Uh... o que?
 673626311	O que eu estou fazendo?
 3701957	Deixa pra lá.
 1496011622	Isso é ridículo.
 2115842423	Não pense que você pode se esconder!
-2124353544	Ok, vamos acabar com isso!
+2124353544	Ok, vamos acabar logo com isso!
 1760902622	Vamos dar uma olhada.
 1094065143	Oh, eu não sou enganado tão fácil.
 776322957	Isso vai ser doloroso.
 495908380	Tudo bem, quem era aquele?
 2060149827	Quem diabos fez isso?
-1201462751	Onde está o idiota que me bateu?
-926717260	Oh, eles vão pagar por isso.
+1201462751	Ok, Onde está o palhaço que me bateu?
+926717260	Oh, você vai me pagar.
 1577941305	Não é tão corajoso agora, hein?!
 1763889908	Alguém aqui?
 84831267	Eu vou te encontrar, você sabe.
@@ -9811,21 +9811,21 @@ Portuguese	Português(BR)
 816707707	Saia, saia!
 1044417348	Seu traseiro é meu!
 484258301	Pare de se esconder, seu covarde!
-319901115	Vamos! Mostre suas bolas!
+319901115	Vamos! Seja homen!
 1110015672	Oh, eu vou me divertir com você!
-604564302	Estou começando a me cansar.
+604564302	Estou ficando cansado disso.
 1086240261	Aww, você está com medo?
 1002814439	Aqui, gatinho, gatinho, gatinho.
 1520661018	Não comigo aqui, imbecil!
 1332301405	Malditos caçadores de recompensa.
 372378103	Vou jogá-lo no desfiladeiro.
 1803238546	Frank vai amar isso.
-1352172443	Isso é ótimo para você, garoto!
+1352172443	Essa situação está fora do seu alcance, garoto!
 410102224	Deveria ter ficado no seu vagão.
 14513467	Este é o nosso trem agora!
-1979302900	Agora este trem é nosso!
+1979302900	Fique longe do nosso saque!
 1472119620	Somos a gangue da Big Ann! É melhor você correr!
-977892023	Você brigou com um homem de companhia.
+977892023	Você mexeu com um homem da companhia.
 1407155754	É melhor você deixar Flagstone antes que eu te encontre.
 1588645589	Vou pendurá-lo do sino da igreja.
 1592254568	Muitos esconderijos nesta merda.
@@ -9844,7 +9844,7 @@ Portuguese	Português(BR)
 1763686719	Vocês são aqueles encrenqueiros de Flagstone, não são?
 1090999474	Você está na propriedade da Companhia DeVitt.
 2102258360	Você com certeza não veio com o trem.
-161046953	Você será um bom alvo para praticar tiro.
+161046953	Você será um bom alvo na pratica de tiro ao alvo.
 910429965	Pegamos o seu pai. Melhor desistir.
 970401558	Oh, Frank vai gostar de você!
 2084436998	Saia daí, garoto! Eu não mordo.
@@ -11466,12 +11466,12 @@ Portuguese	Português(BR)
 1109695679	É melhor você ir lá!
 1483041581	Onde ela está?
 165744825	Para onde ela foi?
-1516407701	Ela não estava lá agora?
+1516407701	Ela não estava aqui antes?
 875127105	Onde ele está?
 2062792334	Para onde ele foi?
 1311992893	Ele não estava aqui antes?
 1428944817	Ei, onde está meu parceiro?
-1626305939	Me deixa esperando, não é?
+1626305939	Me deixou esperando, não é?
 1417330012	Ei, por que você está demorando tanto?
 503630321	Ei! Acorde!
 2049087796	Levante essa bunda preguiçosa.
@@ -11541,12 +11541,12 @@ Portuguese	Português(BR)
 969805200	Este é o nosso trem agora!
 315442761	Fique longe dos nossos pertences!
 546119706	Somos a gangue da Big Ann! É melhor você correr!
-1739849271	Você brigou com um homem da companhia.
+1739849271	Você mexeu com um homem da companhia.
 1958267839	É melhor você deixar Flagstone antes que eu te encontre.
-997024690	Vou enforcar você de um sino da igreja.
+997024690	Vou pendurá-lo do sino da igreja.
 384829928	Muitos esconderijos nesta merda.
 561488293	Você vai estragar o casamento!
-1275452876	Higgins vai ficar putaço!
+1275452876	Higgins vai ficar muito puto!
 1919042158	Você não vê que há um casamento aqui?
 1180611629	Você sabe o que o prefeito vai fazer com você?
 697689544	Você estragou o casamento. Isso não foi legal.
@@ -11557,10 +11557,10 @@ Portuguese	Português(BR)
 1151030685	A companhia é dona do seu rancho agora.
 668811831	Nós vamos queimar este lugar inteiramente.
 1490150029	Você teve a chance de desistir!
-1547398445	Vocês são os encrenqueiros de Flagstone, não são?
+1547398445	Vocês são aqueles encrenqueiros de Flagstone, não são?
 1174485889	Você está na propriedade da Companhia DeVitt.
 370847986	Você com certeza não veio com o trem.
-1534378569	Você será uma alvo para praticar tiro.
+1534378569	Você será um bom alvo na pratica de tiro ao alvo.
 1655546822	Temos seu pai. Melhor desistir.
 1219979433	Oh, Frank vai gostar de você!
 1682392739	Saia daí, garoto! Eu não mordo.
@@ -13234,7 +13234,7 @@ Portuguese	Português(BR)
 852564027	Eles o amarraram!
 392853137	Eles chegaram até ele!
 1123615392	Eles te amarraram muito bem!
-848063398	Quem te amarrou?
+848063398	Ei! Quem te amarrou?
 551628106	Onde ela está?
 992716555	Para onde ela foi?
 1379366561	Ela não estava aqui antes?
@@ -13242,8 +13242,8 @@ Portuguese	Português(BR)
 1452970971	Para onde ele foi?
 1014771146	Ele não estava aqui antes?
 720518559	Ei, onde está meu parceiro?
-1766193715	Mantendo-me esperando, hein?
-673568848	Ei! O que você está esperando?
+1766193715	Me deixou esperando, não é?
+673568848	Ei, por que você está demorando tanto?
 746090323	Ei! Acorde!
 467029420	Saia daqui seu preguiçoso.
 92484787	Pare de enrolar.
@@ -13314,7 +13314,7 @@ Portuguese	Português(BR)
 1641411631	Vou pendurá-lo do sino da igreja.
 773741626	Muitos esconderijos nesta merda.
 663366583	Você vai estragar o casamento!
-1274586097	Higgins vai ficar putaço!
+1274586097	Higgins vai ficar muito puto!
 1072756810	Você não vê que há um casamento aqui?
 1647519956	Você sabe o que o prefeito vai fazer com você?
 1685781093	Você estragou o casamento. Isso não foi legal.
@@ -13325,10 +13325,10 @@ Portuguese	Português(BR)
 1846815054	A companhia é dona do seu rancho agora.
 207184170	Nós vamos queimar até a última migalha deste lugar.
 1389688790	Você teve a chance de desistir!
-1657689632	Você é daqueles encrenqueiros de Flagstone, não é?
+1657689632	Vocês são aqueles encrenqueiros de Flagstone, não são?
 462135972	Você está na propriedade da Companhia DeVitt.
 2088034152	Você com certeza não veio com o trem.
-51884184	Você será um bom alvo na pratica de tiro.
+51884184	Você será um bom alvo na pratica de tiro ao alvo.
 2101836078	Pegamos o seu pai. Melhor desistir.
 1028617365	Oh, Frank vai gostar de você!
 228687275	Saia, garoto! Eu não mordo.
