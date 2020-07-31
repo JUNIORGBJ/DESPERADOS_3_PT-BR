@@ -9070,7 +9070,7 @@ Portuguese	Português(BR)
 131095827	Vamos lá, eu não estou de bom humor.
 598292556	Talvez tenha se afastado.
 191128027	Provavelmente falando merda.
-714021119	Tudo certo. Como você quiser.
+714021119	Tudo bem. Como você quiser.
 939177021	Aí está você! Jesus Cristo!
 513565452	Encontrei você! Qual é a grande idéia?
 83534620	Ufa. Você me assustou!
@@ -9936,7 +9936,7 @@ Portuguese	Português(BR)
 1938364510	Vamos logo, eu não estou de bom humor.
 781427408	Talvez tenha se afastado.
 1648911463	Provavelmente falando merda.
-315944893	Tudo certo. Como você quiser.
+315944893	Tudo bem. Como você quiser.
 571664	Aí está você! Jesus!
 753383290	Encontrei você! Qual é a grande idéia?
 761950106	Ufa. Você me assustou!
@@ -11659,7 +11659,7 @@ Portuguese	Português(BR)
 1622676785	Vamos, eu não estou afim.
 427173856	Talvez tenha se afastado.
 1933660529	Provavelmente falando merda.
-709473901	Tudo certo. Como você quiser.
+709473901	Tudo bem. Como você quiser.
 144505229	Aí está você! Jesus!
 1487711518	Encontrei você! Qual é a grande idéia?
 1280119929	Ufa. Você me assustou!
@@ -13425,9 +13425,9 @@ Portuguese	Português(BR)
 748933478	Alô?
 1304517933	Você está se escondendo de mim?
 2144523201	Vamos lá, eu não estou de bom humor.
-1914777486	Talvez eles se afastaram.
+1914777486	Talvez tenha se afastado.
 558262880	Provavelmente falando merda.
-57710055	Tudo certo. Como você quiser.
+57710055	Tudo bem. Como você quiser.
 1840181082	Aí está você! Jesus!
 619059863	Encontrei você! Qual é a grande idéia?
 1974301249	Ufa. Você me assustou!
