@@ -9935,8 +9935,8 @@ Portuguese	Português(BR)
 40954105	Você está se escondendo de mim?
 1938364510	Vamos logo, eu não estou de bom humor.
 781427408	Talvez tenha se afastado.
-1648911463	Provavelmente cagando.
-315944893	Ok, tudo bem. Que assim seja.
+1648911463	Provavelmente falando merda.
+315944893	Tudo certo. Como você quiser.
 571664	Aí está você! Jesus!
 753383290	Encontrei você! Qual é a grande idéia?
 761950106	Ufa. Você me assustou!
@@ -9949,7 +9949,7 @@ Portuguese	Português(BR)
 1400118527	O que eu faço?
 1387874504	Oh, isso é selvagem.
 1700291183	Como diabos isso aconteceu?
-1318137618	Não é possível fazer nada aqui.
+1318137618	Não há nada que eu possa fazer.
 369092662	Alguém precisa limpar isso.
 542006602	Vergonha.
 1388393940	Bagunça do caralho.
@@ -11658,11 +11658,11 @@ Portuguese	Português(BR)
 93266556	Você está se escondendo de mim?
 1622676785	Vamos, eu não estou afim.
 427173856	Talvez tenha se afastado.
-1933660529	Provavelmente foi cagar.
-709473901	Tudo bem, tudo bem. Seja desse jeito.
+1933660529	Provavelmente falando merda.
+709473901	Tudo certo. Como você quiser.
 144505229	Aí está você! Jesus!
 1487711518	Encontrei você! Qual é a grande idéia?
-1280119929	Ufa. Você me assustou pra caralho!
+1280119929	Ufa. Você me assustou!
 1619249083	Merda, o que aconteceu?
 2032105429	Bem, merda.
 414248794	Cacete!
@@ -11672,7 +11672,7 @@ Portuguese	Português(BR)
 1302031602	O que eu faço?
 1706304469	Oh, isso é selvagem.
 924481632	Como diabos isso aconteceu?
-880968055	Não pode fazer nada aqui.
+880968055	Não há nada que eu possa fazer.
 1876740687	Alguém precisa limpar isso.
 1403884435	Maldição.
 841189387	Que bagunça do caralho.
@@ -13426,11 +13426,11 @@ Portuguese	Português(BR)
 1304517933	Você está se escondendo de mim?
 2144523201	Vamos lá, eu não estou de bom humor.
 1914777486	Talvez eles se afastaram.
-558262880	Provavelmente cagando.
-57710055	Ok, tudo bem. Que seja.
+558262880	Provavelmente falando merda.
+57710055	Tudo certo. Como você quiser.
 1840181082	Aí está você! Jesus!
 619059863	Encontrei você! Qual é a grande idéia?
-1974301249	Ufa. Seu idiota estúpido!
+1974301249	Ufa. Você me assustou!
 1926199551	Porra, o que aconteceu?
 1062910935	Bela merda.
 834670398	Oh inferno!
@@ -13440,7 +13440,7 @@ Portuguese	Português(BR)
 1097440006	O que eu faço?
 2029738980	Oh, isso é selvagem.
 96006105	Como diabos isso aconteceu?
-777405700	Não é possível fazer nada aqui.
+777405700	Não há nada que eu possa fazer.
 1487563172	Alguém precisa limpar isso.
 1702811127	Vergonha.
 1755842334	Bagunça do caralho.
