@@ -1669,7 +1669,7 @@ Portuguese	Português(BR)
 568409435	Deveria ter me deixado terminar minha bebida.
 1932523298	Hah! Não é seu dia de sorte, não é?
 1028846366	Um já foi. Para o próximo. Você está se divertindo ainda?
-210201627	Para caralho!
+210201627	Pra caralho!
 1920493164	Um a menos, restam três. Cada enrascada que você me coloca...
 1025778135	Passamos por coisas piores.
 1768942864	Nós estamos fora. Relaxe.
@@ -1821,7 +1821,7 @@ Portuguese	Português(BR)
 118267129	Merda, isso vem acontecendo o dia todo.
 123783945	Eu diria que ele vai atormentar o pobre animal até a morte, a menos que ele seja pisado primeiro.
 1120349955	Aquele tolo idiota é como uma caixa de dinamite.
-235694989	Lembra quando a pegamos do seu primo e meu garoto jogou pedras nele? Dia ruim para caralho...
+235694989	Lembra quando a pegamos do seu primo e meu garoto jogou pedras nele? Dia ruim pra caralho...
 1915388645	Eu pensei que tudo isso seria bom para a cidade.
 1736913974	Ficamos muito felizes quando o prefeito nos disse que a ferrovia chegaria. E agora...
 1438218330	É o cara que dirige a companhia. Sim, ele quer nos ver embora. Não dá a mínima para nós.
@@ -4547,7 +4547,7 @@ Portuguese	Português(BR)
 2063499326	Obrigado, estranho.
 1251041711	Imagina. Há um Wayne por aqui?
 1494454137	Acho que não.
-1405948237	Deixa para lá.
+1405948237	Deixa pra lá.
 1676285114	Espere até que a costa esteja limpa e corra para o pântano.
 781402605	Você é um presente do céu.
 318311583	Eu duvido. Você conhece um Wayne?
@@ -5115,7 +5115,7 @@ Portuguese	Português(BR)
 789078812	Equipamento da Isabelle
 267005513	Pegue o equipamento da Isabelle na caixa.
 1347083076	Liberte os Outros
-2008741532	Cooper e Kate foram colocados em jaulas. Abrar as fechaduras com Doc e liberte-os.
+2008741532	Cooper e Kate foram colocados em jaulas. Abra as fechaduras com Doc e liberte-os.
 1199039024	Liberte Cooper
 472209626	Use Doc para abrir a fechadura da jaula de Cooper.
 1035068155	Liberte Kate
@@ -5318,7 +5318,7 @@ Portuguese	Português(BR)
 485862675	O que diabos é isso?
 1597789739	Tire essa maldita carroça dos trilhos!
 1863929236	Parece bem pesado.
-1887029504	Idéias alguém?
+1887029504	Alguém tem alguma ideia?
 1807402843	Isso vai levar uma eternidade.
 398126939	O trem parou. Eles conseguiram.
 1291452226	Ei Hector.
@@ -5408,7 +5408,7 @@ Portuguese	Português(BR)
 997303326	Desta forma, você deve desviar a atenção dos convidados da DeVitt.
 1967667379	Seus amigos já deveriam ter desembarcado. Eles vão encontrar uma maneira de entrar.
 392671691	E é isso. Mostre os convites para o portão principal e aproveite a festa.
-1209422243	Vou entrar em breve. Vejo você no ponto da encontro. E boa sorte.
+1209422243	Vou entrar em breve. Vejo você no ponto de encontro. E boa sorte.
 1905302755	Devemos entrar, senhorita O'Hara?
 135070172	Está levando seu papel muito a sério, Sr. Cooper.
 342061846	Só estou seguindo o plano.
@@ -5454,9 +5454,9 @@ Portuguese	Português(BR)
 1570932987	Assim esperamos.
 1972120744	Obrigada por me deixar ajudar.
 537940957	Nós dois sabemos que eu não conseguiria sozinho.
-605139133	O que quero dizer é… Estou contente por estarmos fazendo isso juntos.
+605139133	Eu quero dizer... Estou feliz que estamos fazendo isso juntos.
 1505054090	Certo...
-958692602	Vamos voltar ao que interessa então, okay?
+958692602	Vamos voltar ao que interessa então, ok?
 1055111395	Certo. Vamos.
 921663647	É melhor mantermos as cabeças abaixadas aqui.
 1643575486	De volta a nos esconder nas sombras.
@@ -5494,7 +5494,7 @@ Portuguese	Português(BR)
 1002334850	Ora, ora, olhe para aquele lugar.
 673672528	Aqui está a festa. Eu posso sentir o cheiro da comida daqui.
 959790353	Controle-se, Hector.
-424716704	Um labirinto de cercas, não é?.
+424716704	Um labirinto de cercas, não é?
 826972201	Odeio labirintos. Temos que entrar?
 1533758169	Vamos, não é assim tão difícil.
 1069120319	Ei, para que é esse lugar?
@@ -5519,7 +5519,7 @@ Portuguese	Português(BR)
 149881236	Nuh uh. Tire as mãos.
 173249229	Oh vamos lá, só um gole.
 1566858105	É vinho. Suco de uva.
-224186850	Hrm, tá bom.
+224186850	Hrm, Está bom.
 693842402	Do início. A primeira música é sobre um garoto e seu pai caminhando nas estradas da vida.
 2087470586	A próxima é sobre a locomotiva e as dificuldades que enfrentou.
 654436549	A próxima é sobre uma briga de bar que se espalhou pela cidade.
@@ -5574,7 +5574,7 @@ Portuguese	Português(BR)
 1216862342	Bom… Isso é bom. Continue.
 1788097092	Você, uh...você está se saindo bem aqui.
 2120991209	Obrigada, Bill.  É muito gentil de sua parte.
-1567705816	Certo. Uh... Eu… Eu vou voltar a vigiar.
+1567705816	Certo. Uh... Eu.. Vou voltar à patrulha.
 449788552	Precisa de algo?
 2131619723	Eu gosto mais daqui, longe do brilho deles.
 888186537	Eu poderia tomar uma bebida.
@@ -5608,7 +5608,7 @@ Portuguese	Português(BR)
 329062007	Ho hoh!
 913186926	Maravilhoso!
 52592200	Realmente impressionante!
-817636779	Meh. Já vi coisa melhor.
+817636779	Mah. Já vi coisa melhor.
 1574236295	...! Minha nossa.
 1933425154	Olhe as cores.
 308375550	Muito espetacular.
@@ -5664,7 +5664,7 @@ Portuguese	Português(BR)
 998001442	Então podemos começar com o show principal
 720082183	Hah, bom trabalho vocês dois!
 445795804	Hector, Isabelle. Que agradável encontrar vocês aqui.
-401358094	Heh,digo o mesmo.
+401358094	Heh, digo o mesmo.
 2065916538	Heh, parece que os convidados estão deixando DeVitt esperando.
 1646482791	Significa que podemos ir para o próximo passo.
 1700099842	Belo trabalho pessoal.
@@ -5727,7 +5727,7 @@ Portuguese	Português(BR)
 361255572	E agora você vai me dizer quem é o responsável.
 891726685	Nada ainda? Talvez todos vocês queiram ser responsabilizados?
 1387183924	Quantas vezes vou ter que dizer a vocês, seus imbecis?!
-350466371	Eu não subi isso tudo nada vida ignorando erros tão grosseiros.
+350466371	Não cheguei tão longe na vida ignorando erros tão grosseiros.
 788895774	Meu pai me deu um centavo e então me jogou nas ruas.
 534494589	Eu escalei meu caminho até o topo. Eu conquistei meu lugar à mesa.
 1848542513	A ferrovia, as minas de ouro, o comércio formado...
@@ -5762,7 +5762,7 @@ Portuguese	Português(BR)
 1655765715	Um dia normal de trabalho.
 1412284541	Sim. Sem problema.
 60990168	Eu gosto mais assim.
-1883028320	Okay, vamos levá-lo para a carroça.
+1883028320	Ok, vamos levá-lo para a carroça.
 1913966354	Estamos nos divertindo.
 1991932564	Não falta muito agora.
 1749814141	Estamos chegando lá.
@@ -5869,7 +5869,7 @@ Portuguese	Português(BR)
 1559753706	VO TRACK
 2071875988	Você vem?
 1158993043	Qual é, amigo. Você está começando a agir como um mandão.
-1459108587	Não é minha culpa se você leva um séculos para chegar até aqui.
+1459108587	Não é minha culpa se você leva um século para chegar até aqui.
 193011974	Calma, rapazes. Nós estamos todos aqui pela mesma razão.
 834789043	Ali está a capela. Este lugar não mudou muito.
 858126338	Tem certeza que Frank está lá?
@@ -13669,7 +13669,7 @@ Portuguese	Português(BR)
 288882889	Maldita chuva.
 962045687	Que rancho enorme.
 211979601	Minhas bolas estão congelando aqui...
-933782378	Hah... Está frio para caralho aqui...
+933782378	Hah... Está frio pra caralho aqui...
 637427537	Tenho que manter meus olhos abertos.
 221442863	Frank está furioso.
 2080010610	Essa noite foi louca.
