@@ -11784,7 +11784,7 @@ Portuguese	Português(BR)
 1314279054	E-espera, o que aconteceu?
 1527843960	Hein... Isso com certeza foi estranho...
 1207637417	Então... como cheguei aqui?
-46695303	Hein... Qye diabos aconteceu?
+46695303	Hein... Que diabos aconteceu?
 6425241	Tudo bem pessoal, vamos fazê-los aparecer a força!
 903660247	Eles estão aqui! Espalhem-se!
 1212944294	Espalhem-se! Não os deixe escapar!
