@@ -3157,7 +3157,7 @@ Portuguese	Português(BR)
 1398730384	Tenho que chegar ao papai.
 1903729066	Não serei capaz de derrotá-los de perto.
 497952242	Tenho que tentar jogar a faca.
-1653273505	Ele não poderia ter vindo sozinho. Espalhar!
+1653273505	Ele pode estar sozinho. Vamos nos separar!
 1433914304	E observe a ponte. Ninguém atravessa.
 1496802357	Maldito caçador de recompensas. Como ele nos encontrou?
 1267055176	Me bater. Esta é uma má notícia.
