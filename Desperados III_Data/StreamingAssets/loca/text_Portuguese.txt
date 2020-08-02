@@ -872,7 +872,7 @@ Portuguese	Português(BR)
 1291349659	Um inferno de uma noite
 2081499567	Depois de algumas semanas na estrada, o grupo passa a noite em uma taberna de Baton Rouge. Eles descansam e contam histórias entre uma mordida e um copo. Muitas e muitas bebidas.
 2064647518	Em um penhasco com vista para o Mississippi fica a pitoresca velha Baton Rouge./n/nAqui, camas confortáveis e comida quente aguardam viajantes cansados, eles chegam por terra ou por um dos muitos barcos a vapor que atracam todos os dias no porto./n/nO grupo está a caminho de Nova Orleans há algumas semanas. Depois de mais um longo dia na estrada, eles chegam a Baton Rouge./n/nO ar está cheio de música, risos e cheiro de vômito. Hora de encontrar uma taberna, levante os pés e desfrute de uma refeição quente com um bom uísque, ou três.
-418625396	Depois de uma noite na selvagem taberna, o grupo acorda com a cidade de Baton Rouge no caos e os homens do xerife caçando por eles./n/nNinguém faz idéia do que aconteceu e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca e enormes dores de cabeça, eles decidem se concentrar no básico: Encontrar o Doc e dar o fora de lá.
+418625396	Depois de uma noite na selvagem taberna, o grupo acorda com a cidade de Baton Rouge no caos e os homens do xerife caçando por eles./n/nNinguém faz ideia do que aconteceu e Doc desapareceu sem deixar rasto.n/nLutando contra a ressaca e enormes dores de cabeça, eles decidem se concentrar no básico: Encontrar o Doc e dar o fora de lá.
 458741708	Rio Mississippi
 1471672407	Louisiana Voodoo
 841222571	Depois de uma pequena pausa em Baton Rouge, o grupo está agora em um barco navegando sobre o Mississipi. Destino: A agitada Nova Orleans.
@@ -5519,7 +5519,7 @@ Portuguese	Português(BR)
 149881236	Nuh uh. Tire as mãos.
 173249229	Oh vamos lá, só um gole.
 1566858105	É vinho. Suco de uva.
-224186850	Hrm, Está bom.
+224186850	Hrm, tá bom.
 693842402	Do início. A primeira música é sobre um garoto e seu pai caminhando nas estradas da vida.
 2087470586	A próxima é sobre a locomotiva e as dificuldades que enfrentou.
 654436549	A próxima é sobre uma briga de bar que se espalhou pela cidade.
@@ -5875,7 +5875,7 @@ Portuguese	Português(BR)
 858126338	Tem certeza que Frank está lá?
 1172816432	Oh, certeza absoluta.
 1469677172	Lembre-se cooper, ninguém entra sozinho. Vejo todos vocês no portão.
-401110194	Heh, Não se preocupe. Vou seguir o plano.
+401110194	Heh, não se preocupe. Vou seguir o plano.
 2102348602	Falando nisso, ali estão Doc e Isabelle.
 1662801551	Bom. Vamos nos encontrar no caminho.
 1216793812	Certo. Mais uma coisa...
@@ -5981,7 +5981,7 @@ Portuguese	Português(BR)
 864933468	Escada de corda?
 1421217508	Esqueça. Vamos encontrar outra maneira de entrar.
 409956380	Este lugar já viu dias melhores.
-1855344224	Heh, Olha o que eles fizeram com este lugar.
+1855344224	Heh, olha o que eles fizeram com este lugar.
 1933370241	Alguém deveria limpar isso aqui.
 1816639178	Que buraco de merda.
 917385025	Tenho a impressão de que Frank não se importa muito com este lugar.
@@ -6003,14 +6003,14 @@ Portuguese	Português(BR)
 1542979841	Nós poderíamos estar cavalgando agora.
 435113100	Cavalgamos quando Frank diz para cavalgar.
 1410192652	Quem são esses caras, afinal?  Isso é besteira.
-272270312	Não sei. Ouve-se coisas desagradáveis?? sobre aquele tal de McCoy.
+272270312	Não sei. Ouve-se coisas desagradáveis? Sobre aquele tal de McCoy.
 1109781748	Certo! Mas ele não vai pegar todos nós.
 1049087038	Ele não virá sozinho também.
 1830697416	Eu acho que Frank está ficando louco.
 842300241	Por que?
 1742782678	O que ele disse sobre aquela bruxa voodoo? Aquilo é besteira.
 1590616347	Nunca se sabe.  Frank já viu umas coisas estranhas no tempo dele.
-594718753	Certo, e para quê o canhão mesmo?
+594718753	Certo, e para que o canhão mesmo?
 829106166	Segurança.
 1114876175	E por que estamos mirando no nosso cara?
 1805734018	Praticar.
@@ -6042,7 +6042,7 @@ Portuguese	Português(BR)
 1691853546	Eu te disse, não é perigoso.
 1260617836	Tenho que ter certeza de que está preso.
 1031366330	Você ao menos está me escutando?
-1844765622	Eu não serei esmagado por um maldita vagoneta.
+1844765622	Eu não serei esmagado por uma maldita vagoneta.
 1454114103	Não tem inclinação aqui, seu idiota.
 1233256077	Eles não vão me pegar com isso.
 823372472	Você já se acalmou?
@@ -6064,7 +6064,7 @@ Portuguese	Português(BR)
 1513828514	Ainda temos um longo caminho a percorrer.
 2128859310	Como estão todos?
 710950701	Estou pronto.
-4403149	Eu Também.
+4403149	Eu também.
 1677025007	Não me diga que você está receoso.
 1427121985	Sim. Vamos ou ainda vamos esperar?
 76931277	Certo. Para a capela.
@@ -6086,7 +6086,7 @@ Portuguese	Português(BR)
 788946975	Frank disse que sim. E Frank geralmente está certo.
 176763436	Sabe… dessa vez espero que ele esteja enganado.
 560781998	Somos dois.
-1677861338	Vê alguém lá embaixo?
+1677861338	Está vendo alguém lá embaixo?
 406158556	Não. Eu não acho que eles vão aparecer por aqui.
 1009920076	Sério? Por que não?
 773969835	Porque Frank disse que eles são espertos.
@@ -6160,7 +6160,7 @@ Portuguese	Português(BR)
 1340980068	Sim, Estou pronto.
 2129288339	Como está indo?
 1876443714	Mantenha a calma.
-601459450	E ai?
+601459450	E aí?
 588699637	Mantenha sua cabeça baixa.
 1705340705	As coisas estão quietas.
 1151312318	Não precisa correr.
@@ -6213,7 +6213,7 @@ Portuguese	Português(BR)
 1754712091	Sim... te encontro lá.
 453889635	Ufa... tudo bem então.
 891088826	Eu odeio escravos.
-761592845	Ufa, essa aí atrás foi por pouco.
+761592845	Ufa, essa aí foi por pouco.
 1883357226	Ainda não estamos fora disso.
 1222595714	Tenho que reunir todos.
 2131439120	Louisiana... Sempre uma carona.
@@ -6263,7 +6263,7 @@ Portuguese	Português(BR)
 348080409	Vamos indo.
 1463433715	Hmmm...
 1947234583	Devemos?
-359168339	Certamente..
+359168339	Certamente.
 1970577313	A caminho.
 210468291	Bem, agora vamos ver...
 757603325	Tudo certo.
@@ -6328,7 +6328,7 @@ Portuguese	Português(BR)
 597644029	Não posso fazer.
 1121747942	Não... não está acontecendo.
 1759580039	Sem chance.
-1474564838	Nuh uh.
+1474564838	Não uh.
 1193315723	Não.
 20813606	Não vou.
 1700970087	Não vai acontecer.
@@ -6339,9 +6339,9 @@ Portuguese	Português(BR)
 53913246	Por aqui não.
 2046820839	Tenho que encontrar outro caminho.
 1416110515	Tenho que descobrir alguma coisa.
-1914418523	Você vê um caminho? Sim, eu não.
+1914418523	Você está vendo algum caminho? Sim, eu não.
 1703474809	Encontre outro caminho.
-635750800	Preciso encontrar o caminho..
+635750800	Preciso encontrar o caminho.
 463103813	De um jeito nisso.
 2027039691	Por aqui não.
 1910746496	Não consigo chegar lá.
@@ -6355,7 +6355,7 @@ Portuguese	Português(BR)
 63281099	Uh uh. Péssima ideia.
 500667948	Há problemas por dentro.
 71468931	Não posso arriscar.
-323623352	Idéia idiota.
+323623352	Ideia idiota.
 1883920775	Há problemas por dentro.
 817346445	Não arrisque.
 881566038	Essa é uma péssima ideia.
@@ -6450,10 +6450,10 @@ Portuguese	Português(BR)
 1180405532	...O que diabos você tem de errado?
 1108105971	Merda... Acho que eu merecia isso.
 1117469463	Hgn... Ok, pare com isso.
-1285378192	...! Qual é a grande idéia?
+1285378192	...! Qual é a grande ideia?
 211873821	...! Ei agora!
 42150134	...! Não tenho certeza para onde você está indo com isso.
-1030316095	...! Qual é a grande idéia?
+1030316095	...! Qual é a grande ideia?
 2053256962	...! Ei agora!
 1802379518	Ah... Engraçado...
 679122831	Qual é o problema... 
@@ -6467,7 +6467,7 @@ Portuguese	Português(BR)
 1548925223	Oh, por favor, sem cobras...
 945499977	Sem utilidade...
 903206135	Estraguei tudo...
-1878525430	Não esta bom o suficiente...
+1878525430	Não está bom o suficiente...
 2042234342	Maldita senhorita... 
 27184514	Olha para ela...
 396048766	Parece bem...
@@ -6487,7 +6487,7 @@ Portuguese	Português(BR)
 1605667164	...! Tudo certo.
 1201647993	...! Certo.
 181221205	...!
-1575616967	Ufa... Tudo certo..
+1575616967	Ufa... Tudo certo.
 407709187	Hah... Lá.
 929477417	...!
 391849287	...Tenho que fazer.
@@ -6542,7 +6542,7 @@ Portuguese	Português(BR)
 16695866	O truque mais antigo.
 238770571	Alguns segundos.
 1164756988	...
-373131161	Cara ou Corôa...
+373131161	Cara ou Coroa...
 1656692260	Precisa de alguma mudança?
 905661029	...Ha! 
 2033885432	Ok, vamos ver.
@@ -6719,7 +6719,7 @@ Portuguese	Português(BR)
 1475684903	Eles não vão nos ver chegando.
 261285234	Ainda não terminamos, amigo.
 235193763	Ninguém mexe com Hector.
-1913867920	Sim,  vamos caçar.
+1913867920	Sim, vamos caçar.
 2028406679	Deixe os grandões comigo.
 1085046995	Esses idiotas da companhia estão me deixando irritado.
 1578894012	Sim, eles não fazem ideia.
@@ -6744,7 +6744,7 @@ Portuguese	Português(BR)
 1990159601	Eu vou fazer um novo buraco na sua bunda.
 1105635547	Bianca quer vingança.
 1584913950	Ninguém coloca Hector em uma cela.
-309149042	Alguma idéia de onde estamos?
+309149042	Alguma ideia de onde estamos?
 284337048	Bianca não gosta de nadar.
 40588927	Heh, heh, é hora da vingança.
 38007557	Eu vou estragar este lugar.
@@ -6804,7 +6804,7 @@ Portuguese	Português(BR)
 804821888	Aí vem o carteiro.
 1699178788	Passando.
 1231660015	Por ali? Sem problema.
-269441290	Heh, Posso lidar com isso.
+269441290	Heh, posso lidar com isso.
 1694816690	Posso fazer isso o dia todo.
 695290729	...! Ok! 
 253846311	...! Passando...!
@@ -6845,7 +6845,7 @@ Portuguese	Português(BR)
 413100628	Tudo bem, e agora?
 1711975334	É isso aí.
 3450358	Uh, e agora?
-878608500	É isso ai, eu acho.
+878608500	É isso aí, eu acho.
 369453272	Fácil.
 1519662815	Está feito.
 198083130	Tudo feito.
@@ -6859,7 +6859,7 @@ Portuguese	Português(BR)
 1387419723	Lá se vai outro.
 1332116681	Hmm, não foi seu dia de sorte.
 770656415	Oh, eu precisava disso!
-811686421	Heh, whoops.
+811686421	Heh, oops.
 1206303774	Uh... Desculpa?
 557412956	Que azar, amigo.
 650886594	Quem é o próximo?
@@ -6883,7 +6883,7 @@ Portuguese	Português(BR)
 641362319	...!
 1649684849	...
 661985394	...
-1473398606	Oh ho ho, manda a vê, seu puto.
+1473398606	Oh ho ho, manda vê, seu puto.
 1467638822	Tudo bem... Quer tentar de novo?
 1272052373	Ugn... Muito engraçado, amigo.
 748975499	Ugn... Quem se importa?
@@ -6931,11 +6931,11 @@ Portuguese	Português(BR)
 29300333	...! Minha cabeça.
 1723331483	Bom. Me dê um segundo.
 1435389838	Não se mexa, amigo.
-1598955218	Eu vou te fazer bem e te deixar confortável..
+1598955218	Eu vou te fazer bem e te deixar confortável.
 1550452129	Heh, durma bem.
 625375198	Não se mexa, amigo.
 2092017950	Sim... Isso vai aguentar...
-788238649	Hm, fique quieto...
+788238649	Hm, fica quieto...
 933667148	...!
 780681512	...!
 289324150	...!
@@ -7021,7 +7021,7 @@ Portuguese	Português(BR)
 1207039928	Bata neles.
 1023349715	Pronto, eu acho.
 348270276	Bata neles.
-614102221	Uh, Tudo pronto.
+614102221	Uh, tudo pronto.
 1020944915	Hah! Bang!
 1552470216	Heh, boa noite!
 982298988	Oh, isso deve doer.
@@ -7085,7 +7085,7 @@ Portuguese	Português(BR)
 997375335	O que é isso... Tem um gosto engraçado.
 558598886	Hmm... me sinto ótimo.
 869625814	Hã... Sim, nada mal.
-342970236	Então, uh, e agora?
+342970236	Então, uh e agora?
 1775667351	Heh, veja o pavio queimar.
 2059003475	Acenda o pavio e depois...
 363477709	Pega!
@@ -7101,7 +7101,7 @@ Portuguese	Português(BR)
 1816583177	Até mais.
 1923523671	Tchau. Tchau.
 135242026	Vamos tentar fazer ao estilo do Doc.
-84246857	Tive uma ideia..
+84246857	Tive uma ideia.
 1323212137	Uh, tudo bem...
 850532773	Me lembra o Doc...
 1344130215	Temos fogo.
@@ -7307,7 +7307,7 @@ Portuguese	Português(BR)
 2003459976	Algo está estranho aqui.
 1982425537	O que você espera?
 983001212	Não pode me enganar.
-141185570	As coisas realmente foram ladeira abaixo.
+141185570	As coisas realmente foram ladeiras abaixo.
 738896807	Eu não gosto de onde isso vai dar.
 823429653	Talvez seja hora de sair.
 1238361446	Por que estou fazendo isto?
@@ -7460,7 +7460,7 @@ Portuguese	Português(BR)
 336959792	Vamos nos comportar, por enquanto.
 764824042	Ainda não há problemas.
 1601512113	A calma antes da tempestade.
-1155245369	Pelo Menos o vestido é bonito.
+1155245369	Pelo menos o vestido é bonito.
 1182695174	Tenho que fazer uma visita ao escritório.
 1343011846	Vou pegar a escritura e sair.
 1451782882	Oh meu. Tudo isso para mim?
@@ -7474,7 +7474,7 @@ Portuguese	Português(BR)
 365062992	Vamos mostrar a companhia DeVitt.
 2114168605	Se esse maldito trem nunca chegasse...
 208234677	Deveria ter se transformado em algo mais quente.
-318068535	Sua ajuda é bem vinda.
+318068535	Sua ajuda é bem-vinda.
 529234431	Está frio aqui em cima.
 21936162	Até aqui e nada além.
 971948112	Vamos acabar com isso.
@@ -7498,7 +7498,7 @@ Portuguese	Português(BR)
 461790017	Temos um compromisso com o Frank.
 30484666	Não há meio caminho para a Companhia DeVitt.
 1061901531	Vamos procurar uma chance de escapar.
-1747135662	Desta vez, agitamos a colméia.
+1747135662	Desta vez, agitamos a colmeia.
 1654554408	Você realmente quer fazer isso?
 1569558662	Apenas... não, tudo bem?
 1034169539	Eu quero sair.
@@ -7660,7 +7660,7 @@ Portuguese	Português(BR)
 1865569410	De jeito nenhum.
 986703905	Não é assim, não.
 1850790560	Talvez haja um atalho?
-57499880	Uh.. eu não gosto de desvios...
+57499880	Uh.. Eu não gosto de desvios...
 215288243	Ugh... acho que o caminho está bloqueado.
 1318555555	Estou vendo errado ou esse caminho está bloqueado?
 1302862243	Não é possível fazer isso.
@@ -7734,7 +7734,7 @@ Portuguese	Português(BR)
 1395785862	Desculpe. Meio que precisava.
 1112937803	Ainda tenho meu objetivo, pelo menos.
 1034167158	Ufa. Peguei eles.
-1809840886	Malditos bandidos da companhias.
+1809840886	Malditos bandidos da companhia.
 195100532	Pelo menos isso ainda funciona.
 310277554	Há sempre mais.
 1564345485	...!
@@ -7796,8 +7796,8 @@ Portuguese	Português(BR)
 1433016217	É melhor você ficar quieto.
 1174254397	Agradável e apertado.
 1885291362	Vamos torcer para que isso ocorra...
-165933546	Fique contente por poder se deitar...
-1443058351	Fique lá.
+165933546	Pelo menos você pode se deitar...
+1443058351	Fica aqui.
 717847113	Para o próximo.
 1761715981	...!
 991499024	...!
@@ -7922,7 +7922,7 @@ Portuguese	Português(BR)
 1321922364	O que você acha...
 402309028	Talvez pudéssemos...
 2060657383	Cara bonito como você...
-1830809169	Você está me dando idéias...
+1830809169	Você está me dando ideias...
 1476482307	Você tem planos agora?
 576581618	Veja o que você gostaria?
 1950379146	Há mais de onde isso veio.
@@ -8108,7 +8108,7 @@ Portuguese	Português(BR)
 1733099221	Este lugar pode ir direto para o inferno.
 1483495823	É um ninho, tudo bem.
 1715795038	DeVitt foi longe demais neste momento.
-850299631	Vê do que DeVitt é capaz?
+850299631	Está vendo do que DeVitt é capaz?
 519918799	DeVitt gosta de colocar pessoas em jaulas.
 100892671	Podemos ir, por favor?
 433769883	Deveria levar algumas pepitas.
@@ -8125,14 +8125,14 @@ Portuguese	Português(BR)
 852681757	Eles sabiam que estamos chegando.
 1028910239	Adoro um desafio.
 2117542934	Fico contente que você esteja de volta, Sunshine.
-780526017	Para Onde?
+780526017	Pra onde?
 310821931	Estou esperando aqui.
 1970943049	Você quer carregá-los?
 1586978736	Vamos deixar isso em algum lugar escuro.
 875472633	Isso vai ser bom.
 1373149075	Sim, eu gosto disso.
 946438801	É sobre isso que estou falando.
-1818062380	já estou lá.
+1818062380	Já estou lá.
 375106021	Chegando.
 1463267480	Vamos tornar isso interessante.
 928614151	Vamos ver o que podemos fazer.
@@ -8158,7 +8158,7 @@ Portuguese	Português(BR)
 2079034413	Deixe-me mostrar a você.
 189971941	Só preciso seguir as pistas.
 338123914	A trilha ainda não está fria.
-94465682	segure firme, Wayne. Estou chegando.
+94465682	Segure firme, Wayne. Estou chegando.
 1143146030	Vamos queimar este lugar no chão.
 620887894	Não pode se cansar agora...
 1249330717	Temos que mantê-lo juntos.
@@ -8236,8 +8236,8 @@ Portuguese	Português(BR)
 1663065043	... Ei... Cuidado.
 1645812927	... Oh, você quer ser amarrado, hein?
 1691141857	Entendi.
-242524463	Para Onde?
-626775936	Pronto. Para onde?
+242524463	Pra Onde?
+626775936	Pronto. Pra onde?
 951280403	Ufa. Feito.
 1198499341	Vamos colocá-lo aqui.
 1285283961	Vamos deixá-lo.
@@ -8275,7 +8275,7 @@ Portuguese	Português(BR)
 1485265207	Aquele.
 1040628537	E esse.
 1724442411	Heh, mal senti.
-1619832780	Vou entrar sozinho..
+1619832780	Vou entrar sozinho.
 1859572169	Estamos todos conectados.
 872498356	Quem é meu parceiro de sorte?
 1790406456	O que você não faz a si mesmo...
@@ -8345,7 +8345,7 @@ Portuguese	Português(BR)
 1676379491	O que temos aqui!
 48842464	Toda minha.
 2117087259	Apenas o que eu preciso.
-552193462	Nah, eu estou bem.
+552193462	Não, eu estou bem.
 358302127	Isso é mais do que eu preciso.
 716483205	Tenho o suficiente por enquanto.
 1063981054	Um pouco de cura para todos.
@@ -8414,14 +8414,14 @@ Portuguese	Português(BR)
 763245685	É agora ou nunca.
 557704481	Certo. Vamos lá.
 1972136448	Correto. A caminho.
-862236337	Sem dúvida..
+862236337	Sem dúvida.
 1486685629	Eu vou.
-1785287502	Eu vou fazer isso..
+1785287502	Eu vou fazer isso.
 2027953958	Por favor fique bem.
 1785336322	Eu posso fazer isso...
 1106567418	Tenho que me mexer.
 1905492557	Agora ou nunca.
-1611616462	Vamos..
+1611616462	Vamos.
 1193834096	A caminho.
 862746886	Sim... Deixe comigo.
 1703730525	Bom lugar.
@@ -8474,7 +8474,7 @@ Portuguese	Português(BR)
 790619903	...!
 8060920	...! Ufa.
 1743547639	...! Pacote entregue.
-1313510991	Não se importe comigo..
+1313510991	Não se importe comigo.
 637822479	Agora, você fica aí, ok?
 1602076023	Não se mexa, certo?
 853176869	...!
@@ -8486,7 +8486,7 @@ Portuguese	Português(BR)
 1782865882	Ainda bem que peguei essas.
 1197043391	Uma moeda falsa, chegando.
 591619537	Ainda resta muitas.
-1834219954	Cara ou Corôa.
+1834219954	Cara ou Coroa.
 1097207485	Precisa de troco?
 2033273181	Vamos, vire-se.
 1446007145	Tudo bem... Olhos no alvo.
@@ -8502,7 +8502,7 @@ Portuguese	Português(BR)
 1113413964	Entendi.
 767065518	Peguei a faca.
 504503314	Tudo bem, entendi.
-361090502	Certo, Estávamos falando sobre...
+361090502	Certo, estávamos falando sobre...
 1886634843	Você estava dizendo?
 59357748	O que? Você espera alguém mais alto?
 105338269	Eu tenho quase quinze anos, você sabe.
@@ -8567,7 +8567,7 @@ Portuguese	Português(BR)
 363767535	Delegado Wayne, ao seu dispor.
 1496994253	Receio que eu seja de pouca utilidade agora.
 1228969627	Eu estou ouvindo, filho.
-1927766807	O lugar dele é uma desgraça..
+1927766807	O lugar dele é uma desgraça.
 1267254988	Felizmente por estar fora dessa jaula.
 2137125682	Vou garantir que isso não aconteça novamente.
 806067602	Onde você o quer?
@@ -8633,7 +8633,7 @@ Portuguese	Português(BR)
 1088199082	Temos fogo.
 332323267	Boa chama.
 814082892	Aqui vamos nós.
-1128452270	Ai está.
+1128452270	Aí está.
 195052967	Luzes apagadas.
 756799388	Tenho que perder o fogo.
 1922044031	Vamos continuar de onde paramos.
@@ -8641,7 +8641,7 @@ Portuguese	Português(BR)
 743624232	Então, antes de sermos interrompidos.
 1289422842	Ligue para os outros!
 1475557669	Precisamos de auxílio!
-2144584419	Ei! Me dê alguma auxílio!
+2144584419	Ei! Me dê algum auxílio!
 894382108	Precisamos de mais homens aqui!
 1649830376	Pegue algum auxílio aqui!
 1842948575	Ajuda!
@@ -8658,7 +8658,7 @@ Portuguese	Português(BR)
 1897146988	O que aconteceu com o auxílio?
 817769762	No auxílio! É isso!
 1886125990	Você entendeu isso, certo?
-492306519	Nós estamos fora. Diverta-se.
+492306519	Nós estamos fora. Divirta-se.
 1302127985	Nós terminamos aqui. Até mais.
 287241101	Você cuida disso.
 952579978	Bem, vamos deixar você com isso.
@@ -8796,7 +8796,7 @@ Portuguese	Português(BR)
 599375889	Ele é apenas uma criança!
 1260587379	Procurando seu papai?
 1263499303	Encontrei você, maldito!
-821702456	Frank  estava certo!
+821702456	Frank estava certo!
 1554266272	Estou levando você!
 1869494950	Você está preso!
 792539558	E-encrenqueiro!
@@ -8842,14 +8842,14 @@ Portuguese	Português(BR)
 1994364935	Ei! Como você saiu?
 24635553	Algo não está certo... Quem está aí?
 616948554	Espere... Tem alguém atrás de mim?
-814397201	Estranho... Como se alguém estivesse bem ao meu lado..
+814397201	Estranho... Como se alguém estivesse bem ao meu lado.
 383055934	...! Pare com isso!
 1341729220	...! Que diabos?
 594180159	...! Uau, lá!
 1882175810	...! Ei!
 1878089138	Você não tem negócios aqui!
 92706801	Hiding in here, are we?
-315163902	Saia daqui, imbecil!
+315163902	Saia daqui imbecil!
 1190801732	Poderia valer alguma coisa!
 871652227	Agora, de onde isso veio?
 189829232	Isso não estava lá antes!
@@ -8870,7 +8870,7 @@ Portuguese	Português(BR)
 499272758	Parece que ela não foi muito longe, hein!
 1643319938	Sim, ela é a única.
 260523217	Você é o traidor.
-1149841042	Era você, não era?.
+1149841042	Era você, não era?
 431189211	Aqui está o maldito.
 89735425	Te encontrei, idiota.
 485741451	Eu vou lidar com ele mais tarde.
@@ -8930,7 +8930,7 @@ Portuguese	Português(BR)
 807861649	Isso vai ser doloroso.
 413690976	Tudo bem, quem era aquele?
 1355395483	Quem diabos fez isso?
-576987870	Ok, Onde está o palhaço que me bateu?
+576987870	Ok, onde está o palhaço que me bateu?
 747216756	Oh, você vai me pagar.
 454064382	Não é tão corajoso agora, hein?!
 1970403084	Alguém aqui?
@@ -8956,7 +8956,7 @@ Portuguese	Português(BR)
 847831940	Frank vai adorar isso.
 56058455	É demais para você, garoto!
 592361169	Deveria ter ficado no seu vagão.
-235504557	Este é o nosso trem agora!
+235504557	Este trem é nosso!
 1099518600	Fique longe do nosso saque!
 1324953860	Somos a gangue da Big Ann! É melhor você correr!
 926895976	Você mexeu com um homem da companhia.
@@ -8981,7 +8981,7 @@ Portuguese	Português(BR)
 794874247	Você será um bom alvo na pratica de tiro ao alvo.
 2048628440	Pegamos o seu pai. Melhor desistir.
 246410298	Oh, Frank vai gostar de você!
-1856540338	Saia daí, garoto! Eu não mordo.
+1856540338	Saia daí garoto! Eu não mordo.
 946495102	He he, isso vai ser divertido.
 961536825	O xerife quer falar com você!
 1198645430	Esta é uma investigação oficial!
@@ -9072,7 +9072,7 @@ Portuguese	Português(BR)
 191128027	Provavelmente falando merda.
 714021119	Tudo bem. Como você quiser.
 939177021	Aí está você! Jesus Cristo!
-513565452	Encontrei você! Qual é a grande idéia?
+513565452	Encontrei você! Qual é a grande ideia?
 83534620	Ufa. Você me assustou!
 1598984520	Merda, o que aconteceu?
 1519404012	Merda.
@@ -9163,12 +9163,12 @@ Portuguese	Português(BR)
 2130288067	Quem precisa de armas...
 81023788	Pronto para uma surra...
 203384122	Heh venha aqui canalha...
-802813699	claro.
+802813699	Claro.
 468596249	Eu vou.
 852513673	Entendido.
 1074365083	Ai sim.
 760432318	Uh huh.
-118522792	sim.
+118522792	Sim.
 1776110710	Siiim.
 1759843603	E-então eu vou.
 1223254440	OK.
@@ -9215,7 +9215,7 @@ Portuguese	Português(BR)
 620632316	Chega de surpresas!
 957538516	Eles estão fugindo!
 316892044	Filho da puta sorrateiro!
-450744133	Temos que pega-los!
+450744133	Temos que os pegar!
 1332778121	Eu sei que eles estão aqui. Continue olhando.
 144645111	Quem os encontrar, fiquem com suas coisas.
 1113156163	Esqueça. Eles foram embora. 
@@ -9314,7 +9314,7 @@ Portuguese	Português(BR)
 2078215098	Essa foi uma noite selvagem.
 1757570807	Malditos aqueles estranhos.
 1046993634	Terceira captura este mês.
-260044012	Eu gosto da garotas.
+260044012	Eu gosto da garota.
 1844813644	Apenas fazendo o meu trabalho.
 1250326677	Eu gosto da cidade
 1672377304	Malditos pântanos.
@@ -9326,7 +9326,7 @@ Portuguese	Português(BR)
 184791831	No meio do nada.
 1458548270	Nós vamos pegá-los.
 538629131	Merda, está quente.
-1772219422	Dobrar o pagamento,he, he.
+1772219422	Dobrar o pagamento, he, he.
 2093659069	Quem precisa de Frank.
 298655280	Esta é a vida.
 1789775162	Assim como nos bons velhos tempos.
@@ -9380,7 +9380,7 @@ Portuguese	Português(BR)
 1883688680	Não tenho certeza. 
 1989334368	Você viu aquele cara?
 1354439957	Sim. Maldito caçador de recompensas.
-1858462346	Alguma idéia do que está acontecendo?
+1858462346	Alguma ideia do que está acontecendo?
 1936445947	Eu digo que eles são as bruxas do pântano.
 269945475	Você acha que é verdade? O diabo?
 1029146633	Inferno, eu não quero pensar nisso.
@@ -9427,7 +9427,7 @@ Portuguese	Português(BR)
 442175884	Não deve ser difícil identificá-la em um vestido de noiva.
 1377363226	Nós não a vimos. Vamos vigiar.
 1040101000	Atirou nele com aquela velha espingarda do escritório.
-1493221992	Droga. Que pena que temos que mata-la.
+1493221992	Droga. Que pena que temos que matá-la.
 1681128826	O'Hara está fugindo! Mantenha seus olhos abertos.
 109149626	Ela realmente matou Higgins? Uau...
 2005113553	Cabelo ruivo, vestido de noiva coberto de sangue... 
@@ -9474,7 +9474,7 @@ Portuguese	Português(BR)
 1703626571	Você não está na lista de convidados.
 2134217577	O prefeito está ocupado. Volte mais tarde.
 70736615	Você não tem um encontro marcado.
-1853436739	Negócios da companhia. Fique ai.
+1853436739	Negócios da companhia. Fique aí.
 2077293618	Você não tem negócios aqui. Vá embora.
 322602354	Somente o pessoal da companhia entra aqui.
 1784616748	A partir daqui você não passa, escória.
@@ -9490,7 +9490,7 @@ Portuguese	Português(BR)
 334512616	Ei, eu te disse!
 355354772	Espere, isso não está certo!
 1796074906	Ei, o que você está fazendo?
-717860675	Voce esta falando serio?
+717860675	Você está falando sério?
 1935007016	Pare com isso, imbecil!
 1817230699	Você se acha muito engraçado.
 1227873196	Temos um palhaço aqui!
@@ -9519,7 +9519,7 @@ Portuguese	Português(BR)
 699781921	O que aconteceu com os reforços?
 1332338745	Não há reforços! Acabou-se!
 936296200	Você entendeu isso, certo?
-299194028	Nós estamos indo embora. Diverta-se.
+299194028	Nós estamos indo embora. Divirta-se.
 689682058	Nós terminamos aqui. Até mais.
 958490742	Você vai cuidar disso.
 78999817	Bem, aqui deixamos para você.
@@ -9657,7 +9657,7 @@ Portuguese	Português(BR)
 76132838	Invasão, hein?!
 183543478	Você não tem negócios aqui!
 626003957	Você não pertence aqui!
-1810666424	Você não é bem vindo aqui!
+1810666424	Você não é bem-vindo aqui!
 681922534	Há outro!
 389715219	Ele é apenas um garoto!
 584392267	Procurando pelo seu pai?
@@ -9672,7 +9672,7 @@ Portuguese	Português(BR)
 797774459	Espionando a companhia?!
 194710690	Bisbilhotando, hein?!
 1097054787	Perdido?! Deixe-me ajudá-lo!
-1929730827	Você não são da companhia!
+1929730827	Você não é da companhia!
 29268740	Defenda o Ninho!
 499799722	Veja! Carne fresca!
 1430588001	Você é comida de jacaré!
@@ -9715,7 +9715,7 @@ Portuguese	Português(BR)
 233457239	...! Ei!
 1376309783	Este não é o lugar para você!
 1715885406	Você estava se escondendo aqui, hein?
-1778556117	Saia daqui, imbecil!
+1778556117	Saia daqui imbecil!
 1170818665	Poderia valer alguma coisa!
 1279255848	Agora, de onde isso veio?
 1804843125	Isso não estava lá antes!
@@ -9796,7 +9796,7 @@ Portuguese	Português(BR)
 776322957	Isso vai ser doloroso.
 495908380	Tudo bem, quem era aquele?
 2060149827	Quem diabos fez isso?
-1201462751	Ok, Onde está o palhaço que me bateu?
+1201462751	Ok, onde está o palhaço que me bateu?
 926717260	Oh, você vai me pagar.
 1577941305	Não é tão corajoso agora, hein?!
 1763889908	Alguém aqui?
@@ -9822,7 +9822,7 @@ Portuguese	Português(BR)
 1803238546	Frank vai adorar isso.
 1352172443	É demais para você, garoto!
 410102224	Deveria ter ficado no seu vagão.
-14513467	Este é o nosso trem agora!
+14513467	Este trem é nosso!
 1979302900	Fique longe do nosso saque!
 1472119620	Somos a gangue da Big Ann! É melhor você correr!
 977892023	Você mexeu com um homem da companhia.
@@ -9847,7 +9847,7 @@ Portuguese	Português(BR)
 161046953	Você será um bom alvo na pratica de tiro ao alvo.
 910429965	Pegamos o seu pai. Melhor desistir.
 970401558	Oh, Frank vai gostar de você!
-2084436998	Saia daí, garoto! Eu não mordo.
+2084436998	Saia daí garoto! Eu não mordo.
 1783795555	He he, isso vai ser divertido.
 1894084286	O xerife quer falar com você!
 1750432226	Esta é uma investigação oficial!
@@ -9938,7 +9938,7 @@ Portuguese	Português(BR)
 1648911463	Provavelmente falando merda.
 315944893	Tudo bem. Como você quiser.
 571664	Aí está você! Jesus!
-753383290	Encontrei você! Qual é a grande idéia?
+753383290	Encontrei você! Qual é a grande ideia?
 761950106	Ufa. Você me assustou!
 1597307800	Merda, o que aconteceu?
 1337011668	Bem, merda.
@@ -10070,9 +10070,9 @@ Portuguese	Português(BR)
 376068026	Vocês não estão se escondendo! Espalhem-se!
 383108075	Oh, vamos te encontrar! Vamos lá, rapazes.
 1921492934	Eles estão aqui! Procurem em todos os lugares!
-1328362070	Temos encrenqueiros aqui. Vamos encontrar-los.
+1328362070	Temos encrenqueiros aqui. Vamos encontrár-los.
 545284583	Heh, eles acham que podem se esconder! Encontre-os!
-48904288	Continue procurando! Temos que encontrar-los!
+48904288	Continue procurando! Temos que encontrár-los!
 1798579868	Eles devem estar aqui, em algum lugar!
 348703373	Alguém encontrou alguma coisa?
 1121870051	Merda, não os deixe escapar!
@@ -10133,7 +10133,7 @@ Portuguese	Português(BR)
 222904239	Seu cão sortudo.
 1026426598	Olhe para você!
 32302898	Bastardo sortudo.
-1379183603	Sim, vocês dois divertam-se.
+1379183603	Sim, vocês dois divirtam-se.
 49296558	Desculpe, tenho que voltar.
 1864937448	Vamos fazer isso mais tarde, ok?
 1440704666	Merda, eu tenho que voltar.
@@ -10159,7 +10159,7 @@ Portuguese	Português(BR)
 1668449216	...
 1804882496	...
 1997425982	Saúde!
-852731918	Heh, Virem tudo!
+852731918	Heh, virem tudo!
 74058018	Até a última gota!
 2045905136	Hoje é dia de encher a cara!
 465001388	O Frank está de bom humor.
@@ -10175,7 +10175,7 @@ Portuguese	Português(BR)
 1671442724	Maldita chuva.
 563897637	...! Que rancho enorme.
 655177414	Estou congelando...
-575942559	Hah... Está frio aqui fora;...
+575942559	Hah... Está frio aqui fora...
 514845570	Tenho que manter meus olhos abertos.
 528123082	Frank está putaço.
 419430509	Essa foi uma noite daquelas.
@@ -10201,7 +10201,7 @@ Portuguese	Português(BR)
 836523643	Bom.
 996293235	Ei.
 284118184	Como está indo?
-1128227625	Tudo bem ai?
+1128227625	Tudo bem aí?
 1615413794	Sim, claro.
 1962349460	Está acontecendo alguma coisa?
 1357936223	Não.
@@ -10247,7 +10247,7 @@ Portuguese	Português(BR)
 264087932	Não posso ter certeza, então fique atento.
 986757467	Você vê o cara?
 821083640	Sim. Maldito caçador de recompensas.
-2124300031	Alguma idéia do que está acontecendo?
+2124300031	Alguma ideia do que está acontecendo?
 1956349303	Aposto nas bruxas do pântano.
 1552781195	Você acha que é verdade? O verdadeiro diabo?
 214174165	Não quero pensar nisso.
@@ -10344,9 +10344,9 @@ Portuguese	Português(BR)
 1325910655	Negócios da companhia. Fique longe.
 1792941813	Não há nada da sua conta aqui. Sai fora.
 2129695484	Não se aproxime. Somente empregados.
-148756671	Você não vai sair daqui, desgraça.
+148756671	Você não vai sair daqui desgraça.
 1252027140	Volte para sua barraca, imbecil.
-918116182	Nuh uh. Ligaremos para você quando for o seu turno.
+918116182	Não uh. Ligaremos para você quando for o seu turno.
 429496633	Desculpe, esta área está fora dos limites para os hóspedes.
 226362641	Fique com os outros convidados, sim.
 103925047	Este não é o caminho para a festa, entendeu?
@@ -10544,7 +10544,7 @@ Portuguese	Português(BR)
 392599331	Cansado de cavar, hein?!
 1142734848	Você não vai deixar este lugar!
 2058003885	Sua pequena excursão termina aqui!
-563141744	Pensou que deixaria-mos você fugir?!
+563141744	Pensou que deixaríamos você fugir?!
 1137920410	DeVitt quer você morto!
 1724949525	Você não está na lista de convidados!
 544625261	Você não vai estragar esta festa!
@@ -10572,7 +10572,7 @@ Portuguese	Português(BR)
 447181357	Espere... quem está atrás de mim?
 1744777944	Espere... tem alguém atrás de mim?
 629612310	Alguém está por perto. Eu posso sentir isso...
-2081350342	Se me tocar eu eu te meto bala!
+2081350342	Se me tocar eu te meto bala!
 1085021774	Ai! O que é que foi isso?
 88277665	O que?! Sai fora!!
 533726951	Merda! Maldito sorrateiro!
@@ -10626,7 +10626,7 @@ Portuguese	Português(BR)
 2095817478	Ei, acorde, dorminhoca!
 2085200119	Dormiu bem? Levante-se!
 1629890106	Aí está você! Maldito preguiçoso!
-1541838480	Ai está.
+1541838480	Aí está.
 1587524749	Você viu quem te amarrou?
 1512968475	Havia algo!
 400357968	Hein?
@@ -10686,7 +10686,7 @@ Portuguese	Português(BR)
 117686383	Não vou te machucar, prometo!
 1177441163	Você deveria ter corrido.
 224694172	Perdeu sua chance de ficar quieto!
-1564626914	Fique longe do nossos pertences!
+1564626914	Fique longe do nosso saque!
 1344683649	Somos a gangue da Big Ann! É melhor você correr!
 267236721	Você começou uma briga com uma garota da companhia.
 1139045779	É melhor você deixar Flagstone antes que eu te encontre.
@@ -10710,7 +10710,7 @@ Portuguese	Português(BR)
 1665526397	Vândalos sujos, saiam!
 790672111	Você não quer que machuquemos seu pai, não é?
 807179287	Oh, Frank vai gostar de você!
-85462254	Saia daí, garoto! Eu não mordo.
+85462254	Saia daí garoto! Eu não mordo.
 1988259407	Aposto que o papai está orgulhoso de você...
 1785647156	Saiam daí seus demônios!
 877661728	Apareçam! Mãos ao alto!
@@ -10904,7 +10904,7 @@ Portuguese	Português(BR)
 573873862	Você tem razão.
 1864138381	Eu realmente deveria fazer isso.
 1629262062	Não sei como...
-1563645213	Nah...
+1563645213	Não...
 767507631	Não pense assim...
 19156130	Melhor não.
 1726858841	Não vejo uma maneira...
@@ -10988,7 +10988,7 @@ Portuguese	Português(BR)
 1219650760	Ai. Malditas pragas.
 494481073	Maldita garota... Desperdiçando sua vida aqui.
 1313845231	Ahh... Minha bota tem um buraco...
-1448544098	A qualquer segundo... algo poderia acontecer... Nah...
+1448544098	A qualquer segundo... algo poderia acontecer... Não...
 1187644815	Mmmh... se eu conseguir um aumento de salário...?
 336705905	Uh... ainda não é hora?
 76388864	Todos quietos...
@@ -11051,7 +11051,7 @@ Portuguese	Português(BR)
 1529310217	Tudo bem?
 963681716	Tudo bem.
 1508522561	Algo incomum?
-633737311	Nah, na verdade não.
+633737311	Não, na verdade não.
 893184860	Você fuma?
 266091656	Não, obrigado.
 283958749	Vamos sair para beber mais tarde.
@@ -11094,7 +11094,7 @@ Portuguese	Português(BR)
 205911424	Não posso ter certeza. Fique alerta.
 210292537	Você vê o cara?
 610729880	Sim. Maldito caçador de recompensas.
-2009092597	Alguma idéia do que está acontecendo?
+2009092597	Alguma ideia do que está acontecendo?
 1589568954	Eu aposto que são as bruxas do pântano.
 822150051	Você acha que é real? O verdadeiro diabo?
 1367509472	Eu não quero pensar nisso.
@@ -11233,7 +11233,7 @@ Portuguese	Português(BR)
 1589875039	O que aconteceu com o reforços?
 384706512	Sem reforços! É isso!
 1409839293	Você entendeu isso, certo?
-222357951	Nós estamos fora. Diverta-se.
+222357951	Nós estamos fora. Divirta-se.
 418976661	Nós terminamos aqui. Até mais.
 544491675	Você vai cuidar disso.
 1311049455	Vamos deixar você com isso.
@@ -11563,7 +11563,7 @@ Portuguese	Português(BR)
 1534378569	Você será um bom alvo na pratica de tiro ao alvo.
 1655546822	Pegamos o seu pai. Melhor desistir.
 1219979433	Oh, Frank vai gostar de você!
-1682392739	Saia daí, garoto! Eu não mordo.
+1682392739	Saia daí garoto! Eu não mordo.
 900819364	He he, isso vai ser divertido.
 1862869233	O xerife quer falar com você!
 1502161796	Esta é uma investigação oficial!
@@ -11661,7 +11661,7 @@ Portuguese	Português(BR)
 1933660529	Provavelmente falando merda.
 709473901	Tudo bem. Como você quiser.
 144505229	Aí está você! Jesus!
-1487711518	Encontrei você! Qual é a grande idéia?
+1487711518	Encontrei você! Qual é a grande ideia?
 1280119929	Ufa. Você me assustou!
 1619249083	Merda, o que aconteceu?
 2032105429	Bem, merda.
@@ -11935,7 +11935,7 @@ Portuguese	Português(BR)
 906426010	Está tudo bem?
 113033045	Sim, claro.
 1464693560	Está acontecendo alguma coisa?
-499663911	Nah.
+499663911	Não.
 234643763	Tem um cigarro?
 10511355	Não.
 1858702055	Quer tomar uma bebida mais tarde?
@@ -11978,7 +11978,7 @@ Portuguese	Português(BR)
 2100807803	Não tenho certeza. Fique atento.
 1987021364	Você vê o cara?
 661503340	Sim. Maldito caçador de recompensas.
-238490698	Alguma idéia do que está acontecendo?
+238490698	Alguma ideia do que está acontecendo?
 1986327888	Aposto que são bruxas do pântano.
 927594118	Você acha que é verdade? O verdadeiro diabo?
 2017553315	Não quero pensar nisso.
@@ -12316,7 +12316,7 @@ Portuguese	Português(BR)
 642153078	Não caio nessa.
 301062426	Não me interessa.
 1440143595	Não quero saber.
-26058279	Nah, parece inútil.
+26058279	Não, parece inútil.
 1592927708	Heh, sim, certo.
 1553674945	Eu vou ficar aqui, obrigado.
 1810185525	Não vou cair nessa.
@@ -12425,7 +12425,7 @@ Portuguese	Português(BR)
 1043674957	Eu não vou te machucar, muito!
 1638219452	Você deveria correr.
 193306324	Perdeu sua chance de correr!
-625915492	Fique longe dos nosso pertences!
+625915492	Fique longe do nosso saque!
 1399618769	Somos a gangue da Big Ann! É melhor você correr!
 888475266	Você brigou com a mulher errada!
 460571162	É melhor você deixar Flagstone antes que eu te encontre.
@@ -12538,7 +12538,7 @@ Portuguese	Português(BR)
 912709596	Tem muito o que fazer aqui.
 1977560316	É melhor eu ficar aqui.
 1034830951	Agora penso nisso... com o que me importo?
-887204324	Nah, isso é demais.
+887204324	Não, isso é demais.
 1799678180	Não estou sendo pago o suficiente por isso.
 1967377616	Ooooii? Cadê você?
 1692344080	Seja o que for que eu fiz, me desculpe, tá?!
@@ -12650,7 +12650,7 @@ Portuguese	Português(BR)
 325003996	Você está certo.
 1767302354	Eu realmente deveria fazer isso.
 989605824	Não sei como...
-1771378008	Nah...
+1771378008	Não...
 1927628735	Acho que não...
 1044763481	Melhor não.
 1724107039	Não vejo uma maneira...
@@ -12738,7 +12738,7 @@ Portuguese	Português(BR)
 1015962781	Ouch. Malditos insetos.
 1032173754	Maldita garota... Desperdiçando sua vida aqui.
 1865007238	Ugh... Minha bota tem um buraco...
-140417261	A cada segundo... algo poderia acontecer... Nah...
+140417261	A cada segundo... algo poderia acontecer... Não...
 1778704973	Se eu conseguir um aumento de salário... Mmh.
 1122425201	Uh... ainda não é hora?
 395711206	Tudo tranquilo...
@@ -12801,7 +12801,7 @@ Portuguese	Português(BR)
 635073269	Tudo bem?
 288191612	Parece bom.
 1989339444	Algo incomum?
-1945214623	Nah, na verdade não.
+1945214623	Não, na verdade não.
 1850772892	Você fuma?
 2035457045	Não, eu parei.
 1994301584	Vamos tomar um uísque mais tarde.
@@ -12844,7 +12844,7 @@ Portuguese	Português(BR)
 1919279203	Não tenho certeza.
 1813362933	Você vê o cara?
 245320565	Sim. Maldito caçador de recompensas.
-2034542664	Alguma idéia do que está acontecendo?
+2034542664	Alguma ideia do que está acontecendo?
 811705492	Eu aposto que são as bruxas do pântano.
 150824504	Você acha que as coisas do diabo são verdadeiras?
 1252164735	Corte o papo-furado!
@@ -13306,7 +13306,7 @@ Portuguese	Português(BR)
 154533796	Frank vai adorar isso.
 530376981	É demais para você, garoto!
 1752226415	Deveria ter ficado no seu vagão.
-865498061	Este é o nosso trem!
+865498061	Este trem é nosso!
 1801027145	Fique longe do nosso saque!
 1450078597	Somos a gangue da Big Ann! É melhor você correr!
 101248001	Você mexeu com um homem da companhia.
@@ -13331,7 +13331,7 @@ Portuguese	Português(BR)
 51884184	Você será um bom alvo na pratica de tiro ao alvo.
 2101836078	Pegamos o seu pai. Melhor desistir.
 1028617365	Oh, Frank vai gostar de você!
-228687275	Saia daí, garoto! Eu não mordo.
+228687275	Saia daí garoto! Eu não mordo.
 939759355	He he, isso vai ser divertido.
 1485394384	O xerife quer falar com você!
 1055103250	Esta é uma investigação oficial!
@@ -13429,7 +13429,7 @@ Portuguese	Português(BR)
 558262880	Provavelmente falando merda.
 57710055	Tudo bem. Como você quiser.
 1840181082	Aí está você! Jesus!
-619059863	Encontrei você! Qual é a grande idéia?
+619059863	Encontrei você! Qual é a grande ideia?
 1974301249	Ufa. Você me assustou!
 1926199551	Porra, o que aconteceu?
 1062910935	Bela merda.
@@ -13698,7 +13698,7 @@ Portuguese	Português(BR)
 2017405628	Está tudo bem?
 68491899	Sim, claro.
 869254405	Está acontecendo alguma coisa?
-1578754087	Nah.
+1578754087	Não.
 136872690	Você tem um cigarro?
 1333391666	Desculpe.
 451710747	Quer tomar uma mais tarde?
@@ -13741,7 +13741,7 @@ Portuguese	Português(BR)
 1556396043	Não tenho certeza. Fique atento.
 843921976	Você vê o cara?
 1870759258	Sim. Maldito caçador de recompensas.
-2040304135	Alguma idéia do que está acontecendo?
+2040304135	Alguma ideia do que está acontecendo?
 1072972777	Aposto que são as bruxas do pântano.
 318658455	Você acha que é verdade? O diabo?
 398370780	Besteira.
@@ -14596,7 +14596,7 @@ Portuguese	Português(BR)
 888651243	Você quer uma bebida mais tarde?
 1396553097	Claro.
 297516615	Algum problema?
-634412588	Nah.
+634412588	Não.
 675115197	Você quer jogar pôquer mais tarde?
 1220737273	Heh, sempre.
 678278154	Como foi?
@@ -14633,7 +14633,7 @@ Portuguese	Português(BR)
 933846796	Não há como saber, portanto, esteja alerta.
 1835147000	Você viu aquele cara?
 1036207264	Sim. Maldito caçador de recompensas.
-783829071	Alguma idéia do que está acontecendo?
+783829071	Alguma ideia do que está acontecendo?
 371923642	Eu digo que eles são as bruxas do pântano.
 2114089369	Você acha que é verdade? O verdadeiro diabo?
 839500131	Eu não quero pensar nisso.
@@ -15076,7 +15076,7 @@ Portuguese	Português(BR)
 414070090	Você quer beber mais tarde?
 421142466	Claro que sou.
 1865588823	Qualquer problema?
-793717695	Nah, nada.
+793717695	Não, nada.
 836637711	Você vai jogar pôquer mais tarde?
 571639356	Por que não.
 715152438	Como foi?
@@ -15113,7 +15113,7 @@ Portuguese	Português(BR)
 268694333	Não posso ter certeza. Seja cuidadoso.
 1548456137	Você vê o cara?
 1385877758	Sim. Maldito caçador de recompensas.
-1648383777	Alguma idéia do que está acontecendo?
+1648383777	Alguma ideia do que está acontecendo?
 688417624	Na minha opinião, elas eram as bruxas do pântano.
 1934889879	Você acha que é verdade? O verdadeiro diabo?
 354422264	Eu não quero pensar nisso.
@@ -15595,7 +15595,7 @@ Portuguese	Português(BR)
 289527255	Não está claro.
 1403172243	Você viu o homem?
 220568750	De fato. Um grande caçador de recompensas.
-1345606494	Alguma idéia sobre o que está acontecendo?
+1345606494	Alguma ideia sobre o que está acontecendo?
 1690547777	Na minha opinião, elas eram as bruxas do pântano.
 911229729	Você acha que é verdade? O próprio diabo?
 1857900652	Prefiro não pensar nisso.
