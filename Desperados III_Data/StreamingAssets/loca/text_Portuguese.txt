@@ -10743,10 +10743,10 @@ Portuguese	Português(BR)
 901409971	Algo me diz que você não foi convidado.
 54236550	Esta é propriedade privada!
 1553926137	Perturbando os convidados, não é?
-2029206561	Saia dai... Frank está ansioso para vê-lo...
+2029206561	Saia daí... Frank está ansioso para vê-lo...
 779333142	Frank nos disse que você viria.
 963638381	Eu não vou cair sem lutar!
-1172043448	Saia dai... Frank está querendo te ver...
+1172043448	Saia daí... Frank está querendo te ver...
 475701054	Talvez neste arbusto...
 263080542	Escondido nos arbustos, hein...?
 1836673666	É melhor você não estar ai!
@@ -10878,7 +10878,7 @@ Portuguese	Português(BR)
 193681836	...
 136319260	Estranho... sussurros...
 1295884635	Estou meio embriagado...
-1882533400	Quem esta falando ai...?
+1882533400	Quem está falando aí...?
 744601751	Que tontura...
 1762080388	Sussurros na minha cabeça?
 139051152	Eu não me sinto bem...
@@ -11047,7 +11047,7 @@ Portuguese	Português(BR)
 575734296	Como vai você?
 1519935307	O mesmo de sempre, querida.
 704699572	Bom dia.
-345234162	Hey there.
+345234162	Olá
 1529310217	Tudo bem?
 963681716	Tudo bem.
 1508522561	Algo incomum?
@@ -11183,7 +11183,7 @@ Portuguese	Português(BR)
 44889663	Eu nunca te vi. Dá o fora!
 1102280353	Ouça, não queremos pessoas como você lá.
 1730552887	Isto é propriedade da Companhia. Então desaparece.
-264366147	Private property. Out with you.
+264366147	Propriedade privada. Fora daqui.
 1507272777	Este lugar não é para você.
 162495663	Ah... Não consigo encontrá-lo na lista de convidados...
 857210656	O prefeito está ocupado. Volte mais tarde.
@@ -11204,7 +11204,7 @@ Portuguese	Português(BR)
 495037459	Pare por aí!
 967536671	Ei! Isso não está certo!
 736679735	Espere... O que você está fazendo aí?
-238695807	você está tramando algo
+238695807	Você está tramando algo.
 1386713752	Tentando chamar atenção, não é?
 416095395	Eu vi isso, brincalhão...
 533399097	Mantenha seus truques fora da cidade!
@@ -11230,7 +11230,7 @@ Portuguese	Português(BR)
 536744783	Merda! Não há backup!
 1557696297	Os reforços acabaram. Droga!
 105752394	Somos nós contra eles, garotos.
-1589875039	O que aconteceu com o reforços?
+1589875039	O que aconteceu com os reforços?
 384706512	Sem reforços! É isso!
 1409839293	Você entendeu isso, certo?
 222357951	Nós estamos fora. Divirta-se.
@@ -11327,7 +11327,7 @@ Portuguese	Português(BR)
 1644297817	Q-que diabos aconteceu?
 1574773459	Q-que?! O que o atingiu?
 1773338847	I-isso não é normal!
-179828892	O que é essa merda de voodoo !
+179828892	O que é essa merda de voodoo!
 1192854223	O trabalho do diabo!
 1273032330	Magia negra.
 283549206	A-Algo está errado com você!
@@ -11421,12 +11421,12 @@ Portuguese	Português(BR)
 1861281985	Espera... tem alguém atrás de mim?
 1966516232	Estranho... sinto como se alguém estivesse perto de mim.
 1294169941	...! Pare com isso!
-1686037876	...! mas que diabos?
+1686037876	...! Mas que diabos?
 802576749	...! Eh, eh!
 1906703018	...! Ei!
 1099360885	Você não tem negócios aqui!
 1236765974	Você estava se escondendo aqui, hein?
-1969236356	Saia daqui, imbecil!
+1969236356	Saia daqui imbecil!
 1627765375	Pedaço de lixo.
 1468437642	Não estou apaixonada por isso.
 1556831520	Não é importante.
@@ -11502,7 +11502,7 @@ Portuguese	Português(BR)
 550247435	O que eu estou fazendo?
 1077324200	Deixa pra lá.
 1419908295	Isso é estúpido.
-1207272647	Claro, fique a vontade.
+1207272647	Claro, fique á vontade.
 1758522976	Não vale o meu tempo.
 1255156747	Acabe logo com isso!
 1058052522	Não pense que você pode se esconder!
@@ -11804,11 +11804,11 @@ Portuguese	Português(BR)
 525890803	Sem mais surpresas!
 997491671	Eles estão fugindo!
 693235356	Filhos da puta sorrateiros!
-1361280245	Temos que força-los a aparecerem!
+1361280245	Temos que os forçar a aparecerem!
 53090081	Eu sei que eles estão aqui. Continuem procurando.
 1754491260	Peguem as suas coisas caso os encontre.
 1864459642	Esqueça. Eles foram embora.
-310819799	Foda-se. Eles já devem estar longe agora.
+310819799	Foda-se. Eles já devem estar longes agora.
 740677189	Nós os perdemos. Parem de procurar.
 141403099	Esqueçam, rapazes. Eles escaparam.
 427122702	Bem, isso foi uma perda de tempo do caralho. De volta ao trabalho.
@@ -11954,7 +11954,7 @@ Portuguese	Português(BR)
 1885776851	Heh, não ajudou.
 1565385502	Você vê Big Ann?
 1130350609	Ela está no platô.
-16843546	Os locais criaram algum problemas?
+16843546	Os locais criaram algum problema?
 556107838	Você deve estar brincando comigo!
 1736303003	Como você aguenta?
 1120145463	Outro dia neste lugar de merda.
@@ -12075,7 +12075,7 @@ Portuguese	Português(BR)
 72625259	Negócios da companhia. Não se aproxime.
 2080317567	Vocês não têm negócios aqui. Afaste-se.
 682819404	Recue. Somente homens da companhia.
-1305094070	Você não vai sair daqui, seu bosta.
+1305094070	Você não vai sair daqui seu bosta.
 318248945	Volte para sua barraca, imbecil.
 1388502790	Nuh uh. Ligaremos para você quando for o seu turno.
 180048053	Esta área está fora dos limites para os hóspedes.
@@ -12189,7 +12189,7 @@ Portuguese	Português(BR)
 567563970	Pegadas no chão...
 2135053781	Alguém deixou pegadas aqui!
 1829098127	Hein? A luz se apagou?
-917899538	Hein? esse foi o vento?
+917899538	Hein? Esse foi o vento?
 54185083	Muito engraçado. Apagando as luzes...
 820242710	Estranho, a luz apagou...
 574608495	Você pagará por isso!
@@ -12296,7 +12296,7 @@ Portuguese	Português(BR)
 90410564	É aquele médico idiota!
 1892165064	McCoy está aqui!
 1721102375	Aqui! É a bruxa!
-1763878841	Páre aí, sua putinha do voodoo!
+1763878841	Pare aí, sua putinha do voodoo!
 14896856	É Moreau!
 1572805712	Ei, garoto! Você não deveria estar aqui!
 983666950	Pare onde está, garoto!
@@ -12388,7 +12388,7 @@ Portuguese	Português(BR)
 1519494154	O que estou fazendo?
 2029546391	Deixa pra lá.
 1702548434	Isso é estúpido.
-623735740	Claro, fique a vontade.
+623735740	Claro, fique á vontade.
 1011320602	Perca de tempo.
 1278952533	Acabe logo com isso!
 1567716550	Brincando de esconde-esconde?
@@ -12446,7 +12446,7 @@ Portuguese	Português(BR)
 1351919880	Vocês são os idiotas de Flagstone, não são?
 2023817769	Você está na propriedade da Companhia DeVitt.
 1554336056	Qual é a sua? Sabotar?
-26700762	Saiam seu vermes asquerosos!
+26700762	Saia seu verme asqueroso!
 1875895642	Você não quer que machuquemos seu pai, não é?
 346760007	Oh, Frank vai gostar de você!
 1465893910	Saia, garoto! Eu não mordo.
@@ -12531,7 +12531,7 @@ Portuguese	Português(BR)
 977727650	Isso é um pouco longe.
 436618313	Bem, eu vou ficar aqui.
 510029038	Não estou afim de andar.
-854383710	Estou indo bem aqui aqui fora.
+854383710	Estou bem aqui.
 321707817	Eu vou ficar lá fora.
 639954443	Não é possível entrar lá agora.
 1087193122	Não estou afim de ver o sol!
@@ -12543,8 +12543,8 @@ Portuguese	Português(BR)
 1967377616	Ooooii? Cadê você?
 1692344080	Seja o que for que eu fiz, me desculpe, tá?!
 292881560	Muito engraçado, se escondendo de mim! Hahaha...
-866132850	Hm...  foi ao banheiro, eu aposto.
-1838243228	Voltarei à tempo, eu imagino.
+866132850	Hm... Foi ao banheiro, eu aposto.
+1838243228	Voltarei ha tempo, eu imagino.
 616888592	Tudo bem, tudo bem. Como quiser, seu idiota.
 1071422103	Você esteve aqui o tempo todo?!
 1467373019	Ei. Eu estava meio preocupado, você sabe.
@@ -12639,7 +12639,7 @@ Portuguese	Português(BR)
 892219241	Eu sempre quis fazer isso...
 120893961	He he... eu sou bom naquilo.
 685237752	Não é possível disparar reto. Mas eu não me importo.
-313702512	O-kay!
+313702512	O-ok!
 1137212406	Certamente.
 2089919342	Uh huh.
 1746246746	Tudo certo.
@@ -12661,8 +12661,8 @@ Portuguese	Português(BR)
 1902189458	Uhh... minhas mãos estão tremendo hoje...
 293216441	Firme... Firme...
 1447982419	Apenas... mirando...
-806171793	Só um...  tiro.
-1728700040	Aí... Aí... Fácil!
+806171793	Só um... tiro.
+1728700040	Aí... Aí... fácil!
 1504033223	Fique parado... por favor...
 891223207	...
 744049827	...
@@ -12679,7 +12679,7 @@ Portuguese	Português(BR)
 1449767983	Encurrale-os! Procurem em todo lugar!
 1606944567	Nós vamos encontrar cada um de vocês!
 328139414	Ok, pessoal! Desta vez, nós os pegamos!
-1114139344	Eles não podem nos enganar. Caçem-os!
+1114139344	Eles não podem nos enganar. Encontre-os!
 9434444	Eles estavam aqui um segundo atrás. Não pode ter ido longe!
 1036864669	Dividam-se, pessoal! Vão pegá-los!
 873357622	Continuem procurando! Temos que encontrá-los!
@@ -12689,7 +12689,7 @@ Portuguese	Português(BR)
 136402144	Vocês estão em menor número! Desistam!
 1323208067	Desistam, covardes! Nós estamos em vantagem!
 1540861264	Eles estão aqui! Eu sei disso!
-2061341918	Não podem ter ído longe. Continuem procurando!
+2061341918	Não podem ter ido longe. Continuem procurando!
 591413658	Vamos lá! Não podemos deixá-los escapar.
 1604681524	Mantenha suas armas prontas. Eles estão aqui!
 812266444	Eu sei que eles estão aqui. Continuem procurando.
@@ -12818,7 +12818,7 @@ Portuguese	Português(BR)
 724293522	Acabou ontem.
 897008110	Esses idiotas enviaram uma escolta dessa vez.
 894091878	Heh, não ajudou em nada.
-1826262396	Tá vendo a Big Ann?
+1826262396	Está vendo a Big Ann?
 1136829938	Ela está no platô.
 178549419	Os locais fizeram algum problema?
 450555212	Você deve estar brincando comigo!
@@ -12826,7 +12826,7 @@ Portuguese	Português(BR)
 785665126	O que você pensa desse buraco?
 158136934	Como está indo?
 643318950	Tudo pronto para o casamento.
-1306623871	Tá vendo o vestido da noiva?
+1306623871	Está vendo o vestido da noiva?
 566985537	Sim, eu quero um assim.
 256188490	Viu alguma coisa?
 265307573	Ghnn, ainda não.
@@ -13176,7 +13176,7 @@ Portuguese	Português(BR)
 1590441150	Vejo você, garoto!
 1740224072	Ei, garoto! Venha aqui!
 1240869261	É o delegado!
-1088330831	Hey! como você saiu?
+1088330831	Hey! Como você saiu?
 1409271796	Há algo errado... quem está aí?
 2033287915	Eh? Tem alguém atrás de mim?
 407390183	Estranho... é como se houvesse alguém ao meu lado.
@@ -13186,7 +13186,7 @@ Portuguese	Português(BR)
 1154691768	...! Ei!
 325730202	Você não pode estar aqui!
 1606452912	Nos escondendo aqui, não estamos?
-1739690842	Saia daqui, imbecil!
+1739690842	Saia daqui imbecil!
 223054289	Seu monte de lixo.
 1357306970	Não caio nessa.
 419563015	Não é importante.
@@ -13217,7 +13217,7 @@ Portuguese	Português(BR)
 2128455697	Lidaremos com você mais tarde.
 612099852	Ali. Agora fique aí parado.
 1649327224	Vou fazê-lo pagar por isso.
-971228111	Traidor. Se eu vê-lo novamente...
+971228111	Traidor. Se eu o ver novamente...
 310264523	Vou fazê-la pagar por isso.
 764482928	Traidora. Se eu a ver novamente...
 2045503104	Eu vou encontrar esse maldito traidor.
@@ -13514,11 +13514,11 @@ Portuguese	Português(BR)
 1705100342	...
 2065794327	Sinto-me estranho...
 1856187769	Que porra está acontecendo...?
-629035738	He he... Engraçado...
+629035738	He he... engraçado...
 1412917754	Vozes na minha cabeça...
 1930976128	Sussurros, sussurros...
-1584409714	Eu escuto... Tenho que escutar...
-34758344	Eu penso... Que porra eu penso?
+1584409714	Eu escuto... tenho que escutar...
+34758344	Eu penso... que porra eu penso?
 777639982	Oooh, eu estou bem...
 1412023748	Vejo tudo agora...
 136517876	Há mais alguém...
@@ -13540,10 +13540,10 @@ Portuguese	Português(BR)
 2142572755	Ok.
 1460262468	Beleza.
 1888926847	Uuuhhh...
-332788337	Onde... Como...
+332788337	Onde... como...
 1405077020	Eu... não sei...
-309622497	Não... Não, não...
-1915676404	Não... Não consigo ver...
+309622497	Não... não, não...
+1915676404	Não... não consigo ver...
 253093277	Dessa forma, né?
 94887154	Eu entendi...
 255359875	Sim, feito...
@@ -13551,7 +13551,7 @@ Portuguese	Português(BR)
 1758601474	Hm... não consigo ver direito...
 1177941489	Ali... Só tenho que...
 1501952853	Hrm... Pare de se mover...
-446926069	Parado... Parado...
+446926069	Parado... parado...
 772639236	Heh heh, está tudo embaçado...
 652502910	... Droga... Tenho que apontar...
 1666308083	...
@@ -13571,7 +13571,7 @@ Portuguese	Português(BR)
 1885445317	Oh, nós vamos te encontrar! Vamos lá, rapazes.
 296677509	Eles estão aqui! Procure em todo lugar!
 1621549540	Temos encrenqueiros aqui. Vamos encontrá-los.
-2017070135	Heh, eles acham que podem se esconder! Encontrem-os!
+2017070135	Heh, eles acham que podem se esconder! Encontre-os!
 1857645644	Eles devem estar por aqui em algum lugar!
 1706476624	Alguém encontrou alguma coisa?
 56517984	Merda, não os deixe fugir!
@@ -13580,7 +13580,7 @@ Portuguese	Português(BR)
 704530974	Chega de surpresas!
 1777892276	Eles estão fugindo!
 561570390	Filhos da puta sorrateiros!
-2109849059	Temos que força-los a aparecer!
+2109849059	Temos que os forçar a aparecerem!
 1036720883	Eu sei que eles estão aqui. Continue olhando.
 917780507	Se os encontrar peguem suas coisas.
 1285161623	Esqueça. Eles foram embora.
@@ -13653,7 +13653,7 @@ Portuguese	Português(BR)
 1175804934	...
 1069443567	...
 1500777083	Saúde!
-811332805	Heh, Tomem tudo!
+811332805	Heh, tomem tudo!
 1691548092	Até a última gota, garotos!
 1521151074	Vamos encher a cara!
 996172275	Frank é O CARA.
