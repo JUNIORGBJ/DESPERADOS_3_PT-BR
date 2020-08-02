@@ -5,7 +5,7 @@
 ## Notas
 Acredito que a tradução está praticamente finalizada. A partir de agora cabe a todos que forem jogar mandem sugestões de correções. Pode ainda haver alguns contextos errados.
 
-Não foi fácil pois a própria desenvolvedora ```Mimimi Games``` comunicou que a tradução seria complicada pois os textos são aleatórios dentro do arquivo de linguagem, assim dificultando o contexto das frases.
+Não foi fácil pois a própria desenvolvedora ```Mimimi Games``` comunicou que a tradução seria complicada, pois os textos são aleatórios dentro do arquivo de linguagem, assim dificultando o contexto das frases.
 
 
 <h1 align="center"><figure>
