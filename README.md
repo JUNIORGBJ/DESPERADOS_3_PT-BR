@@ -2,7 +2,10 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/DESPERADOS_3_PT-BR)](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR/releases/latest)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=flat&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
-<h1 align="center">:construction:Tradução em revisão:construction:</h1>
+## Notas
+Acredito que a tradução está praticamente finalizada. A partir de agora cabe a todos que forem jogar mandem sugestões de correções.
+
+Não foi fácil pois a própria ```MimiGames``` comunicou que a tradução seria complicada pois os textos são aleatórios dentro do arquivo de linguagem, assim dificultando o contexto das frases.
 
 <h1 align="center"><figure>
   <img src="DesperadosIII.png">
