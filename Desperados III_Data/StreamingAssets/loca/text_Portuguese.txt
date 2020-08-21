@@ -3131,7 +3131,7 @@ Portuguese	Português(BR)
 780963820	Outra partida?
 1334665606	Eu acho que estou bem.
 1145524796	Eu te avisei. Ele é um maldito trapaceiro.
-329291194	Como se eu tivesse que trair você.
+329291194	Como se eu tivesse que enganar você.
 978657549	Uh oh... finalmente!
 1761512886	Confie em mim, vale a pena esperar.
 615469602	Então, e o trem?
@@ -3278,7 +3278,7 @@ Portuguese	Português(BR)
 478403291	Vamos Cooper! Levante-se e brigue!
 1021256014	Ugh... Sinto como se tivesse sido chutado por um cavalo.
 530886839	Kate! Acorde.
-1344104697	Ei Kate! Aí estão vocês?
+1344104697	Ei Kate! Aí está você?
 730046734	Ah... Deus! Minha cabeça está estourando.
 899359207	Onde está o Doc?
 254775759	Precisamos conversar.
