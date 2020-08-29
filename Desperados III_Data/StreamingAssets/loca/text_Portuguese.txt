@@ -4367,15 +4367,15 @@ Portuguese	Português(BR)
 1812055617	A carta
 1216766042	Descubra qual suspeito leva uma carta de instruções.
 869863646	O Jackal: Carta
-1403263577	Alguém ligou "O Jackal" tem a letra.
+1403263577	Alguém ligou "O Jackal" tem a carta.
 170532765	O Jackal: Sem carta
 326485373	Alguém ligou "O Jackal" não tem a carta.
 1499747208	O Spider: Carta
-929415149	Alguém ligou "O Spider" tem a letra.
+929415149	Alguém ligou "O Spider" tem a carta.
 1558373128	O Spider: Sem carta
 412038303	Alguém ligou "O Spider" não tem a carta.
 2034919749	O Hawk: Carta
-1876282703	Alguém ligou "O Hawk" tem a letra.
+1876282703	Alguém ligou "O Hawk" tem a carta.
 1367827212	O Hawk: Sem carta
 1109918015	Alguém ligou "O Hawk" não tem a carta.
 1325523223	Elite atordoante com conexão
