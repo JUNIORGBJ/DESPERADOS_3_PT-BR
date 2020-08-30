@@ -1106,7 +1106,7 @@ Portuguese	Português(BR)
 1520900021	Juiz McGain
 31931305	O´Neill
 137554682	Sr. Irving
-2100952380	Bily o garoto
+2100952380	Bily the Kid
 1038617784	Mazen "Tiro Longo" Bilto
 159344247	Bertie Hill
 998679126	Bum Spencer
@@ -6081,7 +6081,7 @@ Portuguese	Português(BR)
 1118476791	Parece que estamos quase lá.
 1262640139	Lembrem-se, todos nós vamos nos encontrar no portão do cemitério. Ninguém entra sozinho.
 1514833812	Claro. Mas desta vez, vamos atirar na pessoa certa.
-384662888	Eu vou tentar.
+384662888	Pensarei sobre isso.
 1209646247	Você acha mesmo que eles virão?
 788946975	Frank disse que sim. E Frank geralmente está certo.
 176763436	Sabe… dessa vez espero que ele esteja enganado.
