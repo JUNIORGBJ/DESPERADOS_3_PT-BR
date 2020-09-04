@@ -212,8 +212,8 @@ Portuguese	Portugués(BR)
 1499250081	Guardando: No apagues tu sistema PlayStation®4 mientras se muestre este símbolo.
 352385758	Guardando: No cierres la partida mientras se muestre este símbolo.
 488026919	Visita nuestra tienda online si quieres comprar {0}
-289232529	Ir a Xbox Store
-1024096936	Ir a PlayStation®Store
+289232529	Ir a Microsoft Store
+1024096936	Ir a PlayStation™Store
 1214121497	Instalando contenido adicional: {0} %
 1657622959	La misión aún no se ha instalado
 1609842196	Algo ha fallado al cargar.
@@ -224,8 +224,8 @@ Portuguese	Portugués(BR)
 306408042	Se ha cambiado al perfil {0}. Volviendo al menú principal.
 1429086435	(+{0} más)
 1409730632	Pulsa cualquier tecla para empezar
-648045773	Esperando a PlayStation®Store
-442800743	Esperando a Xbox Store
+648045773	Esperando a PlayStation™Store
+442800743	Esperando a Microsoft Store
 128141297	Se ha producido un error en la red.
 681487417	Ajustes de vídeo
 1052460126	Ajustes de jugabilidad
@@ -1129,7 +1129,7 @@ Portuguese	Portugués(BR)
 1247916034	Perros
 384432610	Los <skill>perros</skill> pueden detectar a los personajes aunque estos estén escondidos en arbustos o a cubierto./nEn cuanto descubren a un personaje, atacan y se ponen a <skill>ladrar</skill>, lo cual atrae a otros guardias./nLos <skill>perros</skill> también detectan a Kate aunque lleve un disfraz.
 1542545570	Derringer
-589642151	Kate puede usar su Derringer para disparar a los guardias./nEl alcance es muy limitado, pero el ruido también...
+589642151	Kate puede usar su Derringer para disparar a los guardias./nEl alcance es muy limitado, pero el ruido también…
 774016983	Control mental
 111091774	Isabelle puede <skill>controlar mentalmente</skill> a los enemigos./nLes puede ordenar que <skill>ataquen</skill> a otros e <skill>interactúen</skill> con objetos./nLas acciones de los guardias bajo control mental <skill>nunca activan la alarma</skill>, pero, si alguien los ve actuar de forma <skill>sospechosa</skill>, atacarán.
 1381139210	Isabelle puede <skill>controlar mentalmente</skill> a los enemigos./nLes puede ordenar que <skill>ataquen</skill> a otros e <skill>interactúen</skill> con objetos./nLas acciones de los guardias bajo control mental <skill>nunca activan la alarma</skill>, pero, si alguien los ve actuar de forma <skill>sospechosa</skill>, atacarán.
@@ -16525,33 +16525,6 @@ Portuguese	Portugués(BR)
 1489351884	Kate puede disfrazarse aquí.
 1839200631	Muerte por entorno
 1427780181	Este objeto se puede usar para crear un accidente.
-1603078355	
-663543378	
-574096615	
-789341352	
-1091142676	
-1135000294	
-1873777461	
-941720566	
-1934154351	
-2029272716	
-1576341048	
-1421448555	
-69348585	
-2010793256	
-1006924099	
-1080858096	
-1994417064	
-1864776957	
-476223141	
-755438217	
-364741177	
-1634278010	
-370963810	
-2004505788	
-995441901	
-715430043	
-530774733	
 1236964701	Sonidos al guardar/cargar
 750239754	Activa efectos de sonido para guardar y cargar el juego.
 1544087171	Resaltador de contenido de caja
@@ -16821,7 +16794,7 @@ Portuguese	Portugués(BR)
 1416198937	Se han añadido nuevas misiones de desafío. ¿Responderás a la invitación del Barón?
 1184618820	Se han añadido nuevas misiones de desafío. Avanza más en la historia para desbloquearlas.
 522358041	La guerra por su cuenta
-495027837	Isabelle está comprando artículos en un herbolario, cuando descubre un sobre sellado en las estanterías. Tiene su nombre escrito en él./n/n«Mi querida Isabelle. Ha pasado mucho tiempo desde la última vez que trabajamos juntos. Mis clientes tienen una tarea sencilla para ti. Será mejor que no les hagamos esperar».Cuando el tendero regresa de la trastienda con las hierbas que ella había pedido, Isabelle ya ha salido por la puerta.
+495027837	Isabelle está comprando artículos en un herbolario, cuando descubre un sobre sellado en las estanterías. Tiene su nombre escrito en él./n/n«Mi querida Isabelle. Ha pasado mucho tiempo desde la última vez que trabajamos juntos. Mis clientes tienen una tarea sencilla para ti. Será mejor que no les hagamos esperar»./n/nCuando el tendero regresa de la trastienda con las hierbas que ella había pedido, Isabelle ya ha salido por la puerta.
 394270854	El Barón ha llevado a Isabelle al Paso de Byers para una demostración especial. Unos bandidos están asaltando otro tren, y la tarea de Isabelle es eliminarlos. A todos y cada uno de ellos. No puede ser más sencillo.
 1607897920	Misión de vudú sin título
 1032735083	Estás de visita en una biblioteca pública buscando material de lectura nuevo. Coges un libro al azar de la sección de novela romántica y lo abres. En su interior, encuentras una carta con un sello que te resulta familiar./n/n«Veo que te interesa el amor verdadero, camarada. Mucho mejor. Se requiere tu presencia de manera urgente en la boda del alcalde Higgins. No te retrases»./n/nPreguntas si alguien se ha llevado el libro en préstamo hace poco, pero te responden que el libro llegó ayer nuevo.
@@ -16875,6 +16848,8 @@ Portuguese	Portugués(BR)
 529306080	¡Gracias por jugar a la demo de Desperados III!
 641702397	¡Sigue tu aventura en el juego donde la dejaste!/nVe al menú de opciones y teclea <b><hotkey>"lonerider"</hotkey></b> para activar el truco, o pulsa en la cruceta del mando: <b><hotkey>»DERECHA DERECHA DERECHA ARRIBA ABAJO"</hotkey></b>
 1247312339	¡Consigue ya la versión completa de Desperados III!
+1843809048	Historia principal
+161000147	Misiones del DLC
 1555130932	Tobii Eye Tracking
 123505325	Activar Tobii Eye Tracking
 1638544670	Tienes que activar esto para usar las características de Tobii Eye Tracking.
@@ -16898,11 +16873,1277 @@ Portuguese	Portugués(BR)
 636728468	Acción de seguimiento ocular
 1746116910	Cámara central del seguimiento ocular
 1139426011	Saber más
-1024099543	
-1843809048	
-161000147	
-994917734	
-898458907	
-920178939	
+1024099543	Ir a la tienda
+994917734	Próximamente
+920178939	¡Nuevo DLC disponible!
+1030635390	«Dinero para los buitres» es una historia dividida en varias partes que abarca tres nuevas misiones. Tiene lugar tiempo después de la historia principal y se publicará dentro de pocos meses. Echa un vistazo a la tienda para obtener más información.
 1103895872	Aviso de destripe
-913219151	
+913219151	«Dinero para los buitres» es una historia dividida en varias partes que tiene lugar tiempo después de los acontecimientos del juego principal. Si quieres evitar destripes, te recomendamos que termines primero la historia principal.
+1439508230	Error de carga
+2011900632	No se ha podido cargar la partida guardada porque no se han instalado los complementos necesarios.
+872774976	No se ha podido cargar la partida guardada porque no se ha instalado el contenido adicional necesario.
+136148407	Nadie ha hecho nunca nada solo por dinero, o eso he oído.
+1660165176	En mi caso, encuentro el dinero tremendamente útil. 
+1261457001	Así que, cuando la oportunidad llama a mi puerta, la recibo con una sonrisa.
+1278454222	Aunque a veces necesitas algo de ayuda. La competencia en el negocio es feroz.
+185150767	Por suerte para mí, conozco a la gente adecuada para el trabajo.
+2102082305	Nos conocimos hace tiempo en Baton Rouge. Me ayudaron a «retirar» unos fondos de un banco local.
+331019022	No es que termináramos muy bien, pero nunca he dejado que eso me detenga.
+1103959304	Y por suerte, ya sé quién me va a ayudar a recuperar su confianza...
+1133542860	Ya estamos aquí, encanto. Ves, te dije que vendríamos.
+1634605100	Oh, eres un cielo, Hector. Sabía que eras el hombre adecuado para el trabajo.
+1240801777	No te lo tomes a mal, pero me alegro de bajar de ese barco.
+853530527	Bueno, repasemos el plan una vez más, ¿de acuerdo?
+1762897685	Bien. Como ya sabéis, nuestro querido amigo Vincent DeVitt tiene una cámara secreta llena de dinero, oculta en esta hacienda. Y vamos a limpiársela.
+1158841105	Para ello, tendréis que abriros camino por el edificio principal hasta el patio delantero. 
+905945278	Como era de esperar, el sitio está plagado de saqueadores, así que os sugiero que no llaméis la atención.
+161790833	Eh, mira, un vestido para Kate. ¿O igual quieres probártelo tú, monada?
+1612092283	Ahora mismo no, Hector.
+263699796	Vale. Lo siento.
+1827087218	Podemos recoger a Cooper por el camino. Ya debería estar allí.
+405176793	Más le vale. Me prometieron a la banda entera.
+534238372	En cualquier caso, llegad a la estatua del patio delantero. Al parecer, hay un interruptor oculto que revela la cámara. Seguro que lo encontraréis ahora que sabéis lo que buscar.
+875030270	¡Eh, mira, otro vestido para Kate! Ese también te quedaría genial.
+1940622270	Ooh, eres todo un caballero.
+1219028219	Muy bien. Llegáis a la estatua, buscáis el interruptor y vaciáis la cámara. Sencillo.
+216211271	Esperaré a que volváis en el barco.
+909799060	Eso es. ¡Y sin trucos ni sorpresas esta vez! Te estaré vigilando hasta que tenga mi dinero.
+1659971631	Seguro que sí. No me hagáis esperar.
+1469700320	CASA DEVITT – ABANDONADA
+499411130	Actuad con discreción. Tenemos competencia.
+1602268031	Pasad desapercibidos. Esos tíos tienen malas pulgas.
+1361834673	Sin llamar la atención. Aquí no somos bienvenidos.
+2105798437	Este ya no nos molestará.
+1633532896	Uno menos del que preocuparse.
+677794467	Je, como en los viejos tiempos.
+992646416	Han pasado tres meses. No me digas que ya te has puesto nostálgico.
+1831053064	Aah, yo también te echaba de menos, Doc.
+2058553237	Mmf...
+1196116431	¿Qué?
+71162381	Oh, nada. Había apostado que no le darías. Ahora me debe la mitad de su parte.
+1507192639	Le está bien empleado.
+1838276942	¿No te cansas de llevar esa cosa a todas partes?
+429355646	¿Bianca? ¡Jamás! ¡Ella y yo somos inseparables!
+1704857622	Hablando del tema, ¿qué opina Bianca de tu nueva... amiga?
+1062001064	Calla. Aún no se lo he contado. Espero al momento adecuado.
+2057270502	¡Oooh! ¡Entiendo!
+2017145395	Estamos dentro.
+751805464	Je, estamos dentro.
+1863142411	Por ahora todo bien.
+1058811807	Oye, Hector. ¿Rosie y tú?
+818345288	¿No es adorable? Desde Baton Rouge nuestros corazones suspiran el uno por el otro.
+1848577480	¿Ah, sí?
+511523365	Venga ya, Doc. En alguna parte de tu cuerpo habrá romanticismo.
+852808524	No lo hay. Créeme, soy doctor.
+1960709266	A medio camino de la estatua.
+1618595946	A medio camino de la estatua.
+992660605	A medio camino de la estatua.
+46259631	Qué ganas de volver con mi Rosie. Está tan preciosa como aquella primera noche, cuando tomamos unos tragos juntos.
+1536448338	¿Quieres decir cuando nos drogó?
+1829706449	¿Y nos hizo poner el pueblo patas arriba?
+1322908957	Oh, eso no fue nada personal, créeme.
+2022090299	Esa chica de ahí...
+2000101000	¡Eh, Kate! ¿Ves a esa mujer?
+1525946404	Esa mujer de allí...
+859565811	Esa ropa me sentaría de maravilla.
+409304113	Me da la impresión de que podrías llevar cualquier cosa.
+1175753244	Vaya... ¿Gracias?
+66829920	Pan comido.
+2037938360	Cada vez se te da mejor esto.
+342089845	Hablas como John cuando jugamos al póquer.
+1828461089	Uh, oh. ¿Qué pasa aquí?
+1610525438	Digamos que me pongo al día rápido.
+23855518	Ya te lo he dicho, ahí no hay nada.
+619156305	Que sí. Tengo una corazonada. ¡Este es el sitio!
+1230956	Vale. Tú sigue cavando.
+232721941	¿Has encontrado algo?
+1321298883	Lo habría hecho si me ayudaras.
+2056084533	Bah, prefiero quedarme aquí.
+629498136	Podría tirarme todo el día mirándote.
+431620888	Sí, sí. A ver quién se ríe cuando encuentre la cámara.
+1761993093	Ardo en deseos.
+976791828	Dickson cazó un pavo. Dice que se va a pegar una buena comilona.
+1454320049	¿Y de dónde demonios ha sacado un pavo?
+1120445759	Bueno, él dice que es un pavo.
+913085114	Llevamos dos semanas en este agujero. Maldita sea.
+972211708	Venga. Valdrá la pena cuando encontremos la cámara.
+1103444158	Si es que hay una cámara...
+1234441978	Te lo juro, como alguien la encuentre antes que nosotros...
+969746062	Tranquilo, campeón. Los tipos como tú siempre se llevan su parte, ¿no?
+1404145495	¡Ya lo creo!
+1945097956	Eh, ¿no deberías cavar en otra parte?
+1685344771	¿No deberías tú vigilar algo?
+716150833	Tch, listillo.
+1586843077	¿Y cómo acabaste tú en este trabajo?
+406228892	Brazos fuerte, buen palmito, y tenía mi propia pala.
+1184149118	Déjate de gilipolleces, Larry.
+12831936	DeVitt tenía que ser un pieza.
+62876281	¿De qué lo conoces?
+1578464629	Le he visto un par de veces. Parecía un pelele, pero la forma en que te miró... 
+1835958351	¿Qué vas a hacer con tu parte?
+624669878	No sé. Igual me compro una buena casaca larga como la tuya. Para entrar en la élite.
+15329226	Ja, ja, ja, ja. Sí, claro...
+532594319	Si alguien se pone tonto contigo, me avisas, ¿vale?
+1086590103	No te preocupes, cariño. Puedo cuidar de mí misma.
+628258295	Eh, ¿sueles venir por aquí a menudo?
+2087141827	Pues no. No me van mucho las mansiones abandonadas.
+2041736012	No es moco de pavo, ¿sabes? Estar vigilando todo el día.
+499093667	Oh, ya me imagino.
+1458871679	Tu, eh, vestido es muy bonito.
+1225870713	Oh, gracias, cielo. Eres muy amable.
+1100892390	Oye, eh, luego tengo un rato libre, y...
+1034687102	Lo siento, cariño, pero tengo la tarde muy ocupada.
+1097466491	Espero que los chicos te estén tratando bien.
+2027734157	Oh, son inofensivos. Los he visto mucho peores, créeme.
+648120286	¡Venga, muchachos, no me hace gracia!
+1878002326	¡Estamos todos en el mismo bando!
+1379869580	¡Vamos, tengo que entrar!
+1531861263	¿Vais a hacerme dar toda la vuelta?
+1850100102	¡Eh, oye, creo que he encontrado la cámara! ¿Queréis verla?
+1456878426	¡Por amor de Dios, se me cansa el brazo!
+1054382653	¡Cassidy! ¿Me oyes? ¡Abre ya!
+1842843856	Aún nada. Solo porquería y huesos antiguos.
+845867031	Mierda. A lo mejor no está ahí.
+1817997445	¿Y si la han encontrado los otros?
+2112913084	Bah, no lo creo. Vamos a quedarnos aquí.
+888321464	¿Cuánto lleva Benny cavando ya?
+868958188	Unas dos horas. Tranquilo, es un animal.
+2094559204	¡Eh, Gruber! ¿Cómo va eso, colega?
+772477219	¡Mmf!
+975232033	Ya, te entiendo.
+1475282420	¿Crees que encontraremos la cámara pronto?
+1774694431	¡Mmf!
+1590881416	Puede que tengas razón.
+586308376	Oye, eh... ¿qué te parece esa Jane?
+555209690	¡Mmf!
+728360912	¡Ah, pillín!
+380556032	Sabes, me alegro de que tú y yo nos entendamos.
+1566475825	¡Mmf!
+161403227	Digas lo que digas...
+2022138195	¿Qué vais a hacer con todos esos muebles?
+1825740393	Venderlos. Hay mucha gente que paga por esas cosas.
+1238472340	Ah, claro, tiene sentido.
+1007114457	¿Qué era esa extraña bola de cristal que se han llevado en carretilla a la playa?
+517018701	Algún tipo de invento. No parecía muy valiosa, pero igual sacamos unos dólares por ella.
+1411371204	Umm..., me pregunto para qué serviría.
+1527071836	¿Qué es esa cámara de la que todo el mundo habla?
+1899045876	Oh, tranquila, la verás cuando la encontremos.
+1118356624	Eh, no es justo.
+1836597016	Y, ¿quién es el que manda aquí?
+1383959471	Somos tres. Dickson, el viejo Cassidy y yo. Tenemos una rivalidad sana.
+1969903709	¿Eres uno de los jefes? ¡Qué emocionante!
+22297907	¿Cómo habéis encontrado este sitio?
+1908763963	Algunos trabajamos para DeVitt. Cuando le metieron entre rejas, llegó el momento de pasar por caja.
+1027285003	Ya veo.
+880703045	¿No te da miedo lo que haga la familia DeVitt cuando se enteren?
+242465586	¿Los DeVitt? ¿A qué te refieres?
+1607480974	Oh, a nada.
+1440494411	¿Y cuánto tiempo lleváis aquí?
+1004496004	Un par de semanas. La verdad es que, con tanto trabajo, el tiempo vuela.
+1618197473	Me lo imagino.
+731179537	¿Has visto a Johnson camelándose a la chavalita?
+1875182487	¿Estás de coña? ¿Otra vez se las daba de jefe?
+1470039764	Sí. Ya verás cuando se enteren Dickson y Cassidy.
+192560115	¿Por qué nos ha tocado el curro aburrido?
+1326044845	¿Prefieres estar arriba cavando?
+1464072843	Ahí tienes razón.
+1991645507	Qué ganas de largarme de aquí.
+775493906	Ah, no sé. Se está bastante tranquilo.
+1440239282	Lo dices porque no estás de patrulla.
+1803340981	Mierda... Esta maldita escalera me va a matar.
+154805309	Eso te pasa por tirarte toda la semana con el culo pegado a la silla.
+830080808	Anda y que te den.
+1346870263	Eh, si estás buscando barcos, hay que mirar en dirección contraria.
+1895268785	Bah, prefiero ver cómo trabajan los demás.
+890092969	Qué listo.
+406434434	Estad atentos por si veis a John.
+1835674836	No olvidéis que Cooper nos espera.
+274985253	Espero que Cooper esté en el punto de encuentro.
+1525274004	¿Por qué se ha retrasado?
+694330878	Estaba en un atraco con un tal Williams cuando le llegó tu mensaje.
+1182546657	¿Williams? No he oído hablar de él.
+2015891299	Seguro que John te lo presenta algún día.
+1613755685	Mmm.
+867698267	Vaya, hola, John.
+978194603	¡Amigo, me alegra verte!
+1593836762	Ahí estás.
+2025082573	¡Por fin! Os lo habéis tomado con calma.
+996196602	Je, primero quiere que lo recojamos y luego se queja.
+1917925179	¡John! ¡Qué descaro!
+2099999955	Tal vez deberíamos dejarle tirado.
+158489738	Tranquilidad. Ya voy.
+1722781776	Veamos...
+70142469	Veamos...
+551310186	Veamos...
+141060346	Espera, vamos a por Cooper antes de meterle mano a esta cosa.
+982765032	Oh, eh, buena idea.
+963242014	Nada destacable.
+1453588483	Umm, no.
+81801756	Nanay.
+502670110	Todavía nada.
+815857425	Todo tranquilo.
+1038428582	La cosa sigue igual.
+68293806	Todo parece correcto.
+1240999292	No hay moros en la costa.
+1842546188	La estatua está en su sitio.
+1445509826	Y venga a dar vueltas.
+2023392478	Umm... me estoy mareando.
+822049383	Ah... Uff, casi me caigo.
+1762123465	Creo que veo la estatua.
+1686010490	Tengo la estatua a la vista.
+657121241	¡Ajá! Ya veo la estatua.
+923685244	¿Qué estamos buscando exactamente?
+1395240618	Rosie dijo que había un interruptor en la estatua.
+438019544	Claro que sí. Vale, echemos un vistazo.
+158025997	Sigues llevando dos armas, ¿eh? ¿Te hiciste con una de repuesto?
+975667108	Sí.
+1117783033	¡Hazme caso, si quieres disparar a tres personas con un arma, tienes que usar una escopeta, amigo!
+1752339602	En pocos meses, te tragarás esas palabras.
+1264318939	Vale, ¿dónde estará ese interruptor?
+1889196583	¿Cómo encontramos el interruptor?
+720759668	Bien... un interruptor, ¿eh?
+240348725	¿Dónde está el interruptor oculto?
+1457663805	¿Y si hay que rascarle las pelotas?
+1940221964	¡No voy a tocarle los cataplines, gracias!
+1825475299	No tiene que ser muy complicado encontrarlo.
+1521558981	Listo.
+1238941761	Ábrete, sésamo.
+1214290383	Oh, está pasando algo.
+1739974840	Vamos allá.
+1082806090	¿Eh? ¿Qué diablos es esa brujería?
+1340786271	¡Por amor de Dios, Jimmy, deja de gritar!
+1290092441	Eso es, chicos. Parece que uno de vosotros, idiotas, lo ha logrado.
+440291752	¡Butch, ven aquí! Abre esta maldita cosa, ¿quieres?
+436036634	Voy, jefe.
+936247893	Dudo que consigan abrir esa cosa pronto.
+828355742	¿Puedes forzarla?
+1568876887	¿En serio lo preguntas?
+1302287854	Vale, pues despejemos la zona para que puedas ponerte manos a la obra.
+1476447408	Hay mucha gente alrededor de esa caja fuerte.
+520055006	Estos tíos han estado muy ocupados.
+1078009245	Oh, mucho guardia veo yo ahí.
+719538678	No estamos lejos. Casi puedo oler el dinero.
+1074643530	Terminemos rápido. ¡Seguro que Rosie está loca por que vuelva!
+86955596	Oye, eh... ¿siempre se comporta así...?
+147861887	Sí.
+857702400	Constantemente.
+1192703648	Madre mía.
+274454063	Venga, ¿por qué tardas tanto?
+1010827604	Estoy trabajando, ¿vale?
+1902320253	¿Hay algún problema?
+103543113	¿Ves lo grande que es esta cosa?
+2019762533	¿Para qué traigo a un cerrajero si no puede abrir una maldita caja fuerte?
+909119802	Venga ya, Cass. Deja que me concentre.
+1709304919	Estoy esperando.
+483538927	¿Cómo voy a trabajar si no paras de gritarme al oído?
+787184426	Tú ábrela, ¿vale?
+1584416006	Estoy en ello, Cass. Relájate.
+993672428	¿Ya está abierta?
+1332824998	¿A ti qué te parece, listillo?
+222575628	Eh... ¿que no?
+1291261267	Dejadme trabajar, joder.
+1103802751	¿Cómo lo lleva?
+2038428487	Pregúntale.
+1789273480	¡Eh, Butch! ¿Cómo va eso?
+1701212537	Callaos y haced las rondas.
+1356906179	¿Todavía no?
+1427950506	Ajá.
+696682202	¡Eh, Butch!
+774178509	¡Una palabra más y la abro con tu cabeza!
+220018265	Esto es interminable.
+1263721438	Agh, a mí me vas a contar.
+283430914	¿Necesitas algo?
+266158854	¡Lo único que necesito es SILENCIO!
+1564635340	Bien, a ver qué tenemos aquí.
+1292847304	Mmf...
+1125921543	¿Qué? ¿Qué pasa?
+760730558	Esta mierda está vacía. Lo único que hay es una nota.
+688570029	Estupendo.
+249881902	Volvamos con Rosie.
+1144786249	Vamos a por Cooper y volvamos con Rosie.
+1889591150	Será mejor que tenga una explicación para esto.
+109488112	Bienvenidos de nuevo.
+569979334	¡Ahí está! ¡Amigo, saluda a mi encantadora Rosie!
+509371406	Hola, señorita. Lamento no recordarla de Baton Rouge. Tengo los recuerdos algo borrosos.
+260862792	Oh, no se preocupe, señor Cooper. Pasa en las mejores familias.
+81203496	La cámara estaba vacía. Solo encontramos una nota.
+1104832070	Me lo temía. ¿Puedo verla?
+281717185	¿Estás diciendo que SABÍAS que pasaría esto?
+1657860207	Tenía el presentimiento. Bueno, veamos...
+357235499	¿Qué pone, cariño?
+1174650106	«A la escoria de baja estofa que corresponda: Te sugiero que te alejes de la propiedad de mi hermano y vuelvas a cavar al agujero del que has salido».
+1082676112	Firmado: «Magnus Hieronymus DeVitt».
+1962075237	Parece que la caza no ha hecho más que empezar.
+283593118	Capítulo IV – La Bella y la Bestia
+571719469	Capítulo IV – Dinero para los buitres
+1728706167	Encuentra el interruptor de la estatua
+2056762711	Llega hasta la estatua del patio delantero. Hay un interruptor oculto que... hace algo.
+1034617777	Recoge a Cooper (opcional)
+456779033	Cooper está esperando en la entrada. Ve a saludarlo.
+941098583	Abre la caja fuerte
+786314742	La cámara ha aparecido debajo de la fuente. McCoy puede abrir la caja fuerte.
+2057191596	Disfraz A
+2088523610	Hay un disfraz para Kate en el hoyo.
+1481916635	Disfraz B
+1024967519	Hay un disfraz para Kate en el jardín.
+1247782491	Casa DeVitt/n(abandonada)
+695077169	Parte 1: Llegar tarde a la fiesta
+265455246	En la primera parte de «Dinero para los buitres», la banda se reúne una vez más para hacerse con las riquezas ocultas de Vincent DeVitt./n/nAyúdales a revelar una misteriosa cámara, evita a los sanguinarios saqueadores y descubre si se puede confiar en la enigmática Rosie de Baton Rouge, o si solo vela por sus propios intereses.
+72555366	Tres meses después del duelo en el Cañón del Diablo, la banda vuelve a reunirse./n/nUn mensaje de Hector promete un negocio lucrativo: hacerse con las riquezas ocultas de Vincent DeVitt./n/nLa banda llega a la hacienda de DeVitt, ahora echada a perder por el abandono y la presencia de avariciosos saqueadores./n/nLa misteriosa Rosie se une a ellos, una vieja conocida de poco fiar de sus correrías en Baton Rouge... 
+1549737372	Tres meses después del duelo en el Cañón del Diablo, la banda se reúne para un trabajo especial./n/nRosie, una vieja conocida de poco fiar de Baton Rouge, les pide ayuda para hacerse con el tesoro de la cámara oculta de Vincent DeVitt./n/nAl regresar a la ahora abandonada Casa DeVitt, la banda debe abrirse paso a través de sanguinarios saqueadores hasta la estatua del patio delantero./n/nPor lo visto, un interruptor escondido en la estatua revela la cámara. Una vez abierta, solo queda vaciarla por completo. Ah, y Cooper también anda por ahí.
+1972791255	Llévale un regalo a Rosie.
+1497331362	Llévale un vestido a Rosie.
+1294823371	No te reúnas con Cooper.
+340212994	Nadie ha hecho nunca nada solo por dinero.
+1087297469	Admito que, en ocasiones, es difícil justificar hasta dónde llego.
+787239786	Birlar el tesoro oculto de Vincent DeVitt delante de las narices de unos saqueadores sonaba demasiado fácil.
+1133525180	Resulta que su hermano Magnus vació la cámara mucho antes de que llegáramos.
+474428530	Por suerte para nosotros, sé dónde encontrar a Magnus DeVitt.
+532289047	Aunque no tenía pensado volver a Luisiana en mucho tiempo...
+1324959016	¡Lárgate! ¡Y no vuelvas más por aquí!
+2067274862	No ha habido suerte. Como esperaba, el señor DeVitt no nos recibirá.
+495576672	¡¿Ese tío se ha portado mal contigo?! ¡Voy a arrancarle la cabeza!
+1108652645	Tranquilo, querido. Solo tendremos que recurrir al plan B.
+1190890082	Parece que os vendría bien algo de ayuda.
+1743621451	¡Belle!
+525813077	¡Hola!
+160748737	¡Me alegro de que hayas venido!
+2063767261	Para que lo sepas, he intercedido por ti.
+1118808665	Muy amable por tu parte, chatín.
+893284116	Hola, Rosie.
+1162802782	Isabelle, qué alegría volver a verte.
+1076754197	¿De verdad?
+663438587	Por favor, estaba a punto de explicar el plan, si no te importa.
+1866064282	Por supuesto.
+1867019390	Bien, por lo que sé, el señor DeVitt se encuentra en la azotea de su mansión. 
+1756016296	Solo hay que llegar allí y obligarle a que nos diga dónde está el dinero.
+287312234	Una advertencia. Necesitaréis una llave para entrar en la azotea. La encontraréis en el jardín.
+1489773450	También habrá uno o dos disfraces por ahí, si queréis usarlos.
+1177045700	Muy bien informada, como siempre.
+645887104	¿Ves? ¡Te dije que podíamos contar con ella!
+2073334627	Vaya, gracias, Hector.
+705478934	Bien, yo estaré esperando aquí, como siempre. Buena suerte.
+1770418093	Chatín, ¿me haces un favor y le echas un ojo a mi vieja amiga aquí presente?
+257020204	Por su propia seguridad, claro.
+1655882832	Por descontado.
+415167592	No te preocupes, Doc. Es una buena compañía.
+1851552262	Oh, seguro.
+2111831061	PLANTACIÓN DE ALGODÓN DEVITT
+1977065917	Veamos dónde nos lleva esto.
+1376135008	Colémonos con discreción, ¿de acuerdo?
+215473589	Adelante, el dinero nos espera.
+1090506123	Así que estáis trabajando con Rosie Adams. Espero que sepáis dónde os habéis metido.
+1174008409	Oh, lo sabemos. Ya tuvimos un encuentro con ella en Baton Rouge.
+2075266149	Espera. ¿No me digas que ELLA es la que os puso algo en la bebida?
+1961361628	Je, sí. Sigo sin recordar cómo acabó aquella vaca en el tejado.
+927182866	En fin, centrémonos en colarnos dentro.
+243525223	Estamos dentro.
+1996767205	Dentro.
+1411272496	Dentro. Bien.
+792351549	Vale, estoy dentro.
+1151783108	Eh, escuchad, no os preocupéis por los trabajadores. He avisado de que veníamos. No nos delatarán.
+2062980646	Parece que tienes unos cuantos amigos por aquí.
+149736502	Es lo que se llama reputación.
+102232804	¿Qué crees que se trajo el jefe de Nuevo México?
+1578282633	Ni lo sé, ni me importa.
+345483893	Venga, Freddy. ¿No te pica la curiosidad?
+2034911439	No me pagan por meter las narices en los asuntos de los demás. Sobre todo en los de DeVitt.
+829078667	¿Qué tal te va por ahí arriba?
+1731872078	Me lo paso bomba. ¿No tienes que estar de patrulla?
+868043868	Han cerrado la puerta del jardín. No me voy a dar toda la vuelta.
+2023043705	Tú mismo.
+856783855	Ha pasado algo en la capilla.
+92700561	Bah, los trabajadores curioseando otra vez, qué más da.
+1802995305	Sí. Llevan todo el día mirándome raro. Me pregunto qué estará pasando.
+1653419427	Tienes que aprender a relajarte, colega.
+1465499533	¿Y tú qué estás haciendo ahí arriba?
+1002434623	Desde aquí veo mejor.
+1414462688	¿Y si oyes algo sospechoso?
+373380709	Lo ignoro, ¿qué crees que iba a hacer?
+1824252542	Ahí está.
+1812110440	Mmm.
+1538560286	Je, je, je.
+1009259826	Uy.
+653594314	Bueno, la puerta está bloqueada. Hay que buscar otra entrada.
+1018643636	¿En qué anda metido el jefe?
+1568603560	Ni idea. Ha llamado a los peces gordos. Les ha dado unos papeles.
+2002476188	¿Crees que es una paga extra?
+304257400	¿Del jefe? Je, je, esa es buena.
+1948378767	Estaba pensando en el jefe...
+716438269	¿A qué te refieres?
+1435566874	¿Crees que se ha vuelto un poco majareta? Después de la desaparición de su hermano.
+1323360239	No. Seguro que no le importa una mierda su hermano. Menos competencia, ya sabes.
+1384578904	Bonito día, ¿no?
+1926333302	Ya lo creo. Y lo sería más si no tuviera que hacer guardia.
+1426203787	Calla..., cómo te oiga el jefe.
+769554633	Y una mierda me va a oír, capullo. Está tomando el sol en la azotea. 
+2036212999	Oye, ¿crees que los trabajadores traman algo?
+1799663924	Te preocupas demasiado, colega.
+961071325	No, en serio. Los noto muy inquietos de repente. Igual buscan problemas.
+930845031	Pues que vengan. Tengo un problema aquí mismito, je, je.
+1413161159	Ah. Debéis de ser Isabelle y sus amigos, ¿verdad?
+615226286	Los demás saben que veníais, pero andad con cuidado. DeVitt ha triplicado la vigilancia. 
+1299406532	Vaya campos. Mucho sitio para cubrirse.
+323715642	Un buen sitio para jugar al escondite.
+666362299	Cuánto algodón hay aquí.
+583884499	El jardín está al otro lado de los campos, cruzando el arroyo, detrás de la casa del muelle.
+1095979354	Otra vez de vuelta a los campos.
+1284281502	A volver a jugar al escondite.
+260231978	Mmf... Se me va a volver a pegar algodón en la barba.
+545062042	Ese tío grandote de la prensa de algodón. Él tiene un trozo del mapa.
+69940619	Ah, desde aquí veo a todo el mundo.
+193322740	Nadie se me va a acercar sigilosamente, je, je, je.
+1279473339	¿Lo quieres, eh? Pues ven a por ello.
+962895899	No voy a decepcionar al jefe, qué va.
+295264095	¡¿Me oyes desde ahí?! ¡No vas a llevarte nada!
+863414015	¡¿Crees que puedes esconderte entre el algodón?! ¡Veo a través de esa mierda, ¿me oyes?!
+2057340577	Eso es, duro y metiendo miedo. Nadie te la va a jugar, buen trabajo.
+1316421346	Si alguien intenta apuñalarte... zas, bang, disparo al estómago.
+835229466	¿Qué significará? Bah, a quién le importa.
+171468344	¿Escopeta cargada? Cargada, sí, sí, cargada, bien, bien.
+1415709429	Ojos bien abiertos. Va a ser un día largo. 
+1535749146	¿Tienes idea de qué le pasa a Al?
+421385118	Qué va. Lleva así desde la reunión con el jefe hace unas semanas.
+1414743983	Todavía sigue divagando. Algo sobre el algodón y no sé qué traiciones.
+1849275737	No te preocupes. Ya se le pasará.
+510510379	¿Y dónde están el resto de los trabajadores?
+223773436	No sé. Pero esto va a llegar a oídos del jefe, créeme.
+1631395957	Si los trabajadores están holgazaneando, igual podría...
+1833119491	Tú verás. Pero no me vengas llorando cuando el jefe te ponga a trabajar también.
+560803052	Has venido a montar follón, ¿verdad? Será mejor que agaches la cabeza.
+1174985129	Aquí en los campos es fácil, pero si las cosas se ponen feas, siempre te puedes esconder en una pila de algodón.
+1416870764	Esta zona está muy apiñada.
+748021028	Así que aquí es donde preparan el algodón.
+175596108	Je, mira esas pilas.
+160958535	El jardín no está lejos de aquí.
+292815510	Volvamos a comprobar este sitio.
+1855635893	Echemos otro vistazo a la zona de preparación.
+1847017641	Ah, las pilas otra vez.
+523612762	Uno de esos hombres debe de tener un trozo del mapa.
+1119655490	Entonces, ¿qué demonios es?
+211601362	Ni idea. Solo tiene garabatos.
+1849732270	Quizá sea un mensaje secreto de su hermano.
+706114184	Podría ser.
+1811117885	No lo entiendo. ¿Para qué los entrega?
+308967944	Ya conoces al jefe. Nunca explica sus «planes».
+388381682	Espero que este no acabe matándonos.
+1917640288	Eso espero.
+1380444807	Dámelo. Quiero verlo.
+1281658842	Nanay. Seguro que lo pierdes con esas manos de patoso.
+938018048	Creo que te estás volviendo paranoico, Bert.
+2059291690	Para nada. Y ahora cierra esa bocaza apestosa.
+1509872811	Igual es una receta. Ya sabes, para cocinar.
+1520797927	Ya te ha entrado el hambre otra vez.
+378369389	¡Eh! Intenta aguantar tú bajo el sol.
+1209573083	Ya lo había pensado. Pero nada.
+470879590	Levanta ese culo de vago, ¿me oyes?
+1897028626	¿Qué hay de malo en descansar un poco?
+1679526705	¿Quieres que el jefe te vea así?
+2036855603	No veo al jefe por ninguna parte.
+1269481723	No está el horno para bollos. Venga, levanta.
+489625728	¿Qué mosca te ha picado? No sueles ser tan tocapelotas.
+2042379423	¿Qué? ¿Vas a quedarte todo el día ahí sentado?
+1798715920	No. Solo descansaba un poco la espalda.
+367997775	Gracias por ocuparte de ese. Algo le ha sacado de quicio a esta gente. Creo que ese algo eres tú.
+665660766	Si vas hacia los almacenes, echa un ojo a las grúas de carga. Suelta mercancía sobre los guardias y te hará la vida más fácil.
+649074010	Aquí hay mucho ajetreo.
+831853318	Aquí es donde almacenan el algodón.
+1700947925	Umm, espero no perderme aquí.
+547267870	La entrada trasera al jardín debe de estar por alguna parte.
+1691620919	De vuelta a los almacenes.
+1129029639	Vamos a echar otro vistazo por los almacenes.
+2007566345	¿Otra vez aquí? Mmm.
+998193637	El hombre de atrás debería tener un trozo del mapa.
+563330317	Aquí no hay nada que ver, je, je.
+783177982	¿Quién, yo? ¡No! No tengo nada, no, no.
+2108887318	Solo pasaba por aquí. Nada sospechoso.
+489302470	Oh, cielos, ¿por qué siempre tengo que ser yo?
+882171665	¿Nervioso? ¿Quién, yo? ¡Qué va!
+741077842	No, no, no me prestes atención.
+768175151	Oh, Dios. Va a ser un día largo.
+1692897698	Se me ocurren mejores sitios donde vivir.
+1642836904	Aquí debe de ser donde viven los trabajadores.
+897745870	Mmm, estas casas son muy pequeñas.
+981917398	Podemos llegar al jardín desde el gallinero.
+1062399543	Vale, volvamos a las viviendas.
+1703337950	Echemos otro vistazo a donde viven los trabajadores.
+1630257373	Ah, de vuelta a las casitas, je, je.
+648771623	Hay mucho alboroto en esa capilla. Seguro que el guardia tiene un trozo del mapa.
+2009831457	Venga, Maurice. Solo era una pregunta.
+2024624994	¡¿Ah, sí?! ¡Venga, pregunta otra vez, adelante!
+2063765295	Solo tenía curiosidad.
+984337624	¡Oh, sé exactamente lo que tramabas, asqueroso ladrón!
+1636344560	Nadie iba a robar nada.
+924604128	¡Como sigas mintiendo, te echo al viejo Butch, ¿entendido?!
+882049728	Escucha, Maurice, esto es un malentendido.
+1727017666	Así es como lo llamas, ¿eh? Yo lo llamo «espiar».
+1265904502	¿Nos dejas entrar a la capilla por lo menos?
+1505925496	Qué va, no señor. Hasta que esto no se aclare, no vais a ninguna parte.
+1454346247	Oh... Eh... Demasiado para él, je, je.
+1164176094	Debes de ser del grupo de Isabelle, ¿verdad?
+1122037563	Ese hombre tenía órdenes especiales del jefe. No estaría de más hurgar en sus bolsillos y quedarse con lo que lleve.
+1522529876	Qué tranquilidad hay aquí.
+1835320641	Oh, mira. Un pequeño huerto. Me trae recuerdos de mi hogar.
+1108584098	Mira esas calabazas, je, je.
+934971009	Podemos atajar por aquí y avanzar por la valla hasta encontrar una entrada al jardín.
+1796007174	¿Volvemos aquí otra vez?
+1763544216	¿Echamos otro vistazo por aquí?
+575063717	¡Oh..., las calabazas otra vez!
+1188491317	Aquí no hay ningún trozo del mapa. Pero puede ser una buena ruta de salida.
+1791440842	Uf, la cabeza me está matando...
+1887451460	Podrías ayudarme con la colada. Un poco de trabajo te ayudará a despejarte.
+1398921296	No, gracias...
+1683475078	¿Qué era ese follón en la iglesia?
+1897030078	A mí no me preguntes. Yo estoy trabajando.
+73542989	Da igual...
+1148745872	¿Tienes algo para la resaca?
+124297493	¿Huevo crudo? ¿Pimienta? ¿Que los perros te muerdan?
+1249367684	Olvídalo.
+1366991146	Joder, mataría por una buena siesta.
+592570848	No vendría mal. Tu griterío de borrachera nos tuvo despiertos toda la noche.
+665016736	Bah, cállate.
+1206638061	Vaya, vaya, no pareces de por aquí.
+1913455853	Dicen que iba a venir alguien. Supongo que vas a por el jefe.
+149302932	Si quieres entrar al jardín, sigue por la izquierda. Puedes saltar hasta una caseta desde el gallinero.
+1980493246	Bonita mansión.
+392192345	Eso sí que es una mansión.
+1007003627	Qué casa más grande.
+1944016195	Una casa preciosa. Seguro que cuesta una fortuna.
+331806975	¿Te imaginas vivir en un sitio como este?
+1801680040	No sé, demasiado elegante para mi gusto.
+582489839	Y para el mío. Si alguna vez echo raíces, será en mi propia taberna.
+1793295705	Te conoces muy bien la zona. ¿Cómo es eso?
+1855836049	He pasado por aquí un par de veces. Para tener vigilada al resto de la familia DeVitt.
+1558544223	¿Y si vamos hacia aquel balcón?
+545164458	¿Por qué no nos damos un paseo hasta ese balcón?
+1570580900	Mm, ¿podríamos cruzar hasta el balcón?
+70709920	Eh, ¿qué tal ese balcón?
+348762164	Parece un buen atajo hasta el jardín.
+1426311888	Sabes, si estuviera Doc esto sería mucho más fácil.
+1305209488	Ya, pero ¿dónde estaría la gracia?
+709232128	Esto tiene que ser el jardín.
+513976780	Veamos qué encontramos en el jardín.
+1892018438	Ah, el jardín.
+145317171	Bien, ya estamos en el jardín.
+1602466054	Rosie dijo que alguien de aquí tenía la llave de la mansión.
+598010212	Y un disfraz para «moi».
+1007727055	He de admitir que Rosie está muy bien informada.
+2008079696	Sí. Sabe muchas más cosas que yo.
+232952268	La verdad, tampoco es poner el listón muy alto.
+1683900158	No sé, últimamente está muy raro.
+622545513	¿A qué te refieres?
+799175561	Dice que debería tener cuidado con lo que me pongo. ¿Qué tiene de malo mi ropa?
+1741165012	Yo creo que estás estupenda.
+47890907	¿Y por qué ha hecho que cierren la mansión?
+382462310	Oh, ya lo conoces, querrá tiempo para sí mismo.
+289572126	Pero ¿por qué la puerta al jardín? He tenido que darme toda la vuelta.
+1950411921	Seguro que tiene sus motivos.
+124857642	Me alegro de que estés aquí, Benny.
+178973877	Oh, vale. No hay problema.
+1179035138	Algo no va bien. No me gustaría quedarme sola ahora mismo.
+2041181823	Tranquila. Si sucede algo, yo te protegeré.
+815096536	Vestidos de sirvienta. Los odio.
+899155497	¿Demasiado ceñido por debajo de la cintura?
+1631730756	Exacto. Y hay que ser sumisa y obediente.
+1503859871	Sí, ya me imagino a qué te refieres.
+1260509416	Yo diría que es la llave de la mansión.
+645904337	Vaya, vaya. Parece la llave de la mansión.
+557734494	¡Ajá! Esa será la llave de la que hablaba Rosie.
+859203369	Tengo la llave.
+570090973	Muy bien. Siguiente parada: DeVitt.
+591196874	¿Mmm? ¡¿Tú quién eres?! 
+255354848	No, espera, déjame adivinar. Eres de esa chusma que anda detrás del dinero de mi hermano, ¿cierto?
+127934542	Muy bien. ¿No te acompaña nadie? 
+1327424101	Si vienes con más amigos, te sugiero que los llames para discutir el asunto.
+439839110	Venga, vamos, vamos. No tengo todo el día.
+1036685732	¡Basta de tonterías!
+154918250	Sí, sí, muy divertido.
+1661350799	¿Mmm? ¿Y tú quién eres?
+1394382037	¿Por casualidad no habrás forzado la caja fuerte de la hacienda de mi hermano y encontrado mi carta dentro?
+1429325998	Acertaste.
+854189751	Bien, bien. Hace tiempo que deduje que alguien vendría a por las pertenencias de Vincent.
+1002178035	Oooh, es muy listo.
+1953735906	¡No me interrumpas! ¿Por dónde iba? Ah, sí... Por eso he escondido el dinero en un lugar bien vigilado, lejos de aquí.
+563796774	Genial.
+1523427382	Por desgracia, ni yo sé cómo encontrarlo. Solo un mapa muestra el camino.
+781649162	Pues dámelo.
+117603155	Pero, para impedir que lo roben, lo he dividido en cinco trozos.
+1217090688	Les he confiado a mis mejores hombres cuatro de los trozos.
+1020072294	El quinto lo llevo yo mismo.
+1225249826	Llévatelo si quieres. Estoy seguro de que nunca podrás conseguir el resto. ¡Tus esfuerzos son inútiles!
+1871801477	¿Has terminado?
+1439158766	Así es.
+1715087204	Bien. Entrégame el trozo de mapa.
+302030468	Vale. Mis hombres lo recogerán de tu cadáver después.
+1496886333	Ahora, sé amable y déjame a solas con mis pensamientos.
+140436355	Va a ser que no. ¿Quién dice que no llamarás a los guardias en cuanto nos vayamos?
+1445258297	Por favor, como si no tuviera nada mejor que hacer. Largo. Tengo que revisar los planos de mi nuevo viñedo.
+1381491027	¿A qué esperas? ¿A que te mate?
+547504815	Es muy difícil pensar con chusma como tú alrededor.
+1358392462	Puaj. ¿Cuándo fue la última vez que te diste un baño?
+382155385	Debes de sentirte muy idiota por haber venido hasta aquí para nada.
+384117519	En serio, no logro entender cómo se la habéis jugado al pequeño Vincent.
+1389422568	Miraos. Seguro que la mayoría de vosotros no sabe ni leer.
+42785093	¿Queréis meteros con los DeVitt? ¿Os dais cuenta del enemigo que os habéis ganado?
+1904446209	Se lo contaría a padre, pero ¿para qué molestarse? Estaréis muertos antes de que acabe el día.
+612447352	¿Todavía estáis ahí? ¿No tenéis nada mejor que hacer que importunar a un miembro productivo de la sociedad?
+1637582824	De acuerdo, haré un gran esfuerzo para ignorar vuestra irritante presencia.
+836799944	Uy. Se me fue la mano.
+348818668	¡Oh, cielos! ¿Cómo ha podido ocurrir?
+555468878	¡Je, ¿quién es el idiota ahora?!
+1346332095	Un DeVitt menos del que preocuparse.
+829642370	Ya estaba hablando demasiado.
+849587106	De todas formas, habría sido una conversación muy sosa.
+1700288077	Oh, uh, ¿y ahora cómo hablamos con él?
+574760463	Tampoco me apetecía hablar con él.
+1472019823	Vamos a reunirnos. Lo registraremos a ver qué encontramos.
+184309567	Bueno, ¿qué tenemos?
+728994676	Una carta. Y un trozo de un mapa.
+426514909	¿Qué dice la carta?
+618204277	Mmm... Oh, vaya.
+589646787	Parecía que tenía preparado un discurso por si alguien venía a por el dinero.
+2065884358	Será broma, ¿no?
+1020327757	Escuchad esto: ...
+1986853364	«Hace tiempo que deduje que alguien vendría a por las pertenencias de Vincent».
+429369447	«Por eso he escondido el dinero en un lugar bien vigilado, lejos de aquí».
+1144749079	No me digas que hemos venido hasta aquí para nada.
+1757074213	Bla, bla, bla. «Solo un mapa muestra el camino», bla, bla, «lo he dividido en cinco trozos».
+1563052098	«Les he confiado a mis mejores hombres cuatro de los trozos».
+1352386321	¡Ajá! ¡Y ya tenemos el quinto!
+1089317799	Bien, consigamos el resto del mapa. Al chatín le va a encantar.
+519340563	Bueno, hermanos son, eso seguro.
+1933095218	Claro, algo es algo.
+1005240368	Y yo que pensaba que su hermano era imbécil.
+1733921606	Menudo gilipollas.
+507099836	Entonces, eh... ¿hay que buscar un mapa?
+1038115170	Sí. Cuatro trozos más. Y sabe Dios dónde estará el dinero.
+1049996356	A Doc le va a encantar esto.
+2056987044	Al menos no se dio cuenta de que ya teníamos algún trozo.
+589154216	¿De verdad? Ah, claro.
+781501296	¿Deberíamos habérselo dicho?
+1983879408	Creo que llevamos la conversación con bastante estilo. Venga, a por el resto.
+1943925882	Menos mal que ya tenemos los otros trozos.
+334843608	¿Ah, sí? ¡Es verdad!
+1050545043	Parece que su gran plan no le ha salido bien.
+811447708	Después del discurso tan bonito que ha soltado.
+1253156997	Hasta nos ha dado el último trozo, ja, ja, ja.
+1805788542	Venga. Larguémonos de aquí.
+508204636	Nunca vamos a tener nada fácil, ¿verdad?
+1866827985	Bueno, la cosa se ha complicado bastante.
+1807972342	Aún hay trabajo por hacer. Quién lo habría imaginado.
+135946074	Entonces, hay que buscar más trozos de mapa, ¿no?
+1671878560	Menos mal que lo escribió todo, si no, no nos habríamos enterado de una mierda.
+1545124795	Ajá.
+1772518637	Muy oportuno.
+1288462496	Esperad. ¿No tenemos ya algunos trozos?
+13290548	¿Te refieres a esos dibujos? ¡Ah, sí!
+336904834	Esto facilita bastante las cosas.
+1052459631	Vamos a recoger los que nos faltan y larguémonos de aquí.
+329692644	Esperad. Creo que ya tenemos los otros trozos.
+129669007	¿Ah, sí? ¡Es verdad! ¡Los dibujos, ja, ja!
+410776803	Y yo que pensaba que tanto ir y venir no serviría de nada.
+461786644	Tengo la impresión de que DeVitt no pensaba que esto acabaría así.
+197006898	Nos hemos librado de una buena.
+2118119898	Ya lo creo. Ahora larguémonos de aquí. Estoy deseando oír lo que el chatín opina de esto.
+1308876324	Vaya, parece un trozo de ese mapa.
+133485675	Creo que tenemos nuestro primer trozo del mapa.
+987941214	¡Eh, aquí hay un trozo!
+549728861	Mira esto. Un trozo de ese mapa.
+56593410	Ya tenemos dos. Nos quedan tres.
+386843811	Espero que mi Rosie esté bien.
+1887087986	La verdad, yo me preocuparía más por Doc.
+309228604	Creo que tengo otro trozo del mapa.
+1021994270	Aquí tenemos otro trozo del mapa.
+97410372	¡Oh, otro trozo del mapa!
+481014452	Otro trozo del mapa.
+1483981715	Tres menos, quedan dos.
+737989658	Podría pillarle el gusto a esto. Viajar por el país, buscar pistas... 
+102656676	Espérate a tener mi edad.
+2116260732	Vaya, fijaos, otro trozo del mapa.
+610316449	Voilà. Otro trozo del mapa.
+1748787693	¡Eh, he encontrado otro!
+1405757339	Otro trozo más del mapa.
+1398961677	Con ese son cuatro. Queda uno.
+322156179	Espero que encontremos algo al final de la madriguera.
+1926720766	Y si no, al menos sabemos a quién echarle la culpa.
+1563304362	Je, je, sí... ¿A quién?
+1085389431	Ese es el último trozo del mapa.
+1710669740	Creo que este es el último trozo de mapa.
+230771352	¡Ajá! Este debe de ser el último.
+4485091	Tenemos otro trozo del mapa. Ya están todos.
+901888663	¡Por fin! Mi Rosie debe de estar preocupadísima.
+1295755533	Quién sabe. Tal vez esté haciendo buenas migas con Doc.
+2140470158	¿Con Doc? ¡Ja, ja, ja, ja, ja, ja! Muy buena, amigo.
+869059055	Venga, chicos. Portaos bien hasta que salgamos de aquí.
+1262700998	Vale. Ya va siendo hora de irse.
+885096995	¿Eh? ¿Qué es eso?
+1407083689	Vaya, vaya, ¿qué tenemos aquí?
+421825746	¡Uh, eh! He encontrado algo.
+1339122302	Eh. Echad un vistazo a esto.
+1251999777	Parece una especie de dibujo.
+1955893983	¿Creéis que será importante?
+509648687	Quedémonoslo de momento.
+627549477	Mmm... Otro dibujo.
+1360690010	Otro dibujo.
+1749703463	Eh, es otro dibujo.
+1384733354	Este también tenía un dibujo.
+1292730422	¿Para qué creéis que sirven?
+560794101	Tal vez deberíamos preguntárselo al cabeza de familia.
+711495215	Tal vez.
+1931843622	Es el tercer garabato que encontramos...
+1444289450	Con ese son tres dibujos...
+1424779458	Más dibujos, ¿eh?
+518865283	Otro dibujo. Ya tenemos tres.
+1167599820	Me pregunto si Rosie estará bien.
+612103605	Oh, no te preocupes. Está con Doc. ¿Qué podría ir mal?
+198608686	¿Cuántas cosas de estas hay?
+2105269269	Esto ya me parece ridículo.
+1117247583	Con este van tres... ¡Cuatro! ¿...Cinco?
+514371290	Otro de esos.
+1046918113	Ya tenemos unos cuantos. ¿Se parecen a algo que os suene?
+157483979	Parece que falta la parte central.
+1653243227	Creo que va siendo hora de hacerle una visita a DeVitt.
+956820537	¡Oh, claro! ¡Para eso hemos venido!
+1185401571	Escuchad, antes de irnos, creo que deberíais saber algo sobre Rosie y yo.
+404345550	¿De qué estás hablando?
+958045799	En Nueva Orleans, yo le... suministraba determinados artículos. Ya sabéis, hierbas, pociones, ese tipo de cosas.
+793607733	Poco antes de que nos conociéramos, me pidió cierta droga. Hace que un hombre se vuelva loco.
+757375124	La cuestión es que estoy convencida de que lo que os puso en la bebida en Baton Rouge lo obtuvo de mí. 
+1246260810	Mis disculpas.
+900656378	¡Oh, no te preocupes, Belle! ¡De no ser por ti, nunca habría conocido a mi Rosie!
+597054639	Bueno, es una manera de verlo.
+697878808	No pasa nada. 
+1810141170	Ni idea. Pero no lo descartaría.
+859992279	Estupendo.
+1607255470	Bueno, ¿qué tenemos?
+1768606108	Aún no lo sabemos, ¡pero tenemos un mapa que nos llevará al lugar donde está el dinero!
+663542118	¿Se supone que eso era una broma?
+538284282	Venga, chatín, solo un poco más y no tendrás que volver a verme nunca.
+491750783	¡Yo sí sé a quién quiero volver a ver, ja, ja!
+84308158	Y dale...
+1985182162	Sabía que no me defraudarías, mi apuesto y sucio osito tejano.
+1504910046	Je, pan comido, pastelito mío...
+1918398930	Os estáis tomando lo del mapa bastante bien.
+1314316148	Vamos, Cooper. Con un viejo gruñón en la banda ya tenemos bastante.
+1910996414	¡Yo no soy viejo!
+863972535	Oh...
+551230520	¿Qué pasa, cariñito?
+505046078	El mapa dice que el dinero está en un lugar llamado «Nido de Águilas»...
+1982532554	Parece una antigua... fortaleza o algo así...
+1548143148	No será fácil entrar ahí...
+857687732	xxx
+1148467706	¿En serio? ¿Nido de Águilas?
+611234244	xxx
+329348295	¡JA, JA, JA, JA, JA, JA, JA!
+1639975553	¿Qué puñetas pasa?
+1500042263	Se le ha ido.
+1102469218	¡Conozco ese sitio!
+599621517	Y sé cómo entrar ahí.
+223030689	¡Oh, no! ¡Ni hablar!
+2082156266	¿Qué?
+1790925422	¡Tus planes SIEMPRE son una mierda!
+1711447979	Eso no es verdad...
+977493494	Sí que lo es. Acuérdate de esa maldita vagoneta con la pólvora.
+981938371	Ese plan fue idea TUYA.
+697804327	Yo quería dinamita.
+1540555459	Pero funcionó, ¿no? Escucha, esto es lo que vamos a hacer.
+1292304701	Esto no pinta bien.
+432881984	Interroga a Magnus DeVitt
+1773011631	Reuníos en la azotea e interrogad a Magnus DeVitt.
+1606501249	Recoge trozos de mapa ({0} de 5)
+37035926	DeVitt ha dividido el mapa del dinero en cinco trozos y se los ha entregado a sus hombres. Hazte con todos.
+1950596606	Objetivo A
+2000501154	El responsable de la zona de viviendas está metido en berenjenales.
+1108432962	Objetivo B
+1472917576	El supervisor de los almacenes actúa de un modo sospechoso.
+1254492707	Objetivo C
+447010899	El director de empaquetado tiene de qué presumir.
+1763085498	Objetivo D
+782371726	El capataz de los campos parece bastante paranoico.
+2003745405	Reuníos fuera
+631053090	Tenéis lo que habéis venido a buscar. Salid de la hacienda y reuníos con Doc y Rosie.
+903657723	Llave de la mansión
+1557739138	Las puertas de la mansión están cerradas. Uno de los guardias del jardín tiene la llave.
+691184825	Disfraz
+2021573242	Hay un disfraz adecuado para Kate en el jardín.
+2002585429	
+1050046787	
+1111739782	
+1802514979	
+1649633204	
+1208800897	
+1221080576	Plantación DeVitt
+392609880	Parte 2: Cinco pasos por delante
+1664437405	Parte 2: Opus Magnus
+1438007870	En la segunda parte de «Dinero para los buitres», la banda regresa a Luisiana para desafiar a un nuevo miembro de la familia DeVitt./n/nExplorad la nueva ubicación en el estado de los pantanos, reuníos con Isabelle para hacer más pinitos con el vudú y enfrentaos a una mente maestra a la altura de vuestro talento.
+1074303684	Entre los muchos miembros de la familia DeVitt, tenemos a un tal Magnus Hieronymus DeVitt./n/nComo propietario de un lucrativo negocio de algodón que es, reside en su enorme plantación, rodeada de grandes muros y una horda de guardias./n/nSiguiendo la pista que encontraron en la cámara de Vincent DeVitt, la banda viaja a Luisiana en busca de sus riquezas perdidas./n/nTal vez sea un buen momento para retomar el contacto con viejas amistades.
+1342107686	La búsqueda del dinero de Vincent DeVitt continúa. Siguiendo la pista que encontraron en la cámara vacía, la banda viaja a Luisiana./n/nAquí, se infiltran en la plantación de algodón de Magnus, el hermano de Vincent, quien, supuestamente, se trajo el dinero hasta aquí./n/nEl plan es sencillo: llegar hasta Magnus DeVitt, sacarle dónde está el dinero, recogerlo y volverse a casa./n/nAunque algo te dice que no va a resultar tan fácil.
+2008715406	Consigue todos los trozos del mapa antes de hacer frente a DeVitt.
+2037689148	No uses las entradas laterales de la izquierda ni de la derecha.
+62451842	No toques los campos de algodón.
+1986845839	Nadie ha hecho nunca nada solo por dinero. Estoy empezando a creérmelo.
+824422471	Hemos llegado muy lejos para hacernos con las riquezas perdidas de DeVitt.
+662188280	Cámaras ocultas, mapas del tesoro, y ahora una fortaleza en el desierto.
+335646321	Y lo que es aún peor, empiezo a disfrutar de la compañía. Madre se quedaría estupefacta.
+2017750892	En fin, espero que el plan de mi querido Hector no nos lleve a todos a la tumba...
+1967074360	¿Por qué no puedo ser yo el que diseñe el plan, amigo?
+1917499803	Lo juro, es la última vez que ayudo a este animal estúpido.
+1340799740	Muy bien, sin munición, sin refuerzos... Sin problema.
+535885676	AFUERAS DE NIDO DE ÁGUILAS
+547299464	Leches... Tengo que asegurarme de que nadie me ve cuando lo suelte.
+1381675751	Sería más fácil sin este condenado traje.
+1480465188	Pensabas que ibas a causar problemas, ¿eh, grandullón?
+331132095	No te preocupes, encontraremos a tu amiguito.
+1938540396	Tu cara me resulta familiar... Bah, olvídalo.
+352987679	Vamos a dar ejemplo contigo.
+1154785013	¿Qué leches? ¿Dónde está?
+1012088109	¡Mierda, hay que encontrarlo!
+1622357829	¡Eh, amigo! ¡Por aquí!
+1837530854	Maldita sea. Cállate.
+1805650070	Bueno, ¿cómo va ese plan tuyo ahora? ¿Tienes algo que decir?
+1280245421	Relájate, amigo. Todo va tal como estaba planeado.
+1260826349	¡Y una mierda! ¡¿Y por qué tengo que llevar este maldito traje?!
+668953037	Vamos para allá. Te lo explicaré de camino.
+316844345	Muy bien, amigo, escucha. Ahora viene la mejor parte.
+815364192	¿Estás intentando decirme que todo esto sigue siendo parte de tu plan?
+340814181	¡Pues claro que sí! Escucha.
+691516046	Rosie y yo estamos convencidos de que guardan el dinero en esa torre.
+2016045829	Lo único que hay que hacer es entrar, forzar la cerradura de la puerta y ¡bingo!
+1299856801	¿Y cómo vamos a forzar la cerradura exactamente?
+1097306597	¿Crees que es una coincidencia que hayan llevado a Doc dentro cuando lo atraparon?
+1879267963	Creo que deberías dejar de beber ese whisky que llevas en la petaca.
+1416215396	Vale, Doc está dentro, bien.
+973304880	¿Cómo se supone que entramos ahí?
+1919886351	Usando el cañón.
+689649012	¿Ese cacharro? ¡¿Cómo sabes si está cargado?!
+2051422095	Hay una caja de balas de cañón por aquí. Solo hay que llevarla hasta el cañón y ¡bum!
+181343544	Genial... 
+1847643261	... pero ¿qué pasa con Kate e Isabelle?
+1977615547	Isabelle está ahí arriba. Creo que todos le tienen miedo después del espectáculo que montó.
+460711541	Y Kate está por allí. Creo que el grandullón se ha enamorado de ella. Je, idiota.
+1861807150	Aunque será mejor que se cambie ese vestido de novia...
+1074081425	Y eso es todo.
+1469164829	Abrir la puerta, liberar a Doc, entrar en la torre ¡y ya podemos jubilarnos!
+1868915384	Y tal vez liberar a los demás que van a morir por tu culpa.
+398820561	Claro. Puede que eso también.
+144886635	Por cierto, ¿dónde demonios se ha metido tu Rosie?
+1692892948	¡Ah! Ella también es parte del plan. Ya verás, va a ser genial.
+1475910060	Habrá visto el plan tan cutre que tienes y habrá dicho: «a tomar viento, me largo». 
+1831242200	¡Ella nunca haría eso! ¡Mi corazón lo sabe bien, amigo!
+1010574852	Creo que veo a Kate.
+972398662	Vamos, Kate está por aquí.
+1479250160	Esa de ahí es Kate.
+938554196	No me puedo creer que la convencieras para declararse a ese tío.
+2122825766	Je, ¿verdad? A Rosie también le gustó la idea.
+688501530	Oh, seguro que sí. Por eso está aquí ayudándonos ahora mismo.
+1349571365	Relájate, amigo.
+2069632375	No te preocupes, el cura llegará pronto.
+1951226312	No tenemos anillos, pero seguro que no te importa.
+228957132	Espera a conocer a los muchachos. Te van a encantar.
+480804693	Puedes sentirte orgullosa. Te casas con el hombre más fuerte y apuesto de por aquí.
+1293306735	Sabes cocinar, ¿no? Claro que sabes, solo hay que verte.
+35199416	¿Por qué tarda tanto ese condenado cura...?
+595972476	Un momento, ¿qué? ¡Mierda! ¡Mi prometida!
+44568144	¡Encontradla!
+2055338766	Te lo has tomado con calma.
+1209414223	No te preocupes. Ya voy.
+1216497781	Aguanta, ya vamos.
+1078635164	Dios, esto es embarazoso.
+1434347750	¡Hector! ¡Puñetas, ¿por qué has tardado tanto?!
+1088918614	Je, lo siento mucho.
+1377818807	¡Será mejor que me sueltes ya mismo!
+847203795	Recuérdame que nunca vuelva a escuchar uno de TUS planes.
+111169968	¡Venga, Kate, lo has hecho genial! Je, ese grandullón incluso llamó a un cura.
+541776335	¿Puede alguien hacerle callar antes de que pierda los nervios?
+1722334228	¿Eh? ¿Qué he dicho?
+2113431443	Dejémoslo estar.
+1815655449	Atajamos por aquí y llegamos a la fortaleza.
+185525359	Cruzamos por aquí, hacia la fortaleza.
+561948202	Creo que la fortaleza está por aquí.
+832911167	No me importaría hacerme con la ropa de esa señora para disfrazarme.
+1760262285	Ella se le acerca y le suelta: «Quiero casarme contigo».
+326889129	¡Y una mierda!
+1629533943	Te lo juro por Dios, yo estaba allí.
+1570107384	¡Maldita sea! Todos los tontos tienen suerte.
+1328874239	¿Has oído lo de la bruja que han cogido en el campamento?
+1660395588	Las brujas no existen.
+1244259482	Díselo a ellos. Dicen que van a quemarla o algo así.
+286321581	Bah, solo te están vacilando.
+76297247	Llevaron a ese tío sospechoso al Nido.
+897998457	Parece que Morgan va a divertirse un poco con él.
+405827216	Tenía una bolsa... Leonard la abrió y ¡pum! Le explotó en toda la cara.
+347782645	Je, le está bien empleado, por idiota.
+31915650	Por fin algo que no sea un vestido de novia.
+1320544159	¿Seguro que quieres ponerte eso con esta temperatura?
+297068518	Cuidado, John. Ese traje tampoco parece de lo más cómodo.
+998509862	Gracias por recordármelo.
+710782591	Vamos, tienen a Isabelle retenida aquí.
+632802077	Creo que aquí tienen a Isabelle.
+1754155855	Aquí perdimos a Isabelle.
+210140640	Un plan genial, por cierto, hacer que actuara como una bruja malvada.
+1200044269	Je, ¿verdad? Todo el mundo se cagó en los pantalones.
+690977037	Oh, claro. Creo que hasta han hablado de quemarla en la hoguera.
+1902961657	Todo es parte del plan, amigo.
+2782212	¿Crees que es una bruja? ¿Una de verdad?
+156011650	Ya viste lo que hizo. Hay que andarse con cuidado.
+1601621136	He oído que hay brujas del pantano en Baton Rouge.
+667763425	Aquí no va a venir ninguna bruja del pantano, eso seguro.
+2112557541	¿Y tú qué harías con una bruja?
+1477564372	Quemarla, seguro. La quemaría viva.
+1326721936	Burt dice que habría que ahogarla en un río.
+1006674506	Je, buena suerte. ¿Ves algún río cerca? Ya, yo tampoco.
+334176464	¡Eh! Haz algo, ¿quieres?
+401622902	Tranquila. Dame un momento.
+1371094288	No te preocupes, Isabelle. Ya vamos.
+2016507058	Ummmm...
+1807070113	Vaya jeta tienes apareciendo por aquí.
+459463876	Eh, Belle. ¿Va todo bien?
+1751608677	¡¿Te parece que esté bien?! ¡Suéltame, maldita sea!
+245546082	Normalmente, te lanzaría al río, pero no hay ninguno por aquí.
+1018664647	Supongo que tendremos que quemarte en la hoguera. Claro que tampoco nos sobra madera, pero ya se nos ocurrirá algo, je, je.
+777309415	¿Tienes algo que ver con ese cazarrecompensas que te trajo al Nido?
+1161039312	Apuesto a que esa pobre chica que se declaró a Dalton estaba bajo tu hechizo.
+984123669	¿Qué me dices del grandullón? ¿Era tu leal sirviente? Di algo, maldita sea.
+1190427177	No vas a hablar, ¿eh? Quizá sea lo mejor. No quiero caer bajo tu hechizo.
+596787594	Pero ¿qué...? Oh, no, no, ¡NO!
+543229288	¡La bruja ha escapado! ¡Encontradla!
+1953456219	Hector, luego tienes que darme unos cuantos cabellos tuyos.
+1017509573	Eh, claro. ¿Para qué?
+1833923063	Oh, nada. Ahora cierra el pico y acabemos con esto.
+179419807	Eh, claro. Buen trabajo asustándolos, por cierto. Tienes mucho talento.
+951556045	Mierda, qué calor da este traje.
+63693784	De vuelta a la faena.
+1469539025	Me estoy haciendo mayor para esto.
+1699010677	Deprisa. ¡Rosie está esperando, je, je!
+1774836952	Hector, en serio. ¿Cómo NO puedes ver que está jugando contigo?
+886624177	Je, ¿qué pasa, amigo? ¿Te preocupa que me rompa el corazón?
+1731259009	A mí me parece que se ha largado. Se repite lo de Baton Rouge. 
+925673387	No, esta vez será diferente. Confía en mí, amigo.
+2043192280	Nada. ¿Tú?
+765528919	Lo mismo. Mierda. Demos otra vuelta.
+811912908	Por favor, dime que lo has encontrado.
+1240858104	Qué va. ¿Dónde diablos estará?
+1557979834	Nada de nada. Nos vamos a tirar la vida.
+502203583	No tenemos tanto tiempo. Volvamos a mirar.
+531948785	Removed cada grano de arena si es necesario.
+1322228713	¡Seguid buscando! ¡Se nos acaba el tiempo!
+1665921194	¿Cómo ha podido perder el maldito anillo?
+1390373447	¡Venga, usad los malditos ojos!
+1647838576	Hay que encontrarlo antes de que llegue el cura.
+2104754126	Está aquí en alguna parte. Lo sé.
+697379879	Ahí está el cañón.
+100139270	¿Qué tenemos aquí? Un cañón viejo y oxidado.
+351116194	¿Qué hace un cañón aquí?
+1755107243	Ah, el cañón.
+752911220	Carguémoslo y a reventar esa fortaleza, je, je.
+122138529	Parece que está un poco vacío.
+1718338885	Relájate. Tiene que haber balas de cañón por aquí cerca.
+1829779805	Ahí está la caja que decías.
+915052492	Veo una caja de balas de cañón.
+950523744	¿Qué tiene esa caja? ¿Son balas de cañón?
+1212330496	Ah, ahí está la caja.
+1953364623	Tiene pinta de pesar.
+496363256	Eso es tarea de Hector.
+332860592	Si te fastidias la espalda, no voy a llevarte a cuestas.
+1324032653	Je, observa, amigo.
+1430562165	Argh... La espalda.
+751822688	¿Qué te ha pasado?
+1963209076	Eh... ¡Que me CUBRAS la espalda!
+577903109	Ah, claro.
+109303053	Uff... Je, listos para la acción.
+284022778	Vamos a desatar el infierno.
+36440514	Agh... ¿Tienes fuego, amigo?
+1529631461	Permíteme.
+1648499947	¿PERO QUÉ...?
+1373281587	¡Leonard! ¡Ve a por Hardie y los chicos! Esto no pinta nada bien.
+653864994	¡S-sí, jefe!
+997322581	¡Ojos bien abiertos! ¡Nadie entra en el Nido!
+1946361320	Allá va otra vez.
+1372975675	Ajá.
+1082770948	¿Qué probabilidades hay de que sea culpa suya?
+316263511	Bastantes.
+1526108625	Tiene que relajarse, ¿no crees?
+97100859	Desde luego.
+319755055	¿Por qué siempre pasan estas cosas durante el descanso?
+1345569780	Ya.
+1975119228	Vosotros, defended el fuerte, ¿de acuerdo? Volveré enseguida.
+607459590	Sí, Bruno.
+815169266	Claro, Bruno.
+1582791859	Vamos a conseguirlo. Que nadie entre, ¿vale?
+2134392357	De acuerdo, Bruno.
+1683553344	Nos ocupamos, Bruno.
+1868253643	¿Ha ocurrido algo? ¿No? Bien. Seguid así.
+1662218093	Entendido, Bruno.
+189941665	A por ellos, Bruno.
+1039508	Uf, hora de salir, ¡bien, muchachos!
+2138335839	Vale, Bruno.
+40016816	Por supuesto, Bruno.
+87670172	Subiendo.
+705892269	Arriba.
+1354382757	Je, nos vemos dentro.
+83127970	Sabes, si tu culo gordo pudiera trepar, esto sería mucho más fácil.
+740119020	Y si tú fueras más duro que el papel de fumar, no tendría que salvarte de los malvados casacas largas todo el tiempo.
+815088066	Sí, claro, «todo el tiempo».
+767330534	Venga, vamos a buscar a Doc.
+1898031845	Hacia la boca del lobo.
+324200451	¿Quién demonios construye una fortaleza en el desierto?
+1983348717	Ah, Nido de Águilas. Es curioso volver aquí.
+1148879508	Eh, ¿conoces a alguien aquí?
+260541293	Qué va, estos tíos son nuevos. Siempre andan a la gresca sobre quién manda.
+242144554	Ajá. ¿Y quién quiere tomar el mando ahora?
+859074627	He oído que el viejo Diego lo quiere para su hijo. Supongo que le estamos facilitando las cosas, je, je.
+260025894	Buen truco el de la bolsa. Pero no te va a servir de nada, je, je, je.
+66544212	Oh, sabemos quién eres. Escoria cazarrecompensas.
+808501380	Mataste a mi hermano en el 73. Es hora de vengarse.
+1457869153	Bonito abrigo el que tienes. Pronto será mío, je, je, je.
+728995340	Los chicos están locos por ponerte las manos encima. Tienen cuentas pendientes.
+712771292	¿Qué pasa con esa arma tan larga que llevas? ¿La tienes... para compensar algo?
+1534057700	Podríamos usar esa jeringa contigo. Para ver lo despacio que te mata.
+563503786	Mierda. ¡Cabrón escurridizo!
+538971337	¡El cazarrecompensas ha escapado! ¡Encontradlo!
+300925739	Cuando salga de aquí...
+2006693513	Eh, Doc. ¿Cómo lo llevas?
+1955351893	Eh, Doc. Qué casualidad verte aquí.
+1157285790	Hola, chatín. ¿Me echabas de menos?
+1116304473	Corta la maldita cuerda.
+1167807091	¡TÚ!
+1554057744	¡Eh, Doc! Aguanta ahí.
+1552065765	Corta la maldita cuerda. ¡Ya!
+334262758	Tranquilo. Ya voy.
+1858846094	Es la primera y la última vez que me fío de un plan tuyo. NUNCA MÁS.
+624387540	¡Calla, Doc! ¡Si nos oye alguien, el plan se va a la mierda!
+1853566655	Voy a cargármelo ahora mismo.
+334115821	No si yo me lo cargo antes.
+266862733	Como haya otra carta, otro trozo de mapa o alguna maldita chorrada parecida en esa torre, juro que mato a alguien.
+327886933	Reunámonos dentro y veamos qué tenemos.
+2098002691	Ja, ja, ja, pan comido. Echemos un vistazo...
+659004463	Argh...
+50487459	¿Hector?
+387505017	¿Qué?
+1893620326	¡Eres un genio!
+864081049	¿Lo soy? ¡Lo soy!
+1378079822	Esto vale por lo menos... Veamos... 
+1700046139	Ya lo contaremos después. Ahora hay que salir de aquí antes de que...
+1461197817	¡CERDOS ASQUEROSOS! ¡SEÁIS QUIENES SEÁIS, VOY A HACEROS PICADILLO!
+620212224	Y ¿esto también formaba parte del plan?
+1443099700	Vamos, nena, te toca...
+446411167	Y voilà.
+470934886	Dales duro, cariño.
+1191471496	¡Esa es mi chica!
+1493998677	Ya veo. Masacre con ametralladora seguida de un agradable paseo hasta los caballos. No es un mal plan.
+739603975	¿Ves? Él lo ha pillado.
+1551397186	Una palabra más y te meto otro balazo.
+832277067	Deja que antes cargue con el cofre.
+1358474839	Bien visto. Vamos a ello.
+1213367488	¡Salid, salid, hijos de la gran puta!
+935335021	¡Podemos tirarnos aquí tooodo el día, amigos!
+7077844	Solo hay una salida, amigos, y es a través de nosotros.
+1809171373	Yo diría que somos muchos más que vosotros.
+403132070	¡Tenemos plomo para dar y tomar! ¿Queréis verlo?
+1191499574	Vamos, amigos. ¡Echadle un par de cojones!
+182854466	¡Esto será divertido, je, je, je, je, je!
+1247783453	¿Creíais que podíais venir aquí y llevaros nuestro botín? ¡Error!
+2117143135	Que no se acerquen a esa ametralladora.
+295152748	No puede pasar nadie, ¿entendido?
+1991851831	¿Quieren esa ametralladora? ¡No mientras estemos aquí!
+1583781257	Esperad. No pueden quedarse ahí arriba eternamente.
+1647816717	Si alguien intenta coger esa ametralladora, le disparáis.
+751498764	En cuanto asomen el hocico, los llenáis de plomo.
+579290150	Uf, menos mal que ha terminado.
+565570164	Vamos, amigo.
+254071275	¿Qué?
+423028076	Dilo.
+117864916	Vale. Tu plan ha funcionado. Eso eleva la cuenta a uno.
+360087007	A dos. ¿Te acuerdas de aquella vez en El Paso?
+2134473801	Oh, sí. Eso también salió bastante bien.
+1979651926	Vamos, muchachos, a por los caballos, ¿de acuerdo?
+244668835	Tengo una pregunta. ¿Por qué narices he tenido que llevar ese maldito traje?
+905910294	¿Ah, eso? Pensé que le daría un toque divertido, je, je, je.
+611100536	Voy a matarlo.
+1022973932	¿Quién te ha puesto de tan mal humor?
+1271377634	¡Ja, ja, ja, ja, ja, menuda aventura!
+1681616957	Sabía que lo sacarías adelante, querido.
+635848840	No lo habría conseguido sin tu cabecita lista.
+772760474	Salgamos de aquí y vayamos a tomar un trago, ¿os parece?
+503757920	Vayamos a por los demás y luego a tomar un trago, ¿os parece?
+22977879	¿Sabéis qué? ¡Invito a la primera ronda!
+2111555393	Gracias, doctor, pero después de todo lo que habéis hecho, creo que debo invitar yo.
+1212790793	No se preocupe, señorita. Insisto.
+405305176	Después de haberos causado tantos problemas...
+948886116	No pasa nada, de verdad.
+1942002918	¿Qué tal si yo pago la primera ronda y tú la segunda?
+301167906	Trato hecho.
+1207181453	Parte 2 del plan de Hector
+926597516	La parte 1 ha sido un fracaso estrepitoso. Es hora de echarle un cable a Hector.
+1338189044	Libera a Hector
+517534915	Hector está atado. Suéltalo.
+1637125480	Reuníos
+952742878	Poneos a cubierto y discutid el plan.
+1679224301	Parte 3 del plan de Hector
+1546645602	Es hora de colarse en Nido de Águilas. Vais a necesitar algo grande para abrir esa puerta. Algo como un cañón...
+1150337893	Caja de balas de cañón
+891108364	Si quieres disparar un cañón, necesitas balas de cañón. Deja que Hector lleve la caja.
+1349306174	Vuela la puerta
+449057507	Cuando el cañón esté cargado, prende la mecha y observa el espectáculo.
+768062827	Parte 3,5 del plan de Hector (opcional)
+1475641737	Haya sido a propósito o no, Kate e Isabelle han sido capturadas y esperan que alguien las rescate.
+553591077	Libera a Isabelle
+385299029	Han llevado a Isabelle al campamento. Sea lo que sea que haya hecho, escuchas que la gente habla de quemarla en la hoguera.
+1406301094	Libera a Kate
+1098391272	Kate está prisionera en las ruinas de un pueblo. A tus oídos han llegado rumores sobre una boda inminente.
+727267521	Parte 4 del plan de Hector
+681691823	Se supone que DeVitt guarda el dinero en el interior de la torre. Será mejor que así sea, o Doc se va a perder los papeles.
+2042199357	Libera a McCoy
+1413276380	Él puede abrir la puerta de la torre.
+1080405733	Parte 5 del plan de Hector
+370594320	Hora de hacer las maletas. Coged el cofre, abríos paso a través de los bandidos y reuníos fuera, donde están los caballos.
+251342493	Un cofre lleno de tesoros
+658117360	Habéis recorrido un largo camino, ¡que ahora no se te olvide el dinero! Deja que lo lleve Hector.
+647513640	Ametralladora
+1272242273	A ver, está ahí mismo. ¿Por qué no usarla?
+218715850	Disfraz
+1463117912	A Kate le vendría bien cambiarse de ropa. Menos mal que hay una prostituta en el pueblo.
+831023586	Nido de Águilas
+713446544	Parte 3: Otra vez, con más sentimiento
+106877485	En la tercera y última parte de «Dinero para los buitres», la travesía concluye en un lugar muy popular, la infame fortaleza de bandidos llamada Nido de Águilas./n/nArremete contra los muros de Nido de Águilas con astucia y sagacidad, lleva a cabo el plan de Hector en toda su chiflada gloria y descubre si Rosie mantendrá su palabra o si aún se guarda un as bajo la manga.
+1227460033	En la tercera y última parte de «Dinero para los buitres», la travesía concluye en un lugar muy popular.
+187002386	En mitad de los desiertos de Nuevo México se encuentra Nido de Águilas, un antiguo pueblo fortaleza cuyo nombre auténtico nadie se molesta en recordar./n/nCon el paso de los años, el Nido ha cobrado fama de escondite de bandidos y forajidos. Con frecuencia se producen ataques y nadie que ostente el mando dura demasiado tiempo./n/nGuiados por el mapa, la banda llega a Nido de Águilas, donde por fin esperan echarle el guante al dinero de Vincent DeVitt./n/nEn contra de todo sentido común, ponen en marcha el elaborado plan de Hector...
+323453367	Ha sido un largo camino, pero por fin el dinero de Vincent DeVitt está al alcance de la mano./n/nSolo hay un problema. Está bajo llave en la torre más alta del infame Nido de Águilas, que está custodiado por un sinfín de bandidos./n/nPero no temáis, porque Hector tiene un plan. Al menos eso cree él. Como no podía ser de otra manera, el plan se tuerce cosa mala, pero eso nunca os ha detenido./n/nEntrad, coged el dinero, salid y cabalgad hacia el horizonte.
+99174795	No rescates a Kate o a Isabelle.
+1748852857	No uses la ametralladora.
+417510835	Libera a Doc antes de entrar en el pueblo o el campamento.
+1659800840	Uf... 
+1984788867	¿Eh?
+1017823392	Agh...
+1024222513	Mierda...
+1419748461	xxx
+802436155	xxx
+509554948	xxx
+1186769311	xxx
+1303321219	xxx
+1190900482	Hola, amigo:
+1081649564	Hola, amigo:
+944194903	Le pedí a Rosie que escribiera esto por mí. Ya sabes que lo mío no son las palabras.
+1118321373	Le pedí a Rosie que escribiera esto por mí. Ya sabes que lo mío no son las palabras.
+1078177448	Seguro que estarás muy enfadado. No te culpo. Yo también lo estaría.
+1985197988	Lo cierto es que se me dan fatal las despedidas. Así que pensé, joder, mejor así, ¿no?
+9283628	Lo hemos pasado bien juntos. Nos encargamos de Frank. Incluso le robamos el tesoro a ese capullo ricachón al final.
+503641842	Pero voy a retirarme mientras pueda. Y Rosie, bueno, se porta bien conmigo. ¿Por qué no aprovechar la oportunidad?
+905249995	Si quieres venir a por mí, lo entenderé. Pero tengo la sensación de que no lo harás. Espero llevar razón.
+554976369	Sigue por el buen camino, amigo. Uno de los dos tiene que hacerlo. Saluda a los demás de mi parte.
+162482979	Hector
+1817741086	P. D.: Lástima no poder verle la cara a Doc en este momento.
+698683542	P. D.: Es una pena no poder ver la cara de Doc cuando se entere.
+439958868	¿Se han llevado todo el dinero?
+1384623422	¿Se han llevado todo el dinero?
+1411313898	¿Se han llevado todo el dinero?
+2081348216	Hasta el último centavo.
+1692563122	Hijo de...
+1407808478	Tranquilo, chatín.
+1612809129	Esto es... Después de lo que... Lo único que...
+1686252622	Agh... *se desmaya*
+1056258373	Ha perdido el conocimiento.
+610432908	No me extraña. Todo ese dinero perdido.
+489507973	No está perdido.
+235805570	¿Cómo lo sabes?
+1913179131	Porque Hector y Rosie están escondidos detrás de esa roca de allí.
+1710878516	¡Aaaah, eres un aguafiestas, amigo!
+1703739660	¡Hector! ¡Rosie!
+1803496051	Te dije que no lo engañaríamos.
+694416792	Señorita.
+1024805238	Je, je, pero al resto se la hemos colado, ¿verdad?
+1237470723	¡Deberías haberte visto la cara, JA, JA, JA!
+607017667	¡Maldito seas, Hector!
+1786818384	¡JA, JA, JA, JA, JA, JA!
+1241443894	
+1173178744	¡...!
+1926437035	¡...!
+1169843162	...
+1048829985	...
+822231640	...
+1673437736	...
+1603793469	...
+33902424	...
+39937212	...
+1091122842	...
+599530246	...
+704263224	...
+1849528431	...
+1119772617	...
+722214093	¡...!
+897202673	¡...!
+99404448	...
+629531102	...
+493806697	¿En serio quieres que vaya a buscarte?
+2052452034	Oh, por favor, ¿vamos a jugar al escondite?
+37470276	... esto es innecesario.
+383522264	... me lo esperaba.
+406362791	Esto podría ser mucho más sencillo.
+37030891	Solo quiero hablar.
+1075182737	Seamos civilizados.
+2033166830	Bien. Ya sabes dónde encontrarme.
+1403622064	Qué pérdida de tiempo. Si quieres hablar, búscame.
+963542525	...
+1882854532	...
+1972475870	...
+1796973787	...
+1029362890	...
+575177313	...
+674611348	...
+1021357165	...
+1098530078	...
+1933928116	...
+826843045	Qué insolencia...
+1732844063	Salvajes violentos...
+1747189432	¿Quién te ha dejado entrar?
+2133357964	¿Un gato? Madre mía...
+1509523037	Ya lo mataré después.
+270966133	Animalejo asqueroso.
+1881987299	¡... qué inmadurez!
+53796211	... muy gracioso.
+1215966749	... puaj, qué olor más empalagoso.
+606084155	... esta fragancia ha pasado de moda.
+3667396	Te escucho...
+902969696	Tienes toda mi atención...
+1518775060	¿Oh?
+821663004	¿Sí?
+1400017607	¡Oh!
+806026269	Esto será divertido.
+1999204809	Sí, claro.
+2048933076	Por supuesto.
+1741110259	No.
+944972534	Me temo que no.
+1697735481	Esto servirá.
+2004857065	Bien hecho.
+581391495	¡Guardias! Aquí.
+1012765662	¡Guardias! ¡Conmigo!
+1002427896	...
+2086533046	...
+108831970	¿Qué puñetas ha pasado?
+45616826	Uf... Qué cosa más rara.
+1259544004	Oh, por favor...
+1387097959	¿Hacemos bien?
+1373352531	Por supuesto.
+837775492	Sí, sí, continúa.
+1417108086	Por fin. 
+1937726896	Bien, bien. Ahora, largo.
+1520398209	No es mala idea...
+1345122856	Oh, sí, eso sería estupendo...
+727444029	Cuántas cosas por hacer...
+2137738712	Toma el camino de la izquierda.
+1809731004	Toma el camino de la derecha.
+1134141187	Escóndete en {0} aparadores diferentes.
+892508374	Mata a Magnus DeVitt.
+1067562568	No mates ni noquees a los casacas largas.
+472073295	Usa el pasadizo secreto para entrar en la fortaleza.
+410023430	Libera a Kate.
+53894941	Libera a Isabelle.
+627002508	Disfraz A
+537618445	Disfraz A
+1817917760	Disfraz B
+791065433	Disfraz B
+709124942	¡Te he traído algo, cielito!
+608946808	No te preocupes por eso.
+1939355848	Pero tengo una pregunta. ¿Crees que le sigue quedando algo de eso?
+1659839101	P. D.: Lástima no poder verle la cara a Doc en este momento.
+827557133	¡Sigue tu aventura en el juego donde la dejaste!/nVe al menú de opciones e introduce el siguiente código con los botones de dirección de tu mando inalámbrico: <b><hotkey>"DERECHA DERECHA DERECHA ARRIBA ABAJO"</hotkey></b>
