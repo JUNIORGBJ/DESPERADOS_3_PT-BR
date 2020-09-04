@@ -1799,7 +1799,7 @@ Portuguese	Português(BR)
 1736913974	Ficamos muito felizes quando o prefeito nos disse que a ferrovia chegaria. E agora...
 1438218330	É o cara que dirige a companhia. Sim, ele quer nos ver embora. Não dá a mínima para nós.
 1235977052	Sim, e você ouviu o que eles fizeram com o velho William?
-6558978 	Ultimamente estou ouvindo todo tipo de coisa. E você?
+6558978	Ultimamente estou ouvindo todo tipo de coisa. E você?
 1794071182	Você sabia que o prefeito Higgins vai se casar com senhorita Kate amanhã.
 301471330	Sim, aquela pobre garota. O homem é um porco.
 886425050	Aposto que ela está atrás do dinheiro dele.
@@ -16585,8 +16585,6 @@ Portuguese	Português(BR)
 967995022	Um botão ao lado permite que ele se transforme em um mecanismo de destruição. Use-o para se vingar dos mestres desta mina. Destrua todos eles.
 1724821859	Metralhadora de Vagão
 1316986356	Pegue a Metralhadora de Vagão. Você precisará disso.
-1756775373	Destruir o portão
-191524575	Atire no portão com a Metralhadora
 986125265	Use a Metralhadora de vagão.
 1391960216	Quando você usa a Metralhadora de vagão, o vagão não poderá se mover até que recarregue novamente.
 395352685	Uma festa exclusiva. Uma mansão luxuosa. Que lugar melhor para passar a noite? Bem-vindo de volta à Casa DeVitt. A banda ainda está tocando. Você está pronto para uma dança?
@@ -16877,10 +16875,10 @@ Portuguese	Português(BR)
 1139426011	Mais informações
 1024099543	Ir para a loja
 994917734	Em breve
-898458907	Comprar
 920178939	Nova DLC disponível!
+1030635390	"Dinheiro para Abutres" é uma história de várias partes que se passa em três novas missões. Ela se passa após a história principal e será lançado nos próximos meses. Confira na loja para saber mais.
 1103895872	Aviso de spoiler
-913219151	As Missões da DLC podem acontecer após eventos da história principal. Se você quiser evitar spoilers, recomendamos primeiro terminar a história principal.
+913219151	"Dinheiro para Abutres" é uma história de várias partes que se passa após a história principal. Se você quiser evitar spoilers, recomendamos primeiro terminar a história principal.
 1439508230	Loading Error
 2011900632	Save game could not be loaded because required add-ons are not installed.
 872774976	Save game could not be loaded because required additional content is not installed.
@@ -17177,7 +17175,7 @@ Portuguese	Português(BR)
 1082676112	Signed: "Magnus Hieronymus DeVitt."
 1962075237	Looks like the hunt is just getting started.
 283593118	Chapter IV – The Beauty and the Beast
-571719469	Chapter IV – Money for the Vultures
+571719469	Chapter IV – Dinheiro para Abutres
 1728706167	Find the Switch on the Statue
 2056762711	Get to the statue in the front yard. There's a hidden switch on it that does... something.
 1034617777	Pick up Cooper (Optional)
@@ -17190,7 +17188,7 @@ Portuguese	Português(BR)
 1024967519	There's a disguise for Kate in the garden.
 1247782491	Casa DeVitt/n(abandoned)
 695077169	Part 1: Late To The Party
-265455246	In the first part of "Money for the Vultures", the gang reunites once again to hunt down Vincent DeVitt's hidden riches./n/nHelp them uncover a mysterious vault, avoid bloodthirsty looters, and find out if the enigmatic Rosie from Baton Rouge can really be trusted, or if she has her own interests in mind.
+265455246	In the first part of "Dinheiro para Abutres", the gang reunites once again to hunt down Vincent DeVitt's hidden riches./n/nHelp them uncover a mysterious vault, avoid bloodthirsty looters, and find out if the enigmatic Rosie from Baton Rouge can really be trusted, or if she has her own interests in mind.
 72555366	Three months after the showdown at Devil's Canyon, the gang comes together once more./n/nA message from Hector promises a lucrative deal: a hunt for the hidden riches of Vincent DeVitt./n/nThey arrive at DeVitt's estate, now tarnished by neglect and the hands of greedy looters./n/nWith them is the mysterious Rosie, a dubious aquaintance from their escapades in Baton Rouge... 
 1549737372	Three months after the showdown at Devil's Canyon, the gang reunites for a special job./n/nRosie, a dubious aquaintance from Baton Rouge, wants their help to hunt down the hidden treasure vault of Vincent DeVitt./n/nOn returning to the now abandoned Casa DeVitt, the gang must now make their way through bloodthirsty looters to the statue in the front yard./n/nA hidden switch on the statue is supposed to reveal the vault. Once that's done, the only thing left to do is clear it out. Oh, and Cooper is somewhere too.
 1972791255	Bring Rosie a present.
@@ -17677,7 +17675,7 @@ Portuguese	Português(BR)
 1221080576	DeVitt Plantation
 392609880	Part 2: Five Steps Ahead
 1664437405	Part 2: Opus Magnus
-1438007870	In the second part of "Money for the Vultures", the gang return to Louisiana to challenge a new member of the DeVitt family./n/nExplore a brand new location in the Bayou State, reunite with Isabelle for more Voodoo shenanigans and face off against a mastermind worthy of your talents.
+1438007870	In the second part of "Dinheiro para Abutres", the gang return to Louisiana to challenge a new member of the DeVitt family./n/nExplore a brand new location in the Bayou State, reunite with Isabelle for more Voodoo shenanigans and face off against a mastermind worthy of your talents.
 1074303684	Among the many members of the DeVitt family, you will find one Magnus Hieronymus DeVitt./n/nAs the owner of a lucrative cotton business, he resides on his vast plantation, surrounded by high walls and hoards of guards./n/nFollowing the lead gathered from Vincent DeVitt's vault, the gang travel to Louisiana on the hunt for the man's lost riches./n/nPerhaps this is a good time to reconnect with old friends.
 1342107686	The hunt for Vincent DeVitt's money continues. Following the lead gathered from his empty vault, the gang travel to Louisiana./n/nHere, they infiltrate the cotton plantation of Vincent's brother Magnus, who supposedly brought the money here./n/nThe plan is simple: Get to Magnus DeVitt, squeeze the location of the money out of him, collect it and head home./n/nThough something tells you it ain't gonna be that simple.
 2008715406	Get all map pieces before confronting DeVitt.
@@ -18007,8 +18005,8 @@ Portuguese	Português(BR)
 1463117912	Kate could really use a change of clothes. Good thing there's a prostitute in town.
 831023586	Eagle's Nest
 713446544	Part 3: Once More With Feeling
-106877485	In the third and final part of "Money for the Vultures", the journey concludes in a fan favorite location, the infamous bandit fortress Eagle's Nest./n/nBrave the walls of Eagle's Nest with cunning and guile, carry out Hector's plan in all its crazy glory and find out if Rosie will keep her word, or if she still has an ace up her sleeve.
-1227460033	In the third and final part of "Money for the Vultures", the journey concludes in a fan favorite location.
+106877485	In the third and final part of "Dinheiro para Abutres", the journey concludes in a fan favorite location, the infamous bandit fortress Eagle's Nest./n/nBrave the walls of Eagle's Nest with cunning and guile, carry out Hector's plan in all its crazy glory and find out if Rosie will keep her word, or if she still has an ace up her sleeve.
+1227460033	In the third and final part of "Dinheiro para Abutres", the journey concludes in a fan favorite location.
 187002386	Deep in the deserts of New Mexico lies Eagle's Nest, an old pueblo fortress whose real name nobody cares to remember./n/nOver the years, the Nest has become infamous as a hideout for bandits and outlaws. Assaults happen frequently, and the owner never stays the same for long./n/nGuided by their map, the gang reach Eagle's Nest, where they hope to finally lay hands on Vincent DeVitt's money./n/nAgainst their better judgement, they begin enacting Hector's very elaborate plan...
 323453367	It's been a long road, but Vincent DeVitt's money is finally within reach./n/nThere is only one problem. It is locked up in the highest tower of the infamous Eagle's Nest, which in turn is guarded by innumerable bandits./n/nBut fret not, because Hector has a plan. At least HE thinks he has. Of course things go horribly wrong, but that has never stopped you before./n/nGet in there, grab the money, get out and ride off into the sunset.
 99174795	Don't rescue Kate or Isabelle.
