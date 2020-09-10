@@ -86,43 +86,43 @@
 657121241	Aha! Eu posso ver a estátua.
 923685244	Então, o que exatamente estamos procurando?
 1395240618	Rosie disse que há um interruptor escondido na estátua.
-438019544	Course she did. Alright, lets take a look.
-158025997	Still two guns, huh? Did you get a spare?
-975667108	Yup.
-1117783033	I'm telling you, if you wanna shoot three people with one gun, you gotta use a shotgun, amigo!
-1752339602	In a few months, you're gonna eat those words.
-1264318939	Now, where could that switch be?
-1889196583	So how do we find this switch?
-720759668	So... a switch, huh?
-240348725	So where's that hidden switch?
-1457663805	Maybe scratch his balls?
-1940221964	I ain't gonna touch the crownjewels, thank you very much!
-1825475299	I'm sure it can't be too hard to find.
-1521558981	I got it.
-1238941761	And open sesame.
-1214290383	Oh, something's happening.
-1739974840	There we go.
-1082806090	Huh? What the hell!
-1340786271	For Gods sake Jimmy, stop screamin'!
-1290092441	This is it boys. Looks like one of ya idiots finally made it happen.
-440291752	Butch, come here! Get this damn thing open, willya?
-436036634	On it, boss.
-936247893	I doubt they'll get that thing open anytime soon.
-828355742	Can you crack it?
-1568876887	Why do you even ask?
-1302287854	Alright, then let's clear the area so you can get to work.
-1476447408	Looks pretty crowded around that safe.
-520055006	These folks sure have been busy.
-1078009245	Oho, that's a lot of guards.
-719538678	Not much farther. I can almost smell the money.
-1074643530	Let's finish them quick. I'm sure Rosie's aching for my return!
-86955596	Hey, uh... is he always going on like this... ?
-147861887	Yup.
-857702400	Constantly.
-1192703648	Oh boy.
-274454063	Come on, what's taking so long?
-1010827604	I'm working, alright?
-1902320253	Is there a problem?
-103543113	You see how big this thing is?
-2019762533	Why do I bring a safecracker if he can't crack a damn safe?
-909119802	Come on, Cass. Let me concentrate.
+438019544	Claro que ela fez. Tudo bem, vamos dar uma olhada.
+158025997	Você ainda carrega duas armas, hein? Você conseguiu uma de reserva?
+975667108	Sim.
+1117783033	Estou te dizendo, se você quer atirar em três pessoas com uma arma, você tem que usar uma espingarda, amigo!
+1752339602	Em alguns meses, você vai engolir essas palavras.
+1264318939	Ok, onde está essa chave?
+1889196583	Como encontramos a chave?
+720759668	Bem... um interruptor, hein?
+240348725	Então, onde está aquele interruptor escondido?
+1457663805	E se você tiver que coçar as bolas dele?
+1940221964	Não vou tocar nas joias da coroa, muito obrigado!
+1825475299	Tenho certeza de que não pode ser muito difícil de encontrar.
+1521558981	Deixa comigo.
+1238941761	Abre-te Sésamo.
+1214290383	Oh, algo está acontecendo.
+1739974840	Aqui vamos nós.
+1082806090	Hã? Que diabos!
+1340786271	Pelo amor de Deus Jimmy, pare de gritar!
+1290092441	É isso, pessoal. Parece que um de seus idiotas conseguiu.
+440291752	Butch, venha aqui! Abra essa maldita coisa, sim?
+436036634	Indo, chefe.
+936247893	Duvido que eles abram essa coisa tão cedo.
+828355742	Você pode quebrá-lo?
+1568876887	Por que você ainda pergunta?
+1302287854	Tudo bem, então vamos limpar a área para que você possa trabalhar.
+1476447408	Há muitas pessoas ao redor daquele cofre.
+520055006	Essas pessoas com certeza têm estado ocupadas.
+1078009245	Oh, são muitos guardas.
+719538678	Não estamos longe. Quase posso sentir o cheiro do dinheiro.
+1074643530	Vamos acabar com eles rápido. Tenho certeza de que Rosie está ansiosa pelo meu retorno!
+86955596	Ei, uh... ele sempre age dessa maneira...?
+147861887	Sim.
+857702400	Constantemente.
+1192703648	Oh garoto.
+274454063	Vamos, por que está demorando tanto?
+1010827604	Eu estou trabalhando, certo?
+1902320253	Algum problema?
+103543113	Você vê como essa coisa é grande?
+2019762533	Qual o sentido de trazer um chaveiro se ele não consegue abrir um cofre?
+909119802	Vamos, Cass. Deixe-me concentrar.
