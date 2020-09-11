@@ -16879,261 +16879,261 @@ Portuguese	Português(BR)
 1030635390	"Dinheiro para Abutres" é uma história de várias partes que se passa em três novas missões. Ela se passa após a história principal e será lançado nos próximos meses. Confira na loja para saber mais.
 1103895872	Aviso de spoiler
 913219151	"Dinheiro para Abutres" é uma história de várias partes que se passa após a história principal. Se você quiser evitar spoilers, recomendamos primeiro terminar a história principal.
-1439508230	Loading Error
-2011900632	Save game could not be loaded because required add-ons are not installed.
-872774976	Save game could not be loaded because required additional content is not installed.
-136148407	Nobody ever did anything just for money, or so I've heard.
-1660165176	Personally, I find money very useful. 
-1261457001	So, when opportunity comes knocking, I open the door with a smile.
-1278454222	Sometimes you need a little help though. Competition can be fierce in this business.
-185150767	Lucky for me, I know just the right people for the job.
-2102082305	I met them a while back in Baton Rouge. They helped me "withdraw" a little money from the local bank.
-331019022	Can't say we've parted on the best of terms, but I've never let that stop me before.
-1103959304	And fortunately, I know just the man to help me regain their trust...
-1133542860	Here we are, sweetie pie. See, I told you I'd get us here.
-1634605100	Oh, Hector. I just knew you'd be the right man for the job.
-1240801777	No offense, but I'm glad I'm off that boat.
-853530527	Come on, let's go through the plan one more time.
-1762897685	Right. As you all know, our dear friend Vincent DeVitt has a secret vault full of money, hidden on this very estate. And we are here to collect.
-1158841105	To that end, you will make your way around the main building to the front yard. 
-905945278	As expected, the place is swarming with looters, so I suggest you keep your head down.
-161790833	Hey look, there´s an outfit for Kate. Or maybe you wanna try that on, honey?
-1612092283	Maybe a little later, Hector.
-263699796	Right. Sorry.
-1827087218	We can pick up Cooper along the way. He should be there by now.
-405176793	He better be. I was promised the whole gang.
-534238372	Either way, make your way to the statue in the front yard. Apparently, it has a hidden switch that will reveal the vault. I'm sure you'll find it now you know what to look for.
-875030270	Hey look, another outfit for Kate! You'd look good in that one too.
-1940622270	Aww Hector, you are just as sweet as a toothache.
-1219028219	Alright. Get to the statue, find the switch, clear the vault. Simple enough.
-216211271	I'll be here at the boat until you return.
-909799060	That's right. And no tricks or surprises this time! I'll keep my eye on you until I have my money.
-1659971631	I'm sure you will. Don't keep me waiting.
-1469700320	CASA DEVITT – ABANDONED
-499411130	Heads down boys. We've got competition.
-1602268031	Keep low. These guys don't look friendly.
-1361834673	Heads down. I don't think we're welcome here.
-2105798437	That takes care of that.
-1633532896	One less to worry about.
-677794467	Heh, feels like old times.
-992646416	It's been three months. Don't tell me you're getting nostalgic already.
-1831053064	Aww, I missed you too, Doc.
+1439508230	Erro de carregamento
+2011900632	Não foi possível salvar o jogo porque os complementos necessários não estão instalados.
+872774976	Não foi possível carregar o jogo salvo porque o conteúdo adicional necessário não está instalado.
+136148407	Ninguém nunca fez nada só por dinheiro, pelo que ouvi.
+1660165176	Pessoalmente, acho o dinheiro muito útil.
+1261457001	Então, quando a oportunidade bate à minha porta, eu a recebo com um sorriso.
+1278454222	Às vezes, você precisa de um pouco de ajuda. A competição pode ser feroz neste negócio.
+185150767	Para minha sorte, eu conheço as pessoas certas para o trabalho.
+2102082305	Eu os conheci um tempo atrás em Baton Rouge. Eles me ajudaram a "sacar" um pouco de dinheiro do banco local.
+331019022	Não posso dizer que nos separamos nas melhores condições, mas nunca deixei isso me impedir antes.
+1103959304	E, felizmente, eu conheço a pessoa certa para me ajudar a reconquistar sua confiança...
+1133542860	Aqui estamos, docinho. Veja, eu disse que nos traria aqui.
+1634605100	Oh, Hector. Eu sabia que você seria o homem certo para o trabalho.
+1240801777	Sem ofensa, mas estou feliz por ter saído daquele barco.
+853530527	Bem, vamos repassar o plano mais uma vez, certo?
+1762897685	Certo. Como todos sabem, nosso querido amigo Vincent DeVitt tem um cofre secreto cheio de dinheiro, escondido nesta mesma propriedade. E estamos aqui para coletar.
+1158841105	Para isso, contorne o edifício principal até o jardim da frente.
+905945278	Como esperado, o lugar está cheio de saqueadores, então sugiro que você mantenha sua cabeça baixa.
+161790833	Ei, olha, há uma roupa para Kate. Ou talvez você queira experimentar, querida?
+1612092283	Talvez um pouco mais tarde, Hector.
+263699796	Certo. Desculpe.
+1827087218	Podemos pegar Cooper no caminho. Ele já deveria estar lá.
+405176793	É melhor ser. Foi-me prometido toda a turma.
+534238372	De qualquer maneira, vá até a estátua no jardim da frente. Aparentemente, ele tem um interruptor escondido que revelará o cofre. Tenho certeza que você vai encontrar agora que sabe o que procurar.
+875030270	Ei, olha, outra roupa para Kate! Você ficaria bem nessa também.
+1940622270	Aww Hector, você é tão doce quanto uma dor de dente.
+1219028219	Tudo bem. Vá para a estátua, encontre o interruptor, limpe o cofre. Simples o suficiente.
+216211271	Estarei aqui no barco até você voltar.
+909799060	Está certo. E sem truques ou surpresas desta vez! Vou ficar de olho em você até ter meu dinheiro.
+1659971631	Tenho certeza que você vai. Não me deixe esperando.
+1469700320	CASA DEVITT - ABANDONADA
+499411130	Aja com discrição. Temos competição.
+1602268031	Fique abaixado. Esses caras não parecem amigáveis.
+1361834673	Abaixem a cabeça. Acho que não somos bem-vindos aqui.
+2105798437	Este não vai mais nos incomodar
+1633532896	Um a menos para se preocupar.
+677794467	Heh, parece como nos velhos tempos.
+992646416	Já se passaram três meses. Não me diga que você já está ficando nostálgico.
+1831053064	Aww, eu também senti sua falta, Doc.
 2058553237	Hrm.
-1196116431	What?
-71162381	He just bet you wouldn't hit that one. Now he owes me half his cut.
-1507192639	Serves him right.
-1838276942	Don't you ever get tired of hauling that thing around?
-429355646	Bianca? Never! She and I are inseperable!
-1704857622	Speaking of which, what does Bianca have to say about your new friend?
-1062001064	Hush. I haven't told her yet. Still waiting for the right moment.
-2057270502	Oooh! Gotcha!
-2017145395	And we're in.
-751805464	Heh, we're in.
-1863142411	So far so good.
-1058811807	So Hector! You and Rosie?
-818345288	Isn't she lovely! Ever since Baton Rouge, our hearts have been aching for each other.
-1848577480	Is that right?
-511523365	Oh come on, Doc. There must be a romantic bone somewhere in your body.
-852808524	There isn't. Trust me, I'm a doctor.
-1960709266	Half way to the statue.
-1618595946	Half way to the statue.
-992660605	Half way to the statue.
-46259631	I can't wait to get back to my Rosie. She's just as adorable as on that first night, when we had drinks together.
-1536448338	You mean when she drugged us?
-1829706449	And made us turn the whole town upside down?
-1322908957	Oh, what a great night that was.
-2022090299	That girl over there...
-2000101000	Hey Kate! You see the lady?
-1525946404	That woman over there...
-859565811	Those clothes would fit me nicely.
-409304113	I get the feeling you can wear pretty much anything.
-1175753244	Well.. thank you Doc.
-66829920	Easy as pie.
-2037938360	You're getting a bit too good at that.
-342089845	You sound just like John when we play poker.
-1828461089	Uh oh. What's the score?
-1610525438	Let's just say I'm catching up fast.
-23855518	I'm tellin' ya, ain't nothing back there.
-619156305	Sue. I can feel it in my bones. That there's the spot!
-1230956	Fine. Keep diggin'.
-232721941	Find anything yet?
-1321298883	I would, if you'd help me out already.
-2056084533	Nah, I'm gonna stay here.
-629498136	I could watch you all day.
-431620888	Yeah, yeah. You're gonna stop laughing when I find the vault.
-1761993093	Oh, I can't wait.
-976791828	Dickson caught a turkey. Says he's gonna cook it real nice.
-1454320049	Where the hell did he find a turkey?
-1120445759	Well he SAYS it's a turkey.
-913085114	Two weeks in this shithole. Goddamnit.
-972211708	Come on. Gonna be worth it when we find the vault.
-1103444158	If there IS a vault...
-1234441978	I swear, if someone else finds that thing before we do...
-969746062	Relax, big shot. Guys like you always get their cut, right?
-1404145495	Damn right!
-1945097956	Hey shouldn't you be digging somewhere?
-1685344771	Shouldn't you be guarding something?
-716150833	Tch, smartass.
-1586843077	How'd you land this job?
-406228892	Strong arms, good looks, and I brougth my own shovel.
-1184149118	You're full of shit Larry.
-12831936	DeVitt sure was a piece of work.
-62876281	What, you knew the guy?
-1578464629	Saw him couple times. Real pushover on the outside, but the way he looked at you... 
-1835958351	What are you gonna do with your cut?
-624669878	Dunno. Maybe I'll buy myself a nice long coat like yours. Be part of the big league.
-15329226	Hahahaha, yeah right...
-532594319	If anyone gets rough with you, you call me, got it?
-1086590103	Don't worry hun. I can take care of myself.
-628258295	So, uh, you come around here often?
-2087141827	Not really. I don't normally work in abandoned mansions.
-2041736012	It ain't easy you know. Standing guard all day.
-499093667	Oh, I can imagine.
-1458871679	Your, uh, your dress is real nice.
-1225870713	Why thank you darling. That's nice of you.
-1100892390	Hey uh, I got some free time later, and...
-1034687102	Sorry hun, but I'll be quite busy this evening.
-1097466491	Sure hope the boys are treatin you well.
-2027734157	Oh they're harmless. Trust me, I've seen much worse.
-648120286	Come on guys, this ain't funny!
-1878002326	We're all on the same side here!
-1379869580	Come on, I need to get in there!
-1531861263	You gonna make me walk all the way around?
-1850100102	Hey uh, I think we found the vault! You wanna check?
-1456878426	For Chrissake, my arm's getting tired!
-1054382653	Cassidy! You hear me? Open up!
-1842843856	Still nothing. Just dirt and old bones.
-845867031	Shit. Maybe it ain't here.
-1817997445	Maybe the others found it.
-2112913084	Nah, don't think so. Let's stay here.
-888321464	How long's Benny been diggin'?
-868958188	Must be two hours. Don't worry, he's a beast.
-2094559204	Hey Gruber! How's it going buddy?
+1196116431	Quê?
+71162381	Oh nada. Aposto que você não iria bater nele. Agora ele me deve metade de sua parte.
+1507192639	Bem feito.
+1838276942	Você nunca se cansa de carregar essa coisa por aí?
+429355646	Bianca? Nunca! Ela e eu somos inseparáveis!
+1704857622	Falando nisso, o que Bianca tem a dizer sobre seu novo amigo?
+1062001064	Silêncio. Eu não disse a ela ainda. Ainda estou esperando o momento certo.
+2057270502	Oooh! Peguei vocês!
+2017145395	E estamos dentro
+751805464	Heh, estamos dentro
+1863142411	Por enquanto, tudo bem.
+1058811807	Então, Hector! Você e Rosie?
+818345288	Ela não é adorável! Desde Baton Rouge, nossos corações estão doendo um pelo outro.
+1848577480	Isso está certo?
+511523365	Oh qual é, Doc. Deve haver um osso romântico em algum lugar do seu corpo.
+852808524	Não existe. Confie em mim, eu sou um médico.
+1960709266	A meio caminho da estátua.
+1618595946	A meio caminho da estátua.
+992660605	A meio caminho da estátua.
+46259631	Mal posso esperar para voltar para minha Rosie. Ela é tão adorável quanto na primeira noite, quando bebemos juntos.
+1536448338	Você quer dizer quando ela nos drogou?
+1829706449	E nos fez virar a cidade inteira de cabeça para baixo?
+1322908957	Oh, que noite ótima foi aquela.
+2022090299	Aquela garota ali...
+2000101000	Ei, Kate! Você vê a senhora?
+1525946404	Aquela mulher ali...
+859565811	Essas roupas caberiam muito bem em mim.
+409304113	Tenho a sensação de que você pode usar praticamente qualquer coisa.
+1175753244	Bem... obrigado Doc.
+66829920	Fácil como uma torta.
+2037938360	Você está ficando bom demais nisso.
+342089845	Você fala exatamente como John quando jogamos pôquer.
+1828461089	Uh oh. Qual é o resultado?
+1610525438	Digamos que estou me atualizando rapidamente.
+23855518	Estou te dizendo, não há nada lá atrás.
+619156305	Que sim. Eu tenho um palpite. Este é o Local!
+1230956	Ótimo. Continue cavando.
+232721941	Já encontrou alguma coisa?
+1321298883	Eu faria, se você me ajudasse.
+2056084533	Nah, eu vou ficar aqui.
+629498136	Eu poderia te assistir o dia todo.
+431620888	Sim, Sim. Você vai parar de rir quando eu encontrar o cofre.
+1761993093	Oh, mal posso esperar.
+976791828	Dickson pegou um peru. Diz que vai cozinhar muito bem.
+1454320049	Onde diabos ele encontrou um peru?
+1120445759	Bem, ele DIZ que é um peru.
+913085114	Estamos neste buraco há duas semanas. Maldita seja.
+972211708	Vamos. Vai valer a pena quando encontrarmos o cofre.
+1103444158	SE houver um cofre...
+1234441978	Eu juro, se alguém encontrar essa coisa antes de nós...
+969746062	Calma, campeão. Caras como você sempre recebem sua parte, certo?
+1404145495	Isso mesmo!
+1945097956	Ei, você não deveria estar cavando em algum lugar?
+1685344771	Você não deveria estar guardando algo?
+716150833	Tch, espertinho.
+1586843077	Como você conseguiu esse emprego?
+406228892	Braços fortes, boa aparência e trouxe minha própria pá.
+1184149118	Você está cheio de merda, Larry.
+12831936	DeVitt com certeza era uma peça.
+62876281	O que, você conhecia o cara?
+1578464629	Eu o vi algumas vezes. Ele parecia um covarde, mas a maneira como ele olhou para você...
+1835958351	O que você vai fazer com sua parte?
+624669878	Não sei. Talvez eu compre para mim um belo casaco longo como o seu. Faça parte da grande liga.
+15329226	Hahahaha, Okay, certo...
+532594319	sim certo .. Se alguém ficar áspero com você, você me liga, entendeu?
+1086590103	Não se preocupe, querida. Eu posso cuidar de mim mesmo.
+628258295	Então, uh, você vem sempre por aqui?
+2087141827	Na verdade não. Normalmente não trabalho em mansões abandonadas.
+2041736012	Não é fácil, você sabe. Ficar de guarda o dia todo.
+499093667	Oh, posso imaginar.
+1458871679	Seu, uh, seu vestido é muito bonito.
+1225870713	Obrigado, querida. Isso é legal da sua parte.
+1100892390	Ei uh, eu tenho algum tempo livre depois, e...
+1034687102	Desculpe, querida, mas estarei muito ocupado esta noite.
+1097466491	Espero que os meninos estejam tratando você bem.
+2027734157	Oh, eles são inofensivos. Acredite em mim, já vi muito pior.
+648120286	Vamos rapazes, isso não é engraçado!
+1878002326	Estamos todos do mesmo lado aqui!
+1379869580	Vamos, eu preciso entrar aí!
+1531861263	Você vai me fazer andar todo o caminho?
+1850100102	Ei, uh, acho que encontramos o cofre! Você quer verificar?
+1456878426	Pelo amor de Deus, meu braço está ficando cansado!
+1054382653	Cassidy! Você me escuta? Abra!
+1842843856	Nada ainda. Apenas sujeira e ossos velhos.
+845867031	Merda. Talvez não esteja aqui.
+1817997445	Talvez os outros tenham encontrado.
+2112913084	Nah, acho que não. Vamos ficar aqui.
+888321464	Há quanto tempo Benny está cavando?
+868958188	Deve ser por umas duas horas. Não se preocupe, ele é uma besta.
+2094559204	Ei Gruber! Como vai amigo?
 772477219	Hrm!
-975232033	Yeah, I feel ya.
-1475282420	You think we gonna find the vault soon?
+975232033	Sim, eu sinto.
+1475282420	Você acha que vamos encontrar o cofre logo?
 1774694431	Hrm!
-1590881416	Maybe you're right.
-586308376	Hey, uh... what do you think of Jane back there?
+1590881416	Talvez você esteja certo.
+586308376	Ei, uh... o que você acha da Jane alí atrás?
 555209690	Hrm!
-728360912	Oh, you dog!
-380556032	You know, I'm glad you and I understand each other.
+728360912	Oh, seu cachorro!
+380556032	Sabe, estou feliz que você e eu nos entendamos.
 1566475825	Hrm!
-161403227	Whatever that meant...
-2022138195	What are you going to do with all the furniture?
-1825740393	Sell it. Lots of folks willing to pay for stuff like this.
-1238472340	Ah yes, that makes sense.
-1007114457	What was that strange glass ball they carted down to the beach?
-517018701	Some kinda invention. Don't look worth much, but maybe well get a few dollars for it.
-1411371204	Hmm... wonder what it was for.
-1527071836	What is this vault everyone's talking about?
-1899045876	Oh, don't worry, you'll see when we find it.
-1118356624	Aw, not fair.
-1836597016	So, who's the boss around here?
-1383959471	There's a three. Me, Dickson and ol' Cassidy. We got a friendly rivalry going on.
-1969903709	You're a boss? How exciting!
-22297907	How did you find this place?
-1908763963	Couple of us used to work for DeVitt. When he was out, we knew it was ripe for picking.
-1027285003	I see.
-880703045	Aren't you afraid of what the DeVitt family will do when they find out?
-242465586	DeVitt family? What are you talking about?
-1607480974	Oh, nothing.
-1440494411	So how long have you been here?
-1004496004	Couple weeks, but with all the work, time flies by.
-1618197473	I can imagine.
-731179537	You seen Johnson chatting up that sweet thing?
-1875182487	You kidding me? He acting like he's boss again?
-1470039764	Yeah. Wait til' Dickson and Cassidy find out.
-192560115	Why'd we get the boring job?
-1326044845	You'd rather be up there and diggin?
-1464072843	You got a point there.
-1991645507	I'm so ready to get outa here.
-775493906	Oh I dunno. It's kinda relaxing down here.
-1440239282	That's cause you are not on patrol.
-1803340981	Shit... damn ladder will be the death of me.
-154805309	That's what you get for sitting on your fat ass all week.
-830080808	Yeah screw you too.
-1346870263	Hey, if you're looking out for boats, you're looking in the wrong direction.
-1895268785	Nah, I'd rather watch other folks work.
-890092969	Smartass.
-406434434	Let's keep an eye open for John.
-1835674836	Remember, Cooper's waiting for us.
-274985253	Let's hope Cooper's at the rendevouz.
-1525274004	Why is he late anyway?
-694330878	He was on a bank job with a certain Sam Williams when your message came.
-1182546657	Williams? Never heard of him.
-2015891299	Don't worry, I'm sure John's gonna introduce you someday.
+161403227	O que quer que isso signifique...
+2022138195	O que você vai fazer com todos esses móveis?
+1825740393	Venda. Muitas pessoas dispostas a pagar por coisas assim.
+1238472340	Ah sim, isso faz sentido.
+1007114457	O que era aquela estranha bola de vidro que eles carregaram para a praia?
+517018701	Algum tipo de invenção. Não parece valer muito, mas talvez possamos ganhar alguns dólares por isso.
+1411371204	Hmm... me pergunto para que era.
+1527071836	O que é esse cofre que todo mundo está falando?
+1899045876	Oh, não se preocupe, você verá quando o encontrarmos.
+1118356624	Ah, não é justo.
+1836597016	Então, quem é o chefe por aqui?
+1383959471	Tem três. Eu, Dickson e o velho Cassidy. Temos uma rivalidade amigável acontecendo.
+1969903709	Você é o chefe? Que legal!
+22297907	Como você encontrou este lugar?
+1908763963	Alguns de nós trabalhamos para DeVitt. Quando ele saiu, sabíamos que estava pronto para ser coletado.
+1027285003	Entendo.
+880703045	Você não tem medo do que a família DeVitt fará quando descobrir?
+242465586	Família DeVitt? Do que você está falando?
+1607480974	Oh nada.
+1440494411	Há quanto tempo você está aqui?
+1004496004	Algumas semanas, mas com todo esse trabalho, o tempo voa.
+1618197473	Eu posso imaginar.
+731179537	Você viu Johnson conversando sobre aquela coisa fofa?
+1875182487	Você esta brincando comigo? Ele está agindo como se fosse o chefe de novo?
+1470039764	Sim. Espere até que Dickson e Cassidy descubram.
+192560115	Por que estamos nesse trabalho chato?
+1326044845	Você prefere estar lá e cavar?
+1464072843	Você tem razão.
+1991645507	Estou pronto para sair daqui.
+775493906	Oh, eu não sei. É meio relaxante aqui.
+1440239282	Isso é porque você não está patrulhando.
+1803340981	Merda... maldita escada, será a minha morte.
+154805309	Isso é o que você ganha por ficar sentado em cima do seu traseiro gordo a semana toda.
+830080808	Sim, vá se ferrar também.
+1346870263	Ei, se você está procurando por barcos, você está olhando na direção errada.
+1895268785	Nah, eu prefiro assistir outras pessoas trabalhando.
+890092969	Espertinho.
+406434434	Vamos ficar de olho no John.
+1835674836	Lembre-se, Cooper está esperando por nós.
+274985253	Espero que Cooper esteja no ponto de encontro.
+1525274004	Por que ele está atrasado?
+694330878	Ele estava trabalhando em um banco com um certo Sam Williams quando sua mensagem chegou.
+1182546657	Williams? Nunca escutei sobre ele.
+2015891299	Não se preocupe, tenho certeza de que John vai apresentá-lo algum dia.
 1613755685	Mhm.
-867698267	Why hello there, John.
-978194603	Amigo, good to see you!
-1593836762	There you are.
-2025082573	Finally! You guys took your sweet time.
-996196602	Heh, first he wants a pickup, and now he's complaining.
-1917925179	John! The audacity!
-2099999955	Maybe we should just leave him behind.
-158489738	Relax. I'm coming.
-1722781776	Let's see...
-70142469	Let's see...
-551310186	Let's see...
-141060346	Wait, let's fetch Cooper before we play around with this thing.
-982765032	Oh, uh, good idea.
-963242014	Nothing to report.
-1453588483	Hmmm, nope.
+867698267	Olá, John.
+978194603	Amigo, que bom ver você!
+1593836762	Aí está você.
+2025082573	Finalmente! Vocês demoraram muito.
+996196602	Heh, primeiro ele quer que o busquemos e depois ele reclama.
+1917925179	John! Que audácia!
+2099999955	Talvez devêssemos apenas deixá-lo para trás.
+158489738	Relaxa. Estou chegando.
+1722781776	Vamos ver...
+70142469	Vamos ver...
+551310186	Vamos ver...
+141060346	Espere, vamos buscar Cooper antes de brincarmos com essa coisa.
+982765032	Oh, uh, boa ideia.
+963242014	Nada a declarar.
+1453588483	Hmmm, Não.
 81801756	Nuh-uh.
-502670110	Still nothing.
-815857425	All nice and quiet.
-1038428582	Business as usual.
-68293806	Everything looks alright.
-1240999292	No trouble in the maze.
-1842546188	Statue looks good.
-1445509826	Turning around and around.
-2023392478	Hmm... getting kinda dizzy.
-822049383	Ah... whew, almost fell off.
-1762123465	I think I see the statue.
-1686010490	I got eyes on the statue.
-657121241	Aha! I can see the statue.
-923685244	So what are we looking for exactly?
-1395240618	Rosie said there's a hidden switch on the statue.
-438019544	Course she did. Alright, lets take a look.
-158025997	Still two guns, huh? Did you get a spare?
-975667108	Yup.
-1117783033	I'm telling you, if you wanna shoot three people with one gun, you gotta use a shotgun, amigo!
-1752339602	In a few months, you're gonna eat those words.
-1264318939	Now, where could that switch be?
-1889196583	So how do we find this switch?
-720759668	So... a switch, huh?
-240348725	So where's that hidden switch?
-1457663805	Maybe scratch his balls?
-1940221964	I ain't gonna touch the crownjewels, thank you very much!
-1825475299	I'm sure it can't be too hard to find.
-1521558981	I got it.
-1238941761	And open sesame.
-1214290383	Oh, something's happening.
-1739974840	There we go.
-1082806090	Huh? What the hell!
-1340786271	For Gods sake Jimmy, stop screamin'!
-1290092441	This is it boys. Looks like one of ya idiots finally made it happen.
-440291752	Butch, come here! Get this damn thing open, willya?
-436036634	On it, boss.
-936247893	I doubt they'll get that thing open anytime soon.
-828355742	Can you crack it?
-1568876887	Why do you even ask?
-1302287854	Alright, then let's clear the area so you can get to work.
-1476447408	Looks pretty crowded around that safe.
-520055006	These folks sure have been busy.
-1078009245	Oho, that's a lot of guards.
-719538678	Not much farther. I can almost smell the money.
-1074643530	Let's finish them quick. I'm sure Rosie's aching for my return!
-86955596	Hey, uh... is he always going on like this... ?
-147861887	Yup.
-857702400	Constantly.
-1192703648	Oh boy.
-274454063	Come on, what's taking so long?
-1010827604	I'm working, alright?
-1902320253	Is there a problem?
-103543113	You see how big this thing is?
-2019762533	Why do I bring a safecracker if he can't crack a damn safe?
-909119802	Come on, Cass. Let me concentrate.
+502670110	Nada ainda.
+815857425	Tudo agradável e tranquilo.
+1038428582	Negócios, como sempre.
+68293806	Tudo parece bem.
+1240999292	Nenhum problema no labirinto.
+1842546188	A estátua parece boa.
+1445509826	Girando e girando.
+2023392478	Hmm... ficando meio tonto.
+822049383	Ah... ufa, quase caiu.
+1762123465	Acho que vejo a estátua.
+1686010490	Eu tenho os olhos na estátua.
+657121241	Aha! Eu posso ver a estátua.
+923685244	Então, o que exatamente estamos procurando?
+1395240618	Rosie disse que há um interruptor escondido na estátua.
+438019544	Claro que ela fez. Tudo bem, vamos dar uma olhada.
+158025997	Você ainda carrega duas armas, hein? Você conseguiu uma de reserva?
+975667108	Sim.
+1117783033	Estou te dizendo, se você quer atirar em três pessoas com uma arma, você tem que usar uma espingarda, amigo!
+1752339602	Em alguns meses, você vai engolir essas palavras.
+1264318939	Ok, onde está essa chave?
+1889196583	Como encontramos a chave?
+720759668	Bem... um interruptor, hein?
+240348725	Então, onde está aquele interruptor escondido?
+1457663805	E se você tiver que coçar as bolas dele?
+1940221964	Não vou tocar nas joias da coroa, muito obrigado!
+1825475299	Tenho certeza de que não pode ser muito difícil de encontrar.
+1521558981	Deixa comigo.
+1238941761	Abre-te Sésamo.
+1214290383	Oh, algo está acontecendo.
+1739974840	Aqui vamos nós.
+1082806090	Hã? Que diabos!
+1340786271	Pelo amor de Deus Jimmy, pare de gritar!
+1290092441	É isso, pessoal. Parece que um de seus idiotas conseguiu.
+440291752	Butch, venha aqui! Abra essa maldita coisa, sim?
+436036634	Indo, chefe.
+936247893	Duvido que eles abram essa coisa tão cedo.
+828355742	Você pode quebrá-lo?
+1568876887	Por que você ainda pergunta?
+1302287854	Tudo bem, então vamos limpar a área para que você possa trabalhar.
+1476447408	Há muitas pessoas ao redor daquele cofre.
+520055006	Essas pessoas com certeza têm estado ocupadas.
+1078009245	Oh, são muitos guardas.
+719538678	Não estamos longe. Quase posso sentir o cheiro do dinheiro.
+1074643530	Vamos acabar com eles rápido. Tenho certeza de que Rosie está ansiosa pelo meu retorno!
+86955596	Ei, uh... ele sempre age dessa maneira...?
+147861887	Sim.
+857702400	Constantemente.
+1192703648	Oh garoto.
+274454063	Vamos, por que está demorando tanto?
+1010827604	Eu estou trabalhando, certo?
+1902320253	Algum problema?
+103543113	Você vê como essa coisa é grande?
+2019762533	Qual o sentido de trazer um chaveiro se ele não consegue abrir um cofre?
+909119802	Vamos, Cass. Deixe-me concentrar.
 1709304919	I'm waiting.
 483538927	How am I supposed to work with you constantly yelling in my ears?
 787184426	Just open it, alright?
