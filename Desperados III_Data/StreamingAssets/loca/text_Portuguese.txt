@@ -340,9 +340,9 @@ Portuguese	Português(BR)
 213395621	Capítulo II
 1849150576	Capítulo III
 396044400	Estatísticas globais
-42023172	Ver gravações
+42023172	Ver replays
 1655725184	Tutoriais
-943246456	Gravação salva
+943246456	Salvar o replay 
 1893463442	Casa de guarda
 1469139790	Modo de acompanhamento da câmera
 259250595	Padrão: Nenhum acompanhamento automático, apenas por ação manual./nSempre: Mantém a câmera centralizada no líder.
@@ -16126,12 +16126,12 @@ Portuguese	Português(BR)
 1118532829	Obrigado por jogar a demonstração!
 895665882	Fim da demonstração
 1303355286	Devitt tem que permanecer vivo e amarrado.
-972756208	Carregar gravação
-1453684936	Apagar a gravação? {0}
-1850594441	Número máximo de gravações atingido!
-1788790745	Gravação corrompida
+972756208	Carregar replay
+1453684936	Apagar o replay? {0}
+1850594441	Número máximo de replays atingido!
+1788790745	Replay corrompido
 1497734632	Por favor, espere
-791830996	Carregando sua gravação…
+791830996	Carregando seu replay…
 1998694387	Big Ann
 1420130176	???
 1809394359	Não mate ninguém.
@@ -16822,8 +16822,8 @@ Portuguese	Português(BR)
 1129809586	Outra hora, outro lugar. Um jovem rapaz veio para acertar contas. Frank está esperando na capela. O garoto estará pronto desta vez? Vamos descobrir.
 1681926345	Contornos de personagens
 554268524	Ativa contornos para personagens ocultos atrás de objeto./nNOTA: Mesmo desativado, os personagens ocultos atrás de objetos ainda podem ser selecionados.
-1772227058	As gravações estão parcialmente corrompidas. Erros visuais podem ocorrer durante a reprodução.
-736970267	As gravações estão totalmente corrompidas. Não será possível a reprodução.
+1772227058	Os replays estão parcialmente corrompidos. Erros visuais podem ocorrer durante a reprodução.
+736970267	Os replays estão totalmente corrompidos. Não será possível a reprodução.
 558911311	Na caçada
 1896713945	Vibração
 1275925138	Suas configurações de entrada personalizadas foram corrompidas e não podem ser carregadas. O arquivo será excluído.
