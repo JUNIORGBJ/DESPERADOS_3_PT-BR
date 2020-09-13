@@ -1,73 +1,73 @@
-1709304919	I'm waiting.
-483538927	How am I supposed to work with you constantly yelling in my ears?
-787184426	Just open it, alright?
-1584416006	I'm on it, Cass. Relax.
-993672428	Is it open yet?
-1332824998	What's it look like smartass?
-222575628	Uh... not open?
-1291261267	Just let me work, Jesus.
-1103802751	How's he doing?
-2038428487	Ask him.
-1789273480	Hey Butch! How are you doing?
-1701212537	Shut up and make your rounds.
-1356906179	Still?
-1427950506	Yup.
-696682202	Hey Butch!
-774178509	One more word, and I'll crack this open with your skull!
-220018265	This is taking forever.
-1263721438	Ugh, tell me about it.
-283430914	You need anything now?
-266158854	The only thing I require is SILENCE!
-1564635340	Alright, let's see what we've got.
+1709304919	Estou esperando.
+483538927	Como vou trabalhar com você gritando constantemente em meus ouvidos?
+787184426	Apenas abra, ok?
+1584416006	Estou trabalhando nisso, Cass. relaxe.
+993672428	Já está aberto?
+1332824998	O que isso parece espertinho?
+222575628	Uh... não abriu?
+1291261267	Apenas me deixe trabalhar, Jesus.
+1103802751	Como ele está?
+2038428487	Pergunte a ele.
+1789273480	Ei Butch! Como vai você?
+1701212537	Cale a boca e faça suas rondas.
+1356906179	Ainda?
+1427950506	Sim.
+696682202	Ei Butch!
+774178509	Mais uma palavra, e vou abrir isso com seu crânio!
+220018265	Isso está demorando uma eternidade.
+1263721438	Ugh, me fale sobre isso.
+283430914	Você precisa de alguma coisa agora?
+266158854	A única coisa que preciso é SILÊNCIO!
+1564635340	Tudo bem, vamos ver o que temos.
 1292847304	Hrm.
-1125921543	What? What's wrong?
-760730558	The damn thing is empty. All that's in here is a note.
-688570029	Wonderful.
-249881902	Let's head back to Rosie.
-1144786249	Let's fetch Cooper and head back to Rosie.
-1889591150	She better have an explanation for this.
-109488112	Welcome back.
-569979334	There she is! Amigo, say hello to my lovely Rosie!
-509371406	Hey there, Miss. Sorry I don't remember you from Baton Rouge. My memory, y'know's a bit hazy.
-260862792	Oh, don't you trouble your little head Mr. Cooper. It happens to the best of us.
-81203496	Rosie, the vault was empty. All we found was a note.
-1104832070	I feared as much. Can I see it?
-281717185	You telling me you KNEW this would happen?
-1657860207	I had a hunch. Now, let's see...
-357235499	What does it say, honey?
-1174650106	"To whomever lowlife scum this may concern, I suggest you remove yourself from my brother's property and go back to digging in the dirt where you belong."
-1082676112	Signed: "Magnus Hieronymus DeVitt."
-1962075237	Looks like the hunt is just getting started.
-283593118	Chapter IV – The Beauty and the Beast
-571719469	Chapter IV – Money for the Vultures
-1728706167	Find the Switch on the Statue
-2056762711	Get to the statue in the front yard. There's a hidden switch on it that does... something.
-1034617777	Pick up Cooper (Optional)
-456779033	Cooper is waiting at the entrance. Go say hello.
-941098583	Crack the Safe
-786314742	The vault has been revealed beneath the fountain. McCoy can crack the safe.
-2057191596	Disguise A
-2088523610	There's a disguise for Kate in the pit.
-1481916635	Disguise B
-1024967519	There's a disguise for Kate in the garden.
-1247782491	Casa DeVitt/n(abandoned)
-695077169	Part 1: Late To The Party
-265455246	In the first part of "Money for the Vultures", the gang reunites once again to hunt down Vincent DeVitt's hidden riches./n/nHelp them uncover a mysterious vault, avoid bloodthirsty looters, and find out if the enigmatic Rosie from Baton Rouge can really be trusted, or if she has her own interests in mind.
-72555366	Three months after the showdown at Devil's Canyon, the gang comes together once more./n/nA message from Hector promises a lucrative deal: a hunt for the hidden riches of Vincent DeVitt./n/nThey arrive at DeVitt's estate, now tarnished by neglect and the hands of greedy looters./n/nWith them is the mysterious Rosie, a dubious aquaintance from their escapades in Baton Rouge... 
-1549737372	Three months after the showdown at Devil's Canyon, the gang reunites for a special job./n/nRosie, a dubious aquaintance from Baton Rouge, wants their help to hunt down the hidden treasure vault of Vincent DeVitt./n/nOn returning to the now abandoned Casa DeVitt, the gang must now make their way through bloodthirsty looters to the statue in the front yard./n/nA hidden switch on the statue is supposed to reveal the vault. Once that's done, the only thing left to do is clear it out. Oh, and Cooper is somewhere too.
-1972791255	Bring Rosie a present.
-1497331362	Bring Rosie a dress.
-1294823371	Don't meet up with Cooper.
-340212994	Nobody ever did anything just for money.
-1087297469	I admit, sometimes it's hard to justify the lengths I go to.
-787239786	Snatching Vincent DeVitt's hidden wealth from under a few looters' noses sounded easy enough.
-1133525180	Turns out his brother Magnus cleared out the vault long before we came.
-474428530	Lucky for us, I know where to find Magnus DeVitt.
-532289047	Though I hadn't planned on returning to Louisiana for quite some time...
-1324959016	Piss off! And don't you come back again!
-2067274862	No luck. Unsurprisingly, Mr. DeVitt will not receive us.
-495576672	Was that guy mean to you?! I'm gonna twist his head off!
-1108652645	Relax, darling. We'll just have to resort to Plan B.
+1125921543	O que? O que há de errado?
+760730558	A maldita coisa está vazia. Tudo o que está aqui é uma anotação.
+688570029	Maravilhoso.
+249881902	Vamos voltar para Rosie.
+1144786249	Vamos buscar Cooper e voltar para Rosie.
+1889591150	É melhor ela ter uma explicação para isso.
+109488112	Bem vindo de volta.
+569979334	Lá está ela! Amigo, diga olá para minha adorável Rosie!
+509371406	Olá, senhorita. Desculpe, não me lembro de você em Baton Rouge. Minha memória, sabe, é um pouco nebulosa.
+260862792	Oh, não perturbe sua cabecinha Sr. Cooper. Acontece com o melhor de nós.
+81203496	Rosie, o cofre estava vazio. Tudo o que encontramos foi uma anotação.
+1104832070	Eu temia isso. Posso ver isso?
+281717185	Você está me dizendo que SABIA que isso aconteceria?
+1657860207	Tive um palpite. Agora vamos ver...
+357235499	O que isso diz, querida?
+1174650106	"Para quem quer que seja a escória que isso possa interessar, eu sugiro que você saia da propriedade do meu irmão e volte a cavar na terra onde você nasceu."
+1082676112	Assinado: "Magnus Hieronymus DeVitt."
+1962075237	Parece que a caça está apenas começando.
+283593118	Capítulo IV - A Bela e a Fera
+571719469	Capítulo IV - Dinheiro para os Abutres
+1728706167	Encontre o interruptor na estátua
+2056762711	Vá para a estátua no jardim da frente. Há um interruptor oculto que faz... alguma coisa.
+1034617777	Pegue Cooper (opcional)
+456779033	Cooper está esperando na entrada. Vá dizer um oi.
+941098583	Abra o cofre
+786314742	A câmara apareceu abaixo da fonte. McCoy pode abrir o cofre.
+2057191596	Disfarce A
+2088523610	Há um disfarce para Kate no fosso.
+1481916635	Disfarce B
+1024967519	Há um disfarce para Kate no jardim.
+1247782491	Casa DeVitt/n(abandonada)
+695077169	Parte 1: Tarde para a festa
+265455246	Na primeira parte de "Money for the Vultures", a turma se reúne mais uma vez para caçar as riquezas escondidas de Vincent DeVitt./n/nAjude-os a descobrir um cofre misterioso, evite saqueadores sedentos de sangue e descubra se a enigmática Rosie de Baton Rouge é realmente confiável ou se ela tem seus próprios interesses em mente.
+72555366	Três meses após o confronto no Devil's Canyon, a gangue se reúne mais uma vez./n/nUma mensagem de Hector promete um negócio lucrativo: uma caça às riquezas ocultas de Vincent DeVitt./n/nEles chegam à propriedade de DeVitt, agora manchada pela negligência e pelas mãos de saqueadores gananciosos./n/nCom eles está a misteriosa Rosie, uma conhecida duvidosa de suas aventuras em Baton Rouge... 
+1549737372	Três meses após o confronto no Devil's Canyon, a gangue se reúne para um trabalho especial./n/nRosie, uma duvidosa conhecida de Baton Rouge, quer sua ajuda para caçar o tesouro escondido de Vincent DeVitt./n/nAo retornar para a agora abandonada Casa DeVitt, a gangue deve agora abrir caminho através de saqueadores sedentos de sangue até a estátua no jardim da frente./n/nUm interruptor escondido na estátua deve revelar a abóbada. Feito isso, a única coisa que resta a fazer é limpá-lo. Ah, e Cooper está em algum lugar também.
+1972791255	Traga um presente para Rosie.
+1497331362	Traga um vestido para Rosie.
+1294823371	Não se encontre com Cooper.
+340212994	Ninguém nunca faz nada só por dinheiro.
+1087297469	Eu admito, às vezes é difícil justificar até onde vou.
+787239786	Arrancar a riqueza oculta de Vincent DeVitt debaixo do nariz de alguns saqueadores parecia fácil.
+1133525180	Acontece que seu irmão Magnus esvaziou o cofre muito antes de chegarmos.
+474428530	Para nossa sorte, sei onde encontrar Magnus DeVitt.
+532289047	Embora eu não tivesse planejado voltar para a Louisiana por algum tempo...
+1324959016	Não me chateies! E não volte mais!
+2067274862	Sem sorte. Sem surpresa, o Sr. DeVitt não nos receberá.
+495576672	Aquele cara foi mau com você ?! Eu vou torcer a cabeça dele!
+1108652645	Relaxa, querida. Teremos apenas que recorrer ao Plano B.
 1190890082	Sounds like you could use a bit of a helping hand.
 1743621451	Belle!
 525813077	Hey there!
@@ -92,7 +92,7 @@
 1655882832	Of course.
 415167592	Don't worry Doc. She's great company.
 1851552262	Oh, I bet.
-2111831061	DEVITT COTTON PLANTATION
+2111831061	PLANTAÇÃO DE ALGODÃO DEVITT
 1977065917	Let's see where this takes us.
 1376135008	Let's slip in discretely, shall we?
 215473589	Come on, the money's waiting.
