@@ -18077,7 +18077,7 @@ Portuguese	Português(BR)
 493806697	Eu realmente tenho que vir atrás de você?
 2052452034	Oh, por favor, podemos evitar brincar de esconde-esconde?
 37470276	... não havia necessidade.
-383522264	... Eu esperava.
+383522264	... eu esperava.
 406362791	Poderia ter sido mais simples.
 37030891	Eu só queria conversar.
 1075182737	Tentamos ser pessoas civilizadas.
@@ -18102,7 +18102,7 @@ Portuguese	Português(BR)
 1881987299	...você é infantil!
 53796211	...muito engraçado.
 1215966749	...que cheiro peculiar.
-606084155	...Acho que esse perfume está fora de moda.
+606084155	...acho que esse perfume está fora de moda.
 3667396	Eu ouço você...
 902969696	Você tem minha atenção...
 1518775060	Oh?
@@ -18124,7 +18124,7 @@ Portuguese	Português(BR)
 1259544004	Oh, por favor...
 1387097959	Nós temos que fazer isso?
 1373352531	Certamente.
-837775492	Sim sim, continue.
+837775492	Sim, sim, continue.
 1417108086	Finalmente. 
 1937726896	Muito bem. Agora vá embora.
 1520398209	Eu estava pensando...
@@ -18161,4 +18161,4 @@ Portuguese	Português(BR)
 608946808	Não se preocupe.
 1939355848	Só uma pergunta. Você acha que ela ainda tem algumas dessas coisas?
 1659839101	PS: Lamento, mas não consigo ver o rosto do Doc agora.
-827557133	Continue de onde parou!/nVá para o menu Opções e digite este código com as teclas de seta em seu controle sem fio: <b><hotkey>"DIREITa, DIREITA, PARA ACIMA e PARA ABAIXO"</hotkey></b>
+827557133	Continue de onde parou!/nVá para o menu Opções e digite este código com as teclas de seta em seu controle sem fio: <b><hotkey>"DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
