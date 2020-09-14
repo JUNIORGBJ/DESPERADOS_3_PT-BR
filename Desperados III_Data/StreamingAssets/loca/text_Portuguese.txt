@@ -16958,7 +16958,7 @@ Portuguese	Português(BR)
 1230956	Ótimo. Continue cavando.
 232721941	Já encontrou alguma coisa?
 1321298883	Eu faria, se você me ajudasse.
-2056084533	Nah, eu vou ficar aqui.
+2056084533	Não, eu vou ficar aqui.
 629498136	Eu poderia te assistir o dia todo.
 431620888	Sim, Sim. Você vai parar de rir quando eu encontrar o cofre.
 1761993093	Oh, mal posso esperar.
@@ -17005,7 +17005,7 @@ Portuguese	Português(BR)
 1842843856	Nada ainda. Apenas sujeira e ossos velhos.
 845867031	Merda. Talvez não esteja aqui.
 1817997445	Talvez os outros tenham encontrado.
-2112913084	Nah, acho que não. Vamos ficar aqui.
+2112913084	Não, acho que não. Vamos ficar aqui.
 888321464	Há quanto tempo Benny está cavando?
 868958188	Deve ser por umas duas horas. Não se preocupe, ele é uma besta.
 2094559204	Ei Gruber! Como vai amigo?
@@ -17014,7 +17014,7 @@ Portuguese	Português(BR)
 1475282420	Você acha que vamos encontrar o cofre logo?
 1774694431	Hrm!
 1590881416	Talvez você esteja certo.
-586308376	Ei, uh... o que você acha da Jane alí atrás?
+586308376	Ei, uh... o que você acha da Jane ali atrás?
 555209690	Hrm!
 728360912	Oh, seu cachorro!
 380556032	Sabe, estou feliz que você e eu nos entendamos.
@@ -17042,7 +17042,7 @@ Portuguese	Português(BR)
 1004496004	Algumas semanas, mas com todo esse trabalho, o tempo voa.
 1618197473	Eu posso imaginar.
 731179537	Você viu Johnson conversando sobre aquela coisa fofa?
-1875182487	Você esta brincando comigo? Ele está agindo como se fosse o chefe de novo?
+1875182487	Você está brincando comigo? Ele está agindo como se fosse o chefe de novo?
 1470039764	Sim. Espere até que Dickson e Cassidy descubram.
 192560115	Por que estamos nesse trabalho chato?
 1326044845	Você prefere estar lá e cavar?
@@ -17054,7 +17054,7 @@ Portuguese	Português(BR)
 154805309	Isso é o que você ganha por ficar sentado em cima do seu traseiro gordo a semana toda.
 830080808	Sim, vá se ferrar também.
 1346870263	Ei, se você está procurando por barcos, você está olhando na direção errada.
-1895268785	Nah, eu prefiro assistir outras pessoas trabalhando.
+1895268785	Não, eu prefiro assistir outras pessoas trabalhando.
 890092969	Espertinho.
 406434434	Vamos ficar de olho no John.
 1835674836	Lembre-se, Cooper está esperando por nós.

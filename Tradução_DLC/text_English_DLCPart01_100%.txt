@@ -1,4 +1,4 @@
-913219151	"Dinheiro para os Abutres" é uma história de várias partes que se passa após os eventos do jogo principal. Se você quiser evitar spoilers, recomendamos terminar primeiro a história principal.
+913219151	"Dinheiro para Abutres" é uma história de várias partes que se passa após a história principal. Se você quiser evitar spoilers, recomendamos primeiro terminar a história principal.
 1439508230	Erro de carregamento
 2011900632	Não foi possível salvar o jogo porque os complementos necessários não estão instalados.
 872774976	Não foi possível carregar o jogo salvo porque o conteúdo adicional necessário não está instalado.
@@ -78,7 +78,7 @@
 1230956	Ótimo. Continue cavando.
 232721941	Já encontrou alguma coisa?
 1321298883	Eu faria, se você me ajudasse.
-2056084533	Nah, eu vou ficar aqui.
+2056084533	Não, eu vou ficar aqui.
 629498136	Eu poderia te assistir o dia todo.
 431620888	Sim, Sim. Você vai parar de rir quando eu encontrar o cofre.
 1761993093	Oh, mal posso esperar.
@@ -103,10 +103,10 @@
 1835958351	O que você vai fazer com sua parte?
 624669878	Não sei. Talvez eu compre para mim um belo casaco longo como o seu. Faça parte da grande liga.
 15329226	Hahahaha, Okay, certo...
-532594319	sim certo .. Se alguém ficar áspero com você, você me liga, entendeu?
+532594319	Sim certo... se alguém ficar áspero com você, você me liga, entendeu?
 1086590103	Não se preocupe, querida. Eu posso cuidar de mim mesmo.
 628258295	Então, uh, você vem sempre por aqui?
-2087141827	Na verdade não. Normalmente não trabalho em mansões abandonadas.
+2087141827	Na verdade, não. Normalmente não trabalho em mansões abandonadas.
 2041736012	Não é fácil, você sabe. Ficar de guarda o dia todo.
 499093667	Oh, posso imaginar.
 1458871679	Seu, uh, seu vestido é muito bonito.
@@ -125,4 +125,4 @@
 1842843856	Nada ainda. Apenas sujeira e ossos velhos.
 845867031	Merda. Talvez não esteja aqui.
 1817997445	Talvez os outros tenham encontrado.
-2112913084	Nah, acho que não. Vamos ficar aqui.
+2112913084	Não, acho que não. Vamos ficar aqui.
