@@ -1,27 +1,27 @@
-554976369	Keep your head straight, amigo. One of us has to. And say hello to the others for me.
+554976369	Sempre mantenha sua cabeça erguida, amigo. Pelo menos você. E diga olá aos outros por mim.
 162482979	Hector
-1817741086	PS: Shame I can't see Doc's face right now.
-698683542	PS: Shame I can't see Doc's face when he gets the news.
-439958868	So they took all the money?
-1384623422	So they took all the money?
-1411313898	So they took all the money?
-2081348216	Every single penny.
-1692563122	Son of a...
-1407808478	Easy there sunshine.
-1612809129	This is... after all that we... all we got is...
-1686252622	Ugh... *faints*
-1056258373	Well, he's out cold.
-610432908	Can't say I blame him. All that money, gone.
-489507973	It's not gone.
-235805570	And how do you know that.
-1913179131	Cause Hector and Rosie are hiding behind that rock over there.
-1710878516	Awww, you're no fun, amigo!
+1817741086	PS: Lamento, mas não consigo ver o rosto do Doc agora.
+698683542	PS: Lamento não poder ver o rosto de Doc quando ele descobrir.
+439958868	Eles pegaram todo o dinheiro?
+1384623422	Eles pegaram todo o dinheiro?
+1411313898	Eles pegaram todo o dinheiro?
+2081348216	Até o último centavo.
+1692563122	Filho de...
+1407808478	Calma, querido.
+1612809129	Depois... depois de tudo isso... nós saímos...
+1686252622	Ugh... *desmaia*
+1056258373	Bem, ele desmaiou.
+610432908	Eu não o culpo. Todo aquele dinheiro se foi.
+489507973	Não acabou.
+235805570	E como você sabe disso.
+1913179131	Porque Hector e Rosie estão se escondendo atrás daquela pedra ali.
+1710878516	Aaah, você estragou a piada, amigo!
 1703739660	Hector! Rosie!
-1803496051	I told you we couldn't fool him.
-694416792	M'lady.
-1024805238	He he, but we got the rest of you, didn't we?
-1237470723	You should have seen your face, HA HA HA!
-607017667	God damn you, Hector!
+1803496051	Eu disse que ele não iria cair nessa.
+694416792	Milady.
+1024805238	Eh eh, mas você caiu nessa, certo?
+1237470723	Você deveria ter visto seu rosto, HA HA HA!
+607017667	Maldito seja, Hector!
 1786818384	HA HA HA HA HA HA!
 1241443894	VO TRACK
 1173178744	...!
@@ -42,15 +42,15 @@
 897202673	...!
 99404448	...
 629531102	...
-493806697	Do you really want me to search for you?
-2052452034	Oh please, must we play hide and seek?
-37470276	... that was unnecessary.
-383522264	... I expected as much.
-406362791	This could all be so much easier.
-37030891	I merely wish to talk.
-1075182737	Let's all be civilized here.
-2033166830	Fine. You know where to find me.
-1403622064	What a waste. Find me if you wish to talk.
+493806697	Eu realmente tenho que vir atrás de você?
+2052452034	Oh, por favor, podemos evitar brincar de esconde-esconde?
+37470276	... não havia necessidade.
+383522264	... Eu esperava.
+406362791	Poderia ter sido mais simples.
+37030891	Eu só queria conversar.
+1075182737	Tentamos ser pessoas civilizadas.
+2033166830	Tudo bem então. Você sabe onde me encontrar.
+1403622064	Que perda de tempo. Venha me ver se quiser conversar.
 963542525	...
 1882854532	...
 1972475870	...
