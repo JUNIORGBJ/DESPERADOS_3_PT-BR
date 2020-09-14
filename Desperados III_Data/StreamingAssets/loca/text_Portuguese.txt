@@ -18030,30 +18030,30 @@ Portuguese	Português(BR)
 9283628	We had a good thing going. We got Frank, and got him good. Even stole that rich prick's money in the end.
 503641842	But I gotta quit while I'm ahead. And Rosie, well, she's nice to me. So why not take the chance.
 905249995	If you wanna come after me, I don't blame you. But I got a feeling you won't. I hope I'm right.
-554976369	Keep your head straight, amigo. One of us has to. And say hello to the others for me.
+554976369	Sempre mantenha sua cabeça erguida, amigo. Pelo menos você. E diga olá aos outros por mim.
 162482979	Hector
-1817741086	PS: Shame I can't see Doc's face right now.
-698683542	PS: Shame I can't see Doc's face when he gets the news.
-439958868	So they took all the money?
-1384623422	So they took all the money?
-1411313898	So they took all the money?
-2081348216	Every single penny.
-1692563122	Son of a...
-1407808478	Easy there sunshine.
-1612809129	This is... after all that we... all we got is...
-1686252622	Ugh... *faints*
-1056258373	Well, he's out cold.
-610432908	Can't say I blame him. All that money, gone.
-489507973	It's not gone.
-235805570	And how do you know that.
-1913179131	Cause Hector and Rosie are hiding behind that rock over there.
-1710878516	Awww, you're no fun, amigo!
+1817741086	PS: Lamento, mas não consigo ver o rosto do Doc agora.
+698683542	PS: Lamento não poder ver o rosto de Doc quando ele descobrir.
+439958868	Eles pegaram todo o dinheiro?
+1384623422	Eles pegaram todo o dinheiro?
+1411313898	Eles pegaram todo o dinheiro?
+2081348216	Até o último centavo.
+1692563122	Filho de...
+1407808478	Calma, querido.
+1612809129	Depois... depois de tudo isso... nós saímos...
+1686252622	Ugh... *desmaio*
+1056258373	Bem, ele desmaiou.
+610432908	Eu não o culpo. Todo aquele dinheiro se foi.
+489507973	Não acabou.
+235805570	E como você sabe disso.
+1913179131	Porque Hector e Rosie estão se escondendo atrás daquela pedra ali.
+1710878516	Aaah, você estragou a piada, amigo!
 1703739660	Hector! Rosie!
-1803496051	I told you we couldn't fool him.
-694416792	M'lady.
-1024805238	He he, but we got the rest of you, didn't we?
-1237470723	You should have seen your face, HA HA HA!
-607017667	God damn you, Hector!
+1803496051	Eu disse que ele não iria cair nessa.
+694416792	Milady.
+1024805238	Eh eh, mas você caiu nessa, certo?
+1237470723	Você deveria ter visto seu rosto, HA HA HA!
+607017667	Maldito seja, Hector!
 1786818384	HA HA HA HA HA HA!
 1241443894	VO TRACK
 1173178744	...!
@@ -18074,15 +18074,15 @@ Portuguese	Português(BR)
 897202673	...!
 99404448	...
 629531102	...
-493806697	Do you really want me to search for you?
-2052452034	Oh please, must we play hide and seek?
-37470276	... that was unnecessary.
-383522264	... I expected as much.
-406362791	This could all be so much easier.
-37030891	I merely wish to talk.
-1075182737	Let's all be civilized here.
-2033166830	Fine. You know where to find me.
-1403622064	What a waste. Find me if you wish to talk.
+493806697	Eu realmente tenho que vir atrás de você?
+2052452034	Oh, por favor, podemos evitar brincar de esconde-esconde?
+37470276	... não havia necessidade.
+383522264	... Eu esperava.
+406362791	Poderia ter sido mais simples.
+37030891	Eu só queria conversar.
+1075182737	Tentamos ser pessoas civilizadas.
+2033166830	Tudo bem então. Você sabe onde me encontrar.
+1403622064	Que perda de tempo. Venha me ver se quiser conversar.
 963542525	...
 1882854532	...
 1972475870	...
@@ -18093,72 +18093,72 @@ Portuguese	Português(BR)
 1021357165	...
 1098530078	...
 1933928116	...
-826843045	The impudence...
-1732844063	Violent brutes...
-1747189432	Who let you in here?
-2133357964	A cat? Oh dear...
-1509523037	I'll have it killed later.
-270966133	Filthy stray.
-1881987299	... how childish!
-53796211	... very amusing.
-1215966749	... ugh, quite the distinct smell.
-606084155	... I believe this fragrance is out of fashion.
-3667396	I'm listening...
-902969696	You have my attention...
+826843045	Que insolência...
+1732844063	Brutos violentos...
+1747189432	Quem te deixou entrar?
+2133357964	Um gato? Oh céus...
+1509523037	Mandarei matá-lo mais tarde.
+270966133	Desgarrado imundo.
+1881987299	...você é infantil!
+53796211	...muito engraçado.
+1215966749	...que cheiro peculiar.
+606084155	...Acho que esse perfume está fora de moda.
+3667396	Eu ouço você...
+902969696	Você tem minha atenção...
 1518775060	Oh?
-821663004	Yes?
+821663004	Sim?
 1400017607	Oho!
-806026269	This will be fun.
-1999204809	Certainly.
-2048933076	Of course.
-1741110259	No.
-944972534	I'm afraid not.
-1697735481	This will do.
-2004857065	Nicely done.
-581391495	Guards! Over here.
-1012765662	Guards! To me!
+806026269	Isto vai ser divertido.
+1999204809	Certamente.
+2048933076	Claro.
+1741110259	Não.
+944972534	Receio que não.
+1697735481	Isso deve ser o suficiente.
+2004857065	Bem feito.
+581391495	Guardas! Por aqui.
+1012765662	Guardas! Até mim!
 1002427896	...
 2086533046	...
-108831970	What on earth happened?
-45616826	Ugh... most peculiar.
-1259544004	Oh please...
-1387097959	Must we do this?
-1373352531	By all means.
-837775492	Yes yes, continue.
-1417108086	Finally. 
-1937726896	Good good. Now shoo.
-1520398209	Now here's a thought...
-1345122856	Oh yes, that'll be splendid...
-727444029	So much to do...
-1142530211	Don't meet up with Cooper.
-1288135695	Make Rosie a gift.
-835220661	Choose the path on the left.
-550095959	Choose the path on the right.
-619308376	Hide in 5 different wardrobes.
-1319775293	Kill Devitt.
-313291732	Don't enter the estate via the left or right path.
-87724348	Don't enter any fields.
-1765436604	Get all map pieces before  confronting Devitt.
-990956071	Don't rescue Kate or Isabelle.
-1955264719	Rescue Kate.
-963487153	Rescue Isabelle.
-438836367	Rescue McCoy before entering the camp or the village area.
-865130160	Don't use the gatling gun.
-1581749027	Take the secret passage.
-2137738712	Take the left path.
-1809731004	Take the right path.
-1134141187	Hide in {0} different cupboards.
-892508374	Kill Magnus DeVitt
-1067562568	Don't kill or knock out Long Coats.
-472073295	Take the secret passage into the fortress.
-410023430	Free Kate.
-53894941	Free Isabelle.
-627002508	Disguise A
-537618445	There is a disguise for Kate in front of the main building.
-1817917760	Disguise B
-791065433	There's a disguise for Kate in the garden.
-709124942	Brought you something sweetie pie!
-608946808	Don't worry about it.
-1939355848	One question though. You think she still has some of that stuff?
-1659839101	PS: Shame I can't see Doc's face right now.
-827557133	Pick up the adventure in the game where you left off!/nGo to the options menu and input the following code with the directional buttons of your wireless controller: <b><hotkey>"RIGHT RIGHT RIGHT UP DOWN"</hotkey></b>
+108831970	O que diabos aconteceu?
+45616826	Ugh... muito peculiar.
+1259544004	Oh, por favor...
+1387097959	Nós temos que fazer isso?
+1373352531	Certamente.
+837775492	Sim sim, continue.
+1417108086	Finalmente. 
+1937726896	Muito bem. Agora vá embora.
+1520398209	Eu estava pensando...
+1345122856	Oh sim, isso seria perfeito...
+727444029	Há muito a se fazer...
+1142530211	Não se encontre com Cooper.
+1288135695	Faça um presente para Rosie.
+835220661	Escolha o caminho da esquerda.
+550095959	Escolha o caminho da direita.
+619308376	Esconda-se em 5 guarda-roupas diferentes.
+1319775293	Mate Devitt.
+313291732	Não entre na propriedade pelo caminho da esquerda ou da direita.
+87724348	Não entre em nenhum campo.
+1765436604	Pegue todas as peças do mapa antes de enfrentar Devitt.
+990956071	Não salve Kate ou Isabelle.
+1955264719	Resgate Kate.
+963487153	Resgate Isabelle.
+438836367	Resgate McCoy antes de entrar no acampamento ou na área da vila.
+865130160	Não use a metralhadora.
+1581749027	Pegue a passagem secreta.
+2137738712	Pegue o caminho da esquerda.
+1809731004	Pegue o caminho da direita.
+1134141187	Esconda-se em {0} armários diferentes.
+892508374	Mate Magnus DeVitt
+1067562568	Não mate ou derrube Casacos Longos.
+472073295	Use a passagem secreta para entrar na fortaleza.
+410023430	Liberte Kate.
+53894941	Liberte Isabelle.
+627002508	Disfarce A
+537618445	Há um disfarce para Kate em frente ao prédio principal.
+1817917760	Disfarce B
+791065433	Há um disfarce para Kate no jardim.
+709124942	Trouxe algo para você, doce!
+608946808	Não se preocupe.
+1939355848	Só uma pergunta. Você acha que ela ainda tem algumas dessas coisas?
+1659839101	PS: Lamento, mas não consigo ver o rosto do Doc agora.
+827557133	Continue de onde parou!/nVá para o menu Opções e digite este código com as teclas de seta em seu controle sem fio: <b><hotkey>"DIREITa, DIREITA, PARA ACIMA e PARA ABAIXO"</hotkey></b>
