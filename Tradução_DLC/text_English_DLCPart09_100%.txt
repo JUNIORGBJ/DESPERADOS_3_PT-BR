@@ -1,6 +1,6 @@
 2006693513	Ei, Doc. Como vai?
 1955351893	Ei, Doc. Estranho te encontrar aqui.
-1157285790	Oi querido. Voce estava com saudades de mim?
+1157285790	Oi querido. Você estava com saudades de mim?
 1116304473	Corte essa maldita corda.
 1167807091	VOCÊ!
 1554057744	Ei, Doc! Espere aí.
@@ -20,9 +20,9 @@
 864081049	Quem eu? Sim eu!
 1378079822	Isso deve ser pelo menos válido... vamos ver...
 1700046139	Vamos contá-los mais tarde. Agora temos que sair antes-
-1461197817	SEU MALDITO! Quem quer que seja, vou te rasgar em pedaços !!!
+1461197817	SEU MALDITO! Quem quer que seja, vou te rasgar em pedaços!!!
 620212224	Eles também faziam parte do seu plano?
-1443099700	Vamos, baby, você pode fazer isso ...
+1443099700	Vamos, baby, você pode fazer isso...
 446411167	E voilà.
 470934886	Vamos mostrar a eles, querida.
 1191471496	Essa é minha garota!
@@ -36,7 +36,7 @@
 7077844	Só há uma saída, amigos, e é através de nós.
 1809171373	Diria que somos muito mais do que vocês.
 403132070	Temos muita liderança aqui! Você quer ver?
-1191499574	Vamos, amigos. mostrem coragem!
+1191499574	Vamos, amigos. Mostrem coragem!
 182854466	Vai ser divertido, eh eh eh!
 1247783453	Você acha que pode vir aqui e invadir o nosso estoque? Pense novamente!
 2117143135	Não deixe que eles coloquem as mãos na metralhadora.
