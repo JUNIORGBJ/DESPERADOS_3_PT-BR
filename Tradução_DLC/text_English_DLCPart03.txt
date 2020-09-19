@@ -68,61 +68,61 @@
 2067274862	Sem sorte. Sem surpresa, o Sr. DeVitt não nos receberá.
 495576672	Aquele cara foi mau com você ?! Eu vou torcer a cabeça dele!
 1108652645	Relaxa, querida. Teremos apenas que recorrer ao Plano B.
-1190890082	Sounds like you could use a bit of a helping hand.
+1190890082	Parece que você precisa de uma ajuda.
 1743621451	Belle!
-525813077	Hey there!
-160748737	Glad you could make it!
-2063767261	Just so you know, I put in a good word for you.
-1118808665	That's mighty sweet of you, sunshine.
-893284116	Well, hello there, Rosie.
-1162802782	Isabelle, so good to see you again.
-1076754197	That so?
-663438587	Please, I was just about to explain the plan, if you don't mind.
-1866064282	By all means.
-1867019390	Right, now as far as I know, Mr. DeVitt is currently on the roof of his mansion. 
-1756016296	Head up there and make him tell you where the money is.
-287312234	A warning though. You'll need a key to get up there. You'll find it in the garden.
-1489773450	There should also be one or two disguises around, if you wish to use one.
-1177045700	Pretty well informed, as always.
-645887104	See? I said we can count on my Rosie!
-2073334627	Why thank you, Hector.
-705478934	Now, I will be waiting here as usual. Good luck.
-1770418093	Sunshine, would you do me a favor and keep an eye on my old friend here?
-257020204	For her own safety, of course.
-1655882832	Of course.
-415167592	Don't worry Doc. She's great company.
-1851552262	Oh, I bet.
+525813077	Olá!
+160748737	Que bom que você conseguiu!
+2063767261	Só para você saber, eu gostaria de falar sobre você.
+1118808665	Isso é muito doce da sua parte, luz do sol.
+893284116	Bem, olá, Rosie.
+1162802782	Isabelle, que bom ver você de novo.
+1076754197	É mesmo?
+663438587	Por favor, eu estava prestes a explicar o plano, se você não se importa.
+1866064282	Certamente.
+1867019390	Certo, até onde eu sei, o Sr. DeVitt está atualmente no telhado de sua mansão.
+1756016296	Vá até lá e faça-o dizer onde está o dinheiro.
+287312234	Porém, um aviso. Você precisará de uma chave para subir lá. Você a encontrará no jardim.
+1489773450	Também deve haver um ou dois disfarces por perto, se você quiser usar um.
+1177045700	Bem informado, como sempre.
+645887104	Vejo? Eu disse que podemos contar com a minha Rosie!
+2073334627	Obrigado, Hector.
+705478934	Agora, estarei esperando aqui como de costume. Boa sorte.
+1770418093	Luz do sol, você poderia me fazer um favor e ficar de olho no meu velho amigo aqui?
+257020204	Para sua própria segurança, é claro.
+1655882832	Claro.
+415167592	Não se preocupe, Doc. Ela é uma ótima companhia.
+1851552262	Oh, Eu aposto.
 2111831061	PLANTAÇÃO DE ALGODÃO DEVITT
-1977065917	Let's see where this takes us.
-1376135008	Let's slip in discretely, shall we?
-215473589	Come on, the money's waiting.
-1090506123	So, you're working with Rosie Adams. I hope you know what you're in for.
-1174008409	Oh, we do. We actually had a little encounter with her back in Baton Rouge.
-2075266149	Wait. Don't tell me SHE's the one who put something in your drinks?
-1961361628	Heh, yeah. I still don't remember how we got that cow on the roof.
-927182866	Well, let's focus on getting inside.
-243525223	And we're in.
-1996767205	We're in.
-1411272496	I'm in. Nice.
-792351549	Okay, I'm in.
-1151783108	Hey, listen, don't worry about the workers here. I sent word we're coming. They're not gonna rat us out.
-2062980646	Sounds like you got a few friends around here.
-149736502	Let's call it a reputation.
-102232804	What do you think the boss brought back from New Mexico?
-1578282633	Don't know, don't care.
-345483893	Comeon, Freddy. Ain't you just a bit curious.
-2034911439	Never pays to stick your nose in someone else's business. Especially DeVitt business.
-829078667	So how's the air up there?
-1731872078	Very funny. Ain't you got patrol duty?
-868043868	They closed the gate to the garden. I ain't gonna walk all the way around.
-2023043705	Suit yourself.
-856783855	Something's going on at the chapel.
-92700561	Eh, the workers are nosy again, who cares.
-1802995305	Yeah. They've been giving me the look all day. Wonder what's wrong.
-1653419427	You gotta learn to relax, buddy.
-1465499533	What are you doing up there anyway?
-1002434623	I can see better from up here.
-1414462688	What if you hear something suspicious?
-373380709	I ignore it, what else do you think I'll do?
-1824252542	Argh, aw man.
+1977065917	Vamos ver aonde isso nos leva.
+1376135008	Vamos entrar discretamente, sim?
+215473589	Vamos, o dinheiro está esperando.
+1090506123	Então, você está trabalhando com Rosie Adams. Espero que você saiba no que está se metendo.
+1174008409	Oh, nós fazemos. Na verdade, tivemos um pequeno encontro com ela em Baton Rouge.
+2075266149	Esperar. Não me diga que ELA é quem põe algo em suas bebidas?
+1961361628	Heh, sim. Ainda não me lembro como colocamos aquela vaca no telhado.
+927182866	Bem, vamos nos concentrar em entrar.
+243525223	E estamos dentro
+1996767205	Estavam em.
+1411272496	Estou dentro. Legal.
+792351549	Ok, estou dentro.
+1151783108	Ei, escute, não se preocupe com os trabalhadores aqui. Mandei avisar que estamos chegando. Eles não vão nos delatar.
+2062980646	Parece que você tem alguns amigos por aqui.
+149736502	Vamos chamar de reputação.
+102232804	O que você acha que o chefe trouxe do Novo México?
+1578282633	Não sei, e não me importo.
+345483893	Vamos, Freddy. Você não está nem um pouco curioso.
+2034911439	Nunca vale a pena meter o nariz nos negócios de outra pessoa. Principalmente os negócios DeVitt.
+829078667	Então, como está o ar aí em cima?
+1731872078	Muito engraçado. Você não tem que patrulhar?
+868043868	Eles fecharam o portão do jardim. Eu não vou dar a volta.
+2023043705	Faça como quiser.
+856783855	Algo está acontecendo na capela.
+92700561	Eh, os trabalhadores estão intrometidos de novo, quem se importa.
+1802995305	Sim. Eles estiveram me olhando o dia todo. Imagino o que há de errado.
+1653419427	Você tem que aprender a relaxar, amigo.
+1465499533	O que você está fazendo aí?
+1002434623	Eu posso ver melhor daqui de cima.
+1414462688	E se você ouvir algo suspeito?
+373380709	Eu ignoro, o que mais você acha que vou fazer?
+1824252542	Argh, cara.
 1812110440	Hmm.
