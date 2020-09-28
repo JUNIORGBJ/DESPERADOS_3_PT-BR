@@ -34,35 +34,35 @@
 2037689148	Não use a entrada lateral esquerda ou direita.
 62451842	Não vá pelos campos de algodão.
 1986845839	Ninguém nunca fez nada só pelo dinheiro. Estou começando a acreditar também.
-824422471	We've gone to quite some lengths to hunt down DeVitt's lost riches.
-662188280	Hidden vaults, treasure maps, and now a fortress in the desert.
-335646321	Even worse, I'm starting to enjoy the company. Mother would be shocked.
-2017750892	Anyway, here's hoping that the plan my dear old Hector came up with doesn't kill us all...
-1967074360	Why can´t I be the one with the a plan for once, amigo?
-1917499803	I swear, this is the last time, I´m gonna help that stupid ox.
-1340799740	Alright then, no ammo, no backup, ... no problem.
-535885676	EAGLE'S NEST OUTSKIRTS
-547299464	Shit... gotta make sure nobody’s watching when I cut him loose.
-1381675751	Be a lot easier without this damn suit.
-1480465188	Thought you were gonna make trouble, he big guy?
-331132095	Don't worry, we'll find your little friend.
-1938540396	You look kinda familiar... bah, forget it.
-352987679	We're gonna make an example of you.
-1154785013	What the hell? Where is he?
-1012088109	Shit, we gotta find him!
-1622357829	Hey, amigo! Over here!
-1837530854	Damn it. Be quiet.
-1805650070	So how's that plan of yours looking now? Got anything to say for yourself?
-1280245421	Relax, amigo. Everything went just as planned.
-1260826349	Like hell it did! And why'd I have to wear this damn suit?!
-668953037	Let’s just go over there. I’ll talk you through.
-316844345	Alright amigo listen up. The best part starts now.
-815364192	You´re still trying to tell me this is all part of your plan?
-340814181	Of course it is! Just listen.
-691516046	Me and Rosie are pretty sure they keep the money in that tower.
-2016045829	All we have to do is get in there, crack the lock on the door and bingo!
-1299856801	And how exactly are WE going to crack the lock?
-1097306597	You think it´s a coincidence they took Doc inside after they caught him?
+824422471	Percorremos um longo caminho em busca das riquezas perdidas de DeVitt.
+662188280	Cofres ocultos, mapas do tesouro e agora uma fortaleza no deserto.
+335646321	E pior ainda, estou começando a gostar da companhia. Minha mãe ficaria chocada.
+2017750892	Enfim, vamos torcer para que o plano do meu querido Hector não mate a todos nós...
+1967074360	Por que não posso ser aquele com um plano pelo menos uma vez, amigo?
+1917499803	Juro que é a última vez que ajudo aquele boi idiota.
+1340799740	Tudo bem então, sem munição, sem reforços... sem problema.
+535885676	ARREDORES DO NINHO DA ÁGUIA
+547299464	Merda... Eu tenho que ter certeza de que ninguém olhará para mim quando eu o liberar.
+1381675751	Tudo seria mais fácil sem esse maldito terno.
+1480465188	Você pensou que estava vindo para nos incomodar, garotão?
+331132095	Não se preocupe, vamos encontrar seu amiguinho.
+1938540396	Você parece meio familiar... bah, não se preocupe.
+352987679	Vamos fazer de você um exemplo.
+1154785013	Que diabos? Onde ele está?
+1012088109	Merda, temos que encontrá-lo!
+1622357829	Ei, amigo! Por aqui!
+1837530854	Droga. Fique quieto.
+1805650070	O que você acha do seu plano, agora? Você tem algo a dizer em sua defesa?
+1280245421	Relaxe, amigo. Tudo saiu como planejado.
+1260826349	Porra! E por que eu tenho que usar esse maldito terno?
+668953037	Vamos lá. Eu vou te explicar.
+316844345	Tudo bem amigo, me escute. A melhor parte começa agora.
+815364192	Você me faria acreditar que tudo fazia parte do seu plano?
+340814181	Claro! Me escute.
+691516046	Rosie e eu temos certeza de que o dinheiro está naquela torre.
+2016045829	Só temos que entrar, abrir a fechadura e ... bingo!
+1299856801	E como vamos abrir a fechadura?
+1097306597	Você acha que é uma coincidência que eles trouxeram o DOC depois que o pegaram?
 1879267963	I think you should put off on that whiskey you have in your flask.
 1416215396	Okay, so Doc´s in there, fine.
 973304880	How are WE supposed to get in there?
