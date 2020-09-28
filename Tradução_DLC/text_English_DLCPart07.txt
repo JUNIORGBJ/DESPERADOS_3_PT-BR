@@ -1,39 +1,39 @@
-1540555459	It worked didn't it? Now listen, here's what we're gonna do.
-1292304701	This can't be good.
-432881984	Question Magnus DeVitt
-1773011631	Meet up on the roof and question Magnus DeVitt.
-1606501249	Collect Map Pieces ({0} of 5)
-37035926	DeVitt has split the map to the money into five pieces and handed them out to his men. Collect them all.
-1950596606	Target A
-2000501154	The overseer of the living quarters is in quite the pickle.
-1108432962	Target B
-1472917576	The warehouse supervisor is acting suspicious.
-1254492707	Target C
-447010899	The packing director has something to show off.
-1763085498	Target D
-782371726	The foreman at the fields seems pretty paranoid.
-2003745405	Meet up Outside
-631053090	You have what you came for. Leave the estate and meet up with Doc and Rosie.
-903657723	Mansion Key
-1557739138	The doors to the mansion are locked. One of the garden guards has the key.
-691184825	Disguise
-2021573242	There are two suitable disguises for Kate.
-2002585429	Meet Undercover Carl
-1050046787	Agent Carl has gone undercover at the packaging area. We need to extract him before his cover blows.
-1111739782	Free Doc...again
-1802514979	The grumpy human known to them as "Doc" has got himself stuck on that roof. We shall aid him.
-1649633204	Liberate the Queen
-1208800897	The Queen of all Chickens has been imprisoned at this farm. We must free her from the grasps of the evil pen keeper.
-1221080576	DeVitt Plantation
-392609880	Part 2: Five Steps Ahead
-1664437405	Part 2: Opus Magnus
-1438007870	In the second part of "Money for the Vultures", the gang return to Louisiana to challenge a new member of the DeVitt family./n/nExplore a brand new location in the Bayou State, reunite with Isabelle for more Voodoo shenanigans and face off against a mastermind worthy of your talents.
-1074303684	Among the many members of the DeVitt family, you will find one Magnus Hieronymus DeVitt./n/nAs the owner of a lucrative cotton business, he resides on his vast plantation, surrounded by high walls and hoards of guards./n/nFollowing the lead gathered from Vincent DeVitt's vault, the gang travel to Louisiana on the hunt for the man's lost riches./n/nPerhaps this is a good time to reconnect with old friends.
-1342107686	The hunt for Vincent DeVitt's money continues. Following the lead gathered from his empty vault, the gang travel to Louisiana./n/nHere, they infiltrate the cotton plantation of Vincent's brother Magnus, who supposedly brought the money here./n/nThe plan is simple: Get to Magnus DeVitt, squeeze the location of the money out of him, collect it and head home./n/nThough something tells you it ain't gonna be that simple.
-2008715406	Get all map pieces before confronting DeVitt.
-2037689148	Don't use the left or the right side entrance.
-62451842	Don't touch the cotton fields.
-1986845839	Nobody ever did anything just for money. I'm starting to believe that myself.
+1540555459	Funcionou, não é? Agora ouça, aqui está o que vamos fazer.
+1292304701	Isso não vai acabar bem.
+432881984	Interrogue Magnus DeVitt
+1773011631	Vá até Magnus DeVitt no telhado e o Interrogue
+1606501249	Colete pedaços do mapa ({0} de 5)
+37035926	DeVitt dividiu o mapa do dinheiro em cinco partes e os entregou a seus homens. Colete-os todos.
+1950596606	Alvo A
+2000501154	O guarda  dos aposentos está em apuros.
+1108432962	Alvo B
+1472917576	O guarda do armazém parece suspeito.
+1254492707	Alvo C
+447010899	O gerente de embalagens está se gabando de algo.
+1763085498	Alvo D
+782371726	O capataz nos campos parece bastante paranóico.
+2003745405	Encontro lá fora
+631053090	Você encontrou o que estava procurando. Deixe a mansão e encontre-se com Doc e Rosie.
+903657723	Chave da Mansão
+1557739138	As portas da mansão estão fechadas. Um dos guardas do jardim está com a chave.
+691184825	Disfarce
+2021573242	No jardim há um disfarce para Kate.
+2002585429	Conheça o Undercover Carl
+1050046787	O agente Carl está disfarçado na área de embalagem. Precisamos retira-lo antes que seu disfarce seja descoberto.
+1111739782	Livre Doc... de novo
+1802514979	O cara rabugento conhecido por eles como "Doc" ficou preso naquele telhado. Devemos ajudá-lo.
+1649633204	Liberte a rainha
+1208800897	A Rainha de todas as Galinhas foi presa nesta fazenda. Devemos libertá-la das garras do perverso tratador.
+1221080576	Plantação DeVitt
+392609880	Parte 2: Cinco Passos à Frente
+1664437405	Parte 2: Plano de Magnus
+1438007870	Na segunda parte de "Dinheiro para abutres", o grupo retorna à Louisiana para desafiar um novo membro da família DeVitt./n/nExplore um novo local na região dos pântanos, reúna-se com Isabelle para mais travessuras Voodoo e enfrente-se contra um gênio digno de seus talentos.
+1074303684	Entre os muitos membros da família Devitt, encontramos Magnus Hieronymus Devitt./n/nProprietário de um negócio de algodão rentável, reside em sua grande plantação, cercado por muros altos e muitos guardas. Seguindo a trilha encontrada no quarto de Vincent Devitt, o grupo vai para Louisiana em busca de riqueza perdida./n/nTalvez seja a hora certa para encontrar velhos amigos.
+1342107686	A caça ao dinheiro de Vincent DeVitt continua. Seguindo a pista encontrada no cofre vazio, a gangue viaja para Louisiana./n/nAqui eles se infiltram na plantação de algodão do irmão de Vincent Magnus, que deveria ter trazido o dinheiro com ele./n/nO plano é simples: Vá até Magnus DeVitt, tire dele a localização do dinheiro, pegue-o e vá para casa./n/nMesmo se algo lhe disser que não será tão fácil.
+2008715406	Encontre todos os pedaços do mapa antes de chegar a DeVitt.
+2037689148	Não use a entrada lateral esquerda ou direita.
+62451842	Não vá pelos campos de algodão.
+1986845839	Ninguém nunca fez nada só pelo dinheiro. Estou começando a acreditar também.
 824422471	We've gone to quite some lengths to hunt down DeVitt's lost riches.
 662188280	Hidden vaults, treasure maps, and now a fortress in the desert.
 335646321	Even worse, I'm starting to enjoy the company. Mother would be shocked.
