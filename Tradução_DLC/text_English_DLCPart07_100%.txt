@@ -5,13 +5,13 @@
 1606501249	Colete pedaços do mapa ({0} de 5)
 37035926	DeVitt dividiu o mapa do dinheiro em cinco partes e os entregou a seus homens. Colete-os todos.
 1950596606	Alvo A
-2000501154	O guarda  dos aposentos está em apuros.
+2000501154	O guarda dos aposentos está em apuros.
 1108432962	Alvo B
 1472917576	O guarda do armazém parece suspeito.
 1254492707	Alvo C
 447010899	O gerente de embalagens está se gabando de algo.
 1763085498	Alvo D
-782371726	O capataz nos campos parece bastante paranóico.
+782371726	O capataz nos campos parece bastante paranoico.
 2003745405	Encontro lá fora
 631053090	Você encontrou o que estava procurando. Deixe a mansão e encontre-se com Doc e Rosie.
 903657723	Chave da Mansão
@@ -20,7 +20,7 @@
 2021573242	No jardim há um disfarce para Kate.
 2002585429	Conheça o Undercover Carl
 1050046787	O agente Carl está disfarçado na área de embalagem. Precisamos retira-lo antes que seu disfarce seja descoberto.
-1111739782	Livre Doc... de novo
+1111739782	Liberte Doc... de novo
 1802514979	O cara rabugento conhecido por eles como "Doc" ficou preso naquele telhado. Devemos ajudá-lo.
 1649633204	Liberte a rainha
 1208800897	A Rainha de todas as Galinhas foi presa nesta fazenda. Devemos libertá-la das garras do perverso tratador.
@@ -42,7 +42,7 @@
 1917499803	Juro que é a última vez que ajudo aquele boi idiota.
 1340799740	Tudo bem então, sem munição, sem reforços... sem problema.
 535885676	ARREDORES DO NINHO DA ÁGUIA
-547299464	Merda... Eu tenho que ter certeza de que ninguém olhará para mim quando eu o liberar.
+547299464	Merda... eu tenho que ter certeza de que ninguém olhará para mim quando eu o liberar.
 1381675751	Tudo seria mais fácil sem esse maldito terno.
 1480465188	Você pensou que estava vindo para nos incomodar, garotão?
 331132095	Não se preocupe, vamos encontrar seu amiguinho.
@@ -51,7 +51,7 @@
 1154785013	Que diabos? Onde ele está?
 1012088109	Merda, temos que encontrá-lo!
 1622357829	Ei, amigo! Por aqui!
-1837530854	Droga. Fique quieto.
+1837530854	Droga. Fica quieto.
 1805650070	O que você acha do seu plano, agora? Você tem algo a dizer em sua defesa?
 1280245421	Relaxe, amigo. Tudo saiu como planejado.
 1260826349	Porra! E por que eu tenho que usar esse maldito terno?
@@ -63,66 +63,66 @@
 2016045829	Só temos que entrar, abrir a fechadura e ... bingo!
 1299856801	E como vamos abrir a fechadura?
 1097306597	Você acha que é uma coincidência que eles trouxeram o DOC depois que o pegaram?
-1879267963	I think you should put off on that whiskey you have in your flask.
-1416215396	Okay, so Doc´s in there, fine.
-973304880	How are WE supposed to get in there?
-1919886351	We use the cannon.
-689649012	That thing? Who says it's even loaded?!
-2051422095	There's a box of cannonballs right around here. We just gotta carry it to the cannon and boom!
-181343544	Great... 
-1847643261	... but what about Kate and Isabelle?
-1977615547	Isabelle is up there. I think they're all still scared of her after that show she put on.
-460711541	And Kate is over there. I think the big guy has fallen in love with her. Heh, idiot.
-1861807150	She better change out of that wedding dress though...
-1074081425	And that's about it.
-1469164829	Open the gate, free Doc, get into the tower and hello retirement!
-1868915384	And maybe free the others who are about to get killed because of you.
-398820561	Sure. Maybe that too.
-144886635	By the way, where the hell did your Rosie disappear to?
-1692892948	Ah! She’s also part of the plan. You'll see, it's gonna be great.
-1475910060	I think she saw how shit your plan was and said "screw this, I'm leaving." 
-1831242200	She would never do that! I know it in my heart, amigo!
-1010574852	Think I see Kate.
-972398662	Come on, Kate’s this way.
-1479250160	That’s Kate over there.
-938554196	I can't believe you talked her into proposing to that guy.
-2122825766	Heh, right? Rosie loved the idea, too.
-688501530	Oh, I bet she did. That's why she's here right now, helping us.
-1349571365	Relax, amigo.
-2069632375	Don't worry, the priest will be here soon.
-1951226312	We don't have any rings, but I'm sure that's alright with you.
-228957132	Wait until you get to know the boys. They'll love you.
-480804693	You can be proud. You're marrying the strongest, most handsome man around.
-1293306735	You can cook, right? Of course you can, I mean look at you.
-35199416	What's taking that damn priest so long...
-595972476	Wait what? Shit! My bride!
-44568144	Find her!
-2055338766	You took your sweet time.
-1209414223	Don’t worry. I got you.
-1216497781	Hold still, we got you.
-1078635164	God this is embarrassing
-1434347750	Hector! Damn it, what took you so long?!
-1088918614	Heh, sorry about that.
-1377818807	You better cut me loose right now!
-847203795	Remind me never to listen to one of your plans again.
-111169968	Come on Kate, you did great! Heh, that big guy even called a priest.
-541776335	Can someone please shut him up before I forget myself?
-1722334228	Huh? What did I say?
-2113431443	Let's just move on.
-1815655449	We cut through here, we get to the fortress.
-185525359	Through here, to the fortress.
-561948202	Fortress is this way.
-832911167	Wouldn’t mind taking the clothes off that lady so I can disguise myself.
-1760262285	She just walks up to him and says "I wanna marry you."
-326889129	Bullshit!
-1629533943	I swear to God, I was there.
-1570107384	Damnit! Lucky bastard.
-1328874239	You hear about that witch they caught over at the camp.
-1660395588	Ain't no such thing, as a witch.
-1244259482	Tell that to them. Said they're gonna burn her or something.
-286321581	Eh, they're just messing with you.
-76297247	They brought that shady fellah into the nest.
-897998457	Sounds like Morgan is gonna have some fun with him.
-405827216	He had this bag... Leonard pulled it open and poof! Exploded right in his face.
-347782645	Heh, serves him right the idiot.
-31915650	Finally something other that damn wedding dress.
+1879267963	Acho que você deveria guardar o uísque que guarda no frasco.
+1416215396	Ok, então Doc está aí, certo.
+973304880	Como entramos?
+1919886351	Usaremos o canhão.
+689649012	Aquela coisa? Como você sabe que está carregado?!?
+2051422095	Há uma caixa de balas de canhão por aqui. Precisamos levá-las ao canhão e... BOOM!
+181343544	Ótimo... 
+1847643261	... mas e quanto a Kate e Isabelle?
+1977615547	Isabelle está lá em cima. Acho que eles ainda estão com medo dela depois do pequeno show que ela deu.
+460711541	E Kate está ali. Acho que o grandalhão se apaixonou por ela. Heh, idiota.
+1861807150	Mas é melhor você tirar esse vestido de noiva...
+1074081425	E isso é tudo.
+1469164829	Abrimos o portão, libertamos o Doc, entramos na torre e olá aposentadoria!
+1868915384	E talvez libertemos os outros que estão prestes a ser mortos por sua causa.
+398820561	Claro, isso também.
+144886635	O que aconteceu com sua preciosa Rosie?
+1692892948	Ah! Ela também faz parte do plano. Você verá, vai ser ótimo.
+1475910060	Acho que ela percebeu como seu plano era nojento e disse "dane-se, estou indo embora".
+1831242200	Ela nunca faria isso! Eu sinto isso, amigo!
+1010574852	Acho que vejo Kate.
+972398662	Vamos, Kate é por aqui.
+1479250160	Essa é a Kate.
+938554196	Não acredito que você a convenceu a se casar com aquele cara.
+2122825766	Heh, certo? Rosie também adorou a ideia.
+688501530	Oh, aposto que sim. É por isso que ela está aqui agora para nos ajudar.
+1349571365	Relaxe, amigo.
+2069632375	Não se preocupe, o padre estará aqui em breve.
+1951226312	Não temos os anéis, mas isso definitivamente não é um problema para você.
+228957132	Espere até conhecer os meninos. Eles vão te amar.
+480804693	Você pode se orgulhar. Você está prestes a se casar com o homem mais forte e bonito da região.
+1293306735	Você sabe cozinhar, certo? Claro que você sabe cozinhar, ou seja, olhe para si mesmo.
+35199416	Porque aquele padre demora tanto.
+595972476	Espere um minuto, o que...? Merda! Minha noiva!
+44568144	Encontre-a!
+2055338766	Você pegou leve.
+1209414223	Não se preocupe, vou cuidar disso.
+1216497781	Fica quieto, nós cuidaremos disso.
+1078635164	Que vergonha.
+1434347750	Hector! Droga, por que demorou tanto?!
+1088918614	Eh, desculpe por isso.
+1377818807	É melhor você me soltar agora!
+847203795	Lembre-me de nunca mais ouvir SEUS planos novamente.
+111169968	Vamos, Kate, você foi muito bem! Esse cara até chamou o padre.
+541776335	Alguém pode por favor calá-lo antes que eu perca a paciência?
+1722334228	Hã? O que eu disse de errado?
+2113431443	Vamos seguir em frente.
+1815655449	Passamos por aqui e chegamos à fortaleza.
+185525359	Por aqui, em direção à fortaleza.
+561948202	Acredito que a fortaleza fica deste lado.
+832911167	Não me importaria de usar as roupas daquela mulher como disfarce.
+1760262285	Ela foi ao seu encontro e disse: "Quero me casar com você".
+326889129	Besteira!
+1629533943	Juro por Deus, eu estava lá.
+1570107384	Droga! Maldito sortudo.
+1328874239	Você ouviu sobre a bruxa que eles capturaram no acampamento?
+1660395588	Bruxas não existem.
+1244259482	Diga a eles. Eles disseram que querem queimá-la ou algo assim.
+286321581	Eh, eles estão apenas brincando com você.
+76297247	Eles trouxeram aquele sujeito sombrio para o ninho.
+897998457	Parece que Morgan quer se divertir com ele.
+405827216	Ele estava com essa bolsa ... Leonard abriu e puf! Explodiu bem na cara dele.
+347782645	Heh, Bem feito, o idiota.
+31915650	Finalmente posso tirar o maldito vestido de noiva.
