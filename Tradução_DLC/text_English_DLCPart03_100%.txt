@@ -1,7 +1,7 @@
 1709304919	Estou esperando.
 483538927	Como vou trabalhar com você gritando constantemente em meus ouvidos?
 787184426	Apenas abra, ok?
-1584416006	Estou trabalhando nisso, Cass. relaxe.
+1584416006	Estou trabalhando nisso, Cass. Relaxe.
 993672428	Já está aberto?
 1332824998	O que isso parece espertinho?
 222575628	Uh... não abriu?
@@ -26,7 +26,7 @@
 249881902	Vamos voltar para Rosie.
 1144786249	Vamos buscar Cooper e voltar para Rosie.
 1889591150	É melhor ela ter uma explicação para isso.
-109488112	Bem vindo de volta.
+109488112	Bem-vindo de volta.
 569979334	Lá está ela! Amigo, diga olá para minha adorável Rosie!
 509371406	Olá, senhorita. Desculpe, não me lembro de você em Baton Rouge. Minha memória, sabe, é um pouco nebulosa.
 260862792	Oh, não perturbe sua cabecinha Sr. Cooper. Acontece com o melhor de nós.
@@ -39,7 +39,7 @@
 1082676112	Assinado: "Magnus Hieronymus DeVitt."
 1962075237	Parece que a caça está apenas começando.
 283593118	Capítulo IV - A Bela e a Fera
-571719469	Capítulo IV - Dinheiro para os Abutres
+571719469	Capítulo IV - Dinheiro para Abutres
 1728706167	Encontre o interruptor na estátua
 2056762711	Vá para a estátua no jardim da frente. Há um interruptor oculto que faz... alguma coisa.
 1034617777	Pegue Cooper (opcional)
@@ -52,9 +52,9 @@
 1024967519	Há um disfarce para Kate no jardim.
 1247782491	Casa DeVitt/n(abandonada)
 695077169	Parte 1: Tarde para a festa
-265455246	Na primeira parte de "Money for the Vultures", a turma se reúne mais uma vez para caçar as riquezas escondidas de Vincent DeVitt./n/nAjude-os a descobrir um cofre misterioso, evite saqueadores sedentos de sangue e descubra se a enigmática Rosie de Baton Rouge é realmente confiável ou se ela tem seus próprios interesses em mente.
-72555366	Três meses após o confronto no Devil's Canyon, a gangue se reúne mais uma vez./n/nUma mensagem de Hector promete um negócio lucrativo: uma caça às riquezas ocultas de Vincent DeVitt./n/nEles chegam à propriedade de DeVitt, agora manchada pela negligência e pelas mãos de saqueadores gananciosos./n/nCom eles está a misteriosa Rosie, uma conhecida duvidosa de suas aventuras em Baton Rouge... 
-1549737372	Três meses após o confronto no Devil's Canyon, a gangue se reúne para um trabalho especial./n/nRosie, uma duvidosa conhecida de Baton Rouge, quer sua ajuda para caçar o tesouro escondido de Vincent DeVitt./n/nAo retornar para a agora abandonada Casa DeVitt, a gangue deve agora abrir caminho através de saqueadores sedentos de sangue até a estátua no jardim da frente./n/nUm interruptor escondido na estátua deve revelar a abóbada. Feito isso, a única coisa que resta a fazer é limpá-lo. Ah, e Cooper está em algum lugar também.
+265455246	Na primeira parte de "Dinheiro para abutres", o grupo se reúne mais uma vez para caçar as riquezas escondidas de Vincent DeVitt./n/nAjude-os a descobrir um cofre misterioso, evite saqueadores sedentos de sangue e descubra se a enigmática Rosie de Baton Rouge é realmente confiável ou se ela tem seus próprios interesses em mente.
+72555366	Três meses após o confronto no Devil's Canyon, o grupo se reúne mais uma vez./n/nUma mensagem de Hector promete um negócio lucrativo: uma caça às riquezas ocultas de Vincent DeVitt./n/nEles chegam à propriedade de DeVitt, agora manchada pela negligência e pelas mãos de saqueadores gananciosos./n/nCom eles está a misteriosa Rosie, uma conhecida duvidosa de suas aventuras em Baton Rouge... 
+1549737372	Três meses após o confronto no Devil's Canyon, o grupo se reúne para um trabalho especial./n/nRosie, uma duvidosa conhecida de Baton Rouge, quer sua ajuda para caçar o tesouro escondido de Vincent DeVitt./n/nAo retornar para a agora abandonada Casa DeVitt, a gangue deve agora abrir caminho através de saqueadores sedentos de sangue até a estátua no jardim da frente./n/nUm interruptor escondido na estátua deve revelar a abóbada. Feito isso, a única coisa que resta a fazer é limpá-lo. Ah, e Cooper está em algum lugar também.
 1972791255	Traga um presente para Rosie.
 1497331362	Traga um vestido para Rosie.
 1294823371	Não se encontre com Cooper.
@@ -66,7 +66,7 @@
 532289047	Embora eu não tivesse planejado voltar para a Louisiana por algum tempo...
 1324959016	Não me chateies! E não volte mais!
 2067274862	Sem sorte. Sem surpresa, o Sr. DeVitt não nos receberá.
-495576672	Aquele cara foi mau com você ?! Eu vou torcer a cabeça dele!
+495576672	Aquele cara foi mal com você?! Eu vou torcer a cabeça dele!
 1108652645	Relaxa, querida. Teremos apenas que recorrer ao Plano B.
 1190890082	Parece que você precisa de uma ajuda.
 1743621451	Belle!
@@ -91,7 +91,7 @@
 257020204	Para sua própria segurança, é claro.
 1655882832	Claro.
 415167592	Não se preocupe, Doc. Ela é uma ótima companhia.
-1851552262	Oh, Eu aposto.
+1851552262	Oh, eu aposto.
 2111831061	PLANTAÇÃO DE ALGODÃO DEVITT
 1977065917	Vamos ver aonde isso nos leva.
 1376135008	Vamos entrar discretamente, sim?

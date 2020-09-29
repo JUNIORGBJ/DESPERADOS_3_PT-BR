@@ -17134,133 +17134,133 @@ Portuguese	Português(BR)
 103543113	Você vê como essa coisa é grande?
 2019762533	Qual o sentido de trazer um chaveiro se ele não consegue abrir um cofre?
 909119802	Vamos, Cass. Deixe-me concentrar.
-1709304919	I'm waiting.
-483538927	How am I supposed to work with you constantly yelling in my ears?
-787184426	Just open it, alright?
-1584416006	I'm on it, Cass. Relax.
-993672428	Is it open yet?
-1332824998	What's it look like smartass?
-222575628	Uh... not open?
-1291261267	Just let me work, Jesus.
-1103802751	How's he doing?
-2038428487	Ask him.
-1789273480	Hey Butch! How are you doing?
-1701212537	Shut up and make your rounds.
-1356906179	Still?
-1427950506	Yup.
-696682202	Hey Butch!
-774178509	One more word, and I'll crack this open with your skull!
-220018265	This is taking forever.
-1263721438	Ugh, tell me about it.
-283430914	You need anything now?
-266158854	The only thing I require is SILENCE!
-1564635340	Alright, let's see what we've got.
+1709304919	Estou esperando.
+483538927	Como vou trabalhar com você gritando constantemente em meus ouvidos?
+787184426	Apenas abra, ok?
+1584416006	Estou trabalhando nisso, Cass. Relaxe.
+993672428	Já está aberto?
+1332824998	O que isso parece espertinho?
+222575628	Uh... não abriu?
+1291261267	Apenas me deixe trabalhar, Jesus.
+1103802751	Como ele está?
+2038428487	Pergunte a ele.
+1789273480	Ei Butch! Como vai você?
+1701212537	Cale a boca e faça suas rondas.
+1356906179	Ainda?
+1427950506	Sim.
+696682202	Ei Butch!
+774178509	Mais uma palavra, e vou abrir isso com seu crânio!
+220018265	Isso está demorando uma eternidade.
+1263721438	Ugh, me fale sobre isso.
+283430914	Você precisa de alguma coisa agora?
+266158854	A única coisa que preciso é SILÊNCIO!
+1564635340	Tudo bem, vamos ver o que temos.
 1292847304	Hrm.
-1125921543	What? What's wrong?
-760730558	The damn thing is empty. All that's in here is a note.
-688570029	Wonderful.
-249881902	Let's head back to Rosie.
-1144786249	Let's fetch Cooper and head back to Rosie.
-1889591150	She better have an explanation for this.
-109488112	Welcome back.
-569979334	There she is! Amigo, say hello to my lovely Rosie!
-509371406	Hey there, Miss. Sorry I don't remember you from Baton Rouge. My memory, y'know's a bit hazy.
-260862792	Oh, don't you trouble your little head Mr. Cooper. It happens to the best of us.
-81203496	Rosie, the vault was empty. All we found was a note.
-1104832070	I feared as much. Can I see it?
-281717185	You telling me you KNEW this would happen?
-1657860207	I had a hunch. Now, let's see...
-357235499	What does it say, honey?
-1174650106	"To whomever lowlife scum this may concern, I suggest you remove yourself from my brother's property and go back to digging in the dirt where you belong."
-1082676112	Signed: "Magnus Hieronymus DeVitt."
-1962075237	Looks like the hunt is just getting started.
-283593118	Chapter IV – The Beauty and the Beast
-571719469	Chapter IV – Dinheiro para Abutres
-1728706167	Find the Switch on the Statue
-2056762711	Get to the statue in the front yard. There's a hidden switch on it that does... something.
-1034617777	Pick up Cooper (Optional)
-456779033	Cooper is waiting at the entrance. Go say hello.
-941098583	Crack the Safe
-786314742	The vault has been revealed beneath the fountain. McCoy can crack the safe.
-2057191596	Disguise A
-2088523610	There's a disguise for Kate in the pit.
-1481916635	Disguise B
-1024967519	There's a disguise for Kate in the garden.
-1247782491	Casa DeVitt/n(abandoned)
-695077169	Part 1: Late To The Party
-265455246	In the first part of "Dinheiro para Abutres", the gang reunites once again to hunt down Vincent DeVitt's hidden riches./n/nHelp them uncover a mysterious vault, avoid bloodthirsty looters, and find out if the enigmatic Rosie from Baton Rouge can really be trusted, or if she has her own interests in mind.
-72555366	Three months after the showdown at Devil's Canyon, the gang comes together once more./n/nA message from Hector promises a lucrative deal: a hunt for the hidden riches of Vincent DeVitt./n/nThey arrive at DeVitt's estate, now tarnished by neglect and the hands of greedy looters./n/nWith them is the mysterious Rosie, a dubious aquaintance from their escapades in Baton Rouge... 
-1549737372	Three months after the showdown at Devil's Canyon, the gang reunites for a special job./n/nRosie, a dubious aquaintance from Baton Rouge, wants their help to hunt down the hidden treasure vault of Vincent DeVitt./n/nOn returning to the now abandoned Casa DeVitt, the gang must now make their way through bloodthirsty looters to the statue in the front yard./n/nA hidden switch on the statue is supposed to reveal the vault. Once that's done, the only thing left to do is clear it out. Oh, and Cooper is somewhere too.
-1972791255	Bring Rosie a present.
-1497331362	Bring Rosie a dress.
-1294823371	Don't meet up with Cooper.
-340212994	Nobody ever did anything just for money.
-1087297469	I admit, sometimes it's hard to justify the lengths I go to.
-787239786	Snatching Vincent DeVitt's hidden wealth from under a few looters' noses sounded easy enough.
-1133525180	Turns out his brother Magnus cleared out the vault long before we came.
-474428530	Lucky for us, I know where to find Magnus DeVitt.
-532289047	Though I hadn't planned on returning to Louisiana for quite some time...
-1324959016	Piss off! And don't you come back again!
-2067274862	No luck. Unsurprisingly, Mr. DeVitt will not receive us.
-495576672	Was that guy mean to you?! I'm gonna twist his head off!
-1108652645	Relax, darling. We'll just have to resort to Plan B.
-1190890082	Sounds like you could use a bit of a helping hand.
+1125921543	O que? O que há de errado?
+760730558	A maldita coisa está vazia. Tudo o que está aqui é uma anotação.
+688570029	Maravilhoso.
+249881902	Vamos voltar para Rosie.
+1144786249	Vamos buscar Cooper e voltar para Rosie.
+1889591150	É melhor ela ter uma explicação para isso.
+109488112	Bem-vindo de volta.
+569979334	Lá está ela! Amigo, diga olá para minha adorável Rosie!
+509371406	Olá, senhorita. Desculpe, não me lembro de você em Baton Rouge. Minha memória, sabe, é um pouco nebulosa.
+260862792	Oh, não perturbe sua cabecinha Sr. Cooper. Acontece com o melhor de nós.
+81203496	Rosie, o cofre estava vazio. Tudo o que encontramos foi uma anotação.
+1104832070	Eu temia isso. Posso ver isso?
+281717185	Você está me dizendo que SABIA que isso aconteceria?
+1657860207	Tive um palpite. Agora vamos ver...
+357235499	O que isso diz, querida?
+1174650106	"Para quem quer que seja a escória que isso possa interessar, eu sugiro que você saia da propriedade do meu irmão e volte a cavar na terra onde você nasceu."
+1082676112	Assinado: "Magnus Hieronymus DeVitt."
+1962075237	Parece que a caça está apenas começando.
+283593118	Capítulo IV - A Bela e a Fera
+571719469	Capítulo IV - Dinheiro para Abutres
+1728706167	Encontre o interruptor na estátua
+2056762711	Vá para a estátua no jardim da frente. Há um interruptor oculto que faz... alguma coisa.
+1034617777	Pegue Cooper (opcional)
+456779033	Cooper está esperando na entrada. Vá dizer um oi.
+941098583	Abra o cofre
+786314742	A câmara apareceu abaixo da fonte. McCoy pode abrir o cofre.
+2057191596	Disfarce A
+2088523610	Há um disfarce para Kate no fosso.
+1481916635	Disfarce B
+1024967519	Há um disfarce para Kate no jardim.
+1247782491	Casa DeVitt/n(abandonada)
+695077169	Parte 1: Tarde para a festa
+265455246	Na primeira parte de "Dinheiro para abutres", o grupo se reúne mais uma vez para caçar as riquezas escondidas de Vincent DeVitt./n/nAjude-os a descobrir um cofre misterioso, evite saqueadores sedentos de sangue e descubra se a enigmática Rosie de Baton Rouge é realmente confiável ou se ela tem seus próprios interesses em mente.
+72555366	Três meses após o confronto no Devil's Canyon, o grupo se reúne mais uma vez./n/nUma mensagem de Hector promete um negócio lucrativo: uma caça às riquezas ocultas de Vincent DeVitt./n/nEles chegam à propriedade de DeVitt, agora manchada pela negligência e pelas mãos de saqueadores gananciosos./n/nCom eles está a misteriosa Rosie, uma conhecida duvidosa de suas aventuras em Baton Rouge... 
+1549737372	Três meses após o confronto no Devil's Canyon, o grupo se reúne para um trabalho especial./n/nRosie, uma duvidosa conhecida de Baton Rouge, quer sua ajuda para caçar o tesouro escondido de Vincent DeVitt./n/nAo retornar para a agora abandonada Casa DeVitt, a gangue deve agora abrir caminho através de saqueadores sedentos de sangue até a estátua no jardim da frente./n/nUm interruptor escondido na estátua deve revelar a abóbada. Feito isso, a única coisa que resta a fazer é limpá-lo. Ah, e Cooper está em algum lugar também.
+1972791255	Traga um presente para Rosie.
+1497331362	Traga um vestido para Rosie.
+1294823371	Não se encontre com Cooper.
+340212994	Ninguém nunca faz nada só por dinheiro.
+1087297469	Eu admito, às vezes é difícil justificar até onde vou.
+787239786	Arrancar a riqueza oculta de Vincent DeVitt debaixo do nariz de alguns saqueadores parecia fácil.
+1133525180	Acontece que seu irmão Magnus esvaziou o cofre muito antes de chegarmos.
+474428530	Para nossa sorte, sei onde encontrar Magnus DeVitt.
+532289047	Embora eu não tivesse planejado voltar para a Louisiana por algum tempo...
+1324959016	Não me chateies! E não volte mais!
+2067274862	Sem sorte. Sem surpresa, o Sr. DeVitt não nos receberá.
+495576672	Aquele cara foi mal com você?! Eu vou torcer a cabeça dele!
+1108652645	Relaxa, querida. Teremos apenas que recorrer ao Plano B.
+1190890082	Parece que você precisa de uma ajuda.
 1743621451	Belle!
-525813077	Hey there!
-160748737	Glad you could make it!
-2063767261	Just so you know, I put in a good word for you.
-1118808665	That's mighty sweet of you, sunshine.
-893284116	Well, hello there, Rosie.
-1162802782	Isabelle, so good to see you again.
-1076754197	That so?
-663438587	Please, I was just about to explain the plan, if you don't mind.
-1866064282	By all means.
-1867019390	Right, now as far as I know, Mr. DeVitt is currently on the roof of his mansion. 
-1756016296	Head up there and make him tell you where the money is.
-287312234	A warning though. You'll need a key to get up there. You'll find it in the garden.
-1489773450	There should also be one or two disguises around, if you wish to use one.
-1177045700	Pretty well informed, as always.
-645887104	See? I said we can count on my Rosie!
-2073334627	Why thank you, Hector.
-705478934	Now, I will be waiting here as usual. Good luck.
-1770418093	Sunshine, would you do me a favor and keep an eye on my old friend here?
-257020204	For her own safety, of course.
-1655882832	Of course.
-415167592	Don't worry Doc. She's great company.
-1851552262	Oh, I bet.
-2111831061	DEVITT COTTON PLANTATION
-1977065917	Let's see where this takes us.
-1376135008	Let's slip in discretely, shall we?
-215473589	Come on, the money's waiting.
-1090506123	So, you're working with Rosie Adams. I hope you know what you're in for.
-1174008409	Oh, we do. We actually had a little encounter with her back in Baton Rouge.
-2075266149	Wait. Don't tell me SHE's the one who put something in your drinks?
-1961361628	Heh, yeah. I still don't remember how we got that cow on the roof.
-927182866	Well, let's focus on getting inside.
-243525223	And we're in.
-1996767205	We're in.
-1411272496	I'm in. Nice.
-792351549	Okay, I'm in.
-1151783108	Hey, listen, don't worry about the workers here. I sent word we're coming. They're not gonna rat us out.
-2062980646	Sounds like you got a few friends around here.
-149736502	Let's call it a reputation.
-102232804	What do you think the boss brought back from New Mexico?
-1578282633	Don't know, don't care.
-345483893	Comeon, Freddy. Ain't you just a bit curious.
-2034911439	Never pays to stick your nose in someone else's business. Especially DeVitt business.
-829078667	So how's the air up there?
-1731872078	Very funny. Ain't you got patrol duty?
-868043868	They closed the gate to the garden. I ain't gonna walk all the way around.
-2023043705	Suit yourself.
-856783855	Something's going on at the chapel.
-92700561	Eh, the workers are nosy again, who cares.
-1802995305	Yeah. They've been giving me the look all day. Wonder what's wrong.
-1653419427	You gotta learn to relax, buddy.
-1465499533	What are you doing up there anyway?
-1002434623	I can see better from up here.
-1414462688	What if you hear something suspicious?
-373380709	I ignore it, what else do you think I'll do?
-1824252542	Argh, aw man.
+525813077	Olá!
+160748737	Que bom que você conseguiu!
+2063767261	Só para você saber, eu gostaria de falar sobre você.
+1118808665	Isso é muito doce da sua parte, luz do sol.
+893284116	Bem, olá, Rosie.
+1162802782	Isabelle, que bom ver você de novo.
+1076754197	É mesmo?
+663438587	Por favor, eu estava prestes a explicar o plano, se você não se importa.
+1866064282	Certamente.
+1867019390	Certo, até onde eu sei, o Sr. DeVitt está atualmente no telhado de sua mansão.
+1756016296	Vá até lá e faça-o dizer onde está o dinheiro.
+287312234	Porém, um aviso. Você precisará de uma chave para subir lá. Você a encontrará no jardim.
+1489773450	Também deve haver um ou dois disfarces por perto, se você quiser usar um.
+1177045700	Bem informado, como sempre.
+645887104	Vejo? Eu disse que podemos contar com a minha Rosie!
+2073334627	Obrigado, Hector.
+705478934	Agora, estarei esperando aqui como de costume. Boa sorte.
+1770418093	Luz do sol, você poderia me fazer um favor e ficar de olho no meu velho amigo aqui?
+257020204	Para sua própria segurança, é claro.
+1655882832	Claro.
+415167592	Não se preocupe, Doc. Ela é uma ótima companhia.
+1851552262	Oh, eu aposto.
+2111831061	PLANTAÇÃO DE ALGODÃO DEVITT
+1977065917	Vamos ver aonde isso nos leva.
+1376135008	Vamos entrar discretamente, sim?
+215473589	Vamos, o dinheiro está esperando.
+1090506123	Então, você está trabalhando com Rosie Adams. Espero que você saiba no que está se metendo.
+1174008409	Oh, nós fazemos. Na verdade, tivemos um pequeno encontro com ela em Baton Rouge.
+2075266149	Esperar. Não me diga que ELA é quem põe algo em suas bebidas?
+1961361628	Heh, sim. Ainda não me lembro como colocamos aquela vaca no telhado.
+927182866	Bem, vamos nos concentrar em entrar.
+243525223	E estamos dentro
+1996767205	Estavam em.
+1411272496	Estou dentro. Legal.
+792351549	Ok, estou dentro.
+1151783108	Ei, escute, não se preocupe com os trabalhadores aqui. Mandei avisar que estamos chegando. Eles não vão nos delatar.
+2062980646	Parece que você tem alguns amigos por aqui.
+149736502	Vamos chamar de reputação.
+102232804	O que você acha que o chefe trouxe do Novo México?
+1578282633	Não sei, e não me importo.
+345483893	Vamos, Freddy. Você não está nem um pouco curioso.
+2034911439	Nunca vale a pena meter o nariz nos negócios de outra pessoa. Principalmente os negócios DeVitt.
+829078667	Então, como está o ar aí em cima?
+1731872078	Muito engraçado. Você não tem que patrulhar?
+868043868	Eles fecharam o portão do jardim. Eu não vou dar a volta.
+2023043705	Faça como quiser.
+856783855	Algo está acontecendo na capela.
+92700561	Eh, os trabalhadores estão intrometidos de novo, quem se importa.
+1802995305	Sim. Eles estiveram me olhando o dia todo. Imagino o que há de errado.
+1653419427	Você tem que aprender a relaxar, amigo.
+1465499533	O que você está fazendo aí?
+1002434623	Eu posso ver melhor daqui de cima.
+1414462688	E se você ouvir algo suspeito?
+373380709	Eu ignoro, o que mais você acha que vou fazer?
+1824252542	Argh, cara.
 1812110440	Hmm.
 1538560286	He he he.
 1009259826	Whoopsy daisy.
@@ -17646,134 +17646,134 @@ Portuguese	Português(BR)
 977493494	Yes they do. Remember that damn minecart with the gunpowder.
 981938371	That was YOUR plan.
 697804327	I wanted dynamite.
-1540555459	It worked didn't it? Now listen, here's what we're gonna do.
-1292304701	This can't be good.
-432881984	Question Magnus DeVitt
-1773011631	Meet up on the roof and question Magnus DeVitt.
-1606501249	Collect Map Pieces ({0} of 5)
-37035926	DeVitt has split the map to the money into five pieces and handed them out to his men. Collect them all.
-1950596606	Target A
-2000501154	The overseer of the living quarters is in quite the pickle.
-1108432962	Target B
-1472917576	The warehouse supervisor is acting suspicious.
-1254492707	Target C
-447010899	The packing director has something to show off.
-1763085498	Target D
-782371726	The foreman at the fields seems pretty paranoid.
-2003745405	Meet up Outside
-631053090	You have what you came for. Leave the estate and meet up with Doc and Rosie.
-903657723	Mansion Key
-1557739138	The doors to the mansion are locked. One of the garden guards has the key.
-691184825	Disguise
-2021573242	There are two suitable disguises for Kate.
-2002585429	Meet Undercover Carl
-1050046787	Agent Carl has gone undercover at the packaging area. We need to extract him before his cover blows.
-1111739782	Free Doc...again
-1802514979	The grumpy human known to them as "Doc" has got himself stuck on that roof. We shall aid him.
-1649633204	Liberate the Queen
-1208800897	The Queen of all Chickens has been imprisoned at this farm. We must free her from the grasps of the evil pen keeper.
-1221080576	DeVitt Plantation
-392609880	Part 2: Five Steps Ahead
-1664437405	Part 2: Opus Magnus
-1438007870	In the second part of "Dinheiro para Abutres", the gang return to Louisiana to challenge a new member of the DeVitt family./n/nExplore a brand new location in the Bayou State, reunite with Isabelle for more Voodoo shenanigans and face off against a mastermind worthy of your talents.
-1074303684	Among the many members of the DeVitt family, you will find one Magnus Hieronymus DeVitt./n/nAs the owner of a lucrative cotton business, he resides on his vast plantation, surrounded by high walls and hoards of guards./n/nFollowing the lead gathered from Vincent DeVitt's vault, the gang travel to Louisiana on the hunt for the man's lost riches./n/nPerhaps this is a good time to reconnect with old friends.
-1342107686	The hunt for Vincent DeVitt's money continues. Following the lead gathered from his empty vault, the gang travel to Louisiana./n/nHere, they infiltrate the cotton plantation of Vincent's brother Magnus, who supposedly brought the money here./n/nThe plan is simple: Get to Magnus DeVitt, squeeze the location of the money out of him, collect it and head home./n/nThough something tells you it ain't gonna be that simple.
-2008715406	Get all map pieces before confronting DeVitt.
-2037689148	Don't use the left or the right side entrance.
-62451842	Don't touch the cotton fields.
-1986845839	Nobody ever did anything just for money. I'm starting to believe that myself.
-824422471	We've gone to quite some lengths to hunt down DeVitt's lost riches.
-662188280	Hidden vaults, treasure maps, and now a fortress in the desert.
-335646321	Even worse, I'm starting to enjoy the company. Mother would be shocked.
-2017750892	Anyway, here's hoping that the plan my dear old Hector came up with doesn't kill us all...
-1967074360	Why can´t I be the one with the a plan for once, amigo?
-1917499803	I swear, this is the last time, I´m gonna help that stupid ox.
-1340799740	Alright then, no ammo, no backup, ... no problem.
-535885676	EAGLE'S NEST OUTSKIRTS
-547299464	Shit... gotta make sure nobody’s watching when I cut him loose.
-1381675751	Be a lot easier without this damn suit.
-1480465188	Thought you were gonna make trouble, he big guy?
-331132095	Don't worry, we'll find your little friend.
-1938540396	You look kinda familiar... bah, forget it.
-352987679	We're gonna make an example of you.
-1154785013	What the hell? Where is he?
-1012088109	Shit, we gotta find him!
-1622357829	Hey, amigo! Over here!
-1837530854	Damn it. Be quiet.
-1805650070	So how's that plan of yours looking now? Got anything to say for yourself?
-1280245421	Relax, amigo. Everything went just as planned.
-1260826349	Like hell it did! And why'd I have to wear this damn suit?!
-668953037	Let’s just go over there. I’ll talk you through.
-316844345	Alright amigo listen up. The best part starts now.
-815364192	You´re still trying to tell me this is all part of your plan?
-340814181	Of course it is! Just listen.
-691516046	Me and Rosie are pretty sure they keep the money in that tower.
-2016045829	All we have to do is get in there, crack the lock on the door and bingo!
-1299856801	And how exactly are WE going to crack the lock?
-1097306597	You think it´s a coincidence they took Doc inside after they caught him?
-1879267963	I think you should put off on that whiskey you have in your flask.
-1416215396	Okay, so Doc´s in there, fine.
-973304880	How are WE supposed to get in there?
-1919886351	We use the cannon.
-689649012	That thing? Who says it's even loaded?!
-2051422095	There's a box of cannonballs right around here. We just gotta carry it to the cannon and boom!
-181343544	Great... 
-1847643261	... but what about Kate and Isabelle?
-1977615547	Isabelle is up there. I think they're all still scared of her after that show she put on.
-460711541	And Kate is over there. I think the big guy has fallen in love with her. Heh, idiot.
-1861807150	She better change out of that wedding dress though...
-1074081425	And that's about it.
-1469164829	Open the gate, free Doc, get into the tower and hello retirement!
-1868915384	And maybe free the others who are about to get killed because of you.
-398820561	Sure. Maybe that too.
-144886635	By the way, where the hell did your Rosie disappear to?
-1692892948	Ah! She’s also part of the plan. You'll see, it's gonna be great.
-1475910060	I think she saw how shit your plan was and said "screw this, I'm leaving." 
-1831242200	She would never do that! I know it in my heart, amigo!
-1010574852	Think I see Kate.
-972398662	Come on, Kate’s this way.
-1479250160	That’s Kate over there.
-938554196	I can't believe you talked her into proposing to that guy.
-2122825766	Heh, right? Rosie loved the idea, too.
-688501530	Oh, I bet she did. That's why she's here right now, helping us.
-1349571365	Relax, amigo.
-2069632375	Don't worry, the priest will be here soon.
-1951226312	We don't have any rings, but I'm sure that's alright with you.
-228957132	Wait until you get to know the boys. They'll love you.
-480804693	You can be proud. You're marrying the strongest, most handsome man around.
-1293306735	You can cook, right? Of course you can, I mean look at you.
-35199416	What's taking that damn priest so long...
-595972476	Wait what? Shit! My bride!
-44568144	Find her!
-2055338766	You took your sweet time.
-1209414223	Don’t worry. I got you.
-1216497781	Hold still, we got you.
-1078635164	God this is embarrassing
-1434347750	Hector! Damn it, what took you so long?!
-1088918614	Heh, sorry about that.
-1377818807	You better cut me loose right now!
-847203795	Remind me never to listen to one of your plans again.
-111169968	Come on Kate, you did great! Heh, that big guy even called a priest.
-541776335	Can someone please shut him up before I forget myself?
-1722334228	Huh? What did I say?
-2113431443	Let's just move on.
-1815655449	We cut through here, we get to the fortress.
-185525359	Through here, to the fortress.
-561948202	Fortress is this way.
-832911167	Wouldn’t mind taking the clothes off that lady so I can disguise myself.
-1760262285	She just walks up to him and says "I wanna marry you."
-326889129	Bullshit!
-1629533943	I swear to God, I was there.
-1570107384	Damnit! Lucky bastard.
-1328874239	You hear about that witch they caught over at the camp.
-1660395588	Ain't no such thing, as a witch.
-1244259482	Tell that to them. Said they're gonna burn her or something.
-286321581	Eh, they're just messing with you.
-76297247	They brought that shady fellah into the nest.
-897998457	Sounds like Morgan is gonna have some fun with him.
-405827216	He had this bag... Leonard pulled it open and poof! Exploded right in his face.
-347782645	Heh, serves him right the idiot.
-31915650	Finally something other that damn wedding dress.
+1540555459	Funcionou, não é? Agora ouça, aqui está o que vamos fazer.
+1292304701	Isso não vai acabar bem.
+432881984	Interrogue Magnus DeVitt
+1773011631	Vá até Magnus DeVitt no telhado e o Interrogue
+1606501249	Colete pedaços do mapa ({0} de 5)
+37035926	DeVitt dividiu o mapa do dinheiro em cinco partes e os entregou a seus homens. Colete-os todos.
+1950596606	Alvo A
+2000501154	O guarda dos aposentos está em apuros.
+1108432962	Alvo B
+1472917576	O guarda do armazém parece suspeito.
+1254492707	Alvo C
+447010899	O gerente de embalagens está se gabando de algo.
+1763085498	Alvo D
+782371726	O capataz nos campos parece bastante paranoico.
+2003745405	Encontro lá fora
+631053090	Você encontrou o que estava procurando. Deixe a mansão e encontre-se com Doc e Rosie.
+903657723	Chave da Mansão
+1557739138	As portas da mansão estão fechadas. Um dos guardas do jardim está com a chave.
+691184825	Disfarce
+2021573242	No jardim há um disfarce para Kate.
+2002585429	Conheça o Undercover Carl
+1050046787	O agente Carl está disfarçado na área de embalagem. Precisamos retira-lo antes que seu disfarce seja descoberto.
+1111739782	Liberte Doc... de novo
+1802514979	O cara rabugento conhecido por eles como "Doc" ficou preso naquele telhado. Devemos ajudá-lo.
+1649633204	Liberte a rainha
+1208800897	A Rainha de todas as Galinhas foi presa nesta fazenda. Devemos libertá-la das garras do perverso tratador.
+1221080576	Plantação DeVitt
+392609880	Parte 2: Cinco Passos à Frente
+1664437405	Parte 2: Plano de Magnus
+1438007870	Na segunda parte de "Dinheiro para abutres", o grupo retorna à Louisiana para desafiar um novo membro da família DeVitt./n/nExplore um novo local na região dos pântanos, reúna-se com Isabelle para mais travessuras Voodoo e enfrente-se contra um gênio digno de seus talentos.
+1074303684	Entre os muitos membros da família Devitt, encontramos Magnus Hieronymus Devitt./n/nProprietário de um negócio de algodão rentável, reside em sua grande plantação, cercado por muros altos e muitos guardas. Seguindo a trilha encontrada no quarto de Vincent Devitt, o grupo vai para Louisiana em busca de riqueza perdida./n/nTalvez seja a hora certa para encontrar velhos amigos.
+1342107686	A caça ao dinheiro de Vincent DeVitt continua. Seguindo a pista encontrada no cofre vazio, a gangue viaja para Louisiana./n/nAqui eles se infiltram na plantação de algodão do irmão de Vincent Magnus, que deveria ter trazido o dinheiro com ele./n/nO plano é simples: Vá até Magnus DeVitt, tire dele a localização do dinheiro, pegue-o e vá para casa./n/nMesmo se algo lhe disser que não será tão fácil.
+2008715406	Encontre todos os pedaços do mapa antes de chegar a DeVitt.
+2037689148	Não use a entrada lateral esquerda ou direita.
+62451842	Não vá pelos campos de algodão.
+1986845839	Ninguém nunca fez nada só pelo dinheiro. Estou começando a acreditar também.
+824422471	Percorremos um longo caminho em busca das riquezas perdidas de DeVitt.
+662188280	Cofres ocultos, mapas do tesouro e agora uma fortaleza no deserto.
+335646321	E pior ainda, estou começando a gostar da companhia. Minha mãe ficaria chocada.
+2017750892	Enfim, vamos torcer para que o plano do meu querido Hector não mate a todos nós...
+1967074360	Por que não posso ser aquele com um plano pelo menos uma vez, amigo?
+1917499803	Juro que é a última vez que ajudo aquele boi idiota.
+1340799740	Tudo bem então, sem munição, sem reforços... sem problema.
+535885676	ARREDORES DO NINHO DA ÁGUIA
+547299464	Merda... eu tenho que ter certeza de que ninguém olhará para mim quando eu o liberar.
+1381675751	Tudo seria mais fácil sem esse maldito terno.
+1480465188	Você pensou que estava vindo para nos incomodar, garotão?
+331132095	Não se preocupe, vamos encontrar seu amiguinho.
+1938540396	Você parece meio familiar... bah, não se preocupe.
+352987679	Vamos fazer de você um exemplo.
+1154785013	Que diabos? Onde ele está?
+1012088109	Merda, temos que encontrá-lo!
+1622357829	Ei, amigo! Por aqui!
+1837530854	Droga. Fica quieto.
+1805650070	O que você acha do seu plano, agora? Você tem algo a dizer em sua defesa?
+1280245421	Relaxe, amigo. Tudo saiu como planejado.
+1260826349	Porra! E por que eu tenho que usar esse maldito terno?
+668953037	Vamos lá. Eu vou te explicar.
+316844345	Tudo bem amigo, me escute. A melhor parte começa agora.
+815364192	Você me faria acreditar que tudo fazia parte do seu plano?
+340814181	Claro! Me escute.
+691516046	Rosie e eu temos certeza de que o dinheiro está naquela torre.
+2016045829	Só temos que entrar, abrir a fechadura e ... bingo!
+1299856801	E como vamos abrir a fechadura?
+1097306597	Você acha que é uma coincidência que eles trouxeram o DOC depois que o pegaram?
+1879267963	Acho que você deveria guardar o uísque que guarda no frasco.
+1416215396	Ok, então Doc está aí, certo.
+973304880	Como entramos?
+1919886351	Usaremos o canhão.
+689649012	Aquela coisa? Como você sabe que está carregado?!?
+2051422095	Há uma caixa de balas de canhão por aqui. Precisamos levá-las ao canhão e... BOOM!
+181343544	Ótimo... 
+1847643261	... mas e quanto a Kate e Isabelle?
+1977615547	Isabelle está lá em cima. Acho que eles ainda estão com medo dela depois do pequeno show que ela deu.
+460711541	E Kate está ali. Acho que o grandalhão se apaixonou por ela. Heh, idiota.
+1861807150	Mas é melhor você tirar esse vestido de noiva...
+1074081425	E isso é tudo.
+1469164829	Abrimos o portão, libertamos o Doc, entramos na torre e olá aposentadoria!
+1868915384	E talvez libertemos os outros que estão prestes a ser mortos por sua causa.
+398820561	Claro, isso também.
+144886635	O que aconteceu com sua preciosa Rosie?
+1692892948	Ah! Ela também faz parte do plano. Você verá, vai ser ótimo.
+1475910060	Acho que ela percebeu como seu plano era nojento e disse "dane-se, estou indo embora".
+1831242200	Ela nunca faria isso! Eu sinto isso, amigo!
+1010574852	Acho que vejo Kate.
+972398662	Vamos, Kate é por aqui.
+1479250160	Essa é a Kate.
+938554196	Não acredito que você a convenceu a se casar com aquele cara.
+2122825766	Heh, certo? Rosie também adorou a ideia.
+688501530	Oh, aposto que sim. É por isso que ela está aqui agora para nos ajudar.
+1349571365	Relaxe, amigo.
+2069632375	Não se preocupe, o padre estará aqui em breve.
+1951226312	Não temos os anéis, mas isso definitivamente não é um problema para você.
+228957132	Espere até conhecer os meninos. Eles vão te amar.
+480804693	Você pode se orgulhar. Você está prestes a se casar com o homem mais forte e bonito da região.
+1293306735	Você sabe cozinhar, certo? Claro que você sabe cozinhar, ou seja, olhe para si mesmo.
+35199416	Porque aquele padre demora tanto.
+595972476	Espere um minuto, o que...? Merda! Minha noiva!
+44568144	Encontre-a!
+2055338766	Você pegou leve.
+1209414223	Não se preocupe, vou cuidar disso.
+1216497781	Fica quieto, nós cuidaremos disso.
+1078635164	Que vergonha.
+1434347750	Hector! Droga, por que demorou tanto?!
+1088918614	Eh, desculpe por isso.
+1377818807	É melhor você me soltar agora!
+847203795	Lembre-me de nunca mais ouvir SEUS planos novamente.
+111169968	Vamos, Kate, você foi muito bem! Esse cara até chamou o padre.
+541776335	Alguém pode por favor calá-lo antes que eu perca a paciência?
+1722334228	Hã? O que eu disse de errado?
+2113431443	Vamos seguir em frente.
+1815655449	Passamos por aqui e chegamos à fortaleza.
+185525359	Por aqui, em direção à fortaleza.
+561948202	Acredito que a fortaleza fica deste lado.
+832911167	Não me importaria de usar as roupas daquela mulher como disfarce.
+1760262285	Ela foi ao seu encontro e disse: "Quero me casar com você".
+326889129	Besteira!
+1629533943	Juro por Deus, eu estava lá.
+1570107384	Droga! Maldito sortudo.
+1328874239	Você ouviu sobre a bruxa que eles capturaram no acampamento?
+1660395588	Bruxas não existem.
+1244259482	Diga a eles. Eles disseram que querem queimá-la ou algo assim.
+286321581	Eh, eles estão apenas brincando com você.
+76297247	Eles trouxeram aquele sujeito sombrio para o ninho.
+897998457	Parece que Morgan quer se divertir com ele.
+405827216	Ele estava com essa bolsa ... Leonard abriu e puf! Explodiu bem na cara dele.
+347782645	Heh, Bem feito, o idiota.
+31915650	Finalmente posso tirar o maldito vestido de noiva.
 1320544159	Tem certeza que quer colocar isso neste tempo?
 297068518	Cuidado, John. Esse terno também não parece muito confortável.
 998509862	Obrigado por me lembrar.
