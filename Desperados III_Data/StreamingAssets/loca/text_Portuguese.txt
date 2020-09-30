@@ -17518,134 +17518,134 @@ Portuguese	Português(BR)
 507099836	So, uh... we're looking for a map now?
 1038115170	Yup. Four more pieces. And God knows where the money is.
 1049996356	Doc's gonna love this.
-2056987044	Least he didn't realize we already got a few pieces.
-589154216	We do? Oh yeah!
-781501296	Maybe we should we have told him?
-1983879408	I think we handled the conversation with style. Come on, let's find rest.
-1943925882	Good thing we already got the other pieces.
-334843608	We do? We do!
-1050545043	Guess his big plan didn't work out after all.
-811447708	And after he made such a nice speech.
-1253156997	He even gave us the final piece, ha ha ha.
-1805788542	Come on. Let's get the hell out of here.
-508204636	Things can never be easy, can they?
-1866827985	Well this just got a lot more complicated.
-1807972342	Still more work here. Who'da guessed.
-135946074	So we're looking for map pieces now, huh?
-1671878560	Good thing he wrote all that down, or we wouldn't know shit.
+2056987044	Pelo menos ele não percebeu que já temos algumas peças.
+589154216	De verdade? Ah claro.
+781501296	Talvez devêssemos ter contado a ele?
+1983879408	Cuidamos da conversa com classe. Venha, vamos encontrar os outros.
+1943925882	Ainda bem que já temos as outras peças.
+334843608	Ah sim? É verdade!
+1050545043	Seu grande plano não era tão grande.
+811447708	E depois de um discurso tão lindo.
+1253156997	Ele também nos deu a última peça, ha ha ha.
+1805788542	Vamos. Vamos dar o fora daqui.
+508204636	Nunca é uma coisa simples, hein?
+1866827985	A situação ficou muito mais complicada.
+1807972342	Outras coisas a fazer. Quem teria imaginado.
+135946074	Então agora vamos procurar as peças do mapa?
+1671878560	Felizmente, tudo foi escrito, ou não teríamos entendido nada.
 1545124795	Uh-huh.
-1772518637	Very convenient.
-1288462496	Wait. Don't we already have a couple o' pieces?
-13290548	You mean those pictures? Oh yeah!
-336904834	That certainly makes things easier.
-1052459631	Let's pick up the ones we missed and get the hell out of here.
-329692644	Wait a minute. I think we already have the other pieces.
-129669007	We do? We do! The pictures, ha ha!
-410776803	And here I thought all that running around was pointless.
-461786644	I get the feeling this wasn't how DeVitt figured things would go.
-197006898	We sure dodged a bullet with that one.
-2118119898	Damn straight. Now let's get the hell outa here. Can't wait to hear what Sunshine has to say about this.
-1308876324	Well, looks like a piece of that map.
-133485675	I think we just got our first map piece.
-987941214	Hey, I got a piece here!
-549728861	Lookee here. A piece of that map.
-56593410	We have two now. Three more to go.
-386843811	I hope my Rosie is okay.
-1887087986	Honestly, I'd worry more about Doc.
-309228604	Think I got another map piece.
-1021994270	Here's another map piece.
-97410372	Oho, another map piece!
-481014452	Another map piece.
-1483981715	Three down, two to go.
-737989658	I could get used to this. Traveling the country, hunting down clues... 
-102656676	Wait until you my age.
-2116260732	Well whaddaya say, another map piece.
-610316449	Voila. Another map piece.
-1748787693	Hey, I found another one!
-1405757339	One more map piece.
-1398961677	That makes four. One left.
-322156179	I really hope there's something at the bottom of this rabbit hole.
-1926720766	Well if not, at least we know who to blame.
-1563304362	He he, yeah... who?
-1085389431	That's the final map piece.
-1710669740	I think we have our final map piece.
-230771352	Aha! This must the last one.
-4485091	Got another map piece. That should be it.
-901888663	Finally! My Rosie must be getting sick with worry.
-1295755533	Who knows. Maybe she's just getting real intimate with Doc.
-2140470158	Doc? Ha ha ha ha ha ha! Good one amigo.
-869059055	Now now boys. Let's behave until we get out of here.
-1262700998	Right. It's high time we make our exit.
-885096995	Huh? What's this?
-1407083689	Well well, what do we have here.
-421825746	Uh, hey! I just found something.
-1339122302	Hey. Take a look at this.
-1251999777	Looks like some kinda drawing.
-1955893983	You think this might be important?
-509648687	Let's hang on to it for now.
-627549477	Hmm... another drawing
-1360690010	Another drawing.
-1749703463	Hey, another picture.
-1384733354	He also had a drawing.
-1292730422	What do you think these are for?
-560794101	Maybe we should ask the master of the house about this.
-711495215	Maybe.
-1931843622	That's the third scribble we found...
-1444289450	That makes three drawings...
-1424779458	More pictures, huh?
-518865283	Another drawing. We got three now.
-1167599820	I wonder if Rosie's okay.
-612103605	Oh don't worry. She's got Doc with her. What could go wrong?
-198608686	How many of these things are there.
-2105269269	This is getting ridiculous.
-1117247583	That's number three... four! ... five?
-514371290	Another one of these.
-1046918113	We got a few now. Does it look like something to you?
-157483979	Looks like the middle part is still missing.
-1653243227	I think it's high time we pay a visit to DeVitt.
-956820537	Oh right! That's why we're here!
-1185401571	Listen, before we head out, I think you should know something about me and Rosie.
-404345550	What are you talking about?
-958045799	Back in New Orleans, I was her... supplier for certain things. You know, herbs, potions, that kinda stuff.
-793607733	Not long before you and I met, she asked for a certain drug. Puts a man right out of his mind.
-757375124	My point is, I'm pretty sure that stuff she put in your drinks in Baton Rouge came from me. 
-1246260810	Sorry about that.
-900656378	Oh, don't worry Belle! Without you, I'd never have met my Rosie!
-597054639	Well that's one way of puttin' it.
-697878808	Sure is.
-1810141170	No idea. But I wouldn't put it past her.
-859992279	That's just wonderful.
-1607255470	So how much do we have?
-1768606108	We don´t know yet, but we got a map that will lead us to the money!
-663542118	Is that supposed to be a joke?
-538284282	C´mon Sunshine, just a little bit longer and you will never have to see me again.
-491750783	I know who I want to see again haha!
-84308158	Here we go...
-1985182162	I knew you wouldn't disappoint me, my handsome, unwashed little Texan bear.
-1504910046	Heh, easy as pie, my sweetie pie...
-1918398930	You're taking the whole map thing rather well.
-1314316148	Come on, Cooper. One grumpy old man is enough for this party.
-1910996414	I'm not old!
-863972535	Oh my...
-551230520	What is it, honeybee?
-505046078	The map says the money is in a place called “Eagle's Nest” ...
-1982532554	Looks like an old... fortress or something...
-1548143148	Won't be easy getting in there...
+1772518637	Muito confortável.
+1288462496	Um momento. Já não temos algumas peças?
+13290548	Você quer dizer aquelas fotos? Ai sim!
+336904834	Isso certamente torna as coisas mais fáceis.
+1052459631	Vamos pegar os que deixamos para trás e partir imediatamente.
+329692644	Espere um minuto. Acho que já temos as outras peças.
+129669007	Ah sim? É verdade! As fotos, ha ha!
+410776803	E pensei que todas as idas e vindas seriam inúteis.
+461786644	Acho que DeVitt não queria que as coisas fossem assim.
+197006898	Nós nos divertimos muito.
+2118119898	Certo. Agora vamos dar o fora daqui. Mal posso esperar para ouvir o que Doc tem a dizer sobre isso.
+1308876324	Bem, parece um pedaço daquele mapa.
+133485675	Acabamos de encontrar o primeiro pedaço do mapa.
+987941214	Ei, encontrei um pedaço!
+549728861	Olhe aqui. Um pedaço do mapa.
+56593410	Agora temos dois. Faltam três.
+386843811	Espero que minha Rosie esteja bem.
+1887087986	Honestamente, estou mais preocupado com o Doc.
+309228604	Acho que é outro pedaço do mapa.
+1021994270	Aqui está outro pedaço do mapa.
+97410372	Oh oh, outro pedaço do mapa!
+481014452	Outro pedaço do mapa.
+1483981715	Três já foram, faltam dois.
+737989658	Eu posso até me acostumar com isso. Viajando pelo país, caçando pistas...
+102656676	Espere até você chegar à minha idade.
+2116260732	Mas olhe, outro pedaço do mapa.
+610316449	Voila. Outro pedaço do mapa.
+1748787693	Ei, encontrei outro!
+1405757339	Outro pedaço do mapa.
+1398961677	E com esse são quatro. Falta um.
+322156179	Espero que tudo isso realmente leve a alguma coisa.
+1926720766	Se não, sabemos a quem culpar.
+1563304362	Eh eh, sim ... quem?
+1085389431	Essa é a peça final do mapa.
+1710669740	Podemos ter encontrado o último pedaço do mapa.
+230771352	Ha! Este deve ser o último.
+4485091	Peguei outro pedaço do mapa. Nós terminamos.
+901888663	Finalmente! Minha Rosie de está muito preocupada.
+1295755533	Quem sabe... talvez ela tenha conhecido o Doc.
+2140470158	Doc? Ha ha ha ha! Isso é lindo, amigo.
+869059055	Calma gente. Vamos nos comportar bem até irmos embora.
+1262700998	Certo. É hora de sair daqui.
+885096995	Hã? O que é isso?
+1407083689	Bem, bem, o que temos aqui?
+421825746	Uh, ei! Eu encontrei algo.
+1339122302	Ei, venha e veja.
+1251999777	Parece algum tipo de desenho.
+1955893983	Você acha que é importante?
+509648687	Por enquanto, vamos mantê-lo.
+627549477	Mmm... outro desenho.
+1360690010	Outro desenho.
+1749703463	Ei, outra foto.
+1384733354	Também havia um desenho nisso.
+1292730422	O que você acha que eles podem servir?
+560794101	Talvez devêssemos perguntar ao dono da casa.
+711495215	Talvez.
+1931843622	Esse é o terceiro desenho que encontramos...
+1444289450	E com isso dá três desenhos...
+1424779458	Mais fotos, hein?
+518865283	Outro desenho. Temos três agora.
+1167599820	Eu me pergunto se Rosie está bem.
+612103605	Oh, não se preocupe. Doc está com ela. O que poderia dar errado?
+198608686	Quantas dessas coisas existem.
+2105269269	Que situação ridícula.
+1117247583	E este é o terceiro... quarto! Quinto?
+514371290	Aqui está outro.
+1046918113	Agora temos alguns. Você entendeu alguma coisa?
+157483979	Parece que falta a parte central.
+1653243227	Acho que é hora de ir ver DeVitt.
+956820537	Oh, certo! Viemos para isso!
+1185401571	Ouça, antes de sairmos. Há uma coisa que quero dizer sobre mim e Rosie.
+404345550	Do que você está falando?
+958045799	Em Nova Orleans, eu era seu... fornecedor de certas coisas. Você sabe, ervas, poções, esse tipo de coisa.
+793607733	Pouco antes de você e eu nos conhecermos, ela me pediu uma certa droga. Capaz de fazer você perder a cabeça.
+757375124	O que quero dizer é que tenho quase certeza de que as coisas que ela colocou nas suas bebidas em Baton Rouge vieram de mim.
+1246260810	Me desculpe por isso.
+900656378	Oh, não se preocupe Belle! Sem você, eu nunca teria conhecido minha Rosie!
+597054639	É uma maneira de ver as coisas.
+697878808	Claro que é.
+1810141170	Eu não faço ideia. Mas eu não descartaria.
+859992279	Fantástico.
+1607255470	Então, o que temos?
+1768606108	Não sabemos ainda, mas encontramos um mapa que deve nos levar ao dinheiro!
+663542118	Isso é para ser uma piada?
+538284282	Vamos, querido, só mais um pouquinho e você nunca mais terá que me ver.
+491750783	Eu sei quem eu quero ver de novo haha!
+84308158	Aqui vamos nós...
+1985182162	Eu sabia que você não me decepcionaria, meu lindo urso texano sujo.
+1504910046	Heh, fácil como uma torta, minha querida torta...
+1918398930	Você está entendendo bem o mapa.
+1314316148	Vamos, Cooper. Um velho mal-humorado é o suficiente para esta festa.
+1910996414	Não sou velho!
+863972535	Oh meu...
+551230520	O que foi, querido?
+505046078	O mapa diz que o dinheiro está em um lugar chamado “Ninho da Águia” ...
+1982532554	Parece uma espécie de... fortaleza...
+1548143148	Não será fácil entrar...
 857687732	xxx
-1148467706	Really? Eagle's Nest?
+1148467706	Sério? Ninho de Águia?
 611234244	xxx
 329348295	HAHAHAHAHAHAHA!
-1639975553	What the hell?
-1500042263	Think we lost him.
-1102469218	I know that place!
-599621517	AND I know how we get in there.
-223030689	Oh no! No way!
-2082156266	What?
-1790925422	Your plans ALWAYS suck!
-1711447979	No they don't...
-977493494	Yes they do. Remember that damn minecart with the gunpowder.
-981938371	That was YOUR plan.
-697804327	I wanted dynamite.
+1639975553	Que diabos?
+1500042263	Nós o perdemos.
+1102469218	Eu conheço esse lugar!
+599621517	E eu sei como entramos lá.
+223030689	Oh não! De jeito nenhum!
+2082156266	O que?
+1790925422	Seus planos SEMPRE são uma merda!
+1711447979	Não é verdade...
+977493494	Sim, mas. Você se lembra do carrinho de mina com a pólvora?
+981938371	Esse plano era SEU.
+697804327	Eu queria usar dinamite.
 1540555459	Funcionou, não é? Agora ouça, aqui está o que vamos fazer.
 1292304701	Isso não vai acabar bem.
 432881984	Interrogue Magnus DeVitt
