@@ -1025,8 +1025,8 @@ Portuguese	Português(BR)
 1542545570	Espingarda
 589642151	Kate pode usar a espingarda para atirar nos guardas./nO alcance é muito baixo, mas o barulho também…
 774016983	Controle mental
-111091774	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e <skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
-1381139210	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e <skill>interagir</skill>com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
+111091774	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e <skill>interagir</skill> com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
+1381139210	Isabelle pode <skill>controlar a mente</skill> de inimigos./nEles podem receber ordens para <skill>atacar</skill>, interagir com outros e <skill>interagir</skill> com objetos./nAções de guardas controlados pela mente <skill>nunca causarão alarme</skill>, mas se alguém vê-los agindo <skill>suspeitosamente</skill>, eles atacarão.
 145657864	Estramônio
 561717325	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma pressionando {0}.
 637479073	Isabelle pode usar o <skill>Estramônio</skill> para <skill>curar</skill> ela mesma selecionando-a na roda de habilidades e pressionando {0}.
@@ -16427,7 +16427,7 @@ Portuguese	Português(BR)
 1049284093	Sussurros no escuro
 502931271	O Barão espera nas sombras. Ele entrará em contato com você quando for a hora certa.
 2141318135	O Barão Toma Nota
-1197034691	Você é contatado por um homem misterioso que se faz conhecido por você como o Barão. Suas ações atraíram o interesse de seus clientes e ele oferece a você a chance de participar de desafios exclusivos para o benefício do entretenimento deles. O Barão colocará à prova sua habilidade no jogo e, às vezes, ajustará a mecânica estabelecida de maneiras inesperadas.
+1197034691	Você é contatado por um homem misterioso que se faz conhecido por você como o Barão. Suas ações atraíram o interesse de seus clientes e ele oferece a você a chance de participar de desafios exclusivos para o benefício do entretenimento deles. O Barão colocará à prova suas habilidades no jogo e às vezes, ajustará a mecânica estabelecida de maneiras inesperadas.
 1313161225	Novo desafio
 35945019	O Barão tem um novo desafio para você.
 659216221	Lei de Fuga
@@ -17188,7 +17188,7 @@ Portuguese	Português(BR)
 1024967519	Há um disfarce para Kate no jardim.
 1247782491	Casa DeVitt/n(abandonada)
 695077169	Parte 1: Tarde para a festa
-265455246	Na primeira parte de "Dinheiro para abutres", o grupo se reúne mais uma vez para caçar as riquezas escondidas de Vincent DeVitt./n/nAjude-os a descobrir um cofre misterioso, evite saqueadores sedentos de sangue e descubra se a enigmática Rosie de Baton Rouge é realmente confiável ou se ela tem seus próprios interesses em mente.
+265455246	Na primeira parte de "Dinheiro para abutres", o grupo se reúne mais uma vez para caçar as riquezas escondidas de Vincent DeVitt./n/nAjude-os a encontrar um cofre misterioso, evite saqueadores sanguinários e descubra se a enigmática Rosie de Baton Rouge é realmente confiável ou se ela tem seus próprios interesses em mente.
 72555366	Três meses após o confronto no Devil's Canyon, o grupo se reúne mais uma vez./n/nUma mensagem de Hector promete um negócio lucrativo: uma caça às riquezas ocultas de Vincent DeVitt./n/nEles chegam à propriedade de DeVitt, agora manchada pela negligência e pelas mãos de saqueadores gananciosos./n/nCom eles está a misteriosa Rosie, uma conhecida duvidosa de suas aventuras em Baton Rouge... 
 1549737372	Três meses após o confronto no Devil's Canyon, o grupo se reúne para um trabalho especial./n/nRosie, uma duvidosa conhecida de Baton Rouge, quer sua ajuda para caçar o tesouro escondido de Vincent DeVitt./n/nAo retornar para a agora abandonada Casa DeVitt, a gangue deve agora abrir caminho através de saqueadores sedentos de sangue até a estátua no jardim da frente./n/nUm interruptor escondido na estátua deve revelar a abóbada. Feito isso, a única coisa que resta a fazer é limpá-lo. Ah, e Cooper está em algum lugar também.
 1972791255	Traga um presente para Rosie.
