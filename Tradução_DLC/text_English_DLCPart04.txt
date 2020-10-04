@@ -27,45 +27,45 @@
 1284281502	Para brincar de esconde-esconde novamente.
 260231978	Hrm... O algodão vai grudar na minha barba novamente.
 545062042	Aquele grandão da prensa de algodão. Ele tem um pedaço do mapa.
-69940619	Oh, I got my eyes on everyone here.
-193322740	Nobody's gonna sneak up on me, he he he.
-1279473339	You want it, huh? Well come and get it.
-962895899	I ain't gonna disappoint the boss, nuh-uh.
-295264095	You hear me out there?! You gonna get nothing!
-863414015	You think you can hide in the cotton! I can see right through that shit, got it?!
-2057340577	That's it, all tough and scary. Ain't nobody come backstab you, good job.
-1316421346	If someone tries to knife ya... woosh, bang, shotgun to the belly.
-835229466	What's it mean anyway? Bah, who cares.
-171468344	Shotgun loaded? It's loaded, yeah, yeah, loaded, good, good.
-1415709429	Eyes peeled. Gonna be a long day. 
-1535749146	You got a clue what's wrong with Al?
-421385118	No idea. He's been like that since that meeting with the boss a few weeks ago.
-1414743983	He's still rambling. Something about cotton and backstabs.
-1849275737	Don't worry about it. It'll pass.
-510510379	Where's the rest of the workers anyway?
-223773436	Dunno. They're gonna hear about it from the boss, trust me.
-1631395957	If the workers are slacking off, maybe I could...
-1833119491	Be my guest. Just don't come crying when the boss puts you to work too.
-560803052	You're here to make trouble, aren'tcha? Best keep yer heads down.
-1174985129	It's easy in the fields here, but if push comes to shove, you can always hide in a pile of cotton, he he he.
-1416870764	That area looks pretty cramped.
-748021028	So this is where they sort the cotton.
-175596108	Heh, look at those piles.
-160958535	Ain't far from here to the garden.
-292815510	Let's check this place again.
-1855635893	Let's have another look at the sorting area.
-1847017641	Ah, the piles again.
-523612762	One of the guys in there should have a piece of the map.
-1119655490	What the hell is it then?
-211601362	Beats me. It's got scribbles on it though.
-1849732270	Maybe it's a secret message from his brother.
-706114184	Could be.
-1811117885	I don't get it. Why hand those out?
-308967944	You know the boss. He never explains his "plans."
-388381682	Let's just hope this one don't get us killed.
-1917640288	I hear ya.
-1380444807	Give here. I wanna see it.
-1281658842	Nuh-uh. You're just gonna lose it with your ham hands.
+69940619	Oh, estou de olho em todos aqui.
+193322740	Ninguém vai se aproximar sorrateiramente de mim, he he he.
+1279473339	Você quer isso, hein? Bem, venha e pegue.
+962895899	Não vou decepcionar o chefe, nuh-uh.
+295264095	Você pode me ouvir daí?! Você não vai levar nada!
+863414015	Você acha que pode se esconder no algodão! Eu posso ver através dessa merda, entendeu ?!
+2057340577	Isso mesmo, difícil e assustador. Ninguém vai jogar com você, bom trabalho.
+1316421346	Se alguém tentar te esfaquear ... woosh, bang, atire na barriga.
+835229466	O que isso significa, afinal? Bah, quem se importa.
+171468344	Escopeta carregada? Está carregada, sim, sim, carregada, bom, bom.
+1415709429	Olhos abertos. Vai ser um longo dia. 
+1535749146	Você tem alguma ideia do que há de errado com Al?
+421385118	Nenhuma idéia. Ele está assim desde aquela reunião com o chefe algumas semanas atrás.
+1414743983	Ele ainda divaga. Algo sobre algodão e não sei quais traições.
+1849275737	Não se preocupe com isso. Isso vai passar.
+510510379	Onde está o resto dos trabalhadores?
+223773436	Não sei. Eles vão ouvir sobre isso do chefe, confie em mim.
+1631395957	Se os trabalhadores estão relaxando, talvez eu pudesse...
+1833119491	Seja meu convidado. Só não venha chorar quando o chefe o colocar para trabalhar também.
+560803052	Você está aqui para criar problemas, não está? Melhor manter a cabeça baixa.
+1174985129	Aqui no campo é fácil, mas se as coisas ficarem difíceis você sempre pode se esconder em uma pilha de algodão.
+1416870764	Essa área parece muito apertada.
+748021028	Então é aqui que eles separam o algodão.
+175596108	Heh, olhe para essas pilhas.
+160958535	Não fica longe daqui para o jardim.
+292815510	Vamos verificar este lugar novamente.
+1855635893	Vamos dar outra olhada na área de preparação.
+1847017641	Ah, as pilhas de novo.
+523612762	Um desses homens deve ter um pedaço do mapa.
+1119655490	O que diabos é isso então?
+211601362	Nem idéia. Tem apenas rabiscos.
+1849732270	Talvez seja uma mensagem secreta de seu irmão.
+706114184	Poderia ser.
+1811117885	Eu não entendo. Por que distribuir isso?
+308967944	Você conhece o chefe. Ele nunca explica seus "planos".
+388381682	Vamos torcer para que ele não nos mate.
+1917640288	Eu ouço você.
+1380444807	Dê aqui. Eu quero ver isso.
+1281658842	Nuh-uh. Você com certeza se perde com essas mãos desajeitadas.
 938018048	I think you're startin to get paranoid, Bert.
 2059291690	No I ain't. Now shut your stinkin' trap.
 1509872811	Maybe it's a recipe. You know, for cooking.
