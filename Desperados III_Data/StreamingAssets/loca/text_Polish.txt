@@ -18147,3 +18147,9 @@ Portuguese	Portugalski(BR)
 1939355848	Tylko jeszcze jedno pytanie. Czy myślisz, że zostawiła sobie trochę na później?
 1659839101	PS Szkoda, że nie mogę teraz zobaczyć twarzy Doktora.
 827557133	Kontynuuj swoją przygodę!/nOtwórz menu opcji i wprowadź następującą kombinację za pomocą przycisków kierunkowych na swoim kontrolerze bezprzewodowym: <b><hotkey>„PRAWO, PRAWO, PRAWO, GÓRA, DÓŁ”</hotkey></b>
+1474137542	Tryb łowcy nagród
+276761797	Tryb łowcy nagród
+1874315388	Tryb łowcy nagród nie jest dostępny dla tej misji.
+1085572211	Ukończ tę misję na dowolnym poziomie trudności, aby odblokować tryb łowcy nagród.
+628877491	Możesz teraz wypróbować nowy tryb łowcy nagród! Wybierz misję i wciśnij przycisk „Tryb łowcy nagród”.
+1389245417	Wybierz swoje postaci. Postaci zablokowane są wymagane do gry./n/nOstrzeżenie:/n- Może zawierać spoilery dla postaci, które nie pojawiły się jeszcze w twojej rozgrywce./n- Odznaki są wyłączone./

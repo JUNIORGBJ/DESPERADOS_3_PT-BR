@@ -18147,3 +18147,9 @@ Portuguese	Portugués(BR)
 1939355848	Pero tengo una pregunta. ¿Crees que le sigue quedando algo de eso?
 1659839101	P. D.: Lástima no poder verle la cara a Doc en este momento.
 827557133	¡Sigue tu aventura en el juego donde la dejaste!/nVe al menú de opciones e introduce el siguiente código con los botones de dirección de tu mando inalámbrico: <b><hotkey>"DERECHA DERECHA DERECHA ARRIBA ABAJO"</hotkey></b>
+1474137542	Modo Recompensa
+276761797	Modo Recompensa
+1874315388	El modo Recompensa no está disponible para esta misión.
+1085572211	Completa esta misión en cualquier dificultad para desbloquear el modo Recompensa.
+628877491	¡Ahora ya puedes probar el nuevo modo Recompensa! Selecciona una misión y usa el botón «Modo Recompensa».
+1389245417	Elige a tus personajes. Los que están bloqueados siempre son necesarios./n/nAviso:/n- Puede incluir destripes de personajes que aún no hayas conocido./n- Las placas están desactivadas./n

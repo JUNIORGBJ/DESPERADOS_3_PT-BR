@@ -18147,3 +18147,9 @@ Portuguese	Portugais(BR)
 1939355848	Mais j’ai encore une question. Tu crois qu’il lui en reste, de ce produit ?
 1659839101	PS : Dommage que je puisse pas voir la tête que fait Doc, là.
 827557133	Reprenez votre aventure là où vous l’avez arrêtée !/nRendez-vous dans le menu des options et entrez le code suivant à l'aide des touches directionnelles de votre manette sans fil : <b><hotkey>"DROITE DROITE DROITE HAUT BAS"</hotkey></b>
+1474137542	Mode Butin
+276761797	Mode Butin
+1874315388	Le mode Butin n’est pas disponible pour cette mission.
+1085572211	Terminez cette mission sur n’importe quel niveau de difficulté pour débloquer le mode Butin.
+628877491	Vous pouvez maintenant essayer le nouveau mode Butin ! Sélectionnez une mission, puis sélectionnez le bouton “Mode Butin”.
+1389245417	Choisissez vos personnages. Les personnages verrouillés sont toujours indispensables./n/nAvertissement :/n- Peut contenir des spoilers concernant les personnages que vous n’avez pas encore rencontrés./n- Les insignes sont désactivés./n

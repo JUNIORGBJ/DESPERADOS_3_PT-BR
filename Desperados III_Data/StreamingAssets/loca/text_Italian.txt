@@ -18147,3 +18147,9 @@ Portuguese	Portoghese(BR)
 1939355848	Solo una domanda. Credi che possa averne ancora?
 1659839101	PS: Mi dispiace non poter vedere la faccia di Doc in questo momento.
 827557133	Riprendi l'avventura da dove l'hai lasciata!/nVai nel menu Opzioni e inserisci questo codice con i tasti direzionali del tuo controller wireless: <b><hotkey>"DESTRA DESTRA DESTRA SU GIÙ"</hotkey></b>
+1474137542	Modalità Taglia
+276761797	Modalità Taglia
+1874315388	La modalità Taglia non è disponibile per questa missione.
+1085572211	Completa questa missione a qualsiasi difficoltà per sbloccare la modalità Taglia.
+628877491	Ora puoi provare la nuova modalità Taglia! Seleziona una missione e usa il pulsante "Modalità Taglia".
+1389245417	Scegli i personaggi. Quelli bloccati sono necessari./n/nAttenzione:/n- Potrebbe contenere spoiler su personaggi non ancora incontrati./n- I distintivi sono disattivati./n

@@ -18162,3 +18162,9 @@ Portuguese	Portuguese(BR)
 1939355848	One question though. You think she still has some of that stuff?
 1659839101	PS: Shame I can't see Doc's face right now.
 827557133	Pick up the adventure in the game where you left off!/nGo to the options menu and input the following code with the directional buttons of your wireless controller: <b><hotkey>"RIGHT RIGHT RIGHT UP DOWN"</hotkey></b>
+1474137542	Bounty Mode
+276761797	Bounty Mode
+1874315388	Bounty Mode is not available for this mission.
+1085572211	Complete this mission on any difficulty to unlock Bounty Mode.
+628877491	You can now try out the new Bounty Mode! Select a mission and use the "Bounty Mode" Button.
+1389245417	Choose your characters. Locked ones are always required./n/nWarning:/n- May contain spoilers for characters you haven't met yet./n- Badges are disabled./n

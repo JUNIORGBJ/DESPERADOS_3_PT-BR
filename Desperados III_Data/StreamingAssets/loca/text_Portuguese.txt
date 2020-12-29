@@ -18162,3 +18162,9 @@ Portuguese	Português(BR)
 1939355848	Só uma pergunta. Você acha que ela ainda tem algumas dessas coisas?
 1659839101	PS: Lamento, mas não consigo ver o rosto do Doc agora.
 827557133	Continue de onde parou!/nVá para o menu Opções e digite este código com as teclas de seta em seu controle sem fio: <b><hotkey>"DIREITA, DIREITA, PARA CIMA e PARA BAIXO"</hotkey></b>
+1474137542	Modo Recompensa
+276761797	Modo Recompensa
+1874315388	O modo Recompensa não está disponível para esta missão.
+1085572211	Complete esta missão em qualquer dificuldade para desbloquear o modo Recompensa.
+628877491	Agora você pode experimentar o novo modo Recompensa! Selecione uma missão e use o botão "Modo Recompensa".
+1389245417	Escolha seus personagens. Os bloqueados são sempre necessários./n/nAtenção:/n- Pode conter spoilers de personagens que você ainda não conheceu./n- Os distintivos estão desativados./n

@@ -18147,3 +18147,9 @@ Portuguese	Portugiesisch(BR)
 1939355848	Aber eine Frage habe ich. Meinst du, sie hat immer noch etwas von dem Zeug?
 1659839101	PS: Ich würde jetzt zu gern Docs Gesicht sehen.
 827557133	Setze dein Abenteuer im Spiel fort, wo du jetzt aufgehört hast!/nUnter Optionen kannst du den folgenden Code mit den Richtungstasten deines Controllers eingeben: <b><hotkey>"RECHTS RECHTS RECHTS OBEN UNTEN"</hotkey></b>
+1474137542	Kopfgeldmodus
+276761797	Kopfgeldmodus
+1874315388	Der Kopfgeldmodus ist für diese Mission nicht verfügbar.
+1085572211	Schließe diese Mission in einem beliebigen Schwierigkeitsgrad ab, um den Kopfgeldmodus freizuschalten.
+628877491	Du kannst jetzt den neuen Kopfgeldmodus ausprobieren! Wähle eine Mission und dann „Kopfgeldmodus“ aus.
+1389245417	Wähle deine Charaktere aus. Gesperrte Charaktere werden immer benötigt./n/nWarnung:/n- Kann Spoiler für Charaktere enthalten, die du noch nicht getroffen hast./n- Abzeichen sind deaktiviert./n
