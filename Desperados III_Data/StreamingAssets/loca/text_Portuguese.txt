@@ -1426,7 +1426,7 @@ Portuguese	Português(BR)
 1198044642	Ordens do caralho.
 2056535846	Vamos atravessar.
 1294728632	Há um vigia, no penhasco.
-1530678151	Vou acerta-lo daqui.
+1530678151	Vou acertá-lo daqui.
 1457731169	Isso eu quero ver.
 2021481338	Não sei para onde foi, mas não era seu alvo.
 1212423052	Você não impressionou até agora, Sr. McCoy.
@@ -1435,7 +1435,7 @@ Portuguese	Português(BR)
 1669130534	Rifle de longo alcance. Coronha e projeteis personalizados.
 1272865861	Espero que não se importe, Sr. McCoy.
 1105231492	Bem. Eu economizo uma bala.
-1236950567	Vamos la.
+1236950567	Vamos lá.
 520419993	Meus dias de escalada ficaram para trás, Sr. Cooper.
 1671694831	Bem, vamos descobrir.
 1511114845	Eu ainda estou esperando aqui, Sr. Cooper!
