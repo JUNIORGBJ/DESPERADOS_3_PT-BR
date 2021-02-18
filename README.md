@@ -33,7 +33,6 @@ Se tiver alguma dúvida clique na imagem abaixo para abrir o vídeo tutorial
 [![Tradução PT-BR](https://i.imgur.com/XuY9dz5.png)](https://youtu.be/HY4SEPq1YUs "Tutorial de Instalação da Tradução")
 
 
-Assim que a tradução for finalizada criaremos um instalador para automatizar a instalação.
 
 
 ## Ferramentas Ultilizadas
