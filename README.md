@@ -22,7 +22,11 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-Se você desejar testar a tradução em jogo, será preciso colar e substituir as pastas ```keyboard``` e ```loca``` no caminho especificado abaixo:
+Baixe o instalador e siga as intruções de instalação.
+
+### Instalação Manual
+
+Será preciso colar e substituir as pastas ```keyboard``` e ```loca``` no caminho especificado abaixo:
 
 ```Desperados III_Data\StreamingAssets\loca```
 
@@ -40,6 +44,7 @@ Se tiver alguma dúvida clique na imagem abaixo para abrir o vídeo tutorial
 :link: [Visual Studio Code](https://code.visualstudio.com)
 :link: [Notepad++](https://notepad-plus-plus.org)
 :link: [Simple Text Splitter](https://sourceforge.net/projects/simpletextsplit/)
+:link: [Inno Setup](https://jrsoftware.org/isinfo.php)
 
 ## Doações
 
