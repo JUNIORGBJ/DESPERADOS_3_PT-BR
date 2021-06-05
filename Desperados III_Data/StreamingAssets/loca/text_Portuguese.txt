@@ -17715,7 +17715,7 @@ Portuguese	Português(BR)
 1416215396	Ok, então Doc está aí, certo.
 973304880	Como entramos?
 1919886351	Usaremos o canhão.
-689649012	Aquela coisa? Como você sabe que está carregado?!?
+689649012	Aquela coisa? Como você sabe que está carregado?
 2051422095	Há uma caixa de balas de canhão por aqui. Precisamos levá-las ao canhão e... BOOM!
 181343544	Ótimo... 
 1847643261	... mas e quanto a Kate e Isabelle?
@@ -17780,7 +17780,7 @@ Portuguese	Português(BR)
 710782591	Vamos, é aqui que eles mantêm Isabelle.
 632802077	Eu acredito que Isabelle está aqui.
 1754155855	Foi aqui que perdemos Isabelle.
-210140640	Ótimo plano de qualquer maneira, faça-a fazer o papel de bruxa.
+210140640	Grande plano, porém, faça-a desempenhar o papel de bruxa.
 1200044269	Heh, certo? Todo mundo aqui cagou nas calças.
 690977037	Oh, eu não duvido. Eu também ouvi que eles querem queimá-la na fogueira.
 1902961657	Tudo faz parte do plano, amigo.
@@ -17842,9 +17842,9 @@ Portuguese	Português(BR)
 915052492	Vejo uma caixa cheia de balas de canhão.
 950523744	O que há nessa caixa? São balas de canhão?
 1212330496	Ah, aqui está a caixa.
-1953364623	Parece pesado.
+1953364623	Parece pesada.
 496363256	Parece um trabalho para Hector.
-332860592	Bem, se você forçar suas costas, eu não vou te carregar.
+332860592	Bem, se você machucar suas costas, eu não vou te carregar.
 1324032653	Eh, cuidado, amigo.
 1430562165	Urgh... minhas costas.
 751822688	O que é que foi isso?
