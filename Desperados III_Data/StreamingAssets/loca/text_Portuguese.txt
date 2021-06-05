@@ -17199,10 +17199,10 @@ Portuguese	Português(BR)
 787239786	Arrancar a riqueza oculta de Vincent DeVitt debaixo do nariz de alguns saqueadores parecia fácil.
 1133525180	Acontece que seu irmão Magnus esvaziou o cofre muito antes de chegarmos.
 474428530	Para nossa sorte, sei onde encontrar Magnus DeVitt.
-532289047	Embora eu não tivesse planejado voltar para a Louisiana por algum tempo...
+532289047	Embora eu não tivesse planejado voltar para Louisiana por algum tempo...
 1324959016	Não me chateies! E não volte mais!
 2067274862	Sem sorte. Sem surpresa, o Sr. DeVitt não nos receberá.
-495576672	Aquele cara foi mal com você?! Eu vou torcer a cabeça dele!
+495576672	Aquele cara te tratou mal! Eu vou torcer a cabeça dele!
 1108652645	Relaxa, querida. Teremos apenas que recorrer ao Plano B.
 1190890082	Parece que você precisa de uma ajuda.
 1743621451	Belle!
@@ -17214,15 +17214,15 @@ Portuguese	Português(BR)
 1162802782	Isabelle, que bom ver você de novo.
 1076754197	É mesmo?
 663438587	Por favor, eu estava prestes a explicar o plano, se você não se importa.
-1866064282	Certamente.
+1866064282	Claro.
 1867019390	Certo, até onde eu sei, o Sr. DeVitt está atualmente no telhado de sua mansão.
 1756016296	Vá até lá e faça-o dizer onde está o dinheiro.
 287312234	Porém, um aviso. Você precisará de uma chave para subir lá. Você a encontrará no jardim.
 1489773450	Também deve haver um ou dois disfarces por perto, se você quiser usar um.
 1177045700	Bem informado, como sempre.
-645887104	Vejo? Eu disse que podemos contar com a minha Rosie!
+645887104	Visto? Eu sabia que podia contar com a minha Rosie!
 2073334627	Obrigado, Hector.
-705478934	Agora, estarei esperando aqui como de costume. Boa sorte.
+705478934	Agora, estarei esperando por aqui, como de costume. Boa sorte.
 1770418093	Luz do sol, você poderia me fazer um favor e ficar de olho no meu velho amigo aqui?
 257020204	Para sua própria segurança, é claro.
 1655882832	Claro.
