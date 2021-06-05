@@ -1,9 +1,8 @@
-[![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord)](https://discord.gg/HESMuU2)
-[![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=flat&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
+[![Discord](https://img.shields.io/discord/721047801957580821?color=blueviolet&label=Discord&style=for-the-badge)](https://discord.gg/HESMuU2)
+[![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-blue?style=for-the-badge&logo=Windows&logoColor=white)](https://github.com/JUNIORGBJ)
 
-## Ultimo lançamento
-Baixar Aqui >>>>>
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/DESPERADOS_3_PT-BR)](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR/releases/latest)<<<<<Baixar Aqui
+## Baixar
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/DESPERADOS_3_PT-BR?label=%20Lançamento&style=for-the-badge)](https://github.com/JUNIORGBJ/DESPERADOS_3_PT-BR/releases/latest)
 
 <h1 align="center"><figure>
   <img src="DesperadosIII.png">
@@ -22,7 +21,11 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-Se você desejar testar a tradução em jogo, será preciso colar e substituir as pastas ```keyboard``` e ```loca``` no caminho especificado abaixo:
+Baixe o instalador e siga as intruções de instalação.
+
+### Instalação Manual
+
+Será preciso colar e substituir as pastas ```keyboard``` e ```loca``` no caminho especificado abaixo:
 
 ```Desperados III_Data\StreamingAssets\loca```
 
@@ -33,7 +36,6 @@ Se tiver alguma dúvida clique na imagem abaixo para abrir o vídeo tutorial
 [![Tradução PT-BR](https://i.imgur.com/XuY9dz5.png)](https://youtu.be/HY4SEPq1YUs "Tutorial de Instalação da Tradução")
 
 
-Assim que a tradução for finalizada criaremos um instalador para automatizar a instalação.
 
 
 ## Ferramentas Ultilizadas
@@ -41,6 +43,7 @@ Assim que a tradução for finalizada criaremos um instalador para automatizar a
 :link: [Visual Studio Code](https://code.visualstudio.com)
 :link: [Notepad++](https://notepad-plus-plus.org)
 :link: [Simple Text Splitter](https://sourceforge.net/projects/simpletextsplit/)
+:link: [Inno Setup](https://jrsoftware.org/isinfo.php)
 
 ## Doações
 
