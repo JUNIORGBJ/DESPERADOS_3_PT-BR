@@ -31,13 +31,6 @@ Será preciso colar e substituir as pastas ```keyboard``` e ```loca``` no caminh
 
 ```Desperados III_Data\StreamingAssets\keyboard```
 
-Se tiver alguma dúvida clique na imagem abaixo para abrir o vídeo tutorial
-
-[![Tradução PT-BR](https://i.imgur.com/XuY9dz5.png)](https://youtu.be/HY4SEPq1YUs "Tutorial de Instalação da Tradução")
-
-
-
-
 ## Ferramentas Ultilizadas
 
 :link: [Visual Studio Code](https://code.visualstudio.com)
